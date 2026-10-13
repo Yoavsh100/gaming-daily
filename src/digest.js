@@ -20,7 +20,7 @@ const hours = flag > -1 ? Number(process.argv[flag + 1]) : now.getUTCDay() === 1
 
 const t0 = Date.now();
 const { items, status } = await collect({ hours });
-for (const s of status) console.log(`${s.ok ? '✓' : '✗'} ${s.source}: ${s.ok ? s.count : s.error}`);
+for (const s of status) console.log(`${s.ok ? '✓' : '✗'} ${s.source}: ${s.ok ? `${s.count}${s.via === 'direct' ? '' : ` via ${s.via}`}` : s.error}`);
 if (!items.length) throw new Error('No articles collected; not publishing an empty edition.');
 
 const [edition] = await Promise.all([classify(items), embedImages(items)]);

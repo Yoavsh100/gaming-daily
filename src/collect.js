@@ -101,17 +101,44 @@ export async function pool(items, size, fn) {
   await Promise.all(Array.from({ length: size }, async () => { while (queue.length) await fn(queue.shift()); }));
 }
 
+// Google News search for one outlet. Links are Google redirects to the article, and there is
+// no image or excerpt (the article page itself is what Cloudflare blocks).
+async function fromGoogleNews(src) {
+  const q = encodeURIComponent(`${src.gnews} when:3d`);
+  const doc = xml.parse(await get(`https://news.google.com/rss/search?q=${q}&hl=en-GB&gl=GB&ceid=GB:en`));
+  return arr(doc?.rss?.channel?.item).map((it) => ({
+    title: clean(text(it.title)).replace(/\s+-\s+[^-]+$/, ''), // drop the " - Outlet Name" suffix
+    url: text(it.link).trim(),
+    date: new Date(text(it.pubDate)),
+    excerpt: '',
+    image: undefined,
+    viaGoogle: true,
+  }));
+}
+
 const ADAPTERS = { rss: fromRss, sitemap: fromSitemap, wpjson: fromWpJson };
+
+async function fetchSource(src) {
+  try {
+    // FORCE_GNEWS=1 simulates the cloud's Cloudflare blocks when testing locally.
+    if (process.env.FORCE_GNEWS && src.gnews) throw new Error('forced');
+    return { items: await ADAPTERS[src.type](src), via: 'direct' };
+  } catch (err) {
+    if (!src.gnews) throw err;
+    return { items: await fromGoogleNews(src), via: `Google News (direct: ${err.message.split(' ')[0]})` };
+  }
+}
 
 export async function collect({ hours }) {
   const since = Date.now() - hours * 3600e3;
   const status = [];
   const batches = await Promise.all(SOURCES.map(async (src) => {
     try {
-      const items = (await ADAPTERS[src.type](src))
+      const { items: raw, via } = await fetchSource(src);
+      const items = raw
         .filter((i) => i.title && i.url && i.date.getTime() >= since)
         .map((i) => ({ ...i, source: src.id, sourceName: src.name, africaSource: !!src.africa }));
-      status.push({ source: src.name, ok: true, count: items.length });
+      status.push({ source: src.name, ok: true, count: items.length, via });
       return items;
     } catch (err) {
       status.push({ source: src.name, ok: false, count: 0, error: err.message });
@@ -128,6 +155,6 @@ export async function collect({ hours }) {
     return true;
   });
 
-  await pool(items.filter((i) => !i.image || !i.excerpt), 6, enrichFromPage);
+  await pool(items.filter((i) => (!i.image || !i.excerpt) && !i.viaGoogle), 6, enrichFromPage);
   return { items: items.sort((a, b) => b.date - a.date), status };
 }
