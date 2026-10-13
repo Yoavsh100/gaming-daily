@@ -1,0 +1,65 @@
+# Merlin: writes analyst reports for company results spotted by the daily edition
+# (reports/candidates.json on gh-pages) and publishes them to
+#   https://yoavsh100.github.io/gaming-daily/reports/<COMPANY-PERIOD>/
+# The next morning's edition shows them at the top of Quarterly Reports.
+# Run it by hand from the Actions tab to analyse any company and period.
+name: Merlin reports
+
+on:
+  schedule:
+    - cron: '0 13 * * 1-5' # 13:00 UTC, mid-afternoon in Cyprus
+  workflow_dispatch:
+    inputs:
+      company:
+        description: 'Company to analyse now (name or ticker), e.g. Flutter or ENT.L. Leave blank to work through the queue.'
+        required: false
+      period:
+        description: 'Reporting period, e.g. Q3 2026, H1 2026, FY 2025'
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gaming-daily
+  cancel-in-progress: false
+
+jobs:
+  reports:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Check out the published site
+        run: |
+          git fetch origin gh-pages
+          git worktree add site gh-pages
+
+      - name: Run Merlin
+        run: |
+          if [ -n "$COMPANY" ] && [ -n "$PERIOD" ]; then
+            node src/earnings/run.js --site site --company "$COMPANY" --period "$PERIOD"
+          else
+            node src/earnings/run.js --site site
+          fi
+        env:
+          GAMING_DAILY_API_KEY: ${{ secrets.GAMING_DAILY_API_KEY }}
+          COMPANY: ${{ inputs.company }}
+          PERIOD: ${{ inputs.period }}
+
+      - name: Publish reports
+        if: always()
+        run: |
+          cd site
+          git add -A
+          git -c user.name="gaming-daily-bot" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -m "Merlin reports $(date -u +%F)" || { echo "No changes"; exit 0; }
+          git push origin gh-pages

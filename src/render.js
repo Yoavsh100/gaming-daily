@@ -32,7 +32,24 @@ function card(story, now, extra) {
 </article>`;
 }
 
-export function render({ edition, items, status, now, hours }) {
+// Merlin's analyst reports, shown at the top of Quarterly Reports. Links are site-absolute
+// because editions live at both /<base>/ and /<base>/YYYY-MM-DD/.
+const SITE_BASE = process.env.ICEMAN_BASE || '/gaming-daily/';
+function reportCard(r) {
+  const href = `${SITE_BASE}reports/${encodeURIComponent(r.slug)}/`;
+  const search = [r.company.name, r.company.ticker, r.period, r.verdict].join(' ').toLowerCase();
+  const kpis = (r.kpis || []).slice(0, 3).map((k) =>
+    `<div><span class="kv">${esc(k.value)}</span><span class="kl">${esc(k.label)}</span><span class="kd ${k.dir}">${esc(k.delta)}</span></div>`).join('');
+  return `<article class="card rcard" data-text="${esc(search)}">
+  <p class="reye">Analyst report · ${esc(r.period)} · Confidence ${esc((r.confidence || '').toLowerCase())}</p>
+  <h3><a href="${href}">${esc(r.company.name)}</a></h3>
+  <p class="rverdict">${esc(r.verdict)}</p>
+  <div class="rkpis">${kpis}</div>
+  <p class="rlinks"><a href="${href}">Read the report</a><a href="${href}brief.pdf">CEO brief (PDF)</a></p>
+</article>`;
+}
+
+export function render({ edition, items, status, now, hours, reports = [] }) {
   const stories = edition.stories.map((s) => ({ ...s, articles: s.ids.map((id) => items[id]) }));
   const rank = (a, b) => b.importance - a.importance || b.articles.length - a.articles.length || b.articles[0].date - a.articles[0].date;
   const bySection = Object.fromEntries(SECTIONS.map((sec) => [sec.id, stories.filter((s) => s.section === sec.id).sort(rank)]));
@@ -43,9 +60,11 @@ export function render({ edition, items, status, now, hours }) {
 
   const sections = SECTIONS.map((sec) => {
     const list = bySection[sec.id];
+    const analyst = sec.id === 'quarterly' ? reports : [];
     const more = list.length > PER_SECTION ? `<a class="more" href="#${sec.id}" data-go="${sec.id}">See all ${list.length}</a>` : '';
     return `<section class="sec" data-sec="${sec.id}" aria-labelledby="h-${sec.id}">
-  <div class="sechead"><h2 id="h-${sec.id}"><span class="tag t-${sec.id}">${sec.label}</span></h2><span class="count">${list.length} ${list.length === 1 ? 'story' : 'stories'}</span>${more}</div>
+  <div class="sechead"><h2 id="h-${sec.id}"><span class="tag t-${sec.id}">${sec.label}</span></h2><span class="count">${analyst.length ? `${analyst.length} analyst ${analyst.length === 1 ? 'report' : 'reports'} · ` : ''}${list.length} ${list.length === 1 ? 'story' : 'stories'}</span>${more}</div>
+  ${analyst.length ? `<div class="reports">${analyst.map(reportCard).join('\n')}</div>` : ''}
   ${list.length ? `<div class="grid">${list.map((s, i) => card(s, now, i >= PER_SECTION)).join('\n')}</div>` : '<p class="none">No stories in this section today.</p>'}
   <p class="none nomatch" hidden>No stories here match your search.</p>
 </section>`;
@@ -174,6 +193,20 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
 .also a { text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 2px; }
 .also a:hover { color: var(--ink); }
 .none { color: var(--muted); margin: 0; }
+.reports { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; margin-bottom: 28px; }
+.rcard { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 18px 20px; gap: 10px; }
+.reye { margin: 0; font-size: 12px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--accent); }
+.rcard h3 { font-size: 20px; }
+.rverdict { margin: 0; font-size: 14px; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+.rkpis { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; border-top: 1px solid var(--line); padding-top: 12px; }
+.rkpis div { display: grid; gap: 2px; min-width: 0; }
+.kv { font: 800 17px/1.1 var(--display); font-variant-numeric: tabular-nums; }
+.kl { font-size: 11.5px; color: var(--muted); line-height: 1.3; }
+.kd { font-size: 12px; font-weight: 600; }
+.kd.up { color: var(--people-fg); } .kd.down { color: var(--africa-fg); } .kd.flat { color: var(--muted); }
+.rlinks { margin: 0; display: flex; gap: 18px; flex-wrap: wrap; font-weight: 600; font-size: 14px; }
+.rlinks a { color: var(--accent); }
+.rlinks a:hover { text-decoration: underline; }
 
 body[data-view="all"]:not(.searching) .card.extra { display: none; }
 body:not([data-view="all"]) .more { display: none; }

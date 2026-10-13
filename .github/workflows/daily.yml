@@ -1,8 +1,9 @@
-# Builds the Gaming Daily edition every weekday and publishes it to GitHub Pages
+# Builds the Iceman edition every weekday and publishes it to GitHub Pages
 # (served from the gh-pages branch):
 #   https://yoavsh100.github.io/gaming-daily/YYYY-MM-DD/   one permanent page per edition
 #   https://yoavsh100.github.io/gaming-daily/              always the latest edition
-name: Gaming Daily
+# Results stories it spots are queued in reports/candidates.json for the Merlin job.
+name: Iceman daily
 
 on:
   schedule:
@@ -10,7 +11,7 @@ on:
   workflow_dispatch: {}
   push:
     branches: [main]
-    paths: ['src/**', '.github/workflows/**']
+    paths: ['src/**', '.github/workflows/daily.yml']
 
 permissions:
   contents: write
@@ -32,20 +33,24 @@ jobs:
 
       - run: npm ci
 
-      - name: Build edition
-        run: node src/digest.js
-        env:
-          GAMING_DAILY_API_KEY: ${{ secrets.GAMING_DAILY_API_KEY }}
-
-      - name: Publish to gh-pages
+      - name: Check out the published site
         run: |
-          DAY=$(date -u +%F)
           if git ls-remote --exit-code --heads origin gh-pages >/dev/null; then
             git fetch origin gh-pages
             git worktree add site gh-pages
           else
             git worktree add --orphan -b gh-pages site
           fi
+
+      - name: Build edition
+        run: node src/digest.js
+        env:
+          GAMING_DAILY_API_KEY: ${{ secrets.GAMING_DAILY_API_KEY }}
+          ICEMAN_SITE: site
+
+      - name: Publish to gh-pages
+        run: |
+          DAY=$(date -u +%F)
           mkdir -p "site/$DAY"
           cp "out/gaming-daily-$DAY.html" "site/$DAY/index.html"
           cp "out/gaming-daily-$DAY.html" site/index.html
