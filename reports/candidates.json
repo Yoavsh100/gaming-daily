@@ -1,0 +1,31 @@
+[
+  {
+    "key": "ENT.L|Q3 2026",
+    "company": "Entain plc",
+    "ticker": "ENT.L",
+    "period": "Q3 2026",
+    "urls": [],
+    "seen": "2026-10-13"
+  },
+  {
+    "key": "betfred|FY26",
+    "company": "Betfred",
+    "ticker": null,
+    "period": "FY26",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/10/13/126811-betfred-posts-85-million-pretax-profit-as-uk-tax-hikes-prompt-shop-closures-and-sponsorship-cuts",
+      "https://www.gamingintelligence.com/finance/237176-betfred-posts-annual-turnover-of-995-6-million-in-fy26/"
+    ],
+    "seen": "2026-10-13"
+  },
+  {
+    "key": "singapore pools|FY26",
+    "company": "Singapore Pools",
+    "ticker": null,
+    "period": "FY26",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237128-singapore-pools-turnover-nears-s13-5-billion-in-fy26/"
+    ],
+    "seen": "2026-10-13"
+  }
+]
