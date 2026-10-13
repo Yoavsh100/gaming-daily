@@ -1,0 +1,58 @@
+# Builds the Gaming Daily edition every weekday and publishes it to GitHub Pages
+# (served from the gh-pages branch):
+#   https://yoavsh100.github.io/gaming-daily/YYYY-MM-DD/   one permanent page per edition
+#   https://yoavsh100.github.io/gaming-daily/              always the latest edition
+name: Gaming Daily
+
+on:
+  schedule:
+    - cron: '0 4 * * 1-5' # 04:00 UTC = 07:00 Cyprus in summer, 06:00 in winter (GitHub may start a little late)
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ['src/**', '.github/workflows/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gaming-daily
+  cancel-in-progress: false
+
+jobs:
+  edition:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build edition
+        run: node src/digest.js
+        env:
+          GAMING_DAILY_API_KEY: ${{ secrets.GAMING_DAILY_API_KEY }}
+
+      - name: Publish to gh-pages
+        run: |
+          DAY=$(date -u +%F)
+          if git ls-remote --exit-code --heads origin gh-pages >/dev/null; then
+            git fetch origin gh-pages
+            git worktree add site gh-pages
+          else
+            git worktree add --orphan -b gh-pages site
+          fi
+          mkdir -p "site/$DAY"
+          cp "out/gaming-daily-$DAY.html" "site/$DAY/index.html"
+          cp "out/gaming-daily-$DAY.html" site/index.html
+          touch site/.nojekyll
+          printf 'User-agent: *\nDisallow: /\n' > site/robots.txt
+          cd site
+          git add -A
+          git -c user.name="gaming-daily-bot" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -m "Edition $DAY" || { echo "No changes"; exit 0; }
+          git push origin gh-pages
