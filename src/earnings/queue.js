@@ -10,7 +10,10 @@ const KEEP_DAYS = 14; // candidates older than this are dropped unanalysed
 
 const COMPANY_NOISE = /\b(plc|inc|ltd|limited|group|holdings?|corporation|corp|co|ab|sa|se|nv|ag|spa|s\.p\.a|the)\b|[^a-z0-9 ]/g;
 const normName = (s = '') => s.toLowerCase().replace(/&/g, ' and ').replace(COMPANY_NOISE, ' ').replace(/\s+/g, ' ').trim();
-const normPeriod = (s = '') => s.toUpperCase().replace(/\s+/g, ' ').replace(/^(Q[1-4]|H[12]|FY)\s*(\d{4})$/, '$1 $2').trim();
+// "FY26", "FY2026", "FY 2025-26" and "FY 2025/26" are one period, named by the year it ends.
+const normPeriod = (s = '') => s.toUpperCase().replace(/\s+/g, ' ').trim()
+  .replace(/^FY ?(?:\d{2,4} ?[-/] ?)?(\d{4}|\d{2})$/, (_, y) => `FY ${y.length === 2 ? `20${y}` : y}`)
+  .replace(/^(Q[1-4]|H[12]) ?(\d{4})$/, '$1 $2');
 
 // A watchlist entry only when the match is unambiguous (exact ticker, alias or name),
 // so "evoke" never resolves to Evolution through a substring.
