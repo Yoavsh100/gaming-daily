@@ -41,7 +41,9 @@ export async function classify(items) {
     `[${id}] (${it.sourceName}${it.africaSource ? ', Africa-focused outlet' : ''}) ${it.title}\n${it.excerpt.slice(0, 350)}`).join('\n\n');
 
   try {
-    const client = new Anthropic();
+    // Cloud environments reserve ANTHROPIC_API_KEY for their own login, so the cloud job
+    // passes the key as GAMING_DAILY_API_KEY. Locally the shared .env key works as before.
+    const client = new Anthropic({ apiKey: process.env.GAMING_DAILY_API_KEY || process.env.ANTHROPIC_API_KEY });
     const res = await client.messages.parse({
       model: MODEL,
       max_tokens: 16000,
