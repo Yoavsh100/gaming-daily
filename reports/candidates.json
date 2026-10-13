@@ -4,7 +4,10 @@
     "company": "Entain plc",
     "ticker": "ENT.L",
     "period": "Q3 2026",
-    "urls": [],
+    "urls": [
+      "https://next.io/news/results/betmgm-q3-2026-revenue-rise/",
+      "https://sbcnews.co.uk/sportsbook/2026/10/13/betmgm-us-revenue-entain/"
+    ],
     "seen": "2026-10-13"
   },
   {
@@ -25,6 +28,18 @@
     "period": "FY26",
     "urls": [
       "https://www.gamingintelligence.com/finance/237128-singapore-pools-turnover-nears-s13-5-billion-in-fy26/"
+    ],
+    "seen": "2026-10-13"
+  },
+  {
+    "key": "betfred|FY 2025-26",
+    "company": "Betfred",
+    "ticker": null,
+    "period": "FY 2025-26",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/10/13/126811-betfred-posts-85-million-pretax-profit-as-uk-tax-hikes-prompt-shop-closures-and-sponsorship-cuts",
+      "https://www.gamingintelligence.com/finance/237176-betfred-posts-annual-turnover-of-995-6-million-in-fy26/",
+      "https://focusgn.com/betfred-reports-strong-results-while-retail-betting-remains-biggest-contributor"
     ],
     "seen": "2026-10-13"
   }

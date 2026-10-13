@@ -1,0 +1,114 @@
+[
+  {
+    "key": "FLUT|Q2 2026",
+    "attempts": 1,
+    "status": "done",
+    "error": null,
+    "slug": "FLUT-Q2-2026",
+    "published": "2026-10-13",
+    "company": {
+      "name": "Flutter Entertainment plc",
+      "ticker": "FLUT",
+      "exchange": "NYSE / LSE"
+    },
+    "period": "Q2 2026",
+    "verdict": "A headline beat with a hollow core: revenue +3% and adj. EBITDA $508m landed above consensus, but the fourth consecutive guidance cut (FY26 adj. EBITDA to $2.655bn, -7% YoY) is entirely a US decision to spend ~$270m more on generosity in H2, taken on the day the CEO announced his exit. International is doing its job (+4% organic, SEA +18%) while absorbing the UK duty step-up; the US is being re-based for a second time in nine months, leverage is 4.3x and the proof point is now Q4 (US EBITDA ~$500m vs ~$700m previously).",
+    "kpis": [
+      {
+        "label": "Group revenue (Q2)",
+        "value": "$4,326m",
+        "delta": "+3% YoY (+2% CC); +1% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA (Q2)",
+        "value": "$508m",
+        "delta": "-45% YoY; margin 11.7% (-1,020bps)",
+        "dir": "down"
+      },
+      {
+        "label": "GAAP net (loss)/income",
+        "value": "$(296)m",
+        "delta": "vs +$37m Q2-25; EPS $(1.57)",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EPS (Q2)",
+        "value": "$0.49",
+        "delta": "-83% YoY (Q2-25: $2.95)",
+        "dir": "down"
+      },
+      {
+        "label": "Leverage (net debt/LTM adj. EBITDA)",
+        "value": "4.3x",
+        "delta": "vs 3.7x Dec-25; net debt $10.48bn",
+        "dir": "up"
+      },
+      {
+        "label": "FY26 adj. EBITDA guide (mid)",
+        "value": "$2.655bn",
+        "delta": "-$210m vs May; -7% YoY",
+        "dir": "down"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "5 Aug 2026",
+    "model": "claude-fable-5-1"
+  },
+  {
+    "key": "EVO.ST|Q2 2026",
+    "attempts": 1,
+    "status": "done",
+    "error": null,
+    "slug": "EVO-ST-Q2-2026",
+    "published": "2026-10-13",
+    "company": {
+      "name": "Evolution AB",
+      "ticker": "EVO.ST",
+      "exchange": "Nasdaq Stockholm"
+    },
+    "period": "Q2 2026",
+    "verdict": "An in-line, marginally light quarter that confirms the new shape of Evolution: a ~66%-margin cash machine whose growth now comes from the Americas and RNG, while Europe stabilises and Asia (37% of end-player revenue) stays hostage to content piracy. Net revenue fell 1.2% to EUR 517.8m (+2.4% constant currency) and EBITDA fell 1.2% to EUR 341.0m at a flat 65.9% margin; EPS still rose 4.7% because the EUR 2bn buyback and a financial-items swing did the work. Until Asia and Europe both grow, the equity case is capital return plus product optionality rather than compounding growth.",
+    "kpis": [
+      {
+        "label": "Net revenue",
+        "value": "EUR 517.8m",
+        "delta": "-1.2% YoY / +0.9% QoQ (+2.4% cc)",
+        "dir": "down"
+      },
+      {
+        "label": "EBITDA (= adj. EBITDA)",
+        "value": "EUR 341.0m",
+        "delta": "-1.2% YoY / +1.7% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "EBITDA margin",
+        "value": "65.9%",
+        "delta": "flat YoY / +50bps QoQ",
+        "dir": "flat"
+      },
+      {
+        "label": "Profit for the period",
+        "value": "EUR 251.4m",
+        "delta": "+1.3% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "EPS (basic = diluted)",
+        "value": "EUR 1.27",
+        "delta": "+4.7% YoY (share count -3.3%)",
+        "dir": "up"
+      },
+      {
+        "label": "Operating cash flow",
+        "value": "EUR 293.0m",
+        "delta": "+30.0% YoY; cash EUR 1,153.5m, no financial debt",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "17 Jul 2026",
+    "model": "claude-fable-5-1"
+  }
+]

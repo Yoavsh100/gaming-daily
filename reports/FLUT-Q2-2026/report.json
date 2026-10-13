@@ -1,0 +1,1250 @@
+{
+  "company": {
+    "name": "Flutter Entertainment plc",
+    "ticker": "FLUT",
+    "exchange": "NYSE / LSE"
+  },
+  "period": "Q2 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 3596719,
+    "output": 56797,
+    "searches": 8,
+    "fetches": 10
+  },
+  "prepared": "13 Oct 2026",
+  "report": {
+    "releaseDate": "5 Aug 2026",
+    "currency": "USD (tables in $ millions unless stated)",
+    "verdict": "A headline beat with a hollow core: revenue +3% and adj. EBITDA $508m landed above consensus, but the fourth consecutive guidance cut (FY26 adj. EBITDA to $2.655bn, -7% YoY) is entirely a US decision to spend ~$270m more on generosity in H2, taken on the day the CEO announced his exit. International is doing its job (+4% organic, SEA +18%) while absorbing the UK duty step-up; the US is being re-based for a second time in nine months, leverage is 4.3x and the proof point is now Q4 (US EBITDA ~$500m vs ~$700m previously).",
+    "kpis": [
+      {
+        "label": "Group revenue (Q2)",
+        "value": "$4,326m",
+        "delta": "+3% YoY (+2% CC); +1% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA (Q2)",
+        "value": "$508m",
+        "delta": "-45% YoY; margin 11.7% (-1,020bps)",
+        "dir": "down"
+      },
+      {
+        "label": "GAAP net (loss)/income",
+        "value": "$(296)m",
+        "delta": "vs +$37m Q2-25; EPS $(1.57)",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EPS (Q2)",
+        "value": "$0.49",
+        "delta": "-83% YoY (Q2-25: $2.95)",
+        "dir": "down"
+      },
+      {
+        "label": "Leverage (net debt/LTM adj. EBITDA)",
+        "value": "4.3x",
+        "delta": "vs 3.7x Dec-25; net debt $10.48bn",
+        "dir": "up"
+      },
+      {
+        "label": "FY26 adj. EBITDA guide (mid)",
+        "value": "$2.655bn",
+        "delta": "-$210m vs May; -7% YoY",
+        "dir": "down"
+      }
+    ],
+    "summary": [
+      "**Headline beat, poor quality.** Q2 revenue $4,326m (+3% reported, +2% CC) and adj. EBITDA $508m (-45%) were ahead of consensus (secondary tallies: revenue c.$4.24-4.26bn, adj. EBITDA c.$485m) and $16m/$15m ahead of the company's own US guidance. But adj. EBITDA margin fell 1,020bps to 11.7%, GAAP operating profit swung to a $(144)m loss (Q2-25: +$389m) and the Group posted a $(296)m net loss vs +$37m. Adj. EPS of $0.49 (-83%) screened as a beat or a miss depending on provider ($0.39-0.55) — consensus was not well formed.",
+      "**Fourth consecutive guidance cut, 100% US.** FY26 Group revenue midpoint cut $395m to $17.91bn (+9% YoY) and adj. EBITDA cut $210m to $2.655bn (-7% YoY, i.e. profit now falls in 2026). International is unchanged at $10.51bn/$2.205bn (Q2 beat offset by FX). US midpoint goes to $7.4bn revenue (from $7.795bn) and $760m adj. EBITDA (from $970m; from $1.05bn in February) — now -18% YoY versus +5% guided in May.",
+      "**The cut is a choice, not a miss.** US EBITDA bridge: +$15m Q2 beat, +$50m market-making, +$45m operating cost savings, -$50m from the confirmed one-week NFL delay (Q3 only), -$270m 'net investment to strengthen the proposition and accelerate sportsbook momentum' (revenue -$385m). H2 promotional spend will run 'closer to 6%' of handle (H2-25: 5.6%) versus a previously assumed decline as the Rewards Club matured. Management has explicitly moved the US objective from margin growth to AMP and ARPU growth into 2027.",
+      "**CEO transition.** Peter Jackson steps down after ~nine years; Dan Taylor (President since May, formerly CEO International) becomes CEO on 1 Oct 2026, with Christian Genetski running FanDuel. This is the third leadership change in two quarters. Continuity of strategy was promised on the call; the new CEO nonetheless owns the November cost-program detail and the 2027 US investment decision.",
+      "**US sportsbook: volume ok, price down.** Handle +2% to $11.96bn on sportsbook AMPs +8%, but net revenue margin -170bps to 8.7%: structural margin +40bps to 14.0% (World Cup SGP penetration), sports results a -70bps YoY swing (in-quarter net revenue ~$21m unfavourable vs $90m favourable in Q2-25), and promo +140bps to 5.4% of handle. Sportsbook revenue -15% to $1,039m; management quantifies the results swing at 6pp of US growth.",
+      "**US iGaming is the bright spot.** Revenue +14% to $577m, iGaming AMPs +14%, direct-casino AMPs +26%; GGR share 27% (28% incl. PokerStars US). High-teens FY26 growth reiterated with H2 > H1 on monthly exclusive content and better-than-expected World Cup cross-sell. Alberta (July) is outpacing the Ontario launch.",
+      "**Market position held, market growth not.** FanDuel remains #1 in US OSB (39% GGR share) and iGaming (27%), both flat on Q1. Management estimates the US OSB market grew only ~5% in H1 and assumes the same in H2 — the Q4-25 churn has not reversed; FanDuel is buying reactivation in a flat-ish market.",
+      "**World Cup engagement.** ~10.5m customers engaged group-wide; FanDuel 2.3m, a third of them reactivations; June and July were FanDuel's highest-ever active months; NBA Finals handle ~+40% per game, actives +25%; a record MLB week in late July. No comparable prior-tournament disclosure (2022 pre-dated US scale), so incremental revenue is not sizeable from the release. Early Q3 trading is 'ahead of expectations' on knockout-stage engagement and slightly favourable results.",
+      "**International solid but tax-hit.** Revenue +10% to $2,643m (+7% CC, +4% organic); adj. EBITDA -19% to $476m (-21% CC, -22% organic), margin -670bps to 18.0%, driven by UK remote gaming duty 21%→40% (effective April; FY26 impact $320m, $85m first-order mitigation) and World Cup marketing. SEA +36% (+18% organic) is the engine; UKI +4%; CEE +23%; Brazil organic -14%; Other regions -38%.",
+      "**Cost transformation phase 2.** $500m gross opex and capex savings by 2029, on top of phase 1 (>$300m by 2027, 'ahead of expectations') and ~$200m of UK-tax mitigation savings in 2027; Snai/Betnacional/PokerStars integration to reach $300m annualised run-rate savings by YE26. Cost to achieve guided below 1:1 with $100m in 2026 SDI and more in 2027-28; detail deferred to Q3 in November. Management frames the savings as offsetting inflation and known tax increases and funding reinvestment — i.e. not a margin-expansion program.",
+      "**Below-the-line noise.** $95m legal loss contingencies (India GST provision $62m post Supreme Court ruling; US sales-and-use tax accrual $33m), interest expense +$52m to $162m (Snai/Betnacional financing and Boyd 5% FanDuel buyout), D&A +$30m to $399m, partly offset by a $40m Fox Option fair-value gain (Q2-25: -$81m loss) and a $171m lower tax charge. NCI swung to a $24m credit. Transaction/restructuring/integration cost guidance raised $200m to ~$500m.",
+      "**Leverage 4.3x (3.7x at Dec-25)** despite net debt falling $111m to $10,480m — the move is entirely the LTM EBITDA denominator (~$2.44bn). Available cash ~$1.6bn (Dec-25: $1.8bn); total debt $11,978m after RCF repayment. Management expects H2 cash generation to cut leverage by YE26; our estimate is ~3.8-3.9x, still above Dec-25 and far from the 2.0-2.5x target. $250m H1 buyback completed 11 May (2.4m shares; $1.37bn cumulative since Q4-24); no new tranche.",
+      "**Cash flow quality is weak.** OCF $363m (+1%) was propped by a $328m 'other liabilities' inflow (UK duty accrual, tax provisions) and a positive player-deposit swing; free cash flow incl. financing capex and ex player funds fell 56% to $125m (H1: $248m, -52%). Interest paid $228m (+$102m). Capex guidance trimmed $40m to $815m and D&A ex acquired intangibles to $730m.",
+      "**Prediction markets re-plumbed.** FanDuel Predicts sports/novelty contracts move from CME to Crypto.com (CME retained for financials; 'modest' economic benefit), with a nationwide 'One App' and portable positions before NFL. H2 Predicts gross revenue will be absorbed by CAC and the investment line is no longer disclosed separately (May guidance carried ~$(300)m). Market-making delivered $6m in Q2 and is guided to ~$50m for FY26 at high margin. Cannibalisation of regulated-state customers described as low single-digit.",
+      "**Regulation and tax.** UK RGD at 40%; North Carolina OSB tax lifted to 23% with 6% on prediction markets; Brazil self-exclusion register slowing the market; India exit removed 2.5m AMPs (17pp drag on Group AMPs, 21pp on International). Management hopes for one new US iGaming state by end-2027 (Virginia furthest advanced); Supreme Court resolution on prediction markets pending.",
+      "**Governance housekeeping.** LSE secondary listing cancellation completed 3 Aug 2026 (NYSE sole listing — the 'LSE' ticker in coverage notes is now historical). Company disclosed an immaterial error in prior constant-currency calculations (regional growth rates restated in the KPI pack). Risk-factor language continues to reference remediation of material weaknesses in ICFR.",
+      "**Phasing into H2.** US: ~20% of FY revenue in Q3 (~$1.5bn) with EBITDA ~breakeven; Q4 US EBITDA ~$500m vs ~$700m before. International: ~24% of FY revenue (~$2.5bn) and ~23% of EBITDA (~$507m) in Q3. Implied Group Q3 adj. EBITDA ~$430m and Q4 ~$1.08bn [derived] — Q4 carries ~41% of the year.",
+      "**Thesis read-through.** The International cash engine is absorbing a permanent UK tax step-up while the US growth engine is re-based for a second time; FY26 Group EBITDA falls YoY for the first time since the FanDuel ramp. The bull case is that ~6% promo intensity with a universal loyalty program converts World Cup reactivations into 2027 AMP/ARPU growth under a new CEO; the bear case is that promo intensity is structural in a ~5%-growth market with prediction markets nibbling at the edge. Shares fell 11.5% to $92.91, a whisker above the 52-week low."
+    ],
+    "groupTable": {
+      "note": "US $m (Q2-26 vs Q1-26 QoQ, vs Q2-25 YoY; H1 = Q1+Q2)",
+      "columns": [
+        "Q2-26",
+        "QoQ",
+        "YoY",
+        "H1-26",
+        "H1 YoY"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by segment",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "US (FanDuel)",
+          "indent": true,
+          "cells": [
+            "1,683",
+            "-5%",
+            "-6%",
+            "3,446",
+            "0%"
+          ]
+        },
+        {
+          "label": "International",
+          "indent": true,
+          "cells": [
+            "2,643",
+            "+4%",
+            "+10% (+7% CC, +4% org.)",
+            "5,184",
+            "+18%"
+          ]
+        },
+        {
+          "label": "Group revenue",
+          "kind": "emphasis",
+          "cells": [
+            "4,326",
+            "+1%",
+            "+3% (+2% CC)",
+            "8,630",
+            "+10%"
+          ]
+        },
+        {
+          "label": "Revenue by product",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Sportsbook",
+          "indent": true,
+          "cells": [
+            "2,229",
+            "0%",
+            "-1%",
+            "4,450",
+            "+4%"
+          ]
+        },
+        {
+          "label": "iGaming",
+          "indent": true,
+          "cells": [
+            "1,935",
+            "-1%",
+            "+9%",
+            "3,885",
+            "+18%"
+          ]
+        },
+        {
+          "label": "Other",
+          "indent": true,
+          "cells": [
+            "162",
+            "+22%",
+            "+7%",
+            "295",
+            "+5%"
+          ]
+        },
+        {
+          "label": "Adjusted EBITDA (non-GAAP)",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "US",
+          "indent": true,
+          "cells": [
+            "119",
+            "flat",
+            "-70%",
+            "238",
+            "-58%"
+          ]
+        },
+        {
+          "label": "International",
+          "indent": true,
+          "cells": [
+            "476",
+            "-19%",
+            "-19% (-22% org.)",
+            "1,063",
+            "-4%"
+          ]
+        },
+        {
+          "label": "Unallocated corporate",
+          "indent": true,
+          "cells": [
+            "(87)",
+            "+16%",
+            "+21% (+16% CC)",
+            "(162)",
+            "+20%"
+          ]
+        },
+        {
+          "label": "Group adj. EBITDA",
+          "kind": "emphasis",
+          "cells": [
+            "508",
+            "-19%",
+            "-45%",
+            "1,139",
+            "-26%"
+          ]
+        },
+        {
+          "label": "Adj. EBITDA margin",
+          "indent": true,
+          "cells": [
+            "11.7%",
+            "-300bps",
+            "-1,020bps",
+            "13.2%",
+            "-630bps"
+          ]
+        },
+        {
+          "label": "GAAP",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Operating (loss)/profit",
+          "indent": true,
+          "cells": [
+            "(144)",
+            "n/a",
+            "vs +389",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Net (loss)/income",
+          "indent": true,
+          "cells": [
+            "(296)",
+            "vs +209",
+            "vs +37",
+            "(87)",
+            "vs +372"
+          ]
+        },
+        {
+          "label": "Diluted EPS ($)",
+          "indent": true,
+          "cells": [
+            "(1.57)",
+            "vs 1.23",
+            "vs 0.59",
+            "≈(0.32) [derived]",
+            "vs 2.16 (sum of qtrs)"
+          ],
+          "footnote": "H1-26 EPS derived from attributable net income (Q1 +$218m, Q2 -$274m) over ~176m weighted shares; 10-Q H1 figure not independently read."
+        },
+        {
+          "label": "Adjusted EPS ($, non-GAAP)",
+          "indent": true,
+          "cells": [
+            "0.49",
+            "-60%",
+            "-83%",
+            "1.71 (sum of qtrs)",
+            "-62%"
+          ]
+        },
+        {
+          "label": "KPIs",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Average monthly players ('000)",
+          "indent": true,
+          "cells": [
+            "14,287",
+            "-1%",
+            "-11% (17pp India exit)",
+            "14,332 (avg)",
+            "-7%"
+          ]
+        },
+        {
+          "label": "Sportsbook handle",
+          "indent": true,
+          "cells": [
+            "20,977",
+            "-6%",
+            "+7%",
+            "43,369",
+            "+5%"
+          ]
+        },
+        {
+          "label": "Group net revenue margin",
+          "indent": true,
+          "cells": [
+            "10.6%",
+            "+70bps",
+            "-90bps",
+            "10.3%",
+            "-10bps"
+          ]
+        },
+        {
+          "label": "Cost of sales % revenue",
+          "indent": true,
+          "cells": [
+            "60.4%",
+            "n/a",
+            "+720bps",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Sales & marketing % revenue",
+          "indent": true,
+          "cells": [
+            "23.4%",
+            "n/a",
+            "+460bps",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Cash flow & balance sheet",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Net cash from operations",
+          "indent": true,
+          "cells": [
+            "363",
+            "+10%",
+            "+1%",
+            "693",
+            "+27%"
+          ]
+        },
+        {
+          "label": "Free cash flow (OCF - capex)",
+          "indent": true,
+          "cells": [
+            "189",
+            "+24%",
+            "+21%",
+            "342",
+            "+40%"
+          ]
+        },
+        {
+          "label": "FCF incl. financing capex, ex player funds",
+          "indent": true,
+          "cells": [
+            "125",
+            "+2%",
+            "-56%",
+            "248",
+            "-52%"
+          ]
+        },
+        {
+          "label": "Cash & equivalents (ex player funds)",
+          "indent": true,
+          "cells": [
+            "1,563",
+            "vs ~1,500",
+            "vs 1,691",
+            "—",
+            "Dec-25: 1,828"
+          ]
+        },
+        {
+          "label": "Net debt",
+          "indent": true,
+          "cells": [
+            "10,480",
+            "vs 10,575",
+            "n/a",
+            "—",
+            "Dec-25: 10,591"
+          ]
+        },
+        {
+          "label": "Leverage (net debt / LTM adj. EBITDA)",
+          "kind": "emphasis",
+          "cells": [
+            "4.3x",
+            "vs 3.7x",
+            "n/a",
+            "—",
+            "Dec-25: 3.7x"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "US (FanDuel)",
+        "headline": "Share held at #1 (39% OSB / 27% iGaming) but sportsbook revenue -15% on margin, promo stepped up to 5.4% of handle and heading to ~6%; FY26 US EBITDA guide cut 22% to $760m as a deliberate reinvestment.",
+        "narrative": [
+          "They retained their #1 positions in US online sportsbook and iGaming, with GGR market shares of 39% and 27% respectively (28% in iGaming including PokerStars US, now run inside FanDuel), both unchanged on Q1. Segment revenue fell 6% to $1,683m (-5% QoQ), with AMPs 9% higher at 3.84m but down 10% sequentially as the basketball season wound down without NFL to replace it; derived monthly ARPU was ~$146, 14% lower year-on-year though 6% above Q1. Management quantified the adverse year-on-year swing in sports results at 6 percentage points of growth, the Knicks' June title run being the main culprit, and said that adjusting for results and marquee events the sportsbook was 'broadly in line' with plan, with AMPs, handle and revenue ex-results all improving sequentially. The quarter was $16m of revenue and $15m of EBITDA ahead of the company's own guidance. Mix continues to pivot: sportsbook was 62% of segment revenue against 68% a year ago.",
+          "Sportsbook handle rose 2% to $11.96bn on sportsbook AMPs +8%, but revenue dropped 15% to $1,039m (-9% QoQ) as net revenue margin fell 170bps to 8.7% (Q1: 8.6%). The composition is the important part. Structural revenue margin rose 40bps to 14.0% (Q1: 13.7%) on high Same Game Parlay penetration during the World Cup, which keeps the 15% (2027) and 16% (long-term) targets credible. Sports results were 10bps favourable at gross level against 80bps favourable last year, but because generosity is calibrated to results the in-quarter net revenue effect was ~$21m unfavourable (Q2-25: ~$90m favourable; Q1-26: ~$33m unfavourable), costing ~$11m of EBITDA. Promotional spend rose 140bps to 5.4% of handle (Q1: 4.9%) on the Arkansas launch (March) and World Cup investment. On the call the CFO said H2 generosity would run 'closer to 6%' of handle — above the 5.6% of H2-25 and above the declining profile previously assumed as the Rewards Club bedded in — and described it as a 'deliberate investment decision' with 'excellent' paybacks. This is the single biggest change in the US model and it is management-initiated, which cuts both ways: it can be dialled back, but it also says the prior margin trajectory was not deliverable at the targeted customer growth.",
+          "iGaming revenue grew 14% to $577m (+2% QoQ; H1 $1,141m, +17%) on a 14% rise in iGaming AMPs, with direct-casino AMPs up 26%. Slots and direct acquisition are driving growth while table games remain held back by cross-sell from a smaller sportsbook base. Management reiterated high-teens FY26 iGaming growth with H2 stronger than H1, citing monthly exclusive content launches (Love Island: Unlocked, Monopoly Live, Huff N' Puff and Willy Wonka franchise repeats), cross-sell actives during the World Cup that were ahead of plan, and an expectation that Q4 cross-sell will be better than last year's execution-impaired Q4. Alberta launched in July and is said to be 'significantly' outpacing the Ontario launch. Note that iGaming attracts a higher cost-of-sales rate than sportsbook, so the mix shift is a gross-margin headwind even as it diversifies and stabilises revenue.",
+          "Cost of sales rose 510bps to 59.1% of revenue (Q1: 59.2%; Q2-25: 54.0%; H1 59.1% vs 55.7%), driven by state tax increases (Q1 disclosure put these at ~220bps), higher generosity netted against revenue, the results hit to revenue and iGaming mix, partly offset by market-access savings and renegotiated commercial agreements. Sales and marketing jumped 61% to $353m, 21.0% of revenue (Q2-25: 12.2%; Q1-26: 21.5%), on World Cup and FanDuel Predicts spend; H1 S&M was $732m, 21.2% of revenue versus 17.2% a year ago. Technology/R&D rose 27% to $109m and G&A fell 9% to $107m on Q1/Q2 phasing; the combined increase reflects headcount, server and cloud costs and prediction-market build-out. Adj. EBITDA was $119m (-70%, flat QoQ), a 7.1% margin (-1,520bps); H1 adj. EBITDA was $238m (-58%), a 6.9% margin. Management now has $45m of additional US operating cost savings in H2 guidance.",
+          "Engagement around marquee content was genuinely strong. FanDuel engaged 2.3m customers in the World Cup, a third of them reactivations, with SuperSub (Flutter Edge soccer product) and BetProtect+ (injury protection) the cited differentiators; NBA Finals handle was ~40% higher per game year-on-year with actives +25%; June and July were the highest-active months in FanDuel's history and management cited a record MLB week in late July. The Rewards Club loyalty program reached 70% of the base by quarter-end — 82% of surveyed customers say it improved their experience and more than half say it lifted activity — and will be universal by NFL kick-off, with college football the week before used to 'prime wallets'. The counterpoint is management's own estimate that the US OSB market grew only ~5% in H1, its assumption that H2 will be no better, and its acknowledgement that the Q4-25 'customer-losing weeks' churn has not reversed. FanDuel is buying reactivation and share in a market that is not yet growing, and the ROI case rests on 2027 ARPU rather than 2026 revenue.",
+          "FanDuel Predicts' Q2 revenue was 'not material'. Sports and novelty contracts are migrating from CME to Crypto.com (CME retained for financial contracts), a change management describes as a 'modest' economic positive and, more importantly, a step-change in catalogue ahead of NFL; a nationwide 'One App' with portable positions (separate wallets, open in California, close in New York) launches before the season. Predicts investment is no longer broken out (May guidance carried ~$(300)m of Predicts EBITDA drag plus ~$(105)m for new states) and H2 gross revenue is expected to be absorbed by acquisition spend before 'increasing in 2027'. Market-making — providing liquidity for combination markets across third-party exchanges — generated $6m in Q2 and is guided to ~$50m for FY26, which management characterises as high-margin and scalable at low incremental investment. Cannibalisation of regulated-state customers is 'low single-digit'. With North Carolina lifting OSB tax to 23% and applying 6% to prediction markets, and Supreme Court resolution pending, we treat the $50m as credible but early; the loss of separate Predicts disclosure is a step back in transparency.",
+          "FY26 US guidance is now $7.4bn revenue (+6% YoY) and $760m adj. EBITDA (-18%), with ~20% of revenue (~$1.5bn) in Q3 and Q3 EBITDA 'approximately breakeven'; Q4 EBITDA is ~$500m versus ~$700m in the prior plan. The bridge from $970m: +$15m Q2 beat, +$50m market-making, +$45m opex savings, -$50m NFL one-week delay (Q3 only, a calendar effect not an investment change), -$270m net investment. Implied H2 revenue is ~$3.95bn (H1: $3.45bn) and H2 EBITDA ~$522m [derived]. The 'measured view of current market trends' appears to be embedded within the investment line rather than a separate haircut, leaving limited explicit cushion for a repeat of last year's customer-friendly NFL results. The test management has set itself is 'a bigger business with a better trajectory' entering 2027; the test the market will apply is Q4 EBITDA against $500m."
+        ],
+        "table": {
+          "note": "US $m",
+          "columns": [
+            "Q2-26",
+            "QoQ",
+            "YoY",
+            "H1-26",
+            "H1 YoY"
+          ],
+          "rows": [
+            {
+              "label": "Average monthly players ('000)",
+              "cells": [
+                "3,843",
+                "-10%",
+                "+9%",
+                "4,055 (avg)",
+                "+4%"
+              ]
+            },
+            {
+              "label": "Sportsbook AMPs",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/a",
+                "+8%",
+                "n/d",
+                "n/a"
+              ]
+            },
+            {
+              "label": "iGaming AMPs (direct casino)",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/a",
+                "+14% (+26%)",
+                "n/d",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Derived monthly ARPU ($)",
+              "indent": true,
+              "cells": [
+                "146",
+                "+6%",
+                "-14%",
+                "142",
+                "-4%"
+              ],
+              "footnote": "ARPU = revenue / AMPs / 3; derived, not company-disclosed."
+            },
+            {
+              "label": "Sportsbook",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Handle",
+              "indent": true,
+              "cells": [
+                "11,958",
+                "-10%",
+                "+2%",
+                "25,315",
+                "-4%"
+              ]
+            },
+            {
+              "label": "Net revenue margin",
+              "indent": true,
+              "cells": [
+                "8.7%",
+                "+10bps",
+                "-170bps",
+                "8.6%",
+                "-30bps"
+              ]
+            },
+            {
+              "label": "Structural revenue margin",
+              "indent": true,
+              "cells": [
+                "14.0%",
+                "+30bps",
+                "+40bps",
+                "n/d",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Sports results (gross margin impact)",
+              "indent": true,
+              "cells": [
+                "+10bps fav.",
+                "vs -30bps",
+                "vs +80bps fav.",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Sports results (in-quarter net revenue / EBITDA $)",
+              "indent": true,
+              "cells": [
+                "(21) / (11)",
+                "vs (33) / (22)",
+                "vs +90 / n/d",
+                "(54) / (33)",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Promotional spend % handle",
+              "indent": true,
+              "cells": [
+                "5.4%",
+                "+50bps",
+                "+140bps",
+                "n/d",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Revenue",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Sportsbook revenue",
+              "indent": true,
+              "cells": [
+                "1,039",
+                "-9%",
+                "-15%",
+                "2,183",
+                "-7%"
+              ]
+            },
+            {
+              "label": "iGaming revenue",
+              "indent": true,
+              "cells": [
+                "577",
+                "+2%",
+                "+14%",
+                "1,141",
+                "+17%"
+              ]
+            },
+            {
+              "label": "Other revenue",
+              "indent": true,
+              "cells": [
+                "67",
+                "+22%",
+                "+3%",
+                "122",
+                "-2%"
+              ]
+            },
+            {
+              "label": "Total US revenue",
+              "kind": "emphasis",
+              "cells": [
+                "1,683",
+                "-5%",
+                "-6%",
+                "3,446",
+                "0%"
+              ]
+            },
+            {
+              "label": "Costs (% of revenue)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Cost of sales",
+              "indent": true,
+              "cells": [
+                "(995) / 59.1%",
+                "vs 59.2%",
+                "+510bps",
+                "(2,038) / 59.1%",
+                "+340bps"
+              ]
+            },
+            {
+              "label": "Technology, R&D",
+              "indent": true,
+              "cells": [
+                "(109) / 6.5%",
+                "+22%",
+                "+27%",
+                "(198)",
+                "+18%"
+              ]
+            },
+            {
+              "label": "Sales & marketing",
+              "indent": true,
+              "cells": [
+                "(353) / 21.0%",
+                "vs 21.5%",
+                "+61% (+880bps)",
+                "(732) / 21.2%",
+                "+23% (+400bps)"
+              ]
+            },
+            {
+              "label": "G&A",
+              "indent": true,
+              "cells": [
+                "(107) / 6.4%",
+                "-20%",
+                "-9%",
+                "(240)",
+                "+14%"
+              ]
+            },
+            {
+              "label": "Adj. EBITDA",
+              "kind": "emphasis",
+              "cells": [
+                "119",
+                "flat",
+                "-70%",
+                "238",
+                "-58%"
+              ]
+            },
+            {
+              "label": "Adj. EBITDA margin",
+              "indent": true,
+              "cells": [
+                "7.1%",
+                "+40bps",
+                "-1,520bps",
+                "6.9%",
+                "-930bps"
+              ]
+            },
+            {
+              "label": "Market position & other",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "OSB GGR share (states live)",
+              "indent": true,
+              "cells": [
+                "39%",
+                "flat",
+                "n/d",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "iGaming GGR share (incl. PokerStars US)",
+              "indent": true,
+              "cells": [
+                "27% (28%)",
+                "flat",
+                "n/d",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Market-making revenue",
+              "indent": true,
+              "cells": [
+                "6",
+                "n/a",
+                "n/a",
+                "n/d",
+                "FY26 guide ~50"
+              ]
+            },
+            {
+              "label": "FY26 guidance (midpoint)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "US revenue",
+              "indent": true,
+              "cells": [
+                "7,400",
+                "vs 7,795 (May)",
+                "+6% YoY",
+                "—",
+                "Feb: 7,800"
+              ]
+            },
+            {
+              "label": "US adj. EBITDA",
+              "indent": true,
+              "cells": [
+                "760",
+                "vs 970 (May)",
+                "-18% YoY",
+                "—",
+                "Feb: 1,050"
+              ]
+            },
+            {
+              "label": "Q3 phasing",
+              "indent": true,
+              "cells": [
+                "~20% of FY rev; EBITDA ~breakeven",
+                "Q4 EBITDA ~500 (was ~700)",
+                "—",
+                "—",
+                "—"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "International (UKI, SEA, APAC, CEE, Brazil, Other)",
+        "headline": "+10% reported / +4% organic with SEA (+18% organic) carrying the portfolio; adj. EBITDA -19% to $476m as UK duty (21%→40%) and World Cup marketing take 670bps off margin; FY guidance unchanged.",
+        "narrative": [
+          "International revenue grew 10% to $2,643m (+7% constant currency, +4% organic; +4% QoQ), with the Snai (30 April 2025) and Betnacional (14 May 2025) acquisitions contributing ~$146m of non-organic revenue in the stub periods. AMPs were 16% lower at 10.4m, entirely explained by the 21-percentage-point drag from the India exit (Junglee had 2.5m AMPs in Q2-25); ex-India the base grew, and sequentially AMPs rose 3%. Derived monthly ARPU was ~$84, flat on Q1. Adj. EBITDA fell 19% to $476m (-21% CC, -22% organic; -19% QoQ), with margin down 670bps to 18.0% (Q1: 23.1%), which management called 'broadly in line with expectations'. H1 revenue was $5,184m (+18%) and H1 adj. EBITDA $1,063m (-4%), a 20.5% margin (-470bps). Cost of sales as a percentage of revenue rose 580bps to 51.9% (Q1: 49.0%; H1 50.4% vs 45.1%) on the UK duty increase and Snai's structurally higher cost of sales.",
+          "Sportsbook revenue rose 14% to $1,190m (+9% CC, +4% organic; +10% QoQ) on handle +13% to $9.02bn (+8% CC, +3% organic). Net revenue margin edged up 10bps to 13.2% (Q1: 11.9%): structural margin slipped 20bps to 16.2% (Q1: 16.6%) on adverse sport and bet mix in APAC and faster growth in lower-margin CEE and Brazil; sports results were 40bps favourable (Q2-25: +30bps), worth ~$37m of revenue and ~$23m of EBITDA in-quarter — a welcome reversal of Q1's ~$100m/$77m headwind; and promotional spend fell 20bps to 3.4% of handle as more efficient generosity in APAC and CEE offset World Cup investment in UKI and Brazil. The contrast with the US is stark — 3.4% promo intensity against 5.4% heading to ~6% — and is the structural reason International margins are 2.5x US margins even after the UK tax hit.",
+          "iGaming revenue grew 7% to $1,358m (+6% CC, +3% organic; -2% QoQ on seasonality), with robust growth in SEA, UKI and CEE offset by a decline in Brazil. Other revenue rose 9% to $95m. The organic iGaming print of +3% is a deceleration from +8% in Q1, which we attribute to UK generosity recalibration post-duty and the April-May Snai migration disruption rather than to demand; the June exit rate (Snai AMPs +30%) supports that reading but it needs to show in Q3.",
+          "UK & Ireland revenue rose 4% to $971m (+3% CC and organic; +8% QoQ; H1 $1,871m, +3%). iGaming grew 7% to $526m (+6% CC) on a 22% rise in iGaming AMPs, new and exclusive content, the Flutter Jackpots roll-out and a sequential improvement at Sky Gaming; sportsbook fell 2% to $391m on a 1% handle decline, though momentum improved through the quarter as customers adapted to the new Sky Bet interface (top-rated in Eilers & Krejcik's H1 testing) and the World Cup started strongly, with a higher football mix and BetBuilder penetration lifting structural gross-win margin. Remote gaming duty rose from 21% to 40% from April; the FY26 adj. EBITDA impact remains $320m with $85m of first-order mitigation, and management is leaning more on headcount savings than marketing cuts so as to maintain market posture. They report early signs of competitors pulling back and expect 'significant' second-order share gains in H2 — plausible given Flutter's scale, but not yet visible in a +3% organic UKI print.",
+          "Southern Europe & Africa was the standout: revenue +36% to $896m (+33% CC, +18% organic; -5% QoQ off a seasonally strong Q1; H1 $1,836m, +66%), including an 8pp benefit from PokerStars customer migrations into the region. Organic iGaming grew 18% on Sisal's Italy performance and an expanded Türkiye product offer; organic sportsbook grew 17% on the MyCombo product and World Cup engagement. Sisal recorded an all-time-high Italian market share in June and Flutter extended its #1 online position (ADM regulator data); the Snai customer migration onto the Sisal platform completed in April with a brief share dip and a strong June recovery (Snai AMPs +30% in June, strong parlay penetration), unlocking the planned cost synergies. Management expects this growth rate to persist into H2 — Italy is now the most important organic growth driver in the Group outside US iGaming.",
+          "APAC revenue was 1% lower at $398m (-9% CC, flat organic; +30% QoQ on the AFL/NBA calendar; H1 $703m, -2%), with the India closure the entirety of the constant-currency decline. Sportsbet revenue rose 11% in USD (flat CC) on 12% handle growth as AFL, NBA and soccer engagement offset continued greyhound and racing softness; sport/bet mix diluted structural margin. Central & Eastern Europe grew 23% to $170m (+21% CC and organic; H1 $330m, +19%): iGaming +16% with share gains across Serbia, Georgia and Armenia, and sportsbook +59% on handle +21% and a 310bps net-margin improvement from multi-leg mix and more efficient generosity; a unified CEE technology stack is in progress and should add further synergies.",
+          "Brazil revenue rose 64% to $72m (+47% CC; H1 $146m) on the Betnacional acquisition, but organic revenue fell 14% and AMPs 6% as government socio-economic measures, including a centralised self-exclusion register, slowed the regulated market; management says Flutter performed in line with the market. Flutter's product and pricing capabilities were integrated into the Brazil platform in May, causing a temporary engagement dip but a five-fold increase in BetBuilder penetration; iGaming generosity mechanics are to be improved in H2. Other regions fell 38% to $136m (-39% CC; H1 $298m, -30%), of which 25pp reflects the transfer of PokerStars' Southern European and North American customers to SEA and the US segment respectively, with the balance ongoing decline on the PokerStars global platform. Management continues to describe Brazil as 'highly attractive' long term; for now it is an investment line with falling organic revenue and an evolving regulatory ecosystem.",
+          "On costs, sales and marketing rose 19% to $446m, 16.9% of revenue (+120bps; Q1: 14.8%; H1 15.9% vs 15.6%), on World Cup and planned Brazil investment; technology/R&D rose 20% to $128m on M&A, inflation and server migration; G&A rose 2% to $222m with UKI and PokerStars transformation savings offsetting inflation and legal fees. Integration milestones in Italy and Brazil and the well-advanced PokerStars migrations keep the $300m annualised run-rate savings on track for year-end. FY26 International guidance is unchanged at $10.51bn revenue (+12%) and $2.205bn adj. EBITDA (flat YoY), the Q2 beat absorbed by adverse FX (guidance rates USD:GBP 0.742, USD:EUR 0.867, USD:AUD 1.422 at 31 July). Q3 is expected to carry ~24% of FY revenue (~$2.5bn) and ~23% of EBITDA (~$507m), leaving an implied Q4 of ~$2.8bn revenue and ~$635m EBITDA [derived] — a ~23% Q4 margin that requires UK mitigation, Snai synergies and a normal sports-results quarter to land."
+        ],
+        "table": {
+          "note": "US $m",
+          "columns": [
+            "Q2-26",
+            "QoQ",
+            "YoY",
+            "H1-26",
+            "H1 YoY"
+          ],
+          "rows": [
+            {
+              "label": "Average monthly players ('000)",
+              "cells": [
+                "10,445",
+                "+3%",
+                "-16% (21pp India)",
+                "10,278 (avg)",
+                "-11%"
+              ]
+            },
+            {
+              "label": "Derived monthly ARPU ($)",
+              "indent": true,
+              "cells": [
+                "84",
+                "+1%",
+                "+32% (+7% ex-India est.)",
+                "84",
+                "n/a"
+              ],
+              "footnote": "ARPU derived (revenue / AMPs / 3). Ex-India comparator strips 2.5m AMPs and ~$40m revenue from Q2-25."
+            },
+            {
+              "label": "Sportsbook",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Handle",
+              "indent": true,
+              "cells": [
+                "9,019",
+                "0%",
+                "+13% (+8% CC, +3% org.)",
+                "18,054",
+                "+21%"
+              ]
+            },
+            {
+              "label": "Net revenue margin",
+              "indent": true,
+              "cells": [
+                "13.2%",
+                "+130bps",
+                "+10bps",
+                "12.6%",
+                "-30bps"
+              ]
+            },
+            {
+              "label": "Structural revenue margin",
+              "indent": true,
+              "cells": [
+                "16.2%",
+                "-40bps",
+                "-20bps",
+                "n/d",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Sports results (gross margin impact)",
+              "indent": true,
+              "cells": [
+                "+40bps fav.",
+                "vs -100bps",
+                "vs +30bps fav.",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Sports results (in-quarter revenue / EBITDA $)",
+              "indent": true,
+              "cells": [
+                "+37 / +23",
+                "vs (100) / (77)",
+                "n/d",
+                "(63) / (54)",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Promotional spend % handle",
+              "indent": true,
+              "cells": [
+                "3.4%",
+                "-20bps",
+                "-20bps",
+                "n/d",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Revenue by product",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Sportsbook revenue",
+              "indent": true,
+              "cells": [
+                "1,190",
+                "+10%",
+                "+14% (+9% CC, +4% org.)",
+                "2,267",
+                "+18%"
+              ]
+            },
+            {
+              "label": "iGaming revenue",
+              "indent": true,
+              "cells": [
+                "1,358",
+                "-2%",
+                "+7% (+6% CC, +3% org.)",
+                "2,744",
+                "+18%"
+              ]
+            },
+            {
+              "label": "Other revenue",
+              "indent": true,
+              "cells": [
+                "95",
+                "+22%",
+                "+9%",
+                "173",
+                "+11%"
+              ]
+            },
+            {
+              "label": "Total International revenue",
+              "kind": "emphasis",
+              "cells": [
+                "2,643",
+                "+4%",
+                "+10% (+7% CC, +4% org.)",
+                "5,184",
+                "+18%"
+              ]
+            },
+            {
+              "label": "Revenue by region",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "UK & Ireland",
+              "indent": true,
+              "cells": [
+                "971",
+                "+8%",
+                "+4% (+3% CC, +3% org.)",
+                "1,871",
+                "+3%"
+              ]
+            },
+            {
+              "label": "Southern Europe & Africa",
+              "indent": true,
+              "cells": [
+                "896",
+                "-5%",
+                "+36% (+33% CC, +18% org.)",
+                "1,836",
+                "+66%"
+              ]
+            },
+            {
+              "label": "Asia-Pacific",
+              "indent": true,
+              "cells": [
+                "398",
+                "+30%",
+                "-1% (-9% CC, 0% org.)",
+                "703",
+                "-2%"
+              ]
+            },
+            {
+              "label": "Central & Eastern Europe",
+              "indent": true,
+              "cells": [
+                "170",
+                "+6%",
+                "+23% (+21% CC/org.)",
+                "330",
+                "+19%"
+              ]
+            },
+            {
+              "label": "Brazil",
+              "indent": true,
+              "cells": [
+                "72",
+                "-3%",
+                "+64% (+47% CC, -14% org.)",
+                "146",
+                "+175%"
+              ]
+            },
+            {
+              "label": "Other regions",
+              "indent": true,
+              "cells": [
+                "136",
+                "-16%",
+                "-38% (-39% CC/org.)",
+                "298",
+                "-30%"
+              ]
+            },
+            {
+              "label": "Costs (% of revenue)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Cost of sales",
+              "indent": true,
+              "cells": [
+                "(1,371) / 51.9%",
+                "vs 49.0%",
+                "+580bps",
+                "(2,615) / 50.4%",
+                "+530bps"
+              ]
+            },
+            {
+              "label": "Technology, R&D",
+              "indent": true,
+              "cells": [
+                "(128) / 4.8%",
+                "+7%",
+                "+20%",
+                "(248)",
+                "+23%"
+              ]
+            },
+            {
+              "label": "Sales & marketing",
+              "indent": true,
+              "cells": [
+                "(446) / 16.9%",
+                "vs 14.8%",
+                "+19% (+120bps)",
+                "(822) / 15.9%",
+                "+20% (+30bps)"
+              ]
+            },
+            {
+              "label": "G&A",
+              "indent": true,
+              "cells": [
+                "(222) / 8.4%",
+                "+4%",
+                "+2%",
+                "(436)",
+                "+5%"
+              ]
+            },
+            {
+              "label": "Adj. EBITDA",
+              "kind": "emphasis",
+              "cells": [
+                "476",
+                "-19%",
+                "-19% (-21% CC, -22% org.)",
+                "1,063",
+                "-4%"
+              ]
+            },
+            {
+              "label": "Adj. EBITDA margin",
+              "indent": true,
+              "cells": [
+                "18.0%",
+                "-510bps",
+                "-670bps",
+                "20.5%",
+                "-470bps"
+              ]
+            },
+            {
+              "label": "FY26 guidance (midpoint)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "International revenue",
+              "indent": true,
+              "cells": [
+                "10,510",
+                "unchanged",
+                "+12% YoY",
+                "—",
+                "Feb: 10,600"
+              ]
+            },
+            {
+              "label": "International adj. EBITDA",
+              "indent": true,
+              "cells": [
+                "2,205",
+                "unchanged",
+                "flat YoY",
+                "—",
+                "Feb: 2,230"
+              ]
+            },
+            {
+              "label": "Q3 phasing",
+              "indent": true,
+              "cells": [
+                "~24% of FY rev; ~23% of EBITDA",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Revenue ($4,326m) and adj. EBITDA ($508m) beat consensus (c.$4.24-4.26bn / c.$485m) and the US came in $16m/$15m ahead of company guidance; early Q3 trading 'ahead of expectations' with June/July FanDuel's highest-ever active months and a record MLB week.",
+        "tag": "mixed"
+      },
+      {
+        "text": "US iGaming revenue +14% to $577m with iGaming AMPs +14% and direct-casino AMPs +26%; 27% GGR share (28% incl. PokerStars US); high-teens FY growth reiterated with H2 > H1 and Alberta outpacing the Ontario launch.",
+        "tag": "structural"
+      },
+      {
+        "text": "US structural sportsbook margin +40bps to 14.0% on World Cup SGP penetration (15% 2027 / 16% LT targets intact); sportsbook AMPs +8%, handle +2%; loyalty program at 70% of base with 82% positive survey response, universal by NFL kick-off.",
+        "tag": "early"
+      },
+      {
+        "text": "Southern Europe & Africa +18% organic (iGaming +18%, sportsbook +17%); Sisal record Italian share in June, #1 online position extended; Snai migration completed April with Snai AMPs +30% in June — the integration thesis is working.",
+        "tag": "structural"
+      },
+      {
+        "text": "Cost transformation phase 2: $500m gross opex + capex savings by 2029 on top of phase 1 (>$300m by 2027, running ahead) and ~$200m UK-tax mitigation; capex guide cut $40m to $815m; $45m of US opex savings already in H2 guidance; cost-to-achieve guided below 1:1.",
+        "tag": "structural"
+      },
+      {
+        "text": "Market-making scaled from a standing start to $6m in Q2 and ~$50m guided for FY26 at high margin; Crypto.com venue for sports/novelties expands the Predicts catalogue ahead of NFL with 'modest' economic improvement over CME.",
+        "tag": "early"
+      },
+      {
+        "text": "International promo intensity fell 20bps to 3.4% of handle and sports results were ~$37m/$23m favourable, reversing Q1's ~$100m/$77m headwind; CEE sportsbook net margin +310bps on multi-leg mix.",
+        "tag": "one-off"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Fourth consecutive guidance cut: FY26 Group adj. EBITDA to $2.655bn (-7% YoY) from $2.97bn in February; US EBITDA midpoint $760m (-22% vs May, -28% vs February) with Q4 US EBITDA now ~$500m vs ~$700m. Revenue -$395m.",
+        "tag": "structural"
+      },
+      {
+        "text": "US promotional intensity 5.4% of handle (+140bps YoY) and guided 'closer to 6%' in H2 (H2-25: 5.6%) versus a previously assumed decline — the net $270m 'investment' concedes the prior margin path was not compatible with customer growth in a ~5%-growth market.",
+        "tag": "structural"
+      },
+      {
+        "text": "Group adj. EBITDA margin -1,020bps to 11.7%; International margin -670bps to 18.0% (organic EBITDA -22%) on the permanent UK duty step-up (21%→40%, $320m FY impact vs $85m first-order mitigation) plus World Cup marketing; Group cost of sales 60.4% of revenue (+720bps).",
+        "tag": "mixed"
+      },
+      {
+        "text": "Leverage 4.3x (3.7x Dec-25) with LTM EBITDA ~$2.44bn; FCF incl. financing capex ex player funds -56% to $125m; OCF flattered by a $328m accruals inflow; interest paid +$102m to $228m; no new buyback. Target 2.0-2.5x is a multi-year proposition.",
+        "tag": "watch"
+      },
+      {
+        "text": "$95m of historical tax provisions (India GST $62m, US sales-and-use tax $33m) and SDI guidance +$200m to ~$500m widen the GAAP/adjusted gap: Q2 GAAP net loss $(296)m, H1 net loss $(87)m, GAAP operating loss $(144)m against $508m adj. EBITDA.",
+        "tag": "governance"
+      },
+      {
+        "text": "CEO exit announced alongside the cut (third leadership change in two quarters); Predicts investment no longer disclosed separately (was ~$(300)m); an immaterial constant-currency calculation error required regional restatements; ICFR material-weakness remediation still referenced.",
+        "tag": "governance"
+      },
+      {
+        "text": "Brazil organic revenue -14% and AMPs -6% in a market slowed by government measures; Other regions -38% on PokerStars attrition; UKI sportsbook -2%; US management estimates the US OSB market grew only ~5% in H1 and assumes no H2 recovery.",
+        "tag": "mixed"
+      }
+    ],
+    "forecast": {
+      "intro": "Guidance moved for the third time this year, and again the swing factor is the US. FY26 Group revenue midpoint falls $395m to $17.91bn (range $17.435-18.385bn; +9% YoY) and adj. EBITDA $210m to $2.655bn (range $2.395-2.915bn; -7% YoY), versus $18.305bn/$2.865bn in May and $18.4bn/$2.97bn in February. International is unchanged at $10.51bn/$2.205bn (Q2 beat netted against adverse FX at 31 July rates); unallocated corporate ($310m), interest ($640m) and the $250m completed buyback are unchanged; capex improves $40m to $815m and D&A ex acquired intangibles $20m to $730m; transaction/restructuring/integration costs rise $200m to ~$500m (incl. $95m tax provisions). The entire US EBITDA reduction ($970m → $760m) reconciles to five items: +$15m Q2 beat, +$50m market-making, +$45m operating cost savings, -$50m NFL one-week delay, -$270m net generosity/proposition investment — the 'measured view of market trends' sits inside the last item rather than as a separate buffer. Phasing: US ~20% of FY revenue in Q3 with EBITDA ~breakeven and Q4 ~$500m; International ~24%/~23% of FY revenue/EBITDA in Q3.",
+      "bridge": [
+        {
+          "title": "FY26 Group revenue (midpoint)",
+          "value": "$17.91bn",
+          "change": "-$395m vs May ($18.305bn); +9% YoY"
+        },
+        {
+          "title": "FY26 Group adj. EBITDA (midpoint)",
+          "value": "$2.655bn",
+          "change": "-$210m vs May ($2.865bn); -7% YoY"
+        },
+        {
+          "title": "FY26 US adj. EBITDA (midpoint)",
+          "value": "$760m",
+          "change": "-$210m vs May ($970m): +15 Q2 beat, +50 market-making, +45 opex savings, -50 NFL delay, -270 investment"
+        },
+        {
+          "title": "FY26 International adj. EBITDA (midpoint)",
+          "value": "$2.205bn",
+          "change": "Unchanged; Q2 beat offset by FX; revenue $10.51bn (+12%)"
+        }
+      ],
+      "view": "**Revenue is the easier half.** FY26 Group revenue of ~$17.9bn (+9%) looks achievable: International has beaten its own plan in each of the last two quarters, SEA is compounding at high-teens organic, and most of the US revenue cut is mechanical (generosity nets against revenue) rather than a demand call. We model Q3 Group revenue of ~$4.0bn [est.: US ~$1.48bn, International ~$2.52bn] and Q4 ~$5.3bn [est.]. **The risk is US EBITDA and it is asymmetric to NFL hold.** The $760m midpoint needs Q4 US EBITDA of ~$500m, a ~20% margin on ~$2.5bn of revenue in the quarter that last year delivered customer-friendly results and high churn. With H2 promo at ~6% of handle, each 100bps of Q4 hold is worth roughly $120-130m of quarterly revenue on ~$12-13bn of handle [est.], so the $0.6-0.92bn US range is appropriately wide; we would anchor slightly below midpoint (~$720-740m [est.]) until there is evidence that the generosity step-up is lifting ARPU, not just AMPs. **Group adj. EBITDA margin ~14.8% at midpoint vs ~17.4% in FY25 [derived]**, with Q3 Group adj. EBITDA ~$430m [est.: US ~breakeven, International ~$507m, corporate ~-$75m] and Q4 ~$1.08bn [est.] — Q4 carries ~41% of the year. **Leverage will not fall year-on-year.** On ~$300-400m of H2 free cash flow after ~$300m+ of restructuring cash [est.], YE26 net debt of ~$10.0-10.3bn over $2.655bn gives ~3.8-3.9x — below the 4.3x peak but above 3.7x at Dec-25 and far from the 2.0-2.5x policy range; buybacks should stay paused and the 2.0-2.5x target is realistically 2028+ absent portfolio action. **International is the valuation anchor:** a flat $2.2bn EBITDA year while absorbing a $320m UK duty hit is a creditable outcome, and the second-order UK share gains plus Snai/PokerStars synergies ($300m run-rate by YE) give visibility into 2027 margin recovery there. **Phase 2 savings are not a margin story:** management's framing ('offset inflation and known tax increases... capacity to invest') implies most of the $500m is reinvested; we would not model net margin accretion from it until the November detail.",
+      "watch": [
+        "NFL hold and handle from week one (one-week-delayed start): Q3 US EBITDA ~breakeven and Q4 ~$500m are the explicit tests; H2 promo at ~6% of handle must show in AMP and ARPU trajectory into 2027, not just reactivations.",
+        "Q3 results in November: phase 2 cost-program detail (what is gross vs net, cash cost to achieve in 2027-28), first update under CEO Dan Taylor, and whether the ~$(300)m Predicts investment is reinstated as a disclosure.",
+        "FanDuel Predicts execution: One App nationwide launch and the CME→Crypto.com migration before NFL; market-making tracking to the $50m FY26 figure; Supreme Court/state actions (North Carolina 23% OSB tax, 6% on prediction markets) and any evidence of cannibalisation moving beyond 'low single-digit'.",
+        "UK: evidence of competitor retrenchment and second-order share gains at Sky Bet/Paddy Power post-40% duty; delivery of the $85m first-order mitigation and the ~$200m 2027 savings; UKI organic growth needs to accelerate from +3%.",
+        "Italy/SEA sustainability: high-teens organic growth post Snai migration, Sisal share trajectory, Türkiye product expansion; Brazil regulatory ecosystem and whether organic revenue stabilises after the May platform integration.",
+        "Balance sheet: YE26 leverage versus the 3.7x Dec-25 starting point, interest cost trajectory ($640m guide), restructuring cash outflows against the $500m SDI guide, and any reinstatement of buybacks (we would view that as premature above 3.5x).",
+        "US iGaming: high-teens FY growth with H2 > H1, Q4 cross-sell improvement vs last year, Alberta ramp, and legislative progress toward one new iGaming state by end-2027 (Virginia).",
+        "Governance: ICFR material-weakness remediation status in the 10-Q/10-K, constant-currency restatement follow-through, and clarity on the Fox Option (18.6% of FanDuel) given the Boyd 5% buyout has already lifted interest costs."
+      ]
+    },
+    "sharePriceReaction": "Shares closed -11.5% at $92.91 on 5 Aug 2026 (prior close $104.96; premarket -6.6% to $98.04, intraday low near $92.28), a whisker above the 52-week low of $91.52 and ~70% below the 52-week high of $313.69.",
+    "confidence": "HIGH",
+    "confidenceNote": "All Q2-26, Q2-25 and Q1-26 segment, regional, KPI, margin, cash-flow and balance-sheet figures are taken directly from Flutter's Q2 and Q1 2026 results releases (incl. non-GAAP reconciliations) and the Q2 call transcript. H1-26 aggregates are Q1+Q2 sums; Group H1 revenue ($8,630m vs $7,852m), H1 net loss ($87m) and H1 OCF ($693m) were corroborated against 10-Q snippets, but the 10-Q was not read in full — H1 GAAP EPS (≈-$0.32) and H1 adj. EPS ($1.71) are derived sums, not company-reported. ARPU figures are derived (revenue/AMPs/3), not disclosed. Consensus figures vary by provider (adj. EPS $0.39-0.55; revenue $4.24-4.26bn; adj. EBITDA ~$485m) and are secondary-sourced. Q3-25 adj. EBITDA (needed for a precise Q3-26 leverage path) was not verified; all forward estimates are labelled [est.]/[derived]. No prior-World-Cup comparative was disclosed by the company.",
+    "sources": [
+      {
+        "label": "Flutter Entertainment — Q2 2026 Financial Results press release / RNS (5 Aug 2026), incl. segment, regional, non-GAAP reconciliation, balance sheet and cash-flow tables — PRIMARY (read in full)",
+        "kind": "primary",
+        "url": "https://www.globenewswire.com/news-release/2026/08/05/3339154/0/en/flutter-entertainment-announces-q2-2026-financial-results.html"
+      },
+      {
+        "label": "Flutter Entertainment — Form 8-K Exhibit 99.1, Q2 2026 results (SEC) — PRIMARY (mirror of the release; checked via excerpt)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001635327/000119312526333800/d127369dex991.htm"
+      },
+      {
+        "label": "Flutter Entertainment — Form 10-Q for the quarter ended 30 June 2026 (SEC) — PRIMARY (H1 revenue/net loss/OCF corroborated via excerpt; not read in full)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001635327/000163532726000056/flut-20260630.htm"
+      },
+      {
+        "label": "Flutter Entertainment — Q1 2026 Financial Results press release (6 May 2026) — PRIMARY (read in full; used for QoQ, H1 and prior guidance)",
+        "kind": "primary",
+        "url": "https://www.globenewswire.com/news-release/2026/05/06/3289362/0/en/q1-2026-financial-results.html"
+      },
+      {
+        "label": "Flutter Entertainment Q2 2026 earnings call transcript (5 Aug 2026; Jackson, Coldrake, Q&A) — PRIMARY (read in full)",
+        "kind": "primary",
+        "url": "https://www.marketbeat.com/earnings/reports/2026-8-5-flutter-entertainment-plc-stock/"
+      },
+      {
+        "label": "Flutter Investor Hub — Results & reports (Q2 2026 earnings release PDF, KPI pack)",
+        "kind": "primary",
+        "url": "https://flutter.com/investors/investor-hub/results-reports/"
+      },
+      {
+        "label": "Investing.com — Q2 2026 earnings call summary (consensus adj. EPS $0.39 / revenue $4.26bn; premarket move; prior close $104.96) — SECONDARY",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-flutter-entertainment-beats-q2-2026-eps-forecast-shares-fall-93CH-4838045"
+      },
+      {
+        "label": "Yahoo Finance / StockStory — Q2 CY2026 recap (consensus revenue $4.24bn, adj. EBITDA $484.5m, adj. EPS $0.55) — SECONDARY",
+        "kind": "secondary",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/flutter-entertainment-nyse-flut-q2-122716482.html"
+      },
+      {
+        "label": "Gambling Insider — 'Flutter Margins Hit as US Sportsbook Falters...' (closing price $92.91, -11.5%) — SECONDARY",
+        "kind": "secondary",
+        "url": "https://www.gamblinginsider.com/news/182106/flutter-margins-hit-as-us-sportsbook-falters-guidance-cut-peter-jackson-leaves-end-sept"
+      },
+      {
+        "label": "The Irish Times — 'Flutter shares slump as CEO Peter Jackson to leave...' (intraday move, fourth consecutive guidance cut) — SECONDARY",
+        "kind": "secondary",
+        "url": "https://www.irishtimes.com/business/2026/08/05/flutter-chief-peter-jackson-stepping-down-after-nine/"
+      },
+      {
+        "label": "TIKR — 'Flutter Entertainment Stock Plunges 11%...' — SECONDARY (corroboration of share move and bridge items)",
+        "kind": "secondary",
+        "url": "https://www.tikr.com/blog/flut-flutter-entertainment-stock-plunges-ceo-departure-guidance-cut"
+      }
+    ]
+  }
+}
