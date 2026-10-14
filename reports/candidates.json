@@ -6,7 +6,9 @@
     "period": "Q3 2026",
     "urls": [
       "https://next.io/news/results/betmgm-q3-2026-revenue-rise/",
-      "https://sbcnews.co.uk/sportsbook/2026/10/13/betmgm-us-revenue-entain/"
+      "https://sbcnews.co.uk/sportsbook/2026/10/13/betmgm-us-revenue-entain/",
+      "https://www.gamingintelligence.com/finance/237216-betmgm-posts-higher-revenue-and-adjusted-ebitda-for-q3-2026/",
+      "https://next.io/news/results/betmgm-shifts-focus-to-higher-value-us-markets/"
     ],
     "seen": "2026-10-13"
   },
@@ -63,5 +65,15 @@
       "https://www.gamingintelligence.com/finance/237128-singapore-pools-turnover-nears-s13-5-billion-in-fy26/"
     ],
     "seen": "2026-10-13"
+  },
+  {
+    "key": "pointsbet|H1 FY2027",
+    "company": "PointsBet Holdings",
+    "ticker": "PBH.AX",
+    "period": "H1 FY2027",
+    "urls": [
+      "https://next.io/news/results/pointsbet-holdings-revenue-decline-h1-2027/"
+    ],
+    "seen": "2026-10-14"
   }
 ]
