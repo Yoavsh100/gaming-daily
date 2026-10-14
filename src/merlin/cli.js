@@ -7,6 +7,7 @@ import dotenv from 'dotenv';
 import { resolveCompany } from './watchlist.js';
 import { analyze, estimateCost, MODEL } from './analyze.js';
 import { writeReport } from './publish.js';
+import { restructure } from './restructure.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 dotenv.config({ path: path.join(root, '.env'), quiet: true });
@@ -29,6 +30,7 @@ const company = resolveCompany(args.company) || { name: args.company };
 const t0 = Date.now();
 console.error(`🧙 Merlin: ${company.name} ${args.period} (${MODEL})`);
 const { report, model, usage } = await analyze({ company, period: args.period, urls: args.urls });
+await restructure(report).catch((err) => console.error(`  (kept the prose layout: ${err.message})`));
 const { dir, pdf } = await writeReport({ dir: path.join(root, 'out', 'reports'), company, period: args.period, report, model, usage });
 console.error(`✔ ${dir}${pdf ? '' : ' (no PDF: Chrome/Edge not found)'}`);
 const cost = estimateCost(usage, model);

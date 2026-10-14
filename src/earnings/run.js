@@ -7,6 +7,7 @@ import path from 'node:path';
 import dotenv from 'dotenv';
 import { analyze, estimateCost } from '../merlin/analyze.js';
 import { writeReport } from '../merlin/publish.js';
+import { restructure } from '../merlin/restructure.js';
 import { renderReportPage } from './page.js';
 import { writeFile } from 'node:fs/promises';
 import { loadIndex, saveIndex, loadCandidates, matchWatchlist, reportKey } from './queue.js';
@@ -50,6 +51,7 @@ for (const c of pending) {
   try {
     console.log(`\n🧙 ${company.name} ${c.period}`);
     const { report, model, usage } = await analyze({ company, period: c.period, urls: c.urls, log: () => {} });
+    await restructure(report).catch((err) => console.log(`  (kept the prose layout: ${err.message})`));
     const out = await writeReport({ dir: path.join(site, 'reports'), company, period: c.period, report, model, usage });
     await writeFile(path.join(out.dir, 'index.html'), renderReportPage({ company, period: c.period, report, hasPdf: !!out.pdf }));
     Object.assign(record, {

@@ -21,10 +21,21 @@ export function renderReportPage({ company, period, report: r, hasPdf }) {
   const title = `${company.name} ${period}`;
   const listing = [company.exchange, company.ticker].filter(Boolean).join(': ');
   let n = 2;
+  // Blocks (from restructure.js) read far more easily than the original prose, which
+  // remains the fallback for reports made before the formatting pass existed.
+  const segBody = (s) => (s.blocks?.length
+    ? `<div class="blocks">${s.blocks.map((b) => `
+      <div class="block">
+        <h3>${esc(b.heading)}</h3>
+        <p class="take">${esc(b.takeaway)}</p>
+        <ul>${b.points.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>
+        ${b.quote ? `<blockquote>“${esc(b.quote.text.replace(/^["“']|["”']$/g, ''))}”<cite>${esc(b.quote.speaker)}</cite></blockquote>` : ''}
+      </div>`).join('')}</div>${table(s.table)}`
+    : `<div class="seg"><div class="prose">${s.narrative.map((p) => `<p>${inline(p)}</p>`).join('')}</div>${table(s.table)}</div>`);
   const segs = r.segments.map((s) => `
   <section><h2><span class="n">${++n}</span>Segment deep-dive: ${esc(s.name)}</h2>
     ${s.headline ? `<p class="lede">${inline(s.headline)}</p>` : ''}
-    <div class="seg"><div class="prose">${s.narrative.map((p) => `<p>${inline(p)}</p>`).join('')}</div>${table(s.table)}</div>
+    ${segBody(s)}
   </section>`).join('');
 
   return `<!doctype html>
@@ -82,6 +93,15 @@ h2 .n { display: inline-grid; place-items: center; width: 26px; height: 26px; bo
 .lede { margin: -4px 0 14px; font-weight: 600; }
 .seg { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 28px; align-items: start; }
 .prose p { margin: 0 0 12px; max-width: 70ch; }
+.blocks { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; margin-bottom: 20px; }
+.block { border: 1px solid var(--line); border-radius: 10px; padding: 16px 18px; display: grid; gap: 8px; align-content: start; min-width: 0; }
+.block h3 { margin: 0; font: 700 12px/1.2 var(--body); letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+.block .take { margin: 0; font: 700 16px/1.4 var(--display); }
+.block ul { margin: 0; padding-left: 18px; font-size: 14px; color: var(--ink); }
+.block li { margin-bottom: 5px; }
+.block li::marker { color: var(--muted); }
+blockquote { margin: 4px 0 0; padding: 8px 12px; border-left: 3px solid var(--line); color: var(--muted); font-style: italic; font-size: 14px; }
+blockquote cite { display: block; margin-top: 4px; font-style: normal; font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; }
 .tbl { overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; }
 table { width: 100%; border-collapse: collapse; font-size: 13.5px; font-variant-numeric: tabular-nums; }
 th, td { padding: 7px 10px; text-align: right; white-space: nowrap; }

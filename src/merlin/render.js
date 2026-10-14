@@ -77,7 +77,17 @@ export function renderMarkdown(meta, r) {
   for (const seg of r.segments) {
     L.push(`\n## ${n}. Segment deep-dive — ${seg.name}\n`);
     if (seg.headline) L.push(`*${seg.headline}*\n`);
-    for (const p of seg.narrative) { L.push(p); L.push(''); }
+    if (seg.blocks?.length) {
+      for (const b of seg.blocks) {
+        L.push(`### ${b.heading}\n`);
+        L.push(`**${b.takeaway}**\n`);
+        for (const p of b.points) L.push(`- ${p}`);
+        if (b.quote) L.push(`\n> “${b.quote.text.replace(/^["“']|["”']$/g, '')}” — ${b.quote.speaker}`);
+        L.push('');
+      }
+    } else {
+      for (const p of seg.narrative) { L.push(p); L.push(''); }
+    }
     L.push(flexTableMd(seg.table));
     n++;
   }
@@ -130,15 +140,22 @@ export function renderHtml(meta, r, opts = {}) {
 
   let n = 3;
   const segHtml = r.segments.map((seg) => {
-    const nar = seg.narrative.map((p) => `<p class="segp">${inline(p)}</p>`).join('');
+    // Topic blocks (restructure.js) when present; the original prose otherwise.
+    const body = seg.blocks?.length
+      ? `<div class="blks">${seg.blocks.map((b) => `
+          <div class="blk"><div class="bh">${esc(b.heading)}</div><div class="bt">${esc(b.takeaway)}</div>
+            <ul>${b.points.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>
+            ${b.quote ? `<div class="bq">“${esc(b.quote.text.replace(/^["“']|["”']$/g, ''))}” <span>— ${esc(b.quote.speaker)}</span></div>` : ''}</div>`).join('')}</div>
+        <div class="segtbl full">${flexTableHtml(seg.table)}</div>`
+      : `<div class="seggrid">
+        <div class="segnar">${seg.narrative.map((p) => `<p class="segp">${inline(p)}</p>`).join('')}</div>
+        <div class="segtbl">${flexTableHtml(seg.table)}</div>
+      </div>`;
     const block = `
-    <div class="sec seg">
+    <div class="sec seg${seg.blocks?.length ? ' seg-blocks' : ''}">
       <div class="sec-h"><span class="n">${n}</span><h2>${segLabel} — ${esc(seg.name)}</h2><span class="rule"></span></div>
       ${seg.headline ? `<div class="seghead">${inline(seg.headline)}</div>` : ''}
-      <div class="seggrid">
-        <div class="segnar">${nar}</div>
-        <div class="segtbl">${flexTableHtml(seg.table)}</div>
-      </div>
+      ${body}
     </div>`;
     n++;
     return block;
@@ -217,6 +234,16 @@ export function renderHtml(meta, r, opts = {}) {
   .seghead{font-size:10px;font-weight:700;color:var(--navy);background:var(--soft);border-left:3px solid var(--accent);padding:5px 9px;border-radius:0 4px 4px 0;margin-bottom:7px;}
   .segnar .segp{margin:0 0 6px;text-align:justify;line-height:1.5;}
   .segnar .segp:last-child{margin-bottom:0;}
+  .seg.seg-blocks{break-inside:auto;}
+  .blks{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:9px;}
+  .blk{border:1px solid var(--line);border-radius:5px;padding:7px 9px;break-inside:avoid;}
+  .blk .bh{font-size:7.8px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;color:var(--accent);}
+  .blk .bt{font-size:10px;font-weight:700;color:var(--navy);margin:2px 0 4px;line-height:1.4;}
+  .blk ul{margin:0;padding-left:12px;}
+  .blk li{margin-bottom:2px;}
+  .blk .bq{margin-top:4px;padding-left:7px;border-left:2px solid var(--line);color:var(--slate);font-style:italic;}
+  .blk .bq span{font-style:normal;font-weight:700;font-size:8px;}
+  .segtbl.full{break-inside:avoid;}
   .hlll{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
   .card{border:1px solid var(--line);border-radius:6px;overflow:hidden;}
   .card .cap{font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.6px;padding:5px 10px;color:#fff;}
