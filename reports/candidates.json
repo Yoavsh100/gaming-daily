@@ -1,18 +1,5 @@
 [
   {
-    "key": "ENT.L|Q3 2026",
-    "company": "Entain plc",
-    "ticker": "ENT.L",
-    "period": "Q3 2026",
-    "urls": [
-      "https://next.io/news/results/betmgm-q3-2026-revenue-rise/",
-      "https://sbcnews.co.uk/sportsbook/2026/10/13/betmgm-us-revenue-entain/",
-      "https://www.gamingintelligence.com/finance/237216-betmgm-posts-higher-revenue-and-adjusted-ebitda-for-q3-2026/",
-      "https://next.io/news/results/betmgm-shifts-focus-to-higher-value-us-markets/"
-    ],
-    "seen": "2026-10-13"
-  },
-  {
     "key": "betfred|FY26",
     "company": "Betfred",
     "ticker": null,
