@@ -110,5 +110,179 @@
     "confidence": "HIGH",
     "releaseDate": "17 Jul 2026",
     "model": "claude-fable-5-1"
+  },
+  {
+    "key": "betfred|FY 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-14T17:40:08.591Z",
+    "status": "done",
+    "error": null,
+    "slug": "BETFRED-FY26",
+    "published": "2026-10-14",
+    "company": {
+      "name": "Betfred",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "FY26",
+    "verdict": "Betfred's last set of accounts before the UK duty shock shows a group that is growing online (+20% on a 52-week pro-rata basis, now 45% of turnover) but whose profitability has already compressed sharply: EBITDA of £140.6m is ~28% below the pro-rata run-rate of the prior 78-week period and the margin is down ~600bps to 14.1%, before a single pound of the 40% RGD hits. With retail shrinking ~9% pro-rata, 132 further shop closures under way, a 76% dividend payout and management now withholding geographic disclosure, this is a business entering the FY27 tax regime with far less cushion than the £996m turnover headline suggests.",
+    "kpis": [
+      {
+        "label": "Turnover (52wk)",
+        "value": "£995.6m",
+        "delta": "+2.4% vs 52wk pro-rata of 78wk FY25 (est.); company LFL +£23.3m",
+        "dir": "up"
+      },
+      {
+        "label": "Gross profit (post-duty)",
+        "value": "£719.9m",
+        "delta": "+0.9% vs pro-rata (est.); GP margin 72.3% (-110bps)",
+        "dir": "flat"
+      },
+      {
+        "label": "EBITDA",
+        "value": "£140.6m",
+        "delta": "-28% vs pro-rata (est.); margin 14.1% vs 20.1%",
+        "dir": "down"
+      },
+      {
+        "label": "Pre-tax profit",
+        "value": "£64.0m",
+        "delta": "-49% vs pro-rata (est.); £188.7m over 78wk FY25",
+        "dir": "down"
+      },
+      {
+        "label": "Profit after tax",
+        "value": "£39.6m",
+        "delta": "-54% vs pro-rata (est.); ETR 38.1% vs 31.7%",
+        "dir": "down"
+      },
+      {
+        "label": "Shops at period end",
+        "value": "1,293",
+        "delta": "-58 YoY (-4.3%); further 132 closures (~10%) announced Jul-26",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "c. 9–12 Oct 2026 (Companies House filing, Betfred Group Ltd; FYE 29 Mar 2026; trade coverage from 12 Oct 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.38
+  },
+  {
+    "key": "singapore pools|FY 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-14T17:49:55.402Z",
+    "status": "done",
+    "error": null,
+    "slug": "SINGAPORE-POOLS-FY26",
+    "published": "2026-10-14",
+    "company": {
+      "name": "Singapore Pools",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "FY26",
+    "verdict": "A third straight record year — turnover +6.2% to S$13.48bn with growth re-accelerating from +4% and no mega sporting event in the period — but the incremental dollar went almost entirely to prizes, opex and the Exchequer: betting duties & taxes rose 9% to S$2.49bn while the Tote Board contribution (the only \"earnings\" line the entity reports) was flat at S$583m (+1.4%). For sector investors the read-through is a still-growing Singapore gambling wallet and a monopoly lottery/tote model where the state captures ~88% of implied gross win before costs; this is a fiscal instrument first and an operating business second, and it discloses accordingly.",
+    "kpis": [
+      {
+        "label": "Turnover (stakes), FY26",
+        "value": "S$13.48bn",
+        "delta": "+6.2% YoY (FY25: +4.0%)",
+        "dir": "up"
+      },
+      {
+        "label": "Betting duties & taxes",
+        "value": "S$2.49bn",
+        "delta": "+9.2% YoY; 18.5% of turnover (+50bps)",
+        "dir": "up"
+      },
+      {
+        "label": "Contribution to Tote Board (surplus proxy)",
+        "value": "S$583m",
+        "delta": "+1.4% YoY; 4.3% of turnover (−20bps)",
+        "dir": "flat"
+      },
+      {
+        "label": "State take (duties + Tote Board)",
+        "value": "S$3.07bn",
+        "delta": "+7.6% YoY; 22.8% of turnover",
+        "dir": "up"
+      },
+      {
+        "label": "Prizes + opex (residual, derived)",
+        "value": "S$10.41bn",
+        "delta": "+6.2% YoY; 77.2% of turnover (flat)",
+        "dir": "up"
+      },
+      {
+        "label": "3-yr turnover CAGR (FY23–26)",
+        "value": "5.7%",
+        "delta": "S$11.4bn → S$13.48bn",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "Annual Report 2025/26 published on singaporepools.com.sg on or before 13 Oct 2026 (exact release date unverified; FY ended 31 Mar 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.25
+  },
+  {
+    "key": "pointsbet|H1 FY2027",
+    "attempts": 1,
+    "lastAttempt": "2026-10-14T18:04:08.746Z",
+    "status": "done",
+    "error": null,
+    "slug": "PBH-AX-H1-FY2027",
+    "published": "2026-10-14",
+    "company": {
+      "name": "PointsBet Holdings",
+      "ticker": "PBH.AX",
+      "exchange": ""
+    },
+    "period": "H1 FY2027",
+    "verdict": "PointsBet pre-announced a sharp H1 FY27 miss: revenue ~A$113m (-16% YoY vs A$135m) and a normalised EBITDA loss of A$6–8m, entirely attributable to Australia, where self-imposed VIP compliance tightening has cut highest-value-cohort turnover/revenue by double digits all half and a deliberate mass-market push ran into punter-friendly AFL results and promo/product-fee dilution from the Pull 'Em product. The Canada/iGaming growth leg (FY26 revenue +13%) is intact but, at ~18% of group, is too small to carry a structurally de-rated Australian book; with cash of roughly A$23m and a 66%-owned register, the quarter re-opens the question of how long MIXI tolerates a listed, loss-making minority structure.",
+    "kpis": [
+      {
+        "label": "H1 FY27 revenue (guided)",
+        "value": "~A$113m",
+        "delta": "-16% YoY (pcp A$135m, Apr–Sep 25)",
+        "dir": "down"
+      },
+      {
+        "label": "H1 FY27 normalised EBITDA (guided)",
+        "value": "-A$6m to -A$8m",
+        "delta": "vs -A$3.3m Jul–Dec 25 half; l-f-l pcp est. positive",
+        "dir": "down"
+      },
+      {
+        "label": "FY26 (9M) group revenue",
+        "value": "A$186.6m",
+        "delta": "-1% YoY (pcp A$188.4m)",
+        "dir": "down"
+      },
+      {
+        "label": "FY26 (9M) Australia revenue",
+        "value": "A$152.0m",
+        "delta": "-4% YoY; seg. EBITDA A$14.2m (-30%)",
+        "dir": "down"
+      },
+      {
+        "label": "FY26 (9M) Canada revenue",
+        "value": "A$34.6m",
+        "delta": "+13% YoY; iGaming net win +28%",
+        "dir": "up"
+      },
+      {
+        "label": "Market cap (13 Oct close)",
+        "value": "~A$283m",
+        "delta": "-35% vs MIXI's A$1.25 offer (A$434m)",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "13 Oct 2026 (ASX trading update, pre-results; full H1 FY27 report due 30 Oct 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.51
   }
 ]
