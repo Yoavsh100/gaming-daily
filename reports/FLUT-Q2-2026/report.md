@@ -66,19 +66,77 @@
 
 *Share held at #1 (39% OSB / 27% iGaming) but sportsbook revenue -15% on margin, promo stepped up to 5.4% of handle and heading to ~6%; FY26 US EBITDA guide cut 22% to $760m as a deliberate reinvestment.*
 
-They retained their #1 positions in US online sportsbook and iGaming, with GGR market shares of 39% and 27% respectively (28% in iGaming including PokerStars US, now run inside FanDuel), both unchanged on Q1. Segment revenue fell 6% to $1,683m (-5% QoQ), with AMPs 9% higher at 3.84m but down 10% sequentially as the basketball season wound down without NFL to replace it; derived monthly ARPU was ~$146, 14% lower year-on-year though 6% above Q1. Management quantified the adverse year-on-year swing in sports results at 6 percentage points of growth, the Knicks' June title run being the main culprit, and said that adjusting for results and marquee events the sportsbook was 'broadly in line' with plan, with AMPs, handle and revenue ex-results all improving sequentially. The quarter was $16m of revenue and $15m of EBITDA ahead of the company's own guidance. Mix continues to pivot: sportsbook was 62% of segment revenue against 68% a year ago.
+### Share and revenue
 
-Sportsbook handle rose 2% to $11.96bn on sportsbook AMPs +8%, but revenue dropped 15% to $1,039m (-9% QoQ) as net revenue margin fell 170bps to 8.7% (Q1: 8.6%). The composition is the important part. Structural revenue margin rose 40bps to 14.0% (Q1: 13.7%) on high Same Game Parlay penetration during the World Cup, which keeps the 15% (2027) and 16% (long-term) targets credible. Sports results were 10bps favourable at gross level against 80bps favourable last year, but because generosity is calibrated to results the in-quarter net revenue effect was ~$21m unfavourable (Q2-25: ~$90m favourable; Q1-26: ~$33m unfavourable), costing ~$11m of EBITDA. Promotional spend rose 140bps to 5.4% of handle (Q1: 4.9%) on the Arkansas launch (March) and World Cup investment. On the call the CFO said H2 generosity would run 'closer to 6%' of handle — above the 5.6% of H2-25 and above the declining profile previously assumed as the Rewards Club bedded in — and described it as a 'deliberate investment decision' with 'excellent' paybacks. This is the single biggest change in the US model and it is management-initiated, which cuts both ways: it can be dialled back, but it also says the prior margin trajectory was not deliverable at the targeted customer growth.
+**Share held at #1 (39% OSB / 27% iGaming) but segment revenue fell 6% to $1,683m, $16m ahead of guidance.**
 
-iGaming revenue grew 14% to $577m (+2% QoQ; H1 $1,141m, +17%) on a 14% rise in iGaming AMPs, with direct-casino AMPs up 26%. Slots and direct acquisition are driving growth while table games remain held back by cross-sell from a smaller sportsbook base. Management reiterated high-teens FY26 iGaming growth with H2 stronger than H1, citing monthly exclusive content launches (Love Island: Unlocked, Monopoly Live, Huff N' Puff and Willy Wonka franchise repeats), cross-sell actives during the World Cup that were ahead of plan, and an expectation that Q4 cross-sell will be better than last year's execution-impaired Q4. Alberta launched in July and is said to be 'significantly' outpacing the Ontario launch. Note that iGaming attracts a higher cost-of-sales rate than sportsbook, so the mix shift is a gross-margin headwind even as it diversifies and stabilises revenue.
+- GGR shares 39% OSB and 27% iGaming (28% including PokerStars US, now run inside FanDuel), both unchanged on Q1.
+- Revenue -6% to $1,683m (-5% QoQ); AMPs +9% to 3.84m but -10% sequentially as basketball wound down without NFL.
+- Derived monthly ARPU ~$146, 14% lower year-on-year though 6% above Q1.
+- Adverse sports results swing cost 6 percentage points of growth (Knicks June title run); ex-results sportsbook 'broadly in line' with plan.
+- Quarter $16m revenue and $15m EBITDA ahead of guidance; sportsbook now 62% of revenue versus 68% a year ago.
 
-Cost of sales rose 510bps to 59.1% of revenue (Q1: 59.2%; Q2-25: 54.0%; H1 59.1% vs 55.7%), driven by state tax increases (Q1 disclosure put these at ~220bps), higher generosity netted against revenue, the results hit to revenue and iGaming mix, partly offset by market-access savings and renegotiated commercial agreements. Sales and marketing jumped 61% to $353m, 21.0% of revenue (Q2-25: 12.2%; Q1-26: 21.5%), on World Cup and FanDuel Predicts spend; H1 S&M was $732m, 21.2% of revenue versus 17.2% a year ago. Technology/R&D rose 27% to $109m and G&A fell 9% to $107m on Q1/Q2 phasing; the combined increase reflects headcount, server and cloud costs and prediction-market build-out. Adj. EBITDA was $119m (-70%, flat QoQ), a 7.1% margin (-1,520bps); H1 adj. EBITDA was $238m (-58%), a 6.9% margin. Management now has $45m of additional US operating cost savings in H2 guidance.
+### Sportsbook margin
 
-Engagement around marquee content was genuinely strong. FanDuel engaged 2.3m customers in the World Cup, a third of them reactivations, with SuperSub (Flutter Edge soccer product) and BetProtect+ (injury protection) the cited differentiators; NBA Finals handle was ~40% higher per game year-on-year with actives +25%; June and July were the highest-active months in FanDuel's history and management cited a record MLB week in late July. The Rewards Club loyalty program reached 70% of the base by quarter-end — 82% of surveyed customers say it improved their experience and more than half say it lifted activity — and will be universal by NFL kick-off, with college football the week before used to 'prime wallets'. The counterpoint is management's own estimate that the US OSB market grew only ~5% in H1, its assumption that H2 will be no better, and its acknowledgement that the Q4-25 'customer-losing weeks' churn has not reversed. FanDuel is buying reactivation and share in a market that is not yet growing, and the ROI case rests on 2027 ARPU rather than 2026 revenue.
+**Sportsbook revenue dropped 15% to $1,039m as promo rose to 5.4% of handle, heading 'closer to 6%' in H2; the biggest model change.**
 
-FanDuel Predicts' Q2 revenue was 'not material'. Sports and novelty contracts are migrating from CME to Crypto.com (CME retained for financial contracts), a change management describes as a 'modest' economic positive and, more importantly, a step-change in catalogue ahead of NFL; a nationwide 'One App' with portable positions (separate wallets, open in California, close in New York) launches before the season. Predicts investment is no longer broken out (May guidance carried ~$(300)m of Predicts EBITDA drag plus ~$(105)m for new states) and H2 gross revenue is expected to be absorbed by acquisition spend before 'increasing in 2027'. Market-making — providing liquidity for combination markets across third-party exchanges — generated $6m in Q2 and is guided to ~$50m for FY26, which management characterises as high-margin and scalable at low incremental investment. Cannibalisation of regulated-state customers is 'low single-digit'. With North Carolina lifting OSB tax to 23% and applying 6% to prediction markets, and Supreme Court resolution pending, we treat the $50m as credible but early; the loss of separate Predicts disclosure is a step back in transparency.
+- Handle +2% to $11.96bn on sportsbook AMPs +8%; revenue -15% to $1,039m (-9% QoQ); net revenue margin -170bps to 8.7% (Q1: 8.6%).
+- Structural margin +40bps to 14.0% (Q1: 13.7%) on Same Game Parlay penetration, keeping 15% (2027) and 16% (long-term) targets credible.
+- Results 10bps favourable gross vs 80bps last year; net revenue effect ~$21m unfavourable (Q2-25: ~$90m favourable; Q1-26: ~$33m unfavourable), costing ~$11m EBITDA.
+- Promotional spend +140bps to 5.4% of handle (Q1: 4.9%) on Arkansas launch (March) and World Cup; H2 above the 5.6% of H2-25.
+- Management-initiated change cuts both ways: can be dialled back, but prior margin trajectory was not deliverable at targeted customer growth.
 
-FY26 US guidance is now $7.4bn revenue (+6% YoY) and $760m adj. EBITDA (-18%), with ~20% of revenue (~$1.5bn) in Q3 and Q3 EBITDA 'approximately breakeven'; Q4 EBITDA is ~$500m versus ~$700m in the prior plan. The bridge from $970m: +$15m Q2 beat, +$50m market-making, +$45m opex savings, -$50m NFL one-week delay (Q3 only, a calendar effect not an investment change), -$270m net investment. Implied H2 revenue is ~$3.95bn (H1: $3.45bn) and H2 EBITDA ~$522m [derived]. The 'measured view of current market trends' appears to be embedded within the investment line rather than a separate haircut, leaving limited explicit cushion for a repeat of last year's customer-friendly NFL results. The test management has set itself is 'a bigger business with a better trajectory' entering 2027; the test the market will apply is Q4 EBITDA against $500m.
+> “deliberate investment decision” — CFO
+
+### iGaming
+
+**iGaming revenue grew 14% to $577m with high-teens FY26 growth reiterated and H2 stronger than H1.**
+
+- Revenue +14% to $577m (+2% QoQ; H1 $1,141m, +17%) on iGaming AMPs +14%, direct-casino AMPs +26%.
+- Slots and direct acquisition drive growth; table games held back by cross-sell from a smaller sportsbook base.
+- Monthly exclusive content launches (Love Island: Unlocked, Monopoly Live, Huff N' Puff, Willy Wonka); World Cup cross-sell actives ahead of plan; Q4 cross-sell expected better than last year's execution-impaired Q4.
+- Alberta launched in July, 'significantly' outpacing the Ontario launch.
+- iGaming carries a higher cost-of-sales rate than sportsbook, so mix shift is a gross-margin headwind even as it stabilises revenue.
+
+### Costs and EBITDA
+
+**Adj. EBITDA fell 70% to $119m, a 7.1% margin, as cost of sales hit 59.1% and S&M jumped 61% to $353m.**
+
+- Cost of sales +510bps to 59.1% of revenue (Q1: 59.2%; Q2-25: 54.0%; H1 59.1% vs 55.7%) on state tax increases (~220bps), generosity, results and iGaming mix.
+- Sales and marketing +61% to $353m, 21.0% of revenue (Q2-25: 12.2%; Q1-26: 21.5%); H1 S&M $732m, 21.2% vs 17.2%.
+- Technology/R&D +27% to $109m; G&A -9% to $107m on phasing; increase reflects headcount, server/cloud and prediction-market build-out.
+- Adj. EBITDA $119m (-70%, flat QoQ), 7.1% margin (-1,520bps); H1 $238m (-58%), 6.9% margin.
+- $45m of additional US operating cost savings now in H2 guidance.
+
+### Engagement
+
+**Marquee-event engagement was genuinely strong, but FanDuel is buying share in a market growing only ~5% in H1.**
+
+- 2.3m customers engaged in the World Cup, a third reactivations; SuperSub and BetProtect+ cited as differentiators.
+- NBA Finals handle ~40% higher per game year-on-year, actives +25%; June and July highest-active months in FanDuel's history; record MLB week in late July.
+- Rewards Club at 70% of base; 82% of surveyed customers say improved experience, over half say lifted activity; universal by NFL kick-off.
+- Management estimates US OSB market grew only ~5% in H1, assumes H2 no better; Q4-25 'customer-losing weeks' churn has not reversed.
+- ROI case rests on 2027 ARPU rather than 2026 revenue.
+
+### FanDuel Predicts
+
+**Predicts Q2 revenue 'not material'; market-making guided to ~$50m for FY26, credible but early, with disclosure transparency reduced.**
+
+- Sports and novelty contracts migrating from CME to Crypto.com (CME retained for financial contracts), a 'modest' economic positive and a catalogue step-change before NFL.
+- Nationwide 'One App' with portable positions launches before the season.
+- Predicts investment no longer broken out (May guidance ~$(300)m Predicts EBITDA drag plus ~$(105)m new states); H2 gross revenue absorbed by acquisition spend before 'increasing in 2027'.
+- Market-making generated $6m in Q2, guided ~$50m FY26, high-margin and scalable; cannibalisation 'low single-digit'.
+- North Carolina lifting OSB tax to 23% and applying 6% to prediction markets; Supreme Court resolution pending; loss of separate disclosure is a step back.
+
+### Guidance
+
+**FY26 US guidance cut to $7.4bn revenue and $760m adj. EBITDA (-18%), with Q4 EBITDA ~$500m versus ~$700m prior plan.**
+
+- Revenue $7.4bn (+6% YoY); ~20% (~$1.5bn) in Q3 with Q3 EBITDA 'approximately breakeven'.
+- Bridge from $970m: +$15m Q2 beat, +$50m market-making, +$45m opex savings, -$50m NFL one-week delay (Q3 only), -$270m net investment.
+- Implied H2 revenue ~$3.95bn (H1: $3.45bn) and H2 EBITDA ~$522m [derived].
+- 'Measured view of current market trends' embedded in investment line, leaving limited explicit cushion for customer-friendly NFL results.
+- Management's test is 'a bigger business with a better trajectory' entering 2027; the market's test is Q4 EBITDA against $500m.
 
 | US $m | Q2-26 | QoQ | YoY | H1-26 | H1 YoY |
 |---|---|---|---|---|---|
@@ -118,21 +176,72 @@ FY26 US guidance is now $7.4bn revenue (+6% YoY) and $760m adj. EBITDA (-18%), w
 
 *+10% reported / +4% organic with SEA (+18% organic) carrying the portfolio; adj. EBITDA -19% to $476m as UK duty (21%→40%) and World Cup marketing take 670bps off margin; FY guidance unchanged.*
 
-International revenue grew 10% to $2,643m (+7% constant currency, +4% organic; +4% QoQ), with the Snai (30 April 2025) and Betnacional (14 May 2025) acquisitions contributing ~$146m of non-organic revenue in the stub periods. AMPs were 16% lower at 10.4m, entirely explained by the 21-percentage-point drag from the India exit (Junglee had 2.5m AMPs in Q2-25); ex-India the base grew, and sequentially AMPs rose 3%. Derived monthly ARPU was ~$84, flat on Q1. Adj. EBITDA fell 19% to $476m (-21% CC, -22% organic; -19% QoQ), with margin down 670bps to 18.0% (Q1: 23.1%), which management called 'broadly in line with expectations'. H1 revenue was $5,184m (+18%) and H1 adj. EBITDA $1,063m (-4%), a 20.5% margin (-470bps). Cost of sales as a percentage of revenue rose 580bps to 51.9% (Q1: 49.0%; H1 50.4% vs 45.1%) on the UK duty increase and Snai's structurally higher cost of sales.
+### Segment overview
 
-Sportsbook revenue rose 14% to $1,190m (+9% CC, +4% organic; +10% QoQ) on handle +13% to $9.02bn (+8% CC, +3% organic). Net revenue margin edged up 10bps to 13.2% (Q1: 11.9%): structural margin slipped 20bps to 16.2% (Q1: 16.6%) on adverse sport and bet mix in APAC and faster growth in lower-margin CEE and Brazil; sports results were 40bps favourable (Q2-25: +30bps), worth ~$37m of revenue and ~$23m of EBITDA in-quarter — a welcome reversal of Q1's ~$100m/$77m headwind; and promotional spend fell 20bps to 3.4% of handle as more efficient generosity in APAC and CEE offset World Cup investment in UKI and Brazil. The contrast with the US is stark — 3.4% promo intensity against 5.4% heading to ~6% — and is the structural reason International margins are 2.5x US margins even after the UK tax hit.
+**Revenue +10% to $2,643m (+4% organic) but adj. EBITDA -19% to $476m as margin fell 670bps to 18.0%.**
 
-iGaming revenue grew 7% to $1,358m (+6% CC, +3% organic; -2% QoQ on seasonality), with robust growth in SEA, UKI and CEE offset by a decline in Brazil. Other revenue rose 9% to $95m. The organic iGaming print of +3% is a deceleration from +8% in Q1, which we attribute to UK generosity recalibration post-duty and the April-May Snai migration disruption rather than to demand; the June exit rate (Snai AMPs +30%) supports that reading but it needs to show in Q3.
+- Revenue +10% (+7% CC, +4% organic; +4% QoQ); Snai and Betnacional contributed ~$146m non-organic revenue.
+- AMPs -16% to 10.4m, entirely the 21-percentage-point India exit drag (Junglee 2.5m AMPs in Q2-25); ex-India base grew, +3% sequentially; ARPU ~$84, flat on Q1.
+- Adj. EBITDA $476m (-21% CC, -22% organic; -19% QoQ), margin 18.0% (Q1: 23.1%), 'broadly in line with expectations'.
+- H1 revenue $5,184m (+18%); H1 adj. EBITDA $1,063m (-4%), 20.5% margin (-470bps).
+- Cost of sales +580bps to 51.9% (Q1: 49.0%; H1 50.4% vs 45.1%) on UK duty and Snai's higher cost of sales.
 
-UK & Ireland revenue rose 4% to $971m (+3% CC and organic; +8% QoQ; H1 $1,871m, +3%). iGaming grew 7% to $526m (+6% CC) on a 22% rise in iGaming AMPs, new and exclusive content, the Flutter Jackpots roll-out and a sequential improvement at Sky Gaming; sportsbook fell 2% to $391m on a 1% handle decline, though momentum improved through the quarter as customers adapted to the new Sky Bet interface (top-rated in Eilers & Krejcik's H1 testing) and the World Cup started strongly, with a higher football mix and BetBuilder penetration lifting structural gross-win margin. Remote gaming duty rose from 21% to 40% from April; the FY26 adj. EBITDA impact remains $320m with $85m of first-order mitigation, and management is leaning more on headcount savings than marketing cuts so as to maintain market posture. They report early signs of competitors pulling back and expect 'significant' second-order share gains in H2 — plausible given Flutter's scale, but not yet visible in a +3% organic UKI print.
+### Sportsbook and iGaming
 
-Southern Europe & Africa was the standout: revenue +36% to $896m (+33% CC, +18% organic; -5% QoQ off a seasonally strong Q1; H1 $1,836m, +66%), including an 8pp benefit from PokerStars customer migrations into the region. Organic iGaming grew 18% on Sisal's Italy performance and an expanded Türkiye product offer; organic sportsbook grew 17% on the MyCombo product and World Cup engagement. Sisal recorded an all-time-high Italian market share in June and Flutter extended its #1 online position (ADM regulator data); the Snai customer migration onto the Sisal platform completed in April with a brief share dip and a strong June recovery (Snai AMPs +30% in June, strong parlay penetration), unlocking the planned cost synergies. Management expects this growth rate to persist into H2 — Italy is now the most important organic growth driver in the Group outside US iGaming.
+**Sportsbook +14% to $1,190m with promo at just 3.4% of handle; iGaming +7% to $1,358m but organic growth slowed to +3%.**
 
-APAC revenue was 1% lower at $398m (-9% CC, flat organic; +30% QoQ on the AFL/NBA calendar; H1 $703m, -2%), with the India closure the entirety of the constant-currency decline. Sportsbet revenue rose 11% in USD (flat CC) on 12% handle growth as AFL, NBA and soccer engagement offset continued greyhound and racing softness; sport/bet mix diluted structural margin. Central & Eastern Europe grew 23% to $170m (+21% CC and organic; H1 $330m, +19%): iGaming +16% with share gains across Serbia, Georgia and Armenia, and sportsbook +59% on handle +21% and a 310bps net-margin improvement from multi-leg mix and more efficient generosity; a unified CEE technology stack is in progress and should add further synergies.
+- Sportsbook handle +13% to $9.02bn (+8% CC, +3% organic); net revenue margin +10bps to 13.2% (Q1: 11.9%); structural margin -20bps to 16.2%.
+- Results 40bps favourable (Q2-25: +30bps), ~$37m revenue and ~$23m EBITDA, reversing Q1's ~$100m/$77m headwind; promo -20bps to 3.4% of handle.
+- 3.4% promo intensity versus US 5.4% heading to ~6% is the structural reason International margins are 2.5x US margins.
+- iGaming +7% to $1,358m (+6% CC, +3% organic; -2% QoQ); Other revenue +9% to $95m.
+- Organic iGaming deceleration from +8% in Q1 attributed to UK generosity recalibration and Snai migration, not demand; June exit rate (Snai AMPs +30%) must show in Q3.
 
-Brazil revenue rose 64% to $72m (+47% CC; H1 $146m) on the Betnacional acquisition, but organic revenue fell 14% and AMPs 6% as government socio-economic measures, including a centralised self-exclusion register, slowed the regulated market; management says Flutter performed in line with the market. Flutter's product and pricing capabilities were integrated into the Brazil platform in May, causing a temporary engagement dip but a five-fold increase in BetBuilder penetration; iGaming generosity mechanics are to be improved in H2. Other regions fell 38% to $136m (-39% CC; H1 $298m, -30%), of which 25pp reflects the transfer of PokerStars' Southern European and North American customers to SEA and the US segment respectively, with the balance ongoing decline on the PokerStars global platform. Management continues to describe Brazil as 'highly attractive' long term; for now it is an investment line with falling organic revenue and an evolving regulatory ecosystem.
+### UK & Ireland
 
-On costs, sales and marketing rose 19% to $446m, 16.9% of revenue (+120bps; Q1: 14.8%; H1 15.9% vs 15.6%), on World Cup and planned Brazil investment; technology/R&D rose 20% to $128m on M&A, inflation and server migration; G&A rose 2% to $222m with UKI and PokerStars transformation savings offsetting inflation and legal fees. Integration milestones in Italy and Brazil and the well-advanced PokerStars migrations keep the $300m annualised run-rate savings on track for year-end. FY26 International guidance is unchanged at $10.51bn revenue (+12%) and $2.205bn adj. EBITDA (flat YoY), the Q2 beat absorbed by adverse FX (guidance rates USD:GBP 0.742, USD:EUR 0.867, USD:AUD 1.422 at 31 July). Q3 is expected to carry ~24% of FY revenue (~$2.5bn) and ~23% of EBITDA (~$507m), leaving an implied Q4 of ~$2.8bn revenue and ~$635m EBITDA [derived] — a ~23% Q4 margin that requires UK mitigation, Snai synergies and a normal sports-results quarter to land.
+**UKI revenue +4% to $971m; remote gaming duty rose from 21% to 40%, a $320m FY26 EBITDA impact with $85m mitigation.**
+
+- Revenue +3% CC and organic; +8% QoQ; H1 $1,871m, +3%.
+- iGaming +7% to $526m (+6% CC) on iGaming AMPs +22%, Flutter Jackpots roll-out and Sky Gaming improvement.
+- Sportsbook -2% to $391m on handle -1%; momentum improved as customers adapted to new Sky Bet interface and World Cup started strongly.
+- Management leaning on headcount savings rather than marketing cuts; expects 'significant' second-order share gains in H2.
+- Share gains plausible given scale but not yet visible in a +3% organic print.
+
+### Southern Europe & Africa
+
+**SEA was the standout at +36% to $896m (+18% organic), with Sisal at an all-time-high Italian share.**
+
+- Revenue +33% CC, +18% organic; -5% QoQ; H1 $1,836m, +66%; includes 8pp benefit from PokerStars migrations.
+- Organic iGaming +18% on Sisal Italy and expanded Türkiye offer; organic sportsbook +17% on MyCombo and World Cup.
+- Snai migration onto Sisal platform completed in April; brief share dip then strong June recovery (Snai AMPs +30%), unlocking cost synergies.
+- Management expects growth rate to persist into H2; Italy now the most important organic growth driver outside US iGaming.
+
+### APAC and CEE
+
+**APAC flat organic at $398m with India closure explaining the CC decline; CEE grew 23% to $170m.**
+
+- APAC -1% to $398m (-9% CC, flat organic; +30% QoQ; H1 $703m, -2%).
+- Sportsbet +11% USD (flat CC) on handle +12% as AFL, NBA and soccer offset greyhound and racing softness; mix diluted structural margin.
+- CEE +23% to $170m (+21% CC and organic; H1 $330m, +19%); iGaming +16% with share gains in Serbia, Georgia and Armenia.
+- CEE sportsbook +59% on handle +21% and 310bps net-margin improvement; unified CEE technology stack in progress.
+
+### Brazil and Other
+
+**Brazil revenue +64% to $72m on Betnacional but organic fell 14%; Other regions fell 38% to $136m.**
+
+- Brazil +47% CC; H1 $146m; organic revenue -14% and AMPs -6% as socio-economic measures including a self-exclusion register slowed the market.
+- Flutter product integration in May caused a temporary engagement dip but a five-fold increase in BetBuilder penetration; iGaming generosity to improve in H2.
+- Other regions -38% to $136m (-39% CC; H1 $298m, -30%), 25pp from PokerStars customer transfers, balance ongoing PokerStars decline.
+- Management calls Brazil 'highly attractive' long term; for now an investment line with falling organic revenue.
+
+### Costs and guidance
+
+**FY26 guidance unchanged at $10.51bn revenue and $2.205bn adj. EBITDA, with Q2 beat absorbed by adverse FX.**
+
+- S&M +19% to $446m, 16.9% of revenue (+120bps; Q1: 14.8%; H1 15.9% vs 15.6%); tech/R&D +20% to $128m; G&A +2% to $222m.
+- $300m annualised run-rate savings on track for year-end on Italy, Brazil and PokerStars milestones.
+- Guidance $10.51bn revenue (+12%), $2.205bn adj. EBITDA (flat); rates USD:GBP 0.742, USD:EUR 0.867, USD:AUD 1.422 at 31 July.
+- Q3 ~24% of revenue (~$2.5bn) and ~23% of EBITDA (~$507m); implied Q4 ~$2.8bn revenue and ~$635m EBITDA [derived].
+- ~23% Q4 margin requires UK mitigation, Snai synergies and a normal sports-results quarter to land.
 
 | US $m | Q2-26 | QoQ | YoY | H1-26 | H1 YoY |
 |---|---|---|---|---|---|

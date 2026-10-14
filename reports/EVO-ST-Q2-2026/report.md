@@ -85,15 +85,58 @@
 
 *Live revenue EUR 437.3m, -3.6% YoY / +0.6% QoQ: a four-quarter plateau at EUR 432-439m, with the YoY decline 'mostly' Europe and Asia piracy capping the upside.*
 
-They reported Live net revenue of EUR 437.3m, down 3.6% year on year but up 0.6% on the first quarter, with the first-half figure at EUR 872.2m (-3.3%). Live is now 84.5% of group revenue against 86.5% a year ago and the trailing-twelve-month Live line of EUR 1,742.4m is 1.7% below the prior year. Management attributed the year-on-year decline 'mostly' to Europe; no product-level constant-currency figure is given, but with group revenue up 2.4% in constant currency and RNG up 14%, Live was probably around flat in local currencies (our inference, unverified). The pattern since Q3-25 (EUR 431.7m, 438.6m, 434.9m, 437.3m) is a plateau rather than a decline, but a plateau is not what the global #1 live supplier is valued for, and the CEO conceded as much when asked whether Live is lagging the market: 'I think we can always do better. I expect more when it comes to live growth.' Market share, handle, actives and ARPU are not disclosed by a B2B supplier and we do not estimate them.
+### Live revenue plateau
 
-The content engine is working where it is pointed. In Europe the game-show category 'did really good' and demand for localised native-speaking tables is rising; Ice Fishing has, in the CEO's words, become one of the biggest games in the whole industry. The Hasbro partnership delivered its first titles - Monopoly Roulette in June and Monopoly Roll'em just after quarter end - with 'very strong' initial operator and player response, and Monopoly Live (a 2019 European release) finally went live in New Jersey, Delaware, Michigan and Connecticut. A Brazilian-Portuguese Ice Fishing Brasil streams from the expanded Sao Paulo studio. The major Q3 release is Disco Balls, a Funky Time spin-off. The CEO admitted the 2026 roadmap 'had been a little bit tilted towards the end all along', so the product contribution to revenue is a Q4 and 2027 story rather than a Q3 one. The game-rounds index hit an all-time high (an analyst sized it at roughly 12% above Q4-25 and management did not push back) while revenue was flat; management's own framing is that sessions are getting faster with smaller bets and game rounds 'will need to increase more than revenue over the coming 10 years'. We read that as a mix shift toward game shows and lower-stake formats - good for retention and reach, dilutive to revenue per round.
+**Live revenue EUR 437.3m, -3.6% YoY / +0.6% QoQ, a four-quarter plateau at EUR 432-439m rather than a decline.**
 
-Capacity continues to be added in lower-cost locations and the cost line shows it. A second Michigan studio opened in the quarter, hosting several game shows for the state and serving as home for the Ezugi second brand; a second Argentine studio, acquired from a competitor in Q1 for EUR 6.0m (EUR 5.8m goodwill), was relaunched around quarter end; Vilnius, Lithuania is scheduled for later in 2026; and Alberta was added in July following Canada's newest provincial regulation. Headcount is 22,880 (+2.8% YoY, flat QoQ) and average FTEs 16,534 (+3.6%), yet personnel expense fell 1.4% to EUR 121.8m, or 23.5% of revenue. Management says every new studio is 'optimizing the distribution and cost mix' after a period it now describes as a 'very unfavorable cost mix'. The flip side is D&A, up 11.1% to EUR 43.2m (8.3% of revenue vs 7.4%), the only cost line growing faster than revenue and the reason EBIT margin fell 90bps to 57.5% while EBITDA margin held at 65.9%.
+- H1 Live EUR 872.2m (-3.3%); trailing-twelve-month Live EUR 1,742.4m, 1.7% below prior year.
+- Live is 84.5% of group revenue versus 86.5% a year ago.
+- Management attributed the YoY decline 'mostly' to Europe; no product-level constant-currency figure given.
+- With group +2.4% constant currency and RNG +14%, Live was probably around flat in local currencies (our inference, unverified).
+- Sequence since Q3-25: EUR 431.7m, 438.6m, 434.9m, 437.3m. Market share, handle, actives and ARPU not disclosed; we do not estimate them.
 
-The piracy problem sits squarely in Live. The CEO's description is unusually plain: 'they take our product, make a copy, and redistribute it ... just like they would do with ... a handbag'. Asia, the largest region by end-player at EUR 190.5m, fell 3.7% QoQ and 8.9% YoY, and management offered no sizing of the revenue impact, no comment on intra-quarter trading, and no guidance on direction ('the volatility is still here. We are not in a stable situation'). They do say underlying regional demand has growth potential, that the regulated Philippine market is 'growing nicely', that the broader regulatory picture is stable and that the competitive landscape has not changed. We treat Asia Live as a EUR 185-200m per quarter range-bound line with downside skew until two consecutive quarters say otherwise.
+> “I think we can always do better. I expect more when it comes to live growth.” — CEO
 
-There is no Live-specific guidance; the group targets growth faster than the global online casino market and, per the Q2 slide deck, growth in line with the market in each region in both Live and RNG. For Q3-26 the comparison is soft (Q3-25 Live EUR 431.7m was the first cyber-hit quarter) and Q4-25 (EUR 438.6m) is similarly undemanding, so flat-to-low-single-digit Live growth in H2 is achievable even without an Asia recovery; we pencil EUR 438-442m for Q3 (estimate). The structural question - whether Live can grow in Europe at 50% channelisation and rising duties - is unanswered by this quarter.
+### Content and game rounds
+
+**The content engine works where pointed, but product contribution to revenue is a Q4 and 2027 story, not Q3.**
+
+- Europe game-show category 'did really good'; demand for localised native-speaking tables rising; Ice Fishing is one of the biggest games in the industry per the CEO.
+- Hasbro delivered Monopoly Roulette (June) and Monopoly Roll'em (just after quarter end) with 'very strong' initial response; Monopoly Live launched in New Jersey, Delaware, Michigan and Connecticut.
+- Ice Fishing Brasil streams from the expanded Sao Paulo studio; major Q3 release is Disco Balls, a Funky Time spin-off.
+- Game-rounds index hit an all-time high (roughly 12% above Q4-25 per an analyst, unchallenged) while revenue was flat; sessions faster with smaller bets.
+- We read this as a mix shift toward game shows and lower-stake formats: good for retention and reach, dilutive to revenue per round.
+
+> “had been a little bit tilted towards the end all along” — CEO
+
+### Studios and costs
+
+**Capacity is being added in lower-cost locations; personnel expense fell 1.4% to EUR 121.8m but D&A rose 11.1%, cutting EBIT margin 90bps to 57.5%.**
+
+- Second Michigan studio opened, hosting state game shows and the Ezugi brand; second Argentine studio (acquired Q1 for EUR 6.0m, EUR 5.8m goodwill) relaunched around quarter end.
+- Vilnius, Lithuania scheduled for later in 2026; Alberta added in July following Canada's newest provincial regulation.
+- Headcount 22,880 (+2.8% YoY, flat QoQ); average FTEs 16,534 (+3.6%); personnel expense 23.5% of revenue.
+- D&A EUR 43.2m (8.3% of revenue vs 7.4%) is the only cost line growing faster than revenue; EBITDA margin held at 65.9%.
+- Management says each new studio is 'optimizing the distribution and cost mix' after a 'very unfavorable cost mix'.
+
+### Asia piracy
+
+**Asia Live, EUR 190.5m, fell 3.7% QoQ and 8.9% YoY on piracy, with no sizing, no intra-quarter comment and no direction given.**
+
+- CEO: pirates copy and redistribute the product 'just like they would do with ... a handbag'.
+- Management: 'the volatility is still here. We are not in a stable situation'.
+- Positives: underlying regional demand has growth potential, regulated Philippine market 'growing nicely', regulatory picture stable, competitive landscape unchanged.
+- We treat Asia Live as a EUR 185-200m per quarter range-bound line with downside skew until two consecutive quarters say otherwise.
+
+> “they take our product, make a copy, and redistribute it ... just like they would do with ... a handbag” — CEO
+
+### Outlook
+
+**No Live-specific guidance; soft comps make flat-to-low-single-digit H2 Live growth achievable without an Asia recovery; we pencil EUR 438-442m for Q3 (estimate).**
+
+- Group targets growth faster than the global online casino market and, per the Q2 slide deck, in line with the market in each region in Live and RNG.
+- Q3-25 Live EUR 431.7m was the first cyber-hit quarter; Q4-25 EUR 438.6m is similarly undemanding.
+- Structural question of whether Live can grow in Europe at 50% channelisation and rising duties is unanswered by this quarter.
 
 | Live Casino, EUR m | Q2-26 | QoQ | YoY | H1-26 | H1 YoY |
 |---|---|---|---|---|---|
@@ -115,13 +158,43 @@ There is no Live-specific guidance; the group targets growth faster than the glo
 
 *RNG EUR 80.5m, +14.1% YoY and a fourth straight sequential rise - first double-digit growth since early 2023 - but it is too small to offset Live.*
 
-They reported RNG net revenue of EUR 80.5m, up 14.1% year on year and 3.0% quarter on quarter, taking first-half RNG to EUR 158.7m (+11.1%) and the trailing twelve months to EUR 309.8m (+5.4%). The sequence since the Q2-25 trough is EUR 70.6m, 75.5m, 75.7m, 78.2m, 80.5m - four consecutive sequential increases - and RNG's share of group revenue has climbed to 15.5% from 13.5%. Management made a point of the symbolism: 'this quarter is the quarter of double-digit growth for RNG, it took a while, we're here now, we're proud of that because we stated that we were going to do that.' Berenberg dated the last double-digit print to the start of 2023.
+### RNG growth
 
-On drivers, the CEO was careful not to over-attribute. North American slots 'performs well at the moment', but 'we shouldn't overvalue North America ... still a small market in comparison to others'; the growth is 'from the total situation in RNG, not any specific market' and not any single release. The practical interpretation is that the One Stop Shop distribution push and the multi-studio portfolio (NetEnt, Red Tiger, Big Time Gaming, Nolimit City and the newer Sneaky Slots brand) are broadening the base rather than one hit carrying the number. The Q2 Hasbro launches are Live formats; RNG Hasbro titles are still to come. Earn-out cash of EUR 25.9m went out in H1 (NLC EUR 11.1m, BTG EUR 14.3m, Arcadia EUR 0.4m), a reminder that the RNG studios were bought with contingent consideration tied to performance.
+**RNG revenue EUR 80.5m, +14.1% YoY and +3.0% QoQ, the fourth straight sequential rise and first double-digit growth since early 2023.**
 
-Management explicitly refused to guide that double-digit growth holds ('I won't guide on that, but now we took a good step forward'). The comps get harder from here: Q3-25 was EUR 75.5m and Q4-25 EUR 75.7m, so holding +10% requires EUR 83-84m in Q3 and Q4, i.e. roughly EUR 1.5m of sequential growth per quarter, which is below the H1 run-rate of EUR 2.3-2.5m per quarter. We model EUR 82-84m for Q3-26 (+9-11% YoY, estimate).
+- H1 RNG EUR 158.7m (+11.1%); trailing twelve months EUR 309.8m (+5.4%).
+- Sequence since Q2-25 trough: EUR 70.6m, 75.5m, 75.7m, 78.2m, 80.5m.
+- RNG share of group revenue up to 15.5% from 13.5%.
+- Berenberg dated the last double-digit print to the start of 2023.
 
-The investment relevance should be kept in proportion. At 15.5% of group, 14% RNG growth adds roughly EUR 10m of revenue per quarter, or about 2 percentage points to group growth; it cannot by itself offset the EUR 16m year-on-year decline in Live. RNG profitability is not disclosed and we make no assumption on it. The structural signal is nonetheless positive: a segment that was a drag for three years is now a consistent contributor, and it is predominantly regulated-market revenue, which is where the group mix is heading.
+> “this quarter is the quarter of double-digit growth for RNG, it took a while, we're here now, we're proud of that because we stated that we were going to do that.” — Management
+
+### Growth drivers
+
+**Growth is broad-based across the RNG portfolio rather than from one market or release, per the CEO.**
+
+- North American slots 'performs well at the moment' but 'we shouldn't overvalue North America ... still a small market in comparison to others'.
+- Growth is 'from the total situation in RNG, not any specific market' and not any single release.
+- Interpretation: One Stop Shop distribution and the multi-studio portfolio (NetEnt, Red Tiger, Big Time Gaming, Nolimit City, Sneaky Slots) are broadening the base.
+- Q2 Hasbro launches are Live formats; RNG Hasbro titles still to come.
+- Earn-out cash of EUR 25.9m paid in H1 (NLC EUR 11.1m, BTG EUR 14.3m, Arcadia EUR 0.4m).
+
+### Guidance and comps
+
+**Management refused to guide that double-digit growth holds; harder comps mean we model EUR 82-84m for Q3-26 (+9-11% YoY, estimate).**
+
+- Q3-25 was EUR 75.5m and Q4-25 EUR 75.7m, so holding +10% requires EUR 83-84m in Q3 and Q4.
+- That implies roughly EUR 1.5m sequential growth per quarter, below the H1 run-rate of EUR 2.3-2.5m per quarter.
+
+> “I won't guide on that, but now we took a good step forward” — CEO
+
+### Investment relevance
+
+**At 15.5% of group, 14% RNG growth adds roughly EUR 10m per quarter, about 2 percentage points to group growth, and cannot offset Live's EUR 16m YoY decline.**
+
+- RNG profitability is not disclosed; we make no assumption on it.
+- Structural signal is positive: a three-year drag is now a consistent contributor.
+- RNG is predominantly regulated-market revenue, where the group mix is heading.
 
 | RNG, EUR m | Q2-26 | QoQ | YoY | H1-26 | H1 YoY |
 |---|---|---|---|---|---|
@@ -138,13 +211,52 @@ The investment relevance should be kept in proportion. At 15.5% of group, 14% RN
 
 *Americas at all-time highs (+9.5% / +26.3% YoY), Europe +3.5% QoQ but -4.0% YoY, Asia -8.9% YoY on piracy; regulated share up to 49%.*
 
-Europe, at EUR 173.0m or 33% of end-player revenue, grew 3.5% sequentially after several quarters of decline (EUR 182.2m, 177.6m, 167.1m over the prior three) but remains 4.0% below last year. Management cited strong game-show performance, rising demand for native-speaking tables and 'increasing activity in regulated markets', while repeating that channelisation is 'very weak in a number of jurisdictions' and that once duties push channelisation toward 50% - the UK and the Netherlands were named - 'that is not good'. Asked three times whether this is an inflection point, the CEO declined each time ('I wish that I had a clear answer'). On the UK Remote Gaming Duty increase effective April, they would not comment on a single market beyond saying the UK 'is not really a huge market for Evolution. Even with an impact, it's not that big.' Two technical points matter for modelling. First, by customer (operator) location Europe fell 10.2% YoY to EUR 344.7m while Asia-located customers jumped from EUR 1.3m to EUR 17.7m, which indicates operator contracts re-domiciling rather than a 10% collapse in European end-demand; the player-IP series (-4.0%) is the better read. Second, the UKGC settlement (GBP 4.75m, 15 Jul) changes nothing operationally: the ring-fencing measures, described as the strictest of any European supplier, were already in place and no further restrictions were agreed.
+### Europe
 
-Asia, at EUR 190.5m or 37% of end-player revenue, fell 3.7% sequentially and 8.9% year on year, the one region moving the wrong way. The quarterly path since the cybercrime problem surfaced is EUR 209.1m (Q2-25), 189.1m, 193.6m, 197.8m, 190.5m. The issue is unauthorised copying and restreaming of Evolution tables, which management frames as a 'cat and mouse game' it is 'certain that we will eventually win' but will not time: no comment on post-quarter trading, no sizing of the drag, and 'I don't guide on quarter-on-quarter growth for any region'. Positives offered were that underlying demand has growth potential, the regulated Philippine market is growing nicely, regional regulation is stable and competition is unchanged. Given that group regulated share is 49%, the bulk of Asia is grey-market revenue; this remains the single largest risk to both the revenue line and the multiple, and the lack of disclosure means investors are being asked to take direction on trust.
+**Europe EUR 173.0m (33% of end-player revenue), +3.5% QoQ after several quarters of decline but -4.0% YoY; CEO declined to call an inflection.**
 
-North America reached a record EUR 81.0m (16% of revenue), up 2.9% sequentially and 9.5% year on year on the player-IP basis and 10.8% by customer location. Monopoly Live was launched in New Jersey, Delaware, Michigan and Connecticut; the second Michigan studio hosts state-specific game shows and the Ezugi brand; and Alberta went live in July following its move to a regulated commercial market. RNG slots were singled out as performing well in the region. The Galaxy Gaming termination (notice 21 Jul; ~USD 5.2m fee per press reports) removes the planned land-based table-game adjacency, but Evolution already had the long-standing commercial relationship it wanted and management is right that USD 85m of equity value is immaterial next to EUR 1.15bn of cash. Latin America also set a record at EUR 47.5m (9% of revenue), up 1.5% sequentially and 26.3% year on year, decelerating from +29.3% in Q1 but still the fastest-growing region; the regulated Brazilian market, the localised Ice Fishing Brasil and the second Argentine studio are the drivers, and the FX headwind here is material in EUR terms. Other regions, mainly Africa, grew 14.2% sequentially and 10.3% year on year to EUR 25.8m, with a 'strong position' in premium Live and rising RNG activity.
+- Prior three quarters: EUR 182.2m, 177.6m, 167.1m. Drivers: strong game shows, native-speaking tables, 'increasing activity in regulated markets'.
+- Channelisation 'very weak in a number of jurisdictions'; duties pushing channelisation toward 50% in the UK and Netherlands 'is not good'.
+- On UK Remote Gaming Duty increase from April: UK 'is not really a huge market for Evolution. Even with an impact, it's not that big.'
+- By customer location Europe fell 10.2% YoY to EUR 344.7m while Asia-located customers jumped from EUR 1.3m to EUR 17.7m, indicating re-domiciling; player-IP series (-4.0%) is the better read.
+- UKGC settlement (GBP 4.75m, 15 Jul) changes nothing operationally; ring-fencing already in place, no further restrictions agreed.
 
-The cleanest expression of the mix shift is the regulated split: regulated-market revenue rose 10.4% year on year to EUR 256.1m (49% of total vs 44%) while non-regulated revenue fell 10.5% to EUR 261.7m. The two books are now the same size and moving in opposite directions at similar speed, which is precisely why group revenue is flat. Constant-currency growth of 2.4% against -1.2% reported implies a c.3.6pp (~EUR 19m) FX drag, down from c.8.3pp in Q1; the CFO would not call the easing sustainable. The 2026 World Cup produced no discernible activity boost ('maybe the time zone'), and none is expected in H2. Mobile accounted for 75% of operators' GGR (73%).
+> “I wish that I had a clear answer” — CEO
+
+### Asia
+
+**Asia EUR 190.5m (37% of end-player revenue), -3.7% QoQ and -8.9% YoY on piracy; this remains the single largest risk to revenue and the multiple.**
+
+- Quarterly path since the cybercrime problem: EUR 209.1m (Q2-25), 189.1m, 193.6m, 197.8m, 190.5m.
+- Management calls unauthorised restreaming a 'cat and mouse game' it is 'certain that we will eventually win' but will not time; no sizing or post-quarter comment.
+- Positives: underlying demand has growth potential, regulated Philippines growing nicely, regulation stable, competition unchanged.
+- With group regulated share at 49%, the bulk of Asia is grey-market revenue; investors are asked to take direction on trust.
+
+> “I don't guide on quarter-on-quarter growth for any region” — CEO
+
+### North America
+
+**North America hit a record EUR 81.0m (16% of revenue), +2.9% QoQ and +9.5% YoY by player IP, +10.8% by customer location.**
+
+- Monopoly Live launched in New Jersey, Delaware, Michigan and Connecticut; second Michigan studio hosts state game shows and Ezugi; Alberta live in July.
+- RNG slots singled out as performing well in the region.
+- Galaxy Gaming termination (notice 21 Jul; ~USD 5.2m fee per press reports) removes the land-based adjacency; USD 85m equity value is immaterial next to EUR 1.15bn cash.
+
+### Latin America and other
+
+**Latin America set a record EUR 47.5m (9% of revenue), +1.5% QoQ and +26.3% YoY, still the fastest-growing region despite decelerating from +29.3% in Q1.**
+
+- Drivers: regulated Brazilian market, localised Ice Fishing Brasil and the second Argentine studio; FX headwind is material in EUR terms.
+- Other regions, mainly Africa, grew 14.2% QoQ and 10.3% YoY to EUR 25.8m, with a 'strong position' in premium Live and rising RNG activity.
+
+### Regulated mix and FX
+
+**Regulated revenue rose 10.4% YoY to EUR 256.1m (49% vs 44%) while non-regulated fell 10.5% to EUR 261.7m, which is why group revenue is flat.**
+
+- The two books are now the same size and moving in opposite directions at similar speed.
+- Constant-currency growth of 2.4% versus -1.2% reported implies c.3.6pp (~EUR 19m) FX drag, down from c.8.3pp in Q1; CFO would not call the easing sustainable.
+- 2026 World Cup produced no discernible activity boost ('maybe the time zone'); none expected in H2.
+- Mobile accounted for 75% of operators' GGR (73%).
 
 | Regional, EUR m | Q2-26 | QoQ | YoY | H1-26 | H1 YoY |
 |---|---|---|---|---|---|
