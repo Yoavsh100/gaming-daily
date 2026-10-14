@@ -8,7 +8,6 @@ const esc = (s = '') => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<
 const timeFmt = new Intl.DateTimeFormat('en-GB', { hour: '2-digit', minute: '2-digit', timeZone: 'UTC' });
 const dayFmt = new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'short', timeZone: 'UTC' });
 const longDate = new Intl.DateTimeFormat('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
-const initials = (name) => name.replace(/[^A-Za-z ]/g, '').split(' ').filter(Boolean).map((w) => w[0]).join('').slice(0, 3).toUpperCase();
 
 function stamp(date, now) {
   const sameDay = dayFmt.format(date) === dayFmt.format(now);
@@ -18,9 +17,9 @@ function stamp(date, now) {
 function card(story, now, extra) {
   const [lead, ...others] = story.articles;
   const search = [lead.title, story.summary, ...story.articles.map((a) => a.sourceName)].join(' ').toLowerCase();
-  const thumb = lead.imageData
-    ? `<img src="${lead.imageData}" alt="" loading="lazy">`
-    : `<span class="ph" aria-hidden="true">${esc(initials(lead.sourceName))}</span>`;
+  const thumb = story.image
+    ? `<img src="${story.image}" alt="" loading="lazy">`
+    : `<span class="ph ${story.placeholder || ''}" aria-hidden="true"></span>`;
   const also = others.length
     ? `<p class="also">Also covered by ${others.map((a) => `<a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.sourceName)}</a>`).join(', ')}</p>` : '';
   return `<article class="card${extra ? ' extra' : ''}" data-text="${esc(search)}">
@@ -49,7 +48,7 @@ function reportCard(r) {
 </article>`;
 }
 
-export function render({ edition, items, status, now, hours, reports = [] }) {
+export function render({ edition, items, status, now, hours, reports = [], placeholders = new Map() }) {
   const stories = edition.stories.map((s) => ({ ...s, articles: s.ids.map((id) => items[id]) }));
   const rank = (a, b) => b.importance - a.importance || b.articles.length - a.articles.length || b.articles[0].date - a.articles[0].date;
   const bySection = Object.fromEntries(SECTIONS.map((sec) => [sec.id, stories.filter((s) => s.section === sec.id).sort(rank)]));
@@ -183,7 +182,9 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
 .thumb { display: block; aspect-ratio: 16 / 9; max-width: 100%; border-radius: 10px; overflow: hidden; background: var(--surface); }
 .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .3s ease; }
 .card:hover .thumb img { transform: scale(1.03); }
-.ph { display: grid; place-items: center; height: 100%; font: 800 28px/1 var(--display); font-stretch: 125%; color: var(--muted); }
+.ph { display: block; height: 100%; background-size: cover; background-position: center; transition: transform .3s ease; }
+.card:hover .ph { transform: scale(1.03); }
+${[...placeholders].map(([id, uri]) => `.${id} { background-image: url("${uri}"); }`).join('\n')}
 .meta { display: flex; gap: 10px; font-size: 12.5px; color: var(--muted); }
 .meta .src { font-weight: 600; color: var(--ink); }
 .card h3 { margin: 0; font: 700 16.5px/1.3 var(--display); text-wrap: balance; }

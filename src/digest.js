@@ -8,6 +8,7 @@ import dotenv from 'dotenv';
 import { collect } from './collect.js';
 import { classify } from './classify.js';
 import { embedImages } from './images.js';
+import { placeholder } from './placeholders.js';
 import { render, wrapDocument } from './render.js';
 import { resultsInEdition, addCandidates, loadIndex } from './earnings/queue.js';
 
@@ -27,6 +28,17 @@ if (!items.length) throw new Error('No articles collected; not publishing an emp
 const [edition] = await Promise.all([classify(items), embedImages(items)]);
 console.log(`${items.length} articles → ${edition.stories.length} stories (${edition.engine})`);
 
+// Every card gets a picture: the lead article's photo, another outlet's photo of the same
+// story, or a drawn illustration for its section.
+const placeholders = new Map();
+for (const s of edition.stories) {
+  const photo = s.ids.map((id) => items[id]).find((a) => a.imageData);
+  if (photo) { s.image = photo.imageData; continue; }
+  const p = await placeholder(s.section, items[s.ids[0]].url);
+  s.placeholder = p.id;
+  placeholders.set(p.id, p.uri);
+}
+
 // On GitHub the published site (gh-pages) is checked out at ICEMAN_SITE: results stories
 // join Merlin's queue there, and the reports it has finished appear in this edition.
 let reports = [];
@@ -40,7 +52,7 @@ if (site) {
     .sort((a, b) => b.published.localeCompare(a.published));
 }
 
-const page = render({ edition, items, status, now, hours, reports });
+const page = render({ edition, items, status, now, hours, reports, placeholders });
 const outDir = path.join(root, 'out');
 await mkdir(outDir, { recursive: true });
 const day = now.toISOString().slice(0, 10);
