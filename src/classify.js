@@ -35,6 +35,7 @@ You receive the last day's articles from iGaming trade press. Build the edition:
    - africa: the story is about an African market, regulator, operator or event (Nigeria, Kenya, South Africa, Ghana, Tanzania, Uganda, Zambia, Ethiopia, etc.).
    - quarterly: earnings, quarterly/half-year/annual results, trading updates, revenue or GGR figures reported by a company, guidance, analyst forecasts on a listed company.
    - people: appointments, departures, promotions, board changes, hires.
+   - payments: the story is primarily about payments — payment providers/PSPs/processors/acquirers, payment methods and wallets (PayPal, Skrill, Neteller, Trustly, Open Banking / Pay by Bank, Apple Pay, Google Pay), account-to-account/instant payments, card schemes, crypto/stablecoin payments, cashier / deposit-and-withdrawal technology, KYC/fraud in payments, and deals or integrations where the news is the payment capability (even if an operator is involved).
    - sports: sports betting, sportsbooks, odds, betting on sports events, prediction markets, sports sponsorship.
    - casino: online casino, slots, live casino, games studios, game launches, land-based casinos.
    - general: everything else (regulation, legislation, M&A outside results, technology, payments, marketing, events, responsible gambling).
@@ -124,6 +125,7 @@ const RULES = [
   ['africa', /\b(africa|nigeria|kenya|ghana|tanzania|uganda|zambia|ethiopia|malawi|mozambique|namibia|botswana|cameroon|senegal|egypt|morocco|lagos|nairobi|johannesburg)\b/i],
   ['quarterly', /\b(q[1-4]|quarter|half-year|h1|h2|results|earnings|revenue|ggr|trading update|guidance|ebitda|profit)\b/i],
   ['people', /\b(appoint|hires?|named|joins|steps down|departs|promot|ceo|cfo|coo|chief|head of|board)\b/i],
+  ['payments', /\b(payments?|psp|payment service provider|processor|acquirer|e-?wallet|paypal|skrill|neteller|trustly|open banking|pay by bank|a2a|apple pay|google pay|interchange|chargeback|stablecoin|crypto payment|fintech)\b/i],
   ['sports', /\b(sports?book|sports betting|betting|odds|prediction market|football|nfl|nba|bet)\b/i],
   ['casino', /\b(casino|slots?|igaming|game studio|live dealer|jackpot|games)\b/i],
 ];

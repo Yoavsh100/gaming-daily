@@ -65,6 +65,7 @@ export const SECTIONS = [
   { id: 'quarterly', label: 'Quarterly Reports' },
   { id: 'casino',    label: 'Casino' },
   { id: 'sports',    label: 'Sports Betting' },
+  { id: 'payments',  label: 'Payments' },
   { id: 'people',    label: 'People Moves' },
   { id: 'africa',    label: 'Africa' },
 ];

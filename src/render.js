@@ -169,6 +169,9 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
 .t-sports { background: var(--sports-bg); color: var(--sports-fg); }
 .t-people { background: var(--people-bg); color: var(--people-fg); }
 .t-africa { background: var(--africa-bg); color: var(--africa-fg); }
+.t-payments { background: #cfe9e6; color: #18544f; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .t-payments { background: #123a35; color: #8fd3cb; } }
+:root[data-theme="dark"] .t-payments { background: #123a35; color: #8fd3cb; }
 .t-egr { background: #f4dcdc; color: #7c2d2d; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .t-egr { background: #3e2626; color: #f0b3b3; } }
 :root[data-theme="dark"] .t-egr { background: #3e2626; color: #f0b3b3; }
