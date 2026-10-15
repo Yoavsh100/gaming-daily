@@ -42,6 +42,40 @@ You receive the last day's articles from iGaming trade press. Build the edition:
 4. Pick the 5 must-reads.
 5. Mark results stories. When a story reports a specific company's own financial results (quarterly, half-year or full-year results, or a trading update with figures), fill "results" with the company, its main ticker if you know it, and the period. Use the company's own period naming (a fiscal-year company's "Q2 FY2027" stays that way). Leave it null for market-level figures (state or national GGR, regulator statistics), for previews of upcoming results, and for stories that only mention results in passing.`;
 
+// Deterministic safety net over the model's grouping: merge stories whose lead headlines are
+// near-duplicates (the same news reworded by different outlets). Primary de-duplication is the
+// model grouping articles into one story; this catches what it misses and, crucially, cleans up
+// the keyword fallback, which otherwise makes every single article its own story.
+const STOP = new Set('the a an of to in on for and or as at by with from is are be was were it its new has have had will after amid over into out more most than then that this these those up down off week day year has say says'.split(' '));
+const toks = (t = '') => [...new Set(String(t).toLowerCase().replace(/[^a-z0-9 ]+/g, ' ').split(/\s+/).filter((w) => w.length > 2 && !STOP.has(w)))];
+const sim = (a, b) => { if (!a.length || !b.length) return 0; const B = new Set(b); let i = 0; for (const x of a) if (B.has(x)) i++; return i / (a.length + b.length - i); };
+
+function dedupe({ stories, mustReads }, items) {
+  const survivors = [];
+  const map = new Map();
+  for (const s of stories) {
+    const t = toks(items[s.ids[0]]?.title);
+    // Same section + strong overlap, or very strong overlap regardless of section.
+    const host = survivors.find((k) => (k.section === s.section && sim(k._t, t) >= 0.6) || sim(k._t, t) >= 0.82);
+    if (host) {
+      for (const id of s.ids) if (!host.ids.includes(id)) host.ids.push(id); // keep host's lead; others become "also covered by"
+      if (s.importance > host.importance) host.importance = s.importance;
+      host.summary ||= s.summary;
+      map.set(s, host);
+    } else {
+      s._t = t;
+      survivors.push(s);
+      map.set(s, s);
+    }
+  }
+  survivors.forEach((s) => delete s._t);
+  const seen = new Set();
+  const merged = mustReads
+    .map((m) => ({ story: map.get(m.story) || m.story, why: m.why }))
+    .filter((m) => m.story?.ids?.length && !seen.has(m.story) && seen.add(m.story));
+  return { stories: survivors, mustReads: merged };
+}
+
 export async function classify(items) {
   const listing = items.map((it, id) =>
     `[${id}] (${it.sourceName}${it.africaSource ? ', Africa-focused outlet' : ''}) ${it.title}\n${it.excerpt.slice(0, 350)}`).join('\n\n');
@@ -58,10 +92,10 @@ export async function classify(items) {
       messages: [{ role: 'user', content: `Articles:\n\n${listing}` }],
     });
     if (res.stop_reason !== 'end_turn' || !res.parsed_output) throw new Error(`stop_reason ${res.stop_reason}`);
-    return { ...repair(res.parsed_output, items.length), engine: 'claude' };
+    return { ...dedupe(repair(res.parsed_output, items.length), items), engine: 'claude' };
   } catch (err) {
     console.warn(`Claude classification failed (${err.message}); using keyword rules.`);
-    return { ...keywordEdition(items), engine: 'keywords' };
+    return { ...dedupe(keywordEdition(items), items), engine: 'keywords' };
   }
 }
 

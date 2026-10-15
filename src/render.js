@@ -1,6 +1,6 @@
 // Renders the edition as one self-contained HTML page (all cards rendered server-side,
 // a small script only filters by section and search).
-import { SECTIONS } from './sources.js';
+import { SECTIONS, EGR } from './sources.js';
 
 const PER_SECTION = 6; // cards shown per section in the "All" view
 
@@ -48,7 +48,7 @@ function reportCard(r) {
 </article>`;
 }
 
-export function render({ edition, items, status, now, hours, reports = [], placeholders = new Map() }) {
+export function render({ edition, items, status, now, hours, reports = [], placeholders = new Map(), egr = [] }) {
   const stories = edition.stories.map((s) => ({ ...s, articles: s.ids.map((id) => items[id]) }));
   const rank = (a, b) => b.importance - a.importance || b.articles.length - a.articles.length || b.articles[0].date - a.articles[0].date;
   const bySection = Object.fromEntries(SECTIONS.map((sec) => [sec.id, stories.filter((s) => s.section === sec.id).sort(rank)]));
@@ -68,6 +68,16 @@ export function render({ edition, items, status, now, hours, reports = [], place
   <p class="none nomatch" hidden>No stories here match your search.</p>
 </section>`;
   }).join('\n');
+
+  // EGR Headlines: a cordoned block, headlines only (subscriber articles), never grouped or
+  // de-duplicated — every EGR headline is listed even if the story also appears elsewhere.
+  const egrItems = egr.map((e) => `<li class="eitem" data-text="${esc(e.title.toLowerCase())}"><a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a><time datetime="${e.date.toISOString()}">${stamp(e.date, now)}</time></li>`).join('\n');
+  const egrSection = `<section class="sec" data-sec="${EGR.id}" aria-labelledby="h-${EGR.id}">
+  <div class="sechead"><h2 id="h-${EGR.id}"><span class="tag t-${EGR.id}">${EGR.label}</span></h2><span class="count">${egr.length} ${egr.length === 1 ? 'headline' : 'headlines'}</span></div>
+  <p class="egrnote">Headlines from EGR Intel (egr.global) — full articles are subscriber-only. Shown in full here; not de-duplicated against the sections above.</p>
+  ${egr.length ? `<ul class="egrlist">${egrItems}</ul>` : '<p class="none">No EGR headlines in this window.</p>'}
+  <p class="none nomatch" hidden>No headlines here match your search.</p>
+</section>`;
 
   const must = edition.mustReads.map(({ story, why }) => {
     const lead = items[story.ids[0]];
@@ -159,6 +169,9 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
 .t-sports { background: var(--sports-bg); color: var(--sports-fg); }
 .t-people { background: var(--people-bg); color: var(--people-fg); }
 .t-africa { background: var(--africa-bg); color: var(--africa-fg); }
+.t-egr { background: #f4dcdc; color: #7c2d2d; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .t-egr { background: #3e2626; color: #f0b3b3; } }
+:root[data-theme="dark"] .t-egr { background: #3e2626; color: #f0b3b3; }
 
 .ticker { margin: 24px 40px 0; display: flex; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; font-size: 14px; }
 .ticker b { background: var(--accent); color: var(--on-accent); padding: 11px 16px; font: 700 13px/1.2 var(--display); letter-spacing: .08em; text-transform: uppercase; white-space: nowrap; }
@@ -194,6 +207,13 @@ ${[...placeholders].map(([id, uri]) => `.${id} { background-image: url("${uri}")
 .also a { text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 2px; }
 .also a:hover { color: var(--ink); }
 .none { color: var(--muted); margin: 0; }
+.egrnote { margin: 0 0 14px; color: var(--muted); font-size: 13px; }
+.egrlist { list-style: none; margin: 0; padding: 0; border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+.eitem { display: flex; justify-content: space-between; align-items: baseline; gap: 18px; padding: 13px 18px; border-top: 1px solid var(--line); }
+.eitem:first-child { border-top: 0; }
+.eitem a { font: 700 15.5px/1.35 var(--display); text-wrap: balance; }
+.eitem a:hover { color: var(--accent); }
+.eitem time { color: var(--muted); font-size: 12.5px; white-space: nowrap; font-variant-numeric: tabular-nums; }
 .reports { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; margin-bottom: 28px; }
 .rcard { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 18px 20px; gap: 10px; }
 .reye { margin: 0; font-size: 12px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--accent); }
@@ -248,7 +268,7 @@ body:not([data-view="all"]) .more { display: none; }
 <div class="app">
   <aside class="rail">
     <div class="mast"><small>B2Tech</small>Iceman</div>
-    <nav aria-label="Sections"><a href="#all" data-go="all" aria-current="true">All stories<span>${stories.length}</span></a>${SECTIONS.map((s) => `<a href="#${s.id}" data-go="${s.id}">${s.label}<span>${bySection[s.id].length}</span></a>`).join('')}</nav>
+    <nav aria-label="Sections"><a href="#all" data-go="all" aria-current="true">All stories<span>${stories.length}</span></a>${SECTIONS.map((s) => `<a href="#${s.id}" data-go="${s.id}">${s.label}<span>${bySection[s.id].length}</span></a>`).join('')}<a href="#${EGR.id}" data-go="${EGR.id}">${EGR.label}<span>${egr.length}</span></a></nav>
     <div><h4>Sources today</h4><ul class="srcs">${sourceList}</ul></div>
   </aside>
 
@@ -263,13 +283,15 @@ body:not([data-view="all"]) .more { display: none; }
       <div class="pills" role="group" aria-label="Filter by section">
         <button class="pill all" data-go="all" aria-pressed="true">All</button>
         ${SECTIONS.map((s) => `<button class="pill tag t-${s.id}" data-go="${s.id}" aria-pressed="false">${s.label}</button>`).join('')}
+        <button class="pill tag t-${EGR.id}" data-go="${EGR.id}" aria-pressed="false">${EGR.label}</button>
       </div>
     </header>
 
     <div class="ticker" aria-label="Top stories"><b>Top stories</b><div class="tscroll"><div class="track">${tickerItems}${tickerItems.replace(/<a /g, '<a aria-hidden="true" tabindex="-1" ')}</div></div></div>
 
     <div class="body">
-      <main class="feed">${sections}</main>
+      <main class="feed">${sections}
+${egrSection}</main>
       <aside class="must" aria-labelledby="must-h"><h2 id="must-h">Must reads</h2><ol>${must}</ol></aside>
     </div>
 
@@ -284,7 +306,7 @@ body:not([data-view="all"]) .more { display: none; }
 (() => {
   const body = document.body;
   const q = document.getElementById('q');
-  const valid = ['all', ${SECTIONS.map((s) => `'${s.id}'`).join(', ')}];
+  const valid = ['all', ${SECTIONS.map((s) => `'${s.id}'`).join(', ')}, '${EGR.id}'];
 
   function apply() {
     const view = body.dataset.view;
@@ -297,7 +319,7 @@ body:not([data-view="all"]) .more { display: none; }
     });
     document.querySelectorAll('.sec').forEach((sec) => {
       let shown = 0;
-      sec.querySelectorAll('.card').forEach((c) => {
+      sec.querySelectorAll('.card, .eitem').forEach((c) => {
         c.hidden = !!term && !c.dataset.text.includes(term);
         if (!c.hidden) shown++;
       });

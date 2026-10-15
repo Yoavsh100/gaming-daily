@@ -18,6 +18,17 @@ export const SOURCES = [
   { id: 'igfut',   name: 'iGaming Future',          type: 'rss',     url: 'https://igamingfuture.com/feed/', africa: true },
 ];
 
+// EGR Intel is a SEPARATE, cordoned feed: headlines only (articles are subscriber-only),
+// shown in its own "EGR Headlines" section, and deliberately NOT part of SOURCES — so it
+// never enters classification or cross-source de-duplication. Every EGR headline is listed
+// regardless of whether the same story also appears (from another outlet) elsewhere.
+export const EGR = {
+  id: 'egr',
+  label: 'EGR Headlines',
+  name: 'EGR Intel',
+  url: 'https://www.egr.global/intel/feed/',
+};
+
 export const SECTIONS = [
   { id: 'general',   label: 'General News' },
   { id: 'quarterly', label: 'Quarterly Reports' },

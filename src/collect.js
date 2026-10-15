@@ -2,7 +2,7 @@
 // { source, sourceName, africaSource, title, url, date (Date), excerpt, image }
 import { execFile } from 'node:child_process';
 import { XMLParser } from 'fast-xml-parser';
-import { SOURCES } from './sources.js';
+import { SOURCES, EGR } from './sources.js';
 
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36';
 const xml = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: '@', textNodeName: '#text' });
@@ -127,6 +127,29 @@ async function fetchSource(src) {
     if (!src.gnews) throw err;
     return { items: await fromGoogleNews(src), via: `Google News (direct: ${err.message.split(' ')[0]})` };
   }
+}
+
+// EGR Intel: headlines only (title + link + date). Articles are subscriber-only, so we take
+// nothing but the headline and link back. Kept entirely out of collect()/classification —
+// never grouped or de-duplicated. Returns items in the edition window; if that window is thin
+// (EGR is low-volume), falls back to the feed's latest so the section is rarely empty.
+export async function collectEgr({ hours }) {
+  const since = Date.now() - hours * 3600e3;
+  const parseFeed = (body) => arr(xml.parse(body)?.rss?.channel?.item)
+    .map((it) => ({ title: clean(text(it.title)).replace(/\s+-\s+EGR[^-]*$/i, ''), url: text(it.link).trim(), date: new Date(text(it.pubDate) || text(it['dc:date'])) }))
+    .filter((i) => i.title && i.url && !Number.isNaN(i.date.getTime()));
+  let all;
+  try {
+    all = parseFeed(await get(EGR.url));
+  } catch (err) {
+    // Cloud/data-centre IPs can be Cloudflare-blocked on egr.global; fall back to Google News
+    // headlines for the Intel section (still headlines + link only).
+    const q = encodeURIComponent('site:egr.global/intel when:4d');
+    all = parseFeed(await get(`https://news.google.com/rss/search?q=${q}&hl=en-GB&gl=GB&ceid=GB:en`));
+  }
+  all.sort((a, b) => b.date - a.date);
+  const windowed = all.filter((i) => i.date.getTime() >= since);
+  return windowed.length >= 5 ? windowed : all.slice(0, 8);
 }
 
 export async function collect({ hours }) {
