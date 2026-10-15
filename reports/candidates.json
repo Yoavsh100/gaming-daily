@@ -73,7 +73,8 @@
       "https://next.io/news/results/betmgm-shifts-focus-to-higher-value-us-markets/",
       "https://next.io/news/results/entain-q3-uk-online-surge-pushes-ngr-up/",
       "https://casinobeats.com/2026/10/14/betmgm-q3-results/",
-      "https://www.gamingintelligence.com/finance/237296-entain-benefits-from-uk-and-ireland-growth-in-q3-2026/"
+      "https://www.gamingintelligence.com/finance/237296-entain-benefits-from-uk-and-ireland-growth-in-q3-2026/",
+      "https://europeangaming.eu/portal/latest-news/2026/10/15/216063/entain-q3-2026-trading-update/"
     ],
     "seen": "2026-10-15"
   },
@@ -83,7 +84,18 @@
     "ticker": "RNK.L",
     "period": "Q1 FY2027",
     "urls": [
-      "https://www.gamingintelligence.com/finance/237295-rank-group-delivers-like-for-like-revenue-growth-in-fiscal-first-quarter/"
+      "https://www.gamingintelligence.com/finance/237295-rank-group-delivers-like-for-like-revenue-growth-in-fiscal-first-quarter/",
+      "https://next.io/news/results/rank-highlights-digital-resilience-despite-headwinds/"
+    ],
+    "seen": "2026-10-15"
+  },
+  {
+    "key": "okada manila|Q3 2026",
+    "company": "Okada Manila",
+    "ticker": null,
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237308-okada-manila-returns-to-revenue-growth-in-third-quarter/"
     ],
     "seen": "2026-10-15"
   }
