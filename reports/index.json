@@ -284,5 +284,179 @@
     "releaseDate": "13 Oct 2026 (ASX trading update, pre-results; full H1 FY27 report due 30 Oct 2026)",
     "model": "claude-fable-5-1",
     "costUsd": 4.51
+  },
+  {
+    "key": "ENT.L|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-15T17:27:15.367Z",
+    "status": "done",
+    "error": null,
+    "slug": "ENT-L-Q3-2026",
+    "published": "2026-10-15",
+    "company": {
+      "name": "Entain plc",
+      "ticker": "ENT.L",
+      "exchange": "LSE"
+    },
+    "period": "Q3 2026",
+    "verdict": "An \"as guided\" quarter with the UK doing all the heavy lifting: Q3 group NGR +2% cc, online +3% (+5% ex-Brazil) and UK&I online +14% on +15% volumes, against a ~4pp drag from customer-friendly football and a -36% Brazil print that precedes a full Q4 wipe-out. FY26 guidance — online NGR +4-6% cc and underlying EBITDA at the lower end of £910-960m (~$1.20-1.27bn) — was reiterated three weeks after being cut to the floor, so the ~3% share-price fall reflects quality-of-growth questions (sports NGR -3%, International online -3%, ex-Brazil International only +1%, a \"softer Q4\" nod from the CFO) rather than any new estimate change. BetMGM's $86m adjusted EBITDA (+112%) and $68m of cash to parents is the genuine positive surprise.",
+    "kpis": [
+      {
+        "label": "Group NGR growth (Q3, cc, continuing ops)",
+        "value": "+2%",
+        "delta": "vs +7% in Q2-26; +5% in Q3-25",
+        "dir": "down"
+      },
+      {
+        "label": "Online NGR growth (Q3, cc)",
+        "value": "+3%",
+        "delta": "+5% ex-Brazil; gaming +8%, sports -3%; ~4pp sports-margin drag",
+        "dir": "down"
+      },
+      {
+        "label": "UK&I Online NGR (Q3, cc)",
+        "value": "+14%",
+        "delta": "volumes +15%; gaming +17%, sports +3%; 9M +13%",
+        "dir": "up"
+      },
+      {
+        "label": "Brazil NGR (Q3, cc)",
+        "value": "-36%",
+        "delta": "online ban from 25 Sep; ~5% of planned FY26 online NGR",
+        "dir": "down"
+      },
+      {
+        "label": "FY26 underlying EBITDA guide (exc. parent fees)",
+        "value": "Lower end of £910-960m (~$1.20-1.27bn)",
+        "delta": "unchanged vs 28 Sep; was midpoint/£934m (~$1.23bn) consensus in Aug",
+        "dir": "down"
+      },
+      {
+        "label": "BetMGM Q3 adj. EBITDA (100% JV)",
+        "value": "$86m",
+        "delta": "+112% YoY; NR $710m +7%; $68m cash to parents",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "15 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 6.7
+  },
+  {
+    "key": "rank|Q1 FY2027",
+    "attempts": 1,
+    "lastAttempt": "2026-10-15T17:44:55.000Z",
+    "status": "done",
+    "error": null,
+    "slug": "RNK-L-Q1-FY2027",
+    "published": "2026-10-15",
+    "company": {
+      "name": "The Rank Group plc",
+      "ticker": "RNK.L",
+      "exchange": ""
+    },
+    "period": "Q1 FY2027",
+    "verdict": "A clean but revenue-only Q1: LFL NGR +5% to £216.1m (~$287m), digital +6% and Grosvenor +6% (machines +14%) absorbing the first full quarter of 40% Remote Gaming Duty, with FY27 guidance reiterated as \"in line with market expectations\" — explicitly conditional on no Budget change to Machine Games Duty. The print neither re-rates nor de-rates the equity; the stock remains a binary on the Autumn Budget, where Shore Capital sizes a hypothetical MGD doubling at £35m (~$47m) gross against FY26 underlying operating profit of £78.6m (~$105m). Beneath the headline, growth decelerated through the quarter (first six weeks +8%, full quarter +5%) and Mecca visits fell again.",
+    "kpis": [
+      {
+        "label": "Group LFL NGR (Q1 FY27)",
+        "value": "£216.1m (~$287m)",
+        "delta": "+5% YoY LFL; +3.4% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Digital LFL NGR",
+        "value": "£64.9m (~$86m)",
+        "delta": "+6% YoY (UK +6%, Intl +4%); Q4 FY26 was +12%",
+        "dir": "up"
+      },
+      {
+        "label": "Grosvenor venues LFL NGR",
+        "value": "£108.1m (~$144m)",
+        "delta": "+6% YoY; visits +1%, spend/visit +5%",
+        "dir": "up"
+      },
+      {
+        "label": "Grosvenor gaming machines NGR",
+        "value": "+14% YoY",
+        "delta": "vs +12% Q4 FY26, +10% Q3 FY26",
+        "dir": "up"
+      },
+      {
+        "label": "Mecca venues LFL NGR",
+        "value": "£32.2m (~$43m)",
+        "delta": "0% YoY; visits −3%, spend/visit +3%",
+        "dir": "flat"
+      },
+      {
+        "label": "FY27 LFL operating profit guidance",
+        "value": "In line with market expectations",
+        "delta": "Unchanged; conditional on current UK tax regime",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "15 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.98
+  },
+  {
+    "key": "okada manila|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-15T18:04:43.890Z",
+    "status": "done",
+    "error": null,
+    "slug": "OKADA-MANILA-Q3-2026",
+    "published": "2026-10-15",
+    "company": {
+      "name": "Okada Manila",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A flat-revenue, hold-flattered quarter. Q3-26 revenue of ₱7,841m (~$124.7m) was unchanged YoY and GGR rose just 0.9% to ₱7.04bn (~$111.9m) only because live mass-table hold jumped 380bps to 32.2%; VIP rolling volume fell another 28% and adjusted segment EBITDA dropped 13% to ₱962m (~$15.3m), a 12.3% margin (-180bps). The sequential rebound from a dire Q2 (₱333m) keeps parent UEC's \"2H26 return to IR operating profit\" target technically alive, but hold-adjusted GGR was still down ~1% and the cost base grew 2% on flat revenue — this is stabilisation, not recovery.",
+    "kpis": [
+      {
+        "label": "Total revenue (Q3-26)",
+        "value": "₱7,841m (~$124.7m)",
+        "delta": "flat YoY; +12.2% QoQ",
+        "dir": "flat"
+      },
+      {
+        "label": "Casino GGR",
+        "value": "₱7,037m (~$111.9m)",
+        "delta": "+0.9% YoY; +16.1% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. segment EBITDA",
+        "value": "₱962m (~$15.3m)",
+        "delta": "-13.0% YoY; +189% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA margin",
+        "value": "12.3%",
+        "delta": "-180bps YoY; +750bps QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "VIP rolling chip volume",
+        "value": "₱29.4bn (~$468m)",
+        "delta": "-27.7% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Property visitors",
+        "value": "1.45m",
+        "delta": "+11.8% YoY",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "14 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.11
   }
 ]

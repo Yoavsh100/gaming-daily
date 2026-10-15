@@ -1,0 +1,2246 @@
+{
+  "company": {
+    "name": "Entain plc",
+    "ticker": "ENT.L",
+    "exchange": "LSE"
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 3469236,
+    "output": 78428,
+    "searches": 13,
+    "fetches": 10,
+    "uncached": 72,
+    "cacheRead": 3313512,
+    "cacheWrite": 155652,
+    "turns": 1
+  },
+  "prepared": "15 Oct 2026",
+  "report": {
+    "releaseDate": "15 Oct 2026",
+    "currency": "GBP (£m; USD equivalents at GBP/USD 1.32 shown as ~$). BetMGM reported in USD.",
+    "verdict": "An \"as guided\" quarter with the UK doing all the heavy lifting: Q3 group NGR +2% cc, online +3% (+5% ex-Brazil) and UK&I online +14% on +15% volumes, against a ~4pp drag from customer-friendly football and a -36% Brazil print that precedes a full Q4 wipe-out. FY26 guidance — online NGR +4-6% cc and underlying EBITDA at the lower end of £910-960m (~$1.20-1.27bn) — was reiterated three weeks after being cut to the floor, so the ~3% share-price fall reflects quality-of-growth questions (sports NGR -3%, International online -3%, ex-Brazil International only +1%, a \"softer Q4\" nod from the CFO) rather than any new estimate change. BetMGM's $86m adjusted EBITDA (+112%) and $68m of cash to parents is the genuine positive surprise.",
+    "kpis": [
+      {
+        "label": "Group NGR growth (Q3, cc, continuing ops)",
+        "value": "+2%",
+        "delta": "vs +7% in Q2-26; +5% in Q3-25",
+        "dir": "down"
+      },
+      {
+        "label": "Online NGR growth (Q3, cc)",
+        "value": "+3%",
+        "delta": "+5% ex-Brazil; gaming +8%, sports -3%; ~4pp sports-margin drag",
+        "dir": "down"
+      },
+      {
+        "label": "UK&I Online NGR (Q3, cc)",
+        "value": "+14%",
+        "delta": "volumes +15%; gaming +17%, sports +3%; 9M +13%",
+        "dir": "up"
+      },
+      {
+        "label": "Brazil NGR (Q3, cc)",
+        "value": "-36%",
+        "delta": "online ban from 25 Sep; ~5% of planned FY26 online NGR",
+        "dir": "down"
+      },
+      {
+        "label": "FY26 underlying EBITDA guide (exc. parent fees)",
+        "value": "Lower end of £910-960m (~$1.20-1.27bn)",
+        "delta": "unchanged vs 28 Sep; was midpoint/£934m (~$1.23bn) consensus in Aug",
+        "dir": "down"
+      },
+      {
+        "label": "BetMGM Q3 adj. EBITDA (100% JV)",
+        "value": "$86m",
+        "delta": "+112% YoY; NR $710m +7%; $68m cash to parents",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**In line, not better:** Q3 group NGR +2% cc (continuing operations, ex-CEE), online +3%, retail -2% — versus Q2's +7%/+8%/+3% and Q3-25's +5%/+6%/+3%. Entain's Q3 trading updates disclose growth rates only; there is no quarterly P&L, so profit visibility rests entirely on the reiterated guidance and the H1-26 base (NGR £2,545.3m / ~$3.36bn; underlying EBITDA £479.3m / ~$633m).",
+      "**Guidance reiterated — but it was already cut to the floor on 28 Sep:** FY26 online NGR +4-6% cc (ex-Brazil at the top end of 5-7%); underlying EBITDA exc. parent fees at the lower end of £910-960m (~$1.20-1.27bn); online EBITDA margin at the lower end of 21-22%. The 13 Aug (H1) guide was online NGR +5-7% and 'comfortable' with the £934m (~$1.23bn) consensus midpoint. The ~£24m (~$32m) step-down is entirely the International division, specifically Brazil.",
+      "**Brazil is the swing division:** Q3 Brazil NGR -36% (Q3-25: -11%; H1-26: -25%) as management pulled back marketing in an 'intensely competitive, highly promotional' market; then on 25 Sep a provisional executive measure withdrew every operator's online licence with immediate effect. Congress has 120 days (plus recess) to ratify. Brazil was expected to be ~5% of FY26 online NGR with modest EBITDA; guidance assumes the ban holds for the rest of 2026. Management expects the market to 'reopen in some form' but will re-enter conservatively.",
+      "**Sports results cost ~4pp of online growth:** customer-friendly football in August and September more than offset July's strong World Cup finish; management puts the Q3 sports-margin headwind at c.1-2pp versus plan, equivalent to ~4% of online NGR growth, while the YoY margin move was only -0.2pp (group) because Q3-25 was itself a weak comparator. Note that online sports wagers were -1% and group wagers only +1% — the volume line in sports was flat before any margin effect, which the release does not dwell on.",
+      "**Gaming is the engine:** online gaming NGR +8% (UK&I +17%, International +1%); 9M online gaming +9%. Gaming is carrying the group while sports NGR is -3% — a mix shift that is margin-positive pre-tax but concentrates growth in the line most exposed to the UK's 40% Remote Gaming Duty (from 1 Apr 2026).",
+      "**UK&I beat expectations:** NGR +8% cc (online +14% on volumes +15%; retail +1%, +3% LFL), with management citing continued market-share gains in both channels. UK&I online has run at +13-15% in every disclosed quarter since Q3-25 (Q3-25 +15%, Q2-26 +14%, Q3-26 +14%; H1-26 +13%) despite a 19-point RGD step-up. UK&I is ~46% of continuing NGR (H1: £1,176.8m / ~$1.55bn).",
+      "**International is weak beyond Brazil:** NGR -4% (online -3%, retail -12%); ex-Brazil online only +1% (9M +2%). Italy -6% (online -5%, retail -8%) on +9% volumes but a -3.1pp sports margin; Australia online +1% (H1 +13%) lapping tough comps; New Zealand, Spain and Canada kept double-digit online growth. International online volumes were -3% — the first negative volume print in the current run.",
+      "**World Cup read-across (group event stats):** the expanded Men's World Cup drove Q2 online NGR +8% cc and first-time depositors double the 2022 tournament; July's strong sports margin was the tail of that, and BetMGM also cited 'successful World Cup' engagement. The event is now fully in the base and Q4 faces the NFL/football calendar without it.",
+      "**BetMGM delivered the quarter's upside surprise:** Q3 net revenue $710m (+7%), iGaming $483m (+6%), online sports $216m (+7%) on handle $3.24bn (+3%) and GGR hold 10.7% (+55bps); contribution $175m (+32%, 24.6% margin); adjusted EBITDA $86m (+112%, 12.1% margin); 9M adjusted EBITDA $185m (+24%). FY26 guidance reiterated at the lower end ($2.9bn NR / $300m adj. EBITDA), which on our arithmetic implies Q4 of at least ~$784m revenue and ~$115m adj. EBITDA.",
+      "**BetMGM cash is now real for Entain:** $68m paid to parents in Q3 ($18m parent fees + $50m distributions), so ~$34m (~£26m) to Entain. Against that, Entain's equity-accounted H1 share of BetMGM profit fell to £19.7m (~$26m) from £33.6m (~$44m) as parent fees moved above the JV line — more cash, less reported JV profit; Q3 should reverse the profit trend given the EBITDA doubling (Entain's 50% of Q3 adj. EBITDA ≈ $43m / ~£33m).",
+      "**Margins are under tax pressure (H1 base):** underlying EBITDA exc. parent fees £472.6m (~$624m), -3%; online EBITDA margin 21.4% (-3.2pp), UK&I online EBITDA margin 23.1% vs 28.6%; group contribution margin -2.9pp from RGD. The lower-end FY26 guide implies H2 underlying EBITDA exc. parent fees of only ~£437m (~$577m) vs £473m in H1 — two quarters of 40% RGD plus Brazil, partly offset by World Cup marketing roll-off and Brazil marketing savings (our arithmetic).",
+      "**No named cost programme, but mitigation is quantified:** management expects to offset ~25% of the FY26 UK online tax impact; operating costs were held to +3% in H1 (inflation, pay and employer NI, offset by efficiencies); press reports put ~400 Entain customer-care roles at risk. Expect the FY results in March to re-express the cost/cash framework alongside the CEE deconsolidation.",
+      "**Balance sheet:** 30 Jun adjusted net debt £3,598.9m (~$4.75bn), reported leverage 3.1x (flat YoY; look-through incl. 50% BetMGM/DPA was 3.6x at FY25), available liquidity £938.6m (~$1.24bn) with £135m (~$178m) drawn on the RCF. H1 operating cash flow £348.8m (~$460m), net capex £138.3m (~$183m), 'adjusted cashflow' £77.4m (~$102m) vs £151m (~$199m) for all of FY25. Interim DPS 10.3p (~$0.14), +5%, paid 28 Sep.",
+      "**CEE exit on track:** sale of an initial 20% of Entain CEE (SuperSport/STS) to EMMA Capital for €425m (~$476m / ~£361m), implying EV €2.1bn (~$2.35bn, c.10x EBITDA), is expected to close in Q4-26; Entain drops to 47.5% and CEE (H1 NGR £268.9m / ~$355m, EBITDA £94.7m / ~$125m) is deconsolidated. Q3 CEE NGR flat (online +4%, retail -22%). Proceeds from the full exit are earmarked to take reported leverage below 3x, excess to shareholders.",
+      "**£500m (~$660m) 2028 cash target survives — for now:** reiterated, including the 47.5% CEE stake, but CFO Michael Snape said the cash-generation outlook will be 'articulated differently' at FY results. With CEE deconsolidated, BetMGM distributions ramping and UK duty rising, expect a re-basing rather than a simple reaffirmation.",
+      "**UK tax is the macro overhang:** RGD 21%→40% from 1 Apr 2026; remote betting duty to 25% from Apr 2027 (sports is untouched until then); Budget speculation of machine gaming duty 20%→40%. Management cited 630 industry shop closures since last year and third-party estimates of ~1,500 further closures / ~16,000 jobs if MGD doubles. On the H1 run-rate, UK&I retail gaming NGR is ~£525m (~$693m) annualised, so a 20pt MGD rise is mechanically ~£100m (~$130m) before mitigation (our estimate).",
+      "**'Somewhat softer' Q4 flagged by the CFO** after a strong YTD ex-Brazil (+8%); our arithmetic: FY online +4-6% on 9M +5% requires Q4 of roughly +1% to +9% including a ~4-5pp Brazil hole, so the bottom of the range (~+4%) is the realistic landing, with sports margin the swing (Q3-25 reference: a 1-2pp margin miss cost c.£20m / ~$26m of EBITDA in a quarter).",
+      "**Management and strategy:** CEO Stella David and CFO Michael Snape (joined Mar 2026) framed Q3 as the tenth consecutive quarter of online growth. Other call points: three New Zealand licences secured (iGaming growth option), Italy/Eurobet refresh under a new team (AS Roma partnership), BetMGM Alberta launch tracking above Ontario, and a continued shift of BetMGM investment toward iGaming/multi-product states and 'premium mass' sports customers.",
+      "**Share reaction:** -2.6% to 432.6p (~$5.71) at the open and -3.4% to 429.3p (~$5.67) by midday on 15 Oct (implied prior close ~444p); the stock is -42% YTD and Deutsche Bank had already cut its target to 872p after the 28 Sep Brazil update.",
+      "**Thesis read-through:** the equity case is UK share gains + BetMGM cash + CEE monetisation versus UK tax + Brazil + 3x-plus leverage. Q3 strengthens the first two and confirms the third, but International ex-Brazil at +1% and flat sports volumes mean the 'high-quality growth' claim is, for now, a UK&I-only statement. The FY26 number is de-risked at the floor; FY27 (25% GBD, MGD, CEE out) is where estimates remain unsettled."
+    ],
+    "groupTable": {
+      "note": "£m / YoY cc unless stated (~$m at 1.32)",
+      "columns": [
+        "Q3-26 YoY cc",
+        "Q2-26 YoY cc",
+        "Q3-25 YoY cc",
+        "9M-26 YoY cc",
+        "H1-26 £m (~$m)",
+        "H1-26 YoY"
+      ],
+      "rows": [
+        {
+          "label": "Net gaming revenue — continuing ops (ex-CEE), constant-currency growth",
+          "kind": "group",
+          "footnote": "Q3 trading updates disclose growth rates only; absolute figures are H1-26 (13 Aug 2026). n/d = not disclosed. 2025 restated for CEE as discontinued."
+        },
+        {
+          "label": "Group NGR",
+          "kind": "emphasis",
+          "cells": [
+            "+2%",
+            "+7%",
+            "+5%",
+            "+4%",
+            "2,545.3 (~3,360)",
+            "+7% rpt / +5% cc"
+          ]
+        },
+        {
+          "label": "Online NGR",
+          "indent": true,
+          "cells": [
+            "+3%",
+            "+8%",
+            "+6%",
+            "+5%",
+            "1,846.9 (~2,438)",
+            "+9% rpt / +7% cc"
+          ]
+        },
+        {
+          "label": "Online NGR ex-Brazil",
+          "indent": true,
+          "cells": [
+            "+5%",
+            "n/d",
+            "n/d",
+            "+8%",
+            "n/d",
+            "n/d"
+          ]
+        },
+        {
+          "label": "Retail NGR",
+          "indent": true,
+          "cells": [
+            "-2%",
+            "+3%",
+            "+3%",
+            "flat",
+            "698.4 (~922)",
+            "+2% rpt / +1% cc"
+          ]
+        },
+        {
+          "label": "UK & Ireland NGR",
+          "indent": true,
+          "cells": [
+            "+8%",
+            "+9%",
+            "+8%",
+            "+8%",
+            "1,176.8 (~1,553)",
+            "+8%"
+          ]
+        },
+        {
+          "label": "International NGR",
+          "indent": true,
+          "cells": [
+            "-4%",
+            "+5%",
+            "+1%",
+            "+1%",
+            "1,368.5 (~1,806)",
+            "+7% rpt / +3% cc"
+          ]
+        },
+        {
+          "label": "Entain CEE NGR (discontinued)",
+          "indent": true,
+          "cells": [
+            "flat",
+            "+12%",
+            "+10%",
+            "+1%",
+            "268.9 (~355)",
+            "+6% rpt / +2% cc"
+          ]
+        },
+        {
+          "label": "By product (continuing ops)",
+          "kind": "group"
+        },
+        {
+          "label": "Gaming NGR",
+          "indent": true,
+          "cells": [
+            "+6%",
+            "+6%",
+            "n/d",
+            "+7%",
+            "1,264.7 (~1,669)",
+            "+9%"
+          ]
+        },
+        {
+          "label": "Sports NGR",
+          "indent": true,
+          "cells": [
+            "-3%",
+            "+8%",
+            "+1%¹",
+            "+1%",
+            "1,211.3 (~1,599)",
+            "+6%"
+          ],
+          "footnote": "¹ Q3-25 figure is online (ex-US) as disclosed in the Q3-25 update."
+        },
+        {
+          "label": "Sports wagers",
+          "indent": true,
+          "cells": [
+            "+1%",
+            "+6%",
+            "+5%¹",
+            "+6%",
+            "9,408.3 (~12,419)",
+            "+11%"
+          ]
+        },
+        {
+          "label": "Sports margin (YoY move)",
+          "indent": true,
+          "cells": [
+            "-0.2pp (c.-1-2pp vs plan)",
+            "+0.4pp",
+            "c.-1-2pp vs plan",
+            "-0.4pp",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Volume growth (margin-neutral NGR)",
+          "indent": true,
+          "cells": [
+            "+2%",
+            "+5%",
+            "+7%¹",
+            "+5%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Profitability (not disclosed at Q3 — H1 base)",
+          "kind": "group"
+        },
+        {
+          "label": "Underlying EBITDA exc. BetMGM parent fees",
+          "kind": "emphasis",
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "472.6 (~624)",
+            "-3%"
+          ]
+        },
+        {
+          "label": "BetMGM parent fees (revenue = EBITDA)",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "—",
+            "n/d",
+            "6.7 (~9)",
+            "new in 2026"
+          ]
+        },
+        {
+          "label": "Underlying EBITDA",
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "479.3 (~633)",
+            "-2%"
+          ]
+        },
+        {
+          "label": "Underlying EBITDA margin (on NGR)",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "18.8%",
+            "-1.8pp"
+          ]
+        },
+        {
+          "label": "Online underlying EBITDA",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "395 (~521)",
+            "-5%"
+          ]
+        },
+        {
+          "label": "Online underlying EBITDA margin",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "21.4%",
+            "-3.2pp"
+          ]
+        },
+        {
+          "label": "Retail underlying EBITDA",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "142 (~187)",
+            "+6%"
+          ]
+        },
+        {
+          "label": "Corporate costs (exc. parent fees)",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "(64.3) (~(85))",
+            "-8%"
+          ]
+        },
+        {
+          "label": "Share of JV income (of which BetMGM £19.7m / ~$26m)",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "20.1 (~27)",
+            "-41%"
+          ]
+        },
+        {
+          "label": "Separately disclosed items",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "(187.0) (~(247))",
+            "vs (205.9)"
+          ]
+        },
+        {
+          "label": "Loss after tax — continuing (IFRS)",
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "(11.4) (~(15))",
+            "vs (85.8)"
+          ]
+        },
+        {
+          "label": "Diluted EPS — IFRS, continuing",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "(1.8)p (~$(0.02))",
+            "vs (14.3)p"
+          ]
+        },
+        {
+          "label": "Adjusted diluted EPS",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "20.3p (~$0.27)",
+            "-19%"
+          ]
+        },
+        {
+          "label": "Interim dividend per share",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "10.3p (~$0.14)",
+            "+5%"
+          ]
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group"
+        },
+        {
+          "label": "Group average monthly actives",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d"
+          ],
+          "footnote": "Entain does not disclose group actives. BetMGM Q3 average monthly actives 878k (-3%)."
+        },
+        {
+          "label": "UK&I share of continuing NGR",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "46%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Cash & balance sheet (30 Jun 2026)",
+          "kind": "group"
+        },
+        {
+          "label": "Net cash from operating activities (incl. CEE)",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "348.8 (~460)",
+            "vs 282.5"
+          ]
+        },
+        {
+          "label": "Net capital expenditure",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "(138.3) (~(183))",
+            "vs (161.5)"
+          ]
+        },
+        {
+          "label": "Adjusted cashflow (company definition)",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "77.4 (~102)",
+            "FY25: 151 (~199)"
+          ]
+        },
+        {
+          "label": "Adjusted net debt",
+          "kind": "emphasis",
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "3,598.9 (~4,751)",
+            "FY25: c.3,600"
+          ]
+        },
+        {
+          "label": "Reported leverage (net debt / LTM underlying EBITDA incl. 100% CEE)",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "3.1x",
+            "flat YoY"
+          ]
+        },
+        {
+          "label": "Look-through leverage (incl. 50% BetMGM, DPA, CEE NCI)",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "FY25: 3.6x"
+          ]
+        },
+        {
+          "label": "Available liquidity (cash + undrawn RCF)",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "n/d",
+            "n/d",
+            "938.6 (~1,239)",
+            "RCF drawn £135m (~$178m)"
+          ]
+        },
+        {
+          "label": "FY26 guidance (28 Sep 2026; reiterated 15 Oct)",
+          "kind": "group"
+        },
+        {
+          "label": "Online NGR growth (cc)",
+          "indent": true,
+          "cells": [
+            "+4-6% (ex-Brazil: top end of 5-7%)",
+            "prior: +5-7%",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Underlying EBITDA exc. parent fees",
+          "indent": true,
+          "cells": [
+            "lower end of £910-960m (~$1,201-1,267m)",
+            "prior: midpoint / £934m (~$1,233m) consensus",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Online underlying EBITDA margin",
+          "indent": true,
+          "cells": [
+            "lower end of 21-22%",
+            "prior: 21-22% (23-24% incl. CEE at FY25 results)",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Annual adjusted cashflow 2028 (incl. 47.5% CEE)",
+          "indent": true,
+          "cells": [
+            "£500m (~$660m)",
+            "reiterated; to be 're-articulated' at FY results",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "UK & Ireland Online",
+        "headline": "+14% NGR on +15% volumes with gaming +17% — share gains are real, but every incremental pound now lands at a 5-7pp lower margin after the 40% RGD.",
+        "narrative": [
+          "They delivered another quarter of double-digit growth in their largest online market: UK&I online NGR rose 14% cc (Q2-26: +14%; Q3-25: +15%) on underlying volumes +15%, which management attributes to continued market-share gains in both sports and gaming. Gaming NGR accelerated to +17% (Q2 +13%; 9M +14%), while sports NGR slowed to +3% on wagers +6% as the sports margin fell 0.4pp YoY against a Q3-25 comparator that was itself flattered by +0.8pp. Strip out the margin and sports volume growth of roughly 6-7% is consistent with the first half; the sports slowdown is luck, not demand. The RNS calls the region 'ahead of expectations', and the 9M run-rate of +13% sits comfortably above the group's 4-6% online guide.",
+          "The quality of this growth is the debate. Management credits the native-app upgrade, BetBuilder expansion ahead of the World Cup, the gaming 'coin economy' and AI-driven bonus optimisation that targets generosity at the right customer at the right time; the fact that UK&I online has run at +13-15% in every disclosed quarter since Q3-25 while digesting the 1 April step-up in Remote Gaming Duty from 21% to 40% supports the claim that share is being taken rather than bought. Entain also argues the higher tax regime will squeeze weaker operators and that its scale leaves it 'well positioned to capture opportunities as the market adjusts'; the Q3 volume number is the first hard evidence of that rather than a hope. Management does not disclose UK actives or ARPU, so the volume/value split is not verifiable from the release.",
+          "The economics are visible only in the H1 base, and they are the lowlight. On H1 NGR of £640.4m (~$845m, +13%), gross profit rose just 1% to £366.4m (~$484m) because RGD absorbed most of the growth (gross margin 57.2%, -7.3pp); marketing rose 15% to £123.3m (~$163m), or 19.3% of NGR (+0.3pp, World Cup phasing), so contribution fell 5% to £243.1m (~$321m) and contribution margin dropped 7.5pp to 38.0%. Operating costs were flat at £95.1m (~$126m), leaving underlying EBITDA down 8% at £148.0m (~$195m) and the EBITDA margin at 23.1% versus 28.6% a year earlier — a 5.5pp compression with only one quarter of the 40% rate in the base. Management expects to mitigate roughly 25% of the FY26 tax impact; press reports of ~400 customer-care roles at risk indicate where some of that will come from. Because the Q3 growth mix is gaming-led (+17%), it carries lower incremental margin than the headline suggests.",
+          "Looking into 2027, the remote betting duty rises to 25% from April 2027 — as the CEO put it, the new regime 'does not start on sports until April next year' — and the Budget speculation on machine gaming duty is largely a retail issue. Management's lobbying line ('both online and retail are important parts of our business and valued contributors to tax revenues') was the most prominent item in the CEO statement, which tells you where they see the risk. Our read: the volume momentum is genuine and best-in-class among UK incumbents, but the FY26 online EBITDA margin guide (lower end of 21-22%, versus 25.7% in FY25 including CEE) is the honest expression of what that growth is now worth. The segment delivered on the top line; the bottom line is set by HM Treasury."
+        ],
+        "table": {
+          "note": "UK&I Online — growth cc; H1 £m (~$m)",
+          "columns": [
+            "Q3-26 YoY cc",
+            "Q2-26 YoY cc",
+            "Q3-25 YoY cc",
+            "9M-26 YoY cc",
+            "H1-26 £m (~$m)",
+            "H1-26 YoY"
+          ],
+          "rows": [
+            {
+              "label": "Trading (constant-currency growth)",
+              "kind": "group"
+            },
+            {
+              "label": "Total NGR",
+              "kind": "emphasis",
+              "cells": [
+                "+14%",
+                "+14%",
+                "+15%",
+                "+13%",
+                "640.4 (~845)",
+                "+13%"
+              ]
+            },
+            {
+              "label": "Volume (margin-neutral)",
+              "indent": true,
+              "cells": [
+                "+15%",
+                "+11%",
+                "n/d",
+                "+13%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Gaming NGR",
+              "indent": true,
+              "cells": [
+                "+17%",
+                "+13%",
+                "+14%",
+                "+14%",
+                "470.5 (~621)",
+                "+13%"
+              ]
+            },
+            {
+              "label": "Sports NGR",
+              "indent": true,
+              "cells": [
+                "+3%",
+                "+14%",
+                "+19%",
+                "+9%",
+                "164.5 (~217)",
+                "+12%"
+              ]
+            },
+            {
+              "label": "Sports wagers",
+              "indent": true,
+              "cells": [
+                "+6%",
+                "+6%",
+                "+7%",
+                "+7%",
+                "1,349.0 (~1,781)",
+                "+8%"
+              ]
+            },
+            {
+              "label": "Sports margin (YoY move; H1 level)",
+              "indent": true,
+              "cells": [
+                "-0.4pp",
+                "+0.9pp",
+                "+0.8pp",
+                "flat",
+                "13.7%",
+                "+0.2pp"
+              ]
+            },
+            {
+              "label": "Other NGR",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "5.4 (~7)",
+                "n.m."
+              ]
+            },
+            {
+              "label": "Economics (H1 only — not disclosed quarterly)",
+              "kind": "group"
+            },
+            {
+              "label": "Gross profit",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "366.4 (~484)",
+                "+1%"
+              ]
+            },
+            {
+              "label": "Gross margin",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "57.2%",
+                "-7.3pp (RGD)"
+              ]
+            },
+            {
+              "label": "Marketing",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "(123.3) (~(163))",
+                "+15%"
+              ]
+            },
+            {
+              "label": "Marketing % NGR",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "19.3%",
+                "+0.3pp"
+              ]
+            },
+            {
+              "label": "Contribution",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "243.1 (~321)",
+                "-5%"
+              ]
+            },
+            {
+              "label": "Contribution margin",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "38.0%",
+                "-7.5pp"
+              ]
+            },
+            {
+              "label": "Operating costs",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "(95.1) (~(126))",
+                "flat"
+              ]
+            },
+            {
+              "label": "Underlying EBITDA",
+              "kind": "emphasis",
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "148.0 (~195)",
+                "-8%"
+              ]
+            },
+            {
+              "label": "Underlying EBITDA margin",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "23.1%",
+                "-5.5pp"
+              ]
+            },
+            {
+              "label": "Underlying operating profit",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "116.5 (~154)",
+                "-12%"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Q3 growth",
+            "takeaway": "UK&I online NGR rose 14% cc on volumes +15%, with gaming +17% and sports +3%; the sports slowdown is luck, not demand.",
+            "points": [
+              "Q2-26 was +14% and Q3-25 +15%; management attributes growth to continued market-share gains in both sports and gaming.",
+              "Gaming NGR accelerated to +17% (Q2 +13%; 9M +14%).",
+              "Sports NGR +3% on wagers +6%; sports margin fell 0.4pp YoY against a Q3-25 comparator flattered by +0.8pp.",
+              "Stripping out margin, sports volume growth of roughly 6-7% is consistent with the first half.",
+              "RNS calls the region 'ahead of expectations'; 9M run-rate of +13% sits comfortably above the group's 4-6% online guide."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Quality of growth",
+            "takeaway": "Running +13-15% every quarter since Q3-25 while digesting the RGD rise from 21% to 40% supports share being taken, not bought.",
+            "points": [
+              "Drivers cited: native-app upgrade, BetBuilder expansion ahead of the World Cup, gaming 'coin economy' and AI-driven bonus optimisation.",
+              "Entain argues the higher tax regime will squeeze weaker operators; the Q3 volume number is the first hard evidence rather than a hope.",
+              "Management does not disclose UK actives or ARPU, so the volume/value split is not verifiable from the release."
+            ],
+            "quote": {
+              "text": "well positioned to capture opportunities as the market adjusts",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "H1 economics",
+            "takeaway": "H1 underlying EBITDA fell 8% to £148.0m (~$195m) with margin 23.1% versus 28.6%, a 5.5pp compression with one quarter of 40% RGD.",
+            "points": [
+              "H1 NGR £640.4m (~$845m, +13%); gross profit +1% to £366.4m (~$484m); gross margin 57.2%, -7.3pp as RGD absorbed most growth.",
+              "Marketing +15% to £123.3m (~$163m), 19.3% of NGR (+0.3pp, World Cup phasing).",
+              "Contribution fell 5% to £243.1m (~$321m); contribution margin down 7.5pp to 38.0%; operating costs flat at £95.1m (~$126m).",
+              "Management expects to mitigate roughly 25% of the FY26 tax impact; press reports of ~400 customer-care roles at risk indicate the source.",
+              "Q3 growth mix is gaming-led (+17%), so it carries lower incremental margin than the headline suggests."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "2027 tax outlook",
+            "takeaway": "Remote betting duty rises to 25% from April 2027; FY26 online EBITDA margin guide (lower end of 21-22% vs 25.7% in FY25) prices the growth.",
+            "points": [
+              "Budget speculation on machine gaming duty is largely a retail issue.",
+              "The lobbying line was the most prominent item in the CEO statement, which tells you where they see the risk.",
+              "Our read: volume momentum is genuine and best-in-class among UK incumbents; the top line delivered, the bottom line is set by HM Treasury."
+            ],
+            "quote": {
+              "text": "does not start on sports until April next year",
+              "speaker": "CEO"
+            }
+          }
+        ]
+      },
+      {
+        "name": "UK & Ireland Retail",
+        "headline": "+1% NGR (+3% LFL), ~21% EBITDA margin and stable volumes — a cash cow whose FY27 earnings hinge on the Budget's machine gaming duty decision.",
+        "narrative": [
+          "Retail NGR rose 1% cc (+3% like-for-like excluding closures), with gaming +1%, sports +1% on wagers +1% and the sports margin +0.1pp YoY — a steady quarter that followed a Q2 flattered by results (+4% NGR with sports +7% on a +1.3pp margin). Management describes the estate as continuing to outperform the market across both sports and gaming, and the 9M picture (NGR +1%, wagers +4%, margin -0.1pp) is one of stable volumes through an estate that is still being pruned.",
+          "In H1 the channel generated NGR of £536.4m (~$708m, +2%), gross profit £387.6m (~$512m), contribution £386.9m (~$511m) at a 72.1% margin (+0.2pp) and underlying EBITDA of £114.1m (~$151m, +2%) — a 21.3% margin, flat YoY. Operating costs rose 2% on shop colleague pay and the employer NI increase (which annualised at the end of Q1), partly offset by shop closures and efficiencies; underlying operating profit rose 7% to £71.6m (~$95m) as depreciation fell. It is a mature, cash-generative estate delivering roughly 24% of H1 continuing-ops EBITDA from ~21% of NGR, with gaming (machines) and sports each about half of NGR (£263.1m / ~$347m and £264.5m / ~$349m).",
+          "The risk is fiscal. Management used the call to argue against a mooted rise in machine gaming duty from 20% to 40%, citing 630 industry shop closures since last year and independent analysis pointing to ~1,500 additional closures and ~16,000 jobs if the rate doubles. They stressed that shop customers do not simply migrate online, while also arguing that Entain's estate and brands would be comparatively well placed to gain share from any disruption. On the H1 run-rate, UK&I retail gaming NGR is ~£525m (~$693m) annualised; a 20pt duty increase would mechanically cost in the region of £100m (~$130m) a year before mitigation — our estimate, and machine gross win may differ from gaming NGR — which would be roughly 45% of the channel's annualised EBITDA. Mitigation plans exist but are undisclosed.",
+          "Our view: retail is doing what it should — holding volumes, growing LFL at low single digits, and generating ~£230m (~$300m) of annual EBITDA — but the market will not pay for it until the Budget is known. The omnichannel linkage with online ('seamless journey between retail and digital') is a genuine UK differentiator and would become more valuable if competitor shops close, but the near-term earnings swing from MGD is larger than anything the operating line can deliver."
+        ],
+        "table": {
+          "note": "UK&I Retail — growth cc; H1 £m (~$m)",
+          "columns": [
+            "Q3-26 YoY cc",
+            "Q2-26 YoY cc",
+            "Q3-25 YoY cc",
+            "9M-26 YoY cc",
+            "H1-26 £m (~$m)",
+            "H1-26 YoY"
+          ],
+          "rows": [
+            {
+              "label": "Trading (constant-currency growth)",
+              "kind": "group"
+            },
+            {
+              "label": "Total NGR",
+              "kind": "emphasis",
+              "cells": [
+                "+1%",
+                "+4%",
+                "+2%",
+                "+1%",
+                "536.4 (~708)",
+                "+2%"
+              ]
+            },
+            {
+              "label": "LFL NGR (ex store closures)",
+              "indent": true,
+              "cells": [
+                "+3%",
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/a",
+                "+3%"
+              ]
+            },
+            {
+              "label": "Volume (margin-neutral)",
+              "indent": true,
+              "cells": [
+                "+1%",
+                "+1%",
+                "n/d",
+                "+2%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Gaming NGR (machines)",
+              "indent": true,
+              "cells": [
+                "+1%",
+                "+1%",
+                "-2%",
+                "+1%",
+                "263.1 (~347)",
+                "+1%"
+              ]
+            },
+            {
+              "label": "Sports NGR",
+              "indent": true,
+              "cells": [
+                "+1%",
+                "+7%",
+                "+7%",
+                "+2%",
+                "264.5 (~349)",
+                "+2%"
+              ]
+            },
+            {
+              "label": "Sports wagers",
+              "indent": true,
+              "cells": [
+                "+1%",
+                "+1%",
+                "+3%",
+                "+4%",
+                "1,412.4 (~1,864)",
+                "+5%"
+              ]
+            },
+            {
+              "label": "Sports margin (YoY move; H1 level)",
+              "indent": true,
+              "cells": [
+                "+0.1pp",
+                "+1.3pp",
+                "+0.7pp",
+                "-0.1pp",
+                "19.4%",
+                "-0.3pp"
+              ]
+            },
+            {
+              "label": "Other NGR",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "8.8 (~12)",
+                "flat"
+              ]
+            },
+            {
+              "label": "Economics (H1 only)",
+              "kind": "group"
+            },
+            {
+              "label": "Gross profit",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "387.6 (~512)",
+                "+2%"
+              ]
+            },
+            {
+              "label": "Contribution",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "386.9 (~511)",
+                "+2%"
+              ]
+            },
+            {
+              "label": "Contribution margin",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "72.1%",
+                "+0.2pp"
+              ]
+            },
+            {
+              "label": "Operating costs",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "(272.8) (~(360))",
+                "+2%"
+              ]
+            },
+            {
+              "label": "Underlying EBITDA",
+              "kind": "emphasis",
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "114.1 (~151)",
+                "+2%"
+              ]
+            },
+            {
+              "label": "Underlying EBITDA margin",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "21.3%",
+                "+0.1pp"
+              ]
+            },
+            {
+              "label": "Underlying operating profit",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "71.6 (~95)",
+                "+7%"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Q3 trading",
+            "takeaway": "Retail NGR rose 1% cc (+3% like-for-like excluding closures), a steady quarter with stable volumes through a still-pruned estate.",
+            "points": [
+              "Gaming +1%, sports +1% on wagers +1%, sports margin +0.1pp YoY.",
+              "Q2 was flattered by results: +4% NGR with sports +7% on a +1.3pp margin.",
+              "9M: NGR +1%, wagers +4%, margin -0.1pp; management says the estate continues to outperform the market in sports and gaming."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "H1 financials",
+            "takeaway": "H1 underlying EBITDA was £114.1m (~$151m, +2%) at a flat 21.3% margin, roughly 24% of continuing-ops EBITDA from ~21% of NGR.",
+            "points": [
+              "NGR £536.4m (~$708m, +2%); gross profit £387.6m (~$512m); contribution £386.9m (~$511m) at 72.1% margin (+0.2pp).",
+              "Operating costs +2% on shop colleague pay and employer NI increase (annualised end of Q1), partly offset by closures and efficiencies.",
+              "Underlying operating profit +7% to £71.6m (~$95m) as depreciation fell.",
+              "Gaming (machines) £263.1m (~$347m) and sports £264.5m (~$349m) are each about half of NGR."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Machine gaming duty risk",
+            "takeaway": "A rise in machine gaming duty from 20% to 40% would cost roughly £100m (~$130m) a year before mitigation, ~45% of annualised EBITDA.",
+            "points": [
+              "Management cited 630 industry shop closures since last year and analysis pointing to ~1,500 additional closures and ~16,000 jobs if the rate doubles.",
+              "Shop customers do not simply migrate online, but Entain's estate and brands would be comparatively well placed to gain share from disruption.",
+              "UK&I retail gaming NGR is ~£525m (~$693m) annualised; our estimate, and machine gross win may differ from gaming NGR.",
+              "Mitigation plans exist but are undisclosed."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Our view",
+            "takeaway": "Retail holds volumes and generates ~£230m (~$300m) annual EBITDA, but the market will not pay for it until the Budget is known.",
+            "points": [
+              "LFL growth at low single digits is what the estate should deliver.",
+              "Omnichannel linkage with online is a genuine UK differentiator and would become more valuable if competitor shops close.",
+              "Near-term earnings swing from MGD is larger than anything the operating line can deliver."
+            ],
+            "quote": {
+              "text": "seamless journey between retail and digital",
+              "speaker": "Management"
+            }
+          }
+        ]
+      },
+      {
+        "name": "International (Online & Retail; incl. CEE discontinued)",
+        "headline": "NGR -4% with online -3% and volumes -3%; ex-Brazil online only +1% — Brazil's ban explains the guidance cut, but Italy/Australia explain why the segment isn't growing without it.",
+        "narrative": [
+          "International NGR fell 4% cc (Q2-26: +5%; Q3-25: +1%), with online -3% and retail -12%. Online volumes were -3% — the first negative volume print in this segment in the current run — with gaming NGR +1% and sports NGR -5% on wagers -2%, while the online sports margin was actually +0.2pp YoY. Excluding Brazil, online NGR was +1% (9M +2%), so the ex-Brazil business is barely growing and the 'disciplined' language in the release should be read as a deliberate pull-back of Brazilian marketing ahead of the ban rather than a demand recovery elsewhere. The 9M segment print (NGR +1%, online +2%, retail -5%) is below the group's 4-6% online guide and far below the UK.",
+          "Brazil is the story. NGR fell 36% (Q3-25: -11% on +14% wagers; H1-26: -25%), management having chosen to focus 'on returns rather than share of voice' in what it calls an intensely competitive and highly promotional market; H1 sports wagers were still +10%, so the Q3 collapse implies engagement spend was cut sharply before the regulatory event. On 25 September a provisional executive measure withdrew every operator's online licence with immediate effect; Congress has 120 days (plus recess) to approve, reject or amend it. Entain had expected Brazil to be ~5% of FY26 online NGR with only modest EBITDA, which is why the 28 September update cut online NGR growth guidance to 4-6% but kept the EBITDA range (steered to the lower end). On the call management said they expect the market to reopen 'in some form', have redeployed the small local team to other group work, and would re-enter conservatively; it is not a market they are modelling for 2027 upside.",
+          "Elsewhere the picture was mixed. Italy NGR fell 6% (online -5%, retail -8%) despite volumes +9%, as customer-friendly football cost 3.1pp of sports margin; the Eurobet brand is being refreshed under a new team with the AS Roma partnership as the visible marker, and the volume number says the product is landing. Australia online was +1% — in line with expectations but a sharp step down from +13% in H1 as the business laps the start of its reinvigoration in H2-25; the Q4 question is whether H1's share gains were durable or World Cup/margin-aided. New Zealand (+21% cc in H1, now with three newly secured licences giving an iGaming growth option), Spain (+28% cc in H1) and Canada (+11% cc in H1) all stayed double-digit in Q3; Georgia was +7% in H1. International retail (-12%) reflects Italy -8%, a smaller Belgian estate and the sale of Full House Games in Australia, with retail sports NGR -7% on wagers +13% as the retail sports margin dropped 3.2pp.",
+          "The H1 base shows the cost side. International NGR was £1,368.5m (~$1.81bn, +7% reported / +3% cc), online £1,206.5m (~$1.59bn, +8% / +4% cc) and retail £162.0m (~$214m). Additional taxes took 1.2pp off gross margin; marketing rose ~13% to ~£208.5m (~$275m), or 15.2% of NGR (+0.8pp, World Cup phasing), with online marketing at 16.8% of online NGR (+0.8pp). Contribution was +1% at £515.3m (~$680m) with the margin down 2.0pp to 37.7%; operating costs +3%; underlying EBITDA flat at £274.8m (~$363m), of which online £247.2m (~$326m, -2%, 20.5% margin, -2.0pp) and retail £27.6m (~$36m, +25%). Brazil's exit should release marketing spend in Q4, which is the main reason EBITDA guidance held when revenue guidance did not.",
+          "Entain CEE — SuperSport (Croatia) and STS (Poland), now discontinued — was flat in Q3 (online +4%, retail -22%), with double-digit online growth in Poland offset by an adverse sports margin in Croatia; both brands hold #1 positions in their markets. The sale of an initial 20% to EMMA Capital for €425m (~$476m / ~£361m), implying EV €2.1bn (~$2.35bn, c.10x EBITDA), remains on track to close in Q4, after which Entain's stake falls to 47.5% and the business (H1 NGR £268.9m / ~$355m, EBITDA £94.7m / ~$125m; 9M NGR +1%) is deconsolidated. Full-exit proceeds are earmarked for reducing reported leverage below 3x with any excess returned to shareholders.",
+          "Our read on International: the segment carries the group's regulatory risk and, outside Spain, New Zealand and Canada, is not generating the growth that justifies its ~54% share of continuing NGR. Q4 will show a clean ~-100% Brazil comparison and the Australia lap; a return to positive ex-Brazil online volume growth is the minimum needed to support the 'top end of 5-7%' ex-Brazil claim for the year."
+        ],
+        "table": {
+          "note": "International — growth cc; H1 £m (~$m)",
+          "columns": [
+            "Q3-26 YoY cc",
+            "Q2-26 YoY cc",
+            "Q3-25 YoY cc",
+            "9M-26 YoY cc",
+            "H1-26 £m (~$m)",
+            "H1-26 YoY"
+          ],
+          "rows": [
+            {
+              "label": "Trading (constant-currency growth)",
+              "kind": "group"
+            },
+            {
+              "label": "Total NGR",
+              "kind": "emphasis",
+              "cells": [
+                "-4%",
+                "+5%",
+                "+1%",
+                "+1%",
+                "1,368.5 (~1,806)",
+                "+7% rpt / +3% cc"
+              ]
+            },
+            {
+              "label": "Online NGR",
+              "indent": true,
+              "cells": [
+                "-3%",
+                "+5%",
+                "+1%",
+                "+2%",
+                "1,206.5 (~1,593)",
+                "+8% rpt / +4% cc"
+              ]
+            },
+            {
+              "label": "Online NGR ex-Brazil",
+              "indent": true,
+              "cells": [
+                "+1%",
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Online volume (margin-neutral)",
+              "indent": true,
+              "cells": [
+                "-3%",
+                "+4%",
+                "+5%",
+                "+3%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Online gaming NGR",
+              "indent": true,
+              "cells": [
+                "+1%",
+                "+3%",
+                "+4% (total Intl)",
+                "+4%",
+                "525.6 (~694)",
+                "+9%"
+              ]
+            },
+            {
+              "label": "Online sports NGR",
+              "indent": true,
+              "cells": [
+                "-5%",
+                "+7%",
+                "-1% (total Intl)",
+                "flat",
+                "632.6 (~835)",
+                "+7%"
+              ]
+            },
+            {
+              "label": "Online sports wagers",
+              "indent": true,
+              "cells": [
+                "-2%",
+                "+7%",
+                "+5% (total Intl)",
+                "+5%",
+                "5,817.5 (~7,679)",
+                "+14%"
+              ]
+            },
+            {
+              "label": "Online sports margin (YoY move; H1 level)",
+              "indent": true,
+              "cells": [
+                "+0.2pp",
+                "+0.2pp",
+                "-0.7pp (total Intl)",
+                "-0.3pp",
+                "13.8%",
+                "-0.7pp"
+              ]
+            },
+            {
+              "label": "Retail NGR",
+              "indent": true,
+              "cells": [
+                "-12%",
+                "+1%",
+                "+6%",
+                "-5%",
+                "162.0 (~214)",
+                "+2% rpt / -2% cc"
+              ]
+            },
+            {
+              "label": "Retail sports NGR",
+              "indent": true,
+              "cells": [
+                "-7%",
+                "+4%",
+                "n/d",
+                "-2%",
+                "149.7 (~198)",
+                "+3%"
+              ]
+            },
+            {
+              "label": "Retail sports wagers",
+              "indent": true,
+              "cells": [
+                "+13%",
+                "+5%",
+                "n/d",
+                "+7%",
+                "829.4 (~1,095)",
+                "+8%"
+              ]
+            },
+            {
+              "label": "Retail sports margin (YoY move; H1 level)",
+              "indent": true,
+              "cells": [
+                "-3.2pp",
+                "flat",
+                "n/d",
+                "-1.7pp",
+                "18.0%",
+                "-1.0pp"
+              ]
+            },
+            {
+              "label": "By market (NGR, cc)",
+              "kind": "group"
+            },
+            {
+              "label": "Australia online",
+              "indent": true,
+              "cells": [
+                "+1%",
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "+13% cc (H1)"
+              ]
+            },
+            {
+              "label": "Italy total (online / retail)",
+              "indent": true,
+              "cells": [
+                "-6% (-5% / -8%); volumes +9%; sports margin -3.1pp",
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "+2% cc (+3% / -1%)"
+              ]
+            },
+            {
+              "label": "Brazil",
+              "indent": true,
+              "cells": [
+                "-36%",
+                "n/d",
+                "-11% (wagers +14%)",
+                "n/d",
+                "n/d",
+                "-25% cc (wagers +10%)"
+              ]
+            },
+            {
+              "label": "New Zealand online",
+              "indent": true,
+              "cells": [
+                "double-digit",
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "+21% cc (H1); retail +29%"
+              ]
+            },
+            {
+              "label": "Spain online",
+              "indent": true,
+              "cells": [
+                "double-digit",
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "+28% cc (H1)"
+              ]
+            },
+            {
+              "label": "Canada online",
+              "indent": true,
+              "cells": [
+                "double-digit",
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "+11% cc (H1)"
+              ]
+            },
+            {
+              "label": "Georgia online",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "+7% cc (H1)"
+              ]
+            },
+            {
+              "label": "Economics (H1 only)",
+              "kind": "group"
+            },
+            {
+              "label": "Marketing (derived: GP − contribution)",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "(208.5) (~(275))",
+                "+13%"
+              ]
+            },
+            {
+              "label": "Marketing % NGR (online: 16.8%)",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "15.2%",
+                "+0.8pp"
+              ]
+            },
+            {
+              "label": "Contribution",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "515.3 (~680)",
+                "+1%"
+              ]
+            },
+            {
+              "label": "Contribution margin",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "37.7%",
+                "-2.0pp"
+              ]
+            },
+            {
+              "label": "Underlying EBITDA — total",
+              "kind": "emphasis",
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "274.8 (~363)",
+                "flat"
+              ]
+            },
+            {
+              "label": "Underlying EBITDA — online (margin 20.5%, -2.0pp)",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "247.2 (~326)",
+                "-2%"
+              ]
+            },
+            {
+              "label": "Underlying EBITDA — retail (margin 17.0%)",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "27.6 (~36)",
+                "+25%"
+              ]
+            },
+            {
+              "label": "Entain CEE (discontinued; 20% sale closing Q4-26)",
+              "kind": "group"
+            },
+            {
+              "label": "CEE NGR",
+              "indent": true,
+              "cells": [
+                "flat",
+                "+12%",
+                "+10%",
+                "+1%",
+                "268.9 (~355)",
+                "+6% rpt / +2% cc"
+              ]
+            },
+            {
+              "label": "CEE online NGR",
+              "indent": true,
+              "cells": [
+                "+4%",
+                "+16%",
+                "+9%",
+                "+6%",
+                "234.5 (~310)",
+                "+11%"
+              ]
+            },
+            {
+              "label": "CEE retail NGR",
+              "indent": true,
+              "cells": [
+                "-22%",
+                "-13%",
+                "+11%",
+                "-22%",
+                "34.4 (~45)",
+                "-19%"
+              ]
+            },
+            {
+              "label": "CEE underlying EBITDA",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "n/d",
+                "n/d",
+                "94.7 (~125)",
+                "flat"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Q3 overview",
+            "takeaway": "International NGR fell 4% cc with online -3% and retail -12%; ex-Brazil online was only +1%, so the business is barely growing.",
+            "points": [
+              "Q2-26 was +5% and Q3-25 +1%; online volumes -3% is the first negative volume print in the current run.",
+              "Online gaming NGR +1%, sports NGR -5% on wagers -2%; online sports margin +0.2pp YoY.",
+              "Ex-Brazil 9M online +2%; 'disciplined' language should be read as a pull-back of Brazilian marketing, not demand recovery elsewhere.",
+              "9M segment: NGR +1%, online +2%, retail -5%, below the group's 4-6% online guide and far below the UK."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Brazil",
+            "takeaway": "Brazil NGR fell 36% and a 25 September provisional measure withdrew every operator's online licence, driving the online NGR guidance cut to 4-6%.",
+            "points": [
+              "Q3-25 was -11% on +14% wagers; H1-26 -25%; H1 sports wagers still +10%, so engagement spend was cut sharply before the regulatory event.",
+              "Management chose to focus 'on returns rather than share of voice' in an intensely competitive, highly promotional market.",
+              "Congress has 120 days (plus recess) to approve, reject or amend the measure.",
+              "Brazil was expected to be ~5% of FY26 online NGR with modest EBITDA; EBITDA range kept, steered to the lower end.",
+              "Management expects the market to reopen 'in some form' and would re-enter conservatively; not modelled for 2027 upside."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Other markets",
+            "takeaway": "Italy NGR fell 6% despite volumes +9% and Australia online slowed to +1%, while New Zealand, Spain and Canada stayed double-digit.",
+            "points": [
+              "Italy online -5%, retail -8%; customer-friendly football cost 3.1pp of sports margin; Eurobet brand refreshed under a new team with AS Roma partnership.",
+              "Australia +1% versus +13% in H1 as it laps the H2-25 reinvigoration; Q4 question is whether H1 share gains were durable.",
+              "New Zealand +21% cc in H1 with three newly secured licences; Spain +28% cc in H1; Canada +11% cc in H1; Georgia +7% in H1.",
+              "International retail -12%: Italy -8%, smaller Belgian estate, sale of Full House Games; retail sports NGR -7% on wagers +13%, margin -3.2pp."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "H1 cost base",
+            "takeaway": "H1 underlying EBITDA was flat at £274.8m (~$363m); Brazil's exit should release Q4 marketing, which is why EBITDA guidance held.",
+            "points": [
+              "NGR £1,368.5m (~$1.81bn, +7% reported / +3% cc); online £1,206.5m (~$1.59bn, +8% / +4% cc); retail £162.0m (~$214m).",
+              "Additional taxes took 1.2pp off gross margin; marketing +13% to ~£208.5m (~$275m), 15.2% of NGR (+0.8pp); online marketing 16.8% (+0.8pp).",
+              "Contribution +1% at £515.3m (~$680m), margin -2.0pp to 37.7%; operating costs +3%.",
+              "Online EBITDA £247.2m (~$326m, -2%, 20.5% margin, -2.0pp); retail EBITDA £27.6m (~$36m, +25%)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "CEE disposal",
+            "takeaway": "Entain CEE was flat in Q3; the 20% sale to EMMA Capital for €425m (~$476m / ~£361m) remains on track to close in Q4.",
+            "points": [
+              "Online +4%, retail -22%; double-digit online growth in Poland offset by adverse sports margin in Croatia; both brands #1 in their markets.",
+              "Implied EV €2.1bn (~$2.35bn, c.10x EBITDA); Entain's stake falls to 47.5% and the business is deconsolidated.",
+              "H1 NGR £268.9m (~$355m), EBITDA £94.7m (~$125m); 9M NGR +1%.",
+              "Full-exit proceeds earmarked for reducing reported leverage below 3x with any excess returned to shareholders."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Our read",
+            "takeaway": "International carries the group's regulatory risk and, outside Spain, New Zealand and Canada, does not justify its ~54% share of continuing NGR.",
+            "points": [
+              "Q4 will show a clean ~-100% Brazil comparison and the Australia lap.",
+              "A return to positive ex-Brazil online volume growth is the minimum needed to support the 'top end of 5-7%' ex-Brazil claim."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "BetMGM (50/50 JV with MGM Resorts; equity-accounted)",
+        "headline": "Adj. EBITDA $86m (+112%) and $68m of cash to parents on net revenue +7% — a cost-discipline and hold story on a 3% smaller active base.",
+        "narrative": [
+          "BetMGM, the 50/50 JV with MGM Resorts which Entain equity-accounts, reported Q3 net revenue of $710m, +7% YoY (9M $2,116m, +5%), with iGaming $483m (+6%), online sports $216m (+7%) and retail/other $11m. Adjusted EBITDA (pre parent fees) more than doubled to $86m (+112%) for a 12.1% margin versus 6.1% a year ago, taking 9M to $185m (+24%) — already above the $150m earned in 9M-25 and consistent with management's 'accelerating profitability in Q4' framing. Contribution rose 32% to $175m (24.6% margin, +4.7pp), which with net revenue up only 7% says the improvement is almost entirely marketing and cost discipline rather than top-line leverage. Sequentially, Q3 revenue was flat on the H1 quarterly run-rate ($1,406m / 2 = ~$703m) for both products; the EBITDA step-up from a ~$50m H1 quarterly average to $86m is the real change.",
+          "iGaming remains the franchise: 20% GGR share in active markets (unchanged vs H1), iGaming average monthly actives +2%, NGR per active +4%, and Q3 iGaming contribution above $135m (H1: $280m). The content pipeline is doing the work — the Game of Thrones launch across the US, Ontario and Alberta was described as the most successful franchise launch in BetMGM's history, the Borgata brand refresh lifted average daily actives 28%, and new mechanics (a progressive SideBet jackpot in MI/WV, live-streamed slots in NJ/PA) are differentiated from the aggregator model. The Alberta multi-product launch in July — the first newly regulated iGaming market since 2022 — is tracking above the Ontario launch on per-player metrics. Entain supplies the platform and exclusive studio content, so this is also an endorsement of the Entain technology stack.",
+          "Online sports is a 'value over volume' story and the numbers show both sides. Handle was $3.24bn (+3%; Nevada +8%) with GGR hold 10.7% (+55bps) and NGR hold 6.7% (+30bps), so the 7% net revenue growth was hold-driven; the gap between GGR and NGR hold — a proxy for promotional intensity — widened to ~4.0% of handle from ~3.7%, i.e. promotions grew faster than handle even as the company retrenched from lower-return OSB-only states. Handle per active +13% and NGR per active +18% imply sports actives down high-single digits, consistent with total average monthly actives of 878k (-3%; 9M 909k, -5%). GGR share is 8% in OSB and 14% blended. Management said the acquisition environment has 'improved a lot' since the end of the World Cup, with CPAs down and payback periods the best since the turn of the year, and that NFL-season reactivation is encouraging; Macquarie (per NEXT.io) flagged acquisition returns at their best in several quarters and stable share despite lower OSB marketing.",
+          "For Entain the cash matters more than the P&L. BetMGM paid $68m to its parents in Q3 — $18m of parent fees (which started in 2026 and flow to Entain as revenue/EBITDA, £6.7m / ~$8.8m in H1) and $50m of distributions — so Entain's half is ~$34m (~£26m); management notes adjusted EBITDA less capex ($4m in Q3) is a reasonable proxy for cash to parents. On the equity-accounted line, Entain's H1 share of BetMGM profit was £19.7m (~$26m) versus £33.6m (~$44m) in H1-25, the decline reflecting parent fees moving above the JV line and a more competitive market; Q3 should mark a sharp improvement given the EBITDA doubling, with Entain's 50% of Q3 adjusted EBITDA ~$43m (~£33m).",
+          "Guidance was reiterated at the lower end of both ranges — net revenue $2.9-3.1bn and adjusted EBITDA $300-350m — which on our arithmetic requires Q4 net revenue of at least ~$784m and adjusted EBITDA of at least ~$115m; a seasonally strong NFL/NBA quarter makes the revenue hurdle reasonable and the EBITDA hurdle demanding but achievable if the Q3 cost base holds. The $500m adjusted EBITDA ambition is now 'in the coming years'; Entain's H1 report was explicit that delivery may extend beyond the previously anticipated 2027 timeframe if prediction-market disruption and competitive intensity persist. MGM reports on 28 October and will give the first read on Q4 trading.",
+          "Our view: this is the best-quality number in the Entain print, but it is a margin story on a shrinking active base, and the OSB line is hold- and promo-dependent. The iGaming moat (20% share, exclusive content, omnichannel via MGM Rewards and Nevada) is intact and is why the JV is worth more than its P&L; the OSB business is being managed for cash, which is the right call at 8% share but caps the growth multiple. Prediction markets remain the unquantified wildcard."
+        ],
+        "table": {
+          "note": "BetMGM — 100% JV basis, US$m (Entain owns 50%)",
+          "columns": [
+            "Q3-26 $m",
+            "Q3-25 $m",
+            "YoY",
+            "9M-26 $m",
+            "9M-25 $m",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Net revenue",
+              "kind": "group"
+            },
+            {
+              "label": "iGaming",
+              "indent": true,
+              "cells": [
+                "483",
+                "454",
+                "+6%",
+                "1,447",
+                "1,345",
+                "+8%"
+              ]
+            },
+            {
+              "label": "Online sports",
+              "indent": true,
+              "cells": [
+                "216",
+                "202",
+                "+7%",
+                "647",
+                "624",
+                "+4%"
+              ]
+            },
+            {
+              "label": "Retail / other",
+              "indent": true,
+              "cells": [
+                "11",
+                "11",
+                "+5%",
+                "23",
+                "46",
+                "-50%"
+              ]
+            },
+            {
+              "label": "Total net revenue",
+              "kind": "emphasis",
+              "cells": [
+                "710",
+                "667",
+                "+7%",
+                "2,116",
+                "2,016",
+                "+5%"
+              ]
+            },
+            {
+              "label": "Online sports KPIs",
+              "kind": "group"
+            },
+            {
+              "label": "Handle (cash + bonus bets)",
+              "indent": true,
+              "cells": [
+                "3,240",
+                "3,159",
+                "+3%",
+                "10,948",
+                "10,674",
+                "+3%"
+              ]
+            },
+            {
+              "label": "GGR hold %",
+              "indent": true,
+              "cells": [
+                "10.7%",
+                "10.1%",
+                "+55bps",
+                "9.8%",
+                "9.3%",
+                "+60bps"
+              ]
+            },
+            {
+              "label": "NGR hold %",
+              "indent": true,
+              "cells": [
+                "6.7%",
+                "6.4%",
+                "+30bps",
+                "5.9%",
+                "5.8%",
+                "+5bps"
+              ]
+            },
+            {
+              "label": "Promo intensity (GGR − NGR hold, % handle; derived)",
+              "indent": true,
+              "cells": [
+                "~4.0%",
+                "~3.7%",
+                "+c.25-30bps",
+                "~3.9%",
+                "~3.5%",
+                "+c.40-55bps"
+              ]
+            },
+            {
+              "label": "Handle per active",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "+13%",
+                "n/d",
+                "n/d",
+                "H1: +11%"
+              ]
+            },
+            {
+              "label": "OSB NGR per active",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "+18%",
+                "n/d",
+                "n/d",
+                "H1: +9%"
+              ]
+            },
+            {
+              "label": "Nevada OSB handle",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "+8%",
+                "n/d",
+                "n/d",
+                "H1: +10%"
+              ]
+            },
+            {
+              "label": "iGaming KPIs",
+              "kind": "group"
+            },
+            {
+              "label": "iGaming average monthly actives",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "+2%",
+                "n/d",
+                "n/d",
+                "n/d"
+              ]
+            },
+            {
+              "label": "iGaming NGR per active",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "+4%",
+                "n/d",
+                "n/d",
+                "n/d"
+              ]
+            },
+            {
+              "label": "iGaming contribution",
+              "indent": true,
+              "cells": [
+                "135+",
+                "n/d",
+                "n/a",
+                "n/d (H1: 280)",
+                "n/d",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Profitability & cash",
+              "kind": "group"
+            },
+            {
+              "label": "Contribution (gross profit less marketing)",
+              "indent": true,
+              "cells": [
+                "175",
+                "133",
+                "+32%",
+                "462",
+                "440",
+                "+5%"
+              ]
+            },
+            {
+              "label": "Contribution margin",
+              "indent": true,
+              "cells": [
+                "24.6%",
+                "19.9%",
+                "+4.7pp",
+                "21.8%",
+                "21.8%",
+                "flat"
+              ]
+            },
+            {
+              "label": "Adjusted EBITDA (pre parent fees)",
+              "kind": "emphasis",
+              "cells": [
+                "86",
+                "41",
+                "+112%",
+                "185",
+                "150",
+                "+24%"
+              ]
+            },
+            {
+              "label": "Adjusted EBITDA margin",
+              "indent": true,
+              "cells": [
+                "12.1%",
+                "6.1%",
+                "+6.0pp",
+                "8.7%",
+                "7.4%",
+                "+1.3pp"
+              ]
+            },
+            {
+              "label": "Capital expenditure",
+              "indent": true,
+              "cells": [
+                "4",
+                "3",
+                "+1",
+                "26",
+                "29",
+                "-3"
+              ]
+            },
+            {
+              "label": "Parent fees (to MGM + Entain)",
+              "indent": true,
+              "cells": [
+                "18",
+                "—",
+                "+18",
+                "36",
+                "—",
+                "+36"
+              ]
+            },
+            {
+              "label": "Total cash to parents (fees + distributions)",
+              "indent": true,
+              "cells": [
+                "68 (18 + 50)",
+                "n/d",
+                "n/a",
+                "n/d",
+                "n/d",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Entain 50% share of adj. EBITDA (derived)",
+              "indent": true,
+              "cells": [
+                "~43 (~£33m)",
+                "~21",
+                "+112%",
+                "~93 (~£70m)",
+                "~75",
+                "+24%"
+              ]
+            },
+            {
+              "label": "Customers & market position",
+              "kind": "group"
+            },
+            {
+              "label": "Average monthly actives (000s)",
+              "indent": true,
+              "cells": [
+                "878",
+                "902",
+                "-3%",
+                "909",
+                "957",
+                "-5%"
+              ]
+            },
+            {
+              "label": "GGR share — total / iGaming / OSB",
+              "indent": true,
+              "cells": [
+                "14% / 20% / 8%",
+                "n/d",
+                "n/a",
+                "H1: 13% / 20% / 8%",
+                "n/d",
+                "n/a"
+              ]
+            },
+            {
+              "label": "FY26 guidance (100% basis)",
+              "kind": "group"
+            },
+            {
+              "label": "Net revenue",
+              "indent": true,
+              "cells": [
+                "$2.9-3.1bn — lower end",
+                "—",
+                "—",
+                "implied Q4 ≥ ~784",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Adjusted EBITDA",
+              "indent": true,
+              "cells": [
+                "$300-350m — lower end",
+                "—",
+                "—",
+                "implied Q4 ≥ ~115",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Long-term adj. EBITDA ambition",
+              "indent": true,
+              "cells": [
+                "$500m 'in the coming years' (may extend beyond 2027)",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Q3 results",
+            "takeaway": "Net revenue was $710m (+7%) and adjusted EBITDA more than doubled to $86m (+112%), a cost-discipline story rather than top-line leverage.",
+            "points": [
+              "9M net revenue $2,116m (+5%); iGaming $483m (+6%), online sports $216m (+7%), retail/other $11m.",
+              "EBITDA margin 12.1% versus 6.1%; 9M $185m (+24%), already above the $150m earned in 9M-25.",
+              "Contribution +32% to $175m (24.6% margin, +4.7pp).",
+              "Q3 revenue was flat on the H1 quarterly run-rate (~$703m); the EBITDA step-up from ~$50m H1 quarterly average is the real change."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "iGaming",
+            "takeaway": "iGaming remains the franchise with 20% GGR share in active markets, actives +2%, NGR per active +4% and Q3 contribution above $135m.",
+            "points": [
+              "Game of Thrones launch across the US, Ontario and Alberta was described as the most successful franchise launch in BetMGM's history.",
+              "Borgata brand refresh lifted average daily actives 28%; progressive SideBet jackpot in MI/WV and live-streamed slots in NJ/PA differentiate from aggregators.",
+              "Alberta July launch, the first newly regulated iGaming market since 2022, is tracking above Ontario on per-player metrics.",
+              "Entain supplies the platform and exclusive studio content, an endorsement of the Entain technology stack; H1 iGaming contribution was $280m."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Online sports",
+            "takeaway": "Handle was $3.24bn (+3%) with growth hold-driven; promotions rose to ~4.0% of handle from ~3.7% while actives fell to 878k (-3%).",
+            "points": [
+              "GGR hold 10.7% (+55bps), NGR hold 6.7% (+30bps); Nevada handle +8%.",
+              "Handle per active +13% and NGR per active +18% imply sports actives down high-single digits; 9M actives 909k (-5%).",
+              "GGR share 8% in OSB and 14% blended.",
+              "Management said acquisition environment has 'improved a lot' since the World Cup, with CPAs down and payback periods the best since the turn of the year.",
+              "Macquarie (per NEXT.io) flagged acquisition returns at their best in several quarters and stable share despite lower OSB marketing."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Cash to Entain",
+            "takeaway": "BetMGM paid $68m to parents in Q3 ($18m fees, $50m distributions), so Entain's half is ~$34m (~£26m).",
+            "points": [
+              "Parent fees started in 2026 and flow to Entain as revenue/EBITDA, £6.7m (~$8.8m) in H1.",
+              "Adjusted EBITDA less capex ($4m in Q3) is a reasonable proxy for cash to parents.",
+              "Entain's H1 share of BetMGM profit was £19.7m (~$26m) versus £33.6m (~$44m) in H1-25, reflecting parent fees and a more competitive market.",
+              "Q3 should mark a sharp improvement; Entain's 50% of Q3 adjusted EBITDA is ~$43m (~£33m)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Guidance",
+            "takeaway": "Guidance was reiterated at the lower end of $2.9-3.1bn revenue and $300-350m EBITDA, requiring Q4 of ~$784m and ~$115m respectively.",
+            "points": [
+              "A seasonally strong NFL/NBA quarter makes the revenue hurdle reasonable; the EBITDA hurdle is demanding but achievable if the Q3 cost base holds.",
+              "The $500m adjusted EBITDA ambition is now 'in the coming years'; delivery may extend beyond 2027 if prediction-market disruption and competitive intensity persist.",
+              "MGM reports on 28 October and will give the first read on Q4 trading."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Our view",
+            "takeaway": "This is the best-quality number in the Entain print, but a margin story on a shrinking active base with hold- and promo-dependent OSB.",
+            "points": [
+              "The iGaming moat (20% share, exclusive content, omnichannel via MGM Rewards and Nevada) is intact and why the JV is worth more than its P&L.",
+              "OSB is being managed for cash, the right call at 8% share but it caps the growth multiple.",
+              "Prediction markets remain the unquantified wildcard."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "UK&I online +14% cc on +15% volumes with gaming +17% — a fourth consecutive double-digit quarter while absorbing the 21%→40% RGD step-up; management cites continued market-share gains and the release calls it 'ahead of expectations'.",
+        "tag": "structural"
+      },
+      {
+        "text": "BetMGM adjusted EBITDA $86m (+112%), contribution margin +4.7pp to 24.6%, 9M adj. EBITDA $185m (+24%), and $68m of cash to parents in the quarter (~$34m / ~£26m to Entain) — the JV is now a cash contributor, not a funding call.",
+        "tag": "structural"
+      },
+      {
+        "text": "Online gaming NGR +8% group-wide (9M +9%), with New Zealand, Spain and Canada all double-digit and three new NZ licences adding an iGaming option — the growth base beyond the UK is narrow but real.",
+        "tag": "structural"
+      },
+      {
+        "text": "The ~4pp sports-margin drag is luck, not demand: group sports margin was only -0.2pp YoY against a weak Q3-25 comp, and ex-Brazil online volumes were +7%; normalised online growth would have been ~+7%.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Guidance held after the Brazil shock: ex-Brazil FY26 online NGR expected at the top end of 5-7% (9M +8%), and the EBITDA range (£910-960m / ~$1.20-1.27bn) survived because Brazil carried little profit and its marketing is now switched off.",
+        "tag": "mixed"
+      },
+      {
+        "text": "CEE 20% sale (€425m / ~$476m, EV €2.1bn / ~$2.35bn, c.10x EBITDA) on track to close in Q4 — a value crystallisation at a multiple well above Entain's own, with proceeds directed at deleveraging.",
+        "tag": "one-off"
+      },
+      {
+        "text": "UK retail LFL +3%, H1 retail EBITDA +6% at a 21% margin, and UK&I retail contribution margin 72% — the estate remains a reliable cash generator ahead of any duty change.",
+        "tag": "structural"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Brazil NGR -36% in Q3, then zero from 25 Sep under a provisional ban: ~5% of planned FY26 online NGR gone, guidance assumes no reopening in 2026, and management will re-enter only conservatively if Congress amends or rejects the measure.",
+        "tag": "structural"
+      },
+      {
+        "text": "International online ex-Brazil grew only +1% (9M +2%), with online volumes -3%: Italy -6% (online -5%), Australia decelerated to +1% from +13% in H1 — the growth story outside the UK is Spain/NZ/Canada and little else.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Sports volumes are flat before any margin effect — online sports wagers -1%, group +1% — and sports NGR -3%; the gaming-led mix (+8%) concentrates growth in the most heavily taxed product line.",
+        "tag": "watch"
+      },
+      {
+        "text": "EBITDA guidance is now at the floor: lower end of £910-960m (~$1.20bn) vs the £934m (~$1.23bn) consensus management was 'comfortable' with on 13 Aug; H2 implied ~£437m (~$577m) vs £473m in H1 as two quarters of 40% RGD bite. UK&I online EBITDA margin already 23.1% vs 28.6%.",
+        "tag": "structural"
+      },
+      {
+        "text": "UK tax escalation is open-ended: remote betting duty to 25% from Apr 2027 and Budget speculation on machine gaming duty 20%→40% (mechanically ~£100m / ~$130m p.a. on UK retail gaming NGR before mitigation — our estimate); the CEO statement led with a plea to government, which tells you the scale of the exposure.",
+        "tag": "governance"
+      },
+      {
+        "text": "Leverage: reported 3.1x (look-through 3.6x at FY25) with net debt £3.6bn (~$4.75bn); CEE deconsolidation lifts pro-forma reported leverage toward ~3.4-3.5x on the lower-end EBITDA guide (our estimate), and the £500m (~$660m) 2028 cash target is to be 'articulated differently' at FY results — read: re-based.",
+        "tag": "watch"
+      },
+      {
+        "text": "BetMGM growth is price, not volume: average monthly actives -3% (9M -5%), OSB revenue +7% driven by +55bps GGR hold, promo intensity up ~25-30bps of handle, and the $500m EBITDA ambition has slipped from 2027 to 'the coming years'.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Disclosure: no quarterly P&L, no group actives/ARPU, no Q3 marketing or margin data — a 1-2pp sports-margin miss cost c.£20m (~$26m) of EBITDA in Q3-25 by management's own account, and investors cannot see the Q3-26 equivalent until March.",
+        "tag": "watch"
+      }
+    ],
+    "forecast": {
+      "intro": "The guidance bridge is three-stage, and the division is International/Brazil at every step. At FY25 results (5 Mar 2026) Entain guided FY26 online NGR +5-7% cc and an online EBITDA margin of 23-24% (incl. CEE). With the CEE exit (25 Jun) the group re-based to continuing operations: underlying EBITDA exc. parent fees £910-960m (~$1.20-1.27bn) and online margin 21-22% (CEE out, ~25% UK-tax mitigation in); at H1 (13 Aug) it said it was 'comfortable' with the £934m (~$1.23bn) consensus midpoint. On 28 Sep, three days after Brazil's provisional online ban, online NGR growth was cut to 4-6% (ex-Brazil at the top end of 5-7%) and both EBITDA and online margin were steered to the lower end of their ranges, Brazil having been ~5% of expected online NGR with modest EBITDA. The 15 Oct update reiterated the 28 Sep guide without change, so the Q3 print carries no new estimate revision — the ~£24m (~$32m) cut versus August consensus was already taken. BetMGM's $2.9-3.1bn / $300-350m ranges were likewise reiterated at the lower end.",
+      "bridge": [
+        {
+          "title": "FY26 online NGR growth (cc)",
+          "value": "+4-6% (ex-Brazil: top end of 5-7%)",
+          "change": "was +5-7% (5 Mar / 13 Aug); cut 28 Sep on Brazil ban; reiterated 15 Oct — International/Brazil"
+        },
+        {
+          "title": "FY26 underlying EBITDA exc. parent fees",
+          "value": "lower end of £910-960m (~$1,201-1,267m)",
+          "change": "was midpoint / £934m (~$1,233m) consensus (13 Aug); ~-£24m (~-$32m), Brazil-driven"
+        },
+        {
+          "title": "FY26 online underlying EBITDA margin",
+          "value": "lower end of 21-22%",
+          "change": "was 21-22% (25 Jun, ex-CEE); 23-24% incl. CEE at 5 Mar"
+        },
+        {
+          "title": "BetMGM FY26 (100% JV)",
+          "value": "NR $2.9-3.1bn; adj. EBITDA $300-350m — lower end",
+          "change": "unchanged; 9M $2,116m / $185m → Q4 ≥ ~$784m / ~$115m implied"
+        }
+      ],
+      "view": "**Q4-26 (estimate):** we expect group online NGR growth of roughly -1% to +2% cc including Brazil, and +4-6% ex-Brazil. 9M is +5% with Brazil still in the base; the Q4-25 base carries a full quarter of Brazil (~4-5% of online NGR by our estimate, hence a ~4-5pp drag), and the CFO explicitly flagged a 'somewhat softer' Q4 as Australia laps its reinvigoration and UK comps toughen. **FY26 online NGR therefore lands at ~4% cc — the bottom of the 4-6% range — with ex-Brazil at ~7%** (9M +8% ex-Brazil × ~0.74 weight + Q4 ~+4-5% × ~0.26 ≈ 7.0%). A normal-margin Q4 is the main swing: a 1-2pp sports-margin miss cost c.£20m (~$26m) of EBITDA in Q3-25 by management's account. **FY26 underlying EBITDA exc. parent fees: we model ~£905-920m (~$1.19-1.21bn)**, i.e. the lower end — H2 implied at the floor is ~£437m (~$577m) vs H1 £473m (~-8% HoH), reflecting two quarters of 40% RGD (vs one in H1) partly offset by World Cup marketing roll-off, Brazil marketing savings and the ~25% tax mitigation; the H1 online margin of 21.4% should settle at ~21% for the year. **Margin:** group underlying EBITDA margin ~18% on ~£5.0bn (~$6.6bn) of continuing NGR (FY25 continuing base is our estimate), vs 18.8% in H1 and ~20.6% in H1-25. **Leverage — direction down on look-through, optically flat-to-up on reported:** reported 3.1x at June; the CEE 20% proceeds (~£361m / ~$476m in Q4) take net debt to ~£3.24bn (~$4.3bn), but deconsolidation removes ~£180-190m (~$240-250m) of annual CEE EBITDA from the denominator, so pro-forma reported leverage ex-CEE is ~3.4-3.5x on the lower-end guide (estimate); the sub-3x target depends on the remaining 47.5% exit. BetMGM distributions (~$25m/quarter to Entain at the Q3 rate) plus parent fees (~$9m/quarter) are the incremental cash positives; the interim dividend (10.3p / ~$0.14, ~£66m / ~$87m) and ~£108m (~$142m) of half-year interest are the fixed calls. **FY27:** the 25% remote betting duty from April 2027 and any MGD change are not in guidance; we expect the £500m (~$660m) 2028 cash target to be re-expressed at FY results in March — most likely on an ex-CEE, including-BetMGM-distributions basis — and FY27 consensus to drift lower on UK duty until the Budget is known.",
+      "watch": [
+        "UK Autumn Budget: machine gaming duty (20%→40% speculation), any further RGD/GBD changes, and Entain's quantified mitigation and shop-closure plan.",
+        "Brazil: the Congressional vote within the 120-day window (runs to late January 2027), reopening terms, and whether Entain re-enters — guidance assumes no 2026 revenue.",
+        "Q4 sports margins through the football/NFL calendar — the single largest swing factor for landing at £910m; management's Q3-25 sensitivity was c.£20m (~$26m) of EBITDA per 1-2pp miss in a quarter.",
+        "CEE 20% completion in Q4, the restated continuing-ops base and leverage definition at FY results, and timing/pricing of the remaining 47.5% exit.",
+        "MGM Resorts Q3 results (28 Oct): BetMGM Q4 run-rate, actives trend, Alberta ramp, prediction-market exposure and the $115m Q4 adj. EBITDA hurdle.",
+        "International ex-Brazil online volumes turning positive; Australia's lap of H2-25; Italy sports margin normalisation and the Eurobet relaunch.",
+        "FY results (March 2027): the re-based cash-flow target, FY27 guidance incorporating GBD at 25%, and UK&I online EBITDA margin trajectory after a full year at 40% RGD.",
+        "Consensus: FY26 EBITDA needs to settle at ~£910m (~$1.2bn); watch for FY27 cuts on tax rather than on Q3 trading."
+      ]
+    },
+    "sharePriceReaction": "Shares -2.6% to 432.6p (~$5.71) shortly after the open and -3.4% to 429.3p (~$5.67) by 12:01 BST on 15 Oct 2026 (implied prior close ~444p / ~$5.86); the Investing.com ticker showed -3.4% intraday. Closing level not verified at time of writing. The stock is -42% year-to-date (from ~744p in January); Deutsche Bank had already cut its target to 872p after the 28 Sep Brazil update.",
+    "confidence": "MEDIUM",
+    "confidenceNote": "FX: GBP/USD 1.32 as of 15 Oct 2026 (Trading Economics 1.3243; OFX 1.3221); EUR/USD 1.12 (OFX, 15 Oct 2026). All Q3-26 Entain figures are constant-currency growth rates from the 15 Oct RNS — Entain's Q3 trading update contains no P&L, so every absolute £ figure (NGR, EBITDA, margins, marketing, net debt, cash flow, EPS) is from the H1-26 interim results (13 Aug 2026) and is labelled as such; Q3 EBITDA/profit are 'n/d'. BetMGM figures are company-reported, unaudited estimates (per its own disclaimer). Q3-25 comparators are from the Q3-25 RNS/transcript. Call commentary (softer Q4, MGD lobbying numbers, NZ licences, £500m re-articulation) is sourced from secondary transcript summaries (Investing.com, MarketBeat, NEXT.io) — the full transcript could not be read. Discrepancies: NEXT.io reported Q3 online NGR ex-Brazil +8% and International online gaming -5%/sports -2%; the RNS states +5% ex-Brazil (8% is the 9M figure) and gaming +1%/sports -5% — company figures used. Unverified/estimated: closing share price on 15 Oct; FY25 continuing-ops NGR/EBITDA base and CEE annual EBITDA (~£180-190m); pro-forma leverage post-CEE; machine-gaming-duty exposure (~£100m); Q4 implied growth arithmetic; promo intensity for BetMGM derived as GGR hold minus NGR hold. BetMGM 50% share and cash-to-Entain figures are derived (50% of disclosed JV totals).",
+    "sources": [
+      {
+        "label": "Entain plc — Q3 2026 Trading Update, RNS 0222Z (15 Oct 2026) — primary",
+        "kind": "primary",
+        "url": "https://tools.eurolandir.com/tools/Pressreleases/GetPressRelease/?ID=8157480&lang=en-GB&companycode=lu-gvc&v=newdesign"
+      },
+      {
+        "label": "Entain plc — 2026 Interim Results, RNS 4877Q (13 Aug 2026): H1 P&L, segment tables, cash flow, net debt — primary",
+        "kind": "primary",
+        "url": "https://tools.eurolandir.com/tools/Pressreleases/GetPressRelease/?ID=8118009&lang=en-GB&companycode=lu-gvc&v=newdesign"
+      },
+      {
+        "label": "BetMGM Q3 2026 Business Update (13 Oct 2026), via Entain RNS on Investegate — primary",
+        "kind": "primary",
+        "url": "https://www.investegate.co.uk/announcement/rns/entain--ent/betmgm-q3-2026-update-/9820594"
+      },
+      {
+        "label": "Entain plc — 'Entain maintains FY26 EBITDA guidance despite Brazil's ban on online betting', RNS 5332W (28 Sep 2026), via TradingView/Reuters — primary",
+        "kind": "primary",
+        "url": "https://www.tradingview.com/news/reuters.com,2026-09-28:newsml_RSb5332Wa:0-reg-entain-plc-fy26-ebitda-maintained-guide-despite-brazil-ban/"
+      },
+      {
+        "label": "Entain plc — 2025 Q3 Trading Update (15 Oct 2025) and call transcript — primary (comparatives, sports-margin sensitivity)",
+        "kind": "primary",
+        "url": "https://www.entaingroup.com/news-insights/latest-news/2025/2025-q3-trading-update/"
+      },
+      {
+        "label": "Entain plc — 2025 Full Year Results (5 Mar 2026) — primary (FY25 base, original FY26 guidance, look-through leverage)",
+        "kind": "primary",
+        "url": "https://www.entaingroup.com/news-insights/latest-news/2026/2025-full-year-results/"
+      },
+      {
+        "label": "Entain Q3 2026 trading statement call transcript — GuruFocus (secondary; headline only accessible)",
+        "kind": "secondary",
+        "url": "https://www.gurufocus.com/news/9125427/q3-2026-entain-plc-trading-statement-call-transcript"
+      },
+      {
+        "label": "Investing.com — 'Earnings call transcript: Entain posts 10th straight quarter of online growth in Q3 2026' (secondary; call summary)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-entain-posts-10th-straight-quarter-of-online-growth-in-q3-2026-93CH-4950818"
+      },
+      {
+        "label": "MarketBeat — 'What Entain (ENT) Said on Its Q3 Earnings Call' (secondary; MGD, £500m target, softer Q4 commentary)",
+        "kind": "secondary",
+        "url": "https://www.marketbeat.com/instant-alerts/transcript-what-entain-ent-said-on-its-q3-earnings-call-2026-10-15/"
+      },
+      {
+        "label": "Investing.com — 'Entain shares fall nearly 3% as Brazil slump tempers third-quarter growth' (secondary; share price)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/earnings/entain-shares-fall-nearly-3-as-brazil-slump-tempers-thirdquarter-growth-4950737"
+      },
+      {
+        "label": "European Gaming — 'Entain posts 2% NGR growth in Q3 as UK&I online jumps 14%' (secondary; share price, analyst targets, Brazil ~5% of online NGR)",
+        "kind": "secondary",
+        "url": "https://europeangaming.eu/portal/latest-news/2026/10/15/216063/entain-q3-2026-trading-update/"
+      },
+      {
+        "label": "NEXT.io — 'Q3 2026: UK online surge pushes Entain net gaming revenue up 2%' (secondary; note ex-Brazil and International product figures differ from RNS)",
+        "kind": "secondary",
+        "url": "https://next.io/news/results/entain-q3-uk-online-surge-pushes-ngr-up/"
+      },
+      {
+        "label": "NEXT.io — 'BetMGM shifts focus to higher-value US markets amid rising competition' (secondary; BetMGM call colour, Macquarie)",
+        "kind": "secondary",
+        "url": "https://next.io/news/results/betmgm-shifts-focus-to-higher-value-us-markets/"
+      },
+      {
+        "label": "Yogonet — 'BetMGM Q3 adjusted EBITDA doubles to $86 million' (secondary; Citizens commentary)",
+        "kind": "secondary",
+        "url": "https://www.yogonet.com/international/news/2026/10/14/126830-betmgm-q3-adjusted-ebitda-doubles-to-86-million-fullyear-2026-guidance-reaffirmed"
+      },
+      {
+        "label": "CasinoBeats — 'BetMGM more than doubles adjusted EBITDA as actives fall 3%' (secondary)",
+        "kind": "secondary",
+        "url": "https://casinobeats.com/2026/10/14/betmgm-q3-results/"
+      },
+      {
+        "label": "Gaming Intelligence — 'Entain benefits from UK and Ireland growth in Q3 2026' (secondary; paywalled, headline only)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/237296-entain-benefits-from-uk-and-ireland-growth-in-q3-2026/"
+      },
+      {
+        "label": "iGaming Future — 'Entain FY26 EBITDA: Guidance Held Despite Brazil Ban' (secondary; 28 Sep corroboration)",
+        "kind": "secondary",
+        "url": "https://igamingfuture.com/entain-fy26-ebitda/"
+      },
+      {
+        "label": "Trading Economics — GBP/USD 15 Oct 2026 (FX reference)",
+        "kind": "secondary",
+        "url": "https://tradingeconomics.com/united-kingdom/currency"
+      },
+      {
+        "label": "OFX — EUR/USD historical rate 15 Oct 2026 (FX reference)",
+        "kind": "secondary",
+        "url": "https://www.ofx.com/en-au/forex-news/historical-exchange-rates/eur/usd/"
+      }
+    ]
+  }
+}
