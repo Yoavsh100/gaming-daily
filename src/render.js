@@ -1,6 +1,7 @@
 // Renders the edition as one self-contained HTML page (all cards rendered server-side,
 // a small script only filters by section and search).
 import { SECTIONS, EGR } from './sources.js';
+import { LOGO, FAVICON } from './logo.js';
 
 const PER_SECTION = 6; // cards shown per section in the "All" view
 
@@ -89,6 +90,9 @@ export function render({ edition, items, status, now, hours, reports = [], place
     .map((s) => `<li class="${s.ok ? '' : 'down'}">${esc(s.source)} <span>${s.ok ? s.count : 'unavailable'}</span></li>`).join('');
 
   return `<title>Iceman</title>
+<link rel="icon" type="image/png" sizes="48x48" href="${FAVICON}">
+<link rel="icon" type="image/png" sizes="32x32" href="${FAVICON}">
+<link rel="apple-touch-icon" href="${FAVICON}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=Public+Sans:wght@400;500;600&display=swap">
@@ -139,6 +143,9 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
 .rail { border-right: 1px solid var(--line); padding: 32px 20px; position: sticky; top: env(safe-area-inset-top, 0px); height: 100vh; overflow-y: auto; display: flex; flex-direction: column; gap: 28px; }
 .mast { font-family: var(--display); font-stretch: 125%; font-weight: 800; font-size: 27px; line-height: .95; letter-spacing: .06em; text-transform: uppercase; }
 .mast small { display: block; font-stretch: 100%; font-weight: 600; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); margin-bottom: 6px; }
+.mast { display: block; }
+.mast .logo { width: 100%; height: auto; border-radius: 10px; display: block; }
+.m-mast .logo { max-width: 240px; }
 .rail nav { display: flex; flex-direction: column; gap: 2px; }
 .rail nav a { display: flex; justify-content: space-between; padding: 7px 10px; border-radius: 8px; color: var(--muted); font-weight: 500; font-size: 14px; }
 .rail nav a span { font-variant-numeric: tabular-nums; }
@@ -270,14 +277,14 @@ body:not([data-view="all"]) .more { display: none; }
 
 <div class="app">
   <aside class="rail">
-    <div class="mast"><small>B2Tech</small>Iceman</div>
+    <a class="mast" href="#all" data-go="all" aria-label="Iceman — B2Tech"><img class="logo" src="${LOGO}" alt="Iceman — B2Tech" width="360" height="261"></a>
     <nav aria-label="Sections"><a href="#all" data-go="all" aria-current="true">All stories<span>${stories.length}</span></a>${SECTIONS.map((s) => `<a href="#${s.id}" data-go="${s.id}">${s.label}<span>${bySection[s.id].length}</span></a>`).join('')}<a href="#${EGR.id}" data-go="${EGR.id}">${EGR.label}<span>${egr.length}</span></a></nav>
     <div><h4>Sources today</h4><ul class="srcs">${sourceList}</ul></div>
   </aside>
 
   <div class="main">
     <header class="top">
-      <div class="mast m-mast"><small>B2Tech</small>Iceman</div>
+      <a class="mast m-mast" href="#all" data-go="all" aria-label="Iceman — B2Tech"><img class="logo" src="${LOGO}" alt="Iceman — B2Tech" width="360" height="261"></a>
       <div>
         <p class="tagline"><b>I</b>ndustry &amp; <b>C</b>ompany <b>E</b>arnings, <b>M</b>arket <b>A</b>nalysis &amp; <b>N</b>ews</p>
         <p class="dateline">${longDate.format(now)} · ${stories.length} stories from ${sourcesOk} sources, last ${hours} hours</p>
