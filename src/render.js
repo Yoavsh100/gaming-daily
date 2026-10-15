@@ -90,9 +90,6 @@ export function render({ edition, items, status, now, hours, reports = [], place
     .map((s) => `<li class="${s.ok ? '' : 'down'}">${esc(s.source)} <span>${s.ok ? s.count : 'unavailable'}</span></li>`).join('');
 
   return `<title>Iceman</title>
-<link rel="icon" type="image/png" sizes="48x48" href="${FAVICON}">
-<link rel="icon" type="image/png" sizes="32x32" href="${FAVICON}">
-<link rel="apple-touch-icon" href="${FAVICON}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=Public+Sans:wght@400;500;600&display=swap">
@@ -366,6 +363,9 @@ export function wrapDocument(fragment) {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow">
+<link rel="icon" type="image/png" sizes="48x48" href="${FAVICON}">
+<link rel="icon" type="image/png" sizes="32x32" href="${FAVICON}">
+<link rel="apple-touch-icon" href="${FAVICON}">
 </head>
 <body>
 ${fragment}

@@ -48,6 +48,22 @@ const firstImg = (html = '') => [...String(html).matchAll(/<img[^>]+src=["']([^"
 
 async function fromRss(src) {
   const doc = xml.parse(await get(src.url));
+  // Atom feeds (e.g. Covers) use <feed><entry> with <updated> and <link href=...>, not RSS's
+  // <channel><item><pubDate>.
+  if (doc?.feed?.entry) {
+    return arr(doc.feed.entry).map((e) => {
+      const links = arr(e.link);
+      const alt = links.find((l) => l && typeof l === 'object' && (l['@rel'] || 'alternate') === 'alternate') || links[0];
+      const content = text(e.content) || text(e.summary);
+      return {
+        title: clean(text(e.title)),
+        url: String((alt && typeof alt === 'object' ? alt['@href'] : alt) || '').trim(),
+        date: new Date(text(e.updated) || text(e.published)),
+        excerpt: clean(text(e.summary) || content).slice(0, 600),
+        image: firstImg(content) || undefined,
+      };
+    });
+  }
   return arr(doc?.rss?.channel?.item).map((it) => {
     const content = text(it['content:encoded']) || text(it.description);
     const media = arr(it['media:content'])[0] || arr(it['media:thumbnail'])[0];

@@ -24,14 +24,14 @@ export const SOURCES = [
   { id: 'igfut',   name: 'iGaming Future',          type: 'rss',     url: 'https://igamingfuture.com/feed/', africa: true },
 
   // --- Added 2026-10-15 (gambling-specific trade; full feed) ---
-  { id: 'ignext',  name: 'iGaming NEXT',            type: 'rss',     url: 'https://igamingnext.com/feed/' },
-  { id: 'igpost',  name: 'iGaming Post',            type: 'rss',     url: 'https://igamingpost.com/feed/' },
+  { id: 'ignext',  name: 'iGaming NEXT',            type: 'rss',     url: 'https://igamingnext.com/feed/', gnews: 'site:igamingnext.com' },
+  { id: 'igpost',  name: 'iGaming Post',            type: 'rss',     url: 'https://igamingpost.com/feed/', gnews: 'site:igamingpost.com' },
   { id: 'cbeats',  name: 'CasinoBeats',             type: 'rss',     url: 'https://casinobeats.com/feed/', gnews: 'site:casinobeats.com' },
-  { id: 'eugaming', name: 'European Gaming',        type: 'rss',     url: 'https://europeangaming.eu/portal/feed/' },
-  { id: 'findmore', name: 'Findmore Africa',        type: 'rss',     url: 'https://findmoreafrica.com/feed/', africa: true },
+  { id: 'eugaming', name: 'European Gaming',        type: 'rss',     url: 'https://europeangaming.eu/portal/feed/', gnews: 'site:europeangaming.eu' },
+  { id: 'findmore', name: 'Findmore Africa',        type: 'rss',     url: 'https://findmoreafrica.com/feed/', africa: true, gnews: 'site:findmoreafrica.com' },
   { id: 'lsr',     name: 'Legal Sports Report',     type: 'rss',     url: 'https://www.legalsportsreport.com/feed/', gnews: 'site:legalsportsreport.com' },
-  { id: 'covers',  name: 'Covers',                  type: 'rss',     url: 'https://www.covers.com/rss' },
-  { id: 'tcl',     name: 'The Closing Line',        type: 'rss',     url: 'https://closingline.substack.com/feed' },
+  { id: 'covers',  name: 'Covers',                  type: 'rss',     url: 'https://www.covers.com/rss', gnews: 'site:covers.com (betting OR odds OR sportsbook OR gambling)' },
+  { id: 'tcl',     name: 'The Closing Line',        type: 'rss',     url: 'https://closingline.substack.com/feed', gnews: 'site:closingline.substack.com' },
 
   // --- Added 2026-10-15 (gambling-specific, no open feed → Google News) ---
   { id: 'ggb',     name: 'Global Gaming Business',  type: 'gnews',   gnews: 'site:ggbmagazine.com' },
@@ -39,10 +39,10 @@ export const SOURCES = [
   { id: 'gbgc',    name: 'GBGC',                    type: 'gnews',   gnews: 'site:gbgc.com' },
 
   // --- Added 2026-10-15 (broad outlets → scoped to gambling-relevant stories) ---
-  { id: 'techcabal', name: 'TechCabal',             type: 'rss',     url: 'https://techcabal.com/feed/', africa: true, filter: GAMING_RE },
-  { id: 'nairam',  name: 'Nairametrics',            type: 'rss',     url: 'https://nairametrics.com/feed/', africa: true, filter: GAMING_RE },
-  { id: 'finextra', name: 'Finextra',               type: 'rss',     url: 'https://www.finextra.com/rss/headlines.aspx', filter: GAMING_RE },
-  { id: 'jafrique', name: 'Jeune Afrique (EN)',     type: 'rss',     url: 'https://www.jeuneafrique.com/feed/', africa: true, filter: FR_GAMING_RE, translate: 'fr' },
+  { id: 'techcabal', name: 'TechCabal',             type: 'rss',     url: 'https://techcabal.com/feed/', africa: true, filter: GAMING_RE, gnews: 'site:techcabal.com (betting OR gambling OR casino OR igaming OR lottery OR sportsbook)' },
+  { id: 'nairam',  name: 'Nairametrics',            type: 'rss',     url: 'https://nairametrics.com/feed/', africa: true, filter: GAMING_RE, gnews: 'site:nairametrics.com (betting OR gambling OR casino OR gaming OR lottery OR sportsbook)' },
+  { id: 'finextra', name: 'Finextra',               type: 'rss',     url: 'https://www.finextra.com/rss/headlines.aspx', filter: GAMING_RE, gnews: 'site:finextra.com (gambling OR betting OR igaming OR casino OR sportsbook)' },
+  { id: 'jafrique', name: 'Jeune Afrique (EN)',     type: 'rss',     url: 'https://www.jeuneafrique.com/feed/', africa: true, filter: FR_GAMING_RE, translate: 'fr', gnews: 'site:jeuneafrique.com (pari OR paris OR casino OR jeux OR loterie OR bookmaker)' },
   { id: 'techpoint', name: 'Techpoint Africa',      type: 'gnews',   gnews: 'site:techpoint.africa (betting OR gambling OR casino OR igaming OR lottery OR sportsbook)', africa: true },
   { id: 'bda',     name: 'Business Daily Africa',   type: 'gnews',   gnews: 'site:businessdailyafrica.com (betting OR gambling OR casino OR gaming OR lottery OR sportsbook)', africa: true },
   { id: 'paypers', name: 'The Paypers',             type: 'gnews',   gnews: 'site:thepaypers.com (gambling OR betting OR igaming OR casino OR sportsbook)' },
