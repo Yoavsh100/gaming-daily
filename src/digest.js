@@ -6,6 +6,7 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import dotenv from 'dotenv';
 import { collect, collectEgr } from './collect.js';
+import { translate } from './translate.js';
 import { classify } from './classify.js';
 import { embedImages } from './images.js';
 import { placeholder } from './placeholders.js';
@@ -29,6 +30,7 @@ status.push({ source: 'EGR Intel', ok: egr.length > 0, count: egr.length, error:
 for (const s of status) console.log(`${s.ok ? '✓' : '✗'} ${s.source}: ${s.ok ? `${s.count}${s.via === 'direct' || !s.via ? '' : ` via ${s.via}`}` : s.error}`);
 if (!items.length) throw new Error('No articles collected; not publishing an empty edition.');
 
+await translate(items); // FR→EN (and any other flagged) headlines before classification
 const [edition] = await Promise.all([classify(items), embedImages(items)]);
 console.log(`${items.length} articles → ${edition.stories.length} stories (${edition.engine})`);
 

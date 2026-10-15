@@ -76,9 +76,14 @@ function dedupe({ stories, mustReads }, items) {
   return { stories: survivors, mustReads: merged };
 }
 
+// Cap the articles sent to the model so its structured output can't overflow max_tokens and
+// truncate (items are date-sorted, so this keeps the most recent). Any overflow is still
+// rendered: repair() files unseen ids under "general".
+const CLASSIFY_CAP = 220;
+
 export async function classify(items) {
-  const listing = items.map((it, id) =>
-    `[${id}] (${it.sourceName}${it.africaSource ? ', Africa-focused outlet' : ''}) ${it.title}\n${it.excerpt.slice(0, 350)}`).join('\n\n');
+  const listing = items.slice(0, CLASSIFY_CAP).map((it, id) =>
+    `[${id}] (${it.sourceName}${it.africaSource ? ', Africa-focused outlet' : ''}) ${it.title}\n${(it.excerpt || '').slice(0, 300)}`).join('\n\n');
 
   try {
     // Cloud environments reserve ANTHROPIC_API_KEY for their own login, so the cloud job

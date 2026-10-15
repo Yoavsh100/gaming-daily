@@ -113,10 +113,12 @@ async function fromGoogleNews(src) {
     excerpt: '',
     image: undefined,
     viaGoogle: true,
-  }));
+  })).slice(0, 25); // cap per source: high-volume sites (e.g. Racing Post) can return ~100
 }
 
-const ADAPTERS = { rss: fromRss, sitemap: fromSitemap, wpjson: fromWpJson };
+// `gnews` sources read straight from Google News (no open feed of their own, e.g. paywalled
+// or data-centre-blocked sites); their `gnews` query may include keywords to scope results.
+const ADAPTERS = { rss: fromRss, sitemap: fromSitemap, wpjson: fromWpJson, gnews: fromGoogleNews };
 
 async function fetchSource(src) {
   try {
@@ -159,8 +161,8 @@ export async function collect({ hours }) {
     try {
       const { items: raw, via } = await fetchSource(src);
       const items = raw
-        .filter((i) => i.title && i.url && i.date.getTime() >= since)
-        .map((i) => ({ ...i, source: src.id, sourceName: src.name, africaSource: !!src.africa }));
+        .filter((i) => i.title && i.url && i.date.getTime() >= since && (!src.filter || src.filter.test(`${i.title} ${i.excerpt || ''}`)))
+        .map((i) => ({ ...i, source: src.id, sourceName: src.name, africaSource: !!src.africa, translate: src.translate || null }));
       status.push({ source: src.name, ok: true, count: items.length, via });
       return items;
     } catch (err) {
