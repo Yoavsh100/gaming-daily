@@ -32,6 +32,7 @@ export const SOURCES = [
   { id: 'lsr',     name: 'Legal Sports Report',     type: 'rss',     url: 'https://www.legalsportsreport.com/feed/', gnews: 'site:legalsportsreport.com' },
   { id: 'covers',  name: 'Covers',                  type: 'rss',     url: 'https://www.covers.com/rss', gnews: 'site:covers.com (betting OR odds OR sportsbook OR gambling)' },
   { id: 'tcl',     name: 'The Closing Line',        type: 'rss',     url: 'https://closingline.substack.com/feed', gnews: 'site:closingline.substack.com' },
+  { id: 'gamblest', name: 'The Gamblest',           type: 'rss',     url: 'https://www.thegamblest.com/feed/', gnews: 'site:thegamblest.com' },
 
   // --- Added 2026-10-15 (gambling-specific, no open feed → Google News) ---
   { id: 'ggb',     name: 'Global Gaming Business',  type: 'gnews',   gnews: 'site:ggbmagazine.com' },
