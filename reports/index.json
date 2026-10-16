@@ -458,5 +458,63 @@
     "releaseDate": "14 Oct 2026",
     "model": "claude-fable-5-1",
     "costUsd": 4.11
+  },
+  {
+    "key": "rank|Q1 FY2026/27",
+    "attempts": 1,
+    "lastAttempt": "2026-10-16T17:02:07.215Z",
+    "status": "done",
+    "error": null,
+    "slug": "RNK-L-Q1-FY2026-27",
+    "published": "2026-10-16",
+    "company": {
+      "name": "The Rank Group Plc",
+      "ticker": "RNK.L",
+      "exchange": ""
+    },
+    "period": "Q1 FY2026/27",
+    "verdict": "A clean but unspectacular Q1: group LFL NGR +5% to £216.1m (~$286.5m), with Grosvenor gaming machines (+14%) doing the heavy lifting and UK digital (+6%) holding up through its first full quarter under 40% Remote Gaming Duty. FY27 operating-profit guidance is reiterated but explicitly conditional on no change to Machine Games Duty — the Autumn Budget, not the trading, sets the equity's value from here, and the undisclosed in-quarter deceleration (first six weeks +8%, full quarter +5%) is the number management chose not to highlight.",
+    "kpis": [
+      {
+        "label": "Group LFL NGR (Q1 FY27)",
+        "value": "£216.1m (~$286.5m)",
+        "delta": "+5% YoY LFL; +3.4% QoQ; +2.8% vs PY reported",
+        "dir": "up"
+      },
+      {
+        "label": "Digital LFL NGR",
+        "value": "£64.9m (~$86.0m)",
+        "delta": "+6% YoY (Q4 FY26: +12%); UK +6%, Intl +4%",
+        "dir": "up"
+      },
+      {
+        "label": "Grosvenor venues LFL NGR",
+        "value": "£108.1m (~$143.3m)",
+        "delta": "+6% YoY; visits +1%, spend/visit +5%, machines +14%",
+        "dir": "up"
+      },
+      {
+        "label": "Mecca venues LFL NGR",
+        "value": "£32.2m (~$42.7m)",
+        "delta": "0% YoY; visits −3%, spend/visit +3%",
+        "dir": "flat"
+      },
+      {
+        "label": "Enracha venues LFL NGR",
+        "value": "£10.9m (~$14.5m)",
+        "delta": "+7% YoY; electronic gaming +11%",
+        "dir": "up"
+      },
+      {
+        "label": "FY27 LFL operating profit guidance",
+        "value": "\"In line with market expectations\"",
+        "delta": "Reiterated (Aug-26); conditional on unchanged UK tax regime",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "15 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.95
   }
 ]

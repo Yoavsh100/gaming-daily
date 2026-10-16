@@ -1,0 +1,1389 @@
+{
+  "company": {
+    "name": "The Rank Group Plc",
+    "ticker": "RNK.L",
+    "exchange": ""
+  },
+  "period": "Q1 FY2026/27",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 1848776,
+    "output": 42920,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 60,
+    "cacheRead": 1738925,
+    "cacheWrite": 109791,
+    "turns": 1
+  },
+  "prepared": "16 Oct 2026",
+  "report": {
+    "releaseDate": "15 Oct 2026",
+    "currency": "GBP (tables in £ millions; ~USD equivalents at GBP/USD 1.326)",
+    "verdict": "A clean but unspectacular Q1: group LFL NGR +5% to £216.1m (~$286.5m), with Grosvenor gaming machines (+14%) doing the heavy lifting and UK digital (+6%) holding up through its first full quarter under 40% Remote Gaming Duty. FY27 operating-profit guidance is reiterated but explicitly conditional on no change to Machine Games Duty — the Autumn Budget, not the trading, sets the equity's value from here, and the undisclosed in-quarter deceleration (first six weeks +8%, full quarter +5%) is the number management chose not to highlight.",
+    "kpis": [
+      {
+        "label": "Group LFL NGR (Q1 FY27)",
+        "value": "£216.1m (~$286.5m)",
+        "delta": "+5% YoY LFL; +3.4% QoQ; +2.8% vs PY reported",
+        "dir": "up"
+      },
+      {
+        "label": "Digital LFL NGR",
+        "value": "£64.9m (~$86.0m)",
+        "delta": "+6% YoY (Q4 FY26: +12%); UK +6%, Intl +4%",
+        "dir": "up"
+      },
+      {
+        "label": "Grosvenor venues LFL NGR",
+        "value": "£108.1m (~$143.3m)",
+        "delta": "+6% YoY; visits +1%, spend/visit +5%, machines +14%",
+        "dir": "up"
+      },
+      {
+        "label": "Mecca venues LFL NGR",
+        "value": "£32.2m (~$42.7m)",
+        "delta": "0% YoY; visits −3%, spend/visit +3%",
+        "dir": "flat"
+      },
+      {
+        "label": "Enracha venues LFL NGR",
+        "value": "£10.9m (~$14.5m)",
+        "delta": "+7% YoY; electronic gaming +11%",
+        "dir": "up"
+      },
+      {
+        "label": "FY27 LFL operating profit guidance",
+        "value": "\"In line with market expectations\"",
+        "delta": "Reiterated (Aug-26); conditional on unchanged UK tax regime",
+        "dir": "flat"
+      }
+    ],
+    "summary": [
+      "**Headline in line, no profit disclosure.** Q1 FY27 (1 Jul–30 Sep 2026) group like-for-like NGR grew 5% to £216.1m (~$286.5m); digital +6%, venues +5%. This is a revenue-only RNS: no operating profit, EBITDA, cash flow or balance-sheet data were disclosed, so every profit and leverage read-through below rests on the FY26 prelims (13 Aug 2026) and is labelled as such.",
+      "**Guidance reiterated, not raised — and explicitly conditional.** Management is \"confident of delivering Group LFL operating profit in line with market expectations for the current year\", unchanged from August, but now framed \"based on the current industry tax regime in the UK\". No division drove a change; the bridge from FY26's £78.6m (~$104.2m) underlying operating profit is still dominated by the digital tax reset (RGD 21%→40% from 1 Apr 2026: ~£35m (~$46.4m) gross FY27 impact, ~£20m (~$26.5m) targeted mitigation).",
+      "**The in-quarter deceleration is the number management did not highlight.** At the August prelims the first six weeks of FY27 were running +8% group NGR and +10% digital; the full 13-week quarter printed +5% and +6%. Assuming equal weekly weighting, the final seven weeks ran roughly +2.4% group and +2.6% digital [our estimate]. Grosvenor machines (+15% at six weeks, +14% for the quarter) were the exception.",
+      "**Grosvenor machines remain the growth engine.** Grosvenor LFL NGR +6% to £108.1m (~$143.3m), visits +1% and spend per visit +5%; gaming machines +14% (Q4 FY26 +12%, Q1 FY26 +12% — a ~28% two-year stack), table gaming +3%, electronic gaming +5%. The 850-machine rollout across 37 casinos (completed H1 FY26) plus ongoing optimisation is still compounding; at the prelims management flagged room for ~650 further machines. Implied average NGR per week ~£8.3m (~$11.0m) vs £7.6m FY26 average [our arithmetic].",
+      "**Three Grosvenor closures (Swansea, Reading Central, Sunderland)**, judged \"no longer economically viable in the medium term\", follow nine Mecca closures in FY26. Reported growth will therefore trail LFL: Q1 LFL NGR of £216.1m is only +2.8% against the £210.2m (~$278.7m) reported in Q1 FY26, implying ~£4.4m (~$5.8m) of prior-year revenue has been stripped from the LFL base (Mecca's base alone restates from £35.5m to ~£32.2m).",
+      "**UK digital resilient at +6% in its first full quarter under 40% RGD.** Mecca online +7% (PY +9%); Grosvenor online growth was not disclosed this time (PY +31%); international digital +4% (PY −1%, after Spanish platform capacity issues were fixed with a new bingo platform). Growth was delivered with deliberately reduced above-the-line marketing and, per Shore Capital, growth in first-time depositors — i.e. the mitigation plan is not (yet) visibly costing volume.",
+      "**Mecca flat** at £32.2m (~$42.7m): visits −3%, spend per visit +3%, with the prolonged UK hot summer blamed for footfall. The weakest of the four prints, but on a small profit base (FY26 underlying LFL operating profit £8.9m, ~$11.8m, 6.2% margin) — a 3% visit miss is worth low single-digit £m of NGR, not a thesis change.",
+      "**Enracha +7%** to £10.9m (~$14.5m), driven by electronic gaming +11%; the Spanish venues business continues to compound (FY26 +7% to £45.3m, ~$60.1m) after absorbing the £6.5m (~$8.6m) payment-fraud loss booked as an SDI in FY26.",
+      "**Capital position (30 Jun 2026, last disclosed):** net cash pre-IFRS 16 of £56.8m (~$75.3m); IFRS 16 net debt £147.2m (~$195.2m), down from £154.7m; FY26 net free cash flow £25.5m (~$33.8m) after SDI outflows; ROCE 18.3% (+3.2ppt). FY26 DPS 3.50p (~$0.046), +35%; the 2.5p final is payable 23 Oct 2026 (~£16.5m cash at 3.5p on ~472m shares [estimate]). No buyback in place; net debt/EBITDA not disclosed in Q1 [n/a].",
+      "**Mitigation is a cost-action programme, not a formal transformation plan.** Against the ~£35m FY27 RGD step-up, management targets ~£20m of offsets via sharply lower ATL advertising, modestly higher performance marketing, supplier renegotiation, headcount cuts and operating-model streamlining; FY26 LFL employment costs were held flat at £270.3m (~$358.4m) despite ~4% underlying inflation. Venues are separately absorbing National Living Wage, employer NIC and statutory-levy increases.",
+      "**The MGD overhang dominates everything.** CEO Richard Harris: any increase to Machine Games Duty \"will increase costs, reduce venue viability, lead to venue closures and job losses, reduce tax receipts and halt investment\". Shore Capital sizes a hypothetical 20%→40% doubling at ~£35m gross (£25m/~$33.1m Grosvenor, £10m/~$13.3m Mecca); Deutsche Bank at ~£35m (~$46.4m) p.a. even after partial mitigation, equal to ~44% of FY28E EBIT and ~17% of near-term EBITDA — DB downgraded to Hold in January 2026 (PT 104p from 163p).",
+      "**The >£100m (~$132.6m) medium-term operating-profit ambition is retained**, having reached £78.6m underlying in FY26 (+21%, margin 9.4% vs 8.1%). On Shore's arithmetic an MGD doubling would delay it materially; Shore nonetheless left forecasts unchanged and argues Budget risk is largely priced in, while Peel Hunt expects the Budget to pass without a negative effect on Rank.",
+      "**Share price:** Shore Capital's note dated 15 Oct recorded the shares at 74p (~$0.98), −14% over one month, −23% over three months and −43% over twelve months — the stock had already de-rated on the June 2026 machine-tax reports (−8% on 30 Jun) and the January DB downgrade. The official close on the day could not be verified from the sources read [unverified].",
+      "**Management & governance:** this is Richard Harris's first Q1 as Chief Executive following John O'Reilly's retirement (announced 6 Jan 2026; Harris confirmed in the role in July 2026). FY26 carried £22.9m (~$30.4m) of separately disclosed items, including a £5.0m (~$6.6m) proposed Gambling Commission settlement in lieu of a penalty for historical Grosvenor venues failings (July 2026) and the £6.5m Spanish fraud loss — statutory operating profit fell 7% to £55.7m (~$73.8m) and basic EPS 22% to 6.4p (~$0.085) despite the underlying beat.",
+      "**Disclosure quality is thin.** No actives, ARPU, customer numbers, marketing spend, London vs provincial split or Grosvenor online growth were given — all of which appeared in prior updates. Management is emphasising machines and digital resilience; it is burying the deceleration, Mecca footfall, the closures and the absence of any profit commentary beyond \"in line\".",
+      "**Sector read-through:** Entain's Q3 (same morning) showed UK & Ireland online growth, Betfred's FY showed retail shrinking, and Genting has warned on MGD and shut its Coventry venue — the UK land-based estate is already rationalising pre-Budget. Rank, with ~70% of NGR from venues and machines as the growth product, is the most MGD-exposed listed name (DB).",
+      "**Thesis read-through:** operationally the model is working — machine yield, spend per visit and digital retention are all moving the right way and the balance sheet is ungeared ex-leases. But the policy binary dwarfs the operating delta: a benign Budget leaves a business compounding mid-single-digit NGR on an undemanding multiple; an adverse one removes ~45% of FY28E EBIT (DB) and would likely trigger a further wave of closures.",
+      "**Next catalysts:** the Autumn Budget (MGD decision), then H1 FY27 results on 28 Jan 2027 (first disclosure of the post-RGD digital margin)."
+    ],
+    "groupTable": {
+      "note": "£m (LFL NGR unless stated); ~USD at 1.326",
+      "columns": [
+        "Q1 FY27",
+        "Q4 FY26",
+        "QoQ",
+        "Q1 FY26 (PY rep.)",
+        "YoY (LFL)",
+        "FY26 (12m to Jun-26)"
+      ],
+      "rows": [
+        {
+          "label": "LFL NGR by segment",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Digital",
+          "indent": true,
+          "cells": [
+            "64.9 (~$86.0m)",
+            "63.9",
+            "+1.6%",
+            "61.6",
+            "+6%",
+            "248.5 (+8%)"
+          ]
+        },
+        {
+          "label": "Grosvenor venues",
+          "indent": true,
+          "cells": [
+            "108.1 (~$143.3m)",
+            "98.3",
+            "+10.0%",
+            "102.7",
+            "+6%",
+            "397.3 (+5%)"
+          ]
+        },
+        {
+          "label": "Mecca venues",
+          "indent": true,
+          "cells": [
+            "32.2 (~$42.7m)",
+            "35.4",
+            "−9.0%",
+            "35.5",
+            "0%",
+            "143.0 (+4%)"
+          ]
+        },
+        {
+          "label": "Enracha venues (Spain)",
+          "indent": true,
+          "cells": [
+            "10.9 (~$14.5m)",
+            "11.3*",
+            "−3.5%",
+            "10.4",
+            "+7%",
+            "45.3 (+7%)"
+          ],
+          "footnote": "*Q4 FY26 Enracha derived as group less disclosed segments."
+        },
+        {
+          "label": "Group LFL NGR",
+          "kind": "emphasis",
+          "cells": [
+            "216.1 (~$286.5m)",
+            "208.9 (~$277.0m)",
+            "+3.4%",
+            "210.2 (~$278.7m)",
+            "+5%",
+            "834.1 (~$1,106m) (+6%)"
+          ]
+        },
+        {
+          "label": "LFL NGR by channel",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Digital (iGaming/bingo online)",
+          "indent": true,
+          "cells": [
+            "64.9 (30.0% of group)",
+            "63.9",
+            "+1.6%",
+            "61.6",
+            "+6%",
+            "248.5"
+          ]
+        },
+        {
+          "label": "Venues (casino/bingo/machines)",
+          "indent": true,
+          "cells": [
+            "151.2 (~$200.5m)",
+            "145.0",
+            "+4.3%",
+            "148.6",
+            "+5%",
+            "585.6"
+          ]
+        },
+        {
+          "label": "Product growth (Grosvenor only disclosed)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Gaming machines",
+          "indent": true,
+          "cells": [
+            "+14%",
+            "+12%",
+            "—",
+            "+12%",
+            "—",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Table gaming",
+          "indent": true,
+          "cells": [
+            "+3%",
+            "n/a",
+            "—",
+            "+3%",
+            "—",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Electronic gaming",
+          "indent": true,
+          "cells": [
+            "+5%",
+            "n/a",
+            "—",
+            "+11%",
+            "—",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Profitability (not disclosed at Q1)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Underlying operating profit",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "—",
+            "n/a",
+            "—",
+            "78.6 (~$104.2m) (+21%)"
+          ]
+        },
+        {
+          "label": "Underlying operating margin",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "—",
+            "n/a",
+            "—",
+            "9.4% (FY25: 8.1%)"
+          ]
+        },
+        {
+          "label": "Underlying LFL operating profit",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "—",
+            "n/a",
+            "—",
+            "79.9 (+20%)"
+          ]
+        },
+        {
+          "label": "Statutory operating profit",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "—",
+            "n/a",
+            "—",
+            "55.7 (~$73.8m) (−7%)"
+          ]
+        },
+        {
+          "label": "Profit before tax (statutory)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "—",
+            "n/a",
+            "—",
+            "39.2 (~$52.0m) (−15%)"
+          ]
+        },
+        {
+          "label": "Basic EPS (statutory)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "—",
+            "n/a",
+            "—",
+            "6.4p (~$0.085) (−22%)"
+          ]
+        },
+        {
+          "label": "Underlying EPS",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "—",
+            "n/a",
+            "—",
+            "10.5p (~$0.139) (FY25: 9.1p)"
+          ]
+        },
+        {
+          "label": "Dividend per share",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "—",
+            "—",
+            "n/a",
+            "—",
+            "3.50p (~$0.046) (+35%)"
+          ]
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Avg monthly players / actives",
+          "indent": true,
+          "cells": [
+            "n/d",
+            "n/d",
+            "—",
+            "n/d",
+            "—",
+            "n/d"
+          ]
+        },
+        {
+          "label": "Grosvenor avg NGR per week (est.)",
+          "indent": true,
+          "cells": [
+            "~£8.3m (~$11.0m)",
+            "~£7.6m",
+            "+10%",
+            "~£7.9m",
+            "+5%",
+            "£7.6m (+5%)"
+          ]
+        },
+        {
+          "label": "Cash & balance sheet (last disclosed 30 Jun 2026)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Net free cash flow",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "—",
+            "n/a",
+            "—",
+            "25.5 (~$33.8m) (FY25: 27.7)"
+          ]
+        },
+        {
+          "label": "Net cash pre-IFRS 16",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "56.8 (~$75.3m)",
+            "—",
+            "n/a",
+            "—",
+            "56.8 (~$75.3m)"
+          ]
+        },
+        {
+          "label": "Net debt (IFRS 16 basis)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "147.2 (~$195.2m)",
+            "—",
+            "n/a",
+            "—",
+            "147.2 (FY25: 154.7)"
+          ]
+        },
+        {
+          "label": "Net debt / EBITDA",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "—",
+            "n/a",
+            "—",
+            "n/a [not disclosed]"
+          ]
+        },
+        {
+          "label": "ROCE",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "—",
+            "n/a",
+            "—",
+            "18.3% (+3.2ppt)"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Digital (UK: Grosvenor & Mecca online; International: Spain)",
+        "headline": "+6% LFL to £64.9m through the first full quarter of 40% RGD — resilient, but decelerating from +12% in Q4 and +10% in the first six weeks.",
+        "narrative": [
+          "They grew digital LFL NGR 6% to £64.9m (~$86.0m), which is 30.0% of group revenue and up 1.6% sequentially on the £63.9m (~$84.7m) of Q4 FY26. The growth was almost entirely UK-driven: the UK business grew 6%, with the Mecca brand online up 7% (prior year +9%), and they attributed it to \"strong performance from our core customer base\". Grosvenor online growth, which was +31% in the comparable quarter a year ago, was conspicuously not disclosed this time; given the UK aggregate of +6%, Grosvenor online is unlikely to have been meaningfully above that, and we read the omission as the end of the Grosvenor-online outperformance narrative rather than an oversight. International digital (principally Spain under the Yo/Enracha brands) grew 4%, a recovery from −1% a year ago when platform capacity issues were still being worked through and a new bingo platform was being launched.",
+          "The important context is that this is the first full quarter under the 40% Remote Gaming Duty (up from 21%) that took effect on 1 April 2026 following the November 2025 Budget. At the August prelims they sized the gross annualised impact at ~£46m (~$61m), of which ~£35m (~$46.4m) lands in FY27 incrementally, and targeted ~£20m (~$26.5m) of mitigation: a significant cut to above-the-line advertising, a modest scale-up in performance marketing, renegotiated supplier terms and a streamlined operating model, while continuing to fund free bets and incentives. The Q1 statement confirms revenue has held up \"despite the higher tax regime introduced in April 2026 and reduced above-the-line marketing spend\", and Shore Capital points to growth in first-time depositors. On that basis the mitigation plan is not yet costing volume, which is the single most encouraging thing in the release for the digital P&L. Marketing spend as a percentage of revenue, monthly actives and ARPU were not disclosed, so the quality of that growth cannot be tested.",
+          "The deceleration is nonetheless real and under-discussed. UK digital accelerated from +2% in Q3 FY26 to +12% in Q4 and was still running +10% six weeks into FY27; a full-quarter print of +6% implies the back seven weeks averaged roughly +2.6% [our estimate, equal weekly weighting]. Whether that reflects a tougher comparative (Q1 FY26 was +13%), the lagged effect of lower ATL spend on acquisition, or a genuine softening in the UK online casino market post-tax as operators reset bonusing, cannot be determined from the disclosure. Management's own framing — a focus on \"the customer proposition and overall marketing spend balance\" as \"the wider digital landscape continues to reset\" — reads to us as an acknowledgement that the market is in flux rather than a statement of confidence.",
+          "On profitability, FY26 digital underlying operating profit was £36.6m (~$48.5m), +10%, a 14.7% margin on total NGR of £249.3m (~$330.6m), with only one quarter of the higher duty absorbed. Management has explicitly guided that digital profitability will \"reset\" in FY27 as the full-year RGD impact lands; mechanically, a ~£15m net headwind on a ~£37m base implies a digital margin somewhere in the 8–10% range in FY27 unless NGR growth or mitigation outperforms [our estimate]. No segment profit guidance was given at Q1. The next hard data point is H1 FY27 on 28 Jan 2027, which will be the first disclosure of the post-reset margin; we would treat any Q2 digital growth below ~5% as evidence that the ATL cuts are biting on acquisition."
+        ],
+        "table": {
+          "note": "Digital — £m / growth rates",
+          "columns": [
+            "Q1 FY27",
+            "QoQ vs Q4 FY26",
+            "YoY (LFL)",
+            "Q1 FY26 (PY)",
+            "FY26"
+          ],
+          "rows": [
+            {
+              "label": "LFL NGR",
+              "kind": "emphasis",
+              "cells": [
+                "64.9 (~$86.0m)",
+                "+1.6% (Q4: 63.9)",
+                "+6%",
+                "61.6 (~$81.7m) (+13%)",
+                "248.5 (~$329.5m) (+8%)"
+              ]
+            },
+            {
+              "label": "Share of group NGR",
+              "cells": [
+                "30.0%",
+                "30.6% in Q4",
+                "+0.7ppt",
+                "29.3%",
+                "29.8%"
+              ]
+            },
+            {
+              "label": "UK digital NGR growth",
+              "indent": true,
+              "cells": [
+                "+6%",
+                "Q4: +12%; Q3: +2%",
+                "—",
+                "+15%",
+                "n/d"
+              ]
+            },
+            {
+              "label": "— Mecca online growth",
+              "indent": true,
+              "cells": [
+                "+7%",
+                "n/d",
+                "—",
+                "+9%",
+                "n/d"
+              ]
+            },
+            {
+              "label": "— Grosvenor online growth",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "—",
+                "+31%",
+                "n/d"
+              ]
+            },
+            {
+              "label": "International (Spain) NGR growth",
+              "indent": true,
+              "cells": [
+                "+4%",
+                "n/d",
+                "—",
+                "−1%",
+                "n/d"
+              ]
+            },
+            {
+              "label": "First six weeks of FY27 (Aug prelims)",
+              "cells": [
+                "+10%",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Implied final 7 weeks growth (est.)",
+              "cells": [
+                "~+2.6%",
+                "—",
+                "—",
+                "—",
+                "—"
+              ],
+              "footnote": "Our arithmetic assuming equal weekly weighting; not disclosed."
+            },
+            {
+              "label": "Remote Gaming Duty rate",
+              "cells": [
+                "40%",
+                "40% (from 1 Apr 26)",
+                "+19ppt",
+                "21%",
+                "21% → 40%"
+              ]
+            },
+            {
+              "label": "RGD gross impact / mitigation",
+              "cells": [
+                "n/d",
+                "—",
+                "—",
+                "—",
+                "FY27: ~£35m (~$46.4m) / ~£20m (~$26.5m)"
+              ]
+            },
+            {
+              "label": "Underlying operating profit",
+              "cells": [
+                "n/a",
+                "n/a",
+                "—",
+                "n/a",
+                "36.6 (~$48.5m) (+10%)"
+              ]
+            },
+            {
+              "label": "Underlying operating margin",
+              "cells": [
+                "n/a",
+                "n/a",
+                "—",
+                "n/a",
+                "14.7%"
+              ]
+            },
+            {
+              "label": "Monthly actives / ARPU",
+              "cells": [
+                "n/d",
+                "n/d",
+                "—",
+                "n/d",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Marketing % of NGR",
+              "cells": [
+                "n/d (ATL reduced)",
+                "n/d",
+                "—",
+                "n/d",
+                "n/d"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Headline growth",
+            "takeaway": "Digital LFL NGR grew 6% to £64.9m (~$86.0m), resilient through the first full quarter of 40% RGD but decelerating from +12% in Q4.",
+            "points": [
+              "Digital is 30.0% of group revenue and up 1.6% sequentially on Q4 FY26's £63.9m (~$84.7m).",
+              "Growth was running +10% in the first six weeks of FY27 before slowing to +6% for the full quarter."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "UK and Grosvenor online",
+            "takeaway": "Growth was almost entirely UK-driven at +6%, with Mecca online +7% and Grosvenor online growth conspicuously not disclosed.",
+            "points": [
+              "Mecca brand online grew 7% against +9% in the prior year, attributed to the core customer base.",
+              "Grosvenor online was +31% in the comparable quarter a year ago; given the UK aggregate of +6%, it is unlikely to have been meaningfully above that.",
+              "We read the omission as the end of the Grosvenor-online outperformance narrative rather than an oversight."
+            ],
+            "quote": {
+              "text": "strong performance from our core customer base",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "International digital",
+            "takeaway": "International digital, principally Spain under the Yo/Enracha brands, grew 4%, recovering from −1% a year ago.",
+            "points": [
+              "The prior-year decline reflected platform capacity issues still being worked through and a new bingo platform launch."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "RGD and mitigation",
+            "takeaway": "This is the first full quarter under 40% Remote Gaming Duty (up from 21%), and the ~£20m mitigation plan is not yet costing volume.",
+            "points": [
+              "The duty increase took effect 1 April 2026 following the November 2025 Budget.",
+              "At the August prelims gross annualised impact was sized at ~£46m (~$61m), with ~£35m (~$46.4m) landing incrementally in FY27.",
+              "Mitigation of ~£20m (~$26.5m): significant cut to above-the-line advertising, modest scale-up in performance marketing, renegotiated supplier terms, streamlined operating model, while funding free bets and incentives.",
+              "Shore Capital points to growth in first-time depositors; this is the single most encouraging thing in the release for the digital P&L.",
+              "Marketing spend as a percentage of revenue, monthly actives and ARPU were not disclosed, so growth quality cannot be tested."
+            ],
+            "quote": {
+              "text": "despite the higher tax regime introduced in April 2026 and reduced above-the-line marketing spend",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Deceleration",
+            "takeaway": "The deceleration is real and under-discussed: a +6% full quarter after +10% at six weeks implies the back seven weeks averaged roughly +2.6%.",
+            "points": [
+              "UK digital accelerated from +2% in Q3 FY26 to +12% in Q4 FY26; the +2.6% figure is our estimate using equal weekly weighting.",
+              "Causes cannot be determined: tougher comparative (Q1 FY26 was +13%), lagged effect of lower ATL spend, or genuine post-tax softening as operators reset bonusing.",
+              "Management's framing reads to us as an acknowledgement that the market is in flux rather than a statement of confidence."
+            ],
+            "quote": {
+              "text": "the customer proposition and overall marketing spend balance",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Profitability outlook",
+            "takeaway": "FY26 digital underlying operating profit was £36.6m (~$48.5m), +10%, a 14.7% margin; management guides profitability will reset in FY27.",
+            "points": [
+              "FY26 total NGR was £249.3m (~$330.6m), with only one quarter of the higher duty absorbed.",
+              "A ~£15m net headwind on a ~£37m base implies a FY27 digital margin of 8–10% unless NGR growth or mitigation outperforms [our estimate].",
+              "No segment profit guidance was given at Q1; H1 FY27 on 28 Jan 2027 will be the first disclosure of the post-reset margin.",
+              "We would treat any Q2 digital growth below ~5% as evidence that the ATL cuts are biting on acquisition."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Grosvenor venues (UK casinos)",
+        "headline": "+6% LFL to £108.1m on spend per visit +5% and machines +14%; three closures signal the estate is still being pruned ahead of the Budget.",
+        "narrative": [
+          "They grew Grosvenor LFL NGR 6% to £108.1m (~$143.3m), with customer visits up 1% and spend per visit up 5% — a markedly different mix from a year ago, when the same quarter delivered +8% on visits +5% and spend +3%. Sequentially the business recovered 10% from the Q4 FY26 trough of £98.3m (~$130.3m), which had been held to +3% by the Middle East conflict's disruption to international travel into London; implied average NGR per week is ~£8.3m (~$11.0m) against the FY26 average of £7.6m [our arithmetic]. The London versus provincial split that was given a year ago (London +4%, outside London +10%) was not repeated, so we cannot tell whether the Victoria Casino's post-£15m-refurbishment step-up and the wider London recovery are the drivers of the spend-per-visit gain, or whether it is a machine-yield story across the estate. We suspect the latter.",
+          "At the product level, gaming machines grew 14% (Q4 FY26 +12%, Q1 FY26 +12%), tables +3% (unchanged on the prior-year rate) and electronic gaming +5% (down from +11% a year ago, as the terminal-upgrade tailwind laps). The machine number is the one management leads with and it deserves the emphasis: the 850 incremental B1 machines installed across 37 casinos in H1 FY26 have now fully annualised in the comparative, so a 14% print on top of 12% is genuine yield improvement from estate optimisation rather than simple capacity. Management \"underlined our confidence in further improvement\" and, at the prelims, flagged room for ~650 additional machines, which is the principal organic lever behind the >£100m group operating-profit ambition. Table gaming at +3% remains the laggard and is the most exposed to London's international-visitor mix.",
+          "They closed three casinos during the quarter — Swansea, Reading Central and Sunderland — described as \"no longer economically viable in the medium term\". The implied LFL base restates to ~£102.0m from £102.7m reported, so these were small venues, but the timing matters: the closures were decided before the Budget outcome is known, and management's language on MGD (closures, job losses, halted investment) is clearly positioned as a signal to HM Treasury that the marginal estate is already on the edge. Shore Capital sizes a 20%→40% MGD doubling at ~£25m (~$33.1m) gross for Grosvenor alone, against FY26 underlying LFL operating profit of £35.5m (~$47.1m), +11%, an 8.9% margin on NGR. That is why the equity trades as it does.",
+          "No profit, cost or capex data were given for the quarter. FY26 context: Grosvenor absorbed National Living Wage, employer NIC and statutory-levy increases while growing operating profit 11%, group LFL employment costs were held flat at £270.3m (~$358.4m), and the £5.0m (~$6.6m) Gambling Commission settlement proposal relating to historical Grosvenor failings was booked below the underlying line. For FY27 we would model Grosvenor NGR growth of 4–6% with modest margin expansion from machine yield and closure savings, absent an MGD change; the swing factor is entirely fiscal. We would also flag that a 1% visit increase against a 5% visit increase a year ago means the footfall recovery has largely run its course — growth from here is yield, which is exactly what a machine tax would attack."
+        ],
+        "table": {
+          "note": "Grosvenor venues — £m / growth rates",
+          "columns": [
+            "Q1 FY27",
+            "QoQ vs Q4 FY26",
+            "YoY (LFL)",
+            "Q1 FY26 (PY)",
+            "FY26"
+          ],
+          "rows": [
+            {
+              "label": "LFL NGR",
+              "kind": "emphasis",
+              "cells": [
+                "108.1 (~$143.3m)",
+                "+10.0% (Q4: 98.3)",
+                "+6%",
+                "102.7 (~$136.2m) (+8%)",
+                "397.3 (~$526.8m) (+5%)"
+              ]
+            },
+            {
+              "label": "Share of group NGR",
+              "cells": [
+                "50.0%",
+                "47.1% in Q4",
+                "+1.2ppt vs PY",
+                "48.9%",
+                "47.6%"
+              ]
+            },
+            {
+              "label": "Customer visits",
+              "indent": true,
+              "cells": [
+                "+1%",
+                "n/d",
+                "—",
+                "+5%",
+                "up (n/q)"
+              ]
+            },
+            {
+              "label": "Spend per visit",
+              "indent": true,
+              "cells": [
+                "+5%",
+                "n/d",
+                "—",
+                "+3%",
+                "up (n/q)"
+              ]
+            },
+            {
+              "label": "Gaming machines revenue",
+              "indent": true,
+              "cells": [
+                "+14%",
+                "Q4: +12%; Q3: +10%",
+                "—",
+                "+12%",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Table gaming revenue",
+              "indent": true,
+              "cells": [
+                "+3%",
+                "n/d",
+                "—",
+                "+3%",
+                "n/d (hit by Middle East conflict in H2)"
+              ]
+            },
+            {
+              "label": "Electronic gaming revenue",
+              "indent": true,
+              "cells": [
+                "+5%",
+                "n/d",
+                "—",
+                "+11%",
+                "n/d"
+              ]
+            },
+            {
+              "label": "London / outside London growth",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "n/d",
+                "—",
+                "+4% / +10%",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Avg NGR per week (est.)",
+              "cells": [
+                "~£8.3m (~$11.0m)",
+                "~£7.6m",
+                "+5% vs PY",
+                "~£7.9m",
+                "£7.6m (+5%)"
+              ]
+            },
+            {
+              "label": "Venue closures in period",
+              "cells": [
+                "3 (Swansea, Reading Central, Sunderland)",
+                "—",
+                "—",
+                "0",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Incremental machines installed",
+              "cells": [
+                "—",
+                "—",
+                "—",
+                "471 (of 850 planned)",
+                "850 in 37 casinos; ~650 further identified"
+              ]
+            },
+            {
+              "label": "Underlying LFL operating profit",
+              "cells": [
+                "n/a",
+                "n/a",
+                "—",
+                "n/a",
+                "35.5 (~$47.1m) (+11%)"
+              ]
+            },
+            {
+              "label": "Operating margin (on LFL NGR)",
+              "cells": [
+                "n/a",
+                "n/a",
+                "—",
+                "n/a",
+                "8.9%"
+              ]
+            },
+            {
+              "label": "MGD doubling sensitivity (Shore)",
+              "cells": [
+                "—",
+                "—",
+                "—",
+                "—",
+                "~£25m (~$33.1m) gross p.a."
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Headline growth",
+            "takeaway": "Grosvenor LFL NGR grew 6% to £108.1m (~$143.3m), with visits up 1% and spend per visit up 5%.",
+            "points": [
+              "A markedly different mix from a year ago, when the quarter delivered +8% on visits +5% and spend +3%.",
+              "Sequentially the business recovered 10% from the Q4 FY26 trough of £98.3m (~$130.3m), held to +3% by Middle East conflict disruption to London international travel.",
+              "Implied average NGR per week is ~£8.3m (~$11.0m) against the FY26 average of £7.6m [our arithmetic].",
+              "The London versus provincial split (London +4%, outside London +10% a year ago) was not repeated; we suspect a machine-yield story rather than Victoria Casino's post-£15m-refurbishment step-up."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Product mix",
+            "takeaway": "Gaming machines grew 14% on top of 12% a year ago, genuine yield improvement from estate optimisation rather than simple capacity.",
+            "points": [
+              "Q4 FY26 machines +12%, Q1 FY26 +12%; the 850 incremental B1 machines installed across 37 casinos in H1 FY26 have fully annualised.",
+              "Tables +3%, unchanged on the prior-year rate; electronic gaming +5%, down from +11% as the terminal-upgrade tailwind laps.",
+              "At the prelims management flagged room for ~650 additional machines, the principal organic lever behind the >£100m group operating-profit ambition.",
+              "Table gaming remains the laggard and is most exposed to London's international-visitor mix."
+            ],
+            "quote": {
+              "text": "underlined our confidence in further improvement",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Closures and MGD",
+            "takeaway": "Three casinos closed in the quarter — Swansea, Reading Central and Sunderland — signalling the marginal estate is on the edge ahead of the Budget.",
+            "points": [
+              "The implied LFL base restates to ~£102.0m from £102.7m reported, so these were small venues.",
+              "Closures were decided before the Budget outcome is known; management's language on MGD (closures, job losses, halted investment) is positioned as a signal to HM Treasury.",
+              "Shore Capital sizes a 20%→40% MGD doubling at ~£25m (~$33.1m) gross for Grosvenor alone.",
+              "FY26 underlying LFL operating profit was £35.5m (~$47.1m), +11%, an 8.9% margin on NGR; that is why the equity trades as it does."
+            ],
+            "quote": {
+              "text": "no longer economically viable in the medium term",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Costs and outlook",
+            "takeaway": "No profit, cost or capex data were given; for FY27 we model NGR growth of 4–6% with modest margin expansion, absent an MGD change.",
+            "points": [
+              "FY26: Grosvenor absorbed National Living Wage, employer NIC and statutory-levy increases while growing operating profit 11%.",
+              "Group LFL employment costs were held flat at £270.3m (~$358.4m).",
+              "The £5.0m (~$6.6m) Gambling Commission settlement proposal for historical Grosvenor failings was booked below the underlying line.",
+              "The swing factor is entirely fiscal.",
+              "A 1% visit increase against 5% a year ago means footfall recovery has largely run its course; growth from here is yield, which a machine tax would attack."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Mecca venues (UK bingo)",
+        "headline": "Flat LFL NGR at £32.2m as visits fell 3%; weather is the stated excuse, but this is the fourth consecutive quarter of negative footfall.",
+        "narrative": [
+          "They held Mecca LFL NGR flat at £32.2m (~$42.7m), with customer visits down 3% and spend per visit up 3%. Management attributed the visit softness largely to \"the prolonged period of hot weather in the UK\", which is plausible for a bingo estate in July–September, and Shore Capital expects trends to improve as weather normalises. We would note, however, that visits were also down 1% in the comparable quarter a year ago (then offset by spend +6%), so the footfall line has been negative for some time and the spend-per-visit cushion has halved. Sequentially NGR fell 9% from Q4 FY26's £35.4m (~$46.9m), consistent with normal summer seasonality, and the prior-year reported figure of £35.5m restates to ~£32.2m on a LFL basis, which is the arithmetic footprint of the nine commercially unviable clubs closed during FY26.",
+          "The strategic context from the prelims is that Mecca is being run as a right-sized, cash-generative estate rather than a growth business: FY26 LFL NGR grew 4% to £143.0m (~$189.6m) and underlying LFL operating profit more than doubled to £8.9m (~$11.8m) from £4.3m, on selected investment in gaming-machine areas, external signage and modernisation of the offer, with the main-stage bingo game described as in good health. A 6.2% margin on a flat top line leaves little room for error, but equally the profit at stake is small relative to group; a 3% visit shortfall is worth roughly £1m of quarterly NGR [our estimate].",
+          "The bigger risk for Mecca is fiscal rather than operational. Shore Capital sizes a 20%→40% MGD doubling at ~£10m (~$13.3m) gross for Mecca — more than the entire FY26 operating profit of the division — which would render a further tranche of clubs unviable and accelerate the closure programme management has already shown it is willing to execute. No profit, cost or customer data beyond visits and spend were disclosed for the quarter, and there was no comment on machine performance within Mecca, which is where the capital has been going.",
+          "Looking into Q2 (October–December), the weather excuse disappears and the comparative (Q2 FY26 was described as \"slightly softer\") is undemanding, so a return to low-single-digit LFL growth is the base case absent a tax shock. We would treat another quarter of negative visits with the weather normalised as a structural signal on the core customer base rather than noise."
+        ],
+        "table": {
+          "note": "Mecca venues — £m / growth rates",
+          "columns": [
+            "Q1 FY27",
+            "QoQ vs Q4 FY26",
+            "YoY (LFL)",
+            "Q1 FY26 (PY)",
+            "FY26"
+          ],
+          "rows": [
+            {
+              "label": "LFL NGR",
+              "kind": "emphasis",
+              "cells": [
+                "32.2 (~$42.7m)",
+                "−9.0% (Q4: 35.4)",
+                "0%",
+                "35.5 (~$47.1m) (+5%)",
+                "143.0 (~$189.6m) (+4%)"
+              ]
+            },
+            {
+              "label": "Share of group NGR",
+              "cells": [
+                "14.9%",
+                "16.9% in Q4",
+                "−2.0ppt vs PY",
+                "16.9%",
+                "17.1%"
+              ]
+            },
+            {
+              "label": "Customer visits",
+              "indent": true,
+              "cells": [
+                "−3%",
+                "n/d",
+                "—",
+                "−1%",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Spend per visit",
+              "indent": true,
+              "cells": [
+                "+3%",
+                "n/d",
+                "—",
+                "+6%",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Reported vs PY (incl. closures)",
+              "cells": [
+                "−9.3%",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Venue closures",
+              "cells": [
+                "0",
+                "—",
+                "—",
+                "—",
+                "9 unviable venues closed in FY26"
+              ]
+            },
+            {
+              "label": "Underlying LFL operating profit",
+              "cells": [
+                "n/a",
+                "n/a",
+                "—",
+                "n/a",
+                "8.9 (~$11.8m) (+107%; FY25: 4.3)"
+              ]
+            },
+            {
+              "label": "Operating margin (on LFL NGR)",
+              "cells": [
+                "n/a",
+                "n/a",
+                "—",
+                "n/a",
+                "6.2%"
+              ]
+            },
+            {
+              "label": "MGD doubling sensitivity (Shore)",
+              "cells": [
+                "—",
+                "—",
+                "—",
+                "—",
+                "~£10m (~$13.3m) gross p.a."
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Headline and footfall",
+            "takeaway": "Mecca LFL NGR was flat at £32.2m (~$42.7m) as visits fell 3%, the fourth consecutive quarter of negative footfall.",
+            "points": [
+              "Spend per visit rose 3%; management attributed visit softness largely to hot weather, plausible for a bingo estate in July–September.",
+              "Shore Capital expects trends to improve as weather normalises.",
+              "Visits were also down 1% in the comparable quarter a year ago (offset by spend +6%), so the spend-per-visit cushion has halved.",
+              "NGR fell 9% sequentially from Q4 FY26's £35.4m (~$46.9m), consistent with summer seasonality.",
+              "Prior-year reported £35.5m restates to ~£32.2m LFL, reflecting the nine commercially unviable clubs closed during FY26."
+            ],
+            "quote": {
+              "text": "the prolonged period of hot weather in the UK",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Strategic context",
+            "takeaway": "Mecca is run as a right-sized, cash-generative estate; FY26 LFL NGR grew 4% to £143.0m and profit more than doubled to £8.9m.",
+            "points": [
+              "FY26 underlying LFL operating profit of £8.9m (~$11.8m) rose from £4.3m, on investment in gaming-machine areas, external signage and modernisation.",
+              "FY26 LFL NGR was £143.0m (~$189.6m); the main-stage bingo game is described as in good health.",
+              "A 6.2% margin on a flat top line leaves little room for error, but profit at stake is small relative to group.",
+              "A 3% visit shortfall is worth roughly £1m of quarterly NGR [our estimate]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Fiscal risk",
+            "takeaway": "The bigger risk is fiscal: Shore Capital sizes a 20%→40% MGD doubling at ~£10m (~$13.3m) gross, more than FY26 divisional operating profit.",
+            "points": [
+              "Such a change would render a further tranche of clubs unviable and accelerate the closure programme management has shown it is willing to execute.",
+              "No profit, cost or customer data beyond visits and spend were disclosed for the quarter.",
+              "No comment was made on machine performance within Mecca, which is where the capital has been going."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Q2 outlook",
+            "takeaway": "In Q2 (October–December) the weather excuse disappears and the comparative is undemanding, so low-single-digit LFL growth is the base case absent a tax shock.",
+            "points": [
+              "Q2 FY26 was described as \"slightly softer\".",
+              "Another quarter of negative visits with weather normalised would be a structural signal on the core customer base rather than noise."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Enracha venues (Spain)",
+        "headline": "+7% LFL to £10.9m on electronic gaming +11%; small, steady, and the only segment outside the UK tax debate.",
+        "narrative": [
+          "They grew Enracha LFL NGR 7% to £10.9m (~$14.5m), driven by 11% growth in electronic gaming, continuing a run of mid-to-high single-digit growth (Q1 FY26 +5%, FY26 +7% to £45.3m, ~$60.1m). The LFL figure strips out FX; on a reported sterling basis the growth is closer to +4.8% against the £10.4m (~$13.8m) reported a year ago, so sterling strength against the euro has absorbed roughly two points. Sequentially NGR is ~3.5% below the ~£11.3m (~$15.0m) we derive for Q4 FY26 [group less disclosed segments], in line with summer seasonality for a Spanish bingo and casino estate.",
+          "Enracha is 5% of group NGR and the only segment with no exposure to UK Remote Gaming Duty or Machine Games Duty, which gives it a modest diversification value that the market does not price. The FY26 year was marred by the £6.5m (~$8.6m) loss from the payment fraud incident in the Spanish business announced in December 2025, booked as a separately disclosed item; no update on recoveries or control remediation was given in the Q1 statement, and we would expect that at the interims. Segment operating profit is not disclosed at the quarterly stage and was not broken out in the prelims material we were able to verify [n/a].",
+          "The 11% growth in electronic gaming mirrors the Grosvenor playbook — capital into machines and electronic terminals yielding above-estate growth — and suggests the Spanish estate still has runway from product investment. Together with the recovery in Spanish digital (+4% after −1% a year ago), the Spanish platform is now a modest net contributor to group growth rather than a drag, which was not the case twelve months ago."
+        ],
+        "table": {
+          "note": "Enracha venues — £m / growth rates",
+          "columns": [
+            "Q1 FY27",
+            "QoQ vs Q4 FY26",
+            "YoY (LFL)",
+            "Q1 FY26 (PY)",
+            "FY26"
+          ],
+          "rows": [
+            {
+              "label": "LFL NGR",
+              "kind": "emphasis",
+              "cells": [
+                "10.9 (~$14.5m)",
+                "−3.5% (Q4: ~11.3 derived)",
+                "+7%",
+                "10.4 (~$13.8m) (+5%)",
+                "45.3 (~$60.1m) (+7%)"
+              ]
+            },
+            {
+              "label": "Share of group NGR",
+              "cells": [
+                "5.0%",
+                "5.4% in Q4",
+                "+0.1ppt vs PY",
+                "4.9%",
+                "5.4%"
+              ]
+            },
+            {
+              "label": "Electronic gaming revenue growth",
+              "indent": true,
+              "cells": [
+                "+11%",
+                "n/d",
+                "—",
+                "n/d",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Reported sterling growth vs PY",
+              "cells": [
+                "+4.8%",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Payment fraud loss (SDI)",
+              "cells": [
+                "—",
+                "—",
+                "—",
+                "—",
+                "£6.5m (~$8.6m) (Dec-25 incident)"
+              ]
+            },
+            {
+              "label": "Underlying operating profit",
+              "cells": [
+                "n/a",
+                "n/a",
+                "—",
+                "n/a",
+                "n/a [not verified]"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Headline growth",
+            "takeaway": "Enracha LFL NGR grew 7% to £10.9m (~$14.5m), driven by 11% growth in electronic gaming, continuing mid-to-high single-digit growth.",
+            "points": [
+              "Prior run: Q1 FY26 +5%, FY26 +7% to £45.3m (~$60.1m).",
+              "On a reported sterling basis growth is closer to +4.8% against £10.4m (~$13.8m) a year ago; sterling strength against the euro absorbed roughly two points.",
+              "Sequentially NGR is ~3.5% below the ~£11.3m (~$15.0m) we derive for Q4 FY26 [group less disclosed segments], in line with summer seasonality."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Diversification and fraud",
+            "takeaway": "Enracha is 5% of group NGR and the only segment with no UK RGD or MGD exposure, a diversification value the market does not price.",
+            "points": [
+              "FY26 was marred by the £6.5m (~$8.6m) payment fraud loss in the Spanish business announced December 2025, booked as a separately disclosed item.",
+              "No update on recoveries or control remediation was given at Q1; we expect one at the interims.",
+              "Segment operating profit is not disclosed quarterly and was not broken out in the prelims material we could verify [n/a]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Product investment",
+            "takeaway": "The 11% electronic gaming growth mirrors the Grosvenor playbook and suggests the Spanish estate still has runway from product investment.",
+            "points": [
+              "Capital into machines and electronic terminals is yielding above-estate growth.",
+              "With Spanish digital recovering (+4% after −1% a year ago), the Spanish platform is now a modest net contributor to group growth rather than a drag."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "**Grosvenor gaming machines +14%** on top of +12% a year ago (~28% two-year stack) — the 850-machine rollout has fully annualised, so this is yield optimisation, with ~650 further machines identified. This is the core of the >£100m (~$132.6m) operating-profit ambition.",
+        "tag": "structural"
+      },
+      {
+        "text": "**UK digital +6% in the first full quarter under 40% RGD**, delivered with deliberately reduced above-the-line marketing and growth in first-time depositors (Shore) — early evidence that the ~£20m (~$26.5m) mitigation plan is not costing volume.",
+        "tag": "early"
+      },
+      {
+        "text": "**Spend per visit up across the venues estate** — Grosvenor +5%, Mecca +3% — supporting NGR despite flat-to-negative footfall; Grosvenor implied NGR/week ~£8.3m (~$11.0m) vs £7.6m FY26 average [our arithmetic].",
+        "tag": "mixed"
+      },
+      {
+        "text": "**Enracha +7% with electronic gaming +11%** and Spanish digital back to growth (+4% vs −1%) — the Spanish platform is now a net contributor after the FY26 fraud loss and platform issues.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Balance sheet is ungeared ex-leases**: net cash pre-IFRS 16 £56.8m (~$75.3m) at Jun-26, IFRS 16 net debt £147.2m (~$195.2m) falling, FY26 net FCF £25.5m (~$33.8m), DPS +35% to 3.50p (~$0.046) — ample capacity to absorb a tax shock without a dilutive response.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Guidance held** — FY27 LFL operating profit \"in line with market expectations\" reiterated, with Shore Capital and Peel Hunt leaving forecasts unchanged.",
+        "tag": "watch"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "**Undisclosed in-quarter deceleration**: group NGR was +8% and digital +10% in the first six weeks (Aug prelims) but +5%/+6% for the quarter, implying ~+2.4%/+2.6% over the final seven weeks [our estimate]. Management did not address the slowdown.",
+        "tag": "watch"
+      },
+      {
+        "text": "**Mecca visits −3%, NGR flat** — fourth consecutive quarter of negative footfall and the spend-per-visit cushion has halved (+3% vs +6%); weather is the stated cause but the trend predates the summer.",
+        "tag": "mixed"
+      },
+      {
+        "text": "**Three Grosvenor closures** (Swansea, Reading Central, Sunderland) after nine Mecca closures in FY26; reported group growth is only +2.8% vs +5% LFL, with ~£4.4m (~$5.8m) of PY revenue stripped from the base. The estate is shrinking before the Budget outcome is known.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Machine Games Duty binary**: a 20%→40% doubling would cost ~£35m (~$46.4m) gross p.a. (Shore: £25m Grosvenor, £10m Mecca; DB: ~44% of FY28E EBIT) against FY26 underlying operating profit of £78.6m (~$104.2m); guidance is explicitly conditional on no change.",
+        "tag": "governance"
+      },
+      {
+        "text": "**Digital margin reset in FY27**: ~£35m (~$46.4m) incremental RGD less ~£20m mitigation implies a ~£15m net headwind on a £36.6m (~$48.5m) FY26 digital profit base — FY27 digital margin likely 8–10% vs 14.7% [our estimate].",
+        "tag": "structural"
+      },
+      {
+        "text": "**Disclosure has thinned**: no profit, actives, ARPU, marketing %, London/provincial split or Grosvenor online growth (PY +31%) — all previously provided. Statutory FY26 EPS fell 22% to 6.4p (~$0.085) on £22.9m (~$30.4m) of SDIs including the £5.0m (~$6.6m) Gambling Commission settlement.",
+        "tag": "governance"
+      },
+      {
+        "text": "**Shares −43% over 12 months to ~74p (~$0.98)** per Shore's 15 Oct note, with two tax-driven sell-offs (Oct-24 reports, Jun-26 machine-tax report, −8%) and a DB downgrade (Jan-26) in the rear-view mirror — the stock is a policy instrument until the Budget clears.",
+        "tag": "watch"
+      }
+    ],
+    "forecast": {
+      "intro": "There is no numerical guidance change to bridge: in August (FY26 prelims) management guided FY27 group LFL operating profit \"in line with market expectations\" with a ~£35m (~$46.4m) incremental RGD headwind and ~£20m (~$26.5m) of mitigation, and retained the >£100m (~$132.6m) medium-term ambition; on 15 October that was reiterated verbatim but now conditioned on \"the current industry tax regime in the UK\". No division drove a change — digital is tracking the mitigation plan, Grosvenor is ahead on machines, Mecca is modestly behind on footfall, Enracha is in line. Company-compiled consensus for FY27 was not disclosed in the Q1 RNS [unverified]; the last published reference point was FY26 consensus of £68.2m (~$90.4m) in July 2026, which the company then beat by delivering £78.6m. The moving parts for FY27 are: (i) the net ~£15m digital tax reset; (ii) Grosvenor operating leverage from machines and closure savings; (iii) wage/NIC/levy inflation in venues; and (iv) the MGD outcome, which sits entirely outside guidance.",
+      "bridge": [
+        {
+          "title": "FY27 guidance — Aug 2026 (prelims)",
+          "value": "LFL op. profit \"in line with market expectations\"; RGD ~£35m gross / ~£20m mitigated",
+          "change": "Base"
+        },
+        {
+          "title": "FY27 guidance — 15 Oct 2026 (Q1)",
+          "value": "Reiterated, \"based on the current industry tax regime in the UK\"",
+          "change": "Unchanged (new tax caveat)"
+        },
+        {
+          "title": "Our FY27E underlying op. profit",
+          "value": "~£72–76m (~$95–101m) vs FY26 £78.6m",
+          "change": "−3% to −8% YoY [estimate]"
+        },
+        {
+          "title": "MGD doubling scenario (not in guidance)",
+          "value": "−£35m (~$46.4m) gross p.a. (Shore/DB)",
+          "change": "~−45% of FY28E EBIT (DB)"
+        }
+      ],
+      "view": "**Revenue:** we model FY27 LFL NGR of ~£865–875m (~$1.15–1.16bn), +4–5%, with Q1's £216.1m representing ~26% of the FY26 base. Within that, Grosvenor +4–6% on machine yield (the only product growing double-digit), digital +4–6% as the comparative hardens (Q4 FY26 was +12%) and ATL cuts lag into acquisition, Mecca flat to +2% as weather normalises, Enracha +5–7%. Reported NGR will trail LFL by ~1–2ppt given twelve closures in the last five quarters. **Margin:** FY26 underlying operating margin of 9.4% compresses to ~8.5% [estimate] as the digital reset lands: FY26 £78.6m + ~£8–10m venues operating leverage (machines, closure savings) − ~£15m net RGD − ~£3–5m venues wage/NIC/levy inflation = **~£72–76m (~$95–101m)** underlying operating profit, i.e. a modest decline that we think is broadly what \"in line with market expectations\" means after the July upgrade cycle. Digital margin falls from 14.7% toward 8–10%; Grosvenor should hold or modestly expand from 8.9%. **Leverage:** with ~£25m of annual net FCF against ~£16.5m of dividends [3.5p × ~472m shares, estimate], pre-IFRS 16 net cash should build from £56.8m toward £60–70m by Jun-27 absent a tax shock; IFRS 16 net debt stays ~£140–150m and there is no case for a buyback until the Budget clears. **Q2 (Oct–Dec):** expect low-to-mid single-digit group LFL growth — Mecca recovering, Grosvenor machines still +10% or better, digital decelerating toward mid-single digits against the +12% Q4 exit rate — but the Q2 print will be irrelevant if MGD doubles. **The swing factor is binary:** an unchanged MGD leaves a business compounding mid-single-digit NGR with an ungeared balance sheet on a distressed multiple; a doubling to 40% removes ~£35m gross (~£20–25m net of mitigation and closures [our estimate]), pushes the >£100m ambition out by three-plus years, and triggers a further closure wave across the marginal Grosvenor and Mecca estate. We would not extrapolate the Q1 revenue beat into FY27 upgrades until the Budget outcome is known.",
+      "watch": [
+        "Autumn Budget: any change to Machine Games Duty (current 20%) — the only variable that matters for the equity; Shore/DB size a doubling at ~£35m gross p.a.",
+        "H1 FY27 results on 28 Jan 2027: first disclosure of the post-RGD digital operating margin and whether the ~£20m mitigation is being delivered; also any update on Spanish fraud recoveries.",
+        "Digital growth trajectory: Q2 UK digital below ~5% would indicate the ATL marketing cuts are biting on acquisition; watch first-time depositor commentary and whether Grosvenor online growth is disclosed again.",
+        "Grosvenor machine yield: whether +14% sustains as the 850-machine comparative is fully lapped, and timing of the ~650 additional machines; London vs provincial split.",
+        "Mecca footfall once the weather excuse lapses — a further quarter of negative visits would be a structural signal; also any further closure announcements across either venues brand.",
+        "Cost inflation: April 2027 National Living Wage and any further employer NIC/statutory levy changes in the Budget, against the flat £270.3m FY26 employment-cost base.",
+        "Regulatory: finalisation of the £5.0m Gambling Commission settlement and any conditions attached to Grosvenor's operating licence."
+      ]
+    },
+    "sharePriceReaction": "Closing move on 15 Oct 2026 not verifiable from the sources read [unverified]. Shore Capital's note dated 15 Oct recorded the shares at 74p (~$0.98), −14% over one month, −23% over three months and −43% over twelve months, implying a muted reaction to an in-line print; the stock had closed at 73.6p on 2 Oct and 73.4p on 7 Oct (MarketScreener/Sharecast), having fallen ~8% on 30 Jun 2026 on machine-tax reports and de-rated after Deutsche Bank's January downgrade (PT 104p from 163p). Market cap ~£350m (~$464m) at 74p [estimate, ~472m shares].",
+    "confidence": "MEDIUM",
+    "confidenceNote": "FX: GBP/USD 1.326 as of 15 Oct 2026 (implied from the $286.5m/£216.1m conversion used by Yogonet and iGB on the release date; a direct rate lookup could not be completed because the web tools hit their usage limit). All Q1 FY27 and Q1 FY26 revenue/KPI figures were verified against the full RNS text (Investegate) and corroborated by at least three secondary sources. Q4 FY26 and FY26 segment/profit/cash figures come from the FY26 prelims (rank.com) and the July 2026 trading update as reported by AJ Bell, iGB and Investing.com; Q4 Enracha NGR is derived, not disclosed. Not verifiable: the 15 Oct closing share price, company-compiled FY27 consensus operating profit, Q1 profit/EBITDA/cash (not disclosed by the company), net debt/EBITDA, Enracha segment profit, and the exact Budget date. In-quarter deceleration, Grosvenor NGR/week, FY27E operating profit and dividend cash are our own arithmetic and are labelled as estimates.",
+    "sources": [
+      {
+        "label": "Rank Group plc — Q1 2026/27 trading update, RNS 15 Oct 2026 (full text via Investegate)",
+        "kind": "primary",
+        "url": "https://www.investegate.co.uk/announcement/rns/rank-group--rnk/q1-2026-27-trading-update/9823554"
+      },
+      {
+        "label": "Rank Group plc — Q1 2025/26 trading update, RNS 15 Oct 2025 (prior-year comparatives, full text via Investegate)",
+        "kind": "primary",
+        "url": "https://www.investegate.co.uk/announcement/rns/rank-group--rnk/q1-2025-26-trading-update/9171296"
+      },
+      {
+        "label": "Rank Group plc — Preliminary results for the 12 months ended 30 June 2026 (13 Aug 2026; rank.com, read via search extracts)",
+        "kind": "primary",
+        "url": "https://www.rank.com/preliminary-results/"
+      },
+      {
+        "label": "Rank Group plc — RNS announcements index (Investegate), incl. Full Year Trading Update 14 Jul 2026, Result of AGM 8 Oct 2026",
+        "kind": "primary",
+        "url": "https://www.investegate.co.uk/company/RNK"
+      },
+      {
+        "label": "iGaming Business — Rank CEO says MGD rise would 'reduce viability' of venues (15 Oct 2026; incl. Deutsche Bank MGD estimate)",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/finance/mgd-rise-would-reduce-viability-venues-ranks-q1-ngr/"
+      },
+      {
+        "label": "Yogonet — Rank Group quarterly revenue rises 5%, warns higher gaming duty could trigger closures (15 Oct 2026; USD conversion)",
+        "kind": "secondary",
+        "url": "https://www.yogonet.com/international/news/2026/10/15/126862-rank-group-quarterly-revenue-rises-5--warns-higher-gaming-duty-could-trigger-closures"
+      },
+      {
+        "label": "NEXT.io — Rank Group highlights digital resilience despite headwinds (15 Oct 2026; Peel Hunt view)",
+        "kind": "secondary",
+        "url": "https://next.io/news/results/rank-highlights-digital-resilience-despite-headwinds/"
+      },
+      {
+        "label": "Proactive Investors — Rank Group grows revenue 5% as Shore Capital flags tax risks (15 Oct 2026; Shore MGD sensitivity, share price 74p)",
+        "kind": "secondary",
+        "url": "https://www.proactiveinvestors.com/companies/news/1100161/rank-group-grows-revenue-5-as-shore-capital-flags-tax-risks-1100161.html"
+      },
+      {
+        "label": "AJ Bell / Alliance News — Rank boosts operating guidance outlook after strong fourth quarter (14 Jul 2026; Q4 and FY26 segment NGR, consensus £68.2m)",
+        "kind": "secondary",
+        "url": "https://www.ajbell.co.uk/news/articles/rank-boosts-operating-guidance-outlook-after-strong-fourth-quarter"
+      },
+      {
+        "label": "iGaming Business — Rank Group expects FY profit to surpass forecasts despite regulatory settlement (Jul 2026; Q4 segment detail)",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/finance/rank-group-expects-fy-profit-surpass-forecasts-regulatory-settlement/"
+      },
+      {
+        "label": "Investing.com — Earnings call transcript: Rank Group lifts FY 2026 profit as trading momentum builds (13 Aug 2026; RGD impact, first six weeks trading)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-rank-group-lifts-fy-2026-profit-as-trading-momentum-builds-93CH-4856954"
+      },
+      {
+        "label": "Investing.com — Rank Group FY 2026 slides: profit surges 21% on gaming machines (13 Aug 2026; digital segment profit and margin, mitigation actions)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/company-news/rank-group-fy-2026-slides-profit-surges-21-on-gaming-machines-93CH-4856975"
+      },
+      {
+        "label": "Financial News UK — Rank Group full-year results show 8% NGR rise as new CEO takes charge (Sep 2026; EPS, net debt, CEO appointment)",
+        "kind": "secondary",
+        "url": "https://www.financial-news.co.uk/rank-group-full-year-results-show-8-ngr-rise-as-new-ceo-takes-charge/"
+      },
+      {
+        "label": "Sharecast — Rank Group news flow (Q1 FY26 coverage; Deutsche Bank downgrade 23 Jan 2026; O'Reilly retirement; Nov-25 Budget RGD coverage)",
+        "kind": "secondary",
+        "url": "https://www.sharecast.com/news/news-and-announcements/rank-group-reiterates-outlook-after-strong-first-quarter--17714724.html"
+      },
+      {
+        "label": "Yahoo Finance UK / Proactive — Entain and Rank fall on report that Burnham could hike gambling machine taxes (30 Jun 2026; RNK −8%)",
+        "kind": "secondary",
+        "url": "https://uk.finance.yahoo.com/news/entain-rank-fall-report-burnham-091900014.html"
+      },
+      {
+        "label": "MarketScreener — The Rank Group Plc quote and price history (late Sep / early Oct 2026 closes)",
+        "kind": "secondary",
+        "url": "https://www.marketscreener.com/quote/stock/THE-RANK-GROUP-PLC-9590194/"
+      },
+      {
+        "label": "London Stock Exchange — RNK company page (market cap, share count reference)",
+        "kind": "secondary",
+        "url": "https://www.londonstockexchange.com/stock/RNK/rank-group-plc/company-page"
+      }
+    ]
+  }
+}
