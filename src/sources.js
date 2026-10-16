@@ -22,6 +22,7 @@ export const SOURCES = [
   { id: 'gintel',  name: 'Gaming Intelligence',     type: 'wpjson',  url: 'https://www.gamingintelligence.com/wp-json/wp/v2/posts' },
   { id: 'igafr',   name: 'iGaming AFRIKA',          type: 'rss',     url: 'https://igamingafrika.com/feed/', africa: true },
   { id: 'igfut',   name: 'iGaming Future',          type: 'rss',     url: 'https://igamingfuture.com/feed/', africa: true },
+  { id: 'ibetaf',  name: 'iBetAfrica',              type: 'rss',     url: 'https://ibetafrica.com/feed/', africa: true, gnews: 'site:ibetafrica.com' },
 
   // --- Added 2026-10-15 (gambling-specific trade; full feed) ---
   { id: 'ignext',  name: 'iGaming NEXT',            type: 'rss',     url: 'https://igamingnext.com/feed/', gnews: 'site:igamingnext.com' },
