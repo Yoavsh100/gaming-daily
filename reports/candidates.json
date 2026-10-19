@@ -122,5 +122,49 @@
       "https://igamingfuture.com/catena-media-q3/"
     ],
     "seen": "2026-10-19"
+  },
+  {
+    "key": "juris|france|H1 2026",
+    "type": "jurisdiction",
+    "market": "France",
+    "authority": "ANJ",
+    "period": "H1 2026",
+    "urls": [
+      "https://europeangaming.eu/portal/latest-news/2026/10/19/216197/french-gambling-market-h1-2026/"
+    ],
+    "seen": "2026-10-19"
+  },
+  {
+    "key": "juris|vermont|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Vermont",
+    "authority": null,
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237431-vermont-sports-handle-slips-to-19-8-million-in-september/"
+    ],
+    "seen": "2026-10-19"
+  },
+  {
+    "key": "juris|mississippi|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Mississippi",
+    "authority": "Mississippi Gaming Commission",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237408-mississippi-casinos-see-september-gaming-revenue-climb-4/"
+    ],
+    "seen": "2026-10-19"
+  },
+  {
+    "key": "juris|macau|Q3 2026",
+    "type": "jurisdiction",
+    "market": "Macau",
+    "authority": "DICJ",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237419-macau-baccarat-revenue-falls-by-5-in-third-quarter-of-2026/"
+    ],
+    "seen": "2026-10-19"
   }
 ]
