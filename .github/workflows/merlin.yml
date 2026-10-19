@@ -13,8 +13,11 @@ on:
       company:
         description: 'Company to analyse now (name or ticker), e.g. Flutter or ENT.L. Leave blank to work through the queue.'
         required: false
+      market:
+        description: 'Market/jurisdiction to analyse now, e.g. Kenya or Lagos State. Produces a Market & Regulatory brief. Leave blank for the queue.'
+        required: false
       period:
-        description: 'Reporting period, e.g. Q3 2026, H1 2026, FY 2025'
+        description: 'Period, e.g. Q3 2026, FY 2025, 2026 (used with company OR market).'
         required: false
 
 permissions:
@@ -47,12 +50,15 @@ jobs:
         run: |
           if [ -n "$COMPANY" ] && [ -n "$PERIOD" ]; then
             node src/earnings/run.js --site site --company "$COMPANY" --period "$PERIOD"
+          elif [ -n "$MARKET" ] && [ -n "$PERIOD" ]; then
+            node src/earnings/run.js --site site --market "$MARKET" --period "$PERIOD"
           else
             node src/earnings/run.js --site site
           fi
         env:
           GAMING_DAILY_API_KEY: ${{ secrets.GAMING_DAILY_API_KEY }}
           COMPANY: ${{ inputs.company }}
+          MARKET: ${{ inputs.market }}
           PERIOD: ${{ inputs.period }}
 
       - name: Publish reports

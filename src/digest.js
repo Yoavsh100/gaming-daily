@@ -11,7 +11,7 @@ import { classify } from './classify.js';
 import { embedImages } from './images.js';
 import { placeholder } from './placeholders.js';
 import { render, wrapDocument } from './render.js';
-import { resultsInEdition, addCandidates, loadIndex } from './earnings/queue.js';
+import { resultsInEdition, jurisdictionsInEdition, addCandidates, loadIndex } from './earnings/queue.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 dotenv.config({ path: path.join(root, '.env'), quiet: true });
@@ -48,17 +48,22 @@ for (const s of edition.stories) {
 // On GitHub the published site (gh-pages) is checked out at ICEMAN_SITE: results stories
 // join Merlin's queue there, and the reports it has finished appear in this edition.
 let reports = [];
+let jurisdictionReports = [];
 const site = process.env.ICEMAN_SITE;
 if (site) {
   const found = resultsInEdition(edition, items);
-  await addCandidates(site, found, now.toISOString().slice(0, 10));
+  const markets = jurisdictionsInEdition(edition, items);
+  await addCandidates(site, [...found, ...markets], now.toISOString().slice(0, 10));
   if (found.length) console.log(`Results spotted: ${found.map((f) => `${f.company} ${f.period}`).join('; ')}`);
+  if (markets.length) console.log(`Market reports spotted: ${markets.map((m) => `${m.market} ${m.period}`).join('; ')}`);
   const weekAgo = new Date(now - 7 * 864e5).toISOString().slice(0, 10);
-  reports = (await loadIndex(site)).filter((r) => r.status === 'done' && r.published >= weekAgo)
+  const done = (await loadIndex(site)).filter((r) => r.status === 'done' && r.published >= weekAgo)
     .sort((a, b) => b.published.localeCompare(a.published));
+  reports = done.filter((r) => r.type !== 'jurisdiction');
+  jurisdictionReports = done.filter((r) => r.type === 'jurisdiction');
 }
 
-const page = render({ edition, items, status, now, hours, reports, placeholders, egr });
+const page = render({ edition, items, status, now, hours, reports, jurisdictionReports, placeholders, egr });
 const outDir = path.join(root, 'out');
 await mkdir(outDir, { recursive: true });
 const day = now.toISOString().slice(0, 10);

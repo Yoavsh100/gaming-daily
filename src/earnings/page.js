@@ -17,7 +17,8 @@ function table(t) {
 
 const tagged = (list) => list.map((h) => `<li>${inline(h.text)} <span class="pill">${esc(h.tag)}</span></li>`).join('');
 
-export function renderReportPage({ company, period, report: r, hasPdf }) {
+export function renderReportPage({ company, period, report: r, hasPdf, docType = 'company' }) {
+  const isReg = (docType || r.docType) === 'regulator';
   const title = `${company.name} ${period}`;
   const listing = [company.exchange, company.ticker].filter(Boolean).join(': ');
   let n = 2;
@@ -33,7 +34,7 @@ export function renderReportPage({ company, period, report: r, hasPdf }) {
       </div>`).join('')}</div>${table(s.table)}`
     : `<div class="seg"><div class="prose">${s.narrative.map((p) => `<p>${inline(p)}</p>`).join('')}</div>${table(s.table)}</div>`);
   const segs = r.segments.map((s) => `
-  <section><h2><span class="n">${++n}</span>Segment deep-dive: ${esc(s.name)}</h2>
+  <section><h2><span class="n">${++n}</span>${isReg ? 'Deep-dive' : 'Segment deep-dive'}: ${esc(s.name)}</h2>
     ${s.headline ? `<p class="lede">${inline(s.headline)}</p>` : ''}
     ${segBody(s)}
   </section>`).join('');
@@ -134,12 +135,12 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 </head>
 <body>
 <div class="bar"><div class="wrap">
-  <a class="brand" href="../../">Iceman<span>Quarterly Reports</span></a>
+  <a class="brand" href="../../">Iceman<span>${isReg ? 'Market &amp; Regulatory Reports' : 'Quarterly Reports'}</span></a>
   ${hasPdf ? '<a class="btn" href="brief.pdf">Download the CEO brief (PDF)</a>' : ''}
 </div></div>
 <main class="wrap">
   <header class="head">
-    <p class="eyebrow">${esc(period)} results · analyst report</p>
+    <p class="eyebrow">${esc(period)} · ${isReg ? 'market &amp; regulatory brief' : 'results · analyst report'}</p>
     <h1>${esc(company.name)}</h1>
     <p class="meta">${listing ? `<b>${esc(listing)}</b> · ` : ''}Released ${esc(r.releaseDate)} · Currency ${esc(r.currency)} · <span class="conf">Data confidence: ${esc(r.confidence)}</span></p>
     ${r.sharePriceReaction ? `<p class="meta">Market reaction: <b>${esc(r.sharePriceReaction)}</b></p>` : ''}
@@ -149,12 +150,12 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   <div class="kpis">${r.kpis.map((k) => `<div class="kpi"><span class="k">${esc(k.label)}</span><span class="v">${esc(k.value)}</span><span class="d ${k.dir}">${esc(k.delta)}</span></div>`).join('')}</div>
 
   <section><h2><span class="n">1</span>Executive summary</h2><ul class="bullets">${r.summary.map((b) => `<li>${inline(b)}</li>`).join('')}</ul></section>
-  <section><h2><span class="n">2</span>Group financial summary</h2>${table(r.groupTable)}</section>
+  <section><h2><span class="n">2</span>${isReg ? 'Market summary' : 'Group financial summary'}</h2>${table(r.groupTable)}</section>
   ${segs}
   <section><h2><span class="n">${++n}</span>Highlights &amp; lowlights</h2>
     <div class="hl"><div><h3 class="up">▲ Highlights</h3><ul>${tagged(r.highlights)}</ul></div><div><h3 class="down">▼ Lowlights</h3><ul>${tagged(r.lowlights)}</ul></div></div>
   </section>
-  <section><h2><span class="n">${++n}</span>Forecast &amp; outlook</h2>
+  <section><h2><span class="n">${++n}</span>${isReg ? 'Regulatory &amp; market outlook' : 'Forecast &amp; outlook'}</h2>
     <div class="fc">
       <p><b>Guidance bridge.</b> ${inline(r.forecast.intro)}</p>
       <div class="bridge">${r.forecast.bridge.map((b) => `<div><div class="t">${esc(b.title)}</div><div class="m">${esc(b.value)}</div>${b.change ? `<div class="c">${esc(b.change)}</div>` : ''}</div>`).join('')}</div>

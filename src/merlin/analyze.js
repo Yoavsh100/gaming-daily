@@ -1,7 +1,7 @@
 // Merlin's analyst engine: researches one company's results with Claude and returns the
 // structured report (schema.js) that render.js turns into the CEO-brief PDF.
 import Anthropic from '@anthropic-ai/sdk';
-import { SYSTEM_PROMPT, buildTask } from './prompt.js';
+import { SYSTEM_PROMPT, SYSTEM_PROMPT_REGULATOR, buildTask } from './prompt.js';
 import { REPORT_SCHEMA } from './schema.js';
 
 export const MODEL = process.env.MERLIN_MODEL || 'claude-fable-5-1';
@@ -38,9 +38,11 @@ function check(report) {
   if (!Array.isArray(report.summary) || report.summary.length < 8) throw new Error('executive summary is too short');
 }
 
-export async function analyze({ company, period, urls = [], log = (m) => console.error(m) }) {
+export async function analyze({ company, period, urls = [], docType = 'company', log = (m) => console.error(m) }) {
   const client = new Anthropic({ apiKey: process.env.GAMING_DAILY_API_KEY || process.env.ANTHROPIC_API_KEY });
-  const messages = [{ role: 'user', content: buildTask({ company, period, extraUrls: urls }) }];
+  const isReg = docType === 'regulator';
+  const system = isReg ? SYSTEM_PROMPT_REGULATOR : SYSTEM_PROMPT;
+  const messages = [{ role: 'user', content: buildTask({ company, period, extraUrls: urls, docType }) }];
   const usage = { input: 0, output: 0, searches: 0, fetches: 0 };
   let reminded = false;
 
@@ -53,7 +55,7 @@ export async function analyze({ company, period, urls = [], log = (m) => console
       output_config: { effort: 'xhigh' },
       // Each research step re-sends everything read so far; caching bills those repeats at a fraction.
       cache_control: { type: 'ephemeral' },
-      system: SYSTEM_PROMPT,
+      system,
       tools: TOOLS,
       messages,
     });
@@ -80,6 +82,7 @@ export async function analyze({ company, period, urls = [], log = (m) => console
     const submit = msg.content.find((b) => b.type === 'tool_use' && b.name === 'submit_report');
     if (submit) {
       check(submit.input);
+      if (isReg) submit.input.docType = 'regulator'; // relabels the PDF/web report as a market brief
       return { report: submit.input, model: msg.model, usage };
     }
     if (msg.stop_reason === 'max_tokens') throw new Error('ran out of output tokens before submitting the report');

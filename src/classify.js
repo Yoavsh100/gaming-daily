@@ -20,6 +20,11 @@ const Edition = z.object({
       ticker: z.string().nullable().describe('Main stock ticker if known, e.g. "FLUT", "ENT.L", "EVO.ST"; null if unknown.'),
       period: z.string().describe('Reporting period, e.g. "Q3 2026", "H1 2026", "FY 2025", "Q2 FY2027".'),
     }).nullable().describe('Set only when the story reports this company\'s own financial results; otherwise null.'),
+    jurisdiction: z.object({
+      market: z.string().describe('The country, territory or jurisdiction the report covers, e.g. "United Kingdom", "Kenya", "Lagos State", "Brazil".'),
+      authority: z.string().nullable().describe('The regulator or body that released it, if named, e.g. "UKGC", "Gaming Board of Tanzania", "H2 Gambling Capital"; null if unknown.'),
+      period: z.string().describe('The period or edition the report covers, e.g. "2026", "FY2025", "Q2 2026", "2025/26".'),
+    }).nullable().describe('Set only when the story reports the RELEASE of a market/jurisdiction report or official market-level gambling statistics: a regulator\'s annual or market report, national or state GGR/industry statistics, or a market-intelligence country/market report. This is about a whole market, not one company. Otherwise null.'),
   })),
   must_reads: z.array(z.object({
     story: z.number().int().describe('Index into the stories array.'),
@@ -41,7 +46,8 @@ You receive the last day's articles from iGaming trade press. Build the edition:
    - general: everything else (regulation, legislation, M&A outside results, technology, payments, marketing, events, responsible gambling).
 3. Score importance from a senior operator's point of view. Regulation and tax changes, large M&A, major operator results and market openings score high. Supplier product launches, event promos and sponsored content score 1-2.
 4. Pick the 5 must-reads.
-5. Mark results stories. When a story reports a specific company's own financial results (quarterly, half-year or full-year results, or a trading update with figures), fill "results" with the company, its main ticker if you know it, and the period. Use the company's own period naming (a fiscal-year company's "Q2 FY2027" stays that way). Leave it null for market-level figures (state or national GGR, regulator statistics), for previews of upcoming results, and for stories that only mention results in passing.`;
+5. Mark results stories. When a story reports a specific company's own financial results (quarterly, half-year or full-year results, or a trading update with figures), fill "results" with the company, its main ticker if you know it, and the period. Use the company's own period naming (a fiscal-year company's "Q2 FY2027" stays that way). Leave "results" null for market-level figures, for previews of upcoming results, and for stories that only mention results in passing.
+6. Mark market/jurisdiction reports. When a story reports the RELEASE of a market or jurisdiction report — a gambling regulator's annual or market report, national or state GGR / industry statistics, or a market-intelligence country/market report (e.g. "UKGC publishes 2026 industry statistics", "Gaming Board of Tanzania releases annual report", "H2 publishes Brazil market forecast") — fill "jurisdiction" with the market, the issuing authority if named, and the period/edition it covers. This is market-level, not one company. Leave it null for a single company's results (use "results"), for passing mentions of market size, and for previews of reports not yet out. A story can set at most one of "results" or "jurisdiction".`;
 
 // Deterministic safety net over the model's grouping: merge stories whose lead headlines are
 // near-duplicates (the same news reworded by different outlets). Primary de-duplication is the
@@ -115,7 +121,7 @@ function repair(edition, count) {
     stories.push({ ...s, ids });
   }
   for (let id = 0; id < count; id++) {
-    if (!used.has(id)) stories.push({ ids: [id], section: 'general', summary: '', importance: 2, results: null });
+    if (!used.has(id)) stories.push({ ids: [id], section: 'general', summary: '', importance: 2, results: null, jurisdiction: null });
   }
   const mustReads = edition.must_reads.filter((m) => stories[m.story]?.ids.length);
   return { stories: stories.filter((s) => s.ids.length), mustReads: mustReads.map((m) => ({ story: stories[m.story], why: m.why })) };
@@ -134,7 +140,7 @@ function keywordEdition(items) {
   const stories = items.map((it, id) => {
     const text = `${it.title} ${it.excerpt}`;
     const section = (it.africaSource && 'africa') || RULES.find(([, re]) => re.test(text))?.[0] || 'general';
-    return { ids: [id], section, summary: '', importance: 3, results: null };
+    return { ids: [id], section, summary: '', importance: 3, results: null, jurisdiction: null };
   });
   return { stories, mustReads: stories.slice(0, 5).map((story) => ({ story, why: '' })) };
 }

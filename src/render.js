@@ -40,8 +40,9 @@ function reportCard(r) {
   const search = [r.company.name, r.company.ticker, r.period, r.verdict].join(' ').toLowerCase();
   const kpis = (r.kpis || []).slice(0, 3).map((k) =>
     `<div><span class="kv">${esc(k.value)}</span><span class="kl">${esc(k.label)}</span><span class="kd ${k.dir}">${esc(k.delta)}</span></div>`).join('');
+  const eyebrow = r.type === 'jurisdiction' ? 'Market report' : 'Analyst report';
   return `<article class="card rcard" data-text="${esc(search)}">
-  <p class="reye">Analyst report · ${esc(r.period)} · Confidence ${esc((r.confidence || '').toLowerCase())}</p>
+  <p class="reye">${eyebrow} · ${esc(r.period)} · Confidence ${esc((r.confidence || '').toLowerCase())}</p>
   <h3><a href="${href}">${esc(r.company.name)}</a></h3>
   <p class="rverdict">${esc(r.verdict)}</p>
   <div class="rkpis">${kpis}</div>
@@ -49,7 +50,7 @@ function reportCard(r) {
 </article>`;
 }
 
-export function render({ edition, items, status, now, hours, reports = [], placeholders = new Map(), egr = [] }) {
+export function render({ edition, items, status, now, hours, reports = [], jurisdictionReports = [], placeholders = new Map(), egr = [] }) {
   const stories = edition.stories.map((s) => ({ ...s, articles: s.ids.map((id) => items[id]) }));
   const rank = (a, b) => b.importance - a.importance || b.articles.length - a.articles.length || b.articles[0].date - a.articles[0].date;
   const bySection = Object.fromEntries(SECTIONS.map((sec) => [sec.id, stories.filter((s) => s.section === sec.id).sort(rank)]));
@@ -78,6 +79,15 @@ export function render({ edition, items, status, now, hours, reports = [], place
   <p class="egrnote">Headlines from EGR Intel (egr.global) — full articles are subscriber-only. Shown in full here; not de-duplicated against the sections above.</p>
   ${egr.length ? `<ul class="egrlist">${egrItems}</ul>` : '<p class="none">No EGR headlines in this window.</p>'}
   <p class="none nomatch" hidden>No headlines here match your search.</p>
+</section>`;
+
+  // Market & Regulatory Reports: Merlin's in-depth jurisdiction briefs, sat next to the
+  // Quarterly Reports section. A cordoned block of report cards only (no story grid).
+  const jreportsSection = `<section class="sec" data-sec="jreports" aria-labelledby="h-jreports">
+  <div class="sechead"><h2 id="h-jreports"><span class="tag t-jreports">Market &amp; Regulatory Reports</span></h2><span class="count">${jurisdictionReports.length} ${jurisdictionReports.length === 1 ? 'report' : 'reports'}</span></div>
+  <p class="egrnote">In-depth briefs on gambling markets and jurisdictions — analysed like the earnings reports, from regulator, official-statistics and market-intelligence sources.</p>
+  ${jurisdictionReports.length ? `<div class="reports">${jurisdictionReports.map(reportCard).join('\n')}</div>` : '<p class="none">No market or regulatory reports this week.</p>'}
+  <p class="none nomatch" hidden>No reports here match your search.</p>
 </section>`;
 
   const must = edition.mustReads.map(({ story, why }) => {
@@ -179,6 +189,9 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
 .t-egr { background: #f4dcdc; color: #7c2d2d; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .t-egr { background: #3e2626; color: #f0b3b3; } }
 :root[data-theme="dark"] .t-egr { background: #3e2626; color: #f0b3b3; }
+.t-jreports { background: #d9e3cf; color: #3f5a2a; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .t-jreports { background: #2b3a22; color: #b8d49a; } }
+:root[data-theme="dark"] .t-jreports { background: #2b3a22; color: #b8d49a; }
 
 .ticker { margin: 24px 40px 0; display: flex; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; font-size: 14px; }
 .ticker b { background: var(--accent); color: var(--on-accent); padding: 11px 16px; font: 700 13px/1.2 var(--display); letter-spacing: .08em; text-transform: uppercase; white-space: nowrap; }
@@ -279,7 +292,7 @@ body:not([data-view="all"]) .more { display: none; }
 <div class="app">
   <aside class="rail">
     <a class="mast" href="#all" data-go="all" aria-label="Iceman — B2Tech"><img class="logo" src="${LOGO}" alt="Iceman — B2Tech" width="360" height="261"></a>
-    <nav aria-label="Sections"><a href="#all" data-go="all" aria-current="true">All stories<span>${stories.length}</span></a>${SECTIONS.map((s) => `<a href="#${s.id}" data-go="${s.id}">${s.label}<span>${bySection[s.id].length}</span></a>`).join('')}<a href="#${EGR.id}" data-go="${EGR.id}">${EGR.label}<span>${egr.length}</span></a></nav>
+    <nav aria-label="Sections"><a href="#all" data-go="all" aria-current="true">All stories<span>${stories.length}</span></a>${SECTIONS.map((s) => `<a href="#${s.id}" data-go="${s.id}">${s.label}<span>${bySection[s.id].length}</span></a>${s.id === 'quarterly' ? `<a href="#jreports" data-go="jreports">Market Reports<span>${jurisdictionReports.length}</span></a>` : ''}`).join('')}<a href="#${EGR.id}" data-go="${EGR.id}">${EGR.label}<span>${egr.length}</span></a></nav>
     <div><h4>Sources today</h4><ul class="srcs">${sourceList}</ul></div>
   </aside>
 
@@ -293,7 +306,7 @@ body:not([data-view="all"]) .more { display: none; }
       <div class="search"><input id="q" type="search" placeholder="Search headlines, companies, markets" aria-label="Search stories"></div>
       <div class="pills" role="group" aria-label="Filter by section">
         <button class="pill all" data-go="all" aria-pressed="true">All</button>
-        ${SECTIONS.map((s) => `<button class="pill tag t-${s.id}" data-go="${s.id}" aria-pressed="false">${s.label}</button>`).join('')}
+        ${SECTIONS.map((s) => `<button class="pill tag t-${s.id}" data-go="${s.id}" aria-pressed="false">${s.label}</button>${s.id === 'quarterly' ? `<button class="pill tag t-jreports" data-go="jreports" aria-pressed="false">Market Reports</button>` : ''}`).join('')}
         <button class="pill tag t-${EGR.id}" data-go="${EGR.id}" aria-pressed="false">${EGR.label}</button>
       </div>
     </header>
@@ -302,6 +315,7 @@ body:not([data-view="all"]) .more { display: none; }
 
     <div class="body">
       <main class="feed">${sections}
+${jreportsSection}
 ${egrSection}</main>
       <aside class="must" aria-labelledby="must-h"><h2 id="must-h">Must reads</h2><ol>${must}</ol></aside>
     </div>
@@ -317,7 +331,7 @@ ${egrSection}</main>
 (() => {
   const body = document.body;
   const q = document.getElementById('q');
-  const valid = ['all', ${SECTIONS.map((s) => `'${s.id}'`).join(', ')}, '${EGR.id}'];
+  const valid = ['all', ${SECTIONS.map((s) => `'${s.id}'`).join(', ')}, 'jreports', '${EGR.id}'];
 
   function apply() {
     const view = body.dataset.view;

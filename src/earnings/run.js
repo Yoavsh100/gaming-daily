@@ -10,7 +10,7 @@ import { writeReport } from '../merlin/publish.js';
 import { restructure } from '../merlin/restructure.js';
 import { renderReportPage } from './page.js';
 import { writeFile } from 'node:fs/promises';
-import { loadIndex, saveIndex, loadCandidates, matchWatchlist, reportKey } from './queue.js';
+import { loadIndex, saveIndex, loadCandidates, matchWatchlist, candidateKey } from './queue.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 dotenv.config({ path: path.join(root, '.env'), quiet: true });
@@ -24,24 +24,29 @@ const MAX_ATTEMPTS = 2;
 const index = await loadIndex(site);
 const entry = (key) => index.find((e) => e.key === key);
 
-// A manual request goes first; then the oldest unanalysed news candidates.
+// A manual request goes first; then the oldest unanalysed news candidates. A manual request
+// is a company (--company) or a market/jurisdiction (--market), both with --period.
 const queue = [];
-if (arg('company') && arg('period')) queue.push({ company: arg('company'), ticker: null, period: arg('period'), urls: [], manual: true });
+if (arg('company') && arg('period')) queue.push({ type: 'company', company: arg('company'), ticker: null, period: arg('period'), urls: [], manual: true });
+if (arg('market') && arg('period')) queue.push({ type: 'jurisdiction', market: arg('market'), authority: null, period: arg('period'), urls: [], manual: true });
 for (const c of await loadCandidates(site)) queue.push(c);
 
+const label = (c) => c.type === 'jurisdiction' ? `${c.market} ${c.period} [market]` : `${c.company} ${c.period}`;
 const pending = queue
-  .map((c) => ({ ...c, key: reportKey(c) }))
+  .map((c) => ({ ...c, key: candidateKey(c) }))
   .filter((c, i, all) => all.findIndex((x) => x.key === c.key) === i)
   .filter((c) => c.manual || (entry(c.key)?.status !== 'done' && (entry(c.key)?.attempts ?? 0) < MAX_ATTEMPTS))
   .sort((a, b) => (b.manual ? 1 : 0) - (a.manual ? 1 : 0) || (a.seen || '').localeCompare(b.seen || ''))
   .slice(0, max);
 
-console.log(pending.length ? `Analysing ${pending.length}: ${pending.map((c) => `${c.company} ${c.period}`).join('; ')}` : 'Nothing new to analyse.');
+console.log(pending.length ? `Analysing ${pending.length}: ${pending.map(label).join('; ')}` : 'Nothing new to analyse.');
 
 let failures = 0;
 for (const c of pending) {
-  const known = matchWatchlist(c);
-  const company = known || { name: c.company, ticker: c.ticker || '' };
+  const isReg = c.type === 'jurisdiction';
+  const docType = isReg ? 'regulator' : 'company';
+  // A market has no watchlist entry, ticker or exchange; its name is the market name.
+  const company = isReg ? { name: c.market, ticker: '', exchange: '' } : (matchWatchlist(c) || { name: c.company, ticker: c.ticker || '' });
   const t0 = Date.now();
   const prev = entry(c.key);
   const record = prev || { key: c.key, attempts: 0 };
@@ -49,13 +54,13 @@ for (const c of pending) {
   record.attempts += 1;
   record.lastAttempt = new Date().toISOString();
   try {
-    console.log(`\n🧙 ${company.name} ${c.period}`);
-    const { report, model, usage } = await analyze({ company, period: c.period, urls: c.urls, log: () => {} });
+    console.log(`\n🧙 ${company.name} ${c.period}${isReg ? ' [market]' : ''}`);
+    const { report, model, usage } = await analyze({ company, period: c.period, urls: c.urls, docType, log: () => {} });
     await restructure(report).catch((err) => console.log(`  (kept the prose layout: ${err.message})`));
     const out = await writeReport({ dir: path.join(site, 'reports'), company, period: c.period, report, model, usage });
-    await writeFile(path.join(out.dir, 'index.html'), renderReportPage({ company, period: c.period, report, hasPdf: !!out.pdf }));
+    await writeFile(path.join(out.dir, 'index.html'), renderReportPage({ company, period: c.period, report, hasPdf: !!out.pdf, docType }));
     Object.assign(record, {
-      status: 'done', error: null, slug: out.slug, published: new Date().toISOString().slice(0, 10),
+      status: 'done', error: null, type: c.type || 'company', slug: out.slug, published: new Date().toISOString().slice(0, 10),
       company: { name: company.name, ticker: company.ticker || '', exchange: company.exchange || '' },
       period: c.period, verdict: report.verdict, kpis: report.kpis, confidence: report.confidence,
       releaseDate: report.releaseDate, model,
@@ -66,7 +71,7 @@ for (const c of pending) {
       (cost != null ? ` · est. $${cost.toFixed(2)}` : ''));
   } catch (err) {
     failures++;
-    Object.assign(record, { status: 'failed', error: err.message, company: { name: company.name, ticker: company.ticker || '' }, period: c.period });
+    Object.assign(record, { status: 'failed', error: err.message, type: c.type || 'company', company: { name: company.name, ticker: company.ticker || '' }, period: c.period });
     console.log(`✗ ${company.name} ${c.period}: ${err.message}`);
   }
   await saveIndex(site, index); // after every report, so a crash later keeps earlier work
