@@ -256,6 +256,10 @@ body:not([data-view="all"]) .more { display: none; }
 @media (max-width: 1100px) {
   .body { grid-template-columns: minmax(0, 1fr); }
   .must { position: static; order: -1; }
+  /* Must-reads lead the page by default, but when a specific section is chosen its cards
+     come first — so a tapped category sits at the top, not buried under the must-reads.
+     [data-view] (set by JS) guards against a pre-script flash: no attribute = keep on top. */
+  body[data-view]:not([data-view="all"]) .must { order: 1; }
 }
 @media (max-width: 760px) {
   .app { grid-template-columns: minmax(0, 1fr); }
