@@ -1,0 +1,1893 @@
+{
+  "company": {
+    "name": "France",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "H1 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 6614364,
+    "output": 62104,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 84,
+    "cacheRead": 6394147,
+    "cacheWrite": 220133,
+    "turns": 1
+  },
+  "prepared": "19 Oct 2026",
+  "report": {
+    "releaseDate": "15 Oct 2026",
+    "currency": "EUR (tables in € millions unless stated; ~US$ at EUR/USD 1.1212, 15 Oct 2026)",
+    "verdict": "France's regulated market stalled in H1 2026: GGR excluding casinos rose just 0.5% to €5.66bn (~$6.35bn) as the two exclusive-rights monopolies (FDJ United lottery/retail, PMU horse racing) shrank and only the competitive online segment grew (+11% to €1.45bn / ~$1.62bn, now 25.6% of the market). The online growth is real but World Cup-loaded and bonus-fuelled (June stakes +47%, acquisition bonuses ×4, bonuses now 13.8% of online GGR) inside the heaviest tax regime in Europe (59.3% of GGR on online sports betting since 1 July 2025) and a regulator explicitly pushing for a \"less intensive\" model — a market for scale operators with disciplined CAC, not for opportunistic entrants.",
+    "kpis": [
+      {
+        "label": "Market GGR excl. casinos (H1-26)",
+        "value": "€5.66bn (~$6.35bn)",
+        "delta": "+0.5% YoY (vs +4.1% in H1-25)",
+        "dir": "flat"
+      },
+      {
+        "label": "Online GGR (sports, poker, horse)",
+        "value": "€1.45bn (~$1.62bn)",
+        "delta": "+11.0% YoY; 25.6% of market (+2.4pt)",
+        "dir": "up"
+      },
+      {
+        "label": "Online sports betting stakes / GGR",
+        "value": "€6.62bn / €995m",
+        "delta": "+10.6% / +11.6%; hold 15.0%",
+        "dir": "up"
+      },
+      {
+        "label": "Online active accounts (CJA)",
+        "value": "5.85m",
+        "delta": "+24% YoY; unique players 4.06m (+17%)",
+        "dir": "up"
+      },
+      {
+        "label": "Online bonuses paid",
+        "value": "€199m (~$223m)",
+        "delta": "+28%; 13.8% of online GGR (11.9%)",
+        "dir": "up"
+      },
+      {
+        "label": "PMU exclusive-rights GGR",
+        "value": "€782m (~$877m)",
+        "delta": "-5.8% YoY; 3rd consecutive decline",
+        "dir": "down"
+      }
+    ],
+    "summary": [
+      "**Growth has stalled at the market level.** The ANJ's semi-annual review (published 15 Oct 2026) puts H1 2026 GGR (PBJ) excluding land-based casinos and Paris gaming clubs at €5.66bn (~$6.35bn), +0.5% YoY versus +4.1% in H1 2025. Casinos (€2.82bn / ~$3.16bn GGR in FY2025, +3.4%) are reported annually only, so the full-market run-rate is ~€14bn+ (FY2025: €14.1bn / ~$15.8bn, +3.0%).",
+      "**Online is the only growth engine.** Online GGR (sports betting, poker, horse racing — the only three products open to competition) rose 11.0% to €1,449m (~$1,625m), contributing +2.5pt to market growth, while FDJ United's exclusive-rights activities subtracted 1.2pt and PMU 0.8pt. Online penetration of the ex-casino market reached 25.6% (+2.4pt); on the FY2025 all-in base online was 18.5% (12.8% in 2019).",
+      "**Market structure remains a two-monopoly-plus-online model.** FDJ United's exclusive rights (lottery retail+online, retail sports betting) generated €3,429m (~$3,845m), 61% of ex-casino GGR; PMU's exclusive rights (pari-mutuel horse racing) €782m (~$877m), 13.8% share (15.8% in H1 2024); online sports betting €995m (~$1,116m), 17.6%; online poker €290m (~$325m); online horse racing €164m (~$184m).",
+      "**Sports betting growth was a June/World Cup event, not a trend.** Online sports stakes rose 10.6% to €6.62bn (~$7.42bn) and GGR 11.6% to €995m, but stakes grew only +4% in Jan–May versus +47% in June (€1,327m / ~$1,488m, 20% of the half's handle). Monthly active accounts rose +2% to +11% YoY in Jan–May, then +69% in June (3.14m). The ANJ itself frames H2 as the test of whether the World Cup durably widened the bettor pool.",
+      "**Promotional intensity is escalating faster than revenue.** Total online bonuses reached €199m (~$223m), +28% — 2.5× online GGR growth — and 13.8% of online GGR (11.9% a year earlier). Sports betting bonuses were €129m (~$145m, +35%; 12.9% of GGR vs 10.7%; ~1.9% of stakes); June alone absorbed €35.5m (vs €14.5m) and acquisition bonuses nearly quadrupled (€9.0m vs €2.4m). Poker was the exception: bonuses +11% (€50.9m) with acquisition spend −15%.",
+      "**Player base at a record, but monetisation per account is falling.** Online active accounts hit 5.85m (+24%) and unique players 4.06m (+17%); accounts per player rose from 1.37 to 1.44 and segments per player from 1.38 to 1.45 — players are spreading across more operators. Sports stakes per active account fell 14% (~€1,270), average bet slipped from €14.6 to €14.0, poker GGR per account fell 18% (€153→€126), horse racing GGR per account −3.7% (€312→€300).",
+      "**Poker is back in growth; horse racing online is volume-up, margin-down.** Poker GGR +13.4% to €290m, driven by Sit&Go (€202m, 70% of GGR; short formats +15.9%), with active accounts +38.5% to 2.3m — poker players are now 44% of all online unique players (38%). Online horse-race stakes rose 15.8% to €920m (~$1,032m), the strongest since 2021 and evenly spread across months, but GGR grew only 2.8% as hold fell from 20.1% to 17.8%.",
+      "**The monopolies are shrinking.** FDJ United's French exclusive-rights GGR fell 2.0% (−€69m), of which lottery −€64m (−2.1% to €2,979m / ~$3,340m; draw games −7.6% on fewer/lower EuroMillions jackpots and heatwave-hit retail footfall; +1% ex long EuroMillions cycles per the operator). Retail sports betting fell 1.1% to €450m (~$505m). PMU's stakes fell 3.8% to €3,096m (~$3,471m) and GGR 5.8% — a third straight decline, accelerating from −2.6% — with the stakes/GGR gap partly explained by PMU lifting the retail Simple bet RTP from 83.6% to 84.6% in Oct 2025.",
+      "**Licensing is a closed, three-product regime.** The ANJ (created 1 Jan 2020 under Ordinance 2019-1015, replacing ARJEL) licenses only online sports betting, online horse-race betting and online 'jeux de cercle' (poker). Each agrément is product-specific, granted for 5 years, renewable, non-transferable, and requires an EU/EEA seat. Fees are nominal (CGI art. 1012 / annex III art. 313 BR): €5k/€8k/€10k application for 1/2/3 licences and €20k/€30k/€40k annual. Online casino (slots, roulette, blackjack) remains illegal.",
+      "**Operator landscape: 16 licensed entities, with a visible wave of new entrants.** The ANJ register lists 16 licensees: 16 with sports betting, 5 with horse racing (Betclic, FDJ United's Unibet/Zeturf, Genybet, bet365, PMU) and 7 with poker (bwin/partypoker, Betclic, Unibet, bet365, PMU, PokerStars, Winamax). bet365.fr, betsson.fr, daznbet.fr, circusbet.fr and yesorno-jeu.fr are recent additions; FDJ United has unified its French online brands under Unibet. The ANJ does not publish operator market shares (n/a).",
+      "**Taxation is GGR-based and the heaviest in Europe, and it was raised on 1 July 2025 (LFSS 2025).** Online sports betting: 59.3% of GGR (33.7% state levy, CGI 302 bis ZH; 15.0% social levy, up from 10.6%; 10.6% national sports agency levy, CGI 1609 tricies), from 54.9%. Retail sports betting 42.1% (from 41.1%). Online poker: social levy moved from 0.2% of stakes to 10% of GGR. Online horse racing (incl. return to racing companies): 52.9% (from 52.3%). Lottery: 69% on jackpot draw games (from 68%), 56.5% on other draw/instant games (from 55.5%). FDJ United quantified the full-year hit at ~€90m revenue/EBITDA.",
+      "**Tax take is large and visible in operator accounts.** FDJ United reported €2,613m (~$2,930m) of public levies on €4,314m of group GGR in H1 2026 (+0.7% despite GGR −1.3%), and €52m of H1 revenue lost to 2025–26 tax increases (3pt of revenue growth). On the ANJ's online sports betting GGR of €995m, the 59.3% all-in rate implies ~€590m (~$662m) of H1 public levies [estimate]. Player winnings are untaxed online; land-based casino winnings above €1,500 bear a 13.7% social levy.",
+      "**Enforcement is active and expanding to new formats.** Since gaining administrative blocking powers (March 2022) the ANJ had blocked 1,337 illegal sites by late 2025, and in July 2026 obtained blocking of Polymarket, Stake and Cbet. The ANJ/PwC study sized illegal online GGR at €748m–€1.5bn (~$839m–$1,682m), 5–11% of the market; the industry lobby AFJEL's Nov 2025 barometer claims 5.4m players and €2bn (~$2.2bn) GGR — treat as advocacy, not regulator data.",
+      "**Responsible-gambling pressure is the dominant regulatory vector.** In May 2026 the ANJ published (Decision 2026-118) an algorithm to identify excessive/pathological players, stating ~600,000 online players show a high probability of excessive play, and expects operators to identify and support more of them. A July 2026 sanctions-commission decision (2026-031) addressed an operator's failures on excessive players, including bonus restrictions. The ANJ chair's FY2025 message was blunt: all indicators are 'red' and the framework needs adapting toward a less intensive model.",
+      "**Advertising is pre-controlled, not just policed.** Operators must submit annual promotional strategies and annual excessive-gambling action plans for ANJ approval (e.g., Decision 2026-016 for PMU), commercial communications are governed by Decree 2020-1349 with mandatory health warnings, and the ANJ can order withdrawal of ads. The 2023 influencer law restricts gambling promotion to age-gated platforms [framework not re-verified this session]. June's bonus surge shows the regime does not yet cap bonuses — a plausible next step.",
+      "**Payments are conventional and KYC-heavy.** Licensed operators run verified player accounts with mandatory self-set deposit and stake limits at account opening; withdrawals must go to a payment account in the player's name; cards and bank transfers dominate, crypto is not accepted by licensees [payments detail not re-verified this session — n/a for method shares].",
+      "**Online casino legalisation is stalled.** A PLF 2025 amendment (Oct 2024) proposing a 55.6%-of-GGR tax on online casino was withdrawn within days under land-based casino pressure; the Bercy consultation launched Nov 2024 has not resumed and no bill was on the 2026 agenda. A March 2026 IGF report reportedly favours a conditional opening [unverified]. Expect the debate to recur in the PLF/PLFSS 2027 cycle; nothing before 2027 at the earliest.",
+      "**Structural adjacencies:** Paris gaming clubs (FY2025 GGR €97m / ~$109m, −21% after two months' closure) were made permanent after an eight-year experiment; the JONUM (monetisable digital objects / Web3 games) experimental framework took effect early 2026; the ANJ's 14 Oct 2026 note on 2025 online sports betting linked niche football leagues to excessive bettors — a signal that content restrictions ('liste sport') may tighten.",
+      "**Operator read-through for B2Tech.** France is a large, low-growth, high-tax, high-compliance market where the addressable (competitive) pool is ~€2.9bn annualised online GGR, growing ~9–11%, split among 16 licensees with escalating bonus inflation. Entry is cheap on fees but expensive on marketing and margin (59.3% levy leaves ~€0.41 of each GGR euro before costs). The investable thesis is scale and CAC discipline in sports/poker; horse racing is a niche with eroding hold; online casino is not an option; and the political direction (tax, RG, advertising) is uniformly tighter."
+    ],
+    "groupTable": {
+      "note": "€ m (~US$ m) — ANJ H1 2026 report; FY2025 ANJ annual review",
+      "columns": [
+        "H1 2026",
+        "YoY",
+        "H1 2025",
+        "FY 2025"
+      ],
+      "rows": [
+        {
+          "label": "GGR (PBJ) by segment",
+          "kind": "group"
+        },
+        {
+          "label": "Total market excl. casinos & gaming clubs",
+          "cells": [
+            "5,660 (~$6,346)",
+            "+0.5%",
+            "~5,632",
+            "~11,190 (14,100 incl. casinos/clubs, +3.0%)"
+          ],
+          "kind": "emphasis",
+          "footnote": "H1 2025 implied from ANJ growth rates; ANJ restated online perimeter in 2025, so H1-25 comparatives differ from the 2025 semi-annual report."
+        },
+        {
+          "label": "FDJ United — exclusive rights in France (lottery + retail sports betting)",
+          "cells": [
+            "3,429 (~$3,845)",
+            "-2.0%",
+            "3,498",
+            "6,950 (49.2% of total)"
+          ],
+          "indent": true
+        },
+        {
+          "label": "of which lottery (retail + online)",
+          "cells": [
+            "2,979 (~$3,340)",
+            "-2.1% (draw games -7.6%)",
+            "3,043",
+            "n/a"
+          ],
+          "indent": true
+        },
+        {
+          "label": "of which retail sports betting",
+          "cells": [
+            "450 (~$505)",
+            "-1.1%",
+            "455",
+            "n/a"
+          ],
+          "indent": true
+        },
+        {
+          "label": "PMU — exclusive rights (pari-mutuel horse racing)",
+          "cells": [
+            "782 (~$877)",
+            "-5.8%",
+            "830",
+            "1,651 (-2.8%)"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Online competitive market (3 products)",
+          "cells": [
+            "1,449 (~$1,625)",
+            "+11.0%",
+            "1,307",
+            "2,617 (+8.6%)"
+          ],
+          "kind": "emphasis"
+        },
+        {
+          "label": "Online sports betting",
+          "cells": [
+            "995 (~$1,116)",
+            "+11.6%",
+            "892",
+            "1,766 (+10.4%)"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Online poker",
+          "cells": [
+            "290 (~$325)",
+            "+13.4%",
+            "256",
+            "525 (+6.5%)"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Online horse-race betting",
+          "cells": [
+            "164 (~$184)",
+            "+2.8%",
+            "160",
+            "326 (+2.4%)"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Land-based casinos (reported annually)",
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "2,816 (~$3,157), +3.4%; 31.6m entries"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Paris gaming clubs (reported annually)",
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "97 (~$109), -21%"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Channel & player KPIs",
+          "kind": "group"
+        },
+        {
+          "label": "Online share of GGR excl. casinos",
+          "cells": [
+            "25.6%",
+            "+2.4pt",
+            "23.2%",
+            "18.5% of total incl. casinos"
+          ]
+        },
+        {
+          "label": "Online active player accounts (CJA)",
+          "cells": [
+            "5.85m",
+            "+24%",
+            "4.7m",
+            "6.1m (+7.1%)"
+          ]
+        },
+        {
+          "label": "Online unique players (JU)",
+          "cells": [
+            "4.06m",
+            "+17%",
+            "3.5m",
+            "4.2m (+7.7%)"
+          ]
+        },
+        {
+          "label": "Accounts per player / segments per player",
+          "cells": [
+            "1.44 / 1.45",
+            "+0.07 / +0.07",
+            "1.37 / 1.38",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Online bonuses paid to players",
+          "cells": [
+            "199 (~$223)",
+            "+28%",
+            "~155",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Bonuses as % of online GGR",
+          "cells": [
+            "13.8%",
+            "+1.9pt",
+            "11.9%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Tax regime (base = GGR/PBJ; rates in force since 1 Jul 2025, LFSS 2025)",
+          "kind": "group"
+        },
+        {
+          "label": "Online sports betting — all-in public levies",
+          "cells": [
+            "59.3% of GGR",
+            "+4.4pt",
+            "54.9%",
+            "33.7% state + 15.0% social + 10.6% sport agency"
+          ]
+        },
+        {
+          "label": "Retail sports betting (FDJ monopoly)",
+          "cells": [
+            "42.1% of GGR",
+            "+1.0pt",
+            "41.1%",
+            "social levy 6.6%→7.6%"
+          ]
+        },
+        {
+          "label": "Online horse-race betting (incl. return to racing companies)",
+          "cells": [
+            "52.9% of GGR",
+            "+0.6pt",
+            "52.3%",
+            "social levy unchanged; racing fee set by decree"
+          ]
+        },
+        {
+          "label": "Online poker",
+          "cells": [
+            "10% of GGR (social levy)",
+            "from 0.2% of stakes",
+            "0.2% of stakes",
+            "state levy on stakes [unverified]"
+          ]
+        },
+        {
+          "label": "Lottery — jackpot draw games / other draw & instant",
+          "cells": [
+            "69% / 56.5% of GGR",
+            "+1.0pt each",
+            "68% / 55.5%",
+            "CSG 6.2%→7.2%"
+          ]
+        },
+        {
+          "label": "Implied public levies on online sports betting GGR [estimate]",
+          "cells": [
+            "~590 (~$662)",
+            "n/a",
+            "~490 (blended)",
+            "~1,010 (blended)"
+          ],
+          "footnote": "ANJ GGR × statutory all-in rate; not a reported figure."
+        },
+        {
+          "label": "FDJ United group public levies (reported)",
+          "cells": [
+            "2,613 (~$2,930)",
+            "+0.7%",
+            "2,595",
+            "n/a"
+          ],
+          "footnote": "60.6% of FDJ United group GGR of €4,314m; mostly French lottery."
+        },
+        {
+          "label": "Licensing",
+          "kind": "group"
+        },
+        {
+          "label": "Licensed online entities (ANJ register, Oct 2026)",
+          "cells": [
+            "16",
+            "n/a",
+            "n/a",
+            "16 sports / 5 horse / 7 poker licences"
+          ]
+        },
+        {
+          "label": "Licence fees (CGI art. 1012; annex III art. 313 BR)",
+          "cells": [
+            "€5k/€8k/€10k application (1/2/3 products)",
+            "n/a",
+            "n/a",
+            "€20k/€30k/€40k annual; 5-year term, renewable"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Online sports betting",
+        "headline": "+11.6% GGR to €995m, but a June/World Cup spike (stakes +47%) bought with a near-quadrupling of acquisition bonuses; Jan–May stakes grew only 4%.",
+        "narrative": [
+          "Online sports betting stakes reached €6,616m (~$7,418m) in H1 2026, +10.6%, and GGR €995m (~$1,116m), +11.6%, on a hold of 15.0% (14.9% in H1 2025, 15.2% in H1 2024). The ANJ's monthly annex shows how uneven the half was: hold swung from 20.3% in January and May to 11.4% in February and 12.2% in June, when World Cup results favoured punters (FDJ United separately reported 'high' player-return rates on the tournament). Q1 stakes were €3,192m and Q2 €3,425m; June alone was €1,327m (~$1,488m), 20% of the half's handle, versus a Jan–May run-rate of ~€1,060m a month. The segment is still the engine of the online market, contributing 7.9 of the 11 points of online GGR growth, and now holds 68.6% of online GGR.",
+          "The player data point to a recruitment surge rather than deepening engagement. Active accounts rose 28% to 5.2m and unique players 21% to 3.6m, but monthly active accounts grew only +2% to +11% YoY from January to May before jumping +69% in June to 3.14m. Stakes per active account fell 14% to roughly €1,270 for the half, the average bet slipped from €14.6 to €14.0 (and from €17.4 to €14.7 in June), and the number of bets totalled ~469m. Accounts per player rose to 1.43, consistent with newer entrants (bet365, Betsson, DAZN Bet, Circus) prying open multi-accounting. The ANJ's own caveat — that H2 activity will show whether the pool has durably widened — is the right one; our prior from Euro 2024 and the 2022 World Cup is that a majority of event-recruited accounts churn within two quarters.",
+          "Promotional spend is the structural concern for any operator's unit economics. Bonuses paid to sports bettors reached €129m (~$145m), +35%, equal to 12.9% of GGR (10.7%) and ~1.9% of stakes; June took €35.5m (28% of the half) against €14.5m in June 2025, and acquisition bonuses, down 6% from January to May, were multiplied by almost four in June (€9.0m vs €2.4m). With all-in public levies at 59.3% of GGR, a 12.9% bonus ratio leaves roughly 28% of GGR for all other costs before margin — the market is being competed on CAC, not product. A 15.0%-hold month like January can mask this; a 12% June cannot.",
+          "Product mix shifted with the calendar. Football took 55.8% of stakes (53.1%), rising 16% over the half with +116% in June and only +2.5% Jan–May; excluding June its share actually slipped (54% vs 55%). Tennis, the growth driver of 2025, stagnated (+2% Jan–May) and fell 13.5% in June, its share dropping from 26.0% to 23.2%. Basketball held 8.5% (9.1%), rugby 1.6% (1.9%) and other sports 11.0% (10.0%), with 'other sports' stakes +21% — the only organic diversification signal. Live betting's share of stakes was flat at 50% from January to May but fell from 54% to 44% in June, as tournament pre-match volume dominated.",
+          "Regulatory read-through: three days before this report the ANJ published a note on 2025 online sports betting linking niche football leagues to excessive bettors, and its May 2026 excessive-player algorithm is now in operators' hands. The combination of a bonus-driven World Cup, a 13% bonus/GGR ratio and a regulator asking for a 'less intensive' model makes bonus restrictions (by promotional-strategy approval if not by decree) the most probable near-term rule change for this segment. Operators modelling France should assume promotional headroom narrows from 2027, and that FY2026 segment GGR of roughly €1.95–2.0bn (~$2.2bn) [estimate: FY2025 €1,766m plus H1 growth and a July World Cup final] is a peak-cycle base, not a trend line."
+        ],
+        "table": {
+          "note": "Online sports betting — € m (~US$ m); ANJ H1 2026 report incl. monthly annex",
+          "columns": [
+            "H1 2026",
+            "YoY",
+            "H1 2025",
+            "H1 2024"
+          ],
+          "rows": [
+            {
+              "label": "Volume & margin",
+              "kind": "group"
+            },
+            {
+              "label": "Stakes (handle)",
+              "cells": [
+                "6,616 (~$7,418)",
+                "+10.6%",
+                "5,984",
+                "5,200"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "GGR (PBJ)",
+              "cells": [
+                "995 (~$1,116)",
+                "+11.6%",
+                "892",
+                "792"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "Hold (GGR / stakes)",
+              "cells": [
+                "15.0%",
+                "+0.1pt",
+                "14.9%",
+                "15.2%"
+              ]
+            },
+            {
+              "label": "Monthly hold range (Jan–Jun 2026)",
+              "cells": [
+                "11.4%–20.3%",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Jan 20.3%, Feb 11.4%, Mar 12.7%, Apr 13.8%, May 20.3%, Jun 12.2%."
+            },
+            {
+              "label": "Stakes Jan–May YoY / June YoY",
+              "cells": [
+                "+4% / +47%",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "June stakes",
+              "cells": [
+                "1,327 (~$1,488)",
+                "+47%",
+                "~903",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Number of bets",
+              "cells": [
+                "~469m",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Players",
+              "kind": "group"
+            },
+            {
+              "label": "Active accounts (CJA)",
+              "cells": [
+                "5.2m",
+                "+28%",
+                "4.1m",
+                "3.7m"
+              ]
+            },
+            {
+              "label": "Unique players (JU)",
+              "cells": [
+                "3.6m",
+                "+21%",
+                "3.0m",
+                "2.7m"
+              ]
+            },
+            {
+              "label": "June monthly active accounts",
+              "cells": [
+                "3.14m",
+                "+69%",
+                "~1.86m",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Accounts per player",
+              "cells": [
+                "1.43",
+                "+0.08",
+                "1.35",
+                "1.34"
+              ]
+            },
+            {
+              "label": "Stakes per active account",
+              "cells": [
+                "~€1,270",
+                "-14%",
+                "~€1,460",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Average bet (H1 / June)",
+              "cells": [
+                "€14.0 / €14.7",
+                "-4% / -16%",
+                "€14.6 / €17.4",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Promotions",
+              "kind": "group"
+            },
+            {
+              "label": "Bonuses paid",
+              "cells": [
+                "129 (~$145)",
+                "+35%",
+                "~96",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Bonuses % of GGR / % of stakes",
+              "cells": [
+                "12.9% / 1.9%",
+                "+2.2pt / +0.3pt",
+                "10.7% / 1.6%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "June bonuses (total / acquisition)",
+              "cells": [
+                "35.5 / 9.0",
+                "+145% / ×3.75",
+                "14.5 / 2.4",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Acquisition bonuses Jan–May YoY",
+              "cells": [
+                "-6%",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Mix",
+              "kind": "group"
+            },
+            {
+              "label": "Football share of stakes",
+              "cells": [
+                "55.8%",
+                "+2.7pt",
+                "53.1%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Tennis share of stakes",
+              "cells": [
+                "23.2%",
+                "-2.8pt",
+                "26.0%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Basketball / Rugby / Other",
+              "cells": [
+                "8.5% / 1.6% / 11.0%",
+                "-0.6 / -0.3 / +1.0pt",
+                "9.1% / 1.9% / 10.0%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Live share of stakes (Jan–May / June)",
+              "cells": [
+                "50% / 44%",
+                "0 / -10pt",
+                "50% / 54%",
+                "n/a"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Stakes, GGR and hold",
+            "takeaway": "GGR rose 11.6% to €995m on stakes +10.6% to €6,616m, but the half was uneven and June/World Cup drove the spike.",
+            "points": [
+              "Hold was 15.0% (14.9% in H1 2025, 15.2% in H1 2024), swinging from 20.3% in January and May to 11.4% in February and 12.2% in June.",
+              "June stakes were €1,327m (~$1,488m), 20% of the half's handle, versus a Jan–May run-rate of ~€1,060m a month; Jan–May stakes grew only 4%.",
+              "Q1 stakes €3,192m, Q2 €3,425m; FDJ United separately reported 'high' player-return rates on the tournament.",
+              "Segment contributed 7.9 of the 11 points of online GGR growth and holds 68.6% of online GGR."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Player recruitment",
+            "takeaway": "Player data point to a recruitment surge rather than deepening engagement; a majority of event-recruited accounts are expected to churn within two quarters.",
+            "points": [
+              "Active accounts +28% to 5.2m, unique players +21% to 3.6m; monthly active accounts grew +2% to +11% Jan–May before +69% in June to 3.14m.",
+              "Stakes per active account fell 14% to roughly €1,270; average bet slipped from €14.6 to €14.0 (€17.4 to €14.7 in June); ~469m bets.",
+              "Accounts per player rose to 1.43, consistent with newer entrants (bet365, Betsson, DAZN Bet, Circus) prying open multi-accounting.",
+              "ANJ's caveat that H2 activity will show whether the pool has durably widened is the right one."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Promotional spend",
+            "takeaway": "Bonuses reached €129m (~$145m), +35%, or 12.9% of GGR, and are the structural concern for operator unit economics.",
+            "points": [
+              "Bonus ratio was 10.7% a year earlier; bonuses equal ~1.9% of stakes.",
+              "June bonuses €35.5m (28% of the half) against €14.5m in June 2025; acquisition bonuses, down 6% Jan–May, nearly quadrupled in June (€9.0m vs €2.4m).",
+              "With public levies at 59.3% of GGR, a 12.9% bonus ratio leaves roughly 28% of GGR for all other costs before margin.",
+              "The market is being competed on CAC, not product; a 15.0%-hold month like January can mask this, a 12% June cannot."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Product mix",
+            "takeaway": "Football took 55.8% of stakes (53.1%), +16% over the half, while tennis stagnated and 'other sports' was the only organic diversification signal.",
+            "points": [
+              "Football +116% in June and only +2.5% Jan–May; excluding June its share slipped (54% vs 55%).",
+              "Tennis +2% Jan–May, −13.5% in June, share down from 26.0% to 23.2%.",
+              "Basketball 8.5% (9.1%), rugby 1.6% (1.9%), other sports 11.0% (10.0%) with stakes +21%.",
+              "Live betting share flat at 50% Jan–May but fell from 54% to 44% in June as pre-match volume dominated."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Regulatory read-through",
+            "takeaway": "Bonus restrictions are the most probable near-term rule change; FY2026 segment GGR of roughly €1.95–2.0bn is a peak-cycle base, not a trend line.",
+            "points": [
+              "ANJ note on 2025 online sports betting linked niche football leagues to excessive bettors; its May 2026 excessive-player algorithm is now with operators.",
+              "Bonus-driven World Cup, 13% bonus/GGR ratio and a regulator asking for a 'less intensive' model point to restrictions via promotional-strategy approval if not decree.",
+              "Operators should assume promotional headroom narrows from 2027.",
+              "FY2026 estimate: FY2025 €1,766m plus H1 growth and a July World Cup final (~$2.2bn)."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Online poker & online horse-race betting",
+        "headline": "Poker returned to double-digit growth (+13.4%) on Sit&Go and a 38% jump in accounts; horse racing online posted its best stakes growth since 2021 (+15.8%) but hold fell to 17.8%.",
+        "narrative": [
+          "Online poker GGR reached €290m (~$325m), +13.4%, after a flat H1 2025 (−0.4%), and contributed 2.6 points of online growth. Almost all of the increase came from short formats: Sit&Go (nearly all variable-prize 'expresso'-type) generated €202m, 70% of segment GGR, and Sit&Go plus MTT together rose 15.9% to €240m (83% of GGR); cash game stabilised at ~€50m (+2.8% after −14%). The monthly annex shows Sit&Go GGR accelerating through the half — +5–10% YoY in Q1, ~+20% in April–May, ~+30% in June — which suggests cross-sell from the World Cup sports audience into lottery-like poker formats rather than a poker-native revival. Poker's share of online GGR recovered to 20.0% (19.6%).",
+          "Poker's player base expanded far faster than its revenue: active accounts +38.5% to 2.3m and unique players +34.4% to 1.8m, three times the growth rates of H1 2025, with monthly accounts up 16% in January–February, 21–29% in March–May and 62% in June. GGR per active account fell 18% from €153 to €126. Poker players now represent 44% of all online unique players (38%). Unlike sports betting, this growth was not bonus-led: segment bonuses rose 11% to €50.9m (17.6% of GGR), slower than GGR, acquisition bonuses fell 15%, and bonus per account dropped from €27 to €22. Seven operators hold poker licences (bwin/partypoker, Betclic, Unibet, bet365, PMU, PokerStars, Winamax); liquidity is ring-fenced to France apart from the shared-liquidity arrangements permitted since 2018.",
+          "The tax change matters more for poker than any other product. From 1 July 2025 the social levy moved from 0.2% of stakes to 10% of GGR (LFSS 2025), so H1 2026 is the first half fully under the new base. Growth of +13.4% despite this suggests operators have not passed the cost through in rake; whether margins absorbed it is not visible in ANJ data. Against land-based casinos (whose social levies rose only 0.7pt) the industry argued the change created a competitive distortion; against the illegal online casino market (ANJ/PwC: €748m–€1.5bn GGR) it widens the pricing gap further.",
+          "Online horse-race betting stakes rose 15.8% to €920m (~$1,032m), the strongest growth since 2021 (+6% in H1 2024, +1% in H1 2025), with every month up 13–20% YoY and no June peak. GGR, however, grew only 2.8% to €164m (~$184m) as hold fell from 20.1% to 17.8% — a two-point give-back that mirrors PMU's own RTP increase in its retail network and points to price competition for the same pari-mutuel pools. Active accounts rose 6.8% to 547k and unique players 3.2% to 462k, so growth is activity per player (GGR per account nonetheless −3.7% to €300). Galop stakes grew 18.2% to €456m and trot 13.5% to €464m, near parity, with trot dominating winter months (~60% in Jan–Feb) and galop spring (~55% Mar–May). Bonuses rose 36% to €19.7m, 12.0% of GGR (9.1%), 96% of it retention.",
+          "Commercial implication: the online horse-racing channel is taking share from PMU's physical network (online now 23% of horse-race stakes vs 20% a year earlier) but with five licensees (Betclic, Unibet/Zeturf, Genybet, bet365, PMU) competing on returns in pools whose economics are set by the racing companies' levy (public levies incl. the racing return ~52.9% of GGR per FDJ United). This is a scale-and-content niche: attractive for an operator that already runs pari-mutuel or racing media, marginal otherwise. Poker is the more interesting adjacency for a sportsbook-led entrant — it is growing, under-bonused and benefits from cross-sell — but the 10%-of-GGR social levy plus the French state poker levy [rate unverified] set a hard floor on rake."
+        ],
+        "table": {
+          "note": "Online poker & horse racing — € m (~US$ m); ANJ H1 2026 report",
+          "columns": [
+            "H1 2026",
+            "YoY",
+            "H1 2025",
+            "H1 2024"
+          ],
+          "rows": [
+            {
+              "label": "Online poker",
+              "kind": "group"
+            },
+            {
+              "label": "GGR (PBJ)",
+              "cells": [
+                "290 (~$325)",
+                "+13.4%",
+                "256",
+                "257"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "Sit&Go GGR (share of segment)",
+              "cells": [
+                "202 (70%)",
+                "~+17%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Sit&Go + MTT GGR",
+              "cells": [
+                "240",
+                "+15.9%",
+                "207",
+                "202"
+              ]
+            },
+            {
+              "label": "Cash game GGR",
+              "cells": [
+                "~50",
+                "+2.8%",
+                "49",
+                "55"
+              ]
+            },
+            {
+              "label": "Active accounts (CJA)",
+              "cells": [
+                "2.3m",
+                "+38.5%",
+                "1.7m",
+                "1.5m"
+              ]
+            },
+            {
+              "label": "Unique players (JU)",
+              "cells": [
+                "1.8m",
+                "+34.4%",
+                "1.3m",
+                "1.2m"
+              ]
+            },
+            {
+              "label": "GGR per active account",
+              "cells": [
+                "€126",
+                "-18%",
+                "€153",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Bonuses paid / % of GGR",
+              "cells": [
+                "50.9 (~$57) / 17.6%",
+                "+11% / -0.4pt",
+                "~45.9 / 17.9%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Acquisition bonuses YoY / bonus per CJA",
+              "cells": [
+                "-15% / €22",
+                "n/a",
+                "€27",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Tax: social levy base & rate (since 1 Jul 2025)",
+              "cells": [
+                "10% of GGR",
+                "from 0.2% of stakes",
+                "0.2% of stakes",
+                "0.2% of stakes"
+              ]
+            },
+            {
+              "label": "Online horse-race betting",
+              "kind": "group"
+            },
+            {
+              "label": "Stakes",
+              "cells": [
+                "920 (~$1,032)",
+                "+15.8%",
+                "795",
+                "787"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "GGR (PBJ)",
+              "cells": [
+                "164 (~$184)",
+                "+2.8%",
+                "160",
+                "160"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "Hold (GGR / stakes)",
+              "cells": [
+                "17.8%",
+                "-2.3pt",
+                "20.1%",
+                "20.3%"
+              ]
+            },
+            {
+              "label": "Galop stakes / Trot stakes",
+              "cells": [
+                "456 / 464",
+                "+18.2% / +13.5%",
+                "~386 / ~409",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Active accounts (CJA)",
+              "cells": [
+                "547k",
+                "+6.8%",
+                "513k",
+                "497k"
+              ]
+            },
+            {
+              "label": "Unique players (JU)",
+              "cells": [
+                "462k",
+                "+3.2%",
+                "447k",
+                "433k"
+              ]
+            },
+            {
+              "label": "GGR per active account",
+              "cells": [
+                "€300",
+                "-3.7%",
+                "€312",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Bonuses paid / % of GGR (96% retention)",
+              "cells": [
+                "19.7 (~$22) / 12.0%",
+                "+36% / +2.9pt",
+                "~14.5 / 9.1%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Online share of total horse-race stakes (vs PMU network)",
+              "cells": [
+                "~23%",
+                "+3pt",
+                "~20%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "All-in public levies incl. racing return (FDJ United)",
+              "cells": [
+                "52.9% of GGR",
+                "+0.6pt",
+                "52.3%",
+                "52.3%"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Poker revenue",
+            "takeaway": "Online poker GGR reached €290m (~$325m), +13.4%, after a flat H1 2025 (−0.4%), driven almost entirely by short formats.",
+            "points": [
+              "Sit&Go generated €202m, 70% of segment GGR; Sit&Go plus MTT rose 15.9% to €240m (83% of GGR); cash game ~€50m (+2.8% after −14%).",
+              "Sit&Go GGR accelerated: +5–10% YoY in Q1, ~+20% April–May, ~+30% June, suggesting World Cup cross-sell rather than a poker-native revival.",
+              "Poker contributed 2.6 points of online growth; share of online GGR recovered to 20.0% (19.6%)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Poker players and bonuses",
+            "takeaway": "Poker's player base grew far faster than revenue, with active accounts +38.5% to 2.3m, and growth was not bonus-led.",
+            "points": [
+              "Unique players +34.4% to 1.8m, three times H1 2025 rates; monthly accounts +16% Jan–Feb, 21–29% Mar–May, 62% June.",
+              "GGR per active account fell 18% from €153 to €126; poker players are 44% of all online unique players (38%).",
+              "Bonuses rose 11% to €50.9m (17.6% of GGR), acquisition bonuses fell 15%, bonus per account dropped from €27 to €22.",
+              "Seven operators hold poker licences; liquidity is ring-fenced to France apart from shared-liquidity arrangements permitted since 2018."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Poker tax change",
+            "takeaway": "From 1 July 2025 the social levy moved from 0.2% of stakes to 10% of GGR, making H1 2026 the first half fully under the new base.",
+            "points": [
+              "Growth of +13.4% despite this suggests operators have not passed the cost through in rake; margin absorption is not visible in ANJ data.",
+              "Industry argued the change created a competitive distortion versus land-based casinos, whose social levies rose only 0.7pt.",
+              "Against the illegal online casino market (ANJ/PwC: €748m–€1.5bn GGR) it widens the pricing gap further."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Online horse-race betting",
+            "takeaway": "Stakes rose 15.8% to €920m (~$1,032m), the strongest since 2021, but GGR grew only 2.8% to €164m as hold fell to 17.8%.",
+            "points": [
+              "Prior growth +6% in H1 2024, +1% in H1 2025; every month up 13–20% YoY with no June peak.",
+              "Hold fell from 20.1% to 17.8%, mirroring PMU's retail RTP increase and pointing to price competition for the same pari-mutuel pools.",
+              "Active accounts +6.8% to 547k, unique players +3.2% to 462k; GGR per account −3.7% to €300.",
+              "Galop stakes +18.2% to €456m, trot +13.5% to €464m; trot ~60% in Jan–Feb, galop ~55% Mar–May.",
+              "Bonuses +36% to €19.7m, 12.0% of GGR (9.1%), 96% retention."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Commercial implication",
+            "takeaway": "Online horse racing is a scale-and-content niche taking share from PMU's network; poker is the more interesting adjacency for a sportsbook-led entrant.",
+            "points": [
+              "Online now 23% of horse-race stakes vs 20% a year earlier, with five licensees (Betclic, Unibet/Zeturf, Genybet, bet365, PMU) competing on returns.",
+              "Pool economics are set by the racing companies' levy; public levies incl. racing return ~52.9% of GGR per FDJ United.",
+              "Poker is growing, under-bonused and benefits from cross-sell, but the 10%-of-GGR social levy plus the state poker levy [rate unverified] set a hard floor on rake."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Exclusive-rights operators: FDJ United (lottery & retail sports betting) and PMU (horse racing)",
+        "headline": "The monopolies that still hold 75% of ex-casino GGR both contracted — FDJ United −2.0% on a weak EuroMillions cycle and heatwaves, PMU −5.8% in a third straight year of decline.",
+        "narrative": [
+          "FDJ United's activities under exclusive rights in France generated €3,429m (~$3,845m) of GGR in H1 2026, −2.0% (−€69m), after contributing 2.7 points to market growth a year earlier. Lottery accounted for €64m of the decline (−2.1% to €2,979m / ~$3,340m): draw games fell 7.6% because, in the operator's words, high EuroMillions jackpots were fewer and lower than in 2025, and Q2 retail footfall suffered from heatwaves; excluding long EuroMillions cycles (jackpots above €75m) the operator says lottery GGR rose 1%. Retail sports betting — FDJ's second monopoly — fell 1.1% to €450m (~$505m) with Q2 improving on a more attractive offer. At group level (including Kindred's European online business and Irish lottery) GGR was €4,314m (~$4,837m), −1.3%; public levies were €2,613m (~$2,930m), +0.7%; net gaming revenue €1,701m (−4.1%); revenue €1,782m (~$1,998m), −4.5%, of which €52m (3pt) was lost to 2025–26 tax increases in France, the UK, the Netherlands and Romania.",
+          "Profitability and guidance frame what the French tax regime does to even a monopoly. Recurring EBITDA fell 8.4% to €404m (~$453m), a 22.7% margin (23.6%), and recurring operating profit 15.1% to €229m; the reported net result swung from a €136m profit to a €16m loss on €135m of impairments on online betting and gaming intangibles (Netherlands, UK, Romania regulatory changes) plus a €20m exceptional contribution on large-company profits. Net debt was stable at €1,964m and Moody's reaffirmed Baa1. FDJ United now guides to stable FY2026 GGR in both its French network and online BUs, a low-single-digit revenue decline, a 23–24% EBITDA margin, a dividend payout of at least 75% of adjusted net income, and has opened a review of its online markets and non-core payments assets. The ANJ notes that the market's full-year trajectory depends on FDJ United, which is 61% of ex-casino GGR. Its online BU (France, Nordics, UK, NL etc.) held GGR flat at €702m; excluding the Netherlands and UK, GGR grew 6.6% 'notably' on France — a reminder that FDJ United is also the largest-capitalised competitor in the open online market under the Unibet brand.",
+          "PMU's exclusive-rights (pari-mutuel) business is in structural retreat. Stakes fell 3.8% to €3,096m (~$3,471m) — a third consecutive decline after −2% (H1 2024) and −4.2% (H1 2025), and €264m (−7.9%) lower than two years ago — and the decline was evenly spread across Q1 (−3.9%) and Q2 (−3.7%) rather than front-loaded as in 2025. GGR fell faster, −5.8% to €782m (~$877m), with the acceleration concentrated in Q2 (−5.7% vs −1.3% a year earlier); network GGR is down €70m (−8.2%) in two years. The ANJ attributes part of the stakes/GGR gap to PMU raising the return to player on its retail Simple bet from 83.6% to 84.6% from October 2025 — i.e. PMU is buying volume defence with margin. PMU's share of the ex-casino market fell to 13.8% (15.8% in H1 2024, 14.7% in H1 2025), and online sports betting, which overtook it in H1 2025, is now 3.8 points ahead. PMU's network still carries over three-quarters of all horse-race stakes, but its share slipped from 80% to 77% as online horse-race stakes grew 15.8% (PMU also competes online via pmu.fr).",
+          "Governance and funding of the racing ecosystem are now the policy issue. 2026 is a transition year: Cyrille Giraudat became CEO in January 2026, Éric Woerth (a former budget minister) was appointed chair on 30 March 2026, and a 'Pacte PMU 2030' is being drafted. The 2026 budget adopted on 30 June provides €725m (~$813m) for the horse-racing industry, down from €802m (~$899m) in 2025 (−9.6%); FY2025 had already shown stakes −3.3% to €6.4bn, GGR −2.8% to €1,651m and a player base down 5.7% to 3.3m. For an operator, the relevant implications are (i) the racing companies' levy on online horse-race betting is set annually by decree and can rise to compensate the filière, and (ii) PMU's political weight — rural retail network, racing employment — makes any liberalisation of pari-mutuel exclusivity improbable.",
+          "Land-based casinos and clubs sit outside the semi-annual report but shape the online-casino debate. FY2025 casino GGR was €2,816m (~$3,157m), +3.4%, on 31.6m entries (+2%); the Paris gaming clubs, finally made permanent after an eight-year experiment, posted €97m (~$109m), −21%, after a two-month closure. The land-based sector's successful October 2024 lobbying against the online-casino amendment and its FY2025 recovery mean its opposition to iGaming legalisation is undiminished; any future opening is likely to be designed around land-based licence holders (the ANJ itself has advocated a 'highly controlled' approach)."
+        ],
+        "table": {
+          "note": "FDJ United & PMU — € m (~US$ m); ANJ H1 2026 report, FDJ United H1 2026 release, ANJ FY2025 review",
+          "columns": [
+            "H1 2026",
+            "YoY",
+            "H1 2025",
+            "FY 2025"
+          ],
+          "rows": [
+            {
+              "label": "FDJ United",
+              "kind": "group"
+            },
+            {
+              "label": "GGR — exclusive rights in France (lottery + retail SB)",
+              "cells": [
+                "3,429 (~$3,845)",
+                "-2.0%",
+                "3,498",
+                "6,950 (+2.8%)"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "Lottery GGR (retail + online)",
+              "cells": [
+                "2,979 (~$3,340)",
+                "-2.1%",
+                "3,043",
+                "n/a (+3.4%)"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Draw games GGR growth",
+              "cells": [
+                "n/a",
+                "-7.6%",
+                "n/a",
+                "n/a"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Retail sports betting GGR",
+              "cells": [
+                "450 (~$505)",
+                "-1.1%",
+                "455",
+                "n/a"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Group GGR (incl. Kindred, international lottery)",
+              "cells": [
+                "4,314 (~$4,837)",
+                "-1.3%",
+                "4,369",
+                "8,706"
+              ]
+            },
+            {
+              "label": "Group public levies",
+              "cells": [
+                "2,613 (~$2,930)",
+                "+0.7%",
+                "2,595",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Group revenue",
+              "cells": [
+                "1,782 (~$1,998)",
+                "-4.5%",
+                "1,866",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Recurring EBITDA (margin)",
+              "cells": [
+                "404 (22.7%)",
+                "-8.4%",
+                "441 (23.6%)",
+                "FY26 target 23–24%"
+              ]
+            },
+            {
+              "label": "Net result",
+              "cells": [
+                "-16",
+                "n/m",
+                "+136",
+                "n/a"
+              ],
+              "footnote": "€135m impairments on online B&G intangibles (NL, UK, Romania) + €20m exceptional corporate contribution."
+            },
+            {
+              "label": "Online B&G BU GGR (group)",
+              "cells": [
+                "702",
+                "-0.2%",
+                "703",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Net financial debt",
+              "cells": [
+                "1,964",
+                "flat",
+                "1,964",
+                "n/a"
+              ]
+            },
+            {
+              "label": "PMU (exclusive rights)",
+              "kind": "group"
+            },
+            {
+              "label": "Stakes",
+              "cells": [
+                "3,096 (~$3,471)",
+                "-3.8%",
+                "3,219",
+                "6,400 (-3.3%)"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "GGR (PBJ)",
+              "cells": [
+                "782 (~$877)",
+                "-5.8%",
+                "830",
+                "1,651 (-2.8%)"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "Hold (GGR / stakes)",
+              "cells": [
+                "25.3%",
+                "-0.5pt",
+                "25.8%",
+                "25.8%"
+              ]
+            },
+            {
+              "label": "Quarterly stakes YoY (Q1 / Q2)",
+              "cells": [
+                "-3.9% / -3.7%",
+                "n/a",
+                "-5.5% / -3.0%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Retail Simple bet RTP",
+              "cells": [
+                "84.6%",
+                "+1.0pt (Oct 2025)",
+                "83.6%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Share of ex-casino market GGR",
+              "cells": [
+                "13.8%",
+                "-0.9pt",
+                "14.7%",
+                "15.8% in H1 2024"
+              ]
+            },
+            {
+              "label": "PMU network share of horse-race stakes",
+              "cells": [
+                "77%",
+                "-3pt",
+                "80%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Return to horse-racing industry (budget)",
+              "cells": [
+                "725 FY26 (~$813)",
+                "-9.6%",
+                "n/a",
+                "802 (~$899)"
+              ]
+            },
+            {
+              "label": "Players (unique)",
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "3.3m (-5.7%)"
+              ]
+            },
+            {
+              "label": "Land-based (annual only)",
+              "kind": "group"
+            },
+            {
+              "label": "Casinos GGR / entries",
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "2,816 (~$3,157), +3.4% / 31.6m"
+              ]
+            },
+            {
+              "label": "Paris gaming clubs GGR",
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "97 (~$109), -21%"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "FDJ United French GGR",
+            "takeaway": "FDJ United's exclusive-rights GGR fell 2.0% (−€69m) to €3,429m (~$3,845m) on a weak EuroMillions cycle and heatwaves.",
+            "points": [
+              "Lottery accounted for €64m of the decline (−2.1% to €2,979m); draw games fell 7.6%; excluding long EuroMillions cycles (jackpots above €75m) lottery GGR rose 1%.",
+              "Retail sports betting fell 1.1% to €450m (~$505m) with Q2 improving on a more attractive offer.",
+              "Group GGR €4,314m (−1.3%); public levies €2,613m (+0.7%); net gaming revenue €1,701m (−4.1%); revenue €1,782m (−4.5%), €52m (3pt) lost to 2025–26 tax increases."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "FDJ profitability and guidance",
+            "takeaway": "Recurring EBITDA fell 8.4% to €404m (22.7% margin) and FDJ United guides to stable FY2026 GGR and a 23–24% EBITDA margin.",
+            "points": [
+              "Recurring operating profit −15.1% to €229m; net result swung from €136m profit to €16m loss on €135m impairments plus a €20m exceptional contribution.",
+              "Net debt stable at €1,964m; Moody's reaffirmed Baa1.",
+              "Guidance: low-single-digit revenue decline, dividend payout of at least 75% of adjusted net income, review of online markets and non-core payments assets.",
+              "Online BU GGR flat at €702m; excluding the Netherlands and UK, GGR grew 6.6% 'notably' on France; FDJ United is 61% of ex-casino GGR."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "PMU structural retreat",
+            "takeaway": "PMU stakes fell 3.8% to €3,096m and GGR −5.8% to €782m, a third consecutive decline, as PMU buys volume defence with margin.",
+            "points": [
+              "Prior declines −2% (H1 2024) and −4.2% (H1 2025); stakes €264m (−7.9%) below two years ago; Q1 −3.9%, Q2 −3.7%.",
+              "GGR acceleration concentrated in Q2 (−5.7% vs −1.3%); network GGR down €70m (−8.2%) in two years.",
+              "Retail Simple bet RTP raised from 83.6% to 84.6% from October 2025.",
+              "Share of ex-casino market fell to 13.8% (15.8% H1 2024, 14.7% H1 2025); online sports betting is 3.8 points ahead; horse-race stakes share slipped from 80% to 77%."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Racing governance and funding",
+            "takeaway": "2026 is a transition year with new leadership and a 'Pacte PMU 2030', while budget support for racing fell 9.6% to €725m.",
+            "points": [
+              "Cyrille Giraudat became CEO in January 2026; Éric Woerth appointed chair on 30 March 2026.",
+              "2026 budget provides €725m (~$813m) versus €802m in 2025; FY2025 stakes −3.3% to €6.4bn, GGR −2.8% to €1,651m, players −5.7% to 3.3m.",
+              "Racing companies' levy on online horse-race betting is set annually by decree and can rise to compensate the filière.",
+              "PMU's political weight makes liberalisation of pari-mutuel exclusivity improbable."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Land-based casinos",
+            "takeaway": "FY2025 casino GGR was €2,816m (+3.4%) and the sector's opposition to iGaming legalisation is undiminished.",
+            "points": [
+              "31.6m entries (+2%); Paris gaming clubs, made permanent after eight years, posted €97m (−21%) after a two-month closure.",
+              "Successful October 2024 lobbying against the online-casino amendment; any future opening likely designed around land-based licence holders.",
+              "The ANJ itself has advocated a 'highly controlled' approach."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Licensing, taxation & operator landscape",
+        "headline": "Cheap to license, brutal to tax: 16 licensees compete for three online products under a 59.3%-of-GGR regime for sports betting that was raised in July 2025 and sits in a budget cycle hunting for revenue.",
+        "narrative": [
+          "The legal architecture dates from Law 2010-476 (12 May 2010), which opened online sports betting, online horse-race betting and online poker to competition under ARJEL, and Ordinance 2019-1015 (2 Oct 2019), which created the Autorité nationale des jeux (ANJ) from 1 Jan 2020 with authority over the whole sector: the online licensees, FDJ (whose lottery and retail sports-betting exclusivity was secured for 25 years under the 2019 PACTE privatisation), PMU (retail pari-mutuel horse racing), and — for responsible-gambling and advertising oversight — land-based casinos and clubs. Everything not expressly authorised is prohibited: online casino games, online bingo and betting exchanges remain illegal, and the ANJ polices the perimeter via administrative blocking.",
+          "An agrément is issued per product category (paris sportifs, paris hippiques, jeux de cercle), for five years, renewable, non-transferable, and only to operators with a registered seat in the EU/EEA; it is conditional on a detailed cahier des charges, a certified technical platform with data archiving accessible to the ANJ (the 'frontal'), and player-protection obligations. Fees are trivial relative to market size (CGI art. 1012 and annex III art. 313 BR): €5,000 / €8,000 / €10,000 at application for one / two / three categories and €20,000 / €30,000 / €40,000 a year. The real cost of entry is operating: monthly levy declarations, ANJ pre-approval of the annual promotional strategy and the excessive-gambling action plan, AML obligations and the five-yearly renewal (recent examples: Zeturf's sports licence renewed 14 May 2024; PMU's sports licence renewed June 2025).",
+          "The ANJ register (October 2026) lists 16 licensed entities. All 16 hold sports-betting licences; five hold horse-race licences (Betclic, FDJ Online Betting and Gaming France [unibet.fr/zeturf.fr], Genybet, Hillside [bet365.fr], PMU) and seven hold poker licences (B.E.S. [bwin.fr/partypoker.fr], Betclic, FDJ Online B&G France, Hillside, PMU, Reel Malta [PokerStars], Winamax). The notable change since 2024 is the arrival of international brands — bet365.fr, betsson.fr, daznbet.fr (BCFR4), circusbet.fr (BCFR2) — plus niche entrants (feelingbet.fr, olybet.fr, vbet.fr, netbet.fr, yesorno-jeu.fr), and FDJ United's unification of its French online brands under Unibet after absorbing Kindred. The ANJ does not publish operator shares; trade consensus places Winamax, Betclic and Unibet as the sports-betting leaders [unverified], and the ANJ's data on rising accounts-per-player (1.37→1.44) is consistent with new entrants buying trial via bonuses.",
+          "Taxation is levied on GGR (PBJ) for every vertical since the 2020 reform (poker's social levy was the last stakes-based element, converted on 1 July 2025). For online sports betting the all-in public take is 59.3% of GGR — 33.7% state levy (CGI 302 bis ZH), 15.0% social levy (CSS L137-21, raised from 10.6% by LFSS 2025 art. 32) and 10.6% levy for the Agence nationale du sport (CGI 1609 tricies) — the highest headline rate in Europe. Retail sports betting pays 42.1% (41.1% before), online horse-race betting 52.9% including the racing companies' return (52.3%), online poker a 10%-of-GGR social levy (from 0.2% of stakes; the separate state levy on poker stakes is not re-verified here), lottery 69% on jackpot draw games and 56.5% on other draw/instant games (each +1pt via CSG 6.2%→7.2%), and casinos a progressive state levy on GGR plus social levies that rose ~0.7pt [scale unverified]. Player winnings are untaxed online; land-based casino winnings above €1,500 bear a 13.7% social levy, and amendments to extend that to betting and lottery (estimated €200m a year) have been tabled, not adopted. Operators pay in addition the ordinary corporate income tax and, for FDJ United in 2026, the exceptional contribution on large-company profits.",
+          "The commercial consequence is a margin stack that only scale survives. On H1 2026 online sports betting GGR of €995m, statutory levies imply ~€590m (~$662m) of public take [estimate], leaving ~€405m for the whole licensed sector before bonuses (€129m), payment and platform costs, content and staff — roughly €0.28 of each GGR euro before marketing media and overhead. FDJ United quantified the 1 July 2025 increases at ~€45m in 2025 and ~€90m in a full year and says it will take until 2027 to offset them; AFJEL warned of exits among smaller licensees. We have not yet seen exits, but we have seen bonus inflation and hold compression in horse racing. Direction of travel: the 2025 budget cycle established gambling as a go-to revenue line; with the 2026 budget adopted only in February 2026 after a protracted process [secondary], the PLFSS/PLF 2027 debates this autumn are the next window for further levy or winnings-tax changes — the key regulatory swing factor for FY2027 planning."
+        ],
+        "table": {
+          "note": "Licensing & tax parameters (base = GGR/PBJ unless stated)",
+          "columns": [
+            "Current (since 1 Jul 2025)",
+            "Base",
+            "Pre-1 Jul 2025",
+            "Legal reference / note"
+          ],
+          "rows": [
+            {
+              "label": "Public levies by vertical",
+              "kind": "group"
+            },
+            {
+              "label": "Online sports betting — all-in",
+              "cells": [
+                "59.3%",
+                "GGR",
+                "54.9%",
+                "33.7% state (CGI 302 bis ZH) + 15.0% social (CSS L137-21) + 10.6% sport agency (CGI 1609 tricies)"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "Retail sports betting (FDJ monopoly)",
+              "cells": [
+                "42.1%",
+                "GGR",
+                "41.1%",
+                "social levy 6.6%→7.6%; sport agency levy 6.6%"
+              ]
+            },
+            {
+              "label": "Online horse-race betting (incl. return to racing cos.)",
+              "cells": [
+                "52.9%",
+                "GGR",
+                "52.3%",
+                "social levy unchanged (6.9%); racing fee by annual decree (FDJ United disclosure)"
+              ]
+            },
+            {
+              "label": "Online poker — social levy",
+              "cells": [
+                "10%",
+                "GGR",
+                "0.2% of stakes",
+                "LFSS 2025; state levy on stakes [unverified]"
+              ]
+            },
+            {
+              "label": "Lottery — jackpot draw games (Loto, EuroMillions)",
+              "cells": [
+                "69%",
+                "GGR",
+                "68%",
+                "CSG 6.2%→7.2%"
+              ]
+            },
+            {
+              "label": "Lottery — other draw & instant games",
+              "cells": [
+                "56.5%",
+                "GGR",
+                "55.5%",
+                "CSG 6.2%→7.2%"
+              ]
+            },
+            {
+              "label": "Land-based casinos",
+              "cells": [
+                "progressive levy + social (+0.7pt)",
+                "GGR",
+                "n/a",
+                "scale [unverified]; winnings >€1,500 taxed 13.7%"
+              ]
+            },
+            {
+              "label": "Player winnings — online betting/poker",
+              "cells": [
+                "0%",
+                "n/a",
+                "0%",
+                "extension of 13.7% levy proposed in PLF amendments, not adopted"
+              ]
+            },
+            {
+              "label": "Licensing",
+              "kind": "group"
+            },
+            {
+              "label": "Licensable online products",
+              "cells": [
+                "3 (sports, horse racing, poker)",
+                "n/a",
+                "3",
+                "online casino, bingo, exchanges prohibited"
+              ]
+            },
+            {
+              "label": "Licence term / transferability",
+              "cells": [
+                "5 years, renewable",
+                "n/a",
+                "5 years",
+                "non-transferable; EU/EEA seat required"
+              ]
+            },
+            {
+              "label": "Application fee (1 / 2 / 3 products)",
+              "cells": [
+                "€5k / €8k / €10k (~$5.6k / $9.0k / $11.2k)",
+                "n/a",
+                "same",
+                "CGI annex III art. 313 BR"
+              ]
+            },
+            {
+              "label": "Annual fee (1 / 2 / 3 products)",
+              "cells": [
+                "€20k / €30k / €40k (~$22k / $34k / $45k)",
+                "n/a",
+                "same",
+                "CGI art. 1012"
+              ]
+            },
+            {
+              "label": "Licensed entities (ANJ register)",
+              "cells": [
+                "16",
+                "n/a",
+                "n/a",
+                "16 sports / 5 horse racing / 7 poker"
+              ]
+            },
+            {
+              "label": "Exclusive rights",
+              "cells": [
+                "FDJ (lottery; retail SB, 25 yrs from 2019); PMU (retail pari-mutuel)",
+                "n/a",
+                "same",
+                "PACTE law 2019; Law 2010-476"
+              ]
+            },
+            {
+              "label": "Implied H1 2026 levies, online sports betting [estimate]",
+              "cells": [
+                "~€590m (~$662m)",
+                "GGR €995m × 59.3%",
+                "n/a",
+                "not a reported figure"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Legal architecture",
+            "takeaway": "Law 2010-476 opened three online products to competition and Ordinance 2019-1015 created the ANJ from 1 Jan 2020 over the whole sector.",
+            "points": [
+              "ANJ oversees online licensees, FDJ (25-year exclusivity under the 2019 PACTE privatisation), PMU, and land-based casinos for responsible-gambling and advertising.",
+              "Everything not expressly authorised is prohibited: online casino, online bingo and betting exchanges remain illegal, policed via administrative blocking."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Licensing terms",
+            "takeaway": "Licences are per product, five-year, renewable, EU/EEA-only, with trivial fees; the real cost of entry is operating compliance.",
+            "points": [
+              "Fees: €5,000 / €8,000 / €10,000 at application for one / two / three categories and €20,000 / €30,000 / €40,000 a year.",
+              "Requires a cahier des charges, certified platform with ANJ-accessible archiving (the 'frontal'), and player-protection obligations.",
+              "Ongoing: monthly levy declarations, ANJ pre-approval of promotional strategy and excessive-gambling plan, AML, five-yearly renewal (Zeturf 14 May 2024; PMU June 2025)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Operator landscape",
+            "takeaway": "The ANJ register (October 2026) lists 16 licensees, with international brands arriving since 2024 and buying trial via bonuses.",
+            "points": [
+              "All 16 hold sports-betting licences; five hold horse-race licences; seven hold poker licences.",
+              "New entrants: bet365.fr, betsson.fr, daznbet.fr, circusbet.fr plus niche brands; FDJ United unified French online brands under Unibet after absorbing Kindred.",
+              "Trade consensus places Winamax, Betclic and Unibet as sports-betting leaders [unverified]; accounts-per-player rose 1.37→1.44."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Taxation",
+            "takeaway": "Online sports betting bears an all-in public take of 59.3% of GGR, the highest headline rate in Europe, raised in July 2025.",
+            "points": [
+              "Components: 33.7% state levy, 15.0% social levy (raised from 10.6% by LFSS 2025 art. 32), 10.6% Agence nationale du sport levy.",
+              "Retail sports betting 42.1% (41.1%), online horse racing 52.9% (52.3%), poker 10%-of-GGR social levy, lottery 69% on jackpot draws and 56.5% on other games (+1pt each).",
+              "Online winnings untaxed; land-based casino winnings above €1,500 bear 13.7%; amendments extending that to betting and lottery (~€200m a year) tabled, not adopted.",
+              "Operators also pay corporate income tax and, for FDJ United in 2026, the exceptional contribution on large-company profits."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Margin stack and outlook",
+            "takeaway": "Levies imply ~€590m public take on €995m sports GGR, leaving roughly €0.28 of each GGR euro before marketing media and overhead; only scale survives.",
+            "points": [
+              "~€405m left for the licensed sector before bonuses (€129m), payment, platform, content and staff costs.",
+              "FDJ United quantified the 1 July 2025 increases at ~€45m in 2025 and ~€90m in a full year, offset only by 2027; AFJEL warned of smaller-licensee exits.",
+              "No exits yet, but bonus inflation and hold compression in horse racing have appeared.",
+              "PLFSS/PLF 2027 debates this autumn are the next window for levy or winnings-tax changes — the key regulatory swing factor for FY2027 planning."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Enforcement, responsible gambling, advertising, payments & the online-casino question",
+        "headline": "The ANJ is tightening on every axis — blocking (1,337 sites, now Polymarket/Stake), an excessive-player algorithm flagging ~600k accounts, sanctions tied to bonuses — while online casino legalisation stays frozen.",
+        "narrative": [
+          "Enforcement against unlicensed supply has hardened since the ANJ obtained administrative (non-judicial) blocking and de-listing powers in March 2022: by late 2025 it reported 1,337 illegal gambling sites blocked, and in July 2026 it secured the blocking in France of Polymarket (prediction markets treated as unlicensed betting), Stake and Cbet. The regulator's own sizing of the illegal online market (ANJ/PwC study) is €748m–€1.5bn (~$839m–$1,682m) of GGR, 5–11% of the total market — dominated by online casino, which is illegal in France. The industry lobby AFJEL's November 2025 barometer claims 5.4m French players and €2bn (~$2.2bn) of illegal GGR, i.e. a black market now larger than the licensed online market, with €1.2bn of foregone tax; those figures are advocacy for legalising online casino and should be weighted accordingly. For a licensed operator the practical reading is that channelisation in sports betting and poker is high, while slot/casino demand leaks entirely offshore.",
+          "Responsible gambling has become the ANJ's primary lever and it is moving from principles to measurement. The 2024–2026 strategic plan placed reduction of excessive gambling at the centre; on 26 May 2026 the ANJ published Decision 2026-118, releasing to operators an algorithm for identifying excessive or pathological players and stating that roughly 600,000 online players have a high probability of being excessive — against 4.06m unique players, that is ~15% of the base. Operators are expected to identify numbers 'consistent with the size of their player pool', contact them, impose moderators, refer them to support and, as a last resort, close accounts. The sanctions commission's Decision 2026-031 (10 July 2026) fined an operator over failures on this duty, and the remedies recorded include ceasing monthly loyalty bonuses to excessive players — the first explicit link between bonus policy and sanction. Existing hard rules: mandatory self-set deposit and stake limits at account opening, a national self-exclusion register (~86,000 people in 2025 [ANJ brochure, approximate]), bans on credit, annual ANJ-approved action plans per operator (e.g. Decision 2026-016, PMU), and the ANJ-run 'Evalujeu' self-assessment.",
+          "Advertising is pre-controlled rather than merely policed. Decree 2020-1349 (4 Nov 2020) governs commercial communications — no targeting of minors, no association of gambling with social or financial success, mandatory health warnings — and each operator must obtain ANJ approval of its annual promotional strategy, with the ANJ empowered to order withdrawal of non-compliant communications; the 2023 influencer law confines gambling promotion to age-gated platforms [framework not re-verified this session]. The H1 2026 data will embarrass that framework: acquisition bonuses nearly quadrupled in June, total online bonuses reached 13.8% of GGR, and the ANJ had already warned before the tournament that 41% of French World Cup viewers intended to bet [trade-press report of an ANJ note]. We expect the ANJ to use 2027 promotional-strategy approvals to constrain bonus volumes and World Cup-style acquisition bursts, and the chair's call for 'adaptations to the regulatory framework' to translate into a bonus cap or a ban on bonuses for flagged players.",
+          "Payments in the licensed market are conventional. Each player holds a verified account with a single operator per licence; withdrawals must be made to a payment account in the player's own name; deposits are by bank card, bank transfer and regulated e-wallets/prepaid vouchers, with no credit and no crypto accepted by licensees [method shares n/a — not published by the ANJ]. There is no mobile-money layer as in African markets; the operational friction is KYC (identity and bank-account verification before withdrawal) and AML reporting to TRACFIN, not payment acceptance. Winnings are untaxed in players' hands for online betting and poker, which supports channelisation.",
+          "The online-casino question remains the structural gap. An amendment to the PLF 2025 tabled in October 2024 would have legalised online casino with a 55.6%-of-GGR tax (aligned with online lottery) and was withdrawn within about ten days after land-based casinos mobilised; the Bercy consultation that replaced it held a first plenary in November 2024, promised conclusions in Q1 2025, and has not resumed following the government's fall. As of April 2026 the ANJ confirmed the process was still suspended; a March 2026 Inspection générale des finances report is said to favour a conditional opening on a Belgian-style model [unverified], and no bill is scheduled for 2026. Realistically the earliest vehicle is the 2027 budget, with land-based licence holders likely to be structurally advantaged in any design. Adjacent frameworks are moving faster: the JONUM (Web3 monetisable digital objects) experimental regime took effect in early 2026 and the Paris gaming clubs were made permanent; neither offers a route to online slots."
+        ],
+        "table": {
+          "note": "Enforcement, RG and perimeter indicators",
+          "columns": [
+            "Value",
+            "Period",
+            "Source type",
+            "Note"
+          ],
+          "rows": [
+            {
+              "label": "Illegal online market",
+              "kind": "group"
+            },
+            {
+              "label": "Illegal online GGR (ANJ/PwC study)",
+              "cells": [
+                "€748m–€1.5bn (~$839m–$1,682m)",
+                "2023",
+                "regulator study",
+                "5–11% of total market; mostly online casino"
+              ]
+            },
+            {
+              "label": "Illegal players / GGR (AFJEL barometer)",
+              "cells": [
+                "5.4m / €2bn (~$2.2bn)",
+                "2025",
+                "industry lobby",
+                "advocacy figure; claims €1.2bn tax loss"
+              ]
+            },
+            {
+              "label": "Illegal sites blocked (cumulative)",
+              "cells": [
+                "1,337",
+                "to late 2025",
+                "ANJ brochure",
+                "administrative blocking since Mar 2022"
+              ]
+            },
+            {
+              "label": "2026 blocking orders",
+              "cells": [
+                "Polymarket, Stake, Cbet",
+                "Jul 2026",
+                "trade press",
+                "prediction markets treated as unlicensed betting"
+              ]
+            },
+            {
+              "label": "Responsible gambling",
+              "kind": "group"
+            },
+            {
+              "label": "Players flagged as likely excessive by ANJ algorithm",
+              "cells": [
+                "~600,000",
+                "May 2026",
+                "ANJ Decision 2026-118",
+                "≈15% of 4.06m online unique players"
+              ]
+            },
+            {
+              "label": "Self-exclusion register",
+              "cells": [
+                "~86,000",
+                "2025",
+                "ANJ brochure",
+                "approximate (OCR)"
+              ]
+            },
+            {
+              "label": "Sanctions precedent on excessive players / bonuses",
+              "cells": [
+                "Decision 2026-031",
+                "10 Jul 2026",
+                "ANJ sanctions commission",
+                "operator ceased monthly loyalty bonuses to excessive players"
+              ]
+            },
+            {
+              "label": "Mandatory player tools",
+              "cells": [
+                "deposit & stake limits at sign-up; moderators; self-exclusion",
+                "in force",
+                "Law 2010-476 & decrees",
+                "no credit; account in player's name"
+              ]
+            },
+            {
+              "label": "Advertising",
+              "kind": "group"
+            },
+            {
+              "label": "Framework",
+              "cells": [
+                "Decree 2020-1349; ANJ-approved annual promotional strategies",
+                "in force",
+                "legislation / ANJ",
+                "health warnings mandatory; ANJ can order withdrawal"
+              ]
+            },
+            {
+              "label": "Online bonuses (all products)",
+              "cells": [
+                "€199m (~$223m); 13.8% of GGR",
+                "H1 2026",
+                "ANJ report",
+                "+28% YoY; June acquisition bonuses ×~4"
+              ]
+            },
+            {
+              "label": "Perimeter",
+              "kind": "group"
+            },
+            {
+              "label": "Online casino status",
+              "cells": [
+                "illegal; consultation suspended",
+                "Oct 2026",
+                "ANJ / press",
+                "PLF 2025 amendment (55.6% GGR) withdrawn Oct 2024"
+              ]
+            },
+            {
+              "label": "JONUM (Web3 games) experimental regime",
+              "cells": [
+                "in force",
+                "early 2026",
+                "ANJ FY2025 review",
+                "adjacent, not gambling"
+              ]
+            },
+            {
+              "label": "Paris gaming clubs",
+              "cells": [
+                "made permanent",
+                "2026",
+                "ANJ FY2025 review",
+                "FY2025 GGR €97m (-21%)"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Illegal market enforcement",
+            "takeaway": "The ANJ has blocked 1,337 illegal sites and in July 2026 blocked Polymarket, Stake and Cbet; the illegal market is dominated by online casino.",
+            "points": [
+              "Administrative blocking and de-listing powers obtained March 2022.",
+              "ANJ/PwC sizes the illegal market at €748m–€1.5bn GGR, 5–11% of the total market.",
+              "AFJEL claims 5.4m players, €2bn illegal GGR and €1.2bn foregone tax; these are advocacy figures and should be weighted accordingly.",
+              "Channelisation in sports betting and poker is high, while slot/casino demand leaks entirely offshore."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Responsible gambling",
+            "takeaway": "Decision 2026-118 gave operators an excessive-player algorithm flagging ~600,000 players, ~15% of 4.06m unique players, with sanctions now tied to bonuses.",
+            "points": [
+              "Operators must identify numbers 'consistent with the size of their player pool', contact, impose moderators, refer to support and close accounts as last resort.",
+              "Sanctions Decision 2026-031 (10 July 2026) fined an operator; remedies include ceasing monthly loyalty bonuses to excessive players — first explicit bonus-sanction link.",
+              "Hard rules: mandatory deposit and stake limits, self-exclusion register (~86,000 people in 2025), credit bans, annual ANJ-approved action plans, 'Evalujeu'."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Advertising controls",
+            "takeaway": "Advertising is pre-controlled via Decree 2020-1349 and annual ANJ promotional-strategy approval; we expect 2027 approvals to constrain bonus volumes.",
+            "points": [
+              "Rules: no targeting of minors, no association with social or financial success, mandatory health warnings; 2023 influencer law confines promotion to age-gated platforms.",
+              "H1 2026 data: acquisition bonuses nearly quadrupled in June, total online bonuses 13.8% of GGR; ANJ warned 41% of French World Cup viewers intended to bet.",
+              "Chair's call for 'adaptations to the regulatory framework' expected to become a bonus cap or a ban on bonuses for flagged players."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Payments",
+            "takeaway": "Payments are conventional: verified single accounts, withdrawals to own-name accounts, no credit or crypto; friction is KYC and AML, not acceptance.",
+            "points": [
+              "Deposits by bank card, transfer and regulated e-wallets/prepaid vouchers; method shares not published by the ANJ.",
+              "No mobile-money layer as in African markets; AML reporting to TRACFIN.",
+              "Online betting and poker winnings untaxed in players' hands, supporting channelisation."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Online casino question",
+            "takeaway": "Online casino legalisation stays frozen; the earliest realistic vehicle is the 2027 budget, with land-based licence holders structurally advantaged.",
+            "points": [
+              "October 2024 PLF 2025 amendment proposed a 55.6%-of-GGR tax and was withdrawn within about ten days after land-based casinos mobilised.",
+              "Bercy consultation held one plenary in November 2024 and has not resumed; ANJ confirmed suspension as of April 2026; no bill scheduled for 2026.",
+              "A March 2026 IGF report is said to favour a conditional Belgian-style opening [unverified].",
+              "JONUM experimental regime took effect early 2026 and Paris gaming clubs were made permanent; neither offers a route to online slots."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Competitive online pool is large and still compounding: €1,449m (~$1,625m) GGR in H1 2026, +11% (vs +8.2% in H1 2025), on an FY2025 base of €2,617m; with all three products growing for the first time in several years, FY2026 online GGR of ~€2.85–2.9bn (~$3.2bn) is plausible [estimate].",
+        "tag": "structural"
+      },
+      {
+        "text": "Record and diversifying player base: 5.85m active accounts (+24%) and 4.06m unique players (+17%), with accounts-per-player up to 1.44 — new brands can win trial, as bet365, Betsson and DAZN Bet have shown since 2025.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Poker is an under-bonused growth adjacency: GGR +13.4% with acquisition bonuses −15%, Sit&Go accelerating to ~+30% YoY by June and poker players now 44% of online uniques — cross-sell economics favour a sportsbook-plus-poker licence pair.",
+        "tag": "structural"
+      },
+      {
+        "text": "Monopoly erosion creates share: PMU's share fell to 13.8% (15.8% two years ago) and online horse-race stakes +15.8% are migrating pari-mutuel volume to licensed online books; FDJ retail sports betting (−1.1%) continues to lose relative ground to online.",
+        "tag": "structural"
+      },
+      {
+        "text": "Licensing cost is negligible and the perimeter is legally clear: €5–10k application, €20–40k annual, 5-year renewable agréments, no local-ownership or server-location mandates beyond an EU/EEA seat and ANJ-accessible archiving.",
+        "tag": "structural"
+      },
+      {
+        "text": "High channelisation in licensed products: untaxed player winnings, a 1,337-site blocking record and the July 2026 Polymarket/Stake orders keep sports and poker demand onshore, limiting black-market price competition in those verticals.",
+        "tag": "structural"
+      },
+      {
+        "text": "World Cup 2026 showed the market still responds to events: June stakes +47%, 3.14m monthly actives (+69%), FDJ United group tournament stakes >€700m — the H2 retention data (FY report ~April 2027) will tell operators the true event ROI.",
+        "tag": "one-off"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Highest tax burden in Europe and rising: 59.3% of GGR on online sports betting since 1 July 2025 (from 54.9%), poker social levy now 10% of GGR, and gambling has become a recurring revenue line in a strained budget cycle — PLFSS/PLF 2027 is a live risk for further increases or a winnings tax.",
+        "tag": "structural"
+      },
+      {
+        "text": "Bonus inflation is outrunning revenue: online bonuses +28% to €199m, 13.8% of GGR; sports bonuses 12.9% of GGR and acquisition spend ×~4 in June — a CAC war among 16 licensees on a 41%-of-GGR net base.",
+        "tag": "watch"
+      },
+      {
+        "text": "Growth is event-dependent and per-account monetisation is falling: Jan–May sports stakes only +4%; stakes per active account −14%; poker GGR per account −18%; horse-racing hold down 2.3pt to 17.8%.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Regulatory direction is uniformly restrictive: ANJ algorithm flags ~600k excessive players (~15% of uniques), a July 2026 sanction tied remedies to bonus withdrawal, the chair calls for a 'less intensive' model, and the Oct 2026 niche-leagues note points to tighter content rules — expect bonus caps and marketing constraints from the 2027 promotional-strategy cycle.",
+        "tag": "governance"
+      },
+      {
+        "text": "No online casino, and no credible path before 2027: the 2024 amendment was withdrawn, the Bercy consultation is dormant, land-based casinos (FY2025 GGR €2.8bn, +3.4%) remain opposed — the ~€0.75–1.5bn (regulator) to €2bn (industry) of casino demand stays offshore.",
+        "tag": "structural"
+      },
+      {
+        "text": "Monopoly incumbents are also the best-capitalised competitors: FDJ United (61% of ex-casino GGR, €1.96bn net debt, Baa1) runs Unibet in the open market and PMU holds all three online licences; both have political weight in setting racing levies and content lists.",
+        "tag": "structural"
+      },
+      {
+        "text": "Horse racing economics are deteriorating for everyone: online hold fell from 20.1% to 17.8%, PMU raised retail RTP by 1pt, the racing industry's funding was cut 9.6% to €725m — pressure to raise the racing companies' levy (set by decree) on online operators is the likely response.",
+        "tag": "watch"
+      }
+    ],
+    "forecast": {
+      "intro": "The market bridge from H1 2025 to H1 2026 is simple and uncomfortable: headline growth fell from +4.1% to +0.5% because the two exclusive-rights operators swung from contributing +2.7pt (FDJ United alone, H1 2025) to subtracting 2.0pt combined (FDJ United −1.2pt on a weak EuroMillions cycle and heatwaves; PMU −0.8pt on a structural, accelerating decline), while the competitive online segment lifted its contribution to +2.5pt (sports betting +11.6%, poker +13.4%, horse racing +2.8%) — but with a June that supplied most of the sports growth on a near-quadrupling of acquisition bonuses. FY2025 context: the full market grew 3.0% to €14.1bn (~$15.8bn) with online at 18.5%; FDJ United now guides to flat FY2026 French-network GGR and the ANJ flags that full-year online growth depends on post-World Cup retention of a record 5.85m active accounts.",
+      "bridge": [
+        {
+          "title": "H1 2025 market growth (excl. casinos)",
+          "value": "+4.1%",
+          "change": "FDJ United contributed +2.7pt"
+        },
+        {
+          "title": "Online segment contribution, H1 2026",
+          "value": "+2.5pt",
+          "change": "sports +7.9pt, poker +2.6pt, horse +0.3pt of online's +11%"
+        },
+        {
+          "title": "FDJ United exclusive rights",
+          "value": "-1.2pt",
+          "change": "lottery -€64m (draw games -7.6%); retail SB -1.1%"
+        },
+        {
+          "title": "PMU exclusive rights → H1 2026 market growth",
+          "value": "-0.8pt → +0.5%",
+          "change": "PMU GGR -5.8%, stakes -3.8%"
+        }
+      ],
+      "view": "**Market:** we expect FY2026 ex-casino GGR of roughly €11.2–11.4bn (~$12.6–12.8bn), flat to +1% [estimate], with FDJ United's H2 lottery promotional push offsetting PMU's continued −3% to −5% slide, and online GGR of ~€2.85–2.9bn (+9–11%) [estimate] as the July World Cup final adds to Q3 before a tougher Q4 comparison; online penetration should end 2026 above 26% of the ex-casino market and above 20% all-in. **Margins:** the 59.3% levy is fixed for 2026 but operator economics will be squeezed by bonus inflation (we expect bonuses to stay above 13% of online GGR for the year) and by hold normalisation after an unusually strong January/May; expect at least one smaller licensee to exit or be acquired within 18 months, and consolidation around Winamax, Betclic, Unibet/FDJ United, bet365 and PMU. **Regulation:** the base case is no new levy increase in the 2027 budget but a non-trivial (one-in-three) risk of either a further social-levy step or an extension of the 13.7% winnings levy to betting/lottery; the ANJ will tighten promotional-strategy approvals for 2027 (bonus volume ceilings, restrictions on bonuses to flagged players, event-period limits) and push adoption of its excessive-player algorithm with sanctions as the enforcement tool; online casino legalisation remains off the table until at least the PLF 2027 debate, with any eventual design favouring land-based licence holders. **Leverage/structure:** PMU's 'Pacte PMU 2030' and the −9.6% cut in racing funding make an increase in the racing companies' levy on online horse-race betting (by decree) more likely than any liberalisation; FDJ United's review of its online markets could bring portfolio sales but not a retreat from France. Net: France is a mature, slow-growing, high-tax market that rewards scale, CAC discipline and compliance capacity — attractive as a top-up for an established European operator, unattractive as a greenfield entry.",
+      "watch": [
+        "PLFSS/PLF 2027 debates (autumn 2026 – early 2027): any change to the 15% social levy on online sports betting, the 10% poker levy, or extension of the 13.7% winnings levy to betting and lottery.",
+        "ANJ FY2026 market review (~April 2027) and the H2 2026 retention of the 5.85m active accounts and 3.14m June monthly actives — the real World Cup ROI test; also FDJ United's Q3 revenue (21 Oct 2026) for the first read on post-tournament lottery and online trends.",
+        "ANJ 2027 promotional-strategy approvals and any decree or guideline capping bonuses or restricting them to flagged players, following Decision 2026-118 (algorithm) and sanctions Decision 2026-031; further sanctions naming operators.",
+        "Online casino: any restart of the Bercy consultation, publication of the IGF report, or a PLF 2027 amendment; land-based casino sector positioning.",
+        "PMU 'Pacte PMU 2030' (governance under Giraudat/Woerth), the 2027 racing-funding budget and the annual decree setting the racing companies' levy on online horse-race betting.",
+        "ANJ action on content: evolution of the authorised 'liste sport' after the Oct 2026 note on niche football leagues and excessive bettors; further blocking of prediction-market platforms.",
+        "Licence cycle: new applications (post-bet365/Betsson/DAZN wave) and 2027 five-year renewals; any exits among smaller sports-only licensees under the 59.3% regime."
+      ]
+    },
+    "confidence": "HIGH",
+    "confidenceNote": "FX: EUR/USD 1.1212 as of 15 Oct 2026 (ANJ release date); all ~US$ figures converted at this rate. Market, segment, player and bonus figures are taken directly from the ANJ's H1 2026 report (text and OCR'd monthly annexes, which reconcile to reported totals: stakes €6,616.5m, GGR €995.2m, bonuses €128.9m) and the ANJ FY2025 review, cross-checked against FDJ United's H1 2026 release and the European Gaming article. Levy rates are from FDJ United's 2025 interim report/2025 outlook release and Légifrance snippets. Items NOT verified in this session and flagged in the text: the French state levy on poker stakes (post-2025 status), the land-based casino levy scale, payment-method shares, the 2023 influencer-law detail, the March 2026 IGF report on online casino, operator market shares (ANJ does not publish), the ~86,000 self-exclusion figure (OCR of ANJ brochure), and the implied tax-take figures (modelled estimates). H1 2025 comparatives are implied from ANJ growth rates and reflect the ANJ's 2025 perimeter restatement.",
+    "sources": [
+      {
+        "label": "ANJ – Bilan du marché des jeux d'argent au 1er semestre 2026 (press page, 15 Oct 2026)",
+        "kind": "primary",
+        "url": "https://anj.fr/bilan-du-marche-des-jeux-dargent-au-1er-semestre-2026"
+      },
+      {
+        "label": "ANJ – Analyse semestrielle des jeux d'argent et de hasard en France, premier semestre 2026 (PDF, 14 pp, incl. monthly annexes)",
+        "kind": "primary",
+        "url": "https://anj.fr/sites/default/files/2026-10/Rapport%201er%20semestre%202026.pdf"
+      },
+      {
+        "label": "ANJ – Bilan 2025 du marché des jeux d'argent (16 Apr 2026): FY2025 market size, casinos, clubs, online data table",
+        "kind": "primary",
+        "url": "https://anj.fr/bilan-2025-du-marche-des-jeux-dargent"
+      },
+      {
+        "label": "ANJ – Opérateurs agréés (licensed operator register, consulted 19 Oct 2026)",
+        "kind": "primary",
+        "url": "https://anj.fr/offre-de-jeu-et-marche/operateurs-agrees"
+      },
+      {
+        "label": "ANJ – Décision n°2026-118: algorithme d'identification des joueurs excessifs ou pathologiques (26 May 2026)",
+        "kind": "primary",
+        "url": "https://www.anj.fr/sites/default/files/2026-05/D%C3%A9cision%20N%C2%B02026-118_Algorithme%20d'identification%20des%20joueurs%20excessifs%20ou%20pathologiques.pdf"
+      },
+      {
+        "label": "ANJ – Commission des sanctions, Décision n°2026-031 (10 Jul 2026)",
+        "kind": "primary",
+        "url": "https://anj.fr/sites/default/files/2026-07/D%C3%A9cision%20n%C2%B02026-031%20du%2010072026.pdf"
+      },
+      {
+        "label": "ANJ – Décision n°2026-016: plan d'actions jeu excessif 2026, Pari Mutuel Urbain",
+        "kind": "primary",
+        "url": "https://anj.fr/sites/default/files/2026-01/D%C3%A9cision%20n%C2%B02026-016_Plan_Action_Jeu%20Excessif_2026_PARI%20MUTUEL%20URBAIN.pdf"
+      },
+      {
+        "label": "ANJ – Plaquette institutionnelle 2025 (sites bloqués, fichier des interdits de jeux)",
+        "kind": "primary",
+        "url": "https://anj.fr/sites/default/files/2025-11/Plaquette%20ANJ%20-%202025.pdf"
+      },
+      {
+        "label": "ANJ – Décision 2024-108, renouvellement d'agrément paris sportifs en ligne Zeturf (licence terms: 5 years, renewable, non-transferable)",
+        "kind": "primary",
+        "url": "https://anj.fr/sites/default/files/2024-04/D%C3%A9cision%202024-108_Renouvellement_Agr%C3%A9ment_ParisSportifsEnLigne_Zeturf.pdf"
+      },
+      {
+        "label": "ANJ – Décision 2025-125, renouvellement d'agrément paris sportifs en ligne PMU",
+        "kind": "primary",
+        "url": "https://www.anj.fr/sites/default/files/2025-06/D%C3%A9cision%202025-125_Renouvellement_Agr%C3%A9ment_ParisSportifsEnLigne_PMU.pdf"
+      },
+      {
+        "label": "Légifrance – CGI art. 1012 (droit fixe dû par les opérateurs de jeux ou de paris en ligne)",
+        "kind": "primary",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022212536/2012-05-07"
+      },
+      {
+        "label": "Légifrance – CGI annexe III art. 313 BR–313 BRB (licence fee amounts)",
+        "kind": "primary",
+        "url": "https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069574&idSectionTA=LEGISCTA000022219970&dateTexte=20200101"
+      },
+      {
+        "label": "Légifrance – CGI Section XI, prélèvements au profit de l'Agence nationale du sport (art. 1609 tricies: 6.6% retail / 10.6% online)",
+        "kind": "primary",
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000022798914/"
+      },
+      {
+        "label": "FDJ United – Résultats du 1er semestre 2026 (Business Wire, 29 Jul 2026)",
+        "kind": "primary",
+        "url": "https://www.businesswire.com/news/home/20260729118999/fr"
+      },
+      {
+        "label": "FDJ United – Interim financial report 30 June 2025 (levy rates by vertical from 1 Jul 2025)",
+        "kind": "primary",
+        "url": "https://www.fdjunited.com/wp-content/uploads/2025/07/vENDefGroupeFDJUNITED-RFS-30juin2025.pdf"
+      },
+      {
+        "label": "FDJ United – 2024 results / 2025 outlook affected by increased taxes (6 Mar 2025)",
+        "kind": "primary",
+        "url": "https://www.fdjunited.com/presse/very-strong-performance-in-2024-2025-outlook-affected-by-increased-taxes-on-betting-and-gaming-in-france/"
+      },
+      {
+        "label": "Assemblée nationale – amendement PLF n°2402 (13.7% levy on casino winnings >€1,500; proposed extension)",
+        "kind": "primary",
+        "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/0325/AN/2402.pdf"
+      },
+      {
+        "label": "European Gaming – French gambling growth slows to 0.5% in H1 2026, carried by online (19 Oct 2026)",
+        "kind": "secondary",
+        "url": "https://europeangaming.eu/portal/latest-news/2026/10/19/216197/french-gambling-market-h1-2026/"
+      },
+      {
+        "label": "European Gaming – Europe gambling tax rates 2026 (France 59.3% breakdown)",
+        "kind": "secondary",
+        "url": "https://europeangaming.eu/portal/gambling-tax-rates-europe/"
+      },
+      {
+        "label": "iGaming Business – FDJ expecting €45m impact from French gambling tax increases (Mar 2025)",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/legal-compliance/regulation/fdj-french-tax-increase-impact-2025/"
+      },
+      {
+        "label": "Le Monde du Tabac / Les Échos – alourdissement général de la fiscalité des jeux (Feb 2025)",
+        "kind": "secondary",
+        "url": "https://www.lemondedutabac.com/fdj-pmu-operateurs-de-jeux-en-ligne-un-alourdissement-general-de-la-fiscalite-les-echos/"
+      },
+      {
+        "label": "Altenar – Gambling laws & compliance in France: operator's guide (tax components)",
+        "kind": "secondary",
+        "url": "https://altenar.com/en-us/blog/gambling-laws-compliance-in-france-the-operator-s-guide-to-market-entry/"
+      },
+      {
+        "label": "AFJEL – Baromètre sur l'offre illégale de jeux en ligne (5 Nov 2025) [industry lobby]",
+        "kind": "secondary",
+        "url": "https://afjel.fr/2025/11/05/barometre-afjel-sur-loffre-illegale-de-jeux-en-ligne-la-france-depasse-le-stade-critique-des-54-millions-de-joueurs-en-2025/"
+      },
+      {
+        "label": "franceinfo – Casinos en ligne : le gouvernement suspend leur légalisation (Oct 2024)",
+        "kind": "secondary",
+        "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/casinos-en-ligne-le-gouvernement-suspend-leur-legalisation_6835988.html"
+      },
+      {
+        "label": "jouerenlignefr.org – Casinos en ligne en France : la légalisation reste suspendue (Apr 2026)",
+        "kind": "secondary",
+        "url": "https://www.jouerenlignefr.org/blog/casinos-en-ligne-france-legalisation-suspendu-avril-2026"
+      },
+      {
+        "label": "jeuxcasino.com – Casino en ligne et budget 2027 : la loi dort mais le marché s'organise (Sep 2026)",
+        "kind": "secondary",
+        "url": "https://www.jeuxcasino.com/actualites/casino-ligne-budget-2027-loi-dort-mais-marche-sorganise-112257"
+      },
+      {
+        "label": "ClubPoker – L'algorithme de l'ANJ débarque (600,000 excessive players, May 2026)",
+        "kind": "secondary",
+        "url": "https://www.clubpoker.net/algorithme-anj-debarque-n-est-content/n-20453"
+      },
+      {
+        "label": "Gambling Insider – L'ANJ ordonne le blocage de Polymarket en France (Jul 2026)",
+        "kind": "secondary",
+        "url": "https://www.gamblinginsider.com/fr/actualites/106304/anj-ordonne-blocage-polymarket-france"
+      },
+      {
+        "label": "MercatoLive – L'ANJ obtient le blocage des sites Cbet et Stake (Jul 2026)",
+        "kind": "secondary",
+        "url": "https://mercatolive.fr/lanj-obtient-le-blocage-des-sites-de-paris-illegaux-cbet-et-stake-en-france/"
+      },
+      {
+        "label": "Le Klub Extraordinaire – ANJ illegal-offer study figures (€748m–€1.5bn) and blocking powers since Mar 2022",
+        "kind": "secondary",
+        "url": "https://leklubextraordinaire.fr/lutter-contre-loffre-illegale-anj/"
+      },
+      {
+        "label": "exchange-rates.org – EUR/USD on 15 Oct 2026 (1 EUR = 1.1212 USD)",
+        "kind": "secondary",
+        "url": "https://www.exchange-rates.org/exchange-rate-history/eur-usd-2026-10-15"
+      }
+    ],
+    "docType": "regulator"
+  }
+}

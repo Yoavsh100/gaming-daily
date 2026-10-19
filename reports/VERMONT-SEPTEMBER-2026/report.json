@@ -1,0 +1,1668 @@
+{
+  "company": {
+    "name": "Vermont",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "SEPTEMBER 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 799706,
+    "output": 42351,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 52,
+    "cacheRead": 747912,
+    "cacheWrite": 51742,
+    "turns": 1
+  },
+  "prepared": "19 Oct 2026",
+  "report": {
+    "releaseDate": "15 Oct 2026 (DLL September 2026 Sports Wagering Summary Report; press coverage 19 Oct 2026)",
+    "currency": "USD (market reports in US dollars; tables in $ as stated — no FX conversion required)",
+    "verdict": "Vermont is a tiny, closed, mobile-only sports-betting market: September 2026 handle of $19.76m (-1% YoY) produced $1.71m of adjusted gross sports wagering revenue (AGR) on an 8.66% adjusted hold and $542,813 for the state at a 31.7% blended revenue share. Thirty-two months after launch, handle growth has stalled and revenue is now hold-driven rather than volume-driven; with only three state-contracted operators and no open licensing route, the market is an option on a future re-procurement rather than an addressable entry today.",
+    "kpis": [
+      {
+        "label": "Handle (online, Sep-26)",
+        "value": "$19.76m",
+        "delta": "-1% YoY (Gaming Intelligence); 100% mobile",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. gross sports wagering revenue",
+        "value": "$1.71m",
+        "delta": "Double-digit YoY growth (GI); adjusted hold 8.66%",
+        "dir": "up"
+      },
+      {
+        "label": "State revenue share",
+        "value": "$542,813",
+        "delta": "31.7% of AGR; double-digit YoY (implied)",
+        "dir": "up"
+      },
+      {
+        "label": "Active users",
+        "value": "23,795",
+        "delta": "45.6% out-of-state accounts; YoY n/a",
+        "dir": "flat"
+      },
+      {
+        "label": "Bets / average stake",
+        "value": "770,857 / $25.63",
+        "delta": "~25.7k bets per day; in-state avg $22.31 vs out-of-state $37.65",
+        "dir": "flat"
+      },
+      {
+        "label": "Contracted operators",
+        "value": "3",
+        "delta": "DraftKings, FanDuel, Fanatics; statute permits 2–6",
+        "dir": "flat"
+      }
+    ],
+    "summary": [
+      "**Market definition — online sports betting is the only regulated commercial gambling vertical.** Vermont has no commercial or tribal casinos, no retail sportsbooks and no iGaming; the Department of Liquor and Lottery (DLL) runs the state lottery and administers mobile sports wagering, which launched on 11 January 2024 under legislation signed in June 2023. Online penetration of sports betting is therefore 100% by construction.",
+      "**September 2026 handle $19,758,552, -1% YoY.** The DLL summary report shows handle of $19.76m against winning payouts of $17.84m; Gaming Intelligence puts the decline at 1% YoY, implying September 2025 handle of roughly $19.96m. September is the first NFL month, so a flat print is a meaningful signal that volume growth has plateaued.",
+      "**Revenue up double digits on a better hold.** Adjusted gross sports wagering revenue (AGR — handle less payouts, voids/resettlements, federal excise and promotional deductions) was $1,710,695, an adjusted hold of 8.66% (gross hold before deductions 9.73%). Gaming Intelligence characterises the YoY revenue increase as double-digit, which implies a September 2025 AGR of no more than ~$1.56m and a hold of ≤7.8% a year earlier.",
+      "**State take $542,813 at a 31.7% blended revenue share.** Vermont does not levy a conventional tax; operators remit a contractually bid percentage of AGR. The report's 31.7% blended rate yields $542,813 for September, leaving operators a combined $1.17m before their own costs. The 0.25% federal excise on handle (~$49k) sits inside the deductions line.",
+      "**Deductions are small — ~1.07% of handle.** The $211,718 of resettlements, voids, federal tax and promotional credits deducted equals 1.07% of handle; net of the federal excise, voids and promo together are only ~0.8% of handle (estimate). This indicates low promotional intensity in a mature, three-operator market and limited erosion of the state's base.",
+      "**Football already 35% of handle; 'All Other' a third.** Football $6.89m (34.9%), baseball $2.94m (14.9%), table tennis $1.28m (6.5%), soccer $1.17m (5.9%), tennis $0.89m (4.5%), with $6.58m (33.3%) in all other categories (likely parlays/multi-sport, basketball, golf, combat sports — the DLL does not itemise).",
+      "**Bettor base: 23,795 actives placed 770,857 bets at $25.63 average.** In-state accounts: 12,934 actives, 603,879 bets, $13.47m handle (68.2%), $22.31 average bet, ~$1,042 handle per active. Out-of-state accounts: 10,861 actives, 166,978 bets, $6.29m (31.8%), $37.65 average bet, ~$579 per active. AGR per active ~$72; state share per active ~$23.",
+      "**Cross-border demand is structural, not seasonal.** Out-of-state accounts contributed 31.8% of September 2026 handle; in August 2024 the equivalent split was $3.5m of $11.3m (~31%). Visitors (foliage, ski and border-county traffic from NH, NY, MA and Québec) bet fewer, larger tickets. Any entrant's Vermont P&L is partly a tourism P&L.",
+      "**Annual trajectory: 2025 handle +18.3%, state share +14.3%.** DLL data reported by WCAX: handle $235,089,458 in CY2025 vs $198,754,297 in CY2024; state revenue $7,252,813 vs $6,346,073. Implied AGR ~$22.9m (CY2025) vs ~$20.0m (CY2024) at the ~31.7% blended rate (estimates); implied hold slipped from ~10.1% to ~9.7%. September 2026 equals 8.4% of CY2025 handle.",
+      "**Licensing is a procurement, not an open regime.** The statute allowed two to six operators; five bid in 2023 and the Board of Liquor and Lottery selected three — DraftKings, FanDuel and Fanatics — while BetMGM and PENN's ESPN Bet (now theScore Bet) were excluded. There is no application window; entry requires the DLL to run a new RFP or an incumbent to exit. Initial contract term reported at launch as three years [unverified this cycle] — if so, the first renewal/re-bid window falls around January 2027.",
+      "**Revenue-share bids reported at launch: FanDuel 33%, DraftKings and Fanatics 31%, statutory floor 20%, plus an annual operator fee of $550,000 per operator [parameters unverified this cycle; consistent with the 31.7% blended rate the DLL reports].** Effective burden (31–33% of AGR + 0.25% of handle federal excise) is among the higher US state regimes outside the 51% monopoly states (NY, NH, RI).",
+      "**Consumer rules: 21+, in-state geolocation, no betting on collegiate events in Vermont or involving Vermont colleges (e.g., UVM).** Retail wagering is not permitted. The DLL operates a public player-complaint channel and a statewide self-exclusion programme; the Department of Mental Health runs problem-gambling services funded in part from wagering revenue and reports rising 1-800-GAMBLER utilisation.",
+      "**Payments follow the US mobile model** — ACH/online banking, debit cards and e-wallets (PayPal/Venmo/Apple Pay) and prepaid cards; credit-card funding is prohibited under DLL rules [unverified this cycle]. No mobile-money layer; KYC/SSN requirements effectively exclude Canadian visitors despite proximity to Québec.",
+      "**Advertising is rule-based rather than prescriptive on volumes:** no targeting of under-21s or college campuses, mandatory responsible-gambling messaging and hotline, and DLL oversight of promotional terms [unverified this cycle]. The low promo deduction (~0.8% of handle) suggests the market has moved past acquisition-heavy spending.",
+      "**Political direction: incremental digital expansion, with audible scepticism.** The 2026 session considered H.669 to authorise online lottery sales (Commissioner Wendy Knight projected $2.5m incremental in year one rising to ~$10m, roughly a 30% uplift on current lottery proceeds), with retailer revenue-sharing to be set; some legislators continue to frame gambling as a regressive tax. No iGaming bill has advanced [to the best of our review this cycle]. H.669's final status after the session is n/a — not verified.",
+      "**Fiscal performance versus expectation is on-target, not exceptional.** The state was told to expect up to $7m in the first full year; it received $6.35m in 2024 and $7.25m in 2025. September 2026 annualised (×12, no seasonality adjustment) would be $6.5m — the run-rate is flat-to-slightly-below 2025 unless Q4 NFL/NBA months outperform.",
+      "**Read-through for B2Tech: a watch-list market, not an entry target.** Addressable AGR is ~$20–25m a year split three ways; a fourth operator at a 20–33% revenue share plus a $550k fee would need ~$3–4m of AGR (12–15% share) just to cover fee and marketing. The only credible route is a competitively priced bid in a future RFP, a B2B supply relationship, or participation in an iLottery/iGaming expansion should the legislature move.",
+      "**Data confidence is medium.** September 2026 figures are verified from the regulator's own PDF; YoY deltas rely on Gaming Intelligence; the August 2026 and September 2025 DLL PDFs were not retrieved this cycle, so MoM comparisons are n/a and statutory parameters are flagged where not re-read."
+    ],
+    "groupTable": {
+      "note": "Vermont — US $ (market reports in USD)",
+      "columns": [
+        "Sep-26",
+        "YoY",
+        "CY2025",
+        "CY2024",
+        "CY YoY"
+      ],
+      "rows": [
+        {
+          "label": "Volume & revenue (online sports betting = 100% of regulated commercial gambling)",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Handle (stakes), online",
+          "kind": "emphasis",
+          "cells": [
+            "$19,758,552",
+            "-1% (GI)",
+            "$235,089,458",
+            "$198,754,297",
+            "+18.3%"
+          ]
+        },
+        {
+          "label": "Winning payouts",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "$17,836,139",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Gross win before deductions (gross hold)",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "$1,922,413 (9.73%)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Less: resettlements, voids, federal excise, promo",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "$211,718 (1.07% of handle)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Adjusted gross sports wagering revenue (AGR)",
+          "kind": "emphasis",
+          "cells": [
+            "$1,710,695",
+            "+double-digit (GI)",
+            "~$22.9m (est.)",
+            "~$20.0m (est.)",
+            "~+14% (est.)"
+          ],
+          "footnote": "CY AGR estimated as state share ÷ 31.7% blended rate; DLL year-end AGR not retrieved this cycle."
+        },
+        {
+          "label": "Adjusted hold (AGR ÷ handle)",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "8.66%",
+            "up (implied)",
+            "~9.7% (est.)",
+            "~10.1% (est.)",
+            "down"
+          ]
+        },
+        {
+          "label": "Retail sportsbook / casino / iGaming GGR",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "nil — not permitted",
+            "—",
+            "nil",
+            "nil",
+            "—"
+          ]
+        },
+        {
+          "label": "Online penetration of sports betting",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "100%",
+            "—",
+            "100%",
+            "100%",
+            "—"
+          ]
+        },
+        {
+          "label": "Fiscal take",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "State revenue share (contractual % of AGR)",
+          "kind": "emphasis",
+          "cells": [
+            "$542,813",
+            "+double-digit (implied)",
+            "$7,252,813",
+            "$6,346,073",
+            "+14.3%"
+          ]
+        },
+        {
+          "label": "Blended revenue-share rate",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "31.7%",
+            "flat",
+            "~31.7%",
+            "~31.7%",
+            "flat"
+          ]
+        },
+        {
+          "label": "Federal excise (0.25% of handle, inside deductions)",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "~$49,400 (est.)",
+            "n/a",
+            "~$588k (est.)",
+            "~$497k (est.)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Operator net after state share (pre-costs)",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "$1,167,882",
+            "n/a",
+            "~$15.6m (est.)",
+            "~$13.7m (est.)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Players & activity",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Active users (in-state / out-of-state)",
+          "kind": "line",
+          "cells": [
+            "23,795 (12,934 / 10,861)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Number of bets",
+          "kind": "line",
+          "cells": [
+            "770,857",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Average bet",
+          "kind": "line",
+          "cells": [
+            "$25.63",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Out-of-state share of handle",
+          "kind": "line",
+          "cells": [
+            "31.8%",
+            "≈ stable vs ~31% in Aug-24",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Licensing & tax parameters",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Contracted operators (statutory range 2–6)",
+          "kind": "line",
+          "cells": [
+            "3",
+            "unch.",
+            "3",
+            "3",
+            "—"
+          ]
+        },
+        {
+          "label": "Revenue share by operator (bid)",
+          "kind": "line",
+          "cells": [
+            "FanDuel 33% / DraftKings 31% / Fanatics 31% [unverified this cycle]",
+            "—",
+            "same",
+            "same",
+            "—"
+          ]
+        },
+        {
+          "label": "Statutory minimum revenue share",
+          "kind": "line",
+          "cells": [
+            "20% of AGR [unverified this cycle]",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Annual operator fee",
+          "kind": "line",
+          "cells": [
+            "$550,000 per operator [unverified this cycle]",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Tax base",
+          "kind": "line",
+          "cells": [
+            "AGR (net of winnings, voids, federal excise, promo) — not turnover",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Online sports betting — September 2026 result",
+        "headline": "Flat handle, better hold: $19.76m staked (-1% YoY) yielded $1.71m AGR at 8.66% and $0.54m for the state.",
+        "narrative": [
+          "The DLL's September 2026 summary report records total handle receipts of **$19,758,552**, winning payouts of $17,836,139 and $211,718 of resettlements, voids, federal tax and promotional deductions, leaving adjusted gross sports wagering revenue of **$1,710,695**. Gross hold before deductions was 9.73% and adjusted hold 8.66%; the state's revenue share at the reported 31.7% blended rate was $542,813. Gaming Intelligence reports handle down 1% YoY with double-digit revenue growth, which implies September 2025 handle of roughly $19.96m and AGR of no more than ~$1.56m (hold ≤7.8%). Revenue growth in the month is therefore entirely margin, not volume.",
+          "September is the first full NFL month and historically the inflection from the summer trough. The 2024 pattern — July handle $9.5m, August $11.3m — shows how deep that trough is; a September print of $19.8m that merely matches the prior year means the autumn ramp is no longer compounding. Set against CY2025 handle of $235.1m (+18.3% on 2024), the September figure equals 8.4% of last year's annual total, consistent with a market whose annual growth has decelerated from high-teens toward low single digits.",
+          "Football accounted for **$6,887,402 (34.9%)** of handle, baseball $2,940,769 (14.9%), table tennis $1,280,933 (6.5%), soccer $1,173,038 (5.9%) and tennis $893,941 (4.5%); the residual $6,582,469 (33.3%) is unitemised. Table tennis ranking third ahead of soccer and tennis points to a meaningful in-play, low-ticket volume segment typical of US mobile markets. Football's share will rise sharply in October–December, which is when the market's full-year hold and revenue are decided.",
+          "The deductions line is instructive for margin modelling. The federal excise at 0.25% of handle is ~$49k; the remaining ~$162k (0.82% of handle) covers voids, resettlements and promotional credits. For comparison, states that allow uncapped promo deductions routinely see 2–4% of handle netted out in NFL months. Either Vermont's contracts cap promotional deductions or the three incumbents have cut bonusing to a maintenance level — in both cases the state's 31.7% applies to a base that is close to true gross win, and an entrant should not plan on sheltering acquisition spend from the revenue share.",
+          "Commercially, September's economics are: $1.17m of operator-retained AGR across three brands, or ~$390k per operator per month before platform, marketing, payments and the share of the annual operator fee. At that scale the Vermont market is run as an incremental skin on national platforms; a standalone P&L would not clear a reasonable cost of capital."
+        ],
+        "table": {
+          "note": "US $ — Sep-26 (DLL summary report)",
+          "columns": [
+            "Sep-26",
+            "% of handle",
+            "YoY"
+          ],
+          "rows": [
+            {
+              "label": "Handle receipts",
+              "kind": "emphasis",
+              "cells": [
+                "$19,758,552",
+                "100.0%",
+                "-1% (GI)"
+              ]
+            },
+            {
+              "label": "Winning payouts",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "$17,836,139",
+                "90.27%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Gross win (pre-deductions)",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "$1,922,413",
+                "9.73%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Resettlements, voids, federal excise, promo",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "$211,718",
+                "1.07%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "  of which federal excise 0.25% (est.)",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "~$49,400",
+                "0.25%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "  of which voids/resettlements/promo (est.)",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "~$162,300",
+                "0.82%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Adjusted gross sports wagering revenue",
+              "kind": "emphasis",
+              "cells": [
+                "$1,710,695",
+                "8.66%",
+                "+double-digit (GI)"
+              ]
+            },
+            {
+              "label": "State revenue share (31.7%)",
+              "kind": "emphasis",
+              "cells": [
+                "$542,813",
+                "2.75%",
+                "+double-digit (implied)"
+              ]
+            },
+            {
+              "label": "Operator net after state share",
+              "kind": "line",
+              "cells": [
+                "$1,167,882",
+                "5.91%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Handle by sport",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "#1 Football",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "$6,887,402",
+                "34.9%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "#2 Baseball",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "$2,940,769",
+                "14.9%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "#3 Table tennis",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "$1,280,933",
+                "6.5%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "#4 Soccer",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "$1,173,038",
+                "5.9%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "#5 Tennis",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "$893,941",
+                "4.5%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "All other",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "$6,582,469",
+                "33.3%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Reference: Aug-24 handle / AGR / state share",
+              "kind": "line",
+              "cells": [
+                "$11.3m / $856,707 / $273,126",
+                "hold 7.6%",
+                "InterGame citing DLL"
+              ]
+            },
+            {
+              "label": "Reference: Feb-24 (first full month) handle / state share",
+              "kind": "line",
+              "cells": [
+                "$21.2m / $731,874",
+                "—",
+                "InterGame citing DLL"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "September headline figures",
+            "takeaway": "Handle of $19,758,552 (-1% YoY) produced AGR of $1,710,695 at 8.66% adjusted hold; revenue growth was entirely margin, not volume.",
+            "points": [
+              "Winning payouts $17,836,139; resettlements, voids, federal tax and promotional deductions $211,718.",
+              "Gross hold before deductions 9.73%; adjusted hold 8.66%.",
+              "State share at the reported 31.7% blended rate was $542,813.",
+              "Gaming Intelligence reports handle down 1% YoY with double-digit revenue growth, implying September 2025 handle ~$19.96m and AGR no more than ~$1.56m (hold ≤7.8%)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Seasonal ramp stalling",
+            "takeaway": "September, the first full NFL month, merely matched the prior year, so the autumn ramp is no longer compounding.",
+            "points": [
+              "2024 summer trough: July handle $9.5m, August $11.3m.",
+              "CY2025 handle $235.1m (+18.3% on 2024); September 2026 equals 8.4% of last year's annual total.",
+              "Consistent with annual growth decelerating from high-teens toward low single digits."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Sport mix",
+            "takeaway": "Football took $6,887,402 (34.9%) of handle; table tennis ranking third points to a meaningful in-play, low-ticket volume segment.",
+            "points": [
+              "Baseball $2,940,769 (14.9%), table tennis $1,280,933 (6.5%), soccer $1,173,038 (5.9%), tennis $893,941 (4.5%).",
+              "Residual $6,582,469 (33.3%) is unitemised.",
+              "Football's share will rise sharply in October–December, when full-year hold and revenue are decided."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Deductions and promotions",
+            "takeaway": "Deductions beyond the ~$49k federal excise are only ~$162k (0.82% of handle), so the state's 31.7% applies to near-true gross win.",
+            "points": [
+              "Federal excise at 0.25% of handle is ~$49k.",
+              "States allowing uncapped promo deductions routinely see 2–4% of handle netted out in NFL months.",
+              "Either Vermont's contracts cap promotional deductions or the three incumbents have cut bonusing to maintenance level.",
+              "An entrant should not plan on sheltering acquisition spend from the revenue share."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Operator economics",
+            "takeaway": "Operators retained $1.17m of AGR across three brands, ~$390k per operator per month before costs; a standalone P&L would not clear cost of capital.",
+            "points": [
+              "Per-operator figure is before platform, marketing, payments and the share of the annual operator fee.",
+              "At that scale Vermont is run as an incremental skin on national platforms."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Bettor base & cross-border demand",
+        "headline": "23,795 actives — nearly half out-of-state by account — with in-state players supplying 68% of handle and 78% of bets.",
+        "narrative": [
+          "The DLL splits activity by account residency. In September 2026, **12,934 in-state actives** placed 603,879 bets worth $13,472,073 (68.2% of handle) at an average of $22.31; **10,861 out-of-state actives** placed 166,978 bets worth $6,286,479 (31.8%) at $37.65. Handle per active was ~$1,042 in-state against ~$579 out-of-state, and bets per active 46.7 versus 15.4 — residents are habitual, visitors are occasional but stake larger. Total AGR per active was ~$72 and state share per active ~$23.",
+          "Penetration is modest. Against an adult (21+) population of roughly 500,000 (estimate), 12,934 resident actives is ~2.6% monthly penetration — low for a US mobile market in its third NFL season, and consistent with Vermont's older demographic profile and the absence of a professional sports franchise. The ceiling on resident growth is therefore structural; incremental handle will have to come from frequency and ticket size, or from visitors.",
+          "Out-of-state demand has been a constant feature rather than a launch artefact: August 2024 showed $3.5m of $11.3m (~31%) from non-resident accounts, almost identical to September 2026's 31.8%. The mix should rise in October (foliage season) and January–March (ski season), and the border geography matters — New Hampshire is a DraftKings monopoly, Massachusetts and New York are mature multi-operator states, and Québec residents are largely unable to pass US KYC. For an operator, this means brand strength in Boston and New York metro markets is partly transferable to Vermont volumes.",
+          "Average stake of $25.63 and ~25,700 bets per day indicate a recreational, parlay-leaning base. Combined with an adjusted hold that moved from ≤7.8% to 8.66% YoY on flat handle, the operator strategy is clearly to lift margin through product mix (same-game parlays, in-play micro-markets such as table tennis) rather than to compete on price or bonus — rational in a three-operator market where the revenue share makes promotional spending expensive.",
+          "Growth capacity should be assessed as: resident penetration ~2.6% rising slowly; visitor handle tracking tourism; hold drifting up with parlay mix. That yields a market of ~$230–250m handle and ~$21–25m AGR a year for the next two years (estimate) — not a market that changes a multi-state operator's outlook, but a profitable incremental skin for the incumbents."
+        ],
+        "table": {
+          "note": "US $ — Sep-26 player metrics (DLL summary report)",
+          "columns": [
+            "In-state",
+            "Out-of-state",
+            "Total"
+          ],
+          "rows": [
+            {
+              "label": "Handle",
+              "kind": "emphasis",
+              "cells": [
+                "$13,472,073",
+                "$6,286,479",
+                "$19,758,552"
+              ]
+            },
+            {
+              "label": "Share of handle",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "68.2%",
+                "31.8%",
+                "100%"
+              ]
+            },
+            {
+              "label": "Active users",
+              "kind": "emphasis",
+              "cells": [
+                "12,934",
+                "10,861",
+                "23,795"
+              ]
+            },
+            {
+              "label": "Share of actives",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "54.4%",
+                "45.6%",
+                "100%"
+              ]
+            },
+            {
+              "label": "Number of bets",
+              "kind": "line",
+              "cells": [
+                "603,879",
+                "166,978",
+                "770,857"
+              ]
+            },
+            {
+              "label": "Share of bets",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "78.3%",
+                "21.7%",
+                "100%"
+              ]
+            },
+            {
+              "label": "Average bet",
+              "kind": "line",
+              "cells": [
+                "$22.31",
+                "$37.65",
+                "$25.63"
+              ]
+            },
+            {
+              "label": "Handle per active (month)",
+              "kind": "line",
+              "cells": [
+                "~$1,042",
+                "~$579",
+                "~$830"
+              ]
+            },
+            {
+              "label": "Bets per active (month)",
+              "kind": "line",
+              "cells": [
+                "46.7",
+                "15.4",
+                "32.4"
+              ]
+            },
+            {
+              "label": "AGR per active (month)",
+              "kind": "line",
+              "cells": [
+                "n/a",
+                "n/a",
+                "~$71.9"
+              ]
+            },
+            {
+              "label": "State share per active (month)",
+              "kind": "line",
+              "cells": [
+                "n/a",
+                "n/a",
+                "~$22.8"
+              ]
+            },
+            {
+              "label": "Resident monthly penetration of ~500k adults 21+ (est.)",
+              "kind": "line",
+              "cells": [
+                "~2.6%",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Reference: Aug-24 handle split",
+              "kind": "line",
+              "cells": [
+                "$7.8m (69%)",
+                "$3.5m (31%)",
+                "$11.3m"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Resident vs visitor activity",
+            "takeaway": "23,795 actives split 12,934 in-state (68.2% of handle) and 10,861 out-of-state (31.8%); residents are habitual, visitors occasional but stake larger.",
+            "points": [
+              "In-state: 603,879 bets worth $13,472,073 at $22.31 average; out-of-state: 166,978 bets worth $6,286,479 at $37.65.",
+              "Handle per active ~$1,042 in-state against ~$579 out-of-state; bets per active 46.7 versus 15.4.",
+              "Total AGR per active ~$72 and state share per active ~$23."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Penetration",
+            "takeaway": "Resident actives equal ~2.6% monthly penetration of a ~500,000 adult (21+) population (estimate), low for a third-NFL-season US mobile market.",
+            "points": [
+              "Consistent with Vermont's older demographic profile and the absence of a professional sports franchise.",
+              "Ceiling on resident growth is structural; incremental handle must come from frequency, ticket size, or visitors."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Cross-border demand",
+            "takeaway": "Out-of-state demand is a constant feature: August 2024 showed ~31% non-resident handle ($3.5m of $11.3m), almost identical to September 2026's 31.8%.",
+            "points": [
+              "Mix should rise in October (foliage season) and January–March (ski season).",
+              "New Hampshire is a DraftKings monopoly; Massachusetts and New York are mature multi-operator states; Québec residents largely cannot pass US KYC.",
+              "Brand strength in Boston and New York metro markets is partly transferable to Vermont volumes."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Product and margin strategy",
+            "takeaway": "Average stake of $25.63 and ~25,700 bets per day indicate a recreational, parlay-leaning base, with operators lifting margin via product mix rather than price.",
+            "points": [
+              "Adjusted hold moved from ≤7.8% to 8.66% YoY on flat handle.",
+              "Mix levers are same-game parlays and in-play micro-markets such as table tennis.",
+              "Rational in a three-operator market where the revenue share makes promotional spending expensive."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Growth outlook",
+            "takeaway": "We estimate a market of ~$230–250m handle and ~$21–25m AGR a year for the next two years — a profitable incremental skin, not outlook-changing.",
+            "points": [
+              "Resident penetration ~2.6% rising slowly; visitor handle tracking tourism; hold drifting up with parlay mix."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Licensing & market structure",
+        "headline": "A closed, state-contracted model: three operators chosen by RFP from five bidders, no open licence window, entry only via re-procurement.",
+        "narrative": [
+          "Vermont's enabling legislation (H.127, enacted June 2023; codified as the sports wagering chapter administered by the DLL) authorised the Department, with Board of Liquor and Lottery approval, to contract with **between two and six** mobile sports wagering operators selected through a competitive request-for-proposals process, rather than to license any qualified applicant. Five companies bid in autumn 2023; the Board selected DraftKings, FanDuel and Fanatics Sportsbook, and the market opened on 11 January 2024. BetMGM and PENN Entertainment's ESPN Bet (since rebranded theScore Bet) were not selected.",
+          "The commercial terms are contractual. Bidders proposed a revenue-share percentage of AGR subject to a statutory floor of 20%; the winning bids were reported at launch as 33% (FanDuel) and 31% (DraftKings and Fanatics), and each operator pays an annual operating fee of $550,000 [parameters unverified this cycle — the DLL's reported 31.7% blended rate is consistent with this mix]. The initial contract term was reported as three years [unverified this cycle]; if correct, the first renewal or re-bid decision falls around January 2027, which is the single most important calendar item for any prospective entrant.",
+          "Retail sports wagering is not authorised, so there is no land-based tether, no casino partner requirement and no market-access fee — a cleaner structure than most US states, but one in which the state captures the economic rent that would otherwise accrue to a casino licensee. There are no commercial or tribal casinos in Vermont and no racetracks; the Vermont Lottery is state-operated through retailers. Daily fantasy sports is separately regulated through registration [unverified this cycle].",
+          "Consumer-facing licence conditions are standard for the region: minimum age 21; wagers must be placed while physically located in Vermont (geofenced); wagering is prohibited on collegiate events held in Vermont and on Vermont college teams such as UVM; player complaints are routed to the DLL via a public online form; and operators must participate in the DLL's self-exclusion programme and provide account limit tools.",
+          "For B2Tech the implication is binary. There is no path to a Vermont B2C licence outside an RFP, and the three incumbents are the national scale leaders with the deepest New England and New York customer bases. A credible bid would need to beat 31–33% on revenue share or offer differentiated state value (e.g., a higher share, product safeguards, local hiring). The economics argue for watching the 2027 procurement window and for B2B platform/trading supply as the realistic entry, not a fourth consumer skin."
+        ],
+        "table": {
+          "note": "Vermont licensing parameters",
+          "columns": [
+            "Vermont",
+            "Status / source"
+          ],
+          "rows": [
+            {
+              "label": "Regulator",
+              "kind": "line",
+              "cells": [
+                "Department of Liquor and Lottery (DLL) / Board of Liquor and Lottery",
+                "Primary — DLL reports; Commissioner Wendy Knight; Director of Sports Wagering Joshua Sumner"
+              ]
+            },
+            {
+              "label": "Enabling law",
+              "kind": "line",
+              "cells": [
+                "H.127 (Act of 2023), signed June 2023",
+                "LSR; WCAX"
+              ]
+            },
+            {
+              "label": "Launch date",
+              "kind": "line",
+              "cells": [
+                "11 January 2024",
+                "LSR; WCAX"
+              ]
+            },
+            {
+              "label": "Channel",
+              "kind": "line",
+              "cells": [
+                "Mobile/online only; retail not permitted",
+                "LSR"
+              ]
+            },
+            {
+              "label": "Licence model",
+              "kind": "line",
+              "cells": [
+                "Competitive RFP; state contracts with operators",
+                "LSR"
+              ]
+            },
+            {
+              "label": "Statutory operator range",
+              "kind": "line",
+              "cells": [
+                "2–6",
+                "LSR"
+              ]
+            },
+            {
+              "label": "Bidders / selected",
+              "kind": "line",
+              "cells": [
+                "5 bid / 3 selected",
+                "LSR"
+              ]
+            },
+            {
+              "label": "Contracted operators",
+              "kind": "emphasis",
+              "cells": [
+                "DraftKings, FanDuel, Fanatics Sportsbook",
+                "LSR; WCAX; DLL"
+              ]
+            },
+            {
+              "label": "Excluded bidders",
+              "kind": "line",
+              "cells": [
+                "BetMGM; PENN ESPN Bet (now theScore Bet)",
+                "LSR"
+              ]
+            },
+            {
+              "label": "Revenue share bids",
+              "kind": "line",
+              "cells": [
+                "FanDuel 33%; DraftKings 31%; Fanatics 31%",
+                "[unverified this cycle]; consistent with 31.7% blended"
+              ]
+            },
+            {
+              "label": "Statutory minimum share",
+              "kind": "line",
+              "cells": [
+                "20% of AGR",
+                "[unverified this cycle]"
+              ]
+            },
+            {
+              "label": "Annual operator fee",
+              "kind": "line",
+              "cells": [
+                "$550,000 per operator",
+                "[unverified this cycle]"
+              ]
+            },
+            {
+              "label": "Initial contract term",
+              "kind": "line",
+              "cells": [
+                "3 years from Jan-24 (renewal window ~Jan-27)",
+                "[unverified this cycle]"
+              ]
+            },
+            {
+              "label": "Minimum age",
+              "kind": "line",
+              "cells": [
+                "21",
+                "LSR; WCAX"
+              ]
+            },
+            {
+              "label": "Collegiate restrictions",
+              "kind": "line",
+              "cells": [
+                "No wagers on Vermont college teams or collegiate events in Vermont",
+                "LSR; WCAX"
+              ]
+            },
+            {
+              "label": "Casinos / racetracks / iGaming",
+              "kind": "line",
+              "cells": [
+                "None / none / not legal",
+                "Market structure"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Contracted operator model",
+            "takeaway": "H.127 (enacted June 2023) lets the DLL contract with between two and six operators via RFP; three were chosen from five bidders and launched 11 January 2024.",
+            "points": [
+              "Board selected DraftKings, FanDuel and Fanatics Sportsbook; BetMGM and PENN's ESPN Bet (since rebranded theScore Bet) were not selected.",
+              "No open licence window; entry only via re-procurement."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Commercial terms",
+            "takeaway": "Winning revenue-share bids were reported as 33% (FanDuel) and 31% (DraftKings and Fanatics) against a 20% statutory floor, plus a $550,000 annual fee.",
+            "points": [
+              "Parameters unverified this cycle; the DLL's 31.7% blended rate is consistent with this mix.",
+              "Initial contract term reported as three years [unverified]; first renewal or re-bid decision falls around January 2027.",
+              "The 2027 window is the single most important calendar item for any prospective entrant."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "No retail tether",
+            "takeaway": "Retail wagering is not authorised, so there is no casino partner requirement or market-access fee; the state captures the rent a casino licensee would.",
+            "points": [
+              "No commercial or tribal casinos, no racetracks; Vermont Lottery is state-operated through retailers.",
+              "Daily fantasy sports is separately regulated through registration [unverified this cycle]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Consumer licence conditions",
+            "takeaway": "Conditions are standard for the region: 21+, geofenced in-state wagering, and bans on Vermont collegiate events and teams.",
+            "points": [
+              "Wagering prohibited on collegiate events held in Vermont and on Vermont college teams such as UVM.",
+              "Complaints routed to the DLL via a public online form.",
+              "Operators must participate in the DLL self-exclusion programme and provide account limit tools."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Implication for B2Tech",
+            "takeaway": "The implication is binary: no B2C path outside an RFP, so B2B platform/trading supply is the realistic entry, not a fourth consumer skin.",
+            "points": [
+              "Incumbents are national scale leaders with the deepest New England and New York customer bases.",
+              "A credible bid would need to beat 31–33% revenue share or offer differentiated state value (higher share, product safeguards, local hiring).",
+              "Watch the 2027 procurement window."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Revenue-share (tax) regime & fiscal take",
+        "headline": "A 31.7% blended share of AGR plus 0.25% federal excise on handle: $7.25m to the state in CY2025, $542,813 in September 2026.",
+        "narrative": [
+          "Vermont's fiscal mechanism is a contractual revenue share on **adjusted gross sports wagering revenue** — handle less winnings paid, voided or resettled wagers, the federal 0.25% excise on handle and permitted promotional credits. It is not a turnover tax and not a statutory GGR tax; the rate is whatever each operator bid (31–33%), and the DLL publishes a blended effective rate, 31.7% in September 2026. On September's $1,710,695 of AGR the state received $542,813; the 0.25% federal excise (~$49,400) is paid in addition by operators and is already netted out of the base.",
+          "The fiscal trajectory matches the launch forecast almost exactly. The state was told to expect up to $7m in the first full year; it collected $6,346,073 in CY2024 and $7,252,813 in CY2025 (+14.3%), on handle of $198.8m and $235.1m respectively. Implied AGR was ~$20.0m and ~$22.9m (estimates at the blended rate), with implied hold easing from ~10.1% to ~9.7% as the market normalised from an unusually operator-favourable January 2024. On a straight ×12 of September 2026, CY2026 state share would be ~$6.5m; allowing for the stronger Q4 football months, we model ~$6.8–7.8m (estimate), i.e. roughly flat on 2025.",
+          "By US standards the effective burden is high but not punitive: below the 51% applied in New York, New Hampshire and Rhode Island, above Massachusetts (20%), Maine (10%) and New Jersey (raised to 19.75% from July 2025), and broadly in line with Pennsylvania (36%) and Illinois' upper graduated tiers (context from our regime knowledge — rates not re-verified this cycle). Because the base is AGR with apparently limited promotional shelter, Vermont's revenue share is closer to a 'true GGR' rate than the headline rates of states with generous promo deductions.",
+          "Statutory allocation directs wagering revenue first to DLL administration, with a fixed appropriation to the Department of Mental Health for problem-gambling services (reported at $250,000 a year at enactment [unverified this cycle]) and the balance to the General Fund. Legislative appetite for raising the share or adding a per-wager fee (as Illinois did in 2025) has not surfaced in our review; the more likely fiscal lever is a re-bid in which the DLL invites higher revenue-share offers.",
+          "For an operator, the modelling consequences are: (i) treat Vermont as a ~32% GGR-tax market with minimal promo relief; (ii) add the federal excise (0.25% of handle ≈ 2.9% of AGR at an 8.7% hold) and the fixed $550k fee (≈ 2.4% of CY2025 market AGR per operator); (iii) all-in state and federal burden on gross win therefore approaches ~37% of AGR before platform and payments costs. Only a high-hold parlay-led product makes that stack work."
+        ],
+        "table": {
+          "note": "US $ — fiscal parameters and take",
+          "columns": [
+            "Rate / amount",
+            "Base",
+            "Note"
+          ],
+          "rows": [
+            {
+              "label": "Revenue share — FanDuel",
+              "kind": "line",
+              "cells": [
+                "33%",
+                "AGR",
+                "bid at 2023 RFP [unverified this cycle]"
+              ]
+            },
+            {
+              "label": "Revenue share — DraftKings",
+              "kind": "line",
+              "cells": [
+                "31%",
+                "AGR",
+                "bid at 2023 RFP [unverified this cycle]"
+              ]
+            },
+            {
+              "label": "Revenue share — Fanatics",
+              "kind": "line",
+              "cells": [
+                "31%",
+                "AGR",
+                "bid at 2023 RFP [unverified this cycle]"
+              ]
+            },
+            {
+              "label": "Blended rate, Sep-26",
+              "kind": "emphasis",
+              "cells": [
+                "31.7%",
+                "AGR",
+                "DLL summary report"
+              ]
+            },
+            {
+              "label": "Statutory minimum share",
+              "kind": "line",
+              "cells": [
+                "20%",
+                "AGR",
+                "[unverified this cycle]"
+              ]
+            },
+            {
+              "label": "Federal excise",
+              "kind": "line",
+              "cells": [
+                "0.25%",
+                "Handle",
+                "deducted before AGR; ~$49k in Sep-26"
+              ]
+            },
+            {
+              "label": "Annual operator fee",
+              "kind": "line",
+              "cells": [
+                "$550,000",
+                "per operator",
+                "[unverified this cycle]"
+              ]
+            },
+            {
+              "label": "State share — Sep-26",
+              "kind": "emphasis",
+              "cells": [
+                "$542,813",
+                "31.7% × $1,710,695",
+                "DLL"
+              ]
+            },
+            {
+              "label": "State share — CY2025",
+              "kind": "emphasis",
+              "cells": [
+                "$7,252,813",
+                "+14.3% YoY",
+                "DLL via WCAX"
+              ]
+            },
+            {
+              "label": "State share — CY2024",
+              "kind": "line",
+              "cells": [
+                "$6,346,073",
+                "first year (from 11 Jan)",
+                "DLL via WCAX"
+              ]
+            },
+            {
+              "label": "Launch forecast, first full year",
+              "kind": "line",
+              "cells": [
+                "up to $7m",
+                "—",
+                "WCAX, Jan-24"
+              ]
+            },
+            {
+              "label": "State share — CY2026E (model)",
+              "kind": "line",
+              "cells": [
+                "~$6.8–7.8m",
+                "estimate",
+                "Sep-26 run-rate + Q4 seasonality; low confidence"
+              ]
+            },
+            {
+              "label": "Problem-gambling appropriation",
+              "kind": "line",
+              "cells": [
+                "$250,000 p.a.",
+                "from wagering revenue",
+                "[unverified this cycle]"
+              ]
+            },
+            {
+              "label": "Context: NY / NH / RI",
+              "kind": "line",
+              "cells": [
+                "51%",
+                "GGR",
+                "not re-verified this cycle"
+              ]
+            },
+            {
+              "label": "Context: MA / ME / NJ",
+              "kind": "line",
+              "cells": [
+                "20% / 10% / 19.75%",
+                "GGR",
+                "not re-verified this cycle"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Mechanism",
+            "takeaway": "Vermont levies a contractual 31–33% share of AGR (31.7% blended), not a turnover or statutory GGR tax; September yielded $542,813 on $1,710,695 AGR.",
+            "points": [
+              "AGR is handle less winnings, voided or resettled wagers, the 0.25% federal excise and permitted promotional credits.",
+              "Federal excise (~$49,400 in September) is paid in addition by operators and netted out of the base."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Fiscal trajectory",
+            "takeaway": "State take was $6,346,073 in CY2024 and $7,252,813 in CY2025 (+14.3%), matching the up-to-$7m launch forecast; CY2026 modelled ~$6.8–7.8m, roughly flat.",
+            "points": [
+              "Handle $198.8m in CY2024 and $235.1m in CY2025.",
+              "Implied AGR ~$20.0m and ~$22.9m, with implied hold easing from ~10.1% to ~9.7% after an operator-favourable January 2024.",
+              "Straight ×12 of September 2026 gives ~$6.5m; stronger Q4 football months lift the estimate."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "US comparison",
+            "takeaway": "The burden is high but not punitive: below 51% in New York, New Hampshire and Rhode Island, in line with Pennsylvania (36%).",
+            "points": [
+              "Above Massachusetts (20%), Maine (10%) and New Jersey (19.75% from July 2025); broadly in line with Illinois' upper tiers (rates not re-verified).",
+              "With limited promo shelter, Vermont's share is closer to a 'true GGR' rate than headline rates elsewhere."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Allocation and legislative risk",
+            "takeaway": "Revenue goes first to DLL administration, then $250,000 a year to Mental Health [unverified], balance to the General Fund; no rate-rise appetite surfaced.",
+            "points": [
+              "Per-wager fee as in Illinois (2025) has not surfaced in our review.",
+              "More likely fiscal lever is a re-bid inviting higher revenue-share offers."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Operator modelling",
+            "takeaway": "All-in state and federal burden approaches ~37% of AGR before platform and payments; only a high-hold parlay-led product makes that stack work.",
+            "points": [
+              "Treat Vermont as a ~32% GGR-tax market with minimal promo relief.",
+              "Federal excise 0.25% of handle ≈ 2.9% of AGR at 8.7% hold; fixed $550k fee ≈ 2.4% of CY2025 market AGR per operator."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Payments, responsible gambling & advertising",
+        "headline": "Standard US mobile rails and rule-based consumer protections; rising helpline use is the political soft spot.",
+        "narrative": [
+          "Funding follows the US online model: ACH/online-banking transfers, debit cards, PayPal/Venmo-type e-wallets, Apple Pay and prepaid Play+ cards, with withdrawals back to bank or e-wallet. Credit-card deposits are prohibited under DLL rules [unverified this cycle], placing Vermont with Massachusetts, Iowa and Tennessee in the no-credit camp. There is no mobile-money layer and no cash channel (no retail), so payment cost is a small, predictable line — but KYC/SSN requirements effectively exclude Canadian visitors from Québec, capping the cross-border upside at US visitors.",
+          "Geolocation and identity controls are those of the national platforms: players must be 21+, verified against government records, and physically inside Vermont at the time of each wager. The out-of-state account cohort (10,861 actives in September) is therefore visitors wagering inside the state, not remote play. The DLL maintains a public sports wagering complaint form and publishes monthly summary reports within roughly two weeks of month-end (the September PDF is dated 15 October 2026) — a transparency standard better than many larger states.",
+          "Responsible-gambling architecture comprises a statewide voluntary self-exclusion list administered by the DLL, mandatory deposit/time/wager limit tools, the 1-800-GAMBLER helpline and services delivered through the Department of Mental Health, funded by a fixed appropriation from wagering revenue (reported at $250,000 a year at enactment [unverified this cycle]). DMH's medical director has publicly noted a clear increase in helpline and website utilisation since launch — framed as awareness, but it is the statistic opponents will cite when expansion bills (H.669 online lottery; any future iGaming) return.",
+          "Advertising rules are principles-based rather than volume-capped: no marketing targeted at under-21s or on college campuses, mandatory responsible-gambling messaging and helpline inclusion, no misleading 'risk-free' framing, and DLL authority over promotional terms [unverified this cycle]. The September deductions line (promo plus voids ~0.8% of handle, estimate) shows the incumbents are no longer buying share; an entrant would face a quiet market in which heavy bonusing would be both conspicuous and expensive at a 31–33% share.",
+          "Enforcement to date has been administrative rather than headline-grabbing; we found no published DLL penalties against the three operators in this cycle's review. The emerging risk is less regulatory than competitive: federally regulated sports event contracts (prediction markets) and sweepstakes-style products are accessible on the same phones with no state revenue share — a direct leak from a mobile-only state. Whether Vermont's Attorney General or DLL has acted against such products was not verifiable this cycle."
+        ],
+        "table": {
+          "note": "Rules & metrics",
+          "columns": [
+            "Rule / metric",
+            "Status"
+          ],
+          "rows": [
+            {
+              "label": "Deposit methods",
+              "kind": "line",
+              "cells": [
+                "ACH/online banking, debit, PayPal/Venmo, Apple Pay, prepaid",
+                "Standard US mobile model"
+              ]
+            },
+            {
+              "label": "Credit-card deposits",
+              "kind": "line",
+              "cells": [
+                "Prohibited",
+                "[unverified this cycle]"
+              ]
+            },
+            {
+              "label": "Cash / retail channel",
+              "kind": "line",
+              "cells": [
+                "None — no retail wagering",
+                "LSR"
+              ]
+            },
+            {
+              "label": "Geolocation",
+              "kind": "line",
+              "cells": [
+                "Must be physically in Vermont per wager",
+                "LSR; WCAX"
+              ]
+            },
+            {
+              "label": "Minimum age / KYC",
+              "kind": "line",
+              "cells": [
+                "21+, identity-verified",
+                "LSR; WCAX"
+              ]
+            },
+            {
+              "label": "Self-exclusion",
+              "kind": "line",
+              "cells": [
+                "Statewide voluntary programme via DLL",
+                "Framework; detail unverified this cycle"
+              ]
+            },
+            {
+              "label": "Helpline",
+              "kind": "line",
+              "cells": [
+                "1-800-GAMBLER; DMH reports rising use",
+                "WCAX, Jan-26"
+              ]
+            },
+            {
+              "label": "Problem-gambling funding",
+              "kind": "line",
+              "cells": [
+                "Fixed appropriation (~$250k p.a.)",
+                "[unverified this cycle]"
+              ]
+            },
+            {
+              "label": "Advertising",
+              "kind": "line",
+              "cells": [
+                "No under-21/campus targeting; RG messaging mandatory",
+                "[unverified this cycle]"
+              ]
+            },
+            {
+              "label": "Promo + voids deducted, Sep-26 (est.)",
+              "kind": "emphasis",
+              "cells": [
+                "~$162k ≈ 0.82% of handle",
+                "DLL deductions line less 0.25% excise"
+              ]
+            },
+            {
+              "label": "Player complaints",
+              "kind": "line",
+              "cells": [
+                "Public DLL online complaint form",
+                "DLL monthly-reports page"
+              ]
+            },
+            {
+              "label": "Report cadence",
+              "kind": "line",
+              "cells": [
+                "Monthly PDF, ~2 weeks after month-end",
+                "DLL (Sep-26 PDF dated 15 Oct 2026)"
+              ]
+            },
+            {
+              "label": "Published enforcement actions vs operators",
+              "kind": "line",
+              "cells": [
+                "None found this cycle",
+                "n/a"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Payment rails",
+            "takeaway": "Standard US mobile funding with no cash channel makes payment cost small and predictable, but KYC/SSN rules exclude Québec visitors.",
+            "points": [
+              "ACH/online banking, debit cards, PayPal/Venmo-type e-wallets, Apple Pay and prepaid Play+ cards; withdrawals to bank or e-wallet.",
+              "Credit-card deposits prohibited under DLL rules [unverified], alongside Massachusetts, Iowa and Tennessee.",
+              "Cross-border upside capped at US visitors."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Geolocation and transparency",
+            "takeaway": "Players must be 21+, verified and physically in Vermont; the 10,861 out-of-state actives are visitors wagering in-state, not remote play.",
+            "points": [
+              "DLL maintains a public complaint form and publishes monthly reports within ~two weeks (September PDF dated 15 October 2026).",
+              "Transparency standard better than many larger states."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Responsible gambling",
+            "takeaway": "Self-exclusion, mandatory limit tools and 1-800-GAMBLER are funded by ~$250,000 a year [unverified]; rising helpline use is the political soft spot.",
+            "points": [
+              "Services delivered through the Department of Mental Health.",
+              "DMH's medical director has publicly noted a clear increase in helpline and website utilisation since launch, framed as awareness.",
+              "Opponents will cite this when expansion bills (H.669 online lottery; any future iGaming) return."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Advertising rules",
+            "takeaway": "Rules are principles-based, not volume-capped, and the ~0.8% deductions line shows incumbents are no longer buying share.",
+            "points": [
+              "No marketing to under-21s or on campuses; mandatory RG messaging and helpline; no 'risk-free' framing; DLL authority over promo terms [unverified].",
+              "An entrant's heavy bonusing would be conspicuous and expensive at a 31–33% share."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Enforcement and leakage risk",
+            "takeaway": "No published DLL penalties found; the emerging risk is competitive leakage to prediction markets and sweepstakes products bearing no state share.",
+            "points": [
+              "Enforcement to date administrative rather than headline-grabbing.",
+              "Federally regulated sports event contracts and sweepstakes-style products reach the same phones — a direct leak from a mobile-only state.",
+              "Whether the Attorney General or DLL has acted was not verifiable this cycle."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Retail, lottery & adjacent verticals",
+        "headline": "No casinos, no retail books, no iGaming — the only expansion live is an online-lottery bill worth ~$2.5m rising to ~$10m a year to the state.",
+        "narrative": [
+          "Vermont is one of a handful of US states with no commercial or tribal casino, no racetrack and no retail sportsbook; land-based gambling is limited to the state lottery sold through retailers and charitable gaming by nonprofits. Retail GGR for commercial betting is therefore nil, and the state's gambling fiscal base is the lottery's transfers plus the sports-wagering revenue share ($7.25m in CY2025).",
+          "The 2026 legislative session took up H.669, which would allow the Vermont Lottery (run by the DLL) to sell draw and instant products online. Commissioner Wendy Knight told lawmakers the change would modernise the lottery and secure its sustainability; the state projected **$2.5m of incremental proceeds in year one, rising to ~$10m within a few years — described as nearly a 30% increase over current figures**, which implies current net lottery proceeds in the mid-$30m range (derived estimate). Retailers would continue to receive a share of online sales under a revenue-sharing formula yet to be set. Legislators voiced concern about access and youth exposure; the bill's final status after the session was not verifiable this cycle.",
+          "iGaming has not advanced in Vermont and, given the legislative tone on H.669 — including members describing gambling revenue as a tax on the less well-off — we see no realistic path to online casino before 2028. Any iLottery authorisation would, however, create a DLL-run digital channel and procurement opportunities for platform, content and payments suppliers, which is where a B2B-capable operator could participate without a B2C licence.",
+          "Daily fantasy sports is regulated separately through registration [unverified this cycle] and is immaterial to the fiscal picture. The more relevant adjacency is the unregulated one: federally supervised event contracts on sports outcomes and sweepstakes casinos reach Vermont phones without a state share, competing for the same 24,000-odd monthly actives. In a market this small, a few thousand players migrating to such products would be visible in the DLL data.",
+          "Net, the adjacent-vertical pipeline is thin. The only quantified opportunity is iLottery at ~$10m a year of state proceeds at maturity, controlled by the DLL rather than opened to private operators. For an operator weighing Vermont, the lottery bill matters mainly as a sentiment indicator: if the legislature cannot pass online lottery sales for its own monopoly, it is not going to expand private online gambling."
+        ],
+        "table": {
+          "note": "Adjacent verticals",
+          "columns": [
+            "Status",
+            "Figure / note"
+          ],
+          "rows": [
+            {
+              "label": "Retail sportsbooks",
+              "kind": "line",
+              "cells": [
+                "Not permitted",
+                "Retail GGR nil"
+              ]
+            },
+            {
+              "label": "Commercial / tribal casinos",
+              "kind": "line",
+              "cells": [
+                "None",
+                "No land-based gaming GGR"
+              ]
+            },
+            {
+              "label": "Racetracks / pari-mutuel",
+              "kind": "line",
+              "cells": [
+                "None active",
+                "—"
+              ]
+            },
+            {
+              "label": "iGaming (online casino)",
+              "kind": "line",
+              "cells": [
+                "Not legal; no bill advanced",
+                "No path before 2028 (view)"
+              ]
+            },
+            {
+              "label": "Vermont Lottery (DLL-run, retail)",
+              "kind": "line",
+              "cells": [
+                "Operating",
+                "Current net proceeds mid-$30m p.a. (derived estimate from WCAX '30%' statement)"
+              ]
+            },
+            {
+              "label": "H.669 online lottery (2026 session)",
+              "kind": "emphasis",
+              "cells": [
+                "Considered; outcome n/a this cycle",
+                "+$2.5m year one → ~$10m p.a. (state projection)"
+              ]
+            },
+            {
+              "label": "Daily fantasy sports",
+              "kind": "line",
+              "cells": [
+                "Regulated via registration",
+                "[unverified this cycle]"
+              ]
+            },
+            {
+              "label": "Charitable gaming",
+              "kind": "line",
+              "cells": [
+                "Permitted for nonprofits",
+                "Immaterial"
+              ]
+            },
+            {
+              "label": "Prediction markets / sweepstakes",
+              "kind": "line",
+              "cells": [
+                "Unregulated at state level; accessible",
+                "Substitution risk; no Vermont action verified"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Land-based landscape",
+            "takeaway": "Vermont has no casino, racetrack or retail sportsbook, so retail GGR is nil and the fiscal base is lottery transfers plus $7.25m sports-wagering share (CY2025).",
+            "points": [
+              "Land-based gambling limited to the state lottery through retailers and charitable gaming by nonprofits."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Online lottery bill H.669",
+            "takeaway": "H.669 would let the DLL-run lottery sell online, projected at $2.5m year-one proceeds rising to ~$10m, nearly a 30% increase.",
+            "points": [
+              "Implies current net lottery proceeds in the mid-$30m range (derived estimate).",
+              "Retailers would keep a share of online sales under a formula yet to be set.",
+              "Legislators raised access and youth exposure concerns; final status not verifiable this cycle."
+            ],
+            "quote": {
+              "text": "modernise the lottery and secure its sustainability",
+              "speaker": "Commissioner Wendy Knight"
+            }
+          },
+          {
+            "heading": "iGaming outlook",
+            "takeaway": "We see no realistic path to online casino before 2028 given legislative tone, including members calling gambling revenue a tax on the less well-off.",
+            "points": [
+              "iLottery authorisation would create DLL procurement opportunities for platform, content and payments suppliers.",
+              "That is where a B2B-capable operator could participate without a B2C licence."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "DFS and unregulated adjacencies",
+            "takeaway": "DFS is immaterial; unregulated event contracts and sweepstakes casinos compete for the same ~24,000 monthly actives without a state share.",
+            "points": [
+              "DFS regulated separately through registration [unverified this cycle].",
+              "A few thousand players migrating would be visible in DLL data in a market this small."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Pipeline assessment",
+            "takeaway": "The only quantified opportunity is iLottery at ~$10m a year at maturity, DLL-controlled; the bill is mainly a sentiment indicator.",
+            "points": [
+              "If the legislature cannot pass online lottery for its own monopoly, it will not expand private online gambling."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Margin resilience: September AGR grew double digits YoY on a 1% handle decline as adjusted hold rose to 8.66% — the incumbents are monetising a stable base through parlay/in-play mix rather than price, which is the economic profile a high revenue-share market needs.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Structural visitor demand: out-of-state accounts supplied 31.8% of September handle ($6.29m) at a $37.65 average bet, unchanged from ~31% in August 2024; brand equity in Boston/New York metro converts directly into Vermont volume during foliage and ski seasons.",
+        "tag": "structural"
+      },
+      {
+        "text": "Low promotional intensity: promo plus voids deducted were only ~0.8% of handle (estimate), implying a market past its acquisition phase — an operator with an efficient CRM model faces no bonus war.",
+        "tag": "structural"
+      },
+      {
+        "text": "Transparent, timely regulator: the DLL publishes monthly handle, payouts, deductions, AGR, state share, sport mix and residency splits within ~two weeks of month-end, enabling precise market modelling.",
+        "tag": "structural"
+      },
+      {
+        "text": "Statutory headroom for entry: the law permits up to six operators and only three are contracted; a 2027 renewal/re-bid window [term unverified] is the one realistic B2C entry point.",
+        "tag": "watch"
+      },
+      {
+        "text": "Digital-lottery optionality: H.669 would create a DLL-run online channel worth ~$2.5m → ~$10m a year to the state, with platform, content and payments procurement that B2B-capable operators can address.",
+        "tag": "early"
+      },
+      {
+        "text": "Clean structure: no casino tether, no market-access fee, no retail obligation — the state captures the rent directly, so an operator's cost stack is revenue share + fixed fee + federal excise, nothing hidden.",
+        "tag": "structural"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Closed market: licences are RFP contracts, not applications; BetMGM and PENN were rejected in 2023 and no window has opened since. Entry is at the DLL's discretion and timing.",
+        "tag": "structural"
+      },
+      {
+        "text": "High effective take: 31–33% of AGR plus 0.25% of handle federal excise and a $550k annual fee [fee unverified this cycle] equals ~37% of AGR all-in — viable only as an incremental skin on a national platform.",
+        "tag": "structural"
+      },
+      {
+        "text": "Sub-scale: ~$20–25m of annual AGR split three ways and ~24,000 monthly actives; a fourth operator at a 12–15% share would generate ~$3–4m of AGR a year, barely covering fee and marketing.",
+        "tag": "structural"
+      },
+      {
+        "text": "Growth has stalled: September handle -1% YoY in the first NFL month after +18% in CY2025; resident penetration of ~2.6% of adults (estimate) and an older, franchise-less demographic cap volume upside.",
+        "tag": "watch"
+      },
+      {
+        "text": "Political ambivalence: legislators openly frame gambling revenue as regressive, DMH reports rising helpline use, and even the state's own online-lottery bill drew access concerns — expansion to iGaming is improbable before 2028.",
+        "tag": "governance"
+      },
+      {
+        "text": "Unregulated substitution: federally supervised sports event contracts and sweepstakes products reach a mobile-only state with zero revenue share; no Vermont enforcement against them was verifiable this cycle.",
+        "tag": "watch"
+      },
+      {
+        "text": "Data gaps for this cycle: August 2026 and September 2025 DLL reports and the statutory text were not retrieved, so MoM trends and several licence/tax parameters are flagged [unverified].",
+        "tag": "one-off"
+      }
+    ],
+    "forecast": {
+      "intro": "The bridge from the CY2025 base to the CY2026 run-rate is flat volume and a firmer margin. CY2025 handle was $235.1m (+18.3%) and state share $7.25m (+14.3%); September 2026, the first NFL month, delivered $19.76m of handle (-1% YoY) but double-digit AGR growth as adjusted hold improved to 8.66%. Annualising September (×12) gives ~$237m handle and ~$6.5m state share; adding normal Q4 football seasonality, we model CY2026 state share of ~$6.8–7.8m (estimate) — roughly flat on 2025. The division driving the result is entirely mobile sports betting (there is no other regulated vertical); the moving parts are hold (up), handle (flat) and promo deductions (minimal).",
+      "bridge": [
+        {
+          "title": "CY2025 handle / state share (actual)",
+          "value": "$235.1m / $7.25m",
+          "change": "+18.3% / +14.3% YoY"
+        },
+        {
+          "title": "Sep-26 handle",
+          "value": "$19.76m",
+          "change": "-1% YoY (GI); 8.4% of CY2025 handle"
+        },
+        {
+          "title": "Sep-26 AGR / state share",
+          "value": "$1.71m / $0.54m",
+          "change": "double-digit YoY (GI); hold 8.66% vs ≤7.8% implied Sep-25"
+        },
+        {
+          "title": "CY2026E state share (model)",
+          "value": "~$6.8–7.8m",
+          "change": "≈ -6% to +8% vs CY2025 (estimate, low confidence)"
+        }
+      ],
+      "view": "**Volume: a plateau, not a decline.** We expect CY2026 handle of ~$230–245m (estimate), with Q4 2026 football months the swing factor; absent a new operator or product shock, 2027 handle growth is low single digits, driven by visitor traffic and frequency rather than new residents. **Margin: structurally higher.** Parlay and in-play mix should keep adjusted hold in an 8.5–9.5% band, so AGR of ~$21–24m a year (estimate) and state share of ~$6.7–7.6m is the base case — the state will see its sports-wagering revenue flatten just as it debates whether to take the lottery online. **Rules: no tax change, one procurement decision.** We see no appetite for a per-wager fee or a statutory rate change; the fiscal lever is the DLL's power to re-bid and invite higher revenue-share offers when the initial contracts come up (reported ~January 2027, unverified). The DLL could add a fourth operator at ≥31% if a credible bidder appears, but the economics for that bidder are marginal. **Expansion: iLottery possible, iGaming not.** Online lottery sales are the only digital expansion with a fiscal case (~$10m a year at maturity); the political framing of gambling as regressive and rising helpline use make iGaming unlikely in the 2027–2028 biennium. **For B2Tech:** Vermont is a monitor-and-bid market. Prepare a procurement-ready proposition (revenue share ≥33%, demonstrable RG tooling, New England brand reach or a B2B supply angle for iLottery) and track the contract window; do not model B2C revenue from Vermont before 2027.",
+      "watch": [
+        "DLL contract renewal / re-procurement timing — confirm the initial term and whether the Board opens a fourth–sixth slot or renegotiates revenue shares (window reportedly ~Jan 2027; unverified).",
+        "Q4 2026 monthly reports (Oct–Dec): whether handle turns positive YoY in peak football months or the September -1% becomes a sustained plateau; track adjusted hold vs the 8.5–9.5% band.",
+        "H.669 online lottery — final status after the 2026 session and any 2027 reintroduction, retailer revenue-share formula, and platform/payments procurement by the DLL.",
+        "Out-of-state handle share through foliage (Oct) and ski (Jan–Mar) seasons as a gauge of tourism-linked volume and of NH/NY/MA brand spill-over.",
+        "Responsible-gambling indicators cited in Montpelier: self-exclusion enrolments, 1-800-GAMBLER volumes and DMH funding adequacy — the data that shape any expansion debate.",
+        "State posture on sports event contracts (prediction markets) and sweepstakes products; any Attorney General or DLL action would signal protection of the revenue-share base.",
+        "Promotional-deduction policy in the contracts: confirm whether promo credits are capped, since the ~0.8% of handle deducted materially affects the effective rate an entrant would pay."
+      ]
+    },
+    "confidence": "MEDIUM",
+    "confidenceNote": "September 2026 figures (handle, payouts, deductions, AGR, 31.7% blended rate, state share, sport mix, actives, bets, residency split) are verified directly from the DLL's primary PDF dated 15 Oct 2026. YoY deltas (-1% handle; 'double-digit' revenue growth) rest on Gaming Intelligence alone because the September 2025 and August 2026 DLL PDFs could not be retrieved this cycle — exact YoY and MoM figures are therefore n/a. CY2024/CY2025 handle and state share are DLL data as reported by WCAX (23 Jan 2026); CY AGR and hold are derived estimates at the 31.7% blended rate. Statutory/contract parameters marked [unverified this cycle] (operator-specific revenue shares 31–33%, 20% floor, $550,000 annual operator fee, three-year initial term, $250,000 problem-gambling appropriation, credit-card prohibition, advertising rules) were not re-read from the enabling act or DLL rules and should be confirmed before any commercial decision. Comparative US state tax rates are context from regime knowledge and were not re-verified. The 2026 modelled range is low confidence. FX: not applicable — Vermont reports in USD.",
+    "sources": [
+      {
+        "label": "Vermont DLL — Sports Wagering Summary Report, September 2026 (PDF dated 15 Oct 2026) — primary",
+        "kind": "primary",
+        "url": "https://liquorandlottery.vermont.gov/sites/liqlot/files/documents/SW_Exec_Sum_Rpt_September_2026.pdf"
+      },
+      {
+        "label": "Vermont DLL — Monthly Sports Wagering Reports 2026 (index of Jan–Sep 2026 PDFs) — primary",
+        "kind": "primary",
+        "url": "https://liquorandlottery.vermont.gov/monthly-sports-wagering-reports-2026"
+      },
+      {
+        "label": "Vermont DLL — Monthly Reports hub (sports wagering, player complaint form) — primary",
+        "kind": "primary",
+        "url": "https://liquorandlottery.vermont.gov/monthly-reports"
+      },
+      {
+        "label": "Vermont DLL — Monthly Sports Wagering Reports 2025 (index) — primary",
+        "kind": "primary",
+        "url": "https://liquorandlottery.vermont.gov/monthly-sports-wagering-reports-2025"
+      },
+      {
+        "label": "Vermont DLL — Monthly Sports Wagering Reports 2024 (index) — primary",
+        "kind": "primary",
+        "url": "https://liquorandlottery.vermont.gov/monthly-sports-wagering-reports-2024"
+      },
+      {
+        "label": "Gaming Intelligence, 19 Oct 2026 — 'Vermont sports handle slips to $19.8 million in September' (lead; paywalled beyond summary) — secondary",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/237431-vermont-sports-handle-slips-to-19-8-million-in-september/"
+      },
+      {
+        "label": "WCAX, 23 Jan 2026 — 'Vermont sports betting revenue jumps in 2nd year' (CY2024/CY2025 handle and state revenue, citing DLL; DMH helpline comments) — secondary",
+        "kind": "secondary",
+        "url": "https://www.wcax.com/2026/01/23/vermont-sports-betting-revenue-jumps-2nd-year/"
+      },
+      {
+        "label": "WCAX, 30 Jan 2026 — 'Would online lottery ticket sales pay off for Vermont taxpayers?' (H.669, $2.5m→$10m projection) — secondary",
+        "kind": "secondary",
+        "url": "https://www.wcax.com/2026/01/30/would-online-lottery-ticket-sales-pay-off-vermont-taxpayers/"
+      },
+      {
+        "label": "WCAX, 23 Jan 2026 — 'Vermont lawmakers consider online lottery bill' — secondary",
+        "kind": "secondary",
+        "url": "https://www.wcax.com/2026/01/23/vermont-lawmakers-consider-online-lottery-bill/"
+      },
+      {
+        "label": "WCAX, 11 Jan 2024 — 'Online sports betting in Vermont goes live' (launch, three operators, up-to-$7m first-year forecast, in-state college prohibition) — secondary",
+        "kind": "secondary",
+        "url": "https://www.wcax.com/2024/01/11/online-sports-betting-vermont-goes-live/"
+      },
+      {
+        "label": "Legal Sports Report — Vermont sports betting page (2–6 operator statute, five bidders, three selected, BetMGM/ESPN Bet excluded, mobile-only, 21+, collegiate rule) — secondary",
+        "kind": "secondary",
+        "url": "https://www.legalsportsreport.com/sports-betting/states/vermont/"
+      },
+      {
+        "label": "InterGame — 'Vermont sports betting revenue falls in August' (Aug 2024 handle $11.3m, revenue $856,707, state share $273,126; Feb/Jul 2024 comparatives; residency split) — secondary",
+        "kind": "secondary",
+        "url": "https://www.intergameonline.com/land-based-gaming/vermont-sports-betting-revenue-falls-in-august"
+      }
+    ],
+    "docType": "regulator"
+  }
+}

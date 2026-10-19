@@ -516,5 +516,182 @@
     "releaseDate": "15 Oct 2026",
     "model": "claude-fable-5-1",
     "costUsd": 3.95
+  },
+  {
+    "key": "catena media|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-19T18:53:08.404Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "CTM-ST-Q3-2026",
+    "published": "2026-10-19",
+    "company": {
+      "name": "Catena Media",
+      "ticker": "CTM.ST",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A profit warning dressed as a strategy update: preliminary Q3 revenue of EUR 8.3m (~$9.7m) fell 29% YoY and adjusted EBITDA of EUR 0.7m (~$0.8m) was entirely a bonus-accrual reversal — underlying EBITDA was roughly zero. The 2026 double-digit growth target is withdrawn, a EUR 30–35m (~$35–41m) impairment wipes out a third-plus of the intangible base one quarter after management said no impairment indicators existed, and the equity is now effectively an option on an unlaunched platform (TraffiqX, Q1 2027) funded by ~EUR 13m of cash sitting beneath a EUR 50m+ hybrid claim accruing at STIBOR+12%.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26, prelim)",
+        "value": "EUR 8.3m (~$9.7m)",
+        "delta": "-29% YoY / -12% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA (Q3-26, prelim)",
+        "value": "EUR 0.7m (~$0.8m)",
+        "delta": "-76% YoY; ~EUR 0 ex EUR 0.7m bonus-accrual reversal",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA margin",
+        "value": "~8%",
+        "delta": "-1,680bps YoY / -460bps QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "9M-26 revenue / adj. EBITDA",
+        "value": "EUR 30.1m (~$35.2m) / EUR 4.6m (~$5.4m)",
+        "delta": "-3% / -12% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Impairment of intangibles (non-cash, Q3)",
+        "value": "EUR 30–35m (~$35–41m)",
+        "delta": "33–39% of EUR 90.1m carrying value at 30 Jun",
+        "dir": "down"
+      },
+      {
+        "label": "Cash / interest-bearing debt (30 Jun)",
+        "value": "EUR 13.0m (~$15.2m) / nil",
+        "delta": "Q3 balance n/a until 10 Nov; hybrid claim EUR 50.7m (~$59.3m) sits in equity",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "16 Oct 2026 (preliminary, unaudited; released 17:40 CEST after the close). Full Q3 interim report due 10 Nov 2026, 17:35 CET",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.16
+  },
+  {
+    "key": "juris|france|H1 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-19T19:07:12.533Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "FRANCE-H1-2026",
+    "published": "2026-10-19",
+    "company": {
+      "name": "France",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "H1 2026",
+    "verdict": "France's regulated market stalled in H1 2026: GGR excluding casinos rose just 0.5% to €5.66bn (~$6.35bn) as the two exclusive-rights monopolies (FDJ United lottery/retail, PMU horse racing) shrank and only the competitive online segment grew (+11% to €1.45bn / ~$1.62bn, now 25.6% of the market). The online growth is real but World Cup-loaded and bonus-fuelled (June stakes +47%, acquisition bonuses ×4, bonuses now 13.8% of online GGR) inside the heaviest tax regime in Europe (59.3% of GGR on online sports betting since 1 July 2025) and a regulator explicitly pushing for a \"less intensive\" model — a market for scale operators with disciplined CAC, not for opportunistic entrants.",
+    "kpis": [
+      {
+        "label": "Market GGR excl. casinos (H1-26)",
+        "value": "€5.66bn (~$6.35bn)",
+        "delta": "+0.5% YoY (vs +4.1% in H1-25)",
+        "dir": "flat"
+      },
+      {
+        "label": "Online GGR (sports, poker, horse)",
+        "value": "€1.45bn (~$1.62bn)",
+        "delta": "+11.0% YoY; 25.6% of market (+2.4pt)",
+        "dir": "up"
+      },
+      {
+        "label": "Online sports betting stakes / GGR",
+        "value": "€6.62bn / €995m",
+        "delta": "+10.6% / +11.6%; hold 15.0%",
+        "dir": "up"
+      },
+      {
+        "label": "Online active accounts (CJA)",
+        "value": "5.85m",
+        "delta": "+24% YoY; unique players 4.06m (+17%)",
+        "dir": "up"
+      },
+      {
+        "label": "Online bonuses paid",
+        "value": "€199m (~$223m)",
+        "delta": "+28%; 13.8% of online GGR (11.9%)",
+        "dir": "up"
+      },
+      {
+        "label": "PMU exclusive-rights GGR",
+        "value": "€782m (~$877m)",
+        "delta": "-5.8% YoY; 3rd consecutive decline",
+        "dir": "down"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "15 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 7.46
+  },
+  {
+    "key": "juris|vermont|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-19T19:30:25.176Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "VERMONT-SEPTEMBER-2026",
+    "published": "2026-10-19",
+    "company": {
+      "name": "Vermont",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "Vermont is a tiny, closed, mobile-only sports-betting market: September 2026 handle of $19.76m (-1% YoY) produced $1.71m of adjusted gross sports wagering revenue (AGR) on an 8.66% adjusted hold and $542,813 for the state at a 31.7% blended revenue share. Thirty-two months after launch, handle growth has stalled and revenue is now hold-driven rather than volume-driven; with only three state-contracted operators and no open licensing route, the market is an option on a future re-procurement rather than an addressable entry today.",
+    "kpis": [
+      {
+        "label": "Handle (online, Sep-26)",
+        "value": "$19.76m",
+        "delta": "-1% YoY (Gaming Intelligence); 100% mobile",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. gross sports wagering revenue",
+        "value": "$1.71m",
+        "delta": "Double-digit YoY growth (GI); adjusted hold 8.66%",
+        "dir": "up"
+      },
+      {
+        "label": "State revenue share",
+        "value": "$542,813",
+        "delta": "31.7% of AGR; double-digit YoY (implied)",
+        "dir": "up"
+      },
+      {
+        "label": "Active users",
+        "value": "23,795",
+        "delta": "45.6% out-of-state accounts; YoY n/a",
+        "dir": "flat"
+      },
+      {
+        "label": "Bets / average stake",
+        "value": "770,857 / $25.63",
+        "delta": "~25.7k bets per day; in-state avg $22.31 vs out-of-state $37.65",
+        "dir": "flat"
+      },
+      {
+        "label": "Contracted operators",
+        "value": "3",
+        "delta": "DraftKings, FanDuel, Fanatics; statute permits 2–6",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "15 Oct 2026 (DLL September 2026 Sports Wagering Summary Report; press coverage 19 Oct 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 2.95
   }
 ]
