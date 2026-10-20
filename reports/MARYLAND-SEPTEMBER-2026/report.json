@@ -1,0 +1,1790 @@
+{
+  "company": {
+    "name": "Maryland",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "SEPTEMBER 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 2332680,
+    "output": 58240,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 72156,
+    "cacheRead": 2076424,
+    "cacheWrite": 184100,
+    "turns": 1
+  },
+  "prepared": "20 Oct 2026",
+  "report": {
+    "releaseDate": "13 Oct 2026",
+    "currency": "USD (market reports in USD; tables in $m unless stated)",
+    "verdict": "September 2026 was a volume-not-value month for Maryland: handle was flat at $652.2m (+0.2% YoY, the third-largest month on record) despite one fewer NFL week, but hold compressed to 9.0% from 11.2%, cutting GGR 20% to $58.5m, and with deductible promo play tripling to $11.0m the state's tax take fell 32.5% to $9.1m even at the higher 20% mobile rate. Structurally the market is a FanDuel/DraftKings duopoly (71.6% of mobile handle), 98% online, tax-efficient for operators (15.6% effective on GGR) and increasingly exposed to fiscal pressure as Annapolis sees FY27 YTD receipts running 17.5% below FY26.",
+    "kpis": [
+      {
+        "label": "Handle (retail+mobile)",
+        "value": "$652.2m",
+        "delta": "+0.2% YoY / +40.0% MoM",
+        "dir": "flat"
+      },
+      {
+        "label": "GGR (hold, pre-promo)",
+        "value": "$58.5m",
+        "delta": "−20.0% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Hold %",
+        "value": "9.0%",
+        "delta": "−2.2pp vs 11.2% Sep-25",
+        "dir": "down"
+      },
+      {
+        "label": "Taxable win (NGR proxy)",
+        "value": "$45.9m",
+        "delta": "−32.4% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "State tax take",
+        "value": "$9.1m",
+        "delta": "−32.5% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "FY27 YTD handle (Jul–Sep)",
+        "value": "$1.61bn",
+        "delta": "+11.4% YoY",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**Regulator and framework.** Sports wagering and the six commercial casinos are regulated by the Maryland Lottery and Gaming Control Agency/Commission (MLGCA/MLGCC) under State Government Article §9-1E (2021 Sports Wagering Law, following the Nov-2020 referendum) and COMAR Title 36; a separate Sports Wagering Application Review Commission (SWARC) awards licences. Retail launched Dec 2021, mobile 23 Nov 2022. Online casino is not authorised.",
+      "**Headline: flat handle, sharply lower value.** September 2026 handle was $652,200,900 (+0.2% YoY vs $650,971,388; +40.0% MoM from August's $465.9m) — the third-biggest month in market history — but hold fell to 9.0% from 11.2%, so GGR (hold) dropped 20.0% to $58.45m from $73.06m. September 2026 contained one fewer NFL regular-season week than September 2025.",
+      "**Tax take fell faster than GGR.** Taxable win was $45.92m (−32.4% YoY) and state contributions $9.10m (−32.5%): $6.89m to the Blueprint for Maryland's Future Fund and $2.21m to the General Fund. The effective state take was 15.6% of GGR versus 18.4% a year earlier, because deductible promotional play tripled to $10.96m (1.68% of handle; 18.7% of GGR) from $3.66m (0.56%; 5.0%).",
+      "**Online penetration is near-total.** Mobile accounted for $641.15m of handle (98.3%) and $56.65m of GGR (96.9%); retail handle was $11.05m (−22.8% YoY) with $1.81m GGR at a 16.3% hold. Maryland is effectively a pure-digital sports-betting market with retail as a casino amenity.",
+      "**Fiscal year to date: more volume, less money.** FY2027 YTD (Jul–Sep 2026) handle is $1,614.5m (+11.4% vs $1,449.3m), but GGR is $159.2m (−6.4%) at a 9.9% hold (vs 11.7%), and state tax $24.57m (−17.5% vs $29.77m). FY2026 full-year contributions were $132.3m (+48.8%), flattered by the July-2025 rate rise; the FY27 run-rate is tracking below that.",
+      "**Calendar 2026 is still growing on volume.** Nine-month 2026 handle reached $4.98bn (+9% YoY per Gaming Intelligence/SI, vs $4.55bn in 9M 2025 per InGame), implying H1-2026 handle of ~$3.37bn. Record months remain Oct-2025 (mobile $723.3m) and Nov-2025 (mobile $707.3m).",
+      "**Operator landscape is a duopoly with a thin tail.** Of 11 live mobile books, FanDuel (Live! Casino licence) took $265.9m (41.5% of mobile handle; 42.9% of mobile GGR at 9.1% hold) and DraftKings $193.2m (30.1%; 28.4% of GGR at 8.3%). Fanatics $50.6m (7.9%), BetMGM $44.9m (7.0%), bet365 $44.8m (7.0%) and Caesars $20.7m (3.2%) follow; theScore Bet, BetRivers, Bally Bet, betPARX and LetsBetMD share the remaining 3.3%. Top-5 = 93.5% of mobile handle.",
+      "**Tail consolidation is under way.** Crab Sports (Maryland's only locally owned book) paused operations on 12 Jul 2026 (FY27 YTD handle $58.8k); Betfred (Long Shot's) and SuperBook licences show zero activity after both brands withdrew; PointsBet became Fanatics. Twelve mobile licences remain issued against a statutory ceiling of 60.",
+      "**Product mix is parlay-led and that drives hold.** Parlays/combinations were $246.3m (37.8% of handle) at a 14.9% hold, generating $36.7m — 62.7% of all GGR. Straight-market holds were thin: NFL $99.6m at 4.3%, NBA $66.1m at 7.4%, MLB $62.4m at 5.3%, tennis $43.4m at 4.9%, NCAA football $34.9m at 4.7%, soccer $32.0m at 4.5%.",
+      "**Tax regime: taxable-win base, differentiated by channel.** Mobile operators pay 20% of taxable win (15% Blueprint + 5% General Fund) since 1 Jul 2025 (previously 15%; the Governor's January-2025 proposal was 30%); retail pays 15%. Taxable win = handle − prizes − deductible promotional play − other deductions (incl. the 0.25% federal excise); losses can be carried forward three months; there is no promo-deduction cap.",
+      "**Licensing: fixed fees, five-year terms, percentage renewals.** Non-refundable application fees are $2.0m (Class A-1: casinos ≥1,000 VLTs, major stadiums), $1.0m (A-2), $250k (B-1), $50k (B-2) and $500k (mobile). Renewal = 1% of the licensee's average annual sports-wagering proceeds over the preceding three years. A $500k cash reserve is mandatory; a mobile licensee may hold one licence and contract one online operator at a time. SWARC may competitively award up to 60 mobile and 30 Class B licences; 17 Class A/B licences are designated in statute (14 entities currently hold them).",
+      "**The licence window is shut unless HB 1431 revives it.** HB 1431 (2026 session, Del. Buckel) would have obliged SWARC to accept applications until 1 Jan 2028; it reached a Ways & Means hearing on 5 Mar 2026 with no recorded further action, so new mobile entry currently depends on acquiring/partnering with an existing licensee (e.g., the dormant Riverboat/P, Long Shot's or SuperBook slots).",
+      "**Land-based casinos are flat-to-down.** Six casinos generated $151.4m in September (−0.1% YoY; −5.4% MoM): MGM National Harbor $63.9m (+1.1%), Live! $54.2m (−1.4%), Horseshoe $13.1m (−6.8%), Ocean Downs $8.9m (+6.0%), Hollywood Perryville $6.7m (+6.3%), Rocky Gap $4.6m (−0.2%). July was $157.9m (−4.7%) and August ~$160m (−6%), putting Q3-2026 at ~$469m (~−4%). State contributions exceeded $65m (+1.8%), including ~$47.6m to the Education Trust Fund — an effective ~43% blended take.",
+      "**Public-benefit flows are large and politically salient.** Since December 2021 sports wagering has contributed $295.6m to the Blueprint fund, $38.6m to the General Fund and $5.8m of expired prizes to the Problem Gambling Fund; casinos contributed $606.2m to the Education Trust Fund in FY2025 alone. Education funding dependency is why FY27's 17.5% YTD shortfall will be noticed in Annapolis.",
+      "**Responsible gambling and advertising.** Minimum age is 21; a statewide Voluntary Exclusion Program and 1-800-GAMBLER/mdgamblinghelp.org are mandated; unclaimed prizes after 182 days fund problem-gambling services. COMAR 36.10 advertising rules bar targeting under-21s and college campuses and MLGCA barred 'risk-free' terminology in 2023 [regulatory detail from analyst records; not re-verified this session].",
+      "**Enforcement direction: hostile to unlicensed verticals.** MLGCA issued cease-and-desist letters to Kalshi, Robinhood and Crypto.com over sports event contracts in April 2025 and Kalshi sued; the 2026 session carried SB 652/HB 1226 (Maryland Illegal Online Gambling Enforcement) and HB 295 targeting unlicensed/sweepstakes online gaming (hearings Feb 2026). Outcomes of the 2026 bills and the current litigation posture could not be verified in-session.",
+      "**Read-through for an operator.** Maryland is a large (~$7bn annualised handle), 98%-online, promo-deductible, 20%-tax market with no supply cap binding — but the window for a fresh licence is closed, the top two hold 72% of volume, challengers are sub-8% each after three years, and September shows the state's tax base is highly hold-sensitive, which raises the probability of further fiscal tightening (rate or promo-deduction cap) in the 2027 session."
+    ],
+    "groupTable": {
+      "note": "Maryland market summary (US $m)",
+      "columns": [
+        "Sep-26",
+        "MoM",
+        "YoY",
+        "FY27 YTD (Jul–Sep 26)",
+        "FY YTD YoY"
+      ],
+      "rows": [
+        {
+          "label": "Sports wagering (MLGCA)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Handle – total",
+          "kind": "emphasis",
+          "cells": [
+            "652.2",
+            "+40.0%",
+            "+0.2%",
+            "1,614.5",
+            "+11.4%"
+          ]
+        },
+        {
+          "label": "Handle – mobile",
+          "indent": true,
+          "cells": [
+            "641.2",
+            "+39.8%",
+            "+0.7%",
+            "1,589.1",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Handle – retail",
+          "indent": true,
+          "cells": [
+            "11.0",
+            "+54.8%",
+            "−22.8%",
+            "25.4",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Mobile share of handle",
+          "indent": true,
+          "cells": [
+            "98.3%",
+            "98.5% (Aug)",
+            "97.8% (Sep-25)",
+            "98.4%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "GGR (hold = handle − prizes)",
+          "kind": "emphasis",
+          "cells": [
+            "58.5",
+            "+29.2%",
+            "−20.0%",
+            "159.2",
+            "−6.4%"
+          ]
+        },
+        {
+          "label": "GGR – mobile",
+          "indent": true,
+          "cells": [
+            "56.6",
+            "+26.8%",
+            "−20.1%",
+            "156.2",
+            "n/a"
+          ]
+        },
+        {
+          "label": "GGR – retail",
+          "indent": true,
+          "cells": [
+            "1.8",
+            "+208%",
+            "−16.3%",
+            "3.0",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Hold %",
+          "indent": true,
+          "cells": [
+            "9.0%",
+            "9.7% (Aug)",
+            "11.2% (Sep-25)",
+            "9.9%",
+            "11.7% (FY26 YTD)"
+          ]
+        },
+        {
+          "label": "Deductible promotional play",
+          "indent": true,
+          "cells": [
+            "11.0",
+            "+23.6%",
+            "+200%",
+            "31.6",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Promo as % of handle / GGR",
+          "indent": true,
+          "cells": [
+            "1.68% / 18.7%",
+            "1.90% / 19.6%",
+            "0.56% / 5.0%",
+            "1.96% / 19.8%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Taxable win (handle − prizes − promo − other)",
+          "kind": "emphasis",
+          "cells": [
+            "45.9",
+            "+30.3%",
+            "−32.4%",
+            "123.5",
+            "n/a"
+          ]
+        },
+        {
+          "label": "State tax (15% retail / 20% mobile of taxable win)",
+          "kind": "emphasis",
+          "cells": [
+            "9.10",
+            "+29.6%",
+            "−32.5%",
+            "24.57",
+            "−17.5%"
+          ]
+        },
+        {
+          "label": "– to Blueprint for Maryland's Future Fund",
+          "indent": true,
+          "cells": [
+            "6.89",
+            "n/a",
+            "10.18 (Sep-25)",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "– to General Fund (5% of mobile)",
+          "indent": true,
+          "cells": [
+            "2.21",
+            "n/a",
+            "3.29 (Sep-25)",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Effective state take on GGR",
+          "indent": true,
+          "cells": [
+            "15.6%",
+            "15.5%",
+            "18.4%",
+            "15.4%",
+            "17.5% (FY26 YTD)"
+          ]
+        },
+        {
+          "label": "Land-based casinos (MLGCA)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Casino GGR (slots + tables), 6 properties",
+          "kind": "emphasis",
+          "cells": [
+            "151.4",
+            "−5.4%",
+            "−0.1%",
+            "~469 (Jul 157.9 / Aug ~160 / Sep 151.4)",
+            "~−4% (secondary)"
+          ]
+        },
+        {
+          "label": "Casino state contributions",
+          "indent": true,
+          "cells": [
+            ">65.0",
+            "n/a",
+            "+1.8%",
+            "~203 (est. sum of monthly releases)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "– of which Education Trust Fund",
+          "indent": true,
+          "cells": [
+            "~47.6",
+            "n/a",
+            "+1.7%",
+            "~147.7",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Lottery sales",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Tax base & rates",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Mobile sports wagering",
+          "indent": true,
+          "cells": [
+            "20% of taxable win (15% BMFF + 5% GF)",
+            "",
+            "since 1 Jul 2025 (was 15%)",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Retail sports wagering",
+          "indent": true,
+          "cells": [
+            "15% of taxable win → BMFF",
+            "",
+            "unchanged since Dec 2021",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Casino table games / VLTs",
+          "indent": true,
+          "cells": [
+            "20% tables; VLT state share property-specific",
+            "",
+            "blended ~43% effective",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Licensing",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Mobile licences (issued / live / cap)",
+          "indent": true,
+          "cells": [
+            "12 / 11 / 60",
+            "",
+            "Crab Sports paused 12 Jul 26",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Retail locations reporting handle / designated Class A-B",
+          "indent": true,
+          "cells": [
+            "11 / 17 (+ up to 30 Class B competitive)",
+            "",
+            "Betfred & Canton sites dormant",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Application fees",
+          "indent": true,
+          "cells": [
+            "A-1 $2.0m; A-2 $1.0m; B-1 $0.25m; B-2 $0.05m; Mobile $0.5m",
+            "",
+            "5-yr term; renewal 1% of 3-yr avg proceeds",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Mobile sports betting — operator landscape and economics",
+        "headline": "FanDuel and DraftKings take 71.6% of mobile handle and 71.3% of mobile GGR; the challenger tier is stuck below 8% each and the local tail is exiting.",
+        "narrative": [
+          "Mobile handle of $641.15m in September 2026 was up just 0.7% on September 2025's $636.67m, with one fewer NFL week in the comparison base. Operators held 8.8% ($56.65m) against 11.1% ($70.90m) a year ago, so mobile GGR fell 20.1%. Deductible promotional play was $10.94m versus $3.64m, which — combined with the lower hold — cut mobile taxable win 32.9% to $44.16m and mobile tax to $8.83m. Put differently, Maryland books gave back almost one promo dollar for every five gross-win dollars in September, up from one in twenty a year earlier; whether that is a structural step-up in reinvestment for NFL season or a timing artefact (bonus bets issued for the season opener and redeemed in-month) will show in October–November data.",
+          "FanDuel, operating on the Live! Casino & Hotel mobile licence, wagered $265.90m (41.5% share, +4.6% YoY vs $254.1m) but its hold fell to 9.1% from 12.7%, so GGR dropped roughly 25% to $24.32m; it still delivered 42.9% of mobile GGR and $3.61m of the state's $8.83m mobile tax. DraftKings took $193.18m (30.1%, flat on $193.4m) at an 8.3% hold for $16.08m GGR (+6.5% YoY, because its September-2025 hold was a weak 7.8%). Between them the two leaders generated $40.4m of mobile GGR and $6.07m of tax. FY27 YTD the gap is the same shape: FanDuel $635.2m handle (40.0%), DraftKings $485.1m (30.5%).",
+          "The second tier has three operators within $6m of handle of each other: Fanatics (Maryland Stadium Sub licence) $50.63m at a market-low 7.6% hold ($3.83m GGR; 2.3% promo intensity), BetMGM $44.95m at 10.5% ($4.71m GGR; reports zero deductible promo) and bet365 (Riverboat on the Potomac 'B' licence) $44.77m at 7.8% ($3.48m; also zero deductible promo). bet365 is the clearest example of hold volatility: a year ago it posted a 24% hold and $11.2m GGR on $46.7m handle; this September its GGR was down ~69% on handle down 4%. Caesars (American Wagering/Horseshoe) is a distant sixth at $20.66m (3.2%), 9.5% hold, $1.97m GGR.",
+          "Below that the tail is sub-scale: theScore Bet (Penn, on the Hollywood Casino licence; rebranded from ESPN BET) $8.98m handle but the market's tightest hold at 12.9%; BetRivers (Bingo World) $7.81m; Bally Bet $2.38m; betPARX (Greenmount) $1.15m; LetsBetMD (Veterans Services Corp/Bee-Fee) $0.75m. Crab Sports, the only Maryland-owned brand, announced on 17 Jun 2026 it would pause wagering from 12 Jul 2026 and shows zero September volume; Betfred (Long Shot's) and SuperBook licences are dormant after both brands withdrew, and the second Riverboat slot ('P') is unused. Three years after launch, no operator outside the top five has reached 2% share — the empirical ceiling for a late, undifferentiated entrant in this market.",
+          "Commercially, Maryland's structure is favourable to incumbents' unit economics: a 20% rate on a fully promo-deductible, loss-carry-forward base yields an effective 15–16% of GGR (versus the 20% headline), well below Pennsylvania (36%, promo-deductible with limits), Illinois' tiered 20–40% plus per-wager surcharge, or New York's 51%. For a B2B/B2C entrant the practical route is a licence partnership with one of the dormant designated holders (Riverboat/P, Long Shot's, SuperBook) rather than a new SWARC award, since the competitive application window is closed absent legislation such as HB 1431.",
+          "Regulator guidance: the MLGCA notes that reported hold is computed on wagers placed in the period even where events have not settled, so monthly hold is revised as futures settle; the September NBA line ($66.1m handle in a month with no regular-season games) is almost certainly futures/preseason-driven and will distort hold in later months."
+        ],
+        "table": {
+          "note": "Mobile licensees, September 2026 (US $m; MLGCA licensee data)",
+          "columns": [
+            "Sep-26 handle",
+            "Share of mobile",
+            "GGR (hold)",
+            "Hold %",
+            "Deductible promo",
+            "Taxable win",
+            "State tax (20%)",
+            "FY27 YTD handle"
+          ],
+          "rows": [
+            {
+              "label": "FanDuel (Live! Casino licence)",
+              "kind": "emphasis",
+              "cells": [
+                "265.9",
+                "41.5%",
+                "24.3",
+                "9.1%",
+                "5.65",
+                "18.0",
+                "3.61",
+                "635.2"
+              ]
+            },
+            {
+              "label": "DraftKings",
+              "kind": "emphasis",
+              "cells": [
+                "193.2",
+                "30.1%",
+                "16.1",
+                "8.3%",
+                "3.32",
+                "12.3",
+                "2.46",
+                "485.1"
+              ]
+            },
+            {
+              "label": "Fanatics (Maryland Stadium Sub)",
+              "cells": [
+                "50.6",
+                "7.9%",
+                "3.8",
+                "7.6%",
+                "1.15",
+                "2.6",
+                "0.51",
+                "127.1"
+              ]
+            },
+            {
+              "label": "BetMGM (MGM National Harbor)",
+              "cells": [
+                "44.9",
+                "7.0%",
+                "4.7",
+                "10.5%",
+                "0.00",
+                "4.6",
+                "0.92",
+                "120.7"
+              ]
+            },
+            {
+              "label": "bet365 (Riverboat on the Potomac / B)",
+              "cells": [
+                "44.8",
+                "7.0%",
+                "3.5",
+                "7.8%",
+                "0.00",
+                "3.4",
+                "0.67",
+                "112.7"
+              ]
+            },
+            {
+              "label": "Caesars (Horseshoe)",
+              "cells": [
+                "20.7",
+                "3.2%",
+                "2.0",
+                "9.5%",
+                "0.40",
+                "1.5",
+                "0.30",
+                "50.5"
+              ]
+            },
+            {
+              "label": "theScore Bet (Hollywood Casino / Penn)",
+              "cells": [
+                "9.0",
+                "1.4%",
+                "1.2",
+                "12.9%",
+                "0.25",
+                "0.9",
+                "0.18",
+                "23.7"
+              ]
+            },
+            {
+              "label": "BetRivers (Bingo World)",
+              "cells": [
+                "7.8",
+                "1.2%",
+                "0.8",
+                "9.7%",
+                "0.16",
+                "0.6",
+                "0.12",
+                "22.4"
+              ]
+            },
+            {
+              "label": "Bally Bet",
+              "cells": [
+                "2.4",
+                "0.4%",
+                "0.2",
+                "6.6%",
+                "0.00",
+                "0.15",
+                "0.03",
+                "6.1"
+              ]
+            },
+            {
+              "label": "betPARX (Greenmount)",
+              "cells": [
+                "1.2",
+                "0.2%",
+                "0.1",
+                "9.2%",
+                "0.01",
+                "0.09",
+                "0.02",
+                "2.9"
+              ]
+            },
+            {
+              "label": "LetsBetMD (Veterans Services Corp)",
+              "cells": [
+                "0.8",
+                "0.1%",
+                "0.1",
+                "11.0%",
+                "0.00",
+                "0.08",
+                "0.02",
+                "2.6"
+              ]
+            },
+            {
+              "label": "Crab Sports (paused 12 Jul 2026)",
+              "cells": [
+                "0.0",
+                "0.0%",
+                "0.0",
+                "n/a",
+                "0.00",
+                "0.00",
+                "0.00",
+                "0.06"
+              ]
+            },
+            {
+              "label": "Dormant: Long Shot's (ex-Betfred), SuperBook, Riverboat / P",
+              "cells": [
+                "0.0",
+                "0.0%",
+                "0.0",
+                "n/a",
+                "0.00",
+                "0.00",
+                "0.00",
+                "0.0"
+              ]
+            },
+            {
+              "label": "Total mobile",
+              "kind": "emphasis",
+              "cells": [
+                "641.2",
+                "100%",
+                "56.6",
+                "8.8%",
+                "10.94",
+                "44.2",
+                "8.83",
+                "1,589.1"
+              ]
+            },
+            {
+              "label": "Memo: top-2 / top-5 share of handle",
+              "cells": [
+                "71.6% / 93.5%",
+                "",
+                "71.3% / 92.5% of GGR",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Mobile market totals",
+            "takeaway": "Mobile handle of $641.15m in September 2026 rose just 0.7% YoY, but hold fell to 8.8% and mobile GGR dropped 20.1%.",
+            "points": [
+              "Handle compares with $636.67m in September 2025, with one fewer NFL week in the comparison base.",
+              "Operators held 8.8% ($56.65m) against 11.1% ($70.90m) a year ago.",
+              "Deductible promotional play was $10.94m versus $3.64m; mobile taxable win fell 32.9% to $44.16m and mobile tax to $8.83m.",
+              "Books gave back almost one promo dollar per five gross-win dollars, up from one in twenty a year earlier.",
+              "Whether this is structural NFL-season reinvestment or a timing artefact will show in October–November data."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "FanDuel and DraftKings",
+            "takeaway": "FanDuel and DraftKings take 71.6% of mobile handle and 71.3% of mobile GGR, generating $40.4m GGR and $6.07m of tax together.",
+            "points": [
+              "FanDuel (Live! licence) wagered $265.90m (41.5% share, +4.6% YoY vs $254.1m); hold fell to 9.1% from 12.7%, GGR dropped roughly 25% to $24.32m.",
+              "FanDuel still delivered 42.9% of mobile GGR and $3.61m of the state's $8.83m mobile tax.",
+              "DraftKings took $193.18m (30.1%, flat on $193.4m) at 8.3% hold for $16.08m GGR (+6.5% YoY, as September-2025 hold was a weak 7.8%).",
+              "FY27 YTD: FanDuel $635.2m handle (40.0%), DraftKings $485.1m (30.5%)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Challenger tier",
+            "takeaway": "The second tier is stuck below 8% each, with Fanatics, BetMGM and bet365 within $6m of handle of each other.",
+            "points": [
+              "Fanatics (Maryland Stadium Sub licence) $50.63m at market-low 7.6% hold ($3.83m GGR; 2.3% promo intensity).",
+              "BetMGM $44.95m at 10.5% ($4.71m GGR; zero deductible promo); bet365 (Riverboat 'B' licence) $44.77m at 7.8% ($3.48m; zero deductible promo).",
+              "bet365 shows hold volatility: a year ago 24% hold and $11.2m GGR on $46.7m handle; this September GGR down ~69% on handle down 4%.",
+              "Caesars (American Wagering/Horseshoe) is a distant sixth at $20.66m (3.2%), 9.5% hold, $1.97m GGR."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Sub-scale tail",
+            "takeaway": "Three years after launch, no operator outside the top five has reached 2% share, and the local tail is exiting.",
+            "points": [
+              "theScore Bet (Penn, Hollywood Casino licence; rebranded from ESPN BET) $8.98m handle at the market's tightest 12.9% hold.",
+              "BetRivers (Bingo World) $7.81m; Bally Bet $2.38m; betPARX (Greenmount) $1.15m; LetsBetMD (Veterans Services Corp/Bee-Fee) $0.75m.",
+              "Crab Sports, the only Maryland-owned brand, announced on 17 Jun 2026 it would pause wagering from 12 Jul 2026; zero September volume.",
+              "Betfred (Long Shot's) and SuperBook licences are dormant after withdrawal; the second Riverboat slot ('P') is unused.",
+              "2% share is the empirical ceiling for a late, undifferentiated entrant in this market."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Tax economics and entry",
+            "takeaway": "Maryland's 20% promo-deductible rate yields an effective 15–16% of GGR, favourable to incumbents; entry now runs via dormant licence partnerships.",
+            "points": [
+              "Effective take is well below Pennsylvania (36%, promo-deductible with limits), Illinois' tiered 20–40% plus per-wager surcharge, or New York's 51%.",
+              "Practical route for an entrant is partnering with a dormant holder (Riverboat/P, Long Shot's, SuperBook) rather than a new SWARC award.",
+              "The competitive application window is closed absent legislation such as HB 1431."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Regulator hold guidance",
+            "takeaway": "MLGCA computes hold on wagers placed, not settled, so monthly hold is revised as futures settle.",
+            "points": [
+              "The September NBA line ($66.1m handle in a month with no regular-season games) is almost certainly futures/preseason-driven.",
+              "That line will distort hold in later months."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Sports betting — product mix, retail channel and seasonality",
+        "headline": "Parlays are 38% of handle but 63% of GGR; straight NFL/NBA/MLB markets hold 4–7%, so monthly tax receipts swing on parlay results.",
+        "narrative": [
+          "The MLGCA's 'Bets by Sport' sheet shows why September's hold collapsed. Parlays/combinations were $246.3m of handle (37.8%) at a 14.9% hold and produced $36.7m — 62.7% of statewide GGR. Everything else was thin: NFL $99.6m at 4.3% ($4.3m), NBA $66.1m at 7.4% ($4.9m), MLB $62.4m at 5.3% ($3.3m), tennis $43.4m at 4.9% ($2.1m), NCAA football $34.9m at 4.7% ($1.6m), soccer $32.0m at 4.5% ($1.4m), 'other' $63.8m at 5.7% ($3.7m). Motor sports and NCAA basketball posted negative hold on negligible volume. Fiscal-year-to-date the picture is identical: parlays $586.3m (36.3% of handle) at 16.9% hold = $99.3m, or 62.4% of the $159.2m GGR.",
+          "The implication for an operator is that pricing and product in parlay/SGP is the entire margin story in Maryland; a book without a competitive same-game-parlay engine is structurally a 4–6% hold business paying 20% on taxable win plus 0.25% federal excise on handle (deductible). It also means the state's revenue line is unusually sensitive to a handful of weekends — Annapolis's own analysts have noted that forecasts rest on a hold the state cannot control.",
+          "Retail is now an amenity, not a channel. September retail handle was $11.05m (1.7% of the market), down 22.8% YoY and 54.8% above August's $7.14m; hold was a healthy 16.3% ($1.81m) and tax $0.26m. MGM National Harbor ($4.36m, 39% of retail) and Live! ($3.12m, 28%) dominate; Horseshoe, Ocean Downs and Hollywood Perryville each took $0.5–0.75m; six smaller sites (Whitman Gaming, Bingo World, Long Shot's/Caesars, Riverboat, Greenmount OTB, the Maryland Stadium Authority kiosk) shared $1.73m. The three Canton Gaming OTB sites and the Long Shot's/Betfred window reported no handle. Retail hold is structurally higher (FY27 YTD 11.9% vs 9.8% mobile) because of a parlay-heavy walk-up mix, but the base is too small to matter for tax.",
+          "Seasonality: August ($465.9m) to September ($652.2m) is the normal NFL step-up (+40%); October and November 2025 were the all-time peaks (mobile $723.3m and $707.3m), and the lead-article framing of 'nearly $5bn in nine months' ($4.98bn, +9%) points to a calendar-2026 handle in the $7.0–7.2bn range (estimate) if Q4 repeats 2025's ~$2.1bn. On the MLGCA's own FYTD table, FY27 handle is +11.4% but GGR −6.4% and tax −17.5%: volume growth is intact, monetisation is not.",
+          "Hold volatility is also an accounting artefact the regulator flags: hold is booked on wagers placed, not settled, so large futures positions (e.g., the $66m NBA line in a month without regular-season games) depress reported hold now and inflate it when they settle."
+        ],
+        "table": {
+          "note": "Handle and hold by sport, and retail by location (US $m; MLGCA)",
+          "columns": [
+            "Sep-26 handle",
+            "% of handle",
+            "Sep-26 hold %",
+            "Sep-26 GGR",
+            "FY27 YTD handle",
+            "FY27 YTD hold %"
+          ],
+          "rows": [
+            {
+              "label": "By sport (retail + mobile)",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Parlay / combinations",
+              "kind": "emphasis",
+              "cells": [
+                "246.3",
+                "37.8%",
+                "14.9%",
+                "36.7",
+                "586.3",
+                "16.9%"
+              ]
+            },
+            {
+              "label": "Pro football (NFL)",
+              "cells": [
+                "99.6",
+                "15.3%",
+                "4.3%",
+                "4.3",
+                "115.8",
+                "4.7%"
+              ]
+            },
+            {
+              "label": "Pro basketball (NBA)",
+              "cells": [
+                "66.1",
+                "10.1%",
+                "7.4%",
+                "4.9",
+                "191.6",
+                "6.6%"
+              ]
+            },
+            {
+              "label": "Pro baseball (MLB)",
+              "cells": [
+                "62.4",
+                "9.6%",
+                "5.3%",
+                "3.3",
+                "235.4",
+                "5.2%"
+              ]
+            },
+            {
+              "label": "Tennis",
+              "cells": [
+                "43.4",
+                "6.7%",
+                "4.9%",
+                "2.1",
+                "120.1",
+                "5.7%"
+              ]
+            },
+            {
+              "label": "NCAA football",
+              "cells": [
+                "34.9",
+                "5.4%",
+                "4.7%",
+                "1.6",
+                "38.0",
+                "5.9%"
+              ]
+            },
+            {
+              "label": "Soccer",
+              "cells": [
+                "32.0",
+                "4.9%",
+                "4.5%",
+                "1.4",
+                "120.8",
+                "6.6%"
+              ]
+            },
+            {
+              "label": "Ice hockey",
+              "cells": [
+                "1.8",
+                "0.3%",
+                "15.8%",
+                "0.3",
+                "2.1",
+                "16.0%"
+              ]
+            },
+            {
+              "label": "Golf",
+              "cells": [
+                "1.7",
+                "0.3%",
+                "8.0%",
+                "0.1",
+                "14.0",
+                "7.0%"
+              ]
+            },
+            {
+              "label": "Other (incl. motor sports, NCAA basketball)",
+              "cells": [
+                "63.9",
+                "9.8%",
+                "5.7%",
+                "3.6",
+                "190.3",
+                "5.8%"
+              ]
+            },
+            {
+              "label": "Total",
+              "kind": "emphasis",
+              "cells": [
+                "652.2",
+                "100%",
+                "9.0%",
+                "58.5",
+                "1,614.5",
+                "9.9%"
+              ]
+            },
+            {
+              "label": "Retail channel by location",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Retail – total (11 reporting sites)",
+              "kind": "emphasis",
+              "cells": [
+                "11.05",
+                "1.7% of market",
+                "16.3%",
+                "1.81",
+                "25.4",
+                "11.9%"
+              ]
+            },
+            {
+              "label": "MGM National Harbor",
+              "indent": true,
+              "cells": [
+                "4.36",
+                "39.4% of retail",
+                "12.6%",
+                "0.55",
+                "9.65",
+                "7.9%"
+              ]
+            },
+            {
+              "label": "Live! Casino & Hotel",
+              "indent": true,
+              "cells": [
+                "3.12",
+                "28.3%",
+                "14.4%",
+                "0.45",
+                "7.38",
+                "12.1%"
+              ]
+            },
+            {
+              "label": "Horseshoe Baltimore",
+              "indent": true,
+              "cells": [
+                "0.75",
+                "6.8%",
+                "15.4%",
+                "0.12",
+                "1.75",
+                "12.8%"
+              ]
+            },
+            {
+              "label": "Ocean Downs",
+              "indent": true,
+              "cells": [
+                "0.56",
+                "5.1%",
+                "24.3%",
+                "0.14",
+                "1.21",
+                "19.9%"
+              ]
+            },
+            {
+              "label": "Hollywood Perryville",
+              "indent": true,
+              "cells": [
+                "0.53",
+                "4.8%",
+                "35.9%",
+                "0.19",
+                "1.24",
+                "20.3%"
+              ]
+            },
+            {
+              "label": "Six other sites (Whitman, Bingo World, Long Shot's, Riverboat, Greenmount, MSA)",
+              "indent": true,
+              "cells": [
+                "1.73",
+                "15.7%",
+                "21.2%",
+                "0.37",
+                "4.21",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Dormant: Canton Gaming ×3, Long Shot's/Betfred",
+              "indent": true,
+              "cells": [
+                "0.00",
+                "0.0%",
+                "n/a",
+                "0.00",
+                "0.00",
+                "n/a"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Product mix",
+            "takeaway": "Parlays are 38% of handle but 63% of GGR; straight NFL/NBA/MLB markets hold only 4–7%.",
+            "points": [
+              "Parlays/combinations were $246.3m of handle (37.8%) at 14.9% hold, producing $36.7m — 62.7% of statewide GGR.",
+              "NFL $99.6m at 4.3% ($4.3m), NBA $66.1m at 7.4% ($4.9m), MLB $62.4m at 5.3% ($3.3m), tennis $43.4m at 4.9% ($2.1m).",
+              "NCAA football $34.9m at 4.7% ($1.6m), soccer $32.0m at 4.5% ($1.4m), 'other' $63.8m at 5.7% ($3.7m); motor sports and NCAA basketball negative hold on negligible volume.",
+              "FYTD parlays $586.3m (36.3% of handle) at 16.9% hold = $99.3m, or 62.4% of the $159.2m GGR."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Parlay implications",
+            "takeaway": "Pricing and product in parlay/SGP is the entire margin story in Maryland, making state revenue unusually sensitive to a handful of weekends.",
+            "points": [
+              "A book without a competitive same-game-parlay engine is structurally a 4–6% hold business paying 20% on taxable win plus 0.25% federal excise on handle (deductible).",
+              "Annapolis's own analysts have noted that forecasts rest on a hold the state cannot control."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Retail channel",
+            "takeaway": "Retail is now an amenity, not a channel: September handle $11.05m (1.7% of market), down 22.8% YoY.",
+            "points": [
+              "Retail handle was 54.8% above August's $7.14m; hold 16.3% ($1.81m), tax $0.26m.",
+              "MGM National Harbor ($4.36m, 39% of retail) and Live! ($3.12m, 28%) dominate; Horseshoe, Ocean Downs and Hollywood Perryville each took $0.5–0.75m.",
+              "Six smaller sites (Whitman Gaming, Bingo World, Long Shot's/Caesars, Riverboat, Greenmount OTB, Maryland Stadium Authority kiosk) shared $1.73m; three Canton Gaming OTBs and Long Shot's/Betfred reported no handle.",
+              "Retail hold is structurally higher (FY27 YTD 11.9% vs 9.8% mobile) from parlay-heavy walk-up mix, but the base is too small to matter for tax."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Seasonality",
+            "takeaway": "FY27 handle is +11.4% but GGR −6.4% and tax −17.5%: volume growth is intact, monetisation is not.",
+            "points": [
+              "August ($465.9m) to September ($652.2m) is the normal NFL step-up (+40%).",
+              "October and November 2025 were all-time peaks (mobile $723.3m and $707.3m).",
+              "'Nearly $5bn in nine months' ($4.98bn, +9%) points to calendar-2026 handle of $7.0–7.2bn (estimate) if Q4 repeats 2025's ~$2.1bn."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Hold accounting artefact",
+            "takeaway": "Hold is booked on wagers placed, not settled, so large futures positions depress reported hold now and inflate it later.",
+            "points": [
+              "Example: the $66m NBA line in a month without regular-season games.",
+              "The regulator flags this as a reporting artefact."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Land-based casinos and lottery",
+        "headline": "Six casinos generated $151.4m in September (−0.1% YoY) and ~$469m in Q3 (~−4%); the state's ~43% blended take still delivered >$65m, dwarfing sports-betting tax.",
+        "narrative": [
+          "Maryland's six commercial casinos (VLTs authorised by the 2008 referendum, table games added 2012) produced $151,414,275 from slots and tables in September 2026, down $121,333 (−0.1%) on September 2025 and the fifth consecutive month of YoY decline, though the rate of decline narrowed sharply from July (−4.7%, $157.9m) and August (−6%, ~$160m). The quarter therefore came in around $469m against roughly $487m a year earlier (~−4%, consistent with trade-press reporting). Per-property: MGM National Harbor $63.9m (+1.1%; 2,208 slots/214 tables), Live! Casino & Hotel $54.2m (−1.4%; 3,500/181), Horseshoe Baltimore $13.1m (−6.8%; 1,382/104), Ocean Downs $8.9m (+6.0%; 900/17), Hollywood Perryville $6.7m (+6.3%; 714/18), Rocky Gap $4.6m (−0.2%). MGM and Live! are 78% of the market. Trade reports put the slots/tables split at ~$109m/~$38.9m, which does not sum to the statewide total; treat the split as [unverified].",
+          "State contributions from casino gaming exceeded $65m in September (+1.8% YoY despite flat GGR), including ~$47.6m to the Education Trust Fund, $8.1m to host communities, $7.6m to the horse-racing industry and $1.6m to small, minority- and women-owned business funds. The blended effective take is ~43% of GGR — table games are taxed at 20% and VLT proceeds are shared on property-specific schedules set in statute — which is why a $151m casino month yields seven times the state revenue of a $652m sports-betting month ($9.1m). In FY2025 casinos sent $606.2m to the Education Trust Fund.",
+          "For a digital operator the relevant point is that the land-based estate is mature and ex-growth, the two big properties are owned by MGM and Cordish (the latter FanDuel's licence partner), and there is no online-casino channel to migrate that revenue into. Casino positions also anchor the Class A-1 sports-wagering licences, and the Commission held five-year renewal hearings on 27 Aug 2026 for the MGM National Harbor, Hollywood Perryville, Ocean Downs and Horseshoe/Caesars retail licences with staff recommending renewal.",
+          "Lottery: the Maryland Lottery is operated by the same agency; FY2026 sales and transfers were not retrievable in-session and are shown as n/a rather than estimated."
+        ],
+        "table": {
+          "note": "Casino GGR by property and state contributions (US $m; MLGCA September 2026 casino release via reproductions)",
+          "columns": [
+            "Sep-26",
+            "YoY",
+            "Memo"
+          ],
+          "rows": [
+            {
+              "label": "MGM National Harbor",
+              "cells": [
+                "63.9",
+                "+1.1%",
+                "2,208 slots / 214 tables"
+              ]
+            },
+            {
+              "label": "Live! Casino & Hotel (Cordish)",
+              "cells": [
+                "54.2",
+                "−1.4%",
+                "3,500 slots / 181 tables"
+              ]
+            },
+            {
+              "label": "Horseshoe Baltimore (Caesars)",
+              "cells": [
+                "13.1",
+                "−6.8%",
+                "1,382 slots / 104 tables"
+              ]
+            },
+            {
+              "label": "Ocean Downs (Churchill Downs)",
+              "cells": [
+                "8.9",
+                "+6.0%",
+                "900 slots / 17 tables"
+              ]
+            },
+            {
+              "label": "Hollywood Perryville (Penn)",
+              "cells": [
+                "6.7",
+                "+6.3%",
+                "714 slots / 18 tables"
+              ]
+            },
+            {
+              "label": "Rocky Gap (Century)",
+              "cells": [
+                "4.6",
+                "−0.2%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Statewide casino GGR",
+              "kind": "emphasis",
+              "cells": [
+                "151.4",
+                "−0.1%",
+                "Jul-26 157.9 (−4.7%); Aug-26 ~160 (−6%); Q3-26 ~469 (~−4%)"
+              ]
+            },
+            {
+              "label": "State contributions",
+              "kind": "emphasis",
+              "cells": [
+                ">65.0",
+                "+1.8%",
+                "Sep-25: 64.9; effective ~43% of GGR"
+              ]
+            },
+            {
+              "label": "– Education Trust Fund",
+              "indent": true,
+              "cells": [
+                "~47.6",
+                "n/a",
+                "FY2025 full year: 606.2"
+              ]
+            },
+            {
+              "label": "– Local impact grants / horse racing / SMWOB",
+              "indent": true,
+              "cells": [
+                "8.1 / 7.6 / 1.6",
+                "n/a",
+                ""
+              ]
+            },
+            {
+              "label": "Lottery sales / transfers",
+              "cells": [
+                "n/a",
+                "n/a",
+                "not retrieved in-session"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Casino GGR",
+            "takeaway": "Six casinos generated $151,414,275 in September 2026 (−0.1% YoY), the fifth consecutive monthly decline, with Q3 ~$469m (~−4%).",
+            "points": [
+              "Decline narrowed sharply from July (−4.7%, $157.9m) and August (−6%, ~$160m); Q3 compares with roughly $487m a year earlier.",
+              "MGM National Harbor $63.9m (+1.1%; 2,208 slots/214 tables), Live! $54.2m (−1.4%; 3,500/181); together 78% of the market.",
+              "Horseshoe Baltimore $13.1m (−6.8%; 1,382/104), Ocean Downs $8.9m (+6.0%; 900/17), Hollywood Perryville $6.7m (+6.3%; 714/18), Rocky Gap $4.6m (−0.2%).",
+              "Trade-reported slots/tables split ~$109m/~$38.9m does not sum to the statewide total; treat as [unverified]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "State contributions",
+            "takeaway": "Casino contributions exceeded $65m in September (+1.8% YoY), a ~43% blended take that dwarfs the $9.1m from a $652m sports-betting month.",
+            "points": [
+              "Includes ~$47.6m to the Education Trust Fund, $8.1m to host communities, $7.6m to horse racing and $1.6m to small, minority- and women-owned business funds.",
+              "Table games taxed at 20%; VLT proceeds shared on property-specific statutory schedules.",
+              "In FY2025 casinos sent $606.2m to the Education Trust Fund."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Digital relevance and renewals",
+            "takeaway": "The land-based estate is mature and ex-growth with no online-casino channel to migrate revenue into.",
+            "points": [
+              "The two big properties are owned by MGM and Cordish, the latter FanDuel's licence partner.",
+              "Casino positions anchor Class A-1 sports-wagering licences; renewal hearings held 27 Aug 2026 for MGM National Harbor, Hollywood Perryville, Ocean Downs and Horseshoe/Caesars with staff recommending renewal."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Lottery",
+            "takeaway": "The Maryland Lottery is run by the same agency; FY2026 sales and transfers were not retrievable and are shown as n/a.",
+            "points": [
+              "Figures are shown as n/a rather than estimated."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Licensing and tax regime",
+        "headline": "Fixed-fee, five-year licences with 1%-of-proceeds renewals and a promo-deductible 20%/15% tax on taxable win — operator-friendly on paper, but the application window is closed and the rate has already moved once.",
+        "narrative": [
+          "Licensing runs on two tracks. Seventeen Class A/B facility licences are designated in statute (SG §9-1E-06(a)) for the six casinos, the three major stadiums (M&T Bank, Oriole Park, the Commanders' stadium via Maryland Stadium Sub), racetracks, OTBs and commercial bingo halls; 14 entities currently hold them. SWARC may additionally run a competitive process for up to 30 more Class B (small retail) and up to 60 mobile licences, with a statutory mandate to pursue racial, ethnic and gender diversity and a Small, Minority- and Women-Owned Business Sports Wagering Assistance Fund financed by 5% of Class A fees. Non-refundable application fees are $2.0m (A-1), $1.0m (A-2), $250k (B-1), $50k (B-2) and $500k (mobile); licences run five years and renew at 1% of the licensee's average annual sports-wagering proceeds over the prior three years (Form 4010), which for FanDuel's Live! licence implies a seven-figure renewal cheque. Every operator must hold a $500k cash reserve; a mobile licensee may hold only one mobile licence and contract only one online operator at a time, so brand changes (PointsBet→Fanatics, ESPN BET→theScore Bet) run through the licence holder.",
+          "Entry today is practically closed. SWARC's competitive window has lapsed, and HB 1431 (2026 session), which would have required SWARC to accept applications submitted before 1 Jan 2028, stalled at its 5 Mar 2026 Ways & Means hearing (its 2024 predecessor HB 526 also failed). A new entrant must therefore acquire or partner with a licensee that is dormant or sub-scale — Riverboat on the Potomac's second mobile slot, Long Shot's (ex-Betfred), SuperBook, Bally's, Greenmount, Veterans Services — or wait for legislation. The DLS fiscal note on HB 1431 anticipated only 'minimal' incremental revenue from new entrants, a signal that the legislature does not see supply as the lever.",
+          "Tax is levied on 'taxable win': handle less prizes, less deductible promotional play, less 'other deductions' (adjustments and the 0.25% federal excise on handle). Negative months are floored at zero and losses may be carried forward for three months. Retail licensees pay 15% to the Blueprint for Maryland's Future Fund; mobile licensees have paid 20% since 1 Jul 2025 (15% to Blueprint, 5% to the General Fund), up from 15%, after the Governor's FY2026 budget initially sought 30%. Mobile licensees therefore retain 80% of proceeds and all others 85%. Because promo is fully deductible, the effective state take in September was 15.6% of GGR (FY27 YTD 15.4%) versus 18.4% in September 2025 when promo was lighter.",
+          "The fiscal arithmetic matters for the political outlook. FY2026 contributions were $132.3m (+48.8%, partly the rate step-up); FY27 YTD is $24.6m, −17.5%, on handle +11.4%. The Blueprint education plan is the state's flagship spending commitment and its sports-betting line is now visibly hold- and promo-dependent. The levers Annapolis has used elsewhere — a higher headline rate, a cap or phase-out of promo deductions (as Pennsylvania, Virginia and Colorado have done), or a per-wager fee (Illinois) — are all available in the 2027 session, and the September print is precisely the kind of data point that prompts them. Cumulatively since December 2021 sports wagering has paid $295.6m to Blueprint, $38.6m to the General Fund and $5.8m to the Problem Gambling Fund.",
+          "Casino taxation is separate and heavier: table games 20% (15% ETF, 5% local), VLTs on property-specific state shares; September's >$65m of contributions on $151.4m GGR is a ~43% effective rate. Daily fantasy is regulated by MLGCA as 'fantasy competitions' with operators retaining 85% of proceeds."
+        ],
+        "table": {
+          "note": "Licence classes, fees and tax parameters (SG §9-1E; COMAR 36.10–36.11; MLGCA Form 4010; DLS fiscal note HB 1431)",
+          "columns": [
+            "Amount / rate",
+            "Term, base and notes"
+          ],
+          "rows": [
+            {
+              "label": "Sports wagering tax",
+              "kind": "group",
+              "cells": [
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Mobile licensees",
+              "kind": "emphasis",
+              "cells": [
+                "20% of taxable win",
+                "15% Blueprint fund + 5% General Fund; effective 1 Jul 2025 (previously 15%; Governor proposed 30%)"
+              ]
+            },
+            {
+              "label": "Retail (Class A/B) licensees",
+              "cells": [
+                "15% of taxable win",
+                "100% to Blueprint for Maryland's Future Fund"
+              ]
+            },
+            {
+              "label": "Taxable win definition",
+              "cells": [
+                "Handle − prizes − deductible promo − other deductions",
+                "Other = adjustments + 0.25% federal excise; losses carried forward ≤3 months; no promo cap"
+              ]
+            },
+            {
+              "label": "Effective take on GGR (Sep-26 / FY27 YTD / Sep-25)",
+              "cells": [
+                "15.6% / 15.4% / 18.4%",
+                "Gap vs headline = promo deductibility"
+              ]
+            },
+            {
+              "label": "Licence fees",
+              "kind": "group",
+              "cells": [
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Class A-1 (casinos ≥1,000 VLTs; major stadiums)",
+              "cells": [
+                "$2.0m application",
+                "5-year term; renewal 1% of 3-year average annual proceeds; 5% of fee to SMWOB fund"
+              ]
+            },
+            {
+              "label": "Class A-2",
+              "cells": [
+                "$1.0m application",
+                "as above"
+              ]
+            },
+            {
+              "label": "Class B-1 / B-2 (small retail)",
+              "cells": [
+                "$250k / $50k application",
+                "Up to 30 further Class B via SWARC competitive process"
+              ]
+            },
+            {
+              "label": "Mobile sports wagering licence",
+              "kind": "emphasis",
+              "cells": [
+                "$500k application",
+                "Up to 60; one licence per entity; one online operator contract at a time; renewal 1% of 3-year avg proceeds"
+              ]
+            },
+            {
+              "label": "Minimum reserve",
+              "cells": [
+                "$500k cash or equivalents",
+                "All facility and mobile operators"
+              ]
+            },
+            {
+              "label": "Revenue retention",
+              "cells": [
+                "Mobile 80%; all other licensees 85%",
+                "Fantasy competitions also 85%"
+              ]
+            },
+            {
+              "label": "Licence counts",
+              "kind": "group",
+              "cells": [
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Designated Class A/B licences",
+              "cells": [
+                "17 (14 entities)",
+                "Statutory, non-competitive"
+              ]
+            },
+            {
+              "label": "Mobile licences issued / live",
+              "cells": [
+                "12 / 11",
+                "Crab Sports paused; Betfred, SuperBook, Riverboat/P dormant"
+              ]
+            },
+            {
+              "label": "HB 1431 (2026) – reopen SWARC window to 1 Jan 2028",
+              "cells": [
+                "Not enacted",
+                "Hearing 5 Mar 2026; no further action recorded"
+              ]
+            },
+            {
+              "label": "Casino tax",
+              "kind": "group",
+              "cells": [
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Table games",
+              "cells": [
+                "20%",
+                "15% Education Trust Fund + 5% local"
+              ]
+            },
+            {
+              "label": "VLTs",
+              "cells": [
+                "Property-specific state share",
+                "Blended casino take ~43% of GGR (Sep-26: >$65m on $151.4m)"
+              ]
+            },
+            {
+              "label": "Cumulative sports wagering contributions since Dec 2021",
+              "cells": [
+                "Blueprint $295.6m; General Fund $38.6m; Problem Gambling Fund $5.8m",
+                "Excludes application fees"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Licence structure",
+            "takeaway": "Fixed-fee, five-year licences renew at 1% of average annual proceeds; 17 facility licences are designated in statute, 14 currently held.",
+            "points": [
+              "SG §9-1E-06(a) designates licences for six casinos, three major stadiums, racetracks, OTBs and bingo halls; SWARC may add up to 30 Class B and 60 mobile licences.",
+              "Statutory diversity mandate and an Assistance Fund financed by 5% of Class A fees.",
+              "Application fees: $2.0m (A-1), $1.0m (A-2), $250k (B-1), $50k (B-2), $500k (mobile); renewal at 1% of three-year average proceeds implies a seven-figure cheque for FanDuel's Live! licence.",
+              "Every operator holds a $500k cash reserve; one mobile licence and one online operator per licensee, so brand changes (PointsBet→Fanatics, ESPN BET→theScore Bet) run through the holder."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Entry closed",
+            "takeaway": "Entry is practically closed: SWARC's window has lapsed and HB 1431 stalled at its 5 Mar 2026 hearing.",
+            "points": [
+              "HB 1431 would have required applications before 1 Jan 2028; its 2024 predecessor HB 526 also failed.",
+              "New entrants must acquire or partner with dormant/sub-scale licensees — Riverboat's second slot, Long Shot's, SuperBook, Bally's, Greenmount, Veterans Services — or await legislation.",
+              "The DLS fiscal note anticipated only 'minimal' incremental revenue from new entrants, signalling supply is not seen as the lever."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Tax mechanics",
+            "takeaway": "Tax on promo-deductible taxable win is 20% mobile and 15% retail, giving an effective state take of 15.6% of GGR in September.",
+            "points": [
+              "Taxable win is handle less prizes, deductible promo and 'other deductions' (adjustments and 0.25% federal excise); negative months floored at zero, losses carried forward three months.",
+              "Retail pays 15% to Blueprint; mobile has paid 20% since 1 Jul 2025 (15% Blueprint, 5% General Fund), up from 15%, after the Governor sought 30%.",
+              "Mobile licensees retain 80% of proceeds, all others 85%.",
+              "Effective take was 15.6% in September (FY27 YTD 15.4%) versus 18.4% in September 2025 when promo was lighter."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Political outlook",
+            "takeaway": "FY27 YTD contributions of $24.6m are −17.5% on handle +11.4%, the kind of print that prompts rate or promo-deduction changes in 2027.",
+            "points": [
+              "FY2026 contributions were $132.3m (+48.8%, partly the rate step-up).",
+              "Blueprint's sports-betting line is now visibly hold- and promo-dependent.",
+              "Available levers: higher headline rate, promo-deduction cap or phase-out (Pennsylvania, Virginia, Colorado), or per-wager fee (Illinois).",
+              "Since December 2021 sports wagering has paid $295.6m to Blueprint, $38.6m to the General Fund and $5.8m to the Problem Gambling Fund."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Casino and DFS tax",
+            "takeaway": "Casino taxation is separate and heavier at a ~43% effective rate; DFS operators retain 85% of proceeds.",
+            "points": [
+              "Table games 20% (15% ETF, 5% local); VLTs on property-specific state shares.",
+              "September's >$65m contributions on $151.4m GGR.",
+              "Daily fantasy regulated by MLGCA as 'fantasy competitions'."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Payments, responsible gambling, advertising and enforcement (prediction markets, sweepstakes, iGaming)",
+        "headline": "A 21+ market with standard US digital payments and mandated RG infrastructure; the regulatory energy in 2025–26 is directed at unlicensed verticals (prediction markets, sweepstakes) rather than new licensed ones (iGaming).",
+        "narrative": [
+          "Payments follow the US regulated template: online banking/ACH, debit cards, PayPal and other e-wallets, prepaid Play+ cards and cash at casino cages, with no mobile-money dimension. Maryland does not publish deposit-method statistics. Whether credit-card funding is permitted under COMAR 36.10 could not be re-verified in-session and is shown as [unverified]; operators should assume at minimum the card-network and bank-level frictions common across US states. Withdrawals are governed by MLGCA operational requirements and the $500k reserve rule rather than a statutory speed standard.",
+          "Responsible-gambling architecture is statutory. The legal age is 21 for all gaming. Unclaimed sports-wagering prizes after 182 days — and prizes withheld from voluntarily excluded persons — are transferred to the Problem Gambling Fund ($5.82m cumulative; $65k in September). The agency runs a Voluntary Exclusion Program spanning casinos and sportsbooks, mandates 1-800-GAMBLER/mdgamblinghelp.org messaging, and publishes investigative summaries and decision statements on licensees. Advertising rules in COMAR 36.10 prohibit targeting under-21s and college campuses and require RG disclosures; MLGCA barred 'risk-free' promotional language in 2023 [from analyst records; not re-verified this session]. There are no statutory deposit limits, affordability checks or advertising volume caps of the UK/Dutch type.",
+          "Enforcement is the live front. In April 2025 MLGCA issued cease-and-desist letters to Kalshi, Robinhood and Crypto.com over sports-outcome event contracts offered without a Maryland licence; Kalshi sued in federal court. The status of that litigation in 2026 could not be verified in-session and should be checked before any strategic decision — it determines whether CFTC-regulated exchanges can keep siphoning NFL/NBA volume from the 20%-taxed licensed books. In parallel the 2026 General Assembly carried an 'Illegal Online Gambling Enforcement' package (SB 652/HB 1226) and HB 295, both aimed at unlicensed and sweepstakes-style online gaming and both heard in committee in February 2026; the outcome is [unverified]. The direction of travel — regulator-plus-legislature pushing to criminalise or penalise unlicensed online gaming — is clear even where the statute is not.",
+          "Online casino remains unauthorised. iGaming would require both enabling legislation and a constitutional referendum; a House-passed bill died in the Senate in 2024 and subsequent sessions have not advanced one. No iGaming question is known to be on the November 2026 ballot [unverified]. For an operator this means Maryland's ~$1.8bn annual casino GGR has no legal digital channel, and sweepstakes/social-casino products face rising enforcement risk rather than a licensing path.",
+          "Daily fantasy is regulated by MLGCA under its 'fantasy competitions' remit with operators retaining 85% of proceeds; pick'em-style DFS has not, to our knowledge, been separately restricted in Maryland [unverified]."
+        ],
+        "table": {
+          "note": "Rules and enforcement status (sources: MLGCA releases/FAQ; MGA 2026RS subject index; analyst records where flagged)",
+          "columns": [
+            "Status / rule",
+            "Detail and verification"
+          ],
+          "rows": [
+            {
+              "label": "Legal age",
+              "cells": [
+                "21",
+                "All casino, sports wagering and lottery products"
+              ]
+            },
+            {
+              "label": "Payments",
+              "cells": [
+                "ACH/online banking, debit, e-wallets, prepaid, cage cash",
+                "No regulator statistics; credit-card position [unverified]"
+              ]
+            },
+            {
+              "label": "Problem Gambling Fund",
+              "cells": [
+                "Expired prizes (182 days) + prizes withheld from excluded persons",
+                "$5.82m cumulative; $65k in Sep-26"
+              ]
+            },
+            {
+              "label": "Self-exclusion",
+              "cells": [
+                "Statewide Voluntary Exclusion Program",
+                "Covers casinos and sportsbooks; 1-800-GAMBLER mandated in all releases/ads"
+              ]
+            },
+            {
+              "label": "Advertising",
+              "cells": [
+                "COMAR 36.10: no targeting under-21s or college campuses; RG messaging required",
+                "'Risk-free' language barred (2023) [from records, not re-verified]"
+              ]
+            },
+            {
+              "label": "Online casino (iGaming)",
+              "cells": [
+                "Not authorised",
+                "Requires statute + referendum; 2024 House bill died in Senate; 2025–26 bills not enacted [2026 outcome unverified]"
+              ]
+            },
+            {
+              "label": "Prediction markets",
+              "cells": [
+                "MLGCA C&D letters to Kalshi, Robinhood, Crypto.com (Apr 2025); Kalshi litigation",
+                "2026 court status [unverified]"
+              ]
+            },
+            {
+              "label": "Sweepstakes / unlicensed online gaming",
+              "cells": [
+                "SB 652 / HB 1226 'Illegal Online Gambling Enforcement' and HB 295 (2026 session)",
+                "Committee hearings Feb 2026; outcome [unverified]"
+              ]
+            },
+            {
+              "label": "Daily fantasy",
+              "cells": [
+                "Regulated as 'fantasy competitions' by MLGCA; operators retain 85%",
+                "Pick'em treatment [unverified]"
+              ]
+            },
+            {
+              "label": "Licence renewals (retail)",
+              "cells": [
+                "Five-year renewal hearings held 27 Aug 2026",
+                "MGM National Harbor, Hollywood Perryville, Ocean Downs, Horseshoe/Caesars, BetMGM; staff recommended renewal"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Payments",
+            "takeaway": "Payments follow the standard US regulated template with no mobile-money dimension and no published deposit-method statistics.",
+            "points": [
+              "Methods: online banking/ACH, debit cards, PayPal and e-wallets, prepaid Play+ cards and cash at casino cages.",
+              "Credit-card funding under COMAR 36.10 could not be re-verified and is [unverified]; assume card-network and bank-level frictions.",
+              "Withdrawals governed by MLGCA operational requirements and the $500k reserve rule rather than a statutory speed standard."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Responsible gambling",
+            "takeaway": "RG architecture is statutory in a 21+ market, but there are no deposit limits, affordability checks or advertising volume caps.",
+            "points": [
+              "Unclaimed prizes after 182 days and prizes withheld from excluded persons go to the Problem Gambling Fund ($5.82m cumulative; $65k in September).",
+              "Voluntary Exclusion Program spans casinos and sportsbooks; mandated 1-800-GAMBLER/mdgamblinghelp.org messaging; investigative summaries published.",
+              "COMAR 36.10 prohibits targeting under-21s and college campuses; 'risk-free' promotional language barred in 2023 [not re-verified]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Enforcement",
+            "takeaway": "Enforcement is the live front, targeting prediction markets and sweepstakes rather than new licensed verticals.",
+            "points": [
+              "April 2025 cease-and-desist letters to Kalshi, Robinhood and Crypto.com; Kalshi sued in federal court; 2026 status unverified and should be checked.",
+              "Litigation determines whether CFTC-regulated exchanges can keep siphoning NFL/NBA volume from 20%-taxed licensed books.",
+              "2026 'Illegal Online Gambling Enforcement' package (SB 652/HB 1226) and HB 295 heard in February 2026; outcome [unverified].",
+              "Direction of travel toward criminalising or penalising unlicensed online gaming is clear even where statute is not."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "iGaming",
+            "takeaway": "Online casino remains unauthorised, leaving Maryland's ~$1.8bn annual casino GGR with no legal digital channel.",
+            "points": [
+              "iGaming requires enabling legislation and a constitutional referendum; a House-passed bill died in the Senate in 2024.",
+              "No iGaming question is known to be on the November 2026 ballot [unverified].",
+              "Sweepstakes/social-casino products face rising enforcement risk rather than a licensing path."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Daily fantasy",
+            "takeaway": "DFS is regulated by MLGCA under 'fantasy competitions' with operators retaining 85% of proceeds.",
+            "points": [
+              "Pick'em-style DFS has not, to our knowledge, been separately restricted in Maryland [unverified]."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Scale and digital penetration: ~$7bn annualised handle (9M-2026 $4.98bn, +9%) with 98.3% of handle and 96.9% of GGR online — one of the most purely digital sports-betting markets in the US, so no retail footprint is needed to compete.",
+        "tag": "structural"
+      },
+      {
+        "text": "Operator-friendly tax base: 20% mobile / 15% retail on taxable win with uncapped promo deductibility, a 0.25% federal-excise deduction and three-month loss carry-forward produced an effective 15.6% of GGR in September (15.4% FY27 YTD) — far below PA (36%), IL (20–40% + per-bet fee) or NY (51%).",
+        "tag": "structural"
+      },
+      {
+        "text": "Volume is still growing: FY27 YTD handle +11.4% to $1.61bn; September was the third-largest month ever despite one fewer NFL week; Q4 seasonality (Oct/Nov-2025 mobile records of $723m/$707m) lies ahead.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Dormant licence capacity creates an M&A/partnership entry route: Riverboat on the Potomac's unused second mobile slot, Long Shot's (ex-Betfred), SuperBook and sub-scale holders (Bally's, Greenmount, Veterans Services) are all potential vehicles for a B2B platform or new brand without waiting for SWARC.",
+        "tag": "structural"
+      },
+      {
+        "text": "Parlay economics reward product: parlays/SGPs are 37.8% of handle at a 14.9% hold and 62.7% of GGR — an operator with superior SGP pricing and content can out-earn its handle share, as theScore Bet's 12.9% and BetMGM's 10.5% holds on small bases illustrate.",
+        "tag": "structural"
+      },
+      {
+        "text": "Fixed, modest licence costs: $500k mobile application, 1%-of-proceeds five-year renewal and a $500k reserve are low relative to the fee stacks in NY, PA or IL; renewal cycles for the casino-anchored licences began in August 2026 with staff recommending approval.",
+        "tag": "structural"
+      },
+      {
+        "text": "Regulatory hostility to unlicensed competitors (C&D letters to prediction markets in 2025; 2026 enforcement bills against sweepstakes/illegal online gaming) protects the licensed channel if sustained.",
+        "tag": "early"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Duopoly lock-in: FanDuel (41.5%) and DraftKings (30.1%) hold 71.6% of mobile handle and the top five 93.5%; no operator outside the top five has exceeded 2% share after three years and Crab Sports has already paused. A new B2C brand faces a sub-2% realistic share.",
+        "tag": "structural"
+      },
+      {
+        "text": "Hold-driven revenue volatility: GGR fell 20% and tax 32.5% on flat handle in September; FY27 YTD GGR is −6.4% and tax −17.5% while handle is +11.4%. Monthly margin is hostage to parlay results and futures accounting (hold booked on wagers placed, not settled).",
+        "tag": "mixed"
+      },
+      {
+        "text": "Fiscal-tightening risk: the mobile rate already rose from 15% to 20% on 1 Jul 2025 (after a 30% proposal), and a Blueprint-funded education plan is now watching sports-betting receipts run 17.5% below last year. A higher rate, a promo-deduction cap or a per-wager fee in the 2027 session are plausible responses.",
+        "tag": "watch"
+      },
+      {
+        "text": "Promo intensity has stepped up: deductible promotional play tripled YoY to $11.0m (18.7% of GGR, 1.68% of handle) in September and is 19.8% of GGR FY27 YTD — a sign the leaders are spending to defend NFL-season share, raising the cost of entry for challengers.",
+        "tag": "mixed"
+      },
+      {
+        "text": "No licensed online-casino channel and no referendum path in sight: iGaming requires a constitutional amendment; bills have failed since 2024 and 2026 status is unverified. Land-based GGR (~$1.8bn/yr) is flat-to-down and cannot be migrated online.",
+        "tag": "structural"
+      },
+      {
+        "text": "The new-licence window is closed: HB 1431 (reopen SWARC applications to Jan 2028) stalled at its March 2026 hearing; entry depends on partnering with incumbents on their terms.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Unlicensed substitution risk: CFTC-regulated prediction markets (Kalshi, Robinhood, Crypto.com) continue to contest Maryland's cease-and-desist letters; if they prevail, sports-outcome volume could migrate to an untaxed, unlicensed channel. Litigation status in 2026 could not be verified in-session.",
+        "tag": "governance"
+      }
+    ],
+    "forecast": {
+      "intro": "The regulatory bridge from September 2025 to September 2026 is unchanged in rate (20% mobile / 15% retail since 1 Jul 2025) but very different in yield: on essentially identical handle ($651.0m → $652.2m) the state's take fell from $13.5m to $9.1m. Two moving parts explain all of it. First, hold compressed 2.2pp (11.2% → 9.0%), removing $14.6m of GGR — a function of one fewer NFL week, thin straight-market margins (NFL 4.3%, NCAAF 4.7%) and futures accounting. Second, deductible promotional play tripled ($3.66m → $10.96m), removing a further $7.3m of taxable win. Together taxable win fell $22.0m (−32.4%) and tax $4.4m. The same dynamics are visible in the regulator's FYTD table (handle +11.4%, GGR −6.4%, tax −17.5%), which is the table the General Assembly's budget analysts will read.",
+      "bridge": [
+        {
+          "title": "Sep-25 state tax (base)",
+          "value": "$13.5m",
+          "change": "GGR $73.1m at 11.2% hold; promo $3.7m"
+        },
+        {
+          "title": "Hold compression −2.2pp on flat handle",
+          "value": "−$14.6m GGR",
+          "change": "≈ −$2.9m tax at 20%"
+        },
+        {
+          "title": "Deductible promo tripled",
+          "value": "−$7.3m taxable win",
+          "change": "≈ −$1.5m tax"
+        },
+        {
+          "title": "Sep-26 state tax",
+          "value": "$9.1m",
+          "change": "−32.5% YoY; effective 15.6% of GGR"
+        }
+      ],
+      "view": "**Volume growth continues, monetisation normalises at a lower hold.** We expect calendar-2026 handle of ~$7.0–7.2bn (estimate: 9M $4.98bn plus a Q4 in line with 2025's ~$2.1bn) and GGR of ~$650–720m (estimate) at a 9–10% blended hold, i.e. mid-single-digit GGR growth on high-single-digit handle growth. FY2027 state contributions are likely to land **flat-to-down versus FY2026's $132.3m (estimate $120–135m)** unless Q2 (Oct–Dec) holds recover toward the 11% of autumn 2025. **The tax direction of travel is up, not down:** with Blueprint receipts under pressure and a 2027 session approaching, we assign a meaningful probability to a further fiscal move — most likely a cap or phase-out of promo deductibility (the cheapest politically) ahead of a headline-rate increase toward the 25–30% band the Governor originally floated. **Market structure will concentrate further:** expect the tail (Bally Bet, betPARX, LetsBetMD, Crab) to exit or consolidate, leaving 7–8 live brands, while FanDuel/DraftKings defend ~70% share with higher promo. **Licensing stays closed** absent a revived HB 1431-type bill; **iGaming is not a 2026–27 event**; and enforcement against prediction markets and sweepstakes intensifies, with the Kalshi litigation the single biggest swing factor for licensed-channel volume. For B2Tech the actionable path is B2B supply or a licence partnership with a dormant holder, underwritten at a 15–16% effective GGR tax today and a stress case of 20–25% effective after a promo-cap.",
+      "watch": [
+        "October and November 2026 MLGCA releases (due ~10 Nov and ~10 Dec): whether hold recovers to ≥10.5% and whether promo stays near 19% of GGR — the test of structural vs. one-off margin compression.",
+        "Governor's FY2028 budget (January 2027) and the Budget Reconciliation and Financing Act: any change to the 20% mobile rate, introduction of a promo-deduction cap, or a per-wager fee.",
+        "Kalshi/prediction-market litigation status and any Fourth Circuit ruling on Maryland's cease-and-desist authority; CFTC rulemaking on sports event contracts.",
+        "Outcome of the 2026 enforcement bills (SB 652/HB 1226, HB 295) on unlicensed/sweepstakes online gaming and any 2027 reintroduction; iGaming bill activity ahead of a potential 2028 referendum.",
+        "SWARC/legislative action to reopen the licence window (HB 1431 successor) and disposition of dormant licences (Riverboat/P, Long Shot's, SuperBook) and Crab Sports' licence.",
+        "Five-year licence renewals for the 2021–22 cohort (retail hearings began 27 Aug 2026; mobile renewals follow) and any new conditions attached.",
+        "Casino GGR trend (five consecutive YoY declines to September) and MGM/Cordish responses, given these properties anchor the Class A-1 licences and the Education Trust Fund."
+      ]
+    },
+    "confidence": "MEDIUM",
+    "confidenceNote": "Market reports in USD; no FX conversion required. HIGH confidence on all September 2026 and FY27 YTD sports-wagering figures (handle, prizes, hold, promo, taxable win, tax, by-operator and by-sport) — taken directly from the MLGCA release and licensee Excel; September 2025 and August 2026 comparatives from MLGCA releases (via the regulator's page and verbatim reproductions). Casino figures are from the MLGCA September 2026 release as reproduced by trade/local press (per-property totals consistent across two sources; slots/tables split flagged unverified). Licence fees, renewal formula, reserve and tax-base rules from MLGCA FAQ/Form 4010 and the DLS fiscal note on HB 1431. MEDIUM/LOW confidence items, flagged in text: 2026 legislative outcomes (SB 652/HB 1226, HB 295, any iGaming bill), Kalshi litigation status, credit-card payment rules, the 2023 'risk-free' advertising ruling, lottery sales (n/a), and the ~$469m Q3 casino total (sum of monthly releases with August rounded). CY2026 and FY2027 projections are analyst estimates. Operator brand-to-licensee mapping (FanDuel=Live!, Fanatics=Maryland Stadium Sub, bet365=Riverboat/B, theScore Bet=Hollywood, BetRivers=Bingo World, betPARX=Greenmount, LetsBetMD=Veterans Services) corroborated by CDC Gaming, betmaryland.com and Covers.",
+    "sources": [
+      {
+        "label": "MLGCA — Sports Wagering Contributes $9.1 Million to the State During September '26 (13 Oct 2026)",
+        "kind": "primary",
+        "url": "https://www.mdgaming.com/sports-wagering-contributes-9-1-million-to-the-state-during-september-26/"
+      },
+      {
+        "label": "MLGCA — September 2026 Sports Wagering Data (licensee and bets-by-sport Excel)",
+        "kind": "primary",
+        "url": "https://www.mdgaming.com/wp-content/uploads/2026/10/September-2026-Sports-Wagering-Data.xlsx"
+      },
+      {
+        "label": "MLGCA — Sports Wagering Revenue Reports (YoY September and FYTD tables; cumulative contributions)",
+        "kind": "primary",
+        "url": "https://www.mdgaming.com/maryland-sports-wagering/revenue-reports/"
+      },
+      {
+        "label": "MLGCA — Sports Wagering Contributes $13.5 Million to the State During September '25",
+        "kind": "primary",
+        "url": "https://www.mdgaming.com/sports-wagering-contributes-13-5-million-to-the-state-during-september-25/"
+      },
+      {
+        "label": "MLGCA — Sports Wagering Contributes $7 Million to the State During August '26",
+        "kind": "primary",
+        "url": "https://www.mdgaming.com/sports-wagering-contributes-7-million-to-the-state-during-august-26/"
+      },
+      {
+        "label": "MLGCA — Maryland Casinos Generate $151.4 Million in Gaming Revenue During September '26",
+        "kind": "primary",
+        "url": "https://www.mdgaming.com/maryland-casinos-generate-151-4-million-in-gaming-revenue-during-september-26/"
+      },
+      {
+        "label": "MLGCA — Maryland Casinos Generate $160 Million in Gaming Revenue During August '26",
+        "kind": "primary",
+        "url": "https://www.mdgaming.com/maryland-casinos-generate-160-million-in-gaming-revenue-during-august-26/"
+      },
+      {
+        "label": "MLGCA — Maryland Sports Wagering FAQ (licence classes, application fees, reserve requirement)",
+        "kind": "primary",
+        "url": "https://www.mdgaming.com/maryland-sports-wagering/"
+      },
+      {
+        "label": "MLGCA — Mobile Sports Wagering License Renewal Application Form 4010 (renewal fee = 1% of 3-year average proceeds)",
+        "kind": "primary",
+        "url": "https://www.mdgaming.com/wp-content/uploads/2026/02/Mobile-Sports-Wagering-License-Renewal-Application-Form-4010-Rev-05-16-2025-1.pdf"
+      },
+      {
+        "label": "Department of Legislative Services — Fiscal and Policy Note, HB 1431 (2026 Session): Sports Wagering – Licenses – Application Period",
+        "kind": "primary",
+        "url": "https://mgaleg.maryland.gov/2026RS/fnotes/bil_0001/hb1431.pdf"
+      },
+      {
+        "label": "Maryland General Assembly — HB 1431 bill status page",
+        "kind": "primary",
+        "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1431"
+      },
+      {
+        "label": "Maryland General Assembly — 2026RS Gaming (C7) subject index (SB 652/HB 1226 Illegal Online Gambling Enforcement)",
+        "kind": "primary",
+        "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/SubjectIndex/c7?ys=2026RS"
+      },
+      {
+        "label": "SWARC — Regulations (COMAR 36.11; up to 60 mobile and 30 Class B licences)",
+        "kind": "primary",
+        "url": "https://swarc.org/regulations/"
+      },
+      {
+        "label": "DLS — Overview of Sports Wagering Legislation, presentation to SWARC (Aug 2021)",
+        "kind": "primary",
+        "url": "https://dls.maryland.gov/pubs/prod/NoPblTabMtg/SprtWagAppRevCmsn/Overview_Sports_Wagering_Legislation.pdf"
+      },
+      {
+        "label": "Gaming Intelligence — Maryland sports handle nears $5 billion in 9M 2026 (lead article; paywalled)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/markets/north-america/237483-maryland-sports-handle-nears-5-billion-in-9m-2026/"
+      },
+      {
+        "label": "The Closing Line — Maryland sports betting handle flat for September, revenue drops 20%",
+        "kind": "secondary",
+        "url": "https://closingline.substack.com/p/the-handle-maryland-sports-betting-september-2026"
+      },
+      {
+        "label": "CDC Gaming — Maryland online sports betting revenue plunges in September (operator brand mapping)",
+        "kind": "secondary",
+        "url": "https://cdcgaming.com/brief/maryland-online-sports-betting-revenue-plunges-in-september/"
+      },
+      {
+        "label": "Maryland Bay News — Maryland's sports betting haul hit $132 million; new fiscal year starting slower",
+        "kind": "secondary",
+        "url": "https://mdbaynews.com/2026/10/15/maryland-sports-betting-revenue-fy2027-decline/"
+      },
+      {
+        "label": "SoloAzar — Maryland casinos generate $151 million in revenue last month (reproduction of MLGCA release)",
+        "kind": "secondary",
+        "url": "https://www.soloazar.com/en/category/reports-and-data/maryland-casinos-generate-151-million-in-revenue-last-month"
+      },
+      {
+        "label": "InterGame — Casino revenue slips again in Maryland",
+        "kind": "secondary",
+        "url": "https://www.intergameonline.com/land-based-gaming/news/casino-revenue-slips-again-in-maryland"
+      },
+      {
+        "label": "Southern Maryland News Net — Sports Wagering Contributes $7 Million to the State During August 2026 (reproduction of MLGCA release)",
+        "kind": "secondary",
+        "url": "https://smnewsnet.com/archives/564566/sports-wagering-contributes-7-million-to-the-state-during-august-2026/"
+      },
+      {
+        "label": "CDC Gaming — Maryland casinos generate $160 million in August, down 6%",
+        "kind": "secondary",
+        "url": "https://cdcgaming.com/brief/maryland-casinos-generate-160-million-in-august-down-6/"
+      },
+      {
+        "label": "MyBet (Substack) — Maryland casinos kick off fiscal year down 4.7% (July 2026)",
+        "kind": "secondary",
+        "url": "https://mybet.substack.com/p/maryland-casinos-kick-off-fiscal"
+      },
+      {
+        "label": "InGame — Maryland, North Carolina post record sports betting handles (September 2025 operator detail; 9M-2025 handle $4.55bn)",
+        "kind": "secondary",
+        "url": "https://www.ingame.com/maryland-north-carolina-september-2025-revenue/"
+      },
+      {
+        "label": "Southern Maryland Chronicle — Maryland casinos generate $151.5M in September 2025 revenue (FY2025 ETF $606.2m)",
+        "kind": "secondary",
+        "url": "https://southernmarylandchronicle.com/2025/10/07/maryland-casinos-generate-151-5m-in-september-revenue/"
+      },
+      {
+        "label": "RotoWire — Crab Sports pauses operations (June 2026)",
+        "kind": "secondary",
+        "url": "https://www.rotowire.com/news/crab-sports-pauses-operations-what-maryland-bettors-need-to-know-118613"
+      },
+      {
+        "label": "SI.com — Maryland sports betting guide (FY2026 contributions $132.3m; 27 Aug 2026 renewal hearings; 11 live operators)",
+        "kind": "secondary",
+        "url": "https://www.si.com/betting/usa/maryland"
+      },
+      {
+        "label": "Covers — LetsBetMD launches in Maryland, state's 12th mobile operator (Veterans Services Corp; Betfred exit)",
+        "kind": "secondary",
+        "url": "https://www.covers.com/industry/letsbetmd-launches-in-maryland-states-12th-mobile-operator-july-3-2024"
+      },
+      {
+        "label": "betmaryland.com — Maryland sports betting revenue report (licensee-to-brand mapping; Oct/Nov-2025 records; Kalshi C&D letters)",
+        "kind": "secondary",
+        "url": "https://www.betmaryland.com/revenue-report"
+      },
+      {
+        "label": "Covers — Maryland sports betting operators and partners",
+        "kind": "secondary",
+        "url": "https://www.covers.com/betting/usa/maryland"
+      }
+    ],
+    "docType": "regulator"
+  }
+}

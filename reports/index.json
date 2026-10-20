@@ -693,5 +693,136 @@
     "releaseDate": "15 Oct 2026 (DLL September 2026 Sports Wagering Summary Report; press coverage 19 Oct 2026)",
     "model": "claude-fable-5-1",
     "costUsd": 2.95
+  },
+  {
+    "key": "juris|mississippi|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-20T17:36:56.268Z",
+    "status": "failed",
+    "error": "terminated",
+    "type": "jurisdiction",
+    "company": {
+      "name": "Mississippi",
+      "ticker": ""
+    },
+    "period": "SEPTEMBER 2026"
+  },
+  {
+    "key": "juris|macau|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-20T17:49:46.143Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "MACAU-Q3-2026",
+    "published": "2026-10-20",
+    "company": {
+      "name": "Macau",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "Macau's casino GGR fell 3.8% YoY to MOP 60.22bn (~$7.46bn) in Q3-26 — the first quarterly decline since the post-COVID reopening — as mass/premium-mass baccarat dropped 7.9% and the market absorbed the World Cup, softer Chinese high-end demand and tougher hold comps; VIP stabilised (+6.3% QoQ, flat YoY) and slots grew 18.8%. For an operator, Macau remains a closed, six-concession, land-based-only market taxed at an effective 40% of GGR until 31 Dec 2032: the only realistic entry is B2B (EGMs, systems, content), where the slot segment is the one structurally growing line.",
+    "kpis": [
+      {
+        "label": "Q3-26 GGR (games of fortune)",
+        "value": "MOP 60.22bn (~$7.46bn)",
+        "delta": "-3.8% YoY / -1.3% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Mass baccarat GGR",
+        "value": "MOP 33.61bn (~$4.17bn)",
+        "delta": "-7.9% YoY; 55.8% share",
+        "dir": "down"
+      },
+      {
+        "label": "VIP baccarat GGR",
+        "value": "MOP 16.91bn (~$2.10bn)",
+        "delta": "+0.1% YoY / +6.3% QoQ",
+        "dir": "flat"
+      },
+      {
+        "label": "Slot machine GGR",
+        "value": "MOP 4.09bn (~$0.51bn)",
+        "delta": "+18.8% YoY; 6.8% share",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 GGR",
+        "value": "MOP 187.1bn (~$23.2bn)",
+        "delta": "+3.2% YoY; ~15% below 9M-19",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 gaming tax collected",
+        "value": "MOP 74.56bn (~$9.24bn)",
+        "delta": "+5.9% YoY; 84.1% of govt revenue",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "16 Oct 2026 (DICJ Q3-26 game-type statistics; monthly Sept GGR released 1 Oct 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.28
+  },
+  {
+    "key": "juris|maryland|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-20T18:05:44.385Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "MARYLAND-SEPTEMBER-2026",
+    "published": "2026-10-20",
+    "company": {
+      "name": "Maryland",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "September 2026 was a volume-not-value month for Maryland: handle was flat at $652.2m (+0.2% YoY, the third-largest month on record) despite one fewer NFL week, but hold compressed to 9.0% from 11.2%, cutting GGR 20% to $58.5m, and with deductible promo play tripling to $11.0m the state's tax take fell 32.5% to $9.1m even at the higher 20% mobile rate. Structurally the market is a FanDuel/DraftKings duopoly (71.6% of mobile handle), 98% online, tax-efficient for operators (15.6% effective on GGR) and increasingly exposed to fiscal pressure as Annapolis sees FY27 YTD receipts running 17.5% below FY26.",
+    "kpis": [
+      {
+        "label": "Handle (retail+mobile)",
+        "value": "$652.2m",
+        "delta": "+0.2% YoY / +40.0% MoM",
+        "dir": "flat"
+      },
+      {
+        "label": "GGR (hold, pre-promo)",
+        "value": "$58.5m",
+        "delta": "−20.0% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Hold %",
+        "value": "9.0%",
+        "delta": "−2.2pp vs 11.2% Sep-25",
+        "dir": "down"
+      },
+      {
+        "label": "Taxable win (NGR proxy)",
+        "value": "$45.9m",
+        "delta": "−32.4% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "State tax take",
+        "value": "$9.1m",
+        "delta": "−32.5% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "FY27 YTD handle (Jul–Sep)",
+        "value": "$1.61bn",
+        "delta": "+11.4% YoY",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "13 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 6.45
   }
 ]
