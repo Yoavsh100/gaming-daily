@@ -173,7 +173,53 @@
     "market": "Maryland",
     "authority": null,
     "period": "SEPTEMBER 2026",
-    "urls": [],
+    "urls": [
+      "https://www.gamingintelligence.com/markets/north-america/237483-maryland-sports-handle-nears-5-billion-in-9m-2026/"
+    ],
+    "seen": "2026-10-20"
+  },
+  {
+    "key": "juris|africa|Q3 2026",
+    "type": "jurisdiction",
+    "market": "Africa",
+    "authority": "Blask",
+    "period": "Q3 2026",
+    "urls": [
+      "https://findmoreafrica.com/blask-africa-top-gambling-brands-q3-2026-rankings/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=blask-africa-top-gambling-brands-q3-2026-rankings"
+    ],
+    "seen": "2026-10-20"
+  },
+  {
+    "key": "juris|louisiana|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Louisiana",
+    "authority": null,
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237453-louisiana-sports-betting-tops-405-million-in-september/"
+    ],
+    "seen": "2026-10-20"
+  },
+  {
+    "key": "juris|colorado|AUGUST 2026",
+    "type": "jurisdiction",
+    "market": "Colorado",
+    "authority": null,
+    "period": "AUGUST 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237393-colorado-sports-wagers-drop-below-400-million-in-august/"
+    ],
+    "seen": "2026-10-20"
+  },
+  {
+    "key": "juris|kansas|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Kansas",
+    "authority": "Kansas Lottery",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237480-kansas-lottery-sales-increase-by-6-in-september/"
+    ],
     "seen": "2026-10-20"
   }
 ]
