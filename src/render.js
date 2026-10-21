@@ -119,6 +119,7 @@ export function render({ edition, items, status, now, hours, reports = [], juris
   --africa-bg: #f7ddcc; --africa-fg: #873b12;
   --display: "Archivo", "Arial Narrow", Arial, sans-serif;
   --body: "Public Sans", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color-scheme: light; /* so a viewer who forces light on a dark-OS gets light form controls too */
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --bg: #0f151c; --surface: #17202a; --ink: #e8eef4; --muted: #98a6b4; --line: #253140;
@@ -192,6 +193,15 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
 .t-jreports { background: #d9e3cf; color: #3f5a2a; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .t-jreports { background: #2b3a22; color: #b8d49a; } }
 :root[data-theme="dark"] .t-jreports { background: #2b3a22; color: #b8d49a; }
+
+/* Viewer theme toggle (Auto / Light / Dark), fixed top-right, always reachable. */
+.themebtn { position: fixed; z-index: 50; top: calc(env(safe-area-inset-top, 0px) + 12px); right: calc(env(safe-area-inset-right, 0px) + 12px);
+  display: inline-flex; align-items: center; gap: 7px; padding: 8px 12px; border-radius: 999px; border: 1px solid var(--line);
+  background: var(--surface); color: var(--ink); font: 600 12.5px/1 var(--body); cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,.14); }
+.themebtn:hover { border-color: var(--accent); }
+.themebtn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.themebtn svg { width: 15px; height: 15px; flex: none; }
+@media (max-width: 760px) { .themebtn { padding: 8px; } .themebtn .tlabel { display: none; } }
 
 .ticker { margin: 24px 40px 0; display: flex; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; font-size: 14px; }
 .ticker b { background: var(--accent); color: var(--on-accent); padding: 11px 16px; font: 700 13px/1.2 var(--display); letter-spacing: .08em; text-transform: uppercase; white-space: nowrap; }
@@ -289,6 +299,7 @@ body:not([data-view="all"]) .more { display: none; }
 }
 </style>
 
+<button id="theme" class="themebtn" type="button" aria-label="Colour theme"></button>
 <div class="app">
   <aside class="rail">
     <a class="mast" href="#all" data-go="all" aria-label="Iceman — B2Tech"><img class="logo" src="${LOGO}" alt="Iceman — B2Tech" width="360" height="261"></a>
@@ -369,6 +380,26 @@ ${egrSection}</main>
   });
   q.addEventListener('input', apply);
   go(location.hash.slice(1) || 'all', false);
+
+  // Viewer theme toggle: Auto (follow OS) -> Light -> Dark, remembered per browser.
+  const themeBtn = document.getElementById('theme');
+  const THEMES = ['auto', 'light', 'dark'];
+  const ICON = {
+    auto: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="12" rx="1"/><path d="M8 20h8M12 16v4"/></svg>',
+    light: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>',
+    dark: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>',
+  };
+  const NAME = { auto: 'Auto', light: 'Light', dark: 'Dark' };
+  const getTheme = () => { try { return localStorage.getItem('iceman-theme') || 'auto'; } catch { return 'auto'; } };
+  function setTheme(t) {
+    if (t === 'auto') delete document.documentElement.dataset.theme; else document.documentElement.dataset.theme = t;
+    try { localStorage.setItem('iceman-theme', t); } catch {}
+    themeBtn.innerHTML = ICON[t] + '<span class="tlabel">' + NAME[t] + '</span>';
+    themeBtn.setAttribute('aria-label', 'Colour theme: ' + NAME[t] + ' (click to change)');
+    themeBtn.title = 'Theme: ' + NAME[t];
+  }
+  themeBtn.addEventListener('click', () => setTheme(THEMES[(THEMES.indexOf(getTheme()) + 1) % THEMES.length]));
+  setTheme(getTheme());
 })();
 </script>`;
 }
@@ -384,6 +415,7 @@ export function wrapDocument(fragment) {
 <link rel="icon" type="image/png" sizes="48x48" href="${FAVICON}">
 <link rel="icon" type="image/png" sizes="32x32" href="${FAVICON}">
 <link rel="apple-touch-icon" href="${FAVICON}">
+<script>try{var t=localStorage.getItem('iceman-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
 ${fragment}
