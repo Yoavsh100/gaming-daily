@@ -1,0 +1,1616 @@
+{
+  "company": {
+    "name": "Mississippi",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "SEPTEMBER 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 1564361,
+    "output": 45252,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 78,
+    "cacheRead": 1472913,
+    "cacheWrite": 91370,
+    "turns": 1
+  },
+  "prepared": "21 Oct 2026",
+  "report": {
+    "releaseDate": "16 Oct 2026 (MGC September 2026 monthly reports; CDC Gaming same day; Gaming Intelligence 19 Oct 2026)",
+    "currency": "USD (tables in millions unless stated)",
+    "verdict": "September 2026 was a good month for a flat market: Mississippi's commercial casinos won $195.6m (+4.5% YoY), driven entirely by the Gulf Coast (+7.7%) and a table-games hold bounce, while slots (+2.4%) merely stabilised and the river markets kept shrinking. The structural story is unchanged — a $2.4bn, 100% land-based, retail-only market whose sports book just posted a $34.0m handle (-12.9%) at a 10.6% hold, taxed at ~12% of GGR, and whose Senate killed statewide mobile wagering (HB 4074) for a third straight session; for an online-led operator the only addressable route in remains a casino partnership option on legislation that has not yet passed.",
+    "kpis": [
+      {
+        "label": "Commercial casino GGR (Sep-26)",
+        "value": "$195.6m",
+        "delta": "+4.5% YoY (Sep-25: $187.2m)",
+        "dir": "up"
+      },
+      {
+        "label": "Slot (EGD) win",
+        "value": "$157.3m",
+        "delta": "+2.4% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Table-games win",
+        "value": "$31.3m",
+        "delta": "+36.8% YoY (MGC-reported)",
+        "dir": "up"
+      },
+      {
+        "label": "Sports handle (retail-only)",
+        "value": "$34.0m",
+        "delta": "-12.9% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Sports GGR / hold",
+        "value": "$3.6m / 10.6%",
+        "delta": "-47% YoY; hold -6.9pp vs 17.5%",
+        "dir": "down"
+      },
+      {
+        "label": "YTD GGR Jan–Sep 26 (est.)",
+        "value": "~$1,814m",
+        "delta": "~-0.7% YoY (sum of MGC monthly prints)",
+        "dir": "flat"
+      }
+    ],
+    "summary": [
+      "**Headline: GGR $195.6m in September 2026, +4.5% YoY** — the strongest monthly growth print of 2026 after a -6.5% August; the regulator-reported base is Sep-25 $187.2m (Mississippi Gaming Commission via CDC Gaming/Gaming Intelligence). Gaming Intelligence rounds the increase to 4%; the arithmetic on MGC figures is +4.5%.",
+      "**Market is 100% land-based retail; online penetration is 0%** — statewide mobile wagering is prohibited; the only 'online' activity is geofenced on-premises sportsbook apps. Every dollar in the MGC print is cage/floor revenue at 25–26 commercial casinos (AGA 2025 count: 25) plus three Choctaw tribal casinos that report nothing publicly.",
+      "**Product mix: slots 80%, tables 16%, sports 2%** — September: EGD win $157.3m (+2.4%), table win $31.3m (+36.8%), retail sports GGR $3.6m (~-47%). Component reports (device-level, modified accrual) do not sum exactly to the headline AGR (~$3.4m residual), which is a reporting-basis difference, not an 'other' product.",
+      "**Year-to-date 2026 is flat at best**: summing the nine MGC monthly prints gives ~$1,814m for Jan–Sep 2026 vs an implied ~$1,828m in 2025 (≈-0.7%, our estimate). Monthly YoY: Jan +1.9%, Feb +5.8%, Mar -5.3%, Apr +0.2%, May -2.6%, Jun -1.5%, Jul -0.9%, Aug -6.5%, Sep +4.5%.",
+      "**Full-year 2025 (AGA State of the States 2026, MGC data): GGR $2.43bn, unchanged** — EGD $2.02bn (+0.2%), table games $317.7m (-4.8% vs $333.7m), sports $49.8m (+19.7%); Gulf Coast $1.59bn (+0.5%) ≈ 65% of state; river markets ≈ $0.84bn and falling. Casino tax revenue 2025: $287.9m.",
+      "**Coast carries the state**: Coastal region $134.2m (+7.7%; slots $106.4m +4.8%, tables $23.8m +33%) = 69% of September GGR; Northern (Tunica/Lula) $38.7m (+2.1%; slots flat at $30.9m, tables +35.5% to $5.7m); Central (Vicksburg/Natchez/Greenville) $22.7m (-8.1%; slots -5.5% to $20.0m) — the only region down.",
+      "**Sports betting is shrinking in absolute and relative terms**: handle $34.0m (-12.9% vs $39.1m), GGR $3.6m vs $6.85m, hold 10.6% vs a 17.5% outlier last September; state/local tax ~$435k vs $753k (-42%). Coastal handle $24.1m (70.9%), Central $6.3m (-26.9%, GGR $835k, -45.7%), Northern ~$3.6m (derived).",
+      "**Cross-border leakage is now measurable**: Louisiana's mobile books took $384.5m in September (+4.6%) — 11.3x Mississippi's entire handle — and paid $8.88m in tax vs ~$435k here; Louisiana retail handle fell 39% to $20.6m, confirming that mobile cannibalises retail counters in both states.",
+      "**Tax base is GGR; effective rate ~12%**: state levy graduated 4% (first $50k/month), 6% (next $84k), 8% (above $134k) — i.e. 8% marginal for every real casino — plus local gross-revenue levies of up to 3.2% (Biloxi, Coahoma, D'Iberville, Adams County) and per-device fees ($100–$150/device/yr). Sports wagering is taxed at the same state and local rates, plus the 0.25% federal excise on handle (AGA). No separate sports-betting tax schedule exists.",
+      "**Tax take**: DOR FY2025 (Jul-24–Jun-25) gaming taxes $290.9m — $155.4m to the State General Fund, $36.0m to the highway bond sinking fund ($3m/month fixed), the balance (~$99m) to local governments. FY2026 ran at ~$23.6m/month through February ($188.6m in 8 months); September 2025 collection month $23.9m. FY2027 (Jul–Sep 2026) collections: n/a — DOR PDF not retrievable this session.",
+      "**Licensing**: the Mississippi Gaming Control Act (Miss. Code §75-76) restricts casinos to Gulf Coast (land-based within the coastal zone post-Katrina) and Mississippi River counties; licences are site-based, three-year, with suitability findings by the three-member Commission; DOR also charges an annual fee based on games on the floor ($81,200 + $100 per game above 35). No online, skin or standalone sportsbook licence class exists. Property-level GGR is confidential by law, so operator market shares cannot be published.",
+      "**Operator landscape (from public ownership records, not MGC share data)**: Coast — MGM (Beau Rivage), Hard Rock, Golden Nugget/Fertitta, Boyd (IP), Caesars (Harrah's Gulf Coast), Penn (Boomtown, Hollywood Gulf Coast), Full House (Silver Slipper), independents (Scarlet Pearl, Palace, Island View, Treasure Bay); Tunica — Cherokee Nation Ent. (Gold Strike), Caesars (Horseshoe), Penn (Hollywood, 1st Jackpot), Boyd (Sam's Town), Foundation (Fitz); river south — Penn (Ameristar), Churchill Downs (Riverwalk), Bally's (Vicksburg), Saratoga (Magnolia Bluffs). Sportsbooks are run via casino partners (e.g. BetMGM, Caesars, FanDuel, DraftKings kiosks/apps on-property) [ownership list unverified in-session].",
+      "**Mobile legislation failed a third straight year**: HB 4074 (Mississippi Mobile Sports Wagering Act) passed the House 100–11 on 25 Feb 2026 — one online skin per licensed casino, 22% tax on online GGR, state casino tax cut from 8% to 6% as a sweetener, launch no later than 8 Dec 2026, proceeds earmarked to PERS — then died in Senate Gaming/Finance on 17 Mar 2026 without a hearing. HB 1581 (85–31) died the same way; 2025's HB 1302 died in conference.",
+      "**Sweepstakes/'social casino' ban also stalled**: SB 2104 (2026) missed the 3 March crossover deadline, leaving Mississippi with no express statute on dual-currency sweepstakes models [single secondary source; unverified]. The grey market is therefore competing with retail casinos untaxed, which is the strongest argument legislators have for regulating online.",
+      "**Player taxation tightened/aligned**: DOR withholds 3% at source on gaming winnings; from 1 Jan 2026 the slot withholding threshold rose from $1,200 to $2,000 (DOR notice re-issued 28 Sep 2026), tracking the federal W-2G change — operationally positive for hand-pay frequency on the floor.",
+      "**Payments reality**: cash, TITO and cage/ATM card access; sportsbook apps must be funded and used on-property; there is no regulated online deposit ecosystem, no e-wallet or ACH framework for remote play, and no public MGC rule on cashless wagering that we could verify this session (n/a).",
+      "**Responsible gambling / advertising**: minimum age 21; MGC administers a statewide self-exclusion list and patron-dispute process; wagering on high-school sports is prohibited and the MGC may prohibit any wager under Reg. Part 9 Rule 3.11 (PEER). There is no online-specific advertising code because there is no online market; casino and sportsbook marketing is governed by general MGC regulations.",
+      "**Political direction**: House leadership (Ways & Means, Rep. Casey Eure) is firmly pro-mobile; the Senate Gaming chair has blocked every bill on cannibalisation and tourism grounds. With Louisiana, Tennessee and Arkansas all mobile, and Alabama the only other dark neighbour, pressure builds each football season — but the Senate veto point, not public opinion, is the binding constraint.",
+      "**Read-through for B2Tech**: there is no licensable online product today; the realistic 2027–28 entry is as a B2B platform/skin partner to a casino licensee if an HB 4074-style bill passes (22% tax, casino-tethered, single skin per licence). Retail entry would require acquiring an existing property in a flat market where the Coast grows ~0–2% and river markets decline 1–8% a year. Treat Mississippi as an option, not a core market."
+    ],
+    "groupTable": {
+      "note": "US$m (MGC / DOR / AGA)",
+      "columns": [
+        "Sep-26",
+        "YoY",
+        "Sep-25",
+        "FY/CY reference",
+        "Basis / note"
+      ],
+      "rows": [
+        {
+          "label": "Gaming revenue (GGR, commercial casinos)",
+          "kind": "group"
+        },
+        {
+          "label": "Total commercial casino GGR",
+          "cells": [
+            "195.6",
+            "+4.5%",
+            "187.2",
+            "CY2025: 2,430 (flat)",
+            "MGC adjusted gross gaming revenue; CY from AGA SoS 2026"
+          ],
+          "kind": "emphasis"
+        },
+        {
+          "label": "Slots / EGD win",
+          "cells": [
+            "157.3",
+            "+2.4%",
+            "153.6",
+            "CY2025: 2,020 (+0.2%)",
+            "MGC gaming-devices report"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Table-games win",
+          "cells": [
+            "31.3",
+            "+36.8%*",
+            "23.9",
+            "CY2025: 317.7 (-4.8%)",
+            "*MGC-reported change; vs last year's print implies ~+31% — base appears revised"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Sports wagering GGR (retail)",
+          "cells": [
+            "3.6",
+            "~-47%",
+            "6.85",
+            "CY2025: 49.8 (+19.7%)",
+            "Taxable revenue, modified accrual"
+          ],
+          "indent": true
+        },
+        {
+          "label": "YTD Jan–Sep GGR (est., sum of monthly prints)",
+          "cells": [
+            "1,814.4",
+            "~-0.7%",
+            "~1,827.8 (implied)",
+            "—",
+            "Analyst sum of MGC monthly totals; not an MGC YTD figure"
+          ],
+          "indent": true
+        },
+        {
+          "label": "By region",
+          "kind": "group"
+        },
+        {
+          "label": "Coastal (Biloxi/Gulfport/Bay St Louis/D'Iberville)",
+          "cells": [
+            "134.2",
+            "+7.7%",
+            "124.6",
+            "CY2025: 1,590 (+0.5%)",
+            "69% of state in Sep-26"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Northern (Tunica / Lula)",
+          "cells": [
+            "38.7",
+            "+2.1%",
+            "37.9",
+            "n/a",
+            "20% of state"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Central (Vicksburg / Natchez / Greenville)",
+          "cells": [
+            "22.7",
+            "-8.1%",
+            "24.6",
+            "n/a",
+            "12% of state; only region down"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Sports wagering (retail + on-premises app)",
+          "kind": "group"
+        },
+        {
+          "label": "Handle",
+          "cells": [
+            "34.0",
+            "-12.9%",
+            "39.1",
+            "CY2025 retail handle: 379.1",
+            "MGC sports wagering report"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Hold %",
+          "cells": [
+            "10.6%",
+            "-6.9pp",
+            "17.5%",
+            "CY2025 avg ~13%",
+            "GGR / handle"
+          ],
+          "indent": true
+        },
+        {
+          "label": "State + local sports tax (~12% of GGR)",
+          "cells": [
+            "~0.44",
+            "-42%",
+            "0.75",
+            "CY2025 est. ~6.0",
+            "Same rates as casino; +0.25% federal excise on handle"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Channel",
+          "kind": "group"
+        },
+        {
+          "label": "Online penetration (statewide mobile)",
+          "cells": [
+            "0%",
+            "—",
+            "0%",
+            "0%",
+            "Mobile only on casino premises; HB 4074 died 17 Mar 2026"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Tax regime",
+          "kind": "group"
+        },
+        {
+          "label": "Tax base",
+          "cells": [
+            "GGR",
+            "—",
+            "GGR",
+            "GGR",
+            "Weekly remittance; monthly reconciliation by 20th"
+          ],
+          "indent": true
+        },
+        {
+          "label": "State rate",
+          "cells": [
+            "4%/6%/8% graduated (8% marginal)",
+            "—",
+            "same",
+            "same",
+            "4% ≤$50k, 6% next $84k, 8% >$134k per month"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Local rate",
+          "cells": [
+            "up to 3.2% + $100–150/device",
+            "—",
+            "same",
+            "same",
+            "City/county private legislation (e.g. Biloxi 3.2%)"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Modelled tax on Sep-26 GGR (est.)",
+          "cells": [
+            "~21.9 (state ~15.6; local ~6.3)",
+            "—",
+            "—",
+            "FY2025 actual: 290.9",
+            "Estimate at 11.2% ad valorem; excludes device fees"
+          ],
+          "indent": true
+        },
+        {
+          "label": "DOR gaming tax collections (collection month)",
+          "cells": [
+            "n/a (FY27 PDF unavailable)",
+            "—",
+            "23.9",
+            "FY2025: 290.9; FY2026 8-mo: 188.6",
+            "GF 155.4 / bond fund 36.0 / local ~99 in FY2025"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Player withholding",
+          "cells": [
+            "3% at source; slot threshold $2,000 from 1 Jan 2026",
+            "—",
+            "$1,200 threshold",
+            "—",
+            "DOR notice"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Licensing",
+          "kind": "group"
+        },
+        {
+          "label": "Licensed commercial casinos",
+          "cells": [
+            "25 (AGA 2025) / 26 (2024)",
+            "—",
+            "26",
+            "—",
+            "Exact 2026 MGC count unverified"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Tribal casinos (Choctaw, IGRA)",
+          "cells": [
+            "3",
+            "—",
+            "3",
+            "—",
+            "Not in MGC data [unverified]"
+          ],
+          "indent": true
+        },
+        {
+          "label": "Online / skin licences",
+          "cells": [
+            "0 (no licence class)",
+            "—",
+            "0",
+            "—",
+            "Would be casino-tethered under HB 4074 model"
+          ],
+          "indent": true
+        },
+        {
+          "label": "DOR annual games fee (>35 games)",
+          "cells": [
+            "$81,200 + $100/game",
+            "—",
+            "same",
+            "—",
+            "Plus local per-device taxes"
+          ],
+          "indent": true
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Casino floor — slots and table games (retail)",
+        "headline": "Slots stabilised (+2.4%) and tables bounced (+36.8%) in September, but 2025 was flat and 2026 YTD is ~-0.7%; the floor is a mature, Coast-weighted, zero-growth asset.",
+        "narrative": [
+          "The MGC print for September 2026 shows electronic gaming devices winning $157.3m, up 2.4% on the $153.6m of September 2025, and table games winning $31.3m, which the Commission reports as +36.8%. Slots are ~80% of statewide GGR and the only product that matters for the tax base; their 2025 full-year win of $2.02bn was up just 0.2%, following a -1.5% 2024, so a +2.4% month is a stabilisation rather than a recovery. The table-games increase is almost certainly a hold event rather than volume: tables were -4.4% in September 2025 and -4.8% for full-year 2025 ($317.7m vs $333.7m), and the September 2026 regional detail (Coastal +33%, Northern +35.5%, Central +125% off a $0.8m base) is the signature of favourable baccarat/blackjack hold across all three regions simultaneously. Note the base discrepancy: last year's MGC print put September 2025 tables at $23.9m, which would make this year's $31.3m ~+31%; the Commission's +36.8% implies a revised $22.9m base. We quote the regulator's stated change and flag the gap.",
+          "Reconciling the components to the headline is a reporting-basis issue worth understanding before modelling: the $195.6m 'adjusted gross gaming revenue' comes from tax-return data, while slot and table win come from the separate gaming-devices reports on a modified-accrual basis. Slots + tables + sports = $192.2m, leaving a ~$3.4m residual (last September ~$2.9m); this is not a hidden product line. For 2025 the AGA/MGC mix was EGD 83%, tables 13%, sports 2%, residual ~2%.",
+          "The year-to-date picture matters more than one month. Summing the nine MGC monthly prints of 2026 gives ~$1,814m against an implied ~$1,828m for Jan–Sep 2025 — roughly -0.7%. Three of nine months were up (Jan +1.9%, Feb +5.8%, Sep +4.5%), six were down, with the worst being August (-6.5%) and March (-5.3%, lapping a very strong March 2025 of $226.2m). On that run-rate, calendar 2026 lands at $2.40–2.45bn — our estimate — essentially the third consecutive flat year at $2.43bn.",
+          "The commercial implication is that organic floor growth is not available; share comes from capex, hotel inventory and the Coast's leisure/convention calendar. The Coast's 12 properties reported their first annual floor-GGR increase in three years in 2025 (+0.5% to $1.59bn) and are the only sub-market growing at all; Tunica has been in structural decline since Arkansas (Southland) and Tennessee opened alternatives, and Central's river properties are now losing to Louisiana's mobile product as much as to each other. An entrant buying a property is buying a ~12% tax, 8%-marginal-state regime on a flat top line — the maths only works at distressed multiples or with a sportsbook/online option attached."
+        ],
+        "table": {
+          "note": "US$m (MGC)",
+          "columns": [
+            "Sep-26",
+            "YoY",
+            "Sep-25",
+            "CY2025",
+            "CY2025 YoY"
+          ],
+          "rows": [
+            {
+              "label": "Total GGR",
+              "cells": [
+                "195.6",
+                "+4.5%",
+                "187.2",
+                "2,430",
+                "0.0%"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "Slots / EGD win",
+              "cells": [
+                "157.3",
+                "+2.4%",
+                "153.6",
+                "2,020",
+                "+0.2%"
+              ]
+            },
+            {
+              "label": "Table-games win",
+              "cells": [
+                "31.3",
+                "+36.8% (MGC)",
+                "23.9 (prior print)",
+                "317.7",
+                "-4.8%"
+              ]
+            },
+            {
+              "label": "Sports GGR",
+              "cells": [
+                "3.6",
+                "~-47%",
+                "6.85",
+                "49.8",
+                "+19.7%"
+              ]
+            },
+            {
+              "label": "Residual (basis difference)",
+              "cells": [
+                "~3.4",
+                "—",
+                "~2.9",
+                "~42",
+                "—"
+              ]
+            },
+            {
+              "label": "Coastal slots",
+              "cells": [
+                "106.4",
+                "+4.8%",
+                "~101.5",
+                "n/a",
+                "n/a"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Coastal tables",
+              "cells": [
+                "23.8",
+                "+33%",
+                "~17.9",
+                "n/a",
+                "n/a"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Northern slots",
+              "cells": [
+                "30.9",
+                "~0%",
+                "~30.9",
+                "n/a",
+                "n/a"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Northern tables",
+              "cells": [
+                "5.7",
+                "+35.5%",
+                "~4.2",
+                "n/a",
+                "n/a"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Central slots",
+              "cells": [
+                "20.0",
+                "-5.5%",
+                "~21.2",
+                "n/a",
+                "n/a"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Central tables",
+              "cells": [
+                "1.9",
+                "+125%",
+                "~0.8",
+                "n/a",
+                "n/a"
+              ],
+              "indent": true
+            },
+            {
+              "label": "2026 monthly GGR",
+              "kind": "group"
+            },
+            {
+              "label": "Jan / Feb / Mar",
+              "cells": [
+                "185.4 / 200.6 / 214.2",
+                "+1.9% / +5.8% / -5.3%",
+                "—",
+                "—",
+                "—"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Apr / May / Jun",
+              "cells": [
+                "196.0 / 217.9 / 194.6",
+                "+0.2% / -2.6% / -1.5%",
+                "—",
+                "—",
+                "—"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Jul / Aug / Sep",
+              "cells": [
+                "208.7 / 201.4 / 195.6",
+                "-0.9% / -6.5% / +4.5%",
+                "—",
+                "—",
+                "—"
+              ],
+              "indent": true
+            },
+            {
+              "label": "YTD Jan–Sep (analyst sum)",
+              "cells": [
+                "1,814.4",
+                "~-0.7%",
+                "~1,827.8",
+                "—",
+                "—"
+              ],
+              "kind": "emphasis"
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "September slots and tables",
+            "takeaway": "Slots won $157.3m (+2.4% on $153.6m) and tables $31.3m (+36.8%) in September 2026; slots stabilised, tables benefited from hold.",
+            "points": [
+              "Slots are ~80% of statewide GGR; 2025 full-year win of $2.02bn was up just 0.2% after -1.5% in 2024.",
+              "A +2.4% month is a stabilisation rather than a recovery.",
+              "Tables were -4.4% in September 2025 and -4.8% for full-year 2025 ($317.7m vs $333.7m).",
+              "Regional detail (Coastal +33%, Northern +35.5%, Central +125% off a $0.8m base) signals favourable baccarat/blackjack hold across all regions.",
+              "Base discrepancy: last year's print showed September 2025 tables at $23.9m (~+31%); the +36.8% implies a revised $22.9m base. Analyst quotes regulator's change and flags the gap."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Reconciling to headline GGR",
+            "takeaway": "The $195.6m adjusted gross gaming revenue comes from tax-return data, while slot and table win use a modified-accrual basis.",
+            "points": [
+              "Slots + tables + sports = $192.2m, leaving a ~$3.4m residual (last September ~$2.9m); not a hidden product line.",
+              "2025 AGA/MGC mix: EGD 83%, tables 13%, sports 2%, residual ~2%."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Year-to-date trend",
+            "takeaway": "Nine 2026 monthly prints sum to ~$1,814m versus ~$1,828m for Jan–Sep 2025, roughly -0.7%.",
+            "points": [
+              "Three of nine months up (Jan +1.9%, Feb +5.8%, Sep +4.5%); six down, worst August (-6.5%) and March (-5.3%, lapping $226.2m in March 2025).",
+              "On this run-rate, calendar 2026 lands at $2.40–2.45bn (analyst estimate), essentially a third consecutive flat year at $2.43bn."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Commercial implication",
+            "takeaway": "Organic floor growth is not available; share comes from capex, hotel inventory and the Coast's leisure/convention calendar.",
+            "points": [
+              "The Coast's 12 properties posted their first annual floor-GGR increase in three years in 2025 (+0.5% to $1.59bn), the only growing sub-market.",
+              "Tunica is in structural decline since Arkansas (Southland) and Tennessee opened alternatives; Central's river properties are losing to Louisiana's mobile product.",
+              "An entrant buys a ~12% tax, 8%-marginal-state regime on a flat top line; maths only works at distressed multiples or with a sportsbook/online option."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Sports wagering — retail-only, casino-tethered",
+        "headline": "$34.0m handle (-12.9%) at a 10.6% hold produced $3.6m GGR and ~$435k of tax; the book is 2% of GGR, shrinking, and now dwarfed 11x by Louisiana's mobile market next door.",
+        "narrative": [
+          "Mississippi legalised sports betting in August 2018 under existing Gaming Control Act authority with no new statute, which is why the regime looks the way it does: bets may only be placed inside a licensed casino, either at a counter/kiosk or on a geofenced app that only works on the property. The MGC's September 2026 Sports Wagering Report shows statewide write of $34.0m, down 12.9% from $39.1m, with taxable revenue of $3.6m and a 10.6% win percentage against last September's 17.5% — a hold that was itself the highest of 2025 and flattered the comparison. Tax at the combined ~12% rate was roughly $435k versus $753k a year earlier. September is historically the book's best month (college and NFL kick-off), so a double-digit handle decline at the seasonal peak is a meaningful signal, not noise.",
+          "Regionally the Coast wrote $24.1m (70.9% of handle), the Central river properties $6.3m (-26.9%, with GGR of $835k, -45.7%, implying a 13.3% hold) and the Northern casinos a derived ~$3.6m. Central's collapse is the clearest cross-border read: Vicksburg and Natchez sit on the Louisiana line, and Louisiana's September mobile handle was $384.5m (+4.6%) with $8.88m of tax — 11.3x Mississippi's handle and ~20x its sports tax. Louisiana's own retail counters fell 39% to $20.6m, which is the cannibalisation pattern Mississippi senators cite — except that in Mississippi's case the retail decline is happening without any offsetting mobile revenue.",
+          "Product mix is parlay-heavy and football-led. The 2025 full-year retail handle of $379.1m split football 31%, parlay cards 24%, basketball 21%, baseball 10%, other 14% (RG.org tabulation of MGC data); parlays are the margin engine and explain why Mississippi's blended hold (~13% in 2025; 17.5% in Sep-25) runs well above mobile-market norms. Full-year 2025 sports GGR was $49.8m (+19.7%, AGA) on handle that was broadly flat — a hold story, and one that reversed in September 2026. Lifetime through September 2025: $3.20bn handle, $352.7m revenue.",
+          "Rules of play: the same state (graduated to 8%) and local (up to 3.2%+) GGR taxes apply as for casino games, there is no promotional deduction (PEER notes vig and free play are counted in handle and revenue), the 0.25% federal excise applies to handle, high-school events are prohibited and the Commission has catch-all authority under Part 9 Rule 3.11 to prohibit any wager without listing prohibitions in regulation. There is no separate sports-wagering licence, no skin licence and no B2B platform licence beyond standard vendor/manufacturer approvals. For an online operator the segment is therefore not addressable today; its only value is as the political wedge for HB 4074-style legislation, which would create one statewide skin per casino at a 22% online tax."
+        ],
+        "table": {
+          "note": "US$m (MGC Sports Wagering Report)",
+          "columns": [
+            "Sep-26",
+            "YoY",
+            "Sep-25",
+            "CY2025",
+            "Note"
+          ],
+          "rows": [
+            {
+              "label": "Handle (write)",
+              "cells": [
+                "34.0",
+                "-12.9%",
+                "39.1",
+                "379.1",
+                "Retail + on-premises app"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "Taxable revenue (GGR)",
+              "cells": [
+                "3.6",
+                "~-47%",
+                "6.85",
+                "49.8",
+                "CY2025 +19.7% (AGA)"
+              ]
+            },
+            {
+              "label": "Hold %",
+              "cells": [
+                "10.6%",
+                "-6.9pp",
+                "17.5%",
+                "~13%",
+                "Sep-25 was 2025 peak"
+              ]
+            },
+            {
+              "label": "State + local tax (~12%)",
+              "cells": [
+                "~0.44",
+                "-42%",
+                "0.75",
+                "~6.0 (est.)",
+                "Plus 0.25% federal excise on handle"
+              ]
+            },
+            {
+              "label": "Coastal handle",
+              "cells": [
+                "24.1",
+                "n/a",
+                "n/a",
+                "n/a",
+                "70.9% of state"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Central handle / GGR",
+              "cells": [
+                "6.3 / 0.835",
+                "-26.9% / -45.7%",
+                "~8.6 / ~1.54",
+                "n/a",
+                "Hold 13.3%"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Northern handle (derived)",
+              "cells": [
+                "~3.6",
+                "n/a",
+                "n/a",
+                "n/a",
+                "Residual"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Louisiana mobile handle (comparator)",
+              "cells": [
+                "384.5",
+                "+4.6%",
+                "~367.6",
+                "n/a",
+                "LSP report; tax $8.88m"
+              ],
+              "indent": true
+            },
+            {
+              "label": "2025 handle by sport",
+              "kind": "group"
+            },
+            {
+              "label": "Football / Parlay cards / Basketball",
+              "cells": [
+                "—",
+                "—",
+                "—",
+                "118.2 / 92.0 / 77.6",
+                "31% / 24% / 21% of handle"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Baseball / Other",
+              "cells": [
+                "—",
+                "—",
+                "—",
+                "36.9 / 54.4",
+                "10% / 14%"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Lifetime (Aug-18 to Sep-25)",
+              "cells": [
+                "—",
+                "—",
+                "—",
+                "3,197.7 handle / 352.7 GGR",
+                "Covers/RG.org tabulation of MGC"
+              ],
+              "indent": true
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Regime and September results",
+            "takeaway": "Handle fell 12.9% to $34.0m at a 10.6% hold, producing $3.6m GGR and ~$435k tax versus $753k a year earlier.",
+            "points": [
+              "Legalised August 2018 under existing Gaming Control Act authority; bets only inside a licensed casino at a counter/kiosk or geofenced on-property app.",
+              "Handle down from $39.1m; last September's 17.5% hold was the highest of 2025 and flattered the comparison.",
+              "September is historically the book's best month, so a double-digit handle decline at the seasonal peak is a meaningful signal, not noise."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Regional and cross-border",
+            "takeaway": "Central's handle fell 26.9% and GGR 45.7% while Louisiana's mobile handle reached $384.5m, 11.3x Mississippi's.",
+            "points": [
+              "Coast wrote $24.1m (70.9% of handle); Central $6.3m with GGR of $835k (13.3% hold); Northern a derived ~$3.6m.",
+              "Louisiana's September mobile handle was $384.5m (+4.6%) with $8.88m tax, ~20x Mississippi's sports tax.",
+              "Louisiana's retail counters fell 39% to $20.6m; Mississippi's retail decline occurs without offsetting mobile revenue."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Product mix and history",
+            "takeaway": "2025 retail handle of $379.1m was parlay-heavy and football-led, driving a ~13% blended hold well above mobile-market norms.",
+            "points": [
+              "2025 split: football 31%, parlay cards 24%, basketball 21%, baseball 10%, other 14% (RG.org tabulation of MGC data).",
+              "Full-year 2025 sports GGR $49.8m (+19.7%, AGA) on broadly flat handle — a hold story that reversed in September 2026.",
+              "Lifetime through September 2025: $3.20bn handle, $352.7m revenue."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Rules and addressability",
+            "takeaway": "Same state (8%) and local (up to 3.2%+) taxes apply with no promotional deduction; the segment is not addressable for online operators today.",
+            "points": [
+              "0.25% federal excise on handle; high-school events prohibited; Part 9 Rule 3.11 gives catch-all authority to prohibit any wager.",
+              "No separate sports-wagering licence, skin licence or B2B platform licence beyond standard vendor/manufacturer approvals.",
+              "Only value is as the political wedge for HB 4074-style legislation: one statewide skin per casino at a 22% online tax."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Regional dynamics — Coast vs river markets and cross-border competition",
+        "headline": "The Gulf Coast (69% of GGR, +7.7%) is a destination leisure market still growing; Tunica (+2.1%) is stable at a lower base; Central (-8.1%) is being hollowed out by Louisiana mobile and regional supply.",
+        "narrative": [
+          "The MGC reports in three regions that are economically distinct. Coastal (Hancock and Harrison counties — Biloxi, Gulfport, D'Iberville, Bay St Louis) generated $134.2m in September 2026, +7.7%, with slots $106.4m (+4.8%) and tables $23.8m (+33%). This is a drive-in and fly-in resort market (New Orleans, Mobile, Jackson, Atlanta catchments) anchored by Beau Rivage, Hard Rock, Golden Nugget, IP and Scarlet Pearl; full-year 2025 Coast GGR was $1.59bn (+0.5%), the first annual increase in three years, and Biloxi's own city reporting shows sales-tax receipts at record levels. Post-Katrina land-based zoning (casinos may sit on land within the coastal shoreline band) has allowed integrated-resort capex that the river markets, still barge-based, cannot match. The Coast is the only sub-market where an acquirer could underwrite growth.",
+          "Northern (Tunica and Coahoma counties) produced $38.7m (+2.1%): slots flat at $30.9m, tables $5.7m (+35.5%). Tunica was once a $1bn+ market serving Memphis; it has lost roughly two-thirds of that to Southland (Arkansas), Tennessee's mobile sportsbooks and property closures (Resorts, Harrah's Tunica, Roadhouse). September's +2.1% follows -6.5% in June and -4.0% last September, so the trend is a decline with occasional hold-driven relief. Operators here (Caesars Horseshoe, Cherokee Nation's Gold Strike, Penn's Hollywood/1st Jackpot, Boyd's Sam's Town, Foundation's Fitz) are managing for cash, not growth.",
+          "Central (Warren, Adams and Washington counties — Vicksburg, Natchez, Greenville) was the only region down: $22.7m (-8.1%), slots $20.0m (-5.5%), with sports handle -26.9% and sports GGR -45.7%. The river properties compete directly with Louisiana's land-based casinos and, since January 2022, with Louisiana's statewide mobile apps; the collapse of Central's sports book while Louisiana's mobile handle grows is the most direct evidence in the MGC data of leakage. Central has no destination draw and no lever other than supply rationalisation.",
+          "For B2Tech the regional read is simple: Coast assets are the only ones with pricing power and tourism tailwind, but they are owned by MGM, Hard Rock, Fertitta, Boyd, Caesars and Penn and are not for sale cheaply; river assets are cheap for a reason. If mobile is ever authorised under the casino-tethered model, the value of a skin will be driven by which licensee you attach to only in so far as the licence confers access — statewide geofencing would make the partner's region irrelevant to customer acquisition, which is precisely why Coast incumbents have been lukewarm and why the Senate (whose gaming chair has consistently cited cannibalisation of the physical tax base) has blocked it."
+        ],
+        "table": {
+          "note": "US$m (MGC regional detail)",
+          "columns": [
+            "Sep-26",
+            "YoY",
+            "Sep-25",
+            "Share of state (Sep-26)",
+            "CY2025"
+          ],
+          "rows": [
+            {
+              "label": "Coastal GGR",
+              "cells": [
+                "134.2",
+                "+7.7%",
+                "124.6",
+                "69%",
+                "1,590 (+0.5%)"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "Coastal slots / tables",
+              "cells": [
+                "106.4 / 23.8",
+                "+4.8% / +33%",
+                "~101.5 / ~17.9",
+                "—",
+                "n/a"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Coastal sports handle",
+              "cells": [
+                "24.1",
+                "n/a",
+                "n/a",
+                "70.9% of handle",
+                "n/a"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Northern GGR",
+              "cells": [
+                "38.7",
+                "+2.1%",
+                "37.9",
+                "20%",
+                "n/a"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "Northern slots / tables",
+              "cells": [
+                "30.9 / 5.7",
+                "~0% / +35.5%",
+                "~30.9 / ~4.2",
+                "—",
+                "n/a"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Central GGR",
+              "cells": [
+                "22.7",
+                "-8.1%",
+                "24.6",
+                "12%",
+                "n/a"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "Central slots / tables",
+              "cells": [
+                "20.0 / 1.9",
+                "-5.5% / +125%",
+                "~21.2 / ~0.8",
+                "—",
+                "n/a"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Central sports handle / GGR",
+              "cells": [
+                "6.3 / 0.835",
+                "-26.9% / -45.7%",
+                "~8.6 / ~1.54",
+                "18.5% of handle",
+                "n/a"
+              ],
+              "indent": true
+            },
+            {
+              "label": "River markets combined (Northern + Central)",
+              "cells": [
+                "61.4",
+                "-2.0%",
+                "62.5",
+                "31%",
+                "~840 (derived)"
+              ]
+            },
+            {
+              "label": "Louisiana mobile handle (comparator)",
+              "cells": [
+                "384.5",
+                "+4.6%",
+                "~367.6",
+                "11.3x MS handle",
+                "n/a"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Louisiana retail handle (comparator)",
+              "cells": [
+                "20.6",
+                "-39%",
+                "~33.8",
+                "—",
+                "n/a"
+              ],
+              "indent": true
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Gulf Coast",
+            "takeaway": "Coastal generated $134.2m in September 2026 (+7.7%), 69% of GGR, and is the only sub-market where an acquirer could underwrite growth.",
+            "points": [
+              "Slots $106.4m (+4.8%), tables $23.8m (+33%); full-year 2025 Coast GGR $1.59bn (+0.5%), first annual increase in three years.",
+              "Drive-in and fly-in resort market anchored by Beau Rivage, Hard Rock, Golden Nugget, IP and Scarlet Pearl; Biloxi sales-tax receipts at record levels.",
+              "Post-Katrina land-based zoning allows integrated-resort capex that barge-based river markets cannot match."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Northern (Tunica)",
+            "takeaway": "Northern produced $38.7m (+2.1%), but the trend is a decline with occasional hold-driven relief.",
+            "points": [
+              "Slots flat at $30.9m, tables $5.7m (+35.5%); +2.1% follows -6.5% in June and -4.0% last September.",
+              "Tunica was once a $1bn+ market serving Memphis; lost roughly two-thirds to Southland, Tennessee mobile sportsbooks and closures (Resorts, Harrah's Tunica, Roadhouse).",
+              "Operators (Caesars Horseshoe, Cherokee Nation's Gold Strike, Penn's Hollywood/1st Jackpot, Boyd's Sam's Town, Foundation's Fitz) are managing for cash, not growth."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Central river markets",
+            "takeaway": "Central was the only region down at $22.7m (-8.1%), with the sports book collapse the most direct evidence of Louisiana leakage.",
+            "points": [
+              "Slots $20.0m (-5.5%); sports handle -26.9% and sports GGR -45.7%.",
+              "Competes with Louisiana's land-based casinos and, since January 2022, statewide mobile apps.",
+              "No destination draw and no lever other than supply rationalisation."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Read for B2Tech",
+            "takeaway": "Coast assets alone have pricing power and tourism tailwind but are not for sale cheaply; river assets are cheap for a reason.",
+            "points": [
+              "Coast owners are MGM, Hard Rock, Fertitta, Boyd, Caesars and Penn.",
+              "Under a casino-tethered mobile model, statewide geofencing would make the partner's region irrelevant to customer acquisition.",
+              "This is why Coast incumbents are lukewarm and the Senate, whose gaming chair cites cannibalisation of the physical tax base, has blocked it."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Licensing, tax and fiscal framework",
+        "headline": "A site-based casino licence regime with no online class; ~12% effective GGR tax (8% state marginal + ~3.2% local + device fees) yielding ~$290m a year; HB 4074 would have cut the state rate to 6% and taxed mobile at 22%.",
+        "narrative": [
+          "The Mississippi Gaming Control Act (Miss. Code Ann. §75-76-1 et seq., 1990) vests licensing, suitability and enforcement in the three-member Mississippi Gaming Commission, with the Department of Revenue collecting taxes and fees. Casinos are permitted only in the Gulf Coast counties and the Mississippi River counties that voted them in; Coast properties may be land-based under post-Katrina legislation, river properties remain on vessels/barges. Licences are property-specific and require findings of suitability for owners, key employees and major vendors; manufacturers and distributors are separately licensed. The AGA counts 25 commercial casinos in 2025 (26 in 2024 — the exact current MGC count is unverified here) plus the Mississippi Band of Choctaw Indians' three IGRA casinos outside the MGC data. Property-level revenue is statutorily confidential, so the Commission publishes only regional aggregates; there is no public market-share series.",
+          "The tax base is gross gaming revenue, remitted weekly with a monthly reconciliation by the 20th. The state levy is graduated — 4% on the first $50,000 of monthly GGR, 6% on the next $84,000, 8% above $134,000 — so every operating casino is effectively at 8%. Local governments impose gross-revenue levies by private legislation (Biloxi 3.2% plus $150 per device per year; Coahoma County 3.2% plus $150 per device; D'Iberville and Adams County up to 3.2%; Bay St Louis $100 per device), and the AGA puts the local average at 3–4%. The City of Biloxi's own description is that each casino's GGR is taxed at 'about 12 percent' all-in, with the 3.2% local share split 40% city general fund, 20% city public safety, 20% city education, 10% county education, 10% county public safety. DOR also charges an annual fee scaled to games on the floor ($81,200 plus $100 per game above 35) and local per-device taxes. Sports wagering pays identical state and local rates with no promotional deduction, plus the federal 0.25% excise on handle. Player winnings are subject to 3% withholding at source, with the slot threshold raised from $1,200 to $2,000 on 1 January 2026.",
+          "On fiscal yield, the DOR FY2025 annual report records $290.9m of gaming taxes: $155.4m transferred to the State General Fund, a fixed $3.0m per month ($36.0m) to the highway bond sinking fund under 1994 HB 1302, and the balance (~$99m) to local governments. FY2026 collections ran $188.6m over July 2025–February 2026 (~$23.6m/month; September 2025 collection month $23.9m), consistent with a flat ~$285–290m year; the AGA's calendar-2025 figure is $287.9m. FY2027 (July–September 2026) collections could not be retrieved this session (n/a). Applying 11.2% ad valorem to September 2026's $195.6m implies ~$21.9m of tax accrual (state ~$15.6m, local ~$6.3m) — our estimate, excluding device fees and the bond-fund top-up.",
+          "The one live reform vehicle is the House's mobile package. HB 4074 (Rep. Casey Eure, Ways & Means) passed 100–11 on 25 February 2026 and would have: authorised statewide mobile sports wagering only through a licensed casino, one online platform per licence; taxed online sports GGR at 22% (versus ~12% retail); cut the state casino gross-revenue rate from 8% to 6% as an explicit offset for retail cannibalisation; required a single statewide launch date no later than 8 December 2026; and earmarked proceeds to the Public Employees' Retirement System. It was referred to Senate Gaming and Finance on 12 March and died in committee on 17 March, the third consecutive session a House-passed mobile bill has failed at the Senate deadline (HB 1302 in 2025 died in conference after the House attached mobile language to a sweepstakes ban; HB 1581, 85–31 in February 2026, also died). For an entrant, the design signal is clear: Mississippi will be casino-tethered, single-skin, 20%+ tax, with no standalone online licence — a B2B/skin economics market, not an open-licence one."
+        ],
+        "table": {
+          "note": "Rates, fees and fiscal flows (DOR / MGC / AGA / Legislature)",
+          "columns": [
+            "Current rule",
+            "Proposed (HB 4074, died Mar-26)",
+            "Base / timing",
+            "Source"
+          ],
+          "rows": [
+            {
+              "label": "State gaming tax",
+              "cells": [
+                "4% / 6% / 8% graduated (8% marginal)",
+                "Cut to 6% for land-based",
+                "Monthly GGR; weekly remittance",
+                "DOR; iGB/Deadspin"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "Local gaming tax",
+              "cells": [
+                "Up to 3.2% GGR + $100–150/device/yr",
+                "Unchanged",
+                "Private legislation by city/county",
+                "DOR; City of Biloxi"
+              ]
+            },
+            {
+              "label": "Effective all-in casino rate",
+              "cells": [
+                "~11.2% ad valorem (~12% incl. fees)",
+                "~9.2%",
+                "GGR",
+                "Biloxi; AGA"
+              ]
+            },
+            {
+              "label": "Sports wagering tax",
+              "cells": [
+                "Same as casino (~12%) + 0.25% federal excise on handle",
+                "22% on online GGR",
+                "GGR / handle (federal)",
+                "AGA; HB 4074"
+              ]
+            },
+            {
+              "label": "Online / mobile licence",
+              "cells": [
+                "None",
+                "1 skin per casino licensee; launch ≤8 Dec 2026",
+                "—",
+                "HB 4074 text (as reported)"
+              ]
+            },
+            {
+              "label": "DOR annual games fee",
+              "cells": [
+                "$81,200 + $100/game (>35 games)",
+                "—",
+                "Per licensed location",
+                "DOR"
+              ]
+            },
+            {
+              "label": "State licence fee",
+              "cells": [
+                "[unverified in-session]",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Player withholding",
+              "cells": [
+                "3% at source; slot threshold $2,000 (from $1,200) since 1 Jan 2026",
+                "—",
+                "Winnings",
+                "DOR notice 28 Sep 2026"
+              ]
+            },
+            {
+              "label": "Fiscal flows",
+              "kind": "group"
+            },
+            {
+              "label": "Gaming taxes FY2025 (Jul-24–Jun-25)",
+              "cells": [
+                "$290.9m",
+                "—",
+                "GF $155.4m; bond fund $36.0m; local ~$99m",
+                "DOR Annual Report FY2025"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Casino tax revenue CY2025",
+              "cells": [
+                "$287.9m",
+                "—",
+                "Calendar year",
+                "AGA SoS 2026"
+              ],
+              "indent": true
+            },
+            {
+              "label": "FY2026 Jul-25–Feb-26 (8 months)",
+              "cells": [
+                "$188.6m (GF $100.3m; bond $24.0m; local $64.3m)",
+                "—",
+                "~$23.6m/month",
+                "DOR Mar-26 statement"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Sep-25 collection month",
+              "cells": [
+                "$23.9m (GF $13.2m; bond $3.0m; local $7.7m)",
+                "—",
+                "Collection month",
+                "DOR"
+              ],
+              "indent": true
+            },
+            {
+              "label": "FY2027 Jul–Sep 2026",
+              "cells": [
+                "n/a (PDF not retrievable)",
+                "—",
+                "—",
+                "DOR 'GAMING TAX FY2027'"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Modelled tax on Sep-26 GGR",
+              "cells": [
+                "~$21.9m (state ~$15.6m; local ~$6.3m) — estimate",
+                "—",
+                "11.2% × $195.6m",
+                "Analyst"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Licence counts",
+              "kind": "group"
+            },
+            {
+              "label": "Commercial casinos",
+              "cells": [
+                "25 (AGA 2025); 26 (2024)",
+                "Each eligible for 1 online skin",
+                "Site-based",
+                "AGA; Magnolia Tribune"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Tribal casinos (Choctaw)",
+              "cells": [
+                "3 [unverified]",
+                "Not covered",
+                "IGRA compact",
+                "—"
+              ],
+              "indent": true
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Licensing regime",
+            "takeaway": "The 1990 Gaming Control Act gives a three-member Commission site-based licensing with no online class; 25 commercial casinos in 2025 per AGA.",
+            "points": [
+              "Casinos permitted only in Gulf Coast counties and Mississippi River counties that voted them in; Coast land-based, river on vessels/barges.",
+              "Licences are property-specific with suitability findings for owners, key employees and major vendors; manufacturers and distributors separately licensed.",
+              "26 casinos in 2024; current MGC count unverified; Choctaw's three IGRA casinos sit outside MGC data.",
+              "Property-level revenue is statutorily confidential; only regional aggregates published, no public market-share series."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Tax structure",
+            "takeaway": "State levy is graduated to 8% above $134,000 monthly GGR, plus ~3.2% local and device fees, about 12% all-in.",
+            "points": [
+              "4% on first $50,000, 6% on next $84,000, 8% above $134,000; remitted weekly with monthly reconciliation by the 20th.",
+              "Local levies: Biloxi 3.2% plus $150 per device; Coahoma 3.2% plus $150 per device; D'Iberville and Adams up to 3.2%; Bay St Louis $100 per device; AGA average 3–4%.",
+              "Biloxi's 3.2% splits 40% city general fund, 20% public safety, 20% city education, 10% county education, 10% county public safety.",
+              "DOR annual fee $81,200 plus $100 per game above 35; sports pays identical rates, no promotional deduction, plus 0.25% federal excise.",
+              "3% withholding on winnings; slot threshold raised from $1,200 to $2,000 on 1 January 2026."
+            ],
+            "quote": {
+              "text": "about 12 percent",
+              "speaker": "City of Biloxi"
+            }
+          },
+          {
+            "heading": "Fiscal yield",
+            "takeaway": "DOR FY2025 gaming taxes were $290.9m, with FY2026 tracking a flat ~$285–290m year.",
+            "points": [
+              "FY2025: $155.4m to State General Fund, $36.0m ($3.0m/month) to highway bond sinking fund under 1994 HB 1302, ~$99m to local governments.",
+              "FY2026 collections $188.6m over July 2025–February 2026 (~$23.6m/month; September 2025 collection month $23.9m); AGA calendar-2025 figure $287.9m.",
+              "FY2027 (July–September 2026) collections could not be retrieved (n/a).",
+              "11.2% ad valorem on September 2026's $195.6m implies ~$21.9m tax accrual (state ~$15.6m, local ~$6.3m), analyst estimate excluding device fees and bond top-up."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "HB 4074 mobile package",
+            "takeaway": "HB 4074 passed the House 100–11 on 25 February 2026 but died in Senate committee on 17 March, the third consecutive failure.",
+            "points": [
+              "Would have authorised statewide mobile sports wagering through licensed casinos, one platform per licence, taxed at 22%.",
+              "Would have cut the state casino rate from 8% to 6% as cannibalisation offset, required launch by 8 December 2026, and earmarked proceeds to PERS.",
+              "Referred to Senate Gaming and Finance on 12 March; HB 1302 (2025) died in conference; HB 1581 (85–31, February 2026) also died.",
+              "Design signal: casino-tethered, single-skin, 20%+ tax, no standalone online licence — a B2B/skin economics market."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Legislative direction, payments and responsible gambling",
+        "headline": "House pro-mobile, Senate opposed, sweepstakes unregulated: the rules are not moving in 2026, and the 2027 session (January–April) is the next window.",
+        "narrative": [
+          "The 2026 regular session reproduced the 2025 stalemate exactly. The House passed two mobile bills (HB 1581, 85–31; HB 4074, 100–11) and the Senate Gaming Committee chair declined to hear either before the 3 March crossover deadline; HB 4074 was formally recorded as died in committee on 17 March. Senate objections, as reported, centre on protecting the physical casino tax base and Coast tourism employment from statewide mobile, and scepticism of the fiscal projections ('tens of millions' annually). The House response — a 22% online rate, a 2-point cut in the state casino rate and PERS earmarking — was designed to buy off both the casinos and the fiscal hawks and still failed, which tells you the veto is positional rather than negotiable on terms. A separate 2026 Senate bill to expressly criminalise dual-currency sweepstakes casinos (SB 2104) also missed the deadline, so sweepstakes operators continue to take Mississippi customers with no state tax and no MGC oversight [status per a single secondary source; unverified]. In 2025 the sweepstakes ban had passed the Senate but died when the House attached mobile language and conference collapsed — the two issues are now politically linked.",
+          "Enforcement posture is conventional for a casino-regulator model: the MGC's Investigations and Enforcement divisions police licensees, run patron-dispute adjudication, administer the statewide self-exclusion list and take illegal-gaming reports; the Commission's regulations (Part 9) give it discretionary authority over permitted sports wagers, and wagering on high-school events is prohibited. There is no evidence this session of MGC cease-and-desist activity against offshore books, sweepstakes sites or prediction-market platforms, which contrasts with Louisiana, Tennessee and other neighbours [not verified — treat as a watch item]. Advertising is governed by general MGC rules rather than an online-specific code; the absence of a regulated online channel means there is no affiliate, bonus or marketing regime to comply with — or to build on.",
+          "Payments are a retail cash economy: cage, ATM/debit at the cage, ticket-in/ticket-out on the floor, and sportsbook apps that must be funded and used on-property within a geofence. No ACH/e-wallet/online card-deposit framework exists because there is no remote product; any mobile authorisation would require the MGC to write deposit, KYC, geolocation and payment-processor rules from scratch (HB 4074 gave the Commission a December 2026 launch deadline, which implies a compressed rulemaking cycle if a future bill passes). Whether the MGC has adopted cashless/digital-wallet wagering rules for the casino floor could not be verified this session (n/a). Player-side taxation is a friction point: 3% is withheld at source on reportable winnings, and the 2026 threshold change to $2,000 reduces hand-pay frequency but not the levy.",
+          "Responsible-gambling architecture is minimal but present: the gambling age is 21 for casinos and sports wagering; the MGC runs a statewide self-exclusion programme and publishes problem-gaming resources, and the Mississippi Council on Problem and Compulsive Gambling operates the helpline [council details unverified in-session]. There are no mandated deposit limits, affordability checks or statutory RG levy on operators of the kind seen in UK/EU regimes, and none of the 2026 mobile bills proposed them beyond standard self-exclusion and age-verification language. For an operator this is a low-compliance-cost, low-political-cover environment; the risk is that any future mobile bill will import RG conditions from the Senate side as the price of passage."
+        ],
+        "table": {
+          "note": "Legislative and regulatory timeline / rules",
+          "columns": [
+            "Status",
+            "Date",
+            "Detail",
+            "Implication"
+          ],
+          "rows": [
+            {
+              "label": "HB 4074 — Mobile Sports Wagering Act",
+              "cells": [
+                "Died in Senate committee",
+                "17 Mar 2026",
+                "Passed House 100–11 (25 Feb); 22% online tax; casino rate 8%→6%; 1 skin/casino; launch ≤8 Dec 2026; PERS earmark",
+                "No online market in 2026"
+              ],
+              "kind": "emphasis"
+            },
+            {
+              "label": "HB 1581 — online sports pool/race book",
+              "cells": [
+                "Died at crossover",
+                "3 Mar 2026",
+                "Passed House 85–31 in early Feb",
+                "Same chamber split"
+              ]
+            },
+            {
+              "label": "SB 2104 — sweepstakes casino ban",
+              "cells": [
+                "Died at crossover [unverified]",
+                "3 Mar 2026",
+                "Would criminalise dual-currency sweepstakes",
+                "Grey market continues untaxed"
+              ]
+            },
+            {
+              "label": "HB 1302 (2025) — mobile sports wagering",
+              "cells": [
+                "Died in conference",
+                "Apr 2025",
+                "House attached mobile to Senate sweepstakes ban (SB 2510); conference failed",
+                "Issues now politically linked"
+              ]
+            },
+            {
+              "label": "PEER mobile sports betting study (HB 606, 2023)",
+              "cells": [
+                "Published",
+                "Dec 2023",
+                "Fiscal scenarios; notes vig/free play counted in handle & revenue",
+                "Baseline for Senate scepticism"
+              ]
+            },
+            {
+              "label": "DOR withholding threshold",
+              "cells": [
+                "In force",
+                "1 Jan 2026",
+                "3% withholding; slot threshold $1,200→$2,000",
+                "Fewer hand-pays; levy unchanged"
+              ]
+            },
+            {
+              "label": "Next legislative window",
+              "cells": [
+                "2027 Regular Session",
+                "Jan–Apr 2027",
+                "Crossover deadline ~early March",
+                "Watch Senate Gaming chair / leadership"
+              ]
+            },
+            {
+              "label": "Rules in force",
+              "kind": "group"
+            },
+            {
+              "label": "Minimum age",
+              "cells": [
+                "21",
+                "—",
+                "Casino & sports",
+                "—"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Mobile wagering",
+              "cells": [
+                "On-premises geofenced apps only",
+                "Since 2018",
+                "Statewide prohibited",
+                "0% online penetration"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Prohibited wagers",
+              "cells": [
+                "High-school sports; MGC discretion (Part 9 Rule 3.11)",
+                "—",
+                "No listed prohibitions",
+                "Flexible for operators"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Self-exclusion",
+              "cells": [
+                "Statewide MGC programme",
+                "—",
+                "Via MGC",
+                "—"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Advertising code (online)",
+              "cells": [
+                "None (no online market)",
+                "—",
+                "General MGC regs apply",
+                "—"
+              ],
+              "indent": true
+            },
+            {
+              "label": "Cashless / digital wallet on floor",
+              "cells": [
+                "n/a (not verified)",
+                "—",
+                "—",
+                "—"
+              ],
+              "indent": true
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "2026 session stalemate",
+            "takeaway": "The House passed HB 1581 (85–31) and HB 4074 (100–11) but the Senate Gaming chair declined to hear either before the 3 March crossover.",
+            "points": [
+              "Senate objections centre on protecting the physical casino tax base and Coast tourism employment, and scepticism of 'tens of millions' fiscal projections.",
+              "The House offer (22% online rate, 2-point casino rate cut, PERS earmark) still failed, showing the veto is positional rather than negotiable on terms.",
+              "SB 2104 to criminalise dual-currency sweepstakes casinos missed the deadline; sweepstakes operators continue with no state tax or MGC oversight [single secondary source; unverified].",
+              "In 2025 the sweepstakes ban died when the House attached mobile language; the two issues are now politically linked.",
+              "The 2027 session (January–April) is the next window."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Enforcement posture",
+            "takeaway": "MGC enforcement is conventional casino-regulator policing with no evidence this session of action against offshore, sweepstakes or prediction-market platforms.",
+            "points": [
+              "Investigations and Enforcement divisions police licensees, adjudicate patron disputes, run self-exclusion and take illegal-gaming reports; Part 9 gives discretion over sports wagers.",
+              "Absence of cease-and-desist activity contrasts with Louisiana, Tennessee and other neighbours [not verified — treat as a watch item].",
+              "Advertising governed by general MGC rules; no affiliate, bonus or marketing regime to comply with — or to build on."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Payments",
+            "takeaway": "Payments are a retail cash economy with no ACH/e-wallet/online card-deposit framework because there is no remote product.",
+            "points": [
+              "Cage, ATM/debit at the cage, ticket-in/ticket-out, and sportsbook apps funded and used on-property within a geofence.",
+              "Any mobile authorisation would require MGC to write deposit, KYC, geolocation and payment-processor rules from scratch; HB 4074's December 2026 deadline implies compressed rulemaking.",
+              "Whether MGC has adopted cashless/digital-wallet floor rules could not be verified (n/a).",
+              "3% withheld at source on reportable winnings; the 2026 $2,000 threshold reduces hand-pay frequency but not the levy."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Responsible gambling",
+            "takeaway": "RG architecture is minimal but present: age 21, statewide self-exclusion and a helpline, with no deposit limits, affordability checks or RG levy.",
+            "points": [
+              "Mississippi Council on Problem and Compulsive Gambling operates the helpline [council details unverified in-session].",
+              "None of the 2026 mobile bills proposed RG conditions beyond standard self-exclusion and age-verification language.",
+              "Low-compliance-cost, low-political-cover environment; risk is a future mobile bill imports Senate-side RG conditions as the price of passage."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Legislative optionality on mobile is real and well-defined: the House has passed casino-tethered mobile sports wagering three sessions running (100–11 in 2026) with a known shape — one skin per casino, 22% online tax, statewide geofence. If the Senate blockage lifts in 2027, a B2B platform/skin deal with one of ~25 licensees is the entry route and the terms are already drafted.",
+        "tag": "structural"
+      },
+      {
+        "text": "The Coast is a genuine destination market with growth: Coastal GGR $134.2m in September (+7.7%), $1.59bn in 2025 (+0.5%, first increase in three years), ~69% of state GGR, land-based resort zoning and record Biloxi sales-tax receipts — the only Mississippi sub-market where an acquirer can underwrite a top line.",
+        "tag": "structural"
+      },
+      {
+        "text": "Low tax and low compliance burden by regulated-market standards: ~12% effective GGR tax (8% state marginal + ~3.2% local), no promotional-deduction fights, no RG levy, no affordability or deposit-limit mandates, and a regulator with discretionary (not list-based) wagering rules.",
+        "tag": "structural"
+      },
+      {
+        "text": "Quantified pent-up online demand: Louisiana's mobile books handled $384.5m in September (11.3x Mississippi's $34.0m) and paid $8.88m of tax versus ~$435k here; Central-region sports handle fell 26.9% as bettors crossed the line. Each football season sharpens the fiscal argument for the legislature.",
+        "tag": "structural"
+      },
+      {
+        "text": "September itself was a clean beat: GGR +4.5% YoY against a 2026 run-rate of ~-0.7%, with all three product lines on the floor positive (slots +2.4%, tables +36.8%) and two of three regions up — evidence the retail base is stable rather than eroding.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Sweepstakes remain unbanned after SB 2104 stalled, so the political cost of inaction is rising; the House has already shown it will trade a sweepstakes ban for mobile authorisation, which is the most plausible grand-bargain path to a regulated online channel.",
+        "tag": "watch"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "No addressable online market and no licence class for one: statewide mobile is prohibited, online casino has never been seriously proposed, and the Senate Gaming chair has killed every House bill without a hearing for three sessions. Any Mississippi plan is contingent on a political outcome outside the operator's control.",
+        "tag": "structural"
+      },
+      {
+        "text": "Flat-to-declining top line: GGR $2.43bn in both 2024 and 2025, ~-0.7% YTD 2026 on our sum of monthly prints, with six of nine months down; river markets (31% of GGR) are in structural decline (Central -8.1% in September) and only hold volatility lifts tables.",
+        "tag": "structural"
+      },
+      {
+        "text": "Sports betting is small and shrinking: $34.0m September handle (-12.9%) at the seasonal peak, GGR $3.6m (-47%), hold normalising from 17.5% to 10.6%, and the book is only 2% of GGR — retail sports is not a growth product and the 2025 +19.7% GGR gain was a hold artefact.",
+        "tag": "structural"
+      },
+      {
+        "text": "Casino-tethered design caps upside: the only mobile model on the table gives each incumbent casino one skin and a 22% tax — nearly double the retail rate — so an entrant pays for access through revenue share to a licensee that may prefer its own brand (BetMGM, Caesars, Penn/ESPN Bet successors). Market access could be scarce and expensive.",
+        "tag": "structural"
+      },
+      {
+        "text": "Data opacity: property-level GGR is confidential by statute, the MGC publishes no operator shares, no active-player counts and no promotional spend, and even the headline component reports do not reconcile to the AGR print. Due diligence on any acquisition target relies on seller data.",
+        "tag": "watch"
+      },
+      {
+        "text": "Grey-market competition is untaxed and unpoliced: sweepstakes and offshore books serve Mississippi customers with no state action visible this session, eroding retail sports handle and giving a future regulated entrant a customer base already habituated to unregulated terms and bonuses.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Table-games base revision: the MGC-reported +36.8% does not reconcile with last year's published $23.9m (implies ~+31%); minor, but it means month-on-month series from secondary sources should be re-based from the MGC archive before modelling.",
+        "tag": "one-off"
+      }
+    ],
+    "forecast": {
+      "intro": "Nothing in the rulebook changed in the period: September's +4.5% GGR print is a floor-stabilisation and hold story, not a regime change, and the legislative bridge from 2025 to 2026 is flat — HB 4074 moved the House from 85–31 (HB 1581) to 100–11 but moved the Senate not at all. The moving parts for 2027 are (i) whether a casino-tethered mobile bill with a 22% online rate and a 2-point state casino tax cut can secure a Senate Gaming hearing, (ii) whether a sweepstakes ban is re-linked to it, and (iii) whether a fourth consecutive year of flat GGR and visible cross-border leakage (Louisiana 11x handle, Central sports -27%) shifts Senate leadership. On the market side the bridge is from $2.43bn (2025) to our estimate of $2.40–2.45bn (2026) — the Coast +0–2%, Tunica -2–4%, Central -5–8%, sports GGR falling back toward $40–45m as hold normalises.",
+      "bridge": [
+        {
+          "title": "Commercial casino GGR",
+          "value": "2025: $2.43bn → 2026E: $2.40–2.45bn (est.)",
+          "change": "~flat; YTD Sep ~-0.7%"
+        },
+        {
+          "title": "Sports GGR / hold",
+          "value": "2025: $49.8m @ ~13% → 2026E: ~$40–45m @ ~11–12% (est.)",
+          "change": "Hold normalisation; handle -10%+"
+        },
+        {
+          "title": "State casino tax rate",
+          "value": "8% marginal (current) → 6% proposed under HB 4074",
+          "change": "Bill died 17 Mar 2026; re-file expected Jan 2027"
+        },
+        {
+          "title": "Online sports tax / licence",
+          "value": "None → 22% GGR, 1 skin per casino (proposed)",
+          "change": "Contingent on Senate; earliest launch late 2027–2028"
+        }
+      ],
+      "view": "Our base case is **no regulated online channel in Mississippi before 2028**. The Senate veto has survived three sessions, a 100–11 House vote and a tax-cut sweetener; absent a change in Senate Gaming leadership or a budget shock, we assign roughly a one-in-three probability that a casino-tethered mobile sports bill passes in the 2027 session, with online casino not on the agenda at all. If it passes, expect a **22% online tax, single-skin-per-licence structure with ~25 skins in theory and perhaps 8–12 in practice**, a 9–12-month MGC rulemaking, and a first-year statewide handle in the **$1.0–1.5bn range (estimate, benchmarked at ~30–40% of Louisiana's per-capita run-rate)** — material versus today's $0.4bn retail book but small in national terms. **Retail GGR stays flat at ~$2.4bn with the Coast's share drifting above 65–67%**; leverage on the fiscal side is low (the state's ~$290m take is steady) so there is no revenue pressure forcing the Senate's hand. The sweepstakes question is the swing factor: a sweepstakes ban re-attached to mobile authorisation is the only package that has moved both chambers' interests simultaneously. For B2Tech, the right posture is **pre-positioning for a B2B/skin partnership with a Coast or Tunica licensee lacking a national online brand (Island View, Scarlet Pearl, Treasure Bay, Palace, Foundation Gaming, Cherokee's Gold Strike), with zero capital committed until a bill clears Senate committee**.",
+      "watch": [
+        "2027 Regular Session (convenes January; crossover ~early March): does a mobile sports bill get a Senate Gaming Committee hearing, and does it re-link a sweepstakes ban (SB 2104-style) to mobile authorisation?",
+        "Senate Gaming Committee leadership and Lieutenant Governor positioning after the 2027 session opens — the single binding constraint on online legalisation.",
+        "MGC monthly prints for October–December 2026 (football season): whether the Central region's sports handle keeps falling 25%+ and whether statewide hold stays near 10–11% — both feed the cannibalisation/leakage narrative.",
+        "DOR FY2027 gaming tax statements (July 2026 onward) — confirm the ~$23–24m/month run-rate and any shortfall that might pressure the budget debate.",
+        "Louisiana (and Tennessee/Arkansas) monthly mobile handle versus Mississippi retail: the ratio (11.3x in September) is the leakage metric legislators will be shown.",
+        "Any MGC or Attorney General enforcement against sweepstakes, offshore or prediction-market operators — a signal of how a future online regime would treat grey-market incumbents.",
+        "Casino count and M&A: confirmation of the 25 vs 26 licensed-property count, Biloxi new-resort site approvals (July 2025 approval; developer extension October 2025) and any river-market closures.",
+        "Federal W-2G/withholding harmonisation and the 3% state withholding — any move to make withholding refundable or raise the threshold further affects floor economics."
+      ]
+    },
+    "confidence": "MEDIUM",
+    "confidenceNote": "Market reports in USD; no FX conversion required. The MGC's September 2026 PDFs (casino AGR, sports wagering, device reports) could not be opened this session (fetch blocked), so all September figures are taken from three independent secondary reports that quote the Commission (CDC Gaming, Gaming Intelligence, LegalSportsBetting) and cross-checked against last year's MGC prints (CDC/CasinoReviews/RG.org) — they reconcile to within rounding, except the table-games base (MGC +36.8% vs ~+31% on last year's published $23.9m). Regional sports handle for Northern (~$3.6m) is derived by subtraction. YTD 2026 (~$1,814m, ~-0.7%) is an analyst sum of nine MGC monthly prints, not an MGC-published YTD. Full-year 2025 data are AGA State of the States 2026 (MGC-sourced). Tax rates and fee schedule are from DOR's gaming page; FY2025 collections from the DOR annual report; FY2027 collections not retrievable (n/a). Unverified in-session: the exact 2026 licensed-casino count (25 vs 26), the three Choctaw tribal casinos, the statutory annual state licence fee, SB 2104's fate (single secondary source), casino ownership list details, MGC cashless-wagering rules, and problem-gambling council details. No figures were estimated silently; all modelled numbers are labelled 'est.'.",
+    "sources": [
+      {
+        "label": "Mississippi Gaming Commission — Monthly Reports (September 2026: Sports Wagering, Gaming Devices Slots/Tables, Hold, Win) [primary; index page read, PDFs not retrievable]",
+        "kind": "primary",
+        "url": "https://www.msgamingcommission.com/reports/monthly_reports"
+      },
+      {
+        "label": "MGC — Monthly Casino Adjusted Gross Gaming Revenue 2026 (0926_revenue.pdf) [primary; not retrievable this session]",
+        "kind": "primary",
+        "url": "https://www.msgamingcommission.com/images/uploads/0926_revenue.pdf"
+      },
+      {
+        "label": "MGC — Sports Wagering Report September 2026 (0926_sports_wagering.pdf) [primary; not retrievable this session]",
+        "kind": "primary",
+        "url": "https://www.msgamingcommission.com/files/monthly_reports/0926_sports_wagering.pdf"
+      },
+      {
+        "label": "Mississippi Department of Revenue — Gaming: taxes, rates, license fees, local levies [primary]",
+        "kind": "primary",
+        "url": "https://www.dor.ms.gov/business/gaming"
+      },
+      {
+        "label": "Mississippi DOR — Tax Revenue from Gaming FY2026 (statement dated 20 Mar 2026) [primary]",
+        "kind": "primary",
+        "url": "https://www.dor.ms.gov/sites/default/files/statistics/game_gamtax%20March%202026.pdf"
+      },
+      {
+        "label": "Mississippi DOR — Annual Report Fiscal Year 2025 (gaming taxes $290.9m) [primary]",
+        "kind": "primary",
+        "url": "https://www.dor.ms.gov/sites/default/files/statistics/annual-reports/Annual%20Report%20FY2025%20final%2012052025.pdf"
+      },
+      {
+        "label": "Mississippi DOR — Updated notice: withholding on Mississippi gaming winnings (3%; $2,000 slot threshold from 1 Jan 2026) [primary]",
+        "kind": "primary",
+        "url": "https://www.dor.ms.gov/news/withholding-mississippi-gaming-winnings"
+      },
+      {
+        "label": "Mississippi DOR — Casino Gross Gaming Revenues 2026 by Gulf Coast / River counties (June 2026 statement) [primary]",
+        "kind": "primary",
+        "url": "https://www.dor.ms.gov/sites/default/files/statistics/Gaming%20Revenue%20June%202026.pdf"
+      },
+      {
+        "label": "Mississippi Legislature — HB 4074 (2026) bill history (FastDemocracy mirror of billstatus.ls.state.ms.us) [primary record via secondary mirror]",
+        "kind": "primary",
+        "url": "https://fastdemocracy.com/bill-search/ms/2026/bills/MSB00047735/"
+      },
+      {
+        "label": "Mississippi PEER Committee — Final Report to the Legislature on Mobile Sports Betting (HB 606, 2023) [primary]",
+        "kind": "primary",
+        "url": "https://www.peer.ms.gov/sites/default/files/publications/MobileSportsBettingReport_FINAL.pdf"
+      },
+      {
+        "label": "City of Biloxi — Gaming Revenues: tax formula (8% state, 3.2% local split) [primary, municipal]",
+        "kind": "primary",
+        "url": "https://biloxi.ms.us/resources/gaming-revenues/"
+      },
+      {
+        "label": "American Gaming Association — State of the States 2026: Mississippi (MGC-sourced 2025 data) [secondary, official-data compilation]",
+        "kind": "secondary",
+        "url": "https://www.americangaming.org/wp-content/uploads/2025/02/Mississippi_Overview.pdf"
+      },
+      {
+        "label": "CDC Gaming — Mississippi casino revenue rises 4.5% to $195.6 million in September (16 Oct 2026)",
+        "kind": "secondary",
+        "url": "https://cdcgaming.com/mississippi-casino-revenue-rises-4-5-to-195-6-million-in-september/"
+      },
+      {
+        "label": "Gaming Intelligence — Mississippi casinos see September gaming revenue climb 4% (19 Oct 2026)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/237408-mississippi-casinos-see-september-gaming-revenue-climb-4/"
+      },
+      {
+        "label": "LegalSportsBetting.com — Louisiana apps grow as Mississippi sports betting slides (20 Oct 2026; MGC Sept sports report)",
+        "kind": "secondary",
+        "url": "https://www.legalsportsbetting.com/news/louisiana-apps-grow-as-mississippi-sports-betting-slides-10-20-2026/"
+      },
+      {
+        "label": "CDC Gaming — Mississippi Coast region leads again as statewide casino revenue down 1.8% in September (Sept 2025 base)",
+        "kind": "secondary",
+        "url": "https://cdcgaming.com/mississippi-coast-region-leads-again-as-statewide-casino-revenue-down-1-8-in-september/"
+      },
+      {
+        "label": "CasinoReviews — Mississippi casino revenue falls 1.8% in September 2025 (regional base figures)",
+        "kind": "secondary",
+        "url": "https://www.casinoreviews.net/news/mississippi-casino-revenue-falls-18-in-september/"
+      },
+      {
+        "label": "RG.org — Mississippi sports betting revenue September 2025 (handle $39.1m, GGR $6.85m, hold 17.5%, tax $753k)",
+        "kind": "secondary",
+        "url": "https://rg.org/news/gambling-industry/mississippi-september-2025-sports-betting-revenue"
+      },
+      {
+        "label": "RG.org — Mississippi sports betting statistics (2025 handle by sport; tax 12% = 8% state + 4% local)",
+        "kind": "secondary",
+        "url": "https://rg.org/statistics/us/mississippi"
+      },
+      {
+        "label": "CDC Gaming — 2026 monthly Mississippi prints: January ($185.4m), February ($200.6m), March ($214.2m), April ($196.0m), May ($217.9m), June ($194.6m), July ($208.7m), August ($201.4m)",
+        "kind": "secondary",
+        "url": "https://cdcgaming.com/location/us/mississippi/"
+      },
+      {
+        "label": "iGaming Business — Mississippi House passes mobile sports betting bill with casino tax cut sweetener (26 Feb 2026)",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/sports-betting/online-sports-betting/second-mississippi-house-sports-betting-bill-passes/"
+      },
+      {
+        "label": "Deadspin — Mississippi's mobile sports betting push ends for 2026 session (HB 1581/HB 4074; sweepstakes ban died)",
+        "kind": "secondary",
+        "url": "https://deadspin.com/legal-betting/mississippis-mobile-sports-betting-push-ends-for-2026-session/"
+      },
+      {
+        "label": "National Law Review — Mississippi Legislature returns to mobile sports wagering and sweepstakes policy in 2026",
+        "kind": "secondary",
+        "url": "https://natlawreview.com/article/mississippi-legislature-returns-mobile-sports-wagering-and-sweepstakes-policy-2026"
+      },
+      {
+        "label": "Magnolia Tribune — Mississippi's bricks-and-mortar casinos facing unprecedented online gaming challenges (2024 AGA data: 26 casinos, EGD $2.02bn, tables $333.7m, sports $41.6m)",
+        "kind": "secondary",
+        "url": "https://magnoliatribune.com/2025/09/24/mississippis-bricks-and-mortar-casinos-facing-unprecedented-online-gaming-challenges/"
+      },
+      {
+        "label": "Covers — Mississippi betting revenue tracker (lifetime handle $3.20bn / revenue $352.7m through Sept 2025)",
+        "kind": "secondary",
+        "url": "https://www.covers.com/betting/usa/mississippi/betting-revenue-tracker"
+      },
+      {
+        "label": "Betmeister — Mississippi on-premises rules; SB 2104 sweepstakes ban status (single-source, unverified)",
+        "kind": "secondary",
+        "url": "https://www.betmeister.net/ignition-casino-mississippi"
+      }
+    ],
+    "docType": "regulator"
+  }
+}

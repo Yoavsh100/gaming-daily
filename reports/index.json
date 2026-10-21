@@ -696,16 +696,62 @@
   },
   {
     "key": "juris|mississippi|SEPTEMBER 2026",
-    "attempts": 1,
-    "lastAttempt": "2026-10-20T17:36:56.268Z",
-    "status": "failed",
-    "error": "terminated",
+    "attempts": 2,
+    "lastAttempt": "2026-10-21T17:44:11.202Z",
+    "status": "done",
+    "error": null,
     "type": "jurisdiction",
     "company": {
       "name": "Mississippi",
-      "ticker": ""
+      "ticker": "",
+      "exchange": ""
     },
-    "period": "SEPTEMBER 2026"
+    "period": "SEPTEMBER 2026",
+    "slug": "MISSISSIPPI-SEPTEMBER-2026",
+    "published": "2026-10-21",
+    "verdict": "September 2026 was a good month for a flat market: Mississippi's commercial casinos won $195.6m (+4.5% YoY), driven entirely by the Gulf Coast (+7.7%) and a table-games hold bounce, while slots (+2.4%) merely stabilised and the river markets kept shrinking. The structural story is unchanged — a $2.4bn, 100% land-based, retail-only market whose sports book just posted a $34.0m handle (-12.9%) at a 10.6% hold, taxed at ~12% of GGR, and whose Senate killed statewide mobile wagering (HB 4074) for a third straight session; for an online-led operator the only addressable route in remains a casino partnership option on legislation that has not yet passed.",
+    "kpis": [
+      {
+        "label": "Commercial casino GGR (Sep-26)",
+        "value": "$195.6m",
+        "delta": "+4.5% YoY (Sep-25: $187.2m)",
+        "dir": "up"
+      },
+      {
+        "label": "Slot (EGD) win",
+        "value": "$157.3m",
+        "delta": "+2.4% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Table-games win",
+        "value": "$31.3m",
+        "delta": "+36.8% YoY (MGC-reported)",
+        "dir": "up"
+      },
+      {
+        "label": "Sports handle (retail-only)",
+        "value": "$34.0m",
+        "delta": "-12.9% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Sports GGR / hold",
+        "value": "$3.6m / 10.6%",
+        "delta": "-47% YoY; hold -6.9pp vs 17.5%",
+        "dir": "down"
+      },
+      {
+        "label": "YTD GGR Jan–Sep 26 (est.)",
+        "value": "~$1,814m",
+        "delta": "~-0.7% YoY (sum of MGC monthly prints)",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "16 Oct 2026 (MGC September 2026 monthly reports; CDC Gaming same day; Gaming Intelligence 19 Oct 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.77
   },
   {
     "key": "juris|macau|Q3 2026",
@@ -824,5 +870,123 @@
     "releaseDate": "13 Oct 2026",
     "model": "claude-fable-5-1",
     "costUsd": 6.45
+  },
+  {
+    "key": "juris|africa|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-21T17:58:10.712Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "AFRICA-Q3-2026",
+    "published": "2026-10-21",
+    "company": {
+      "name": "Africa",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "Africa has no pan-continental GGR print; the Q3-26 \"release\" is a demand index (Blask, 42 markets) showing the continent down 1.9% QoQ with West Africa (Nigeria +15.6%, Ghana +21.5%) rebounding and the tail (Mali −80.8%, Rwanda −56.1%) collapsing. The only audited benchmark, South Africa, is a R74.5bn (~$4.07bn) GGR market growing 25.6% on online betting alone, while the rules elsewhere are moving toward higher fixed licence costs (Kenya KES 50m/~$388k online licence, 1-year term), broader stake/deposit-based excises (Kenya 5% of deposits, Tanzania 5% of stakes), player withholding (Kenya 20%) and payment-rail enforcement. Entry economics are deteriorating faster than demand is growing in most jurisdictions except South Africa and Nigeria.",
+    "kpis": [
+      {
+        "label": "Africa demand (Blask Index, 42 mkts)",
+        "value": "−1.9% QoQ",
+        "delta": "Q3-26 vs Q2-26; 20 mkts up / 22 down",
+        "dir": "down"
+      },
+      {
+        "label": "South Africa GGR (NGB, FY24/25)",
+        "value": "R74.5bn (~$4.07bn)",
+        "delta": "+25.6% YoY; betting 70% of GGR",
+        "dir": "up"
+      },
+      {
+        "label": "SA online share of betting GGR",
+        "value": "86%",
+        "delta": "R44.5bn (~$2.43bn); ~60% of all GGR online",
+        "dir": "up"
+      },
+      {
+        "label": "Kenya betting taxes (KRA FY25/26)",
+        "value": "KSh16.53bn (~$128m)",
+        "delta": "+24.9% YoY; 115.9% of target",
+        "dir": "up"
+      },
+      {
+        "label": "Kenya online bookmaker licence fee",
+        "value": "KES 50m (~$388k)",
+        "delta": "vs KES 8m draft; 1-yr term; sub judice",
+        "dir": "up"
+      },
+      {
+        "label": "Nigeria demand (Blask)",
+        "value": "+15.6% QoQ",
+        "delta": "SportyBet +16.9%, Bet9ja +14.8% in-market",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "20 Oct 2026 (Blask Q3-2026 Africa rankings via Findmore Africa); NGB South Africa FY2024/25 report published Apr 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.53
+  },
+  {
+    "key": "juris|louisiana|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-21T18:13:28.388Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "LOUISIANA-SEPTEMBER-2026",
+    "published": "2026-10-21",
+    "company": {
+      "name": "Louisiana",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "September 2026 was Louisiana's best handle month of the year at $405.1m (+0.9% YoY), but a soft 10.7% hold cut net proceeds 8.0% to $43.4m and state tax 9.4% to $8.9m — the sportsbook market is now mature, 95% mobile, parlay-dependent (63% of mobile win) and taxed at 21.5%. The land-based base is the growth story for once ($195.5m casino GGR, +11.8% on landside relocations and Caesars New Orleans), while the rule-set is hardening: sweepstakes are banned with racketeering exposure from 1 Aug 2026, and a prop/micro-bet ban was shelved only because it would cost the state >$20m a year.",
+    "kpis": [
+      {
+        "label": "Sports handle (Sep-26)",
+        "value": "$405.1m",
+        "delta": "+0.9% YoY / +48.9% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "Sports net proceeds (post-promo)",
+        "value": "$43.4m",
+        "delta": "-8.0% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Hold (net proceeds / handle)",
+        "value": "10.7%",
+        "delta": "-104bp YoY (mobile 10.3%)",
+        "dir": "down"
+      },
+      {
+        "label": "Sports tax paid",
+        "value": "$8.9m",
+        "delta": "-9.4% YoY (21.5% mobile / 10% retail)",
+        "dir": "down"
+      },
+      {
+        "label": "Mobile share of handle",
+        "value": "94.9%",
+        "delta": "+3.3pp YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Casino GGR (riverboat+land-based+racino)",
+        "value": "$195.5m",
+        "delta": "+11.8% YoY",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "15 Oct 2026 (LGCB/LSP monthly revenue reports for September 2026; sportsbook workbooks dated 13 Oct 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.19
   }
 ]
