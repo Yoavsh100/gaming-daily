@@ -7,7 +7,14 @@ name: Iceman daily
 
 on:
   schedule:
-    - cron: '17 4 * * 1-5' # 04:17 UTC; off the top of the hour on purpose — GitHub drops/delays round-hour cron ticks under load (04:00 was being skipped). ~07:17 Cyprus summer, 06:17 winter.
+    # Three EARLY attempts so the edition is built before the 08:30 Cyprus (05:30 UTC EEST /
+    # 06:30 UTC EET) send, even if GitHub drops or delays a tick. Redundant runs are harmless:
+    # the concurrency group serialises them and the publish step is a no-op when nothing changed.
+    # NOTE: GitHub's `schedule` is best-effort — it still sometimes runs hours late. For a hard
+    # deadline, an external workflow_dispatch trigger is the only reliable mechanism (see README/skill).
+    - cron: '42 2 * * 1-5' # ~02:42 UTC
+    - cron: '23 3 * * 1-5' # ~03:23 UTC
+    - cron: '11 4 * * 1-5' # ~04:11 UTC
   workflow_dispatch: {}
   push:
     branches: [main]
