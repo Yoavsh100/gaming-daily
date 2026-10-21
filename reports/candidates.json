@@ -163,7 +163,8 @@
     "authority": "DICJ",
     "period": "Q3 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/237419-macau-baccarat-revenue-falls-by-5-in-third-quarter-of-2026/"
+      "https://www.gamingintelligence.com/finance/237419-macau-baccarat-revenue-falls-by-5-in-third-quarter-of-2026/",
+      "https://www.yogonet.com/international/news/2026/10/20/126913-macau-third-quarter-casino-revenue-slips-38-on-weaker-mass-baccarat"
     ],
     "seen": "2026-10-19"
   },
@@ -221,5 +222,27 @@
       "https://www.gamingintelligence.com/finance/237480-kansas-lottery-sales-increase-by-6-in-september/"
     ],
     "seen": "2026-10-20"
+  },
+  {
+    "key": "juris|new jersey|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "New Jersey",
+    "authority": "New Jersey Division of Gaming Enforcement",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237521-new-jersey-gambling-revenue-climbs-3-in-september/"
+    ],
+    "seen": "2026-10-21"
+  },
+  {
+    "key": "juris|maryland|9M 2026",
+    "type": "jurisdiction",
+    "market": "Maryland",
+    "authority": "Maryland Lottery and Gaming",
+    "period": "9M 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/markets/north-america/237483-maryland-sports-handle-nears-5-billion-in-9m-2026/"
+    ],
+    "seen": "2026-10-21"
   }
 ]
