@@ -988,5 +988,182 @@
     "releaseDate": "15 Oct 2026 (LGCB/LSP monthly revenue reports for September 2026; sportsbook workbooks dated 13 Oct 2026)",
     "model": "claude-fable-5-1",
     "costUsd": 5.19
+  },
+  {
+    "key": "juris|colorado|AUGUST 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-22T17:43:25.689Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "COLORADO-AUGUST-2026",
+    "published": "2026-10-22",
+    "company": {
+      "name": "Colorado",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "AUGUST 2026",
+    "verdict": "August 2026 was Colorado's first sub-$400m month of the year: handle $388.1m (−7.0% YoY, −20.2% MoM), hold compressed to 8.49%, GGR $32.95m and state tax $3.15m (−14.9% YoY) — the regulator's \"+20%\" headline refers to fiscal-year-to-date tax, not the month. With the free-bet deduction now effectively nil (tax base ≈ GGR less 0.25% federal excise) and new deposit/marketing restrictions live since 12 Aug 2026, Colorado has moved from a growth market to a mature, 99.5%-online, tighter-margin market in which the NFL season and the prediction-market leak will decide whether FY2027 holds the FY2026 record ($6.4bn handle, >$47m tax).",
+    "kpis": [
+      {
+        "label": "Handle (stakes), Aug-26",
+        "value": "$388.1m",
+        "delta": "−7.0% YoY / −20.2% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "GGR (handle − payouts)",
+        "value": "$32.95m",
+        "delta": "−29.5% MoM (Aug-25 n/a)",
+        "dir": "down"
+      },
+      {
+        "label": "Hold (GGR/handle)",
+        "value": "8.49%",
+        "delta": "−112bp MoM (9.61% in Jul)",
+        "dir": "down"
+      },
+      {
+        "label": "NSBP (taxable base)",
+        "value": "$31.98m",
+        "delta": "−29.8% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "State tax (10% of NSBP)",
+        "value": "$3.15m",
+        "delta": "−14.9% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "FYTD tax (Jul–Aug 26)",
+        "value": "$7.72m",
+        "delta": "+20.2% YoY on FYTD handle +13.6%",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "15 Oct 2026 (Division of Gaming release; August 2026 proceeds PDF dated 30 Sep 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.19
+  },
+  {
+    "key": "juris|kansas|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-22T17:55:44.853Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "KANSAS-SEPTEMBER-2026",
+    "published": "2026-10-22",
+    "company": {
+      "name": "Kansas",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "September 2026 confirms Kansas as a small, mature, structurally low-yield regulated market: sportsbook handle fell for a third straight YoY reading (-5.9% to $267.0m) while a still-thin 4.58% hold lifted taxable net revenue 48.7% to $12.2m and the state's 10% cut to just $1.2m — under half a cent per dollar wagered. Land-based GGR grew 3.8% to $34.4m and lottery sales 6% to $46.5m on iLottery, but the real story is regulatory: the 2025 contract-renewal moratorium has lapsed, Boot Hill/DraftKings have already locked in to 2030, and the 2027 session is the last window for legislators who want a larger take before all remaining sportsbook contracts expire on 31 Aug 2027.",
+    "kpis": [
+      {
+        "label": "Sports handle (Sep-26)",
+        "value": "$267.0m",
+        "delta": "-5.9% YoY; +64.7% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "Sports net revenue (taxable)",
+        "value": "$12.2m",
+        "delta": "+48.7% YoY (hold 4.58% vs 2.90%)",
+        "dir": "up"
+      },
+      {
+        "label": "State share of sports revenue (10%)",
+        "value": "$1.22m",
+        "delta": "+48.7% YoY; 0.46% of handle",
+        "dir": "up"
+      },
+      {
+        "label": "Casino GGR, 4 state-owned casinos",
+        "value": "$34.4m",
+        "delta": "+3.8% YoY; -6.3% MoM; 9M-26 ~$325m",
+        "dir": "up"
+      },
+      {
+        "label": "Kansas Lottery sales (Sep-26)",
+        "value": "$46.5m",
+        "delta": "+6% YoY, led by iLottery",
+        "dir": "up"
+      },
+      {
+        "label": "Online sportsbook brands live",
+        "value": "7 of 12 skins",
+        "delta": "DK, FD, bet365, theScore, BetMGM, Caesars, Fanatics",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "Sep 2026 data: Kansas Lottery sports-wagering & lottery reports (early/mid Oct 2026); KRGC casino revenue reports (c. 14–19 Oct 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.56
+  },
+  {
+    "key": "juris|new jersey|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-22T18:11:51.863Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "NEW-JERSEY-SEPTEMBER-2026",
+    "published": "2026-10-22",
+    "company": {
+      "name": "New Jersey",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "September 2026 confirms New Jersey's structural bifurcation: iGaming win rose 13.0% to $274.8m and for a second straight month out-earned the nine Atlantic City floors ($227.8m, -1.3%), while online sports GGR fell 18.8% on a 1.3% football hold and FanDuel's lead over DraftKings collapsed from $15m to $3.4m. Total gaming revenue still grew 2.8% to $579.6m (9M: $5.39bn, +5.1%) and the state banked $82.7m of gross revenue tax at the 19.75% online rate — a rate the Treasury has no incentive to lower.",
+    "kpis": [
+      {
+        "label": "Total gaming revenue (GGR)",
+        "value": "$579.6m",
+        "delta": "+2.8% YoY; 9M $5.39bn (+5.1%)",
+        "dir": "up"
+      },
+      {
+        "label": "Internet gaming win",
+        "value": "$274.8m",
+        "delta": "+13.0% YoY; 9M $2.40bn (+13.2%)",
+        "dir": "up"
+      },
+      {
+        "label": "Sports wagering GGR",
+        "value": "$77.0m",
+        "delta": "-14.3% YoY; online -18.8%; 9M $748.4m (-6.3%)",
+        "dir": "down"
+      },
+      {
+        "label": "AC casino win (retail)",
+        "value": "$227.8m",
+        "delta": "-1.3% YoY; tables -17.6%, slots +4.6%",
+        "dir": "down"
+      },
+      {
+        "label": "Gross revenue taxes (DGE headline)",
+        "value": "$82.7m",
+        "delta": "9M $756.8m; excl. IAT & 1.25% add-on taxes",
+        "dir": "up"
+      },
+      {
+        "label": "Online share of GGR",
+        "value": "60.0%",
+        "delta": "+0.9pt vs 59.1% in Sep-25",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "19 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.89
   }
 ]
