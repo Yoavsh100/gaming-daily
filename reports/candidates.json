@@ -197,7 +197,8 @@
     "authority": null,
     "period": "SEPTEMBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/237453-louisiana-sports-betting-tops-405-million-in-september/"
+      "https://www.gamingintelligence.com/finance/237453-louisiana-sports-betting-tops-405-million-in-september/",
+      "https://www.gamingintelligence.com/finance/237462-louisiana-gaming-revenue-grows-by-14-in-september/"
     ],
     "seen": "2026-10-20"
   },
@@ -244,5 +245,27 @@
       "https://www.gamingintelligence.com/markets/north-america/237483-maryland-sports-handle-nears-5-billion-in-9m-2026/"
     ],
     "seen": "2026-10-21"
+  },
+  {
+    "key": "juris|ivory coast|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Ivory Coast",
+    "authority": null,
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://igamingafrika.com/ivory-coast-reserved-online-sports-to-lonaci-as-betclic-held-55-2-of-demand/"
+    ],
+    "seen": "2026-10-22"
+  },
+  {
+    "key": "juris|virginia|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Virginia",
+    "authority": null,
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237467-virginia-land-based-casinos-post-34-jump-in-september-gaming-revenue/"
+    ],
+    "seen": "2026-10-22"
   }
 ]
