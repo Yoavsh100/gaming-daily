@@ -289,5 +289,27 @@
       "https://next.io/news/regulation/next-io-maturity-beats-size-in-latam-igaming/"
     ],
     "seen": "2026-10-22"
+  },
+  {
+    "key": "las vegas sands|Q3 2026",
+    "type": "company",
+    "company": "Las Vegas Sands Corp.",
+    "ticker": "LVS",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237609-las-vegas-sands-posts-lower-revenue-and-net-income-for-q3-2026/"
+    ],
+    "seen": "2026-10-22"
+  },
+  {
+    "key": "juris|arizona|AUGUST 2026",
+    "type": "jurisdiction",
+    "market": "Arizona",
+    "authority": null,
+    "period": "AUGUST 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237540-arizona-sports-wagering-falls-by-5-in-august/"
+    ],
+    "seen": "2026-10-22"
   }
 ]
