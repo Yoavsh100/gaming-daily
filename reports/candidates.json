@@ -267,5 +267,27 @@
       "https://www.gamingintelligence.com/finance/237467-virginia-land-based-casinos-post-34-jump-in-september-gaming-revenue/"
     ],
     "seen": "2026-10-22"
+  },
+  {
+    "key": "BETS-B.ST|Q3 2026",
+    "type": "company",
+    "company": "Betsson AB",
+    "ticker": "BETS-B.ST",
+    "period": "Q3 2026",
+    "urls": [
+      "https://next.io/news/results/q3-2026-betsson-revenue-high-profit-decline/"
+    ],
+    "seen": "2026-10-22"
+  },
+  {
+    "key": "juris|latin america|2026",
+    "type": "jurisdiction",
+    "market": "Latin America",
+    "authority": "NEXT.io",
+    "period": "2026",
+    "urls": [
+      "https://next.io/news/regulation/next-io-maturity-beats-size-in-latam-igaming/"
+    ],
+    "seen": "2026-10-22"
   }
 ]
