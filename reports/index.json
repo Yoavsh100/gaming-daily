@@ -1165,5 +1165,182 @@
     "releaseDate": "19 Oct 2026",
     "model": "claude-fable-5-1",
     "costUsd": 3.89
+  },
+  {
+    "key": "juris|maryland|9M 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-23T17:34:05.634Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "MARYLAND-9M-2026",
+    "published": "2026-10-23",
+    "company": {
+      "name": "Maryland",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "9M 2026",
+    "verdict": "Maryland is a mature, almost entirely mobile (98%+) sports-betting market that is still compounding volume — 9M 2026 handle $4,983.7m, +9% YoY, Q3 +11.4% — but gross win has decoupled from stakes: Q3 GGR fell 6.4% to $159.2m on a 9.9% hold and September GGR fell 20% at a 9.0% hold, so state receipts dropped 17.5% in Q3 despite the 20% mobile rate introduced in July 2025. The regulatory direction is toward higher fiscal extraction and perimeter defence (prediction markets, unlicensed online gaming) rather than product expansion, with iGaming still unlegalised and six land-based casinos flat-to-down (Q3 GGR $469.3m, −4%).",
+    "kpis": [
+      {
+        "label": "9M 2026 sports handle",
+        "value": "$4,983.7m",
+        "delta": "+9% YoY (GI; 9M-25 implied ≈$4.57bn)",
+        "dir": "up"
+      },
+      {
+        "label": "9M 2026 sports GGR (hold)",
+        "value": "$533.2m",
+        "delta": "10.7% hold; Q3 GGR $159.2m, −6.4% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "9M 2026 state sports tax",
+        "value": "$78.3m",
+        "delta": "Q3 $24.6m, −17.5% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Sep 2026 handle / GGR",
+        "value": "$652.2m / $58.5m",
+        "delta": "Handle +0.2%, GGR −20.0% YoY (hold 9.0% vs 11.2%)",
+        "dir": "down"
+      },
+      {
+        "label": "Mobile share of handle",
+        "value": "98.4% (Q3)",
+        "delta": "Retail $25.4m of $1,614.5m",
+        "dir": "flat"
+      },
+      {
+        "label": "Effective tax on GGR",
+        "value": "14.7% (9M)",
+        "delta": "Statutory 20% mobile / 15% retail on taxable win",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "13 Oct 2026 (MLGCA September 2026 sports wagering release; lead coverage 20 Oct 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.92
+  },
+  {
+    "key": "juris|ivory coast|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-23T17:50:28.149Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "IVORY-COAST-SEPTEMBER-2026",
+    "published": "2026-10-23",
+    "company": {
+      "name": "Ivory Coast",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "Côte d'Ivoire is a fast-growing (~XOF 706bn / ~$1.26bn licensed-sector turnover in 2024, +20.5% YoY) but structurally closed market: every online vertical – sports betting, online casino, virtuals – sits inside LONACI's exclusive State concession, and the 17 private brands on the ARJH register (up from 3 in Dec 2023) trade only as LONACI agrément-holders. September 2026 crystallised the tension in that model: national search demand rose 21.7% MoM and 12.6% YoY, Betclic took 55.2% of it, and the concessionaire's own online brand slipped to 6%. For an entrant the question is not 'can we get a licence' but 'can we secure a LONACI agrément on economics that survive a 5% online tax, 30% corporate tax, a 7.5% player-winnings withholding and a regulator that is visibly hardening enforcement (USSJH decree, April 2026).'",
+    "kpis": [
+      {
+        "label": "Licensed-sector turnover FY2024 (ARJH)",
+        "value": "XOF 705.9bn (~$1.26bn)",
+        "delta": "+20.5% YoY (turnover basis, not GGR)",
+        "dir": "up"
+      },
+      {
+        "label": "LONACI turnover FY2025",
+        "value": "XOF 657.6bn (~$1.17bn)",
+        "delta": "+13.5% YoY; 2026 target XOF 744.3bn (~$1.33bn)",
+        "dir": "up"
+      },
+      {
+        "label": "Private online brands under LONACI agrément",
+        "value": "17",
+        "delta": "from 3 in Dec 2023 (ARJH register, Oct 2026)",
+        "dir": "up"
+      },
+      {
+        "label": "Betclic share of Sept-26 search demand (Blask BAP)",
+        "value": "55.2%",
+        "delta": "+3.1pp MoM; Lonaci Online 6% (-2pp)",
+        "dir": "up"
+      },
+      {
+        "label": "Online gambling tax (non-concessionaire)",
+        "value": "5% of net gaming receipts",
+        "delta": "LONACI's own tax 5%→7% of net product from Jan 2025",
+        "dir": "up"
+      },
+      {
+        "label": "LONACI concession fee (redevance) to State FY2025",
+        "value": "XOF 21bn (~$38m)",
+        "delta": "+40% vs XOF 15bn (~$27m) FY2024",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "21 Oct 2026 (Blask/iGaming Afrika Sept-26 demand read; ARJH market data FY2024; LONACI FY2025 results of 2 Feb 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 7.82
+  },
+  {
+    "key": "juris|virginia|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-23T18:12:28.844Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "VIRGINIA-SEPTEMBER-2026",
+    "published": "2026-10-23",
+    "company": {
+      "name": "Virginia",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "September 2026 confirms Virginia's land-based casino market has re-based to a ~$1.2bn annualised AGR run-rate: five casinos won $97.6m (+33.5% YoY, flat MoM) with Caesars Danville (+28% YoY) and the Petersburg temporary Live! (opened Jan-26) doing the heavy lifting, while the two older permanent properties grew only mid-single digits and the state took $20.66m (21.2% effective) in graduated AGR tax. Online sports betting — the only digital vertical, taxed at 15% of AGR with 11 mobile permit-holders — is decelerating (August handle +4.3% YoY vs +22% a year earlier; hold 8.9%), and the big regulatory swing factors (iGaming, skill games, a Northern Virginia casino, the 2027 permanent openings in Norfolk and Petersburg) remain unresolved under the new Spanberger administration.",
+    "kpis": [
+      {
+        "label": "Casino AGR (Sep-26, 5 casinos)",
+        "value": "$97.6m",
+        "delta": "+33.5% YoY / +0.03% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "Same-store AGR (3 permanent casinos)",
+        "value": "$83.7m",
+        "delta": "+14.5% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Casino tax incl. host-city share (Sep-26)",
+        "value": "$20.66m",
+        "delta": "+30.9% YoY; 21.2% effective",
+        "dir": "up"
+      },
+      {
+        "label": "Sports handle (Aug-26, latest)",
+        "value": "$532.3m",
+        "delta": "+4.3% YoY / −12.6% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "Sports AGR (Aug-26)",
+        "value": "$47.2m",
+        "delta": "8.9% hold; tax $7.0m",
+        "dir": "down"
+      },
+      {
+        "label": "Operating casinos",
+        "value": "5",
+        "delta": "+2 YoY (Petersburg, Norfolk temporaries)",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "15 Oct 2026 (Virginia Lottery September casino wagering activity report); sports-betting data = Lottery August 2026 report filed 30 Sep 2026 (September sports report due ~30 Oct 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.39
   }
 ]
