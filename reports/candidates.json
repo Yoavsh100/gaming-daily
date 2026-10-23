@@ -279,7 +279,8 @@
       "https://europeangaming.eu/portal/latest-news/2026/10/22/216527/betsson-q3-2026-results-record-revenue-ebit/",
       "https://igamingbusiness.com/finance/betssons-record-q3-comes-at-a-price/",
       "https://www.gamingintelligence.com/finance/237634-betsson-negatively-impacted-by-higher-costs-in-q3/",
-      "https://igamingfuture.com/betsson-q3-revenue-rises-10-as-net-profit-falls-44/"
+      "https://igamingfuture.com/betsson-q3-revenue-rises-10-as-net-profit-falls-44/",
+      "https://www.thegamblest.com/betsson-posts-record-e326-5m-revenue-in-q3-2026/"
     ],
     "seen": "2026-10-22"
   },
@@ -325,7 +326,9 @@
     "period": "Q3 2026",
     "urls": [
       "https://next.io/news/results/q3-2026-fdj-reduces-targets-tax-headwinds/",
-      "https://www.gamingintelligence.com/finance/237621-fdj-united-revenue-decline-continues-into-third-quarter/"
+      "https://www.gamingintelligence.com/finance/237621-fdj-united-revenue-decline-continues-into-third-quarter/",
+      "https://europeangaming.eu/portal/latest-news/2026/10/23/216605/fdj-united-q3-2026-revenue-targets-lowered/",
+      "https://focusgn.com/fdj-united-outlook-tax-pressures"
     ],
     "seen": "2026-10-23"
   },
@@ -413,6 +416,17 @@
     "period": "SEPTEMBER 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/237568-connecticut-takes-record-igaming-wagers-in-september/"
+    ],
+    "seen": "2026-10-23"
+  },
+  {
+    "key": "juris|brazil|JANUARY-SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Brazil",
+    "authority": null,
+    "period": "JANUARY-SEPTEMBER 2026",
+    "urls": [
+      "https://www.thegamblest.com/brazil-betting-taxes-hit-r11-1bn-in-9-months/"
     ],
     "seen": "2026-10-23"
   }
