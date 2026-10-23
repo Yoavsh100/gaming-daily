@@ -393,7 +393,8 @@
     "ticker": "EVOK.L",
     "period": "Q3 2026",
     "urls": [
-      "https://next.io/news/results/q3-2026-evoke-revenue-falls-amid-retail-closures/"
+      "https://next.io/news/results/q3-2026-evoke-revenue-falls-amid-retail-closures/",
+      "https://igamingfuture.com/evoke-plc-q3-2026/"
     ],
     "seen": "2026-10-23"
   },
@@ -427,6 +428,61 @@
     "period": "JANUARY-SEPTEMBER 2026",
     "urls": [
       "https://www.thegamblest.com/brazil-betting-taxes-hit-r11-1bn-in-9-months/"
+    ],
+    "seen": "2026-10-23"
+  },
+  {
+    "key": "EVO.ST|Q3 2026",
+    "type": "company",
+    "company": "Evolution AB",
+    "ticker": "EVO.ST",
+    "period": "Q3 2026",
+    "urls": [
+      "https://igamingfuture.com/evolution-q3-2026/"
+    ],
+    "seen": "2026-10-23"
+  },
+  {
+    "key": "juris|massachusetts|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Massachusetts",
+    "authority": null,
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237669-massachusetts-casino-revenue-drops-by-14-in-september-on-strike-action/"
+    ],
+    "seen": "2026-10-23"
+  },
+  {
+    "key": "juris|maine|9M 2026",
+    "type": "jurisdiction",
+    "market": "Maine",
+    "authority": null,
+    "period": "9M 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237596-maine-land-based-gaming-revenue-nears-130-million-in-9m-2026/"
+    ],
+    "seen": "2026-10-23"
+  },
+  {
+    "key": "juris|brazil|9M 2026",
+    "type": "jurisdiction",
+    "market": "Brazil",
+    "authority": null,
+    "period": "9M 2026",
+    "urls": [
+      "https://www.thegamblest.com/brazil-betting-taxes-hit-r11-1bn-in-9-months/"
+    ],
+    "seen": "2026-10-23"
+  },
+  {
+    "key": "juris|latin america|2030 FORECAST",
+    "type": "jurisdiction",
+    "market": "Latin America",
+    "authority": "Ignition Casino",
+    "period": "2030 FORECAST",
+    "urls": [
+      "https://igamingfuture.com/latin-america-online-poker/"
     ],
     "seen": "2026-10-23"
   }
