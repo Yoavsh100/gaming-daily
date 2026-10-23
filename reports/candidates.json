@@ -382,5 +382,38 @@
       "https://www.gamingintelligence.com/finance/237584-cyprus-sports-betting-grows-by-11-in-q2-2026/"
     ],
     "seen": "2026-10-23"
+  },
+  {
+    "key": "EVOK.L|Q3 2026",
+    "type": "company",
+    "company": "Evoke plc",
+    "ticker": "EVOK.L",
+    "period": "Q3 2026",
+    "urls": [
+      "https://next.io/news/results/q3-2026-evoke-revenue-falls-amid-retail-closures/"
+    ],
+    "seen": "2026-10-23"
+  },
+  {
+    "key": "boyd gaming|Q3 2026",
+    "type": "company",
+    "company": "Boyd Gaming Corporation",
+    "ticker": "BYD",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237683-boyd-gaming-revenue-dips-on-softness-in-las-vegas/"
+    ],
+    "seen": "2026-10-23"
+  },
+  {
+    "key": "juris|connecticut|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Connecticut",
+    "authority": null,
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237568-connecticut-takes-record-igaming-wagers-in-september/"
+    ],
+    "seen": "2026-10-23"
   }
 ]
