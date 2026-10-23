@@ -275,7 +275,11 @@
     "ticker": "BETS-B.ST",
     "period": "Q3 2026",
     "urls": [
-      "https://next.io/news/results/q3-2026-betsson-revenue-high-profit-decline/"
+      "https://next.io/news/results/q3-2026-betsson-revenue-high-profit-decline/",
+      "https://europeangaming.eu/portal/latest-news/2026/10/22/216527/betsson-q3-2026-results-record-revenue-ebit/",
+      "https://igamingbusiness.com/finance/betssons-record-q3-comes-at-a-price/",
+      "https://www.gamingintelligence.com/finance/237634-betsson-negatively-impacted-by-higher-costs-in-q3/",
+      "https://igamingfuture.com/betsson-q3-revenue-rises-10-as-net-profit-falls-44/"
     ],
     "seen": "2026-10-22"
   },
@@ -297,7 +301,8 @@
     "ticker": "LVS",
     "period": "Q3 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/237609-las-vegas-sands-posts-lower-revenue-and-net-income-for-q3-2026/"
+      "https://www.gamingintelligence.com/finance/237609-las-vegas-sands-posts-lower-revenue-and-net-income-for-q3-2026/",
+      "https://next.io/news/results/las-vegas-sands-ceo-q3-2026/"
     ],
     "seen": "2026-10-22"
   },
@@ -311,5 +316,71 @@
       "https://www.gamingintelligence.com/finance/237540-arizona-sports-wagering-falls-by-5-in-august/"
     ],
     "seen": "2026-10-22"
+  },
+  {
+    "key": "fdj united|Q3 2026",
+    "type": "company",
+    "company": "FDJ United",
+    "ticker": "FDJ.PA",
+    "period": "Q3 2026",
+    "urls": [
+      "https://next.io/news/results/q3-2026-fdj-reduces-targets-tax-headwinds/",
+      "https://www.gamingintelligence.com/finance/237621-fdj-united-revenue-decline-continues-into-third-quarter/"
+    ],
+    "seen": "2026-10-23"
+  },
+  {
+    "key": "sands china|Q3 2026",
+    "type": "company",
+    "company": "Sands China Ltd",
+    "ticker": "1928.HK",
+    "period": "Q3 2026",
+    "urls": [],
+    "seen": "2026-10-23"
+  },
+  {
+    "key": "svenska spel|Q3 2026",
+    "type": "company",
+    "company": "Svenska Spel",
+    "ticker": null,
+    "period": "Q3 2026",
+    "urls": [
+      "https://next.io/news/results/q3-2026-svenska-spel-sees-net-profit-fall/",
+      "https://www.gamingintelligence.com/finance/237607-svenska-spel-revenue-climbs-1-in-third-quarter/"
+    ],
+    "seen": "2026-10-23"
+  },
+  {
+    "key": "juris|united states|AUGUST 2026",
+    "type": "jurisdiction",
+    "market": "United States",
+    "authority": "American Gaming Association",
+    "period": "AUGUST 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/10/22/126964-us-commercial-gaming-revenue-slips-06-in-august-as-sports-betting-falls-156-"
+    ],
+    "seen": "2026-10-23"
+  },
+  {
+    "key": "juris|pennsylvania|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Pennsylvania",
+    "authority": null,
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237536-pennsylvania-gambling-revenue-hits-555-million-in-september/"
+    ],
+    "seen": "2026-10-23"
+  },
+  {
+    "key": "juris|cyprus|Q2 2026",
+    "type": "jurisdiction",
+    "market": "Cyprus",
+    "authority": null,
+    "period": "Q2 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237584-cyprus-sports-betting-grows-by-11-in-q2-2026/"
+    ],
+    "seen": "2026-10-23"
   }
 ]
