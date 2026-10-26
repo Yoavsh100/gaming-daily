@@ -1342,5 +1342,182 @@
     "releaseDate": "15 Oct 2026 (Virginia Lottery September casino wagering activity report); sports-betting data = Lottery August 2026 report filed 30 Sep 2026 (September sports report due ~30 Oct 2026)",
     "model": "claude-fable-5-1",
     "costUsd": 4.39
+  },
+  {
+    "key": "BETS-B.ST|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-26T18:55:33.712Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "BETS-B-ST-Q3-2026",
+    "published": "2026-10-26",
+    "company": {
+      "name": "Betsson AB",
+      "ticker": "BETS-B.ST",
+      "exchange": "Nasdaq Stockholm"
+    },
+    "period": "Q3 2026",
+    "verdict": "Record revenue (EUR 326.5m / ~$366m, +10% reported, +8% organic, 4% above consensus) bought with a structurally lower margin: gross margin -870bps to 55.5% as regulated LatAm B2C casino replaced high-margin B2B licence income, leaving EBIT -31% and EPS -44% YoY. The second straight sequential EBIT rise and a +11% start to Q4 are real, but the earnings base has reset and the balance sheet is quietly thinning (net cash EUR 98m vs EUR 220m) with the buyback spent at SEK 112 against a SEK 95 share price.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "EUR 326.5m (~$366m)",
+        "delta": "+10.4% YoY reported; +8.1% organic; +5.3% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "EBITDA / margin",
+        "value": "EUR 63.4m (~$71m) / 19.4%",
+        "delta": "-23.2% YoY; margin -850bps YoY, +60bps QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "EBIT / margin",
+        "value": "EUR 46.1m (~$52m) / 14.1%",
+        "delta": "-31.1% YoY; +9.2% QoQ (2nd sequential rise)",
+        "dir": "down"
+      },
+      {
+        "label": "EPS (IFRS, basic)",
+        "value": "EUR 0.19 (~$0.21)",
+        "delta": "-44% YoY (EUR 0.34); 9M EUR 0.59 (~$0.66), -43%",
+        "dir": "down"
+      },
+      {
+        "label": "Active B2C customers",
+        "value": "1.87m",
+        "delta": "+40.1% YoY; +2.7% QoQ (record)",
+        "dir": "up"
+      },
+      {
+        "label": "Net cash",
+        "value": "EUR 98.3m (~$110m)",
+        "delta": "vs EUR 128.4m Q2-26 and EUR 220.0m Q3-25; ND/EBITDA -0.4x",
+        "dir": "down"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "22 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.97
+  },
+  {
+    "key": "juris|latin america|2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-26T19:09:36.159Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "LATIN-AMERICA-2026",
+    "published": "2026-10-26",
+    "company": {
+      "name": "Latin America",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "2026",
+    "verdict": "Latin America in 2026 is no longer one growth story. Brazil — the region's largest regulated market at BRL 37bn (~$7.1bn) GGR in 2025 and BRL 20.07bn (~$3.9bn, +15% YoY) in H1-26 — has been switched off by Provisional Measure 1.394/2026 since 6 October, and Lula's re-election on 25 October removes the quickest political route back. The five remaining markets now diverge on maturity rather than size: Colombia (regulated since 2016, 21 online operators, online VAT struck down in April), Peru (cleanest framework, but ISC-on-stakes risk of 1%→5%), Mexico (scale under a 1947 law with a 50% headline IEPS), Argentina (~50% offshore, acquisition-only entry) and Chile (bill still in Congress, framework 2027-28 at best).",
+    "kpis": [
+      {
+        "label": "Brazil regulated GGR H1-26 (pre-ban)",
+        "value": "BRL 20.07bn (~$3.9bn)",
+        "delta": "+15% YoY; now zero since 6 Oct",
+        "dir": "down"
+      },
+      {
+        "label": "Brazil status",
+        "value": "MP 1.394/2026 blackout",
+        "delta": "Licences revoked 25 Oct; MP lapses ~4 Mar 2027",
+        "dir": "down"
+      },
+      {
+        "label": "Colombia online exploitation rights Jan–Jul 26",
+        "value": "COP 396.8bn (~$104m)",
+        "delta": "21 operators; 10.8m active accounts",
+        "dir": "up"
+      },
+      {
+        "label": "Colombia total Coljuegos take Jan–Aug 26",
+        "value": "+39% YoY",
+        "delta": "Sports betting +84% on World Cup",
+        "dir": "up"
+      },
+      {
+        "label": "Argentina regulated vs offshore GGR (H2)",
+        "value": "$1.1bn vs $1.2bn",
+        "delta": "≈50% channelisation; up to 80% per advisers",
+        "dir": "flat"
+      },
+      {
+        "label": "Peru fiscal take 2025 (12% GGR tax + 1% ISC)",
+        "value": "PEN 465m (~$134m)",
+        "delta": "Bill 00519-2026 would lift ISC to 5%",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "22 Oct 2026 (NEXT.io \"iGaming Market in Focus: Latin America\"); data to Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.7
+  },
+  {
+    "key": "las vegas sands|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-26T19:21:52.885Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "LVS-Q3-2026",
+    "published": "2026-10-26",
+    "company": {
+      "name": "Las Vegas Sands Corp.",
+      "ticker": "LVS",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A clean miss driven by the high end not showing up in either Singapore or Macao: net revenue -3.5% YoY to $3.22bn and adj. property EBITDA -16.7% to $1.12bn, ~13-14% below consensus on a hold-adjusted basis, with group margin -555bps to 34.8% as Macao opex was held flat sequentially into weaker premium spend and MBS mass hold collapsed to 18.7%. Management is doubling down rather than retrenching — $950m of buybacks (19% of the share count retired in 12 quarters), a 20% dividend hike for 2027, and no cuts to the Macao opex base or the $8bn MBS expansion — so the equity case is now a bet on the premium customer returning before leverage and payout optics become a constraint.",
+    "kpis": [
+      {
+        "label": "Net revenue",
+        "value": "$3,216m",
+        "delta": "-3.5% YoY / +2.0% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. property EBITDA",
+        "value": "$1,119m",
+        "delta": "-16.7% YoY / flat QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. property EBITDA margin",
+        "value": "34.8%",
+        "delta": "-555bps YoY / -68bps QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "GAAP diluted EPS",
+        "value": "$0.48",
+        "delta": "-21.3% YoY (adj. EPS $0.54, -30.8%)",
+        "dir": "down"
+      },
+      {
+        "label": "Share buyback in quarter",
+        "value": "$950m",
+        "delta": "~21m shares at $45.31; 19.0% of shares retired since Q4-23",
+        "dir": "up"
+      },
+      {
+        "label": "Macao mass GGR share",
+        "value": "26.1%",
+        "delta": "Highest since Q4-23 (mgmt figure)",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "21 Oct 2026 (after US close)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.45
   }
 ]
