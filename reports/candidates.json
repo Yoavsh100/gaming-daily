@@ -328,7 +328,8 @@
       "https://next.io/news/results/q3-2026-fdj-reduces-targets-tax-headwinds/",
       "https://www.gamingintelligence.com/finance/237621-fdj-united-revenue-decline-continues-into-third-quarter/",
       "https://europeangaming.eu/portal/latest-news/2026/10/23/216605/fdj-united-q3-2026-revenue-targets-lowered/",
-      "https://focusgn.com/fdj-united-outlook-tax-pressures"
+      "https://focusgn.com/fdj-united-outlook-tax-pressures",
+      "https://www.yogonet.com/international/news/2026/10/23/126980-fdj-united-lowers-2026-targets-after-a-jackpot-shortfall-and-tax-increases-cut-q3-revenue-81-"
     ],
     "seen": "2026-10-23"
   },
@@ -394,7 +395,10 @@
     "period": "Q3 2026",
     "urls": [
       "https://next.io/news/results/q3-2026-evoke-revenue-falls-amid-retail-closures/",
-      "https://igamingfuture.com/evoke-plc-q3-2026/"
+      "https://igamingfuture.com/evoke-plc-q3-2026/",
+      "https://igamingbusiness.com/finance/evoke-blames-tax-rises-for-270-shop-closures-as-revenue-falls-7/",
+      "https://www.yogonet.com/international/news/2026/10/23/126974-evoke-revenue-drops-7-amid-uk-gambling-tax-pressures",
+      "https://www.gamingintelligence.com/finance/237719-evoke-revenue-declines-7-in-third-quarter/"
     ],
     "seen": "2026-10-23"
   },
@@ -405,7 +409,9 @@
     "ticker": "BYD",
     "period": "Q3 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/237683-boyd-gaming-revenue-dips-on-softness-in-las-vegas/"
+      "https://www.gamingintelligence.com/finance/237683-boyd-gaming-revenue-dips-on-softness-in-las-vegas/",
+      "https://www.yogonet.com/international/news/2026/10/23/126975-boyd-gaming-misses-q3-earnings-estimates-as-las-vegas-visitor-demand-weakens",
+      "https://next.io/news/results/q3-2026-boyd-expects-las-vegas-softness-to-ease/"
     ],
     "seen": "2026-10-23"
   },
@@ -438,7 +444,12 @@
     "ticker": "EVO.ST",
     "period": "Q3 2026",
     "urls": [
-      "https://igamingfuture.com/evolution-q3-2026/"
+      "https://igamingfuture.com/evolution-q3-2026/",
+      "https://www.gamingintelligence.com/finance/237687-evolution-returns-to-revenue-growth-in-third-quarter-of-2026/",
+      "https://next.io/news/casino/evolution-ai-live-dealer-launch-possible/",
+      "https://europeangaming.eu/portal/latest-news/2026/10/23/216673/evolution-q3-2026-results-revenue-growth-profit/",
+      "https://igamingbusiness.com/finance/evolution-ceo-flabbergasted-brazil-betting-ban/",
+      "https://next.io/news/results/q3-2026-evolution-rng-division-reports-growth/"
     ],
     "seen": "2026-10-23"
   },
@@ -449,7 +460,9 @@
     "authority": null,
     "period": "SEPTEMBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/237669-massachusetts-casino-revenue-drops-by-14-in-september-on-strike-action/"
+      "https://www.gamingintelligence.com/finance/237669-massachusetts-casino-revenue-drops-by-14-in-september-on-strike-action/",
+      "https://focusgn.com/massachusetts-casino-sports-betting-revenue",
+      "https://focusgn.com/encore-boston-harbor-strike-tax-revenue"
     ],
     "seen": "2026-10-23"
   },
@@ -485,5 +498,38 @@
       "https://igamingfuture.com/latin-america-online-poker/"
     ],
     "seen": "2026-10-23"
+  },
+  {
+    "key": "atg|Q3 2026",
+    "type": "company",
+    "company": "ATG",
+    "ticker": null,
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237695-atg-posts-lower-revenue-and-income-for-q3/"
+    ],
+    "seen": "2026-10-26"
+  },
+  {
+    "key": "juris|brazil|2026",
+    "type": "jurisdiction",
+    "market": "Brazil",
+    "authority": "GR8_TECH",
+    "period": "2026",
+    "urls": [
+      "https://next.io/news/b2b-news/gr8_techs-brazil-igaming-report/",
+      "https://focusgn.com/gr8-tech-brazil-betting-ban-report",
+      "https://igamingfuture.com/gr8_techs-brazil-igaming-report-what-happens-when-one-of-latams-biggest-betting-markets-faces-a-ban/"
+    ],
+    "seen": "2026-10-26"
+  },
+  {
+    "key": "juris|michigan|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Michigan",
+    "authority": "Michigan Gaming Control Board",
+    "period": "SEPTEMBER 2026",
+    "urls": [],
+    "seen": "2026-10-26"
   }
 ]
