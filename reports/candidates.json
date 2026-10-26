@@ -532,5 +532,27 @@
     "period": "SEPTEMBER 2026",
     "urls": [],
     "seen": "2026-10-26"
+  },
+  {
+    "key": "atlantic lottery|FY 2026",
+    "type": "company",
+    "company": "Atlantic Lottery Corporation",
+    "ticker": null,
+    "period": "FY 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237807-canadas-atlantic-lottery-delivers-strong-ilottery-growth-in-2025-26/"
+    ],
+    "seen": "2026-10-26"
+  },
+  {
+    "key": "juris|germany|Q3 2026",
+    "type": "jurisdiction",
+    "market": "Germany",
+    "authority": null,
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237735-german-gambling-tax-revenue-grows-by-11-in-q3-2026/"
+    ],
+    "seen": "2026-10-26"
   }
 ]
