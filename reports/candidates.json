@@ -413,7 +413,8 @@
     "urls": [
       "https://www.gamingintelligence.com/finance/237683-boyd-gaming-revenue-dips-on-softness-in-las-vegas/",
       "https://www.yogonet.com/international/news/2026/10/23/126975-boyd-gaming-misses-q3-earnings-estimates-as-las-vegas-visitor-demand-weakens",
-      "https://next.io/news/results/q3-2026-boyd-expects-las-vegas-softness-to-ease/"
+      "https://next.io/news/results/q3-2026-boyd-expects-las-vegas-softness-to-ease/",
+      "https://www.thegamblest.com/boyd-gaming-reports-91-lower-q3-revenue/"
     ],
     "seen": "2026-10-23"
   },
@@ -612,6 +613,22 @@
     "period": "SEPTEMBER 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/237623-tennessee-sports-handle-grows-to-591-9-million-in-september/"
+    ],
+    "seen": "2026-10-27"
+  },
+  {
+    "key": "juris|alberta|Q3 2026",
+    "type": "jurisdiction",
+    "market": "Alberta",
+    "authority": "Alberta iGaming Corporation",
+    "period": "Q3 2026",
+    "urls": [
+      "https://europeangaming.eu/portal/latest-news/2026/10/27/216866/alberta-igaming-revenue-september-2026/",
+      "https://www.yogonet.com/international/news/2026/10/26/127013-alberta-igaming-market-generates-872-million-in-first-three-months",
+      "https://focusgn.com/alberta-igaming-revenue-first-80-days",
+      "https://www.covers.com/industry/alberta-igaming-generates-nearly-3b-in-wagers-122m-in-revenue-in-3-months-oct-26-2026",
+      "https://www.gamingintelligence.com/finance/237777-alberta-igaming-wagering-nears-c3-billion-in-first-three-months/",
+      "https://www.gamblinginsider.com/news/197550/kalshi-louisiana-lawsuit-alberta-igaming-revenue"
     ],
     "seen": "2026-10-27"
   }
