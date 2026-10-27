@@ -372,7 +372,8 @@
     "authority": null,
     "period": "SEPTEMBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/237536-pennsylvania-gambling-revenue-hits-555-million-in-september/"
+      "https://www.gamingintelligence.com/finance/237536-pennsylvania-gambling-revenue-hits-555-million-in-september/",
+      "https://focusgn.com/pennsylvania-gaming-revenue-september"
     ],
     "seen": "2026-10-23"
   },
@@ -554,5 +555,19 @@
       "https://www.gamingintelligence.com/finance/237735-german-gambling-tax-revenue-grows-by-11-in-q3-2026/"
     ],
     "seen": "2026-10-26"
+  },
+  {
+    "key": "juris|alberta|JULY-SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Alberta",
+    "authority": "Alberta iGaming Corporation (AiGC)",
+    "period": "JULY-SEPTEMBER 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/10/26/127013-alberta-igaming-market-generates-872-million-in-first-three-months",
+      "https://focusgn.com/alberta-igaming-revenue-first-80-days",
+      "https://www.covers.com/industry/alberta-igaming-generates-nearly-3b-in-wagers-122m-in-revenue-in-3-months-oct-26-2026",
+      "https://www.gamingintelligence.com/finance/237777-alberta-igaming-wagering-nears-c3-billion-in-first-three-months/"
+    ],
+    "seen": "2026-10-27"
   }
 ]
