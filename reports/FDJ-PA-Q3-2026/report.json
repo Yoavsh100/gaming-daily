@@ -1,0 +1,1425 @@
+{
+  "company": {
+    "name": "FDJ United",
+    "ticker": "FDJ.PA",
+    "exchange": ""
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 1466341,
+    "output": 47237,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 62,
+    "cacheRead": 1355975,
+    "cacheWrite": 110304,
+    "turns": 1
+  },
+  "prepared": "27 Oct 2026",
+  "report": {
+    "releaseDate": "21 Oct 2026 (after market close, 17:45 CET) — Q3/9M 2026 revenue trading update",
+    "currency": "EUR (tables in € millions; USD equivalents at EUR/USD 1.12, ECB reference rate 21 Oct 2026)",
+    "verdict": "A clean miss and the third guidance cut of 2026: Q3 revenue fell 8.1% to €794m (~$889m), ~5% below the ~€839m (~$940m) consensus, and the FY26 outlook moved to a mid-single-digit revenue decline, low-single-digit GGR decline and a ~23% recurring EBITDA margin (from 24.5% in February). Unlike Q1/Q2, the Q3 deterioration was not tax-driven (only ~€10m of incremental levies landed in the quarter) — it was the French lottery (draw games -17%), a ~80% retail sports payout and ~10% lower point-of-sale traffic, which makes the \"defensive lottery\" leg of the thesis look less defensive just as the online leg (UK GGR -24%) remains structurally impaired.",
+    "kpis": [
+      {
+        "label": "Q3 revenue",
+        "value": "€794m (~$889m)",
+        "delta": "-8.1% YoY / -10.5% QoQ; ~5% below consensus",
+        "dir": "down"
+      },
+      {
+        "label": "Q3 GGR",
+        "value": "€1,950m (~$2.18bn)",
+        "delta": "-6.1% YoY / -8.8% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "9M revenue",
+        "value": "€2,576m (~$2.89bn)",
+        "delta": "-5.6% YoY (GGR -2.8%)",
+        "dir": "down"
+      },
+      {
+        "label": "FY26 rec. EBITDA margin guide",
+        "value": "~23%",
+        "delta": "from 23-24% (Jul) and 24.5% (Feb)",
+        "dir": "down"
+      },
+      {
+        "label": "9M incremental gaming tax",
+        "value": "€62m (~$69m)",
+        "delta": "FY now >€70m (~$78m); only ~€10m in Q3",
+        "dir": "up"
+      },
+      {
+        "label": "Net financial debt (H1-26)",
+        "value": "€1,964m (~$2.20bn)",
+        "delta": "~2.3x LTM rec. EBITDA (est.) vs 1.9x at Dec-25",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**Headline miss and third cut of the year.** Q3 revenue of €794m (~$889m) was down 8.1% YoY (Q3-25: €864m/~$968m) and ~5% below the ~€839m (~$940m) consensus shown by Google Finance; GGR fell 6.1% to €1,950m (~$2.18bn) and net gaming revenue 7.4% to €758m (~$849m). 9M revenue is €2,576m (~$2.89bn), -5.6%, on GGR of €6,264m (~$7.02bn), -2.8%.",
+      "**Guidance bridge: every line moved the wrong way.** FY26 is now a low-single-digit GGR decline (Jul: stable; Apr: slight increase; Feb: increase), a mid-single-digit revenue decline (Jul: low-single-digit decline; Apr: slight decline; Feb: slight growth) and a ~23% recurring EBITDA margin (Jul/Apr: 23-24%; Feb: 24.5%). Incremental gaming taxes are now '>€70m' (~$78m) vs '~€70m' in July and 'nearly €90m' in February.",
+      "**The cut was driven by the French Lottery & Retail Sports Betting BU (LSF), not tax.** LSF Q3 revenue fell 6.8% to €554m (~$620m) with no incremental French levy in the quarter (the 1 July 2025 increase has lapped; LSF's 9M tax hit of €28m was entirely H1). Group incremental tax in Q3 was only ~€10m (~$11m, all OBG) vs €24m in Q1 and €28m in Q2 — the Q3 deterioration is operational and luck-related, which is more worrying than a tax step-up.",
+      "**Draw games are the single biggest swing.** Q3 draw-game revenue fell 17.3% to €171m (~$192m); 9M -12.2% to €563m (~$631m) on GGR -10.3%, almost entirely the absence of high EuroMillions jackpots vs a jackpot-rich 2025. Ex-EuroMillions long cycles, 9M lottery GGR was only -0.9% and online lottery GGR +2.3% (reported -4.6%).",
+      "**Instant games held, but the retail channel is weakening.** Instant revenue rose 1.1% in Q3 to €304m (~$340m) and GGR +1.9% over 9M despite point-of-sale traffic down ~10% in both Q2 and Q3 (economic climate, heatwaves). Because instants carry a higher player payout than draws, the mix shift lifts the blended lottery PPO and leaks GGR-to-revenue conversion — a structural drag as long as instants outgrow draws.",
+      "**Retail sports betting: a bad-luck quarter on top of a World Cup payout.** Q3 PoS sports revenue -8.5% to €79m (~$88m); 9M GGR -3.2% to €613m (~$687m) and revenue -4.5% to €297m (~$333m) with the player payout ratio up >400bps to nearly 80%. The FIFA World Cup (11 Jun-19 Jul) generated >€700m (~$784m) of group stakes at a high payout, 'in line with forecasts'.",
+      "**Online Betting & Gaming (OBG): GGR flat, revenue down 8%, geography bifurcated.** 9M GGR -0.8% to €1,013m (~$1.13bn) but revenue -8.2% to €619m (~$693m) after €34m (~$38m) of new levies; Q3 revenue -10.2% to €188m (~$211m) on a Q3-25 base that was already -16%. Ex-UK/Netherlands GGR +5.7% and revenue +0.8% (France, Scandinavia); UK GGR -24.4% (remote gaming duty 21%→40% from April 2026) and Netherlands -8.6% (tax 34.2%→37.8% from January 2026).",
+      "**Tax is now a >€70m structural reset, not a one-off.** 9M increases of €62m (~$69m) split LSF €28m / OBG €34m, >2pp of the 5.6% revenue decline. Effective levies cited: 59.3% of online betting GGR in France, 37.8% in the Netherlands, 40% on UK online casino, plus Romania and the French advertising tax (from 1 Jul 2025). H1 public levies were 60.6% of GGR (+120bps).",
+      "**Margin defence rests on the performance plan.** H1-26 recurring EBITDA was €404m (~$452m), 22.7% (-90bps), with fixed costs -2.8%; the February release said the 2025-28 plan is a year ahead of schedule with the end-2028 target raised from >€120m to >€150m (~$168m) (H1 slides, per a secondary summary, cite €100m run-rate in 2026 rising to >€180m by 2028 — figures differ by source and are flagged). Our arithmetic: ~23% on ~€3.49bn FY26 revenue (est. -5%) implies ~€805m (~$902m) recurring EBITDA, -11% YoY, and an H2 margin of ~23.4%.",
+      "**Capital position: solid rating, rising leverage.** Net financial debt was €1,964m (~$2.20bn) at 30 June 2026, flat YoY but +€243m vs Dec-25 (€1,721m/~$1.93bn, 1.9x) after the ~€390m dividend; on LTM recurring EBITDA of ~€865m that is ~2.3x (our calc). Moody's Baa1/stable confirmed July 2026; covenant 3.5x. February's target of ~€100m net debt reduction in 2026 was not repeated in July or October and looks at risk on our numbers.",
+      "**Dividend commitment is getting arithmetically tight.** FDJ reiterated an annual DPS increase on a payout ≥75% of adjusted net profit. FY25 DPS €2.10 (~$2.35) was an 80% payout of €487m (~$545m) adjusted net profit; H1-26 adjusted net profit fell 19% to €180m (~$202m, adj. EPS €0.97/~$1.09, reported EPS -€0.09/~-$0.10 after a €135m/~$151m OBG impairment and a €20m exceptional corporate tax surcharge). If FY26 adjusted profit lands near €400m (our est.), an increased DPS implies a payout near 100%.",
+      "**Portfolio review is the live strategic catalyst.** The review of OBG markets and non-core assets (notably Payment & Services, 9M revenue €44m/~$49m, H1 EBITDA -€3m) launched in July will conclude 'in early 2027 at the latest', likely with FY results. On the call the UK was framed as a profitability balancing act rather than a disposal candidate — we think that is the wrong answer at a 40% duty rate and -24% GGR.",
+      "**Lottery renewal is the 2027 bull case, Q4 is the bridge.** Q4 commercial plan: extra draw events including a boosted EuroMillions jackpot from €130m (~$146m) in early November and another in early December. 2027: EuroMillions relaunch in March (jackpot cap €300m/~$336m, new €1m second draw), Loto relaunch in October (more frequent events, larger second draw), new €10 instant games, continued web-exclusive digital lottery (c.+30% organic growth).",
+      "**Implied Q4: still down.** Mid-single-digit FY revenue decline (-4% to -6%) on FY25's €3,678m (~$4.12bn) implies Q4 revenue of ~€880-955m vs €948m (~$1.06bn) in Q4-25, i.e. -7% to +1%; a low-single-digit GGR decline implies Q4 GGR roughly flat (-3.5% to +4%). Management said in July that Q4 is the easier comparison; the November jackpot events are doing the heavy lifting.",
+      "**International Lottery slipped unnoticed.** Premier Lotteries Ireland revenue fell 15.7% in Q3 to €37m (~$41m); 9M -4.7% to €118m (~$132m) despite GGR +2.1% (tax and mix per slides). Q1's +7% was flattered by an easy comp (exceptional Lotto jackpot winners in Q1-25). Payment & Services Q3 revenue -6.9% to €14m (~$16m).",
+      "**What management emphasised vs buried.** The release leads with 'inherent gaming factors' and tax and points investors to GGR; buried is that POS traffic is down ~10% for two consecutive quarters, that Q3's incremental tax was marginal, and that the April promise of OBG 'return to GGR growth in H2' and 'annual LSF revenue growth' has been abandoned without being called out.",
+      "**Management/organisation.** Dan Lévy became CFO in April 2026 and hosted the call; OBG has a new management team executing UK/NL action plans; Unibet is now the sole online sports betting and poker brand in France (ParionsSport en ligne migrated in Q1, pre-World Cup); KSP sportsbook platform migrations (UK, Romania) are complete; Kindred integration declared complete in February.",
+      "**Market reaction and Street.** Shares closed -2.1% at €20.57 (~$23.0) on 22 Oct on ~8x normal volume (2.1m shares), with press reports of an intraday six-year low of €19.45 (secondary source); 52-week range €20.33-26.75. CIC Market Solutions cut to Hold (PT €29→€21), Deutsche Bank trimmed to €25.10 (Hold), JPMorgan to €19 (Underweight). Consensus is 11 analysts, mean target €23.77.",
+      "**Thesis read-through.** The 2026-28 ambition (revenue growth accelerating to ~+5% by 2028 on a constant-tax basis) now rests on a 2027 lottery product cycle and on OBG shrinking to a profitable core; 2026 has shown that the lottery's jackpot dependence, a softening French retail channel and a >60% levy rate leave very little operating leverage when luck turns. The ~10% dividend yield at €20.57 is the support, but the payout maths need FY26 adjusted profit to hold near €400m."
+    ],
+    "groupTable": {
+      "note": "€m (USD at 1.12)",
+      "columns": [
+        "Q3-26",
+        "QoQ",
+        "YoY",
+        "9M-26",
+        "9M YoY"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by business unit",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "French Lottery & Retail Sports Betting (LSF)",
+          "indent": true,
+          "cells": [
+            "554 (~$620m)",
+            "-9.6%",
+            "-6.8%",
+            "1,794 (~$2.01bn)",
+            "-4.8%"
+          ]
+        },
+        {
+          "label": "Online Betting & Gaming (OBG)",
+          "indent": true,
+          "cells": [
+            "188 (~$211m)",
+            "-13.8%",
+            "-10.2%",
+            "619 (~$693m)",
+            "-8.2%"
+          ]
+        },
+        {
+          "label": "International Lottery (PLI Ireland)",
+          "indent": true,
+          "cells": [
+            "37 (~$41m)",
+            "-7.5%",
+            "-15.7%",
+            "118 (~$132m)",
+            "-4.7%"
+          ]
+        },
+        {
+          "label": "Payment & Services",
+          "indent": true,
+          "cells": [
+            "14 (~$16m)",
+            "-12.5%",
+            "-6.9%",
+            "44 (~$49m)",
+            "-6.4%"
+          ]
+        },
+        {
+          "label": "Group revenue",
+          "kind": "emphasis",
+          "cells": [
+            "794 (~$889m)",
+            "-10.5%",
+            "-8.1%",
+            "2,576 (~$2.89bn)",
+            "-5.6%"
+          ],
+          "footnote": "Revenue = net gaming revenue + income from other activities. QoQ vs Q2-26 derived as H1-26 less Q1-26 (Q2 revenue €887m). Consensus Q3 revenue ~€839m (Google Finance)."
+        },
+        {
+          "label": "Revenue by product",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Lottery (France)",
+          "indent": true,
+          "cells": [
+            "475 (~$532m)",
+            "-5.6%",
+            "-6.4%",
+            "1,497 (~$1.68bn)",
+            "-4.8%"
+          ]
+        },
+        {
+          "label": "  of which draw games",
+          "indent": true,
+          "cells": [
+            "171 (~$192m)",
+            "-11.4%",
+            "-17.3%",
+            "563 (~$631m)",
+            "-12.2%"
+          ]
+        },
+        {
+          "label": "  of which instant games",
+          "indent": true,
+          "cells": [
+            "304 (~$340m)",
+            "-2.3%",
+            "+1.1%",
+            "935 (~$1.05bn)",
+            "+0.3%"
+          ]
+        },
+        {
+          "label": "Retail (PoS) sports betting, France",
+          "indent": true,
+          "cells": [
+            "79 (~$88m)",
+            "-28.2%",
+            "-8.5%",
+            "297 (~$333m)",
+            "-4.5%"
+          ]
+        },
+        {
+          "label": "Online betting & gaming (OBG)",
+          "indent": true,
+          "cells": [
+            "188 (~$211m)",
+            "-13.8%",
+            "-10.2%",
+            "619 (~$693m)",
+            "-8.2%"
+          ]
+        },
+        {
+          "label": "International lottery + Payment & Services",
+          "indent": true,
+          "cells": [
+            "51 (~$57m)",
+            "-8.9%",
+            "-13.6%",
+            "162 (~$181m)",
+            "-5.3%"
+          ]
+        },
+        {
+          "label": "Volume and conversion",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Gross gaming revenue (GGR)",
+          "indent": true,
+          "cells": [
+            "1,950 (~$2.18bn)",
+            "-8.8%",
+            "-6.1%",
+            "6,264 (~$7.02bn)",
+            "-2.8%"
+          ]
+        },
+        {
+          "label": "Net gaming revenue (NGR)",
+          "indent": true,
+          "cells": [
+            "758 (~$849m)",
+            "n/a",
+            "-7.4%",
+            "2,460 (~$2.76bn)",
+            "-5.2%"
+          ]
+        },
+        {
+          "label": "Income from other activities (derived)",
+          "indent": true,
+          "cells": [
+            "36 (~$40m)",
+            "n/a",
+            "-20%",
+            "116 (~$130m)",
+            "-15%"
+          ]
+        },
+        {
+          "label": "Incremental gaming taxes (calendar effect)",
+          "indent": true,
+          "cells": [
+            "~10 (~$11m) [derived]",
+            "vs 28 in Q2",
+            "n/a",
+            "62 (~$69m)",
+            "FY guide >70"
+          ]
+        },
+        {
+          "label": "NGR / GGR conversion",
+          "indent": true,
+          "cells": [
+            "38.9%",
+            "n/a",
+            "-50bps",
+            "39.3%",
+            "-100bps"
+          ]
+        },
+        {
+          "label": "Profitability (reported semi-annually; H1-26 shown)",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Recurring EBITDA",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "H1: 404 (~$452m)",
+            "-8.4%"
+          ]
+        },
+        {
+          "label": "Recurring EBITDA margin",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "H1: 22.7%",
+            "-90bps"
+          ]
+        },
+        {
+          "label": "  LSF recurring EBITDA (margin)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "H1: 423 (~$474m) / 34.1%",
+            "-8.8% / -190bps"
+          ]
+        },
+        {
+          "label": "  OBG recurring EBITDA (margin)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "H1: 67 (~$75m) / 15.5%",
+            "-29% / -480bps"
+          ]
+        },
+        {
+          "label": "  Int'l Lottery / P&S / Holding EBITDA",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "H1: 17 / -3 / -100",
+            "vs 15 / -2 / -130"
+          ]
+        },
+        {
+          "label": "Recurring operating income",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "H1: 229 (~$256m)",
+            "-15.1%"
+          ]
+        },
+        {
+          "label": "Net income (group share)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "H1: -16 (~-$18m)",
+            "vs +136"
+          ],
+          "footnote": "H1-26 includes €135m (~$151m) impairment of OBG intangibles and a €20m exceptional French corporate tax surcharge."
+        },
+        {
+          "label": "Adjusted net profit",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "H1: 180 (~$202m)",
+            "-19.0%"
+          ]
+        },
+        {
+          "label": "Basic/diluted EPS (IFRS)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "H1: -€0.09 (~-$0.10)",
+            "vs €0.73"
+          ]
+        },
+        {
+          "label": "Adjusted EPS",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "H1: €0.97 (~$1.09)",
+            "vs €1.20 (-19%)"
+          ]
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Avg monthly active players (group)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "not disclosed"
+          ]
+        },
+        {
+          "label": "OBG active players",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "Q1: +3% YoY",
+            "FY25: >+10%"
+          ]
+        },
+        {
+          "label": "Digital share of French lottery revenue",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "15% (stable)",
+            "Q1: 15.5%"
+          ]
+        },
+        {
+          "label": "Retail sports betting player payout",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "~80%",
+            "+>400bps"
+          ]
+        },
+        {
+          "label": "Cash, debt and leverage",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Operating free cash flow",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a (H1 not disclosed in sources read)",
+            "FY25: 782 (~$876m), 87% conversion"
+          ]
+        },
+        {
+          "label": "Net financial debt",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "H1: 1,964 (~$2.20bn)",
+            "flat YoY; +243 vs Dec-25"
+          ]
+        },
+        {
+          "label": "Net debt / LTM recurring EBITDA (our calc)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "~2.3x",
+            "vs 1.9x at Dec-25; covenant 3.5x"
+          ]
+        },
+        {
+          "label": "Credit rating",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "Moody's Baa1 / stable",
+            "confirmed Jul-26"
+          ]
+        },
+        {
+          "label": "DPS (last paid, FY25)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "€2.10 (~$2.35)",
+            "80% payout; FY26 guide: increase, ≥75%"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "French Lottery & Retail Sports Betting (LSF) — France",
+        "headline": "The 'defensive' leg cracked: Q3 revenue -6.8% with zero incremental tax — draw games -17%, retail sports payout ~80%, point-of-sale traffic -10%.",
+        "narrative": [
+          "They reported Q3 LSF revenue of €554m (~$620m), down 6.8% year-on-year and 9.6% below Q2's derived €613m (~$687m), taking nine-month revenue to €1,794m (~$2.01bn), -4.8%, on GGR of €4,978m (~$5.58bn), -3.5%. The important detail is the tax line: LSF absorbed €28m (~$31m) of additional French levies over nine months, but all of it fell in H1 because the 1 July 2025 increase in social security contributions has now lapped, so the Q3 decline is purely a function of jackpots, payout and footfall. Our derived Q3 GGR for the BU is ~€1,549m (~$1.73bn), roughly -7% YoY, i.e. the quarter deteriorated at the GGR level, not just in revenue conversion. Within the BU, lottery revenue was €475m (~$532m), -6.4%, and retail sports betting €79m (~$88m), -8.5%.",
+          "Draw games were the swing factor. Q3 draw-game revenue fell 17.3% to €171m (~$192m) and nine-month revenue 12.2% to €563m (~$631m) on GGR -10.3%, which management attributes almost entirely to a significantly lower number and size of high EuroMillions jackpots against a jackpot-rich 2025 (Q3-25 LSF revenue had grown 2%). Stripping out EuroMillions long cycles, nine-month lottery GGR would have been -0.9% rather than -3.5%, and online lottery GGR +2.3% rather than -4.6%. Digital's share of lottery revenue is stable at 15% (15.5% in Q1), with web-exclusive games growing close to 30% organically and digital instant GGR +1%. The jackpot framing is fair as far as it goes, but the fact that EuroMillions is being re-engineered in March 2027 (jackpot cap lifted to €300m/~$336m, a new €1m second draw) and Loto relaunched in October 2027 tells you management believes the products themselves have fatigued; in the meantime Q4 leans on a boosted EuroMillions starting at €130m (~$146m) in early November and a second event in early December.",
+          "Instant games were the one line that held: Q3 revenue +1.1% to €304m (~$340m), nine-month revenue +0.3% to €935m (~$1.05bn) on GGR +1.9%, supported by portfolio animation (a Q1 GGR record of €880m) and new €10 price-point launches. That was achieved against point-of-sale traffic down roughly 10% in both Q2 and Q3, which management attributes to the economic climate and summer heatwaves and which an analyst on the call linked to social unrest in France; the French retail network (c.€1bn of annual retailer remuneration) is the asset the thesis cannot afford to see erode. There is a mechanical cost to instant outperformance: instants carry a higher player payout than draws, so the mix shift raises the blended lottery PPO and widens the gap between GGR and revenue — a structural leak that will persist as long as instants outgrow draws, and which explains why Q3 lottery revenue (-6.4%) fell faster than our derived lottery GGR (-6%).",
+          "Retail sports betting had a luck problem on top of a tough calendar. Nine-month PoS sports GGR fell 3.2% to €613m (~$687m) and revenue 4.5% to €297m (~$333m) with the player payout ratio up more than 400bps to nearly 80%; Q3 revenue of €79m (~$88m) was -8.5% YoY and -28% versus a Q2 (€110m) that carried the Champions League final stages and the opening of the FIFA World Cup. The World Cup (11 June-19 July) generated more than €700m (~$784m) of group stakes at a high payout 'in line with forecasts'. FDJ does not disclose quarterly handle, structural hold or promotional intensity for the retail book (Q1 retail GGR was €223m, -1.8%), so we cannot separate pricing from luck with any precision; what we can say is that H1 retail GGR was only -1.1%, so Q3 alone was the bad quarter and should mean-revert.",
+          "On profitability and guidance, H1 LSF recurring EBITDA was €423m (~$474m), a 34.1% margin versus 36.0%, with fixed costs +3.7% (IT services +8.4% to €42m; personnel €109m and G&A €19m flat) including ~€4m of the new French advertising tax. Segment guidance has been walked back in each update: April promised annual LSF revenue growth, July stable LSF GGR, and October's group guide of a low-single-digit GGR decline implies LSF GGR down for the year. Q4-25 is an easier comparison and the jackpot calendar is front-loaded into November, so we model Q4 LSF revenue roughly flat to -3%; the variables that matter beyond Q4 are whether retail traffic stabilises and whether the 2027 game relaunches restore draw-game GGR, because the margin (36% in 2025) cannot be defended by cost alone if the top line keeps falling."
+        ],
+        "table": {
+          "note": "LSF, €m (USD at 1.12)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "554 (~$620m)",
+                "-9.6%",
+                "-6.8%",
+                "1,794 (~$2.01bn)",
+                "-4.8%"
+              ]
+            },
+            {
+              "label": "Lottery revenue",
+              "indent": true,
+              "cells": [
+                "475 (~$532m)",
+                "-5.6%",
+                "-6.4%",
+                "1,497 (~$1.68bn)",
+                "-4.8%"
+              ]
+            },
+            {
+              "label": "  Draw games",
+              "indent": true,
+              "cells": [
+                "171 (~$192m)",
+                "-11.4%",
+                "-17.3%",
+                "563 (~$631m)",
+                "-12.2%"
+              ]
+            },
+            {
+              "label": "  Instant games",
+              "indent": true,
+              "cells": [
+                "304 (~$340m)",
+                "-2.3%",
+                "+1.1%",
+                "935 (~$1.05bn)",
+                "+0.3%"
+              ]
+            },
+            {
+              "label": "Retail sports betting revenue",
+              "indent": true,
+              "cells": [
+                "79 (~$88m)",
+                "-28.2%",
+                "-8.5%",
+                "297 (~$333m)",
+                "-4.5%"
+              ]
+            },
+            {
+              "label": "GGR (BU) [Q3 derived]",
+              "cells": [
+                "~1,549 (~$1.73bn)",
+                "-8.3%",
+                "~-7%",
+                "4,978 (~$5.58bn)",
+                "-3.5%"
+              ]
+            },
+            {
+              "label": "  Lottery GGR [Q3 derived]",
+              "indent": true,
+              "cells": [
+                "~1,386 (~$1.55bn)",
+                "-5.2%",
+                "~-6%",
+                "4,365 (~$4.89bn)",
+                "-3.5% (-0.9% ex-EuroMillions cycles)"
+              ]
+            },
+            {
+              "label": "  Retail sports betting GGR [Q3 derived]",
+              "indent": true,
+              "cells": [
+                "~163 (~$183m)",
+                "-28%",
+                "~-8%",
+                "613 (~$687m)",
+                "-3.2%"
+              ]
+            },
+            {
+              "label": "Instant games GGR",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a (Q1: 880)",
+                "+1.9%"
+              ]
+            },
+            {
+              "label": "Draw games GGR",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "-10.3%"
+              ]
+            },
+            {
+              "label": "Online lottery GGR",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a (Q1 rev: 81)",
+                "-4.6% (+2.3% ex-EuroMillions cycles)"
+              ]
+            },
+            {
+              "label": "Digital share of lottery revenue",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "15%",
+                "stable"
+              ]
+            },
+            {
+              "label": "Retail sports player payout ratio",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "~80%",
+                "+>400bps"
+              ]
+            },
+            {
+              "label": "Point-of-sale traffic",
+              "indent": true,
+              "cells": [
+                "~-10%",
+                "(Q2 also ~-10%)",
+                "n/a",
+                "n/a",
+                "per call"
+              ]
+            },
+            {
+              "label": "Incremental gaming tax (BU)",
+              "indent": true,
+              "cells": [
+                "~0 [derived]",
+                "vs 13 in Q2",
+                "n/a",
+                "28 (~$31m)",
+                "FY guide ~30"
+              ]
+            },
+            {
+              "label": "Recurring EBITDA (H1 only)",
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "H1: 423 (~$474m)",
+                "-8.8%"
+              ]
+            },
+            {
+              "label": "Recurring EBITDA margin (H1 only)",
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "H1: 34.1%",
+                "-190bps (FY25: 36.0%)"
+              ]
+            },
+            {
+              "label": "Marketing / IT / personnel (H1)",
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "fixed costs 267 (+3.7%)",
+                "IT +8.4% to 42"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Q3 revenue and tax",
+            "takeaway": "Q3 LSF revenue of €554m (~$620m) fell 6.8% YoY with zero incremental tax, so the decline is purely jackpots, payout and footfall.",
+            "points": [
+              "Q3 revenue 9.6% below Q2's derived €613m (~$687m); nine-month revenue €1,794m (~$2.01bn), -4.8%, on GGR €4,978m (~$5.58bn), -3.5%.",
+              "€28m (~$31m) of additional French levies over nine months all fell in H1; the 1 July 2025 social security increase has lapped.",
+              "Derived Q3 GGR ~€1,549m (~$1.73bn), roughly -7% YoY, so the quarter deteriorated at the GGR level, not just revenue conversion.",
+              "Lottery revenue €475m (~$532m), -6.4%; retail sports betting €79m (~$88m), -8.5%."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Draw games",
+            "takeaway": "Q3 draw-game revenue fell 17.3% to €171m (~$192m) on fewer, smaller EuroMillions jackpots; 2027 relaunches suggest the products have fatigued.",
+            "points": [
+              "Nine-month draw revenue -12.2% to €563m (~$631m) on GGR -10.3%; Q3-25 LSF revenue had grown 2% on a jackpot-rich base.",
+              "Excluding EuroMillions long cycles, nine-month lottery GGR would be -0.9% rather than -3.5%, and online lottery GGR +2.3% rather than -4.6%.",
+              "Digital share of lottery revenue stable at 15% (15.5% in Q1); web-exclusive games growing close to 30% organically, digital instant GGR +1%.",
+              "EuroMillions re-engineered March 2027 (jackpot cap €300m/~$336m, new €1m second draw); Loto relaunched October 2027.",
+              "Q4 leans on a boosted EuroMillions starting at €130m (~$146m) in early November and a second event in early December."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Instant games and footfall",
+            "takeaway": "Instants were the only line that held, Q3 revenue +1.1% to €304m (~$340m), despite point-of-sale traffic down roughly 10%.",
+            "points": [
+              "Nine-month instant revenue +0.3% to €935m (~$1.05bn) on GGR +1.9%, helped by a Q1 GGR record of €880m and new €10 price points.",
+              "Traffic down roughly 10% in Q2 and Q3, attributed by management to the economic climate and summer heatwaves; an analyst linked it to social unrest.",
+              "The French retail network (c.€1bn of annual retailer remuneration) is the asset the thesis cannot afford to see erode.",
+              "Instants carry a higher payout than draws, so mix shift raises blended lottery PPO — a structural leak while instants outgrow draws.",
+              "This explains why Q3 lottery revenue (-6.4%) fell faster than derived lottery GGR (-6%)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Retail sports betting",
+            "takeaway": "Retail sports had a luck problem on top of a tough calendar: payout up more than 400bps to nearly 80%, Q3 revenue -8.5%.",
+            "points": [
+              "Nine-month PoS sports GGR -3.2% to €613m (~$687m); revenue -4.5% to €297m (~$333m).",
+              "Q3 revenue €79m (~$88m) was -28% versus Q2's €110m, which carried Champions League final stages and the FIFA World Cup opening.",
+              "World Cup (11 June-19 July) generated more than €700m (~$784m) of group stakes at a high payout 'in line with forecasts'.",
+              "No quarterly handle, structural hold or promotional intensity disclosed (Q1 retail GGR €223m, -1.8%), so pricing cannot be separated from luck.",
+              "H1 retail GGR was only -1.1%, so Q3 alone was the bad quarter and should mean-revert."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Profitability and guidance",
+            "takeaway": "H1 recurring EBITDA €423m (~$474m), a 34.1% margin versus 36.0%; guidance has been walked back in every update and we model Q4 revenue flat to -3%.",
+            "points": [
+              "Fixed costs +3.7%: IT services +8.4% to €42m; personnel €109m and G&A €19m flat; includes ~€4m of the new French advertising tax.",
+              "April promised annual LSF revenue growth, July stable LSF GGR; October's group low-single-digit GGR decline implies LSF GGR down for the year.",
+              "Q4-25 is an easier comparison and the jackpot calendar is front-loaded into November.",
+              "Beyond Q4, what matters is whether retail traffic stabilises and the 2027 relaunches restore draw-game GGR.",
+              "The 36% margin (2025) cannot be defended by cost alone if the top line keeps falling."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Online Betting & Gaming (OBG) — Unibet, 32Red; France, Nordics, NL, UK, Romania, Australia et al.",
+        "headline": "GGR flat, revenue -8% on €34m of new levies; ex-UK/NL the business grows mid-single digits, but the UK (-24% GGR at a 40% duty) is a structural problem the portfolio review has yet to confront.",
+        "narrative": [
+          "They reported Q3 OBG revenue of €188m (~$211m), down 10.2% year-on-year and 13.8% below Q2's derived €218m (~$244m), for nine-month revenue of €619m (~$693m), -8.2%, on GGR of €1,013m (~$1.13bn) that was virtually stable at -0.8%. The gap is tax: €34m (~$38m) of calendar levy increases over nine months (€9m in Q1, €15m in Q2 and ~€10m in Q3 by our derivation), which took the BU's revenue/GGR conversion to 61% from ~66% a year earlier. Our derived Q3 GGR is ~€311m (~$348m), around -2% YoY, so the underlying volume trend did soften slightly from H1's -0.2%. The comparison base is already depressed — Q3-25 revenue was -16% — so the two-year revenue stack is roughly -25%, and the quarter carried the World Cup final stages (to 19 July) at a high payout.",
+          "Geographically the story is unchanged and bifurcated. Excluding the Netherlands and the UK, nine-month GGR rose 5.7% and revenue 0.8%, with France and Scandinavia (Sweden in particular) the engines; since H1 ex-UK/NL GGR was +6.6%, Q3 growth slowed to roughly +4% on our arithmetic. In France, Unibet became the sole online sports betting and poker brand in Q1 after ParionsSport en ligne was migrated on schedule ahead of the World Cup, and the group claims strong share gains, but French online betting now bears levies of 59.3% of GGR. The Netherlands, where gaming tax rose from 34.2% to 37.8% on 1 January 2026, saw nine-month GGR -8.6% and management described it as improving from earlier weakness. The UK, where remote gaming duty on online casino rose from 21% to 40% in April 2026, saw nine-month GGR -24.4% (a 'mid-20s' decline on the call); the slide deck shows both markets in the -20% to -40% range over recent quarters. Management insists the UK remains profitable and framed it as a profitability balancing act rather than a disposal candidate.",
+          "Customer economics are thinly disclosed for a business of this size: active players rose more than 10% in FY25 and 3% in Q1-26, but no Q3 actives, ARPU, sportsbook handle, net or structural margin or promotional intensity were given — a gap versus Flutter, Entain or Kindred's own historical disclosure that makes it hard to judge whether UK/NL declines are price (tax pass-through, bonus cuts) or volume. What we do know from H1 is that recurring EBITDA fell to €67m (~$75m), a 15.5% margin versus 20.3%, that 65% of the BU's cost base is fixed (so operating leverage is negative on the way down), that the group took a €135m (~$151m) impairment on OBG intangibles, and that the KSP sportsbook platform migrations (UK, Romania) are complete, so there is no further platform-cost tailwind to come beyond the performance plan.",
+          "On guidance, the April promise of a return to OBG GGR growth in H2 and July's 'stable' FY GGR have been replaced by the group-level low-single-digit decline; the explicit OBG commitment is now only that UK/NL action plans 'should allow for a gradual restoration of performance'. The strategic review of the OBG market portfolio, launched in July alongside the review of non-core assets, will report by early 2027 at the latest, probably with FY results. Our view is that exiting or radically shrinking sub-scale, over-taxed markets would be accretive to the ~20% FY25 BU margin and to group leverage; a 40% duty rate with GGR down a quarter is precisely the profile that justifies exit, and management's reluctance on the UK is the most likely point of disagreement with shareholders in early 2027."
+        ],
+        "table": {
+          "note": "OBG, €m (USD at 1.12)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "188 (~$211m)",
+                "-13.8%",
+                "-10.2%",
+                "619 (~$693m)",
+                "-8.2%"
+              ]
+            },
+            {
+              "label": "GGR [Q3 derived]",
+              "cells": [
+                "~311 (~$348m)",
+                "-13.6%",
+                "~-2%",
+                "1,013 (~$1.13bn)",
+                "-0.8%"
+              ]
+            },
+            {
+              "label": "Revenue / GGR conversion",
+              "indent": true,
+              "cells": [
+                "~60%",
+                "-10bps",
+                "~-5pp",
+                "61%",
+                "-5pp"
+              ]
+            },
+            {
+              "label": "Incremental gaming tax (BU)",
+              "indent": true,
+              "cells": [
+                "~10 (~$11m) [derived]",
+                "vs 15 in Q2",
+                "n/a",
+                "34 (~$38m)",
+                "FY guide ~40"
+              ]
+            },
+            {
+              "label": "Regional GGR growth",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Ex-UK & Netherlands GGR",
+              "indent": true,
+              "cells": [
+                "~+4% [derived]",
+                "n/a",
+                "n/a",
+                "+5.7%",
+                "H1: +6.6%"
+              ]
+            },
+            {
+              "label": "Ex-UK & Netherlands revenue",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "+0.8%",
+                "H1: +0.6%"
+              ]
+            },
+            {
+              "label": "France & Scandinavia",
+              "indent": true,
+              "cells": [
+                "growth",
+                "n/a",
+                "n/a",
+                "'strong performance'",
+                "France levies 59.3% of online betting GGR"
+              ]
+            },
+            {
+              "label": "Netherlands GGR",
+              "indent": true,
+              "cells": [
+                "'improving'",
+                "n/a",
+                "n/a",
+                "-8.6%",
+                "tax 34.2%→37.8% from 1 Jan 26"
+              ]
+            },
+            {
+              "label": "United Kingdom GGR",
+              "indent": true,
+              "cells": [
+                "'mid-20s' decline",
+                "n/a",
+                "n/a",
+                "-24.4%",
+                "RGD 21%→40% from Apr 26; 'profitable'"
+              ]
+            },
+            {
+              "label": "Customer economics",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Active players",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "Q1: +3% YoY",
+                "FY25: >+10%"
+              ]
+            },
+            {
+              "label": "ARPU / handle / net margin / promo % handle",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "not disclosed"
+              ]
+            },
+            {
+              "label": "Profitability (H1 only)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Recurring EBITDA",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "H1: 67 (~$75m)",
+                "-29% (FY25: 182)"
+              ]
+            },
+            {
+              "label": "Recurring EBITDA margin",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "H1: 15.5%",
+                "-480bps (FY25: 20.0%)"
+              ]
+            },
+            {
+              "label": "Fixed share of cost base",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "~65%",
+                "group 48%"
+              ]
+            },
+            {
+              "label": "Impairment (OBG intangibles)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "H1: 135 (~$151m)",
+                "non-recurring"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Q3 revenue and levies",
+            "takeaway": "Q3 OBG revenue €188m (~$211m), -10.2% YoY, with nine-month GGR virtually stable at -0.8%; the gap is €34m (~$38m) of new levies.",
+            "points": [
+              "Q3 revenue 13.8% below Q2's derived €218m (~$244m); nine-month revenue €619m (~$693m), -8.2%, on GGR €1,013m (~$1.13bn).",
+              "Levy increases: €9m in Q1, €15m in Q2, ~€10m in Q3 by our derivation; revenue/GGR conversion fell to 61% from ~66%.",
+              "Derived Q3 GGR ~€311m (~$348m), around -2% YoY, so volume softened slightly from H1's -0.2%.",
+              "Q3-25 revenue was -16%, so the two-year revenue stack is roughly -25%; the quarter carried World Cup final stages at a high payout."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Geographic bifurcation",
+            "takeaway": "Ex-UK/NL nine-month GGR rose 5.7% led by France and Scandinavia, but UK GGR fell 24.4% under a 40% duty.",
+            "points": [
+              "Ex-UK/NL revenue +0.8%; H1 ex-UK/NL GGR was +6.6%, so Q3 growth slowed to roughly +4% on our arithmetic.",
+              "Unibet became sole French online sports betting and poker brand in Q1 after ParionsSport en ligne migrated; French online betting levies now 59.3% of GGR.",
+              "Netherlands gaming tax rose from 34.2% to 37.8% on 1 January 2026; nine-month GGR -8.6%, described by management as improving.",
+              "UK remote gaming duty on online casino rose from 21% to 40% in April 2026; slide deck shows both markets in the -20% to -40% range.",
+              "Management insists the UK remains profitable and frames it as a profitability balancing act rather than a disposal candidate."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Disclosure and profitability",
+            "takeaway": "Customer economics are thinly disclosed; H1 recurring EBITDA fell to €67m (~$75m), a 15.5% margin versus 20.3%, with 65% fixed costs.",
+            "points": [
+              "Active players rose more than 10% in FY25 and 3% in Q1-26, but no Q3 actives, ARPU, handle, margin or promotional intensity were given.",
+              "Gap versus Flutter, Entain or Kindred's own historical disclosure makes it hard to judge whether UK/NL declines are price or volume.",
+              "65% fixed cost base means operating leverage is negative on the way down; group took a €135m (~$151m) impairment on OBG intangibles.",
+              "KSP sportsbook platform migrations (UK, Romania) are complete, so no further platform-cost tailwind beyond the performance plan."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Guidance and portfolio review",
+            "takeaway": "OBG GGR growth promises have been dropped; we think exiting over-taxed markets would be accretive and the UK is the likely shareholder flashpoint.",
+            "points": [
+              "April's return to OBG GGR growth in H2 and July's 'stable' FY GGR replaced by group-level low-single-digit decline.",
+              "The strategic review of the OBG market portfolio, launched in July, will report by early 2027 at the latest, probably with FY results.",
+              "Exiting or radically shrinking sub-scale, over-taxed markets would be accretive to the ~20% FY25 BU margin and group leverage.",
+              "A 40% duty with GGR down a quarter is precisely the profile that justifies exit; management's UK reluctance is the most likely disagreement with shareholders."
+            ],
+            "quote": {
+              "text": "should allow for a gradual restoration of performance",
+              "speaker": "Management"
+            }
+          }
+        ]
+      },
+      {
+        "name": "International Lottery (Premier Lotteries Ireland) & Payment and Services",
+        "headline": "Small but drifting: Irish lottery revenue -15.7% in Q3 despite positive 9M GGR; Payment & Services is loss-making and in the non-core review.",
+        "narrative": [
+          "They reported International Lottery revenue of €37m (~$41m) in Q3, down 15.7% year-on-year and 7.5% below Q2's derived €40m, taking nine months to €118m (~$132m), -4.7%, even though BU GGR grew 2.1% — the slides attribute the gap to tax and mix effects. Q1 had shown +7% to €41m, but that was against a Q1-25 base depressed by an exceptional number of Irish Lotto jackpot winners, and H1 revenue of €81m (~$91m) was only marginally ahead of €80m; the Q3 slide is consistent with the same EuroMillions jackpot drought that hit France, since PLI sells the same pan-European game, though the release does not say so explicitly. H1 recurring EBITDA improved to €17m (~$19m) from €15m, so the BU remains a modest but positive contributor (FY25: revenue €170m, EBITDA €38m).",
+          "Payment & Services — the L'Addition/Aleda-type retail services and payments activities inherited from the FDJ perimeter — generated Q3 revenue of €14m (~$16m), -6.9%, and nine-month revenue of €44m (~$49m) versus €47m, with H1 recurring EBITDA of -€3m (~-$3m) (FY25: revenue €62m, EBITDA -€5m). This is the explicitly named candidate in the non-core asset review announced in July, with conclusions due by early 2027 at the latest. A disposal would be immaterial to group earnings but would be a useful signal that resource allocation is tightening; the holding-company cost line, which improved to -€100m from -€130m in H1 on the performance plan, is where the larger savings sit.",
+          "Taken together these two BUs are ~7% of group revenue and roughly break-even at the EBITDA line, so they do not move the investment case; they matter mainly as evidence of execution on the portfolio review and, in Ireland's case, as a second data point that draw-game demand is jackpot-driven across the group's lottery footprint. Neither BU received a standalone guide in the October update."
+        ],
+        "table": {
+          "note": "IL and P&S, €m (USD at 1.12)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "International Lottery revenue",
+              "kind": "emphasis",
+              "cells": [
+                "37 (~$41m)",
+                "-7.5%",
+                "-15.7%",
+                "118 (~$132m)",
+                "-4.7%"
+              ]
+            },
+            {
+              "label": "International Lottery GGR",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "+2.1%"
+              ]
+            },
+            {
+              "label": "International Lottery recurring EBITDA (H1)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "H1: 17 (~$19m)",
+                "vs 15 (FY25: 38)"
+              ]
+            },
+            {
+              "label": "Payment & Services revenue",
+              "kind": "emphasis",
+              "cells": [
+                "14 (~$16m)",
+                "-12.5%",
+                "-6.9%",
+                "44 (~$49m)",
+                "-6.4%"
+              ]
+            },
+            {
+              "label": "Payment & Services recurring EBITDA (H1)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "H1: -3 (~-$3m)",
+                "vs -2 (FY25: -5)"
+              ]
+            },
+            {
+              "label": "Holding costs (H1)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "H1: -100 (~-$112m)",
+                "vs -130 (FY25: -226)"
+              ]
+            },
+            {
+              "label": "Strategic/non-core review",
+              "indent": true,
+              "cells": [
+                "ongoing",
+                "n/a",
+                "n/a",
+                "launched Jul-26",
+                "conclusions by early 2027"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "International Lottery",
+            "takeaway": "Irish lottery Q3 revenue €37m (~$41m) fell 15.7% YoY despite nine-month GGR +2.1%; slides attribute the gap to tax and mix.",
+            "points": [
+              "Q3 revenue 7.5% below Q2's derived €40m; nine-month revenue €118m (~$132m), -4.7%.",
+              "Q1 showed +7% to €41m against a base depressed by exceptional Irish Lotto jackpot winners; H1 revenue €81m (~$91m) versus €80m.",
+              "Q3 slide is consistent with the same EuroMillions jackpot drought as France, though the release does not say so explicitly.",
+              "H1 recurring EBITDA improved to €17m (~$19m) from €15m; FY25 revenue €170m, EBITDA €38m."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Payment & Services",
+            "takeaway": "Payment & Services is loss-making (H1 recurring EBITDA -€3m) and the explicitly named candidate in the non-core review due by early 2027.",
+            "points": [
+              "Q3 revenue €14m (~$16m), -6.9%; nine-month revenue €44m (~$49m) versus €47m; FY25 revenue €62m, EBITDA -€5m.",
+              "A disposal would be immaterial to group earnings but a useful signal that resource allocation is tightening.",
+              "Holding-company cost line improved to -€100m from -€130m in H1 on the performance plan; this is where larger savings sit."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Group significance",
+            "takeaway": "Together these BUs are ~7% of group revenue and roughly break-even at EBITDA, so they do not move the investment case.",
+            "points": [
+              "They matter as evidence of execution on the portfolio review.",
+              "Ireland is a second data point that draw-game demand is jackpot-driven across the group's lottery footprint.",
+              "Neither BU received a standalone guide in the October update."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Instant games keep growing — Q3 revenue +1.1% to €304m (~$340m), 9M GGR +1.9% — despite ~10% lower point-of-sale traffic, evidence the core scratchcard franchise and its portfolio animation (new €10 games, Q1 GGR record €880m) still works.",
+        "tag": "structural"
+      },
+      {
+        "text": "OBG ex-UK/Netherlands is a growth business: 9M GGR +5.7%, revenue +0.8% after tax, with France (Unibet now the single brand) and Scandinavia leading; the online problem is two markets, not the platform.",
+        "tag": "structural"
+      },
+      {
+        "text": "Q3's incremental tax hit was only ~€10m (~$11m) vs €24m/€28m in Q1/Q2 — the French levy step-up has lapped, so the GGR-to-revenue gap should narrow from here even if UK/NL duties remain.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Cost discipline is real: H1 fixed costs -2.8%, holding costs -€30m YoY to -€100m, and the ~23% margin guide is being held on a revenue base ~€190m lower than February's plan; the 2025-28 performance plan target was raised to >€150m (~$168m) in February.",
+        "tag": "structural"
+      },
+      {
+        "text": "Digital lottery is quietly compounding — web-exclusive games c.+30% organic, online lottery GGR +2.3% ex-EuroMillions cycles, digital share of lottery revenue stable at 15% — and is the highest-margin growth pocket in the group.",
+        "tag": "structural"
+      },
+      {
+        "text": "The 2027 product cycle is tangible: EuroMillions relaunch March 2027 (€300m/~$336m jackpot cap, new €1m second draw), Loto relaunch October 2027, plus Q4-26 boosted jackpots (from €130m/~$146m in early November) to bridge.",
+        "tag": "early"
+      },
+      {
+        "text": "Balance sheet remains investment grade — Moody's Baa1/stable reaffirmed July 2026, FY25 free cash flow €782m (~$876m) at 87% EBITDA conversion, covenant 3.5x vs ~2.3x LTM — and the Netherlands is described as improving sequentially.",
+        "tag": "mixed"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Third guidance cut in eight months (Feb → Apr → Jul → Oct): FY26 revenue from 'slight growth' to a mid-single-digit decline, margin from 24.5% to ~23%; the April promises of LSF annual revenue growth and OBG GGR growth in H2 were dropped without acknowledgement.",
+        "tag": "governance"
+      },
+      {
+        "text": "Draw games -17.3% in Q3 (€171m/~$192m) and -12.2% over 9M: EuroMillions jackpot timing is luck, but the decision to re-engineer both EuroMillions and Loto in 2027 signals product fatigue, and the instant-vs-draw mix shift structurally raises the blended payout.",
+        "tag": "mixed"
+      },
+      {
+        "text": "French point-of-sale traffic down ~10% in both Q2 and Q3 — blamed on the economy, heatwaves and (per an analyst) social unrest — is the number management is least keen to discuss and the one with the longest tail for a 66%-retail group.",
+        "tag": "structural"
+      },
+      {
+        "text": "UK online GGR -24.4% over 9M after remote gaming duty went to 40%; management calls it a 'profitability balancing act' rather than a disposal candidate, which postpones the obvious portfolio decision to early 2027.",
+        "tag": "structural"
+      },
+      {
+        "text": "Retail sports betting player payout up >400bps to nearly 80% (Q3 revenue -8.5%) and a high-payout World Cup; mean-reversion is likely, but FDJ gives no handle, structural margin or promo data to confirm it was luck rather than pricing.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Leverage is drifting up: net debt €1,964m (~$2.20bn) at June, ~2.3x LTM recurring EBITDA (our calc) vs 1.9x at December; February's ~€100m debt-reduction target has gone quiet, and the 'dividend increase at ≥75% payout' pledge implies a payout near 100% if FY26 adjusted profit falls to ~€400m (our est.).",
+        "tag": "watch"
+      },
+      {
+        "text": "International Lottery revenue -15.7% in Q3 and Payment & Services loss-making; small, but both are drifting while the group waits for the portfolio review.",
+        "tag": "watch"
+      }
+    ],
+    "forecast": {
+      "intro": "Guidance has been cut at every 2026 update. February (FY25 results): GGR up, slight revenue growth, 24.5% recurring EBITDA margin, ~€90m of additional gaming taxes and ~€100m net debt reduction. April (Q1): slight GGR increase, slight revenue decline, 23-24% margin, with LSF revenue growth for the year and OBG GGR returning to growth in H2. July (H1): stable GGR in both LSF and OBG, low-single-digit revenue decline, 23-24% margin, ~€70m taxes (€30m LSF/€40m OBG). October (Q3): low-single-digit GGR decline, mid-single-digit revenue decline, >€70m taxes, margin 'around 23%', dividend increase at ≥75% payout confirmed. The October cut was driven by LSF — the EuroMillions jackpot drought intensifying in Q3, a ~80% retail sports payout and ~10% lower point-of-sale traffic — with OBG's UK/NL weakness a continuing rather than new drag; incremental tax in Q3 was marginal (~€10m).",
+      "bridge": [
+        {
+          "title": "FY26 revenue guide",
+          "value": "Mid-single-digit decline (~€3.46-3.53bn / ~$3.9bn)",
+          "change": "from low-single-digit decline (Jul), slight decline (Apr), slight growth (Feb)"
+        },
+        {
+          "title": "FY26 GGR guide",
+          "value": "Low-single-digit decline (~€8.45-8.62bn)",
+          "change": "from stable (Jul), slight increase (Apr), increase (Feb)"
+        },
+        {
+          "title": "FY26 recurring EBITDA margin",
+          "value": "~23% (→ ~€805m / ~$902m on our -5% revenue)",
+          "change": "from 23-24% (Apr/Jul) and 24.5% (Feb); FY25 24.5%, €902m"
+        },
+        {
+          "title": "Incremental gaming taxes FY26",
+          "value": ">€70m (~$78m); €62m booked to Sep",
+          "change": "from ~€70m (Jul) and ~€90m (Feb)"
+        }
+      ],
+      "view": "**Q4-26 (our estimate): revenue ~€900-920m (~$1.0bn), -3% to -5% YoY, GGR roughly flat.** The guide's arithmetic brackets Q4 revenue at ~€880-955m against €948m in Q4-25 and Q4 GGR at ~€2.18-2.36bn against ~€2.26bn; the easier Q4 comparison, the front-loaded November/December EuroMillions events and the lapping of the French levy argue for the middle of that range, while POS traffic and the UK argue against the top. **FY26e: revenue ~€3.49bn (~$3.9bn, -5%), recurring EBITDA ~€805m (~$902m, -11%) at 23.0%, implying H2 EBITDA of ~€400m (~$448m) at a ~23.4% margin — i.e. H2 must be better than H1's 22.7% on lower revenue, which puts all the weight on the performance plan and variable-cost flex.** Adjusted net profit of ~€400m (~$448m, -18%) on our numbers leaves an increased DPS (>€2.10) at a ~95-100% payout; we would not be surprised by a token increase. **Leverage direction is up:** year-end net debt of ~€1.75-1.80bn (~$2.0bn) on ~€805m EBITDA is ~2.2x versus 1.9x at Dec-25, and the February ~€100m reduction target is unlikely to be met unless working capital (unclaimed prizes, levy timing) flatters December. **For 2027 the swing factors are, in order: the EuroMillions relaunch in March (draw-game GGR is ~€0.9bn of annual revenue at stake), the portfolio-review outcome on the UK/NL and Payment & Services, any further French budget levy (the 2027 finance bill is the next known unknown), and whether POS traffic stabilises.** The 2028 ambition of ~+5% revenue growth on a constant-tax basis now requires 2027 to be a product-led recovery year; we would model 2027 revenue growth of 0-2% with margin back toward 23.5-24% from cost actions, and treat anything better as upside from the product cycle. All figures above are our estimates, not company guidance.",
+      "watch": [
+        "Q4 jackpot execution: the boosted EuroMillions from €130m in early November and the December event — the Q4 bridge depends on long cycles materialising.",
+        "FY26 results (February 2027): outcome of the OBG market review and non-core disposals (Payment & Services) — whether the UK is kept, shrunk or exited at a 40% duty rate.",
+        "French point-of-sale traffic through Q4 and any further French gaming-levy or advertising-tax measures in the 2027 finance bill.",
+        "UK and Netherlands sequential GGR trajectory and the OBG H2 margin versus 15.5% in H1; evidence that actives/ARPU — undisclosed in Q3 — are stabilising.",
+        "Year-end net financial debt vs €1,721m at Dec-25 and the FY26 dividend decision against the ≥75% payout / 'annual increase' commitments.",
+        "March 2027 EuroMillions relaunch (€300m cap, €1m second draw) and October 2027 Loto relaunch — early draw-game GGR response.",
+        "Performance plan delivery against the >€150m end-2028 target (February release) and the H2 fixed-cost run-rate."
+      ]
+    },
+    "sharePriceReaction": "Results were released after the close on 21 Oct (shares had already drifted -1.45% to €21.01). On 22 Oct the stock closed -2.1% at €20.57 (~$23.0) on 2.13m shares (~8x the prior day's volume), with press reports (ideal-investisseur via Archynewsy, secondary) of an intraday six-year low of €19.45 (-7.4%) against an SBF 120 down 1.4%; it recovered to €20.81 by 26 Oct. 52-week range €20.33-26.75. Same-day broker moves: CIC Market Solutions downgraded to Hold (PT €29→€21), Deutsche Bank cut to €25.10 (Hold), JPMorgan to €19 (Underweight); consensus of 11 analysts sits at Hold with a €23.77 mean target.",
+    "confidence": "MEDIUM",
+    "confidenceNote": "FX: EUR/USD 1.12 as of 21 Oct 2026 (ECB reference 1.1234); USD figures are approximate conversions. Q3/9M revenue, GGR, NGR and BU/product revenue lines are taken from the company release (fdjunited.com PDF and the Business Wire/Yahoo mirror) and cross-checked against ≥2 secondary reports. FDJ UNITED reports EBITDA, net income, EPS and cash flow only semi-annually — Q3 profitability is therefore n/a and H1-26 figures (interim financial report) are shown instead. Q2-26 figures (for QoQ) are derived as H1 less Q1; Q3 BU-level GGR, Q3 incremental tax and ex-UK/NL Q3 growth are derived from 9M less H1 disclosures and are labelled as such. Not independently verified: the intraday low of €19.45 (single secondary source); the UK/NL 9M GGR declines (-24.4%/-8.6%) and the IL 'tax and mix' explanation (from Investing.com/iGB/Yogonet summaries of the slides and call, not the slides themselves); the performance-plan savings figures, which differ between the February release (>€150m by end-2028) and a secondary summary of the H1 slides (€100m 2026 run-rate, >€180m by 2028); H1-26 free cash flow (not found in sources read); consensus revenue (€839m, Google Finance). The Q3 earnings-call content is from the Investing.com transcript summary, not the company audiocast. The focusgn.com and gamingintelligence.com links supplied could not be retrieved.",
+    "sources": [
+      {
+        "label": "FDJ UNITED — Revenue to end-September 2026, press release PDF, 21 Oct 2026",
+        "kind": "primary",
+        "url": "https://www.fdjunited.com/wp-content/uploads/2026/10/20261021-FDJUNITEDpressrelease-Revenuetoend-September.pdf"
+      },
+      {
+        "label": "FDJ UNITED — Revenue to end-September 2026, press-release web page",
+        "kind": "primary",
+        "url": "https://www.fdjunited.com/presse/revenue-to-end-september-2026/"
+      },
+      {
+        "label": "FDJ UNITED Q3/9M 2026 release — Business Wire regulatory news via Yahoo Finance (full tables)",
+        "kind": "primary",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/fdj-united-revenue-end-september-154500841.html"
+      },
+      {
+        "label": "FDJ UNITED Q3/9M 2026 release — MarketScreener mirror",
+        "kind": "primary",
+        "url": "https://www.marketscreener.com/news/fdj-united-revenue-to-end-september-affected-by-inherent-gaming-factors-a-decline-in-traffic-at-po-ce785cd9da8bf426"
+      },
+      {
+        "label": "FDJ UNITED — H1 2026 results press release PDF, 29 Jul 2026",
+        "kind": "primary",
+        "url": "https://www.fdjunited.com/wp-content/uploads/2026/07/20260729-FDJUNITEDpressrelease-H12026results.pdf"
+      },
+      {
+        "label": "FDJ UNITED — Interim Financial Report 30 June 2026 (P&L, EPS, net debt)",
+        "kind": "primary",
+        "url": "https://www.fdjunited.com/wp-content/uploads/2026/09/FDJUInterimFinancialReportJune2026.pdf"
+      },
+      {
+        "label": "FDJ UNITED — H1 2026 investor presentation",
+        "kind": "primary",
+        "url": "https://www.fdjunited.com/wp-content/uploads/2026/07/20260729InvestorpresentationH12026VDEF.pdf"
+      },
+      {
+        "label": "FDJ UNITED — H1 2026 release (Business Wire via Morningstar / MarketScreener)",
+        "kind": "primary",
+        "url": "https://www.morningstar.com/news/business-wire/20260729733657/fdj-united-h1-2026"
+      },
+      {
+        "label": "FDJ UNITED — Q1 2026 revenue press release PDF, 21 Apr 2026",
+        "kind": "primary",
+        "url": "https://www.fdjunited.com/wp-content/uploads/2026/04/20260421-FDJUNITEDpressrelease-Q12026.pdf"
+      },
+      {
+        "label": "FDJ UNITED — Q1 2026 investor presentation",
+        "kind": "primary",
+        "url": "https://www.fdjunited.com/wp-content/uploads/2026/04/Investorpresentation-Q12026VDEF.pdf"
+      },
+      {
+        "label": "FDJ UNITED — FY2025 results and 2026 outlook press release, 19 Feb 2026",
+        "kind": "primary",
+        "url": "https://www.fdjunited.com/wp-content/uploads/2026/02/20260219-FDJUNITEDpressrelease-2025resultsand2026outlook.pdf"
+      },
+      {
+        "label": "FDJ UNITED — FY2025 results investor presentation",
+        "kind": "primary",
+        "url": "https://www.fdjunited.com/wp-content/uploads/2026/02/20260219InvestorpresentationFY2025.pdf"
+      },
+      {
+        "label": "FDJ UNITED — Q3 2025 revenue press release (comparatives), 15 Oct 2025",
+        "kind": "primary",
+        "url": "https://www.businesswire.com/news/home/20251015475955/en"
+      },
+      {
+        "label": "FDJ UNITED — Publications and results page (reporting calendar, listing FDJU Euronext Paris)",
+        "kind": "primary",
+        "url": "https://www.fdjunited.com/publications-and-results/"
+      },
+      {
+        "label": "Investing.com — Q3 2026 earnings call transcript and summary (Dan Lévy, CFO)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-fdj-united-q3-2026-results-pressured-by-taxes-and-jackpots-93CH-4963772"
+      },
+      {
+        "label": "Investing.com — Q3 2026 slides summary (tax detail, UK/NL trends, 2027 relaunches)",
+        "kind": "secondary",
+        "url": "https://uk.investing.com/news/stock-market-news/fdj-united-q3-2026-slides-tax-increases-weak-jackpots-drive-revenue-decline-93CH-4923397"
+      },
+      {
+        "label": "Investing.com — H1 2026 earnings call transcript (Q4 vs Q3 comps, UK/NL, performance plan)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-fdj-united-posts-weaker-h1-2026-as-taxes-weigh-93CH-4821491"
+      },
+      {
+        "label": "Investing.com — H1 2026 slides summary (cost efficiencies, fixed/variable split)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/company-news/fdj-united-h1-2026-slides-tax-surge-hits-revenue-ai-plans-unveiled-93CH-4821496"
+      },
+      {
+        "label": "NEXT.io — Q3 2026: FDJ slashes targets as tax headwinds hit revenue (user-supplied)",
+        "kind": "secondary",
+        "url": "https://next.io/news/results/q3-2026-fdj-reduces-targets-tax-headwinds/"
+      },
+      {
+        "label": "Yogonet — FDJ United lowers 2026 targets after jackpot shortfall and tax increases (user-supplied; UK/NL GGR)",
+        "kind": "secondary",
+        "url": "https://www.yogonet.com/international/news/2026/10/23/126980-fdj-united-lowers-2026-targets-after-a-jackpot-shortfall-and-tax-increases-cut-q3-revenue-81-"
+      },
+      {
+        "label": "iGB — FDJ United lowers 2026 guidance as EuroMillions slump and tax rises hit revenue",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/finance/fdj-united-lowers-2026-guidance-as-euromillions-slump-and-tax-rises-hit-revenue/"
+      },
+      {
+        "label": "SBC News — FDJ United's tax bill up €62m in 2026 so far (tax rates by market)",
+        "kind": "secondary",
+        "url": "https://sbcnews.co.uk/sportsbook/2026/10/22/fdj-united-2026-tax"
+      },
+      {
+        "label": "SiGMA World — FDJ United cuts 2026 outlook as Q3 revenue falls 8.1% (guidance history)",
+        "kind": "secondary",
+        "url": "https://sigma.world/news/fdj-united-2026-outlook-q3-revenue-falls/"
+      },
+      {
+        "label": "Intergame — FDJ United downgrades revenue guidance after Q3 headwinds",
+        "kind": "secondary",
+        "url": "https://www.intergameonline.com/igaming/news/fdj-united-downgrades-revenue-guidance-q3-headwinds"
+      },
+      {
+        "label": "European Gaming — FDJ UNITED swings to €16m loss in H1 2026 results",
+        "kind": "secondary",
+        "url": "https://europeangaming.eu/portal/latest-news/2026/07/31/210181/fdj-united-h1-2026-results/"
+      },
+      {
+        "label": "MarketScreener — FDJ United quote history (21-27 Oct 2026 closes, volumes) and consensus",
+        "kind": "secondary",
+        "url": "https://www.marketscreener.com/quote/stock/FDJ-UNITED-75739100/"
+      },
+      {
+        "label": "Archynewsy (citing ideal-investisseur.fr) — FDJ United shares hit six-year low; CIC and Deutsche Bank target changes",
+        "kind": "secondary",
+        "url": "https://www.archynewsy.com/fdj-united-shares-hit-6-year-low-following-revised-2026-outlook/"
+      },
+      {
+        "label": "StockAnalysis — FDJ United news (JPMorgan, Citi price-target changes)",
+        "kind": "secondary",
+        "url": "https://stockanalysis.com/quote/epa/FDJU/"
+      },
+      {
+        "label": "Google Finance — FDJU:EPA (Q3 revenue vs estimate €839m)",
+        "kind": "secondary",
+        "url": "https://www.google.com/finance/quote/FDJU:EPA"
+      },
+      {
+        "label": "ECB euro reference exchange rates — USD (21 Oct 2026: 1.1234)",
+        "kind": "secondary",
+        "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html"
+      }
+    ]
+  }
+}

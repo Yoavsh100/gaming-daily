@@ -1519,5 +1519,182 @@
     "releaseDate": "21 Oct 2026 (after US close)",
     "model": "claude-fable-5-1",
     "costUsd": 4.45
+  },
+  {
+    "key": "juris|arizona|AUGUST 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-27T18:27:54.726Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "ARIZONA-AUGUST-2026",
+    "published": "2026-10-27",
+    "company": {
+      "name": "Arizona",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "AUGUST 2026",
+    "verdict": "August 2026 was Arizona's softest month of the year: handle $582.8m (−4.6% YoY, −2.8% MoM), gross hold back to ~8.7% from an unusually book-friendly 10.1% a year earlier, and state privilege fees down 12% to ~$3.6m — a reminder that a 10%-of-adjusted-receipts, promo-deductible regime yields the state only ~0.6% of handle. Structurally nothing moved: a 99.7% mobile market, FanDuel/DraftKings holding 60% of handle (top four 82%), licence access gated through tribes or pro-sports franchises, and a governor who has already put a 45% rate for scale operators on the table.",
+    "kpis": [
+      {
+        "label": "Handle (Aug-26)",
+        "value": "$582.8m",
+        "delta": "−4.6% YoY / −2.8% MoM; 2026 low",
+        "dir": "down"
+      },
+      {
+        "label": "Mobile share of handle",
+        "value": "99.7%",
+        "delta": "$581.2m mobile vs $1.6m retail",
+        "dir": "flat"
+      },
+      {
+        "label": "Gross hold (derived)",
+        "value": "~8.7%",
+        "delta": "vs 10.1% Aug-25; win ~$50.8m (−17%)",
+        "dir": "down"
+      },
+      {
+        "label": "State privilege fees",
+        "value": "~$3.6m",
+        "delta": "−12% YoY ($4.1m); −27% MoM ($4.9m)",
+        "dir": "down"
+      },
+      {
+        "label": "FanDuel handle share",
+        "value": "32.0%",
+        "delta": "#1 ($186.4m) vs DraftKings 28.0% ($163.4m)",
+        "dir": "up"
+      },
+      {
+        "label": "Since launch (Sep-21)",
+        "value": "$37.1bn handle",
+        "delta": "$202.5m privilege fees (0.55% of handle)",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "16 Oct 2026 (ADG Event Wagering & Fantasy Sports Revenue Reports – August 2026, unaudited)",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.63
+  },
+  {
+    "key": "fdj united|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-27T18:43:27.123Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "FDJ-PA-Q3-2026",
+    "published": "2026-10-27",
+    "company": {
+      "name": "FDJ United",
+      "ticker": "FDJ.PA",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A clean miss and the third guidance cut of 2026: Q3 revenue fell 8.1% to €794m (~$889m), ~5% below the ~€839m (~$940m) consensus, and the FY26 outlook moved to a mid-single-digit revenue decline, low-single-digit GGR decline and a ~23% recurring EBITDA margin (from 24.5% in February). Unlike Q1/Q2, the Q3 deterioration was not tax-driven (only ~€10m of incremental levies landed in the quarter) — it was the French lottery (draw games -17%), a ~80% retail sports payout and ~10% lower point-of-sale traffic, which makes the \"defensive lottery\" leg of the thesis look less defensive just as the online leg (UK GGR -24%) remains structurally impaired.",
+    "kpis": [
+      {
+        "label": "Q3 revenue",
+        "value": "€794m (~$889m)",
+        "delta": "-8.1% YoY / -10.5% QoQ; ~5% below consensus",
+        "dir": "down"
+      },
+      {
+        "label": "Q3 GGR",
+        "value": "€1,950m (~$2.18bn)",
+        "delta": "-6.1% YoY / -8.8% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "9M revenue",
+        "value": "€2,576m (~$2.89bn)",
+        "delta": "-5.6% YoY (GGR -2.8%)",
+        "dir": "down"
+      },
+      {
+        "label": "FY26 rec. EBITDA margin guide",
+        "value": "~23%",
+        "delta": "from 23-24% (Jul) and 24.5% (Feb)",
+        "dir": "down"
+      },
+      {
+        "label": "9M incremental gaming tax",
+        "value": "€62m (~$69m)",
+        "delta": "FY now >€70m (~$78m); only ~€10m in Q3",
+        "dir": "up"
+      },
+      {
+        "label": "Net financial debt (H1-26)",
+        "value": "€1,964m (~$2.20bn)",
+        "delta": "~2.3x LTM rec. EBITDA (est.) vs 1.9x at Dec-25",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "21 Oct 2026 (after market close, 17:45 CET) — Q3/9M 2026 revenue trading update",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.08
+  },
+  {
+    "key": "sands china|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-27T18:54:35.397Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "1928-HK-Q3-2026",
+    "published": "2026-10-27",
+    "company": {
+      "name": "Sands China Ltd",
+      "ticker": "1928.HK",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A volume-and-share quarter that did not reach the P&L. Sands China grew gaming volumes in every segment (rolling +31%, non-rolling drop +11%, slot/ETG handle +26% YoY) and lifted mass GGR share to 26.1% – its best since Q4-23 – yet luck-adjusted EBITDA of $518m was -13.5% YoY and flat QoQ, because Londoner's premium-mass hold collapsed 480bps and the cost base is now ~$100m/quarter heavier. The reported +23% QoQ EBITDA rebound to $529m is almost entirely hold normalisation; shares fell 4.5% to a fresh 52-week low of HK$10.86 (~$1.39).",
+    "kpis": [
+      {
+        "label": "Net revenue (SCL, US GAAP)",
+        "value": "$1.93bn",
+        "delta": "+1.4% YoY / +8.4% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. property EBITDA",
+        "value": "$529m",
+        "delta": "-12.0% YoY / +23.0% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA margin",
+        "value": "27.3%",
+        "delta": "-420bps YoY / +330bps QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Hold-adjusted EBITDA (3.3% RC hold)",
+        "value": "$518m",
+        "delta": "-13.5% YoY / +0.2% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Net income (SCL, US GAAP)",
+        "value": "$191m",
+        "delta": "-29.8% YoY / +78.5% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Macau mass GGR share",
+        "value": "26.1%",
+        "delta": "Highest since Q4-23",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "22 Oct 2026 (HKEX announcement, 04:00 HKT; LVS release 21 Oct 2026 after US close)",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.09
   }
 ]
