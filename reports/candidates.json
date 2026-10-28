@@ -646,5 +646,38 @@
       "https://focusgn.com/africa/online-gambling-participation-ranking-africa-gwi"
     ],
     "seen": "2026-10-28"
+  },
+  {
+    "key": "caesars entertainment|Q3 2026",
+    "type": "company",
+    "company": "Caesars Entertainment",
+    "ticker": "CZR",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237900-caesars-entertainment-widens-net-loss-in-q3/"
+    ],
+    "seen": "2026-10-28"
+  },
+  {
+    "key": "juris|china|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "China",
+    "authority": "Ministry of Finance",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237772-china-lottery-sales-jump-by-27-in-september/"
+    ],
+    "seen": "2026-10-28"
+  },
+  {
+    "key": "juris|macau|JANUARY-SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Macau",
+    "authority": "DSEC",
+    "period": "JANUARY-SEPTEMBER 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/10/26/127007-macau-visitor-arrivals-climb-85-through-september-while-gaming-revenue-grows-32-"
+    ],
+    "seen": "2026-10-28"
   }
 ]
