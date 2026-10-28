@@ -699,5 +699,16 @@
     "period": "FIRST THREE MONTHS",
     "urls": [],
     "seen": "2026-10-28"
+  },
+  {
+    "key": "betr entertainment|Q1 FY2027",
+    "type": "company",
+    "company": "betr Entertainment Limited",
+    "ticker": "BBT.AX",
+    "period": "Q1 FY2027",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237915-betr-reports-strong-wagering-growth-in-fiscal-first-quarter/"
+    ],
+    "seen": "2026-10-28"
   }
 ]
