@@ -679,5 +679,25 @@
       "https://www.yogonet.com/international/news/2026/10/26/127007-macau-visitor-arrivals-climb-85-through-september-while-gaming-revenue-grows-32-"
     ],
     "seen": "2026-10-28"
+  },
+  {
+    "key": "gig software|Q3 2026",
+    "type": "company",
+    "company": "GiG Software",
+    "ticker": null,
+    "period": "Q3 2026",
+    "urls": [
+      "https://next.io/news/results/q3-2026-gig-software-profit-plummets/"
+    ],
+    "seen": "2026-10-28"
+  },
+  {
+    "key": "juris|alberta|FIRST THREE MONTHS",
+    "type": "jurisdiction",
+    "market": "Alberta",
+    "authority": null,
+    "period": "FIRST THREE MONTHS",
+    "urls": [],
+    "seen": "2026-10-28"
   }
 ]
