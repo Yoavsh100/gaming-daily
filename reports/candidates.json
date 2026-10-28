@@ -1,59 +1,5 @@
 [
   {
-    "key": "betfred|FY26",
-    "company": "Betfred",
-    "ticker": null,
-    "period": "FY26",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/10/13/126811-betfred-posts-85-million-pretax-profit-as-uk-tax-hikes-prompt-shop-closures-and-sponsorship-cuts",
-      "https://www.gamingintelligence.com/finance/237176-betfred-posts-annual-turnover-of-995-6-million-in-fy26/"
-    ],
-    "seen": "2026-10-13"
-  },
-  {
-    "key": "singapore pools|FY26",
-    "company": "Singapore Pools",
-    "ticker": null,
-    "period": "FY26",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237128-singapore-pools-turnover-nears-s13-5-billion-in-fy26/"
-    ],
-    "seen": "2026-10-13"
-  },
-  {
-    "key": "betfred|FY 2025-26",
-    "company": "Betfred",
-    "ticker": null,
-    "period": "FY 2025-26",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/10/13/126811-betfred-posts-85-million-pretax-profit-as-uk-tax-hikes-prompt-shop-closures-and-sponsorship-cuts",
-      "https://www.gamingintelligence.com/finance/237176-betfred-posts-annual-turnover-of-995-6-million-in-fy26/",
-      "https://focusgn.com/betfred-reports-strong-results-while-retail-betting-remains-biggest-contributor"
-    ],
-    "seen": "2026-10-13"
-  },
-  {
-    "key": "betfred|FY 2026",
-    "company": "Betfred",
-    "ticker": null,
-    "period": "FY 2026",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/10/13/126811-betfred-posts-85-million-pretax-profit-as-uk-tax-hikes-prompt-shop-closures-and-sponsorship-cuts",
-      "https://www.gamingintelligence.com/finance/237176-betfred-posts-annual-turnover-of-995-6-million-in-fy26/"
-    ],
-    "seen": "2026-10-13"
-  },
-  {
-    "key": "singapore pools|FY 2026",
-    "company": "Singapore Pools",
-    "ticker": null,
-    "period": "FY 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237128-singapore-pools-turnover-nears-s13-5-billion-in-fy26/"
-    ],
-    "seen": "2026-10-13"
-  },
-  {
     "key": "pointsbet|H1 FY2027",
     "company": "PointsBet Holdings",
     "ticker": "PBH.AX",
@@ -532,7 +478,9 @@
     "market": "Michigan",
     "authority": "Michigan Gaming Control Board",
     "period": "SEPTEMBER 2026",
-    "urls": [],
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237739-michigan-sports-betting-and-igaming-revenue-tops-355-million-in-september/"
+    ],
     "seen": "2026-10-26"
   },
   {
@@ -579,7 +527,8 @@
     "authority": null,
     "period": "SEPTEMBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/237636-new-york-land-based-casinos-win-184-3-million-in-september/"
+      "https://www.gamingintelligence.com/finance/237636-new-york-land-based-casinos-win-184-3-million-in-september/",
+      "https://www.gamingintelligence.com/finance/237880-new-york-posts-2-4-billion-in-mobile-sports-bets-in-september/"
     ],
     "seen": "2026-10-27"
   },
@@ -642,5 +591,60 @@
       "https://www.gamingintelligence.com/finance/237871-star-entertainment-group-shows-strong-ebitda-growth-in-q1-fy27/"
     ],
     "seen": "2026-10-27"
+  },
+  {
+    "key": "star entertainment|Q1 FY2027",
+    "type": "company",
+    "company": "The Star Entertainment Group",
+    "ticker": "SGR.AX",
+    "period": "Q1 FY2027",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237871-star-entertainment-group-shows-strong-ebitda-growth-in-q1-fy27/"
+    ],
+    "seen": "2026-10-28"
+  },
+  {
+    "key": "juris|united states|Q3 2026",
+    "type": "jurisdiction",
+    "market": "United States",
+    "authority": "Citizens",
+    "period": "Q3 2026",
+    "urls": [
+      "https://next.io/news/results/citizens-us-igaming-growth-q3/"
+    ],
+    "seen": "2026-10-28"
+  },
+  {
+    "key": "juris|alberta|FIRST THREE MONTHS OF REGULATED MARKET",
+    "type": "jurisdiction",
+    "market": "Alberta",
+    "authority": null,
+    "period": "FIRST THREE MONTHS OF REGULATED MARKET",
+    "urls": [
+      "https://europeangaming.eu/portal/latest-news/2026/10/27/216866/alberta-igaming-revenue-september-2026/"
+    ],
+    "seen": "2026-10-28"
+  },
+  {
+    "key": "juris|macau|9M 2026",
+    "type": "jurisdiction",
+    "market": "Macau",
+    "authority": "Statistics and Census Service (DSEC)",
+    "period": "9M 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/10/26/127007-macau-visitor-arrivals-climb-85-through-september-while-gaming-revenue-grows-32-"
+    ],
+    "seen": "2026-10-28"
+  },
+  {
+    "key": "juris|south africa|2026",
+    "type": "jurisdiction",
+    "market": "South Africa",
+    "authority": "GWI",
+    "period": "2026",
+    "urls": [
+      "https://focusgn.com/africa/online-gambling-participation-ranking-africa-gwi"
+    ],
+    "seen": "2026-10-28"
   }
 ]
