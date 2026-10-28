@@ -1,0 +1,484 @@
+# Pennsylvania () — SEPTEMBER 2026 Analyst Report
+** · Reporting currency: USD (tables in millions unless stated; market reports natively in USD — no FX conversion required) · Results released 19 Oct 2026 (PGCB September 2026 revenue release)**
+
+> Pennsylvania's September 2026 print ($555.0m, +4.1% YoY) confirms a $7bn-a-year, online-led market: iGaming (+6.8%) and a hold-driven sports betting rebound (+50% taxable revenue on −6% handle) carried a −3.2% retail casino month. The numbers are strong but the rules are tightening — a bipartisan online consumer-protection push (HB 2879, PGCB Regulation 125-258), the post-Supreme Court skill-game shake-out and unlicensed sweepstakes/prediction-market competition define the 2027 agenda far more than tax risk does.
+
+## 1. Executive Summary
+
+- **A $7bn market still compounding.** PGCB reported September 2026 combined gaming revenue of $555,036,870, +4.07% YoY versus $533.3m (−2.6% MoM from August's $569.7m). FY2025/26 (Jul-25 to Jun-26) closed at a record $7,006.0m (+9.6%), the first fiscal year above $7bn, with $3,098.2m returned in taxes and fees (44.2% of GGR, including $110m of slot-licence operation fees).
+- **Online is now the majority channel.** Online products — iGaming $249.3m, online sports taxable revenue $40.3m and fantasy $1.5m — generated $291.1m or 52.5% of September GGR; iGaming alone was 44.9% of the total (+1.2pp YoY). On a fiscal-year basis iGaming was 41.9% of GGR ($2,933.5m) and total online roughly 50%.
+- **iGaming: +6.8% YoY, but decelerating.** September iGaming GGR was $249.3m (+1.5% MoM): slots $197.4m (+9.0%), banking tables $49.7m (−0.6%), poker rake $2.3m (−1.8%). FY2025/26 growth was +18.4%; Q1 FY26/27 (Jul-Sep) is running at $744.0m. iSlots turnover was $5.12bn in the month at a 3.86% post-deduction hold.
+- **Sports betting is a hold story, not a volume story.** Handle fell 6.1% YoY to $798.7m, yet taxable revenue rose 50.5% to $44.7m because gross hold was 9.2% ($73.5m pre-promo) against a weak 3.5% taxable hold in September 2025. Promotional credits deducted were $28.8m (3.6% of handle; 39% of gross revenue). Online took 96.1% of handle and 90.2% of taxable revenue. FY2025/26: revenue $662.9m (+36.0%) on handle $8,448.1m (−3.1%); taxable hold 7.85% vs 5.59%.
+- **Retail casino is flat-to-soft.** Retail slots $196.2m (+2.4%; 24,523 units in service, +192 YoY; win/unit/day ≈ $267) and retail tables $60.2m (−18.1%) gave a combined $256.3m (−3.2% YoY, −8.6% MoM). FY2025/26 retail slots were +0.02% and tables −2.2%: the land-based base is ex-growth and iGaming is where incremental dollars land.
+- **Property league table is iGaming-weighted.** Hollywood Casino at Penn National Race Course reported $113.6m (20.5% of the state; +11.8%) on the back of $99.0m iGaming; Valley Forge $96.6m (17.4%; $69.8m iGaming + $15.8m sports); Rivers Philadelphia $55.7m; Parx $50.1m (−5.6%); Wind Creek Bethlehem $37.5m (−10.3%). Happy Valley Casino (Cat 4, opened April 2026) added $2.0m.
+- **iGaming is a three-licence market.** Penn National 39.7%, Valley Forge (FanDuel) 28.0% and Rivers Philadelphia 15.4% of September iGaming GGR — 83.1% combined; Harrah's (Caesars) 5.4%, Golden Nugget 2.9%, Parx 2.4%, Bally's 2.1%, Presque Isle 1.9%. Mount Airy ceased iGaming in September 2025; Mohegan (−64.6% YoY) and Wind Creek (−34.1%) are shrinking, Live! Philadelphia fell 52.8% over FY2025/26.
+- **Sports betting is a two-brand duopoly.** Valley Forge/FanDuel 37.9% of online taxable revenue (36.7% of online handle) and Hollywood Casino at the Meadows/DraftKings 30.7% (32.7%) — 68.6% together. Penn's York and Morgantown licences took 7.6% and 7.9%; Presque Isle's new online skin bought 5.3% of handle with promo credits equal to 86% of its gross revenue (taxable share 1.8%).
+- **Tax regime: GGR-based and among the heaviest in the US, but stable.** iSlots 54% (34% state + 13% CFA county grants + 5% LSA + 2% LSA); iTables/poker 16%; sports 36% (34% + 2%) of revenue net of promotional credits, plus the 0.25% federal excise on handle; retail slots ~55% statutory (34% state, Race Horse Development Fund ~12%, 5% EDTF, 4% local share) with a 50.6% effective rate in PGCB's September figures; retail tables 16% (17.4% effective); VGTs 52%; DFS 15%. September tax take $242.6m = 43.7% of GGR; iGaming $114.9m (46.1% effective); sports $16.1m.
+- **Promo deductibility materially lowers the effective burden.** Sportsbooks deducted $28.8m of credits in September (≈$10.4m of tax at 36%); the iGaming report implies $67.5m of deductions on slots (wagers $5,115.9m − payouts $4,851.1m − GGR $197.4m), i.e. ~25% of pre-deduction win, so the 54% headline bites on a materially smaller base. Q1 FY26/27 implied iSlots deductions: $213.3m.
+- **Licensing is casino-anchored.** 18 land-based casinos (6 Category 1 racetrack, 5 Category 2 stand-alone, 2 Category 3 resort, 5 Category 4 mini-casinos), 11 online sportsbooks, 17 retail books, 22 iGaming sites, 72 VGT truck stops (5 terminals each) and 7 DFS operators. Fees: interactive gaming certificate $10m for all three verticals (or $4m per vertical, also the Qualified Gaming Entity route for non-casino brands), sports wagering certificate $10m, both renewable at $250k every five years; platform-operator licence $1m/5 yrs ($100k renewal); $10m p.a. slot-licence operation fee for Cat 1/2; $4m bond per interactive certificate.
+- **Skill-game shake-out is the biggest structural event since Act 42.** The PA Supreme Court ruled in June 2026 that the estimated 70,000 'skill games' are slot machines under the Gaming Act and stayed enforcement 120 days; the legislature failed to act by 13 October and Pennsylvania State Police began seizures on 14 October, with Pace-O-Matic remotely disabling machines. This is a direct demand tailwind for licensed slots, VGTs and iGaming from Q4 2026 — until Harrisburg legalises and taxes the devices, which both parties and Gov. Shapiro say they want to do in 2027.
+- **Online consumer-protection push is bipartisan and specific.** HB 2879 (Pennsylvania Online Consumer Protection Act, introduced 21 Oct 2026 by Reps. Khan (D) and Flick (R) alongside a new Problem Gambling Caucus) would ban microbets and same-game parlays, VIP/host programmes and credit-card deposits; impose mandatory daily/monthly loss limits (lower for ages 21–25), a two-deposits-a-day cap, affordability checks above $5,000 in 180 days, a two-hour default daily session, biometric checks at login and for wagers above $500; restrict advertising; and levy 0.75% of online casino and sports revenue for DDAP problem-gambling programmes. It cannot pass before the session ends 30 November, but it is the template for 2027.
+- **PGCB is already moving by regulation.** Proposed Regulation #125-258 (Pennsylvania Bulletin, 11 Jul 2026) would require operators to offer daily/weekly/monthly deposit, spend, wager and time limits at account opening, hourly session pop-ups, monthly responsible-gambling messaging without promotions, direct-marketing opt-outs, account suspension up to a year, monthly self-limit/self-exclusion reporting and an advertising rule for majority-underage audiences. Comments closed 10 August; NCPG is lobbying for limits to be default-on; IRRC review is under way.
+- **The evidence base is state-commissioned.** The Joint State Government Commission's HR60 staff study (14 Jul 2026) ranks a player-data mandate first and recommends a uniform credit-card deposit ban for interactive accounts, mandatory self-limits, curbs on logged-off promotions and VIP programmes. The Penn State/DDAP 2025 Interactive Gaming Assessment (Jan 2026) found up to 30% of PA adults gambled online in 2025 (20% in 2024; ~11% in 2021-22), 2.5–6.4% may be problem gamblers, and >10% used unregulated sites.
+- **Unlicensed competition is on the 2027 docket.** HB 2801 (pre-filed late September for the session opening 5 Jan 2027) would ban online sweepstakes casinos with fines up to $500,000 and PGCB/Attorney General enforcement powers, inside a broader Gaming Act rewrite of fees, taxes and distributions. Prediction markets (Kalshi, Polymarket) operate in PA at 18+ outside PGCB; PGCB told the CFTC on 30 Apr 2026 that sports event contracts 'is sports wagering', while HB 2711 (22 Jul 2026) would instead license them under the Attorney General ($1m fee, 21+).
+- **Fiscal politics favour stability on rates.** The $50.8bn FY2026-27 budget (signed July 2026) contained no gaming tax changes; a record $3.1bn gaming take reduces near-term pressure for rate increases, and the live policy fight is over skill-game taxation (Shapiro has proposed taxing/regulating them in three of four budgets). The November 2026 gubernatorial election is the swing factor.
+- **Payments: card rails today, credit-card ban tomorrow.** Interactive accounts may be funded by credit card (retail slot play cannot be, under 58 Pa. Code), alongside ACH/online banking, debit, e-wallets and cage/prepaid options; PGCB publishes no payment-mix data (n/a). A credit-card ban is the single most probable payments rule change in 2027 (JSG recommendation + HB 2879).
+- **Read-through for B2Tech.** Market access is through a Pennsylvania casino skin or a Qualified Gaming Entity certificate ($4m per vertical) under a 54% slots tax — viable only with scale or as a B2B/platform supplier. iGaming (~$3bn, growing 7–18%) is the prize; sports betting is a FanDuel/DraftKings duopoly where entry is bought with promo (Presque Isle's 86% promo-to-gross). Underwrite 2027 for a credit-card ban, mandatory limits, promo/VIP curbs and a possible 0.75% RG levy rather than for a tax hike.
+
+## 2. Group Financial Summary
+
+| US $m (PGCB-reported gross gaming revenue; sports = taxable revenue net of promo credits) | Sep-26 | MoM | YoY | FY2025/26 | FY YoY |
+|---|---|---|---|---|---|
+| **Gross gaming revenue by product** | | | | | |
+| Total gaming revenue | 555.0 | −2.6% | +4.1% | 7,006.0 | +9.6% |
+| iGaming (slots + tables + poker) | 249.3 | +1.5% | +6.8% | 2,933.5 | +18.4% |
+| iGaming slots | 197.4 | +1.1% | +9.0% | n/a | n/a |
+| iGaming banking tables | 49.7 | +3.2% | −0.6% | n/a | n/a |
+| iGaming poker (rake) | 2.3 | −4.4% | −1.8% | n/a | n/a |
+| Retail slots | 196.2 | −8.3% | +2.4% | 2,441.0 | +0.0% |
+| Retail table games | 60.2 | −9.4% | −18.1% | 908.9 | −2.2% |
+| Sports wagering taxable revenue (retail + online) | 44.7 | +13.7% | +50.5% | 662.9 | +36.0% |
+| Sports wagering handle (memo) | 798.7 | +60.2% | −6.1% | 8,448.1 | −3.1% |
+| Video gaming terminals (truck stops) | 3.2 | −5.2% | −4.9% | 41.6 | +0.6% |
+| Fantasy contests | 1.5 | +45.1% | −23.8% | 18.0 | −5.8% |
+| **Channel mix** | | | | | |
+| Online share of GGR (iGaming + online sports + DFS) | 52.5% | — | — | ~50% | — |
+| iGaming share of GGR | 44.9% | — | +1.2pp | 41.9% | +3.2pp |
+| Online share of sports handle | 96.1% | — | — | n/a | — |
+| **Tax** | | | | | |
+| Tax & local share collected (pre-DoR adjustment) FY figure includes $110m slot-machine licence operation fees funding local share accounts. | 242.6 | −2.6% | n/a | 3,098.2 | n/a |
+| Effective tax / GGR | 43.7% | — | — | 44.2% | — |
+| Tax base & statutory rates | GGR-based: iSlots 54%; iTables/poker 16%; sports 36% of revenue net of promo (+0.25% federal excise on handle); retail slots ~55% statutory / 50.6% effective; retail tables 16%; VGT 52%; DFS 15% | — | — | unchanged in FY2026-27 budget | — |
+| **Licensing** | | | | | |
+| Land-based casinos | 18 (6 Cat 1, 5 Cat 2, 2 Cat 3, 5 Cat 4) | — | +1 (Happy Valley, Apr-26) | 18 | — |
+| Online sportsbooks / retail sportsbooks | 11 / 17 | — | — | 11 / 17 | — |
+| iGaming sites (reporting licensees) | 22 (11) | — | Mount Airy exited Sep-25 | 22 (12 incl. Mount Airy part-year) | — |
+| VGT truck-stop establishments (terminals) | 72 (360) | — | 74 in Sep-25 | 75 at FY-end | — |
+| Key licence fees | iGaming certificate $10m (3 verticals) or $4m per vertical; sports wagering certificate $10m; renewals $250k / 5 yrs; platform operator $1m / 5 yrs; Cat 1/2 slot-licence operation fee $10m p.a.; supplier $85k | — | — | — | — |
+
+## 3. Segment deep-dive — Sports betting (online & retail)
+
+*Handle −6.1% YoY to $798.7m but taxable revenue +50.5% to $44.7m on a 9.2% gross hold; FanDuel and DraftKings hold 69% of online revenue while new entrants buy share with promo.*
+
+### Handle and hold
+
+**Handle fell 6.1% YoY to $798.7m but taxable revenue rose 50.5% to $44.7m on a 9.2% gross hold; the market is structurally a hold story.**
+
+- September 2025 handle was $850.5m; FY2025/26 handle of $8,448.1m was itself 3.1% below the prior year.
+- Operator revenue before promotions was $73.5m; taxable revenue after $28.8m of promotional credits was $44.7m, a 5.6% taxable hold.
+- September 2025 taxable hold was just 3.5% when favourites ran the table.
+- FY2025/26 taxable hold rose to 7.85% from 5.59%, lifting revenue 36% on shrinking volume.
+- Parlay-mix effect is the main growth engine, so HB 2879's proposed SGP and microbet ban matters more than any tax debate.
+
+### Promotional cycle
+
+**September's $28.8m of credits equalled 3.6% of handle and 39% of gross revenue, saving operators roughly $10.4m of tax at the 36% rate.**
+
+- August credits were $11.1m (2.2% of handle); Q1 FY26/27 operators deducted $52.8m on $1,806.8m of handle (2.9%).
+- Pennsylvania taxes sports revenue net of credits at 36% (34% state plus 2% local share); the Commonwealth collected $16.1m in September.
+- Valley Forge (FanDuel) ran 9.2% gross hold with promo at 41% of gross; Meadows (DraftKings) 8.2% and 40%; Harrah's (Caesars) 6.9% and 51%.
+- Presque Isle, whose new online skin lifted FY sports revenue more than tenfold, spent $4.43m of credits against $5.15m gross (86%), leaving $0.72m taxable.
+
+### Online duopoly
+
+**Online took 96.1% of handle ($767.5m) and 90.2% of taxable revenue ($40.3m); FanDuel and DraftKings hold 69% of online revenue.**
+
+- Retail books across 17 locations handled $31.2m and won $4.4m.
+- Valley Forge/FanDuel: 36.7% of online handle and 37.9% of online taxable revenue; Meadows/DraftKings: 32.7% and 30.7%.
+- Penn's other licences (York 7.6%, Morgantown 7.9%, Penn National 5.3% of taxable revenue) host the remaining tier-one skins among 11 live brands.
+- Mohegan's own online book launched 7 Nov 2025; brand-to-licence mapping beyond FanDuel/DraftKings unverified this cycle.
+- BetRivers 3.9%, betPARX 1.9%, Harrah's/Caesars 1.8%; FY2025/26 Valley Forge took 41.1% ($272.6m) and Meadows 28.6% ($189.9m).
+
+### Challenger economics
+
+**Pennsylvania sports betting is a scale game; the top two brands' September promo budgets ($18.8m) exceed every other licensee's gross revenue combined.**
+
+- PGCB footnotes that futures distort month-level hold; Q1 FY26/27 gross hold of 10.4% and taxable hold of 7.5% fit the national parlay shift.
+- The 36% tax plus 0.25% federal excise on handle make low-hold straight-bet books uneconomic.
+- Policy direction (SGP/microbet bans, VIP and push-notification curbs, advertising hours) targets precisely the features driving hold expansion.
+- Prediction markets accepting 18-year-olds on sports event contracts outside PGCB's remit are the other volume leak to watch.
+
+### Regulatory specifics
+
+**Sports wagering requires a casino-held certificate ($10m petition fee; $250k renewal every five years) and a 36% tax on revenue after promotional credits.**
+
+- Online is conducted directly or via a licensed sports wagering operator; Category 4 licensees may petition for separate online certificates.
+- Retail books are permitted at casinos and licensed off-track betting sites (Mohegan Lehigh Valley).
+- There is no handle-based state tax.
+- HB 2879 would add a 0.75% assessment on online sports and casino revenue for problem-gambling programmes.
+
+| Sports wagering (US $m; PGCB FY26/27 Monthly Sports Wagering Report) | Sep-26 | Aug-26 | Sep-25 | Q1 FY26/27 (Jul–Sep) | FY2025/26 |
+|---|---|---|---|---|---|
+| Total handle | 798.7 | 498.5 | 850.5 | 1,806.8 | 8,448.1 |
+| Online handle | 767.5 (96.1%) | 476.9 | n/a | 1,732.8 | n/a |
+| Retail handle | 31.2 | 21.6 | n/a | 74.0 | n/a |
+| Gross revenue before promo credits | 73.5 | 50.5 | n/a | 188.8 | n/a |
+| Promotional credits deducted | 28.8 | 11.1 | n/a | 52.8 | n/a |
+| Taxable revenue | 44.7 | 39.4 | 29.7 | 135.9 | 662.9 |
+| Online taxable revenue | 40.3 (90.2%) | 37.6 | n/a | 127.5 | n/a |
+| Retail taxable revenue | 4.4 | 1.8 | n/a | 8.5 | n/a |
+| Gross hold (pre-promo) % of handle | 9.2% | 10.1% | n/a | 10.4% | n/a |
+| Taxable hold % of handle | 5.6% | 7.9% | 3.5% | 7.5% | 7.8% |
+| Promo credits % of handle | 3.6% | 2.2% | n/a | 2.9% | n/a |
+| Tax: 34% state + 2% LSA | 16.1 | 14.2 | n/a | 48.9 | 238.7 |
+| Online share — Valley Forge / FanDuel (handle; taxable rev) | 36.7%; 37.9% | — | — | — | 41.1% of FY revenue |
+| Online share — Meadows / DraftKings (handle; taxable rev) | 32.7%; 30.7% | — | — | — | 28.6% of FY revenue |
+| Online share — York / Morgantown / Penn National (taxable rev) | 7.6% / 7.9% / 5.3% | — | — | — | 6.3% / 4.9% / 3.9% |
+| Online share — Presque Isle (handle; taxable rev; promo/gross) | 5.3%; 1.8%; 86% | — | — | — | 3.4% of FY revenue (+1,000%) |
+
+## 4. Segment deep-dive — Online casino (iGaming)
+
+*$249.3m GGR (+6.8% YoY) on $8.0bn of monthly turnover; three licences (Penn National, Valley Forge/FanDuel, Rivers Philadelphia) hold 83% and the 54% slots tax is softened by deductible promotions.*
+
+### Revenue and growth
+
+**September iGaming GGR was $249.3m (+6.8% YoY, +1.5% MoM), keeping the largest US market on a ~$3bn annual run-rate but decelerating.**
+
+- Split: $197.4m slots (+9.0%), $49.7m banking tables (−0.6%), $2.3m poker rake (−1.8%).
+- FY2025/26 grew +18.4% to $2,933.5m; Q1 FY26/27 is $744.0m, roughly +8% on the comparable quarter.
+- Maturing player base: Penn State/DDAP found up to 30% of adults gambled online in 2025.
+- Supply consolidation: Mount Airy ceased iGaming in September 2025, Live! Philadelphia lost 52.8% over the fiscal year, Mohegan down 64.6% in September.
+
+### Unit economics and tax
+
+**Online slots turned over $5,115.9m at a 3.86% hold, implying about $67.5m of promotional credits netted off before tax.**
+
+- Players were paid $4,851.1m on slots; implied deductions were ≈25% of pre-deduction win, and $213.3m for Q1 FY26/27.
+- Banking tables turned over $2,897.9m at a 1.71% hold.
+- Tax is 54% on slots (34% state, 13% CFA county grants, 5% local share, 2% local share) and 16% on tables and poker (14% + 2%).
+- Tax produced $114.9m in September (46.1% of iGaming GGR) and $1,337.4m for FY2025/26 (45.6%).
+- Blended effective burden on gross win before promotions is well below the 54% headline, sustaining double-digit growth under the highest US product tax.
+
+### Concentration
+
+**Three licences hold 83%: Penn National $99.0m (39.7%; +12.9%), Valley Forge/FanDuel $69.8m (28.0%; +5.1%), Rivers Philadelphia $38.5m (15.4%; +8.6%).**
+
+- Penn National's licence hosts multiple third-party skins alongside Hollywood; skin roster unverified this cycle.
+- Harrah's Philadelphia (Caesars) $13.4m (5.4%; +23.0%).
+- Next tier: Golden Nugget $7.4m (2.9%), Parx/betPARX $5.9m, Bally's $5.4m (+41.7%), Presque Isle $4.7m (+34.8%), Mohegan $2.2m, Live! Philadelphia $2.0m, Wind Creek $1.1m.
+- FY2025/26 shares were 38.6% / 27.7% / 15.8% / 5.5%; poker is a $2.3m niche across four licensees.
+
+### Access and cost
+
+**Certificates cost $10m for all three verticals or $4m per vertical, with a $4m bond, $250k renewals every five years and a $1m platform licence.**
+
+- Available to the 18 casino licensees and Qualified Gaming Entities; platform licence renewal is $100k.
+- PGCB counts 22 live iGaming sites across 11 reporting licensees, about two skins per licence on average.
+- Exits of Mount Airy's and Live!'s partners show skins can be repriced or released.
+- B2C entry only works at tier-one scale or with differentiated product; for B2B suppliers the 22-site, $3bn market is attractive at an $85k licence ($75k renewal).
+
+### Regulatory overlay
+
+**Regulation is tightening on product and marketing rather than tax, and proposed measures would compress iGaming yield per active, especially high-value cohorts.**
+
+- Regulation 125-258 would require deposit, spend, wager and time-limit options at onboarding, hourly session pop-ups, monthly RG messaging and marketing opt-outs.
+- HR60 and HB 2879 add mandatory loss limits (lower for 21–25s), two-deposit daily cap, affordability checks above $5,000 per 180 days, biometric verification, VIP/host ban and credit-card ban.
+- The state's own research says high-value cohorts generate the bulk of revenue.
+- HB 2801's sweepstakes ban would remove unlicensed competition.
+
+| Interactive gaming (US $m; PGCB FY26/27 Monthly Interactive Gaming Report) | Sep-26 | Aug-26 | Sep-25 | YoY | Q1 FY26/27 (Jul–Sep) |
+|---|---|---|---|---|---|
+| iGaming GGR total | 249.3 | 245.7 | 233.4 | +6.8% | 744.0 |
+| Interactive slots GGR | 197.4 | 195.2 | 181.1 | +9.0% | 591.8 |
+| Interactive slots wagers (turnover) | 5,115.9 | 5,054.7 | n/a | n/a | 15,121.3 |
+| Interactive slots hold on wagers | 3.86% | 3.86% | n/a | — | 3.91% |
+| Implied slots deductions (wagers − payouts − GGR) Not a reported line; derived from PGCB wagers, amount won and gross revenue. Treat as promotional credits and other adjustments. | 67.5 | 82.9 | n/a | n/a | 213.3 |
+| Interactive banking tables GGR | 49.7 | 48.1 | 50.0 | −0.6% | 145.2 |
+| Interactive tables wagers | 2,897.9 | 2,569.9 | n/a | n/a | 8,073.0 |
+| Interactive poker rake | 2.3 | 2.4 | 2.3 | −1.8% | 7.0 |
+| iGaming tax (54% slots / 16% tables & poker) | 114.9 | n/a | n/a | n/a | 343.9 |
+| Effective tax / iGaming GGR | 46.1% | — | — | — | 46.2% |
+| Share — Penn National licence | 39.7% | — | 37.6% | +12.9% GGR | — |
+| Share — Valley Forge (FanDuel) | 28.0% | — | 28.4% | +5.1% GGR | — |
+| Share — Rivers Philadelphia (BetRivers) | 15.4% | — | 15.2% | +8.6% GGR | — |
+| Share — Harrah's (Caesars) | 5.4% | — | 4.7% | +23.0% GGR | — |
+| Top-3 licence share | 83.1% | — | 81.2% | — | — |
+| Live iGaming sites / reporting licensees | 22 / 11 | — | — / 12 | Mount Airy exited | — |
+
+## 5. Segment deep-dive — Retail casino, VGTs & fantasy
+
+*Land-based GGR $256.3m (−3.2% YoY) with tables −18.1%; retail slots flat for three fiscal years — but the October removal of ~70,000 unlicensed skill games is the first genuine demand tailwind in years.*
+
+### Land-based performance
+
+**Land-based GGR was $256.3m (−3.2% YoY): slots $196.2m (+2.4%) and tables $60.2m (−18.1%), with retail slots flat for three fiscal years.**
+
+- Slots were −8.3% MoM on August's seasonally stronger $213.9m; 24,523 machines in service (+192 YoY) at roughly $267 win per unit per day versus $262.
+- FY2025/26 slot GGR of $2,441.0m was +0.02% and essentially unchanged since FY2021/22 ($2,410m).
+- Tables were $908.9m in FY2025/26 (−2.2%), down from $1,015.7m in FY2021/22.
+- September table drops: Wind Creek −23.9%, Parx −29.1%, Rivers Pittsburgh −45.4%, Live! Philadelphia −15.1%; iTables GGR ($49.7m) is now 83% of retail tables.
+
+### Property dynamics
+
+**Parx leads retail slots ($30.6m; FY $375.2m) while Category 4 mini-casinos are small but carry sports wagering certificates hosting national sportsbooks.**
+
+- Wind Creek Bethlehem $22.1m slots and table leader at $14.1m; Rivers Pittsburgh $20.1m; Mohegan Pennsylvania $14.4m; Mount Airy $13.2m.
+- Category 4: Hollywood York $6.5m slots, Hollywood Morgantown $5.1m, Live! Pittsburgh $7.7m, Parx Shippensburg $3.3m, Happy Valley $1.6m slots and $0.4m tables in its sixth month.
+- Penn's York and Morgantown licences host nationally scaled online sportsbooks; Nemacolin (Category 3) is immaterial at $2.5m.
+
+### Floor taxation
+
+**Floor taxation is the heaviest in the country: September slot tax of $99.3m was 50.6% of slot GGR and table tax $10.5m was 17.4%.**
+
+- Statutory slot stack: 34% state, ~12% Race Horse Development Fund, 5% EDTF, 4% local share, with the municipal 2% replaced for Category 1/2 by a $10m annual fee.
+- Table tax is 14% state + 2% local share; fully automated electronic tables are taxed at a higher rate [unverified].
+- FY2025/26 slot tax including mandated fees was $1,233.9m and table tax $153.9m.
+
+### VGTs and fantasy
+
+**Truck-stop VGTs produced $3.2m (−4.9%) in September and $41.6m in FY2025/26 (+0.6%), taxed at 52% ($1.65m); fantasy was $1.5m (−23.8%).**
+
+- 72 qualified establishments with the maximum five terminals each (74 a year earlier; 75 at FY-end).
+- Marquee by Penn operates 36 sites with 67% of revenue; J&J Ventures 17, Jango 15, Venture Gaming 4.
+- Fantasy FY revenue $18.0m (−5.8%), 75% DraftKings and 21% FanDuel, taxed at 15%.
+
+### Skill-game swing factor
+
+**October removal of ~70,000 unlicensed skill games is the first genuine demand tailwind in years, but likely temporary pending 2027 re-legalisation.**
+
+- Pennsylvania Supreme Court ruled in June 2026 the terminals are slot machines; State Police began enforcement on 14 October after the 13 October deadline lapsed.
+- Largest supplier Pace-O-Matic remotely disabled its machines; casino and VGT slot play should capture displaced demand from Q4 2026.
+- House Speaker McClinton, Senate Republican leaders and Gov. Shapiro all favour taxing and regulating, so a licensed regime is likely in 2027.
+- Operators should model the Q4 2026–H1 2027 window as a temporary, not permanent, retail uplift.
+
+| Land-based, VGT & fantasy (US $m; PGCB) | Sep-26 | YoY | Aug-26 | FY2025/26 | FY YoY |
+|---|---|---|---|---|---|
+| Retail slots GGR | 196.2 | +2.4% | 213.9 | 2,441.0 | +0.0% |
+| Slot machines in operation | 24,523 | +192 units | n/a | n/a | n/a |
+| Win per unit per day (derived) | ~$267 | +1.6% | n/a | n/a | n/a |
+| Retail table games GGR | 60.2 | −18.1% | 66.4 | 908.9 | −2.2% |
+| Retail casino GGR (slots + tables) | 256.3 | −3.2% | 280.3 | 3,349.9 | −0.6% |
+| Retail sports wagering taxable revenue | 4.4 | n/a | 1.8 | n/a | n/a |
+| VGT revenue (72 truck stops × 5 terminals) | 3.2 | −4.9% | 3.4 | 41.6 | +0.6% |
+| Fantasy contests revenue | 1.5 | −23.8% | 1.0 | 18.0 | −5.8% |
+| Slot tax (50.6% effective; ~55% statutory) | 99.3 | n/a | n/a | 1,233.9 (incl. fees) | n/a |
+| Table tax (17.4% effective; 16% statutory) | 10.5 | n/a | n/a | 153.9 | n/a |
+| VGT tax (52%) / DFS tax (15%) | 1.65 / 0.22 | n/a | n/a | 21.6 / 2.7 | n/a |
+| Slot leaders — Parx / Wind Creek / Rivers Pittsburgh | 30.6 / 22.1 / 20.1 | +5.7% / +3.1% / −3.1% | — | 375.2 / 277.0 / 255.3 | −0.7% / −1.7% / −1.6% |
+| Table leaders — Wind Creek / Parx / Live! Philadelphia | 14.1 / 11.9 / 7.3 | −23.9% / −29.1% / −15.1% | — | 239.9 / 196.4 / 105.5 | −3.3% / +0.0% / +1.3% |
+| Happy Valley Casino (Cat 4, opened Apr-26) total | 2.0 | n/a | 2.3 | 6.9 (3 months) | n/a |
+| Skill games (unlicensed) — est. terminals PA Supreme Court ruling June 2026; estimate cited by Spotlight PA. Not PGCB-regulated. | ~70,000; enforcement from 14 Oct 2026 | — | — | — | — |
+
+## 6. Segment deep-dive — Licensing, tax & operator landscape
+
+*Casino-anchored licensing (18 licensees as gatekeepers), GGR-based taxes of 54%/16%/36% unchanged in the FY2026-27 budget, and a record $3.1bn take that lowers near-term rate risk.*
+
+### Enabling framework
+
+**The Gaming Act (4 Pa.C.S., 2004), expanded by Act 42 of 2017, makes PGCB the single regulator and 18 casino licensees the gatekeepers to all online products.**
+
+- Lottery, including iLottery, sits with the Department of Revenue outside PGCB statistics.
+- Licences capped by category: six Category 1, five Category 2, two Category 3, five Category 4; Happy Valley opened April 2026 as the eighteenth casino.
+- Interactive and sports wagering certificates are issued to casino licensees; QGEs can petition at $4m per vertical when unclaimed, as Golden Nugget and Bally's did.
+
+### Fees
+
+**Fees are front-loaded and modest relative to revenue: $10m per interactive or sports certificate, $250k renewals every five years and a $4m bond.**
+
+- Interactive certificate covers slots, tables and poker ($10m) or $4m each; platform licence $1m with $100k renewals; suppliers $85k/$75k.
+- $10m annual slot-machine licence operation fee for Category 1/2 casinos funds local share accounts ($110m in FY2025/26).
+- Principals and key employees individually licensed ($2,500/$1,500 under QGE process); table games required a one-time certificate fee ($2.5m for Category 3 per AGA).
+- Servers and operations must be in Pennsylvania; there is no local-ownership requirement.
+
+### Tax structure
+
+**Tax is on GGR, never turnover: online slots 54%, online tables/poker 16%, sports 36% net of promotions; FY2025/26 take was a record $3,098.2m (44.2%).**
+
+- Online slots: 34% state, 13% CFA county grants, 5% and 2% local share; sports 34% + 2% plus 0.25% federal excise on handle.
+- Retail slots roughly 55% statutory (50.6% effective in September); retail tables 16% (17.4% effective); VGTs 52%; fantasy 15% of adjusted revenue.
+- September 2026 produced $242.6m of tax and local share (43.7% of GGR).
+- FY2025/26: slots $1,233.9m, iGaming $1,337.4m, sports $238.7m, tables $153.9m, VGT $21.6m, DFS $2.7m, funding property-tax relief, local grants, racing and General Fund.
+
+### Operator landscape
+
+**The landscape is concentrated and casino-controlled: Penn Entertainment ≈29% of state revenue, Boyd's Valley Forge $96.6m (17.4%) via FanDuel.**
+
+- Penn: Penn National $113.6m, Meadows $27.5m, York $10.6m, Morgantown $8.9m plus Marquee VGTs.
+- Rush Street $81.2m; Greenwood $53.6m; Wind Creek $37.5m; Cordish $30.3m; Caesars $24.4m; Mohegan $18.8m; Mount Airy $15.8m; Presque Isle $14.2m.
+- QGEs: Golden Nugget $7.4m, Bally's $5.4m.
+- FY2025/26 iGaming shares: Penn National 38.6%, Valley Forge 27.7%, Rivers Philadelphia 15.8%; sports: Valley Forge 41.1%, Meadows 28.6%; 11 sportsbook brands and 22 iGaming sites.
+
+### Fiscal direction
+
+**The $50.8bn FY2026-27 budget contained no gaming tax changes and the record take reduces appetite for rate increases; shelf space is the real entry risk.**
+
+- HB 2801 (2027 session) is drafted as a Gaming Act rewrite 'revising licensing fees, taxes and revenue distributions' alongside its sweepstakes ban.
+- Skill-game legalisation will set a new terminal tax rate; Shapiro has proposed taxing the devices in three of four budgets, the rate being the sticking point.
+- HB 2879 would add a 0.75% RG assessment on online revenue.
+- Access depends on an incumbent casino partner or QGE certificate, and skins have been released (Mount Airy, Live!) rather than added.
+
+| Licensing & tax regime (PGCB, 4 Pa.C.S., AGA fact sheet) | Rate / fee | Base / term | Evidence |
+|---|---|---|---|
+| **Tax rates** | | | |
+| Interactive slots | 54% (34% state + 13% CFA county grants + 5% LSA + 2% LSA) | GGR net of promotional credits | PGCB FY26/27 iGaming report tax lines |
+| Interactive tables & poker | 16% (14% state + 2% LSA) | GGR / rake | PGCB iGaming report |
+| Sports wagering (retail & online) | 36% (34% state + 2% LSA) + 0.25% federal excise on handle | Revenue net of promotional credits | PGCB sports wagering report; IRC §4401 |
+| Retail slots | ~55% statutory (34% state, ~12% RHDF, 5% EDTF, 4% local); 50.6% effective Sep-26 | Gross terminal revenue | PGCB Sep-26 release; 4 Pa.C.S. §1403 (via gamblingatlas) |
+| Retail table games | 16% (14% + 2%); 17.4% effective Sep-26 | GGR | PGCB Sep-26 release |
+| Video gaming terminals | 52.0% | Gross terminal revenue | PGCB Sep-26 ($1.65m / $3.18m) |
+| Fantasy contests | 15.0% | Adjusted revenue | PGCB Sep-26 ($0.22m / $1.49m) |
+| **Licence fees** | | | |
+| Interactive gaming certificate | $10m (slots + tables + poker) or $4m per vertical; QGE $4m per vertical; $4m bond per certificate | 5 years; $250k renewal | PGCB renewal form; PGCB QGE process; AGA |
+| Sports wagering certificate | $10m one-time petition fee | 5 years; $250k renewal | PGCB renewal form; AGA |
+| Interactive gaming operator (platform) licence | $1m | 5 years; $100k renewal | AGA fact sheet |
+| Slot-machine licence operation fee (Cat 1 & 2) | $10m per annum per casino ($110m FY25/26) | Funds local share accounts | PGCB FY25/26 release; AGA |
+| Supplier licence | $85k initial / $75k renewal | — | AGA fact sheet |
+| Category 3 table games certificate | $2.5m one-time | — | AGA fact sheet |
+| **Market structure** | | | |
+| Casinos / online SB / retail SB / iGaming sites / VGT sites / DFS | 18 / 11 / 17 / 22 / 72 / 7 | ~16,000 casino jobs | PGCB 2025-26 Annual Report release (30 Sep 2026) |
+| Top licensees by Sep-26 total revenue | Penn National $113.6m (20.5%); Valley Forge $96.6m (17.4%); Rivers Phila $55.7m; Parx $50.1m; Wind Creek $37.5m | — | PGCB Sep-26 release |
+| FY2026-27 state budget | $50.8bn signed Jul-26; no gaming tax changes; skill games unaddressed | — | Spotlight PA |
+
+## 7. Segment deep-dive — Responsible gambling, payments & regulatory direction
+
+*The 2027 agenda is written: PGCB Regulation 125-258, HB 2879's mandatory limits/credit-card and VIP bans, a sweepstakes ban (HB 2801), unresolved prediction-market jurisdiction and skill-game re-legalisation.*
+
+### Evidence base
+
+**RG is moving from opt-in tools to prescriptive controls, driven by Penn State/DDAP findings that up to 30% of adults gambled online in 2025.**
+
+- Online gambling participation was 20% in 2024 and ~11% in 2021-22; 2.5–6.4% of Pennsylvanians may be problem gamblers.
+- Dual-mode players carry the highest risk; more than 10% of adults used unregulated sites.
+- JSG HR60 study (14 July 2026) recommends a data mandate, credit-card deposit ban, mandatory loss/session/deposit-count limits, promo bans to logged-off customers and VIP curtailment.
+- Slot play is already card-free under 58 Pa. Code; in-game betting restrictions received only passing mention.
+
+### Regulation 125-258
+
+**PGCB's proposed Regulation 125-258 mandates limit tools, hourly pop-ups and marketing opt-outs; final adoption in 2027 is the base case.**
+
+- Published 11 July 2026; comments closed 10 August; IRRC review in progress.
+- Requires daily, weekly and monthly deposit, spend, wager and time limits at account opening, separately or jointly for iGaming and sports.
+- Hourly pop-ups players must dismiss, monthly ad-free help messaging, direct-marketing opt-out, suspension up to a year, monthly reporting, under-age advertising rule.
+- Greenwood (Parx) filed comments; the National Council on Problem Gambling (29 July) presses for default-on limits.
+
+### HB 2879
+
+**HB 2879 would ban microbets, SGPs, VIP programmes and credit-card funding; it will not pass in 2025-26 but is the reference text for 2027.**
+
+- Introduced 21 October 2026 by Reps. Tarik Khan (D) and Jamie Flick (R); referred to House Gaming Oversight.
+- Mandates daily and monthly loss limits (lower for 21–25s), two deposits per day, affordability checks above $5,000 in 180 days, two-hour default sessions with 72-hour wait.
+- Biometric verification at login and for wagers above $500, advertising-hour limits, athlete/celebrity ad bans, AI promo rules, 0.75% levy for DDAP.
+- Two House session days remain before 30 November with no carry-over; bipartisan sponsorship and the new Problem Gambling Caucus matter for 2027.
+- Advertising is otherwise governed by PGCB regulations and self-regulation; there is no statutory watershed today.
+
+### Payments
+
+**A credit-card deposit ban has three independent sponsors and should be treated as probable within 12–18 months.**
+
+- PGCB publishes no payment-mix statistics (n/a); accounts may be funded by credit card, debit, ACH, e-wallets, cage or prepaid; cash withdrawals at partner cages.
+- Knock-on effects on first-deposit conversion and on share of deposits routed through debit/ACH.
+- Mandatory affordability checks above $5,000 per 180 days would formalise source-of-funds at a lower threshold than most US states.
+
+### Competitive fronts
+
+**Sweepstakes ban (HB 2801), unresolved prediction-market jurisdiction and skill-game re-legalisation shape 2027 competitive intensity.**
+
+- HB 2801 (Rep. Russ Diamond, four co-sponsors, 5 January 2027 session) outlaws dual-currency sweepstakes casinos with fines up to $500,000 — net positive for licensees.
+- Kalshi and Polymarket accept Pennsylvanians 18+ under CFTC designation; PGCB has not issued a cease-and-desist and HB 2711 would license such markets at $1m with a 21+ floor.
+- ~70,000 skill terminals ordered dark from 14 October 2026; the tax rate is the unresolved variable in a 2027 regulated regime.
+- The November 2026 gubernatorial election (Shapiro vs Garrity) determines who signs it.
+
+> “is sports wagering” — PGCB
+
+| Regulatory pipeline (status as of 28 Oct 2026) | Status | Key provisions | Operator impact |
+|---|---|---|---|
+| PGCB proposed Regulation #125-258 (compulsive & problem gaming) | Published PA Bulletin 11 Jul 2026; comments closed 10 Aug; IRRC review; not final | Opt-in deposit/spend/wager/time limits at onboarding; hourly pop-ups; monthly RG messaging; marketing opt-out; suspension ≤1 yr; monthly reporting; under-age-audience ad rule | Moderate; UX and CRM changes; NCPG pushing default-on limits |
+| HB 2879 — PA Online Consumer Protection Act | Introduced 21 Oct 2026 (Khan D / Flick R); House Gaming Oversight; session ends 30 Nov — will not pass; 2027 template | Ban microbets, SGPs, VIP programmes, credit-card deposits, auto-wagering; mandatory loss limits (lower 21–25); 2 deposits/day; affordability check >$5k/180d; 2-hr default session; biometrics >$500; ad curbs; 0.75% RG levy | High if enacted: hits parlay hold, VIP yield, deposit conversion; +0.75pp effective tax |
+| HB 2801 — online sweepstakes ban & Gaming Act rewrite | Pre-filed late Sep 2026 for 5 Jan 2027 session; House Gaming Oversight (sponsor is co-chair) | Prohibit dual-currency sweepstakes casinos; fines ≤$500k; PGCB/AG powers; revisions to fees, taxes, distributions | Positive (removes unlicensed competition); watch fee/tax language |
+| HB 2711 — prediction markets | Introduced 22 Jul 2026; House Consumer Protection cttee; no movement | AG oversight (not PGCB); 21+; $1m licence + $1m annual; insider-trading rules | Legitimises a sports-contract channel outside PGCB tax; PGCB opposed |
+| Skill games — PA Supreme Court ruling | Ruled Jun 2026 (slot machines under Gaming Act); 120-day stay to 13 Oct; PSP enforcement from 14 Oct 2026 | ~70,000 terminals illegal outside casinos/VGT truck stops; Pace-O-Matic disabled machines; 6 operator agreements | Q4-26/H1-27 tailwind to licensed slots/VGT/iGaming; legalisation + tax likely 2027 |
+| JSG HR60 staff study | Published 14 Jul 2026 | Player-data mandate; credit-card ban; mandatory limits; no logged-off promos; VIP curbs | Evidence base for HB 2879 / Reg 125-258 |
+| Penn State / DDAP 2025 Interactive Gaming Assessment | Published Jan 2026 (Act 42-funded) | Up to 30% of adults gambled online (20% 2024; ~11% 2021-22); 2.5–6.4% problem gamblers; >10% used unregulated sites | Political fuel for RG mandates |
+| Credit-card deposits | Permitted for interactive accounts; prohibited for retail slot play (58 Pa. Code) | Ban proposed by JSG and HB 2879 | Probable within 12–18 months |
+| Advertising | PGCB regulation + proposed under-age-audience rule; no statutory watershed | HB 2879: hours restriction; no athletes/celebrities/influencers appealing to minors; AI-promo rules | Watch 2027 |
+| FY2026-27 budget / tax rates | $50.8bn signed Jul 2026; no gaming tax changes | 54% / 16% / 36% unchanged | Low near-term tax risk |
+
+## 8. Highlights & Lowlights
+
+**Highlights**
+
+- Scale and penetration: $7.0bn FY2025/26 GGR (+9.6%), online above 50% of revenue, iGaming $2.93bn (+18.4%) and still +6.8% in September — the deepest regulated online casino pool in the US for any supplier or skin partner. _(structural)_
+- Skill-game removal: ~70,000 unlicensed terminals ordered dark from 14 Oct 2026 after the Supreme Court ruling — a first genuine demand tailwind for licensed slots (24,523 units, flat for three years), VGTs and iGaming through at least H1 2027. _(one-off)_
+- Sports betting hold expansion: taxable hold 7.85% in FY2025/26 vs 5.59%, September gross hold 9.2% — revenue +36% FY and +50% YoY in September on declining handle, so the revenue pool grows without volume. _(structural)_
+- Promotional deductibility: $28.8m of sports credits and an implied ~$67.5m of iSlots deductions netted off before tax in September — the 54%/36% headline rates bite on a materially smaller base than gross win. _(structural)_
+- Sweepstakes ban (HB 2801) pre-filed for the January 2027 session with $500k fines and PGCB/AG enforcement — would remove the main unlicensed online casino competitor; >10% of adults currently use unregulated sites. _(early)_
+- Qualified Gaming Entity route: non-casino brands can hold iGaming certificates at $4m per vertical (Golden Nugget, Bally's precedent) and released skins (Mount Airy, Live!) create shelf space; supplier licence is only $85k. _(structural)_
+- Fiscal stability: FY2026-27 budget left 54%/16%/36% untouched and a record $3.1bn take lowers the political appetite for rate increases in 2027. _(mixed)_
+
+**Lowlights**
+
+- Heaviest tax stack in US iGaming: 54% on online slots, 46% blended effective on iGaming GGR, 36% on sports plus 0.25% federal excise, ~55% statutory on retail slots — margins only work at tier-one scale. _(structural)_
+- Concentration: top three iGaming licences hold 83.1%; FanDuel and DraftKings hold 68.6% of online sports revenue and spent $18.8m on promos in September — more than every other licensee's gross revenue combined. Presque Isle's new skin needed promo equal to 86% of gross to reach 5% of handle. _(structural)_
+- Consumer-protection pipeline: HB 2879 (SGP/microbet ban, VIP ban, credit-card ban, mandatory loss limits, affordability checks >$5k/180d, biometrics, 0.75% RG levy) plus PGCB Regulation 125-258 and the JSG HR60 recommendations — bipartisan, evidence-backed and aimed at the exact drivers of current yield. _(governance)_
+- Volume leakage: sports handle −6.1% YoY in September and −3.1% over FY2025/26 while prediction markets (Kalshi, Polymarket) take sports event contracts from 18-year-olds outside PGCB's tax and RG regime; PGCB has no enforcement tool yet. _(watch)_
+- Retail erosion: retail tables −18.1% YoY in September and −2.2% FY; retail casino GGR −3.2%; land-based slots have been flat since FY2021/22 — the skill-game uplift is likely temporary once a taxed regime is legislated in 2027. _(mixed)_
+- Political and fiscal re-opening risk: HB 2801 is drafted as a Gaming Act rewrite of fees, taxes and distributions; any skill-game legalisation will set a new terminal tax and could extend distributed gaming; the November 2026 gubernatorial election decides who signs. _(governance)_
+- Small verticals shrinking: fantasy −23.8% YoY ($1.5m), VGTs −4.9% with sites down 74→72, poker −1.8% — no diversification cushion outside iGaming slots and sports. _(one-off)_
+
+## 9. Forecast & Outlook
+
+The bridge from FY2025/26's record $7,006m to FY2026/27 is driven by online casino and policy, not by land-based volume. Q1 FY26/27 (Jul–Sep) is tracking iGaming at $744.0m (~+8%) and sports taxable revenue at $135.9m on a 7.5% hold, while retail casino is running −3% to −4%. Three moving parts dominate the next 12–18 months: (1) iGaming growth settling into high single digits as penetration plateaus and skins consolidate; (2) a one-off retail slot/VGT uplift from the removal of ~70,000 skill games from 14 Oct 2026 that reverses if Harrisburg legalises a taxed regime in 2027; and (3) regulatory drag on yield from PGCB Regulation 125-258 and whichever parts of HB 2879 (credit-card ban, mandatory limits, VIP/SGP curbs, 0.75% levy) survive the 2027 session. Tax rates themselves are the least likely variable to move.
+
+- **FY2025/26 total gaming revenue:** $7,006m (+9.6% YoY (record))
+- **iGaming growth (est.):** +$220m to +$330m (+8% to +11% → $3.15–3.26bn)
+- **Retail slots + VGT: skill-game displacement (est.):** +$50m to +$120m (+2% to +5% on $2.48bn base; fades if legalised)
+- **Sports taxable revenue (est.) & retail tables:** −$30m to +$50m sports; −$20m to −$40m tables (hold-dependent; parlay restrictions are the tail risk)
+
+Our independent view (all figures estimates): **FY2026/27 total gaming revenue of $7.3–7.5bn (+4–7%)**, with iGaming $3.15–3.26bn, sports taxable revenue $630–720m on handle of $8.0–8.4bn (hold 7.5–8.5%), retail slots $2.46–2.54bn and tables $870–890m; **tax and fees $3.2–3.3bn**, effective ~44% of GGR. On rules: **PGCB Regulation 125-258 is finalised in H1 2027 with opt-in (not default) limits**, hourly pop-ups and monthly RG messaging; **a credit-card deposit ban for interactive accounts is the most probable statutory change in 2027** (three independent sponsors), followed by advertising restrictions and some form of mandatory limit or affordability check; a full SGP/microbet ban is less likely to survive given it would cut the state's fastest-growing tax line, but a 0.75% RG levy is a plausible compromise. **Skill-game legalisation with a terminal tax is more likely than not in 2027** — the fight is the rate — which caps the retail uplift to roughly two to three quarters. **A sweepstakes ban (HB 2801) is likely** in some form; prediction markets remain unresolved pending federal litigation, and PGCB is more likely to seek legislative authority than to issue cease-and-desists. Tax rates on licensed products stay at 54%/16%/36%. For B2Tech the implication is to **enter as a platform/content supplier or via a QGE/skin partnership priced for 46% blended iGaming tax and a 2027 promo/VIP squeeze**, and to treat Pennsylvania sports betting as a FanDuel/DraftKings market where third-brand economics require sub-30% promo-to-gross discipline.
+
+**What to watch next quarter:**
+
+- PGCB Regulation #125-258: IRRC disposition and final-form publication (expected H1 2027) — whether limits are opt-in or default-on, and the under-age-audience advertising rule.
+- HB 2879 successor bill in the 2027-28 session (opens 5 Jan 2027): credit-card ban, SGP/microbet language, VIP ban, 0.75% RG levy, affordability threshold; House Gaming Oversight hearing schedule.
+- Skill-game legislation and tax rate after the Supreme Court ruling; State Police enforcement progress (6 operator agreements) and any renewed stay; Q4 2026 retail slot and VGT revenue as the displacement signal.
+- HB 2801 sweepstakes ban and its embedded Gaming Act fee/tax/distribution rewrite — the one vehicle that could reopen rates.
+- Prediction markets: PGCB vs CFTC posture, HB 2711 progress, and any Pennsylvania cease-and-desist or litigation; monthly online handle trend (−6.1% in September).
+- Monthly PGCB releases (~20th of each month): iGaming YoY growth staying above ~6%; sports taxable hold vs the 7.5–8.5% band; promo credits as % of handle (3.6% in September).
+- Skin movements: Penn National's third-party iGaming roster, Presque Isle's new online brand economics, further exits after Mount Airy, and the Mohegan online sportsbook ramp.
+- November 2026 gubernatorial election (Shapiro vs Garrity) and FY2027-28 budget address (Feb 2027) for any gaming revenue proposals.
+
+### Sources
+
+**Data confidence: HIGH.** Data confidence HIGH for all GGR, handle, promo-credit and tax figures: taken from PGCB's 19 Oct 2026 release, the FY2025/26 release (17 Jul 2026), the 2025-26 Annual Report release (30 Sep 2026) and the FY26/27 Monthly Sports Wagering and Interactive Gaming reports; component taxes reconcile to the reported $242,630,497 and tax-line percentages confirm the 54%/16%/36%/52%/15% rates. MEDIUM for: (i) the implied iSlots deduction (derived as wagers − payouts − GGR, not a reported line); (ii) retail-slot statutory sub-rates (Race Horse Development Fund share varies by formula; PGCB effective 50.6%); (iii) brand-to-licence mapping — only FanDuel→Valley Forge and DraftKings→Meadows corroborated by two sources, other skin assignments and the Presque Isle brand are [unverified]; (iv) the ~70,000 skill-game estimate (Spotlight PA/court coverage) and the electronic-table tax differential [unverified]. Not obtained this cycle: PA Lottery/iLottery figures, PGCB payment-mix data, PGCB fines and self-exclusion counts for 2026 (all n/a). Reporting currency USD — no FX conversion required.
+
+1. [Primary] PGCB — PA Gaming Control Board Reports Revenue for September (19 Oct 2026) [primary] — https://gamingcontrolboard.pa.gov/news-and-transparency/press-release/pa-gaming-control-board-reports-revenue-september
+2. [Primary] PGCB — September 2026 revenue release PDF [primary] — https://gamingcontrolboard.pa.gov/sites/default/files/2026-10/101926_Sept%20Revenue.pdf
+3. [Primary] PGCB — FY2026/27 Monthly Sports Wagering Report Summary (handle, promo credits, taxable revenue, 34%+2% tax by licensee) [primary] — https://gamingcontrolboard.pa.gov/sites/default/files/2026-10/FY26-27%20Monthly%20Sports%20Wagering%20Report%20Summary.pdf
+4. [Primary] PGCB — FY2026/27 Monthly Interactive Gaming Report Summary (wagers, GGR, 54%/16% tax lines by licensee) [primary] — https://gamingcontrolboard.pa.gov/sites/default/files/2026-10/FY26-27%20Monthly%20Interactive%20Gaming%20Report%20Summary.pdf
+5. [Primary] PGCB — Fiscal Year 2025/26 Gaming Revenue Tops $7 Billion (17 Jul 2026) [primary] — https://gamingcontrolboard.pa.gov/news-and-transparency/press-release/pennsylvania-gaming-control-board-reports-fiscal-year-gaming
+6. [Primary] PGCB — 20th Edition Annual Report release (30 Sep 2026; outlet counts, $3.1bn tax) [primary] — https://gamingcontrolboard.pa.gov/news-and-transparency/press-release/pennsylvania-gaming-control-board-releases-20th-edition-annual
+7. [Primary] PGCB — PA Gaming Control Board Reports Revenue for August 2026 [primary] — https://gamingcontrolboard.pa.gov/news-and-transparency/press-release/pa-gaming-control-board-reports-revenue-august
+8. [Primary] PGCB — Revenue reports index (FY2026/27) [primary] — https://gamingcontrolboard.pa.gov/news-and-transparency/revenue
+9. [Primary] PGCB — Interactive Gaming / Sports Wagering Certificate Renewal Application ($250k renewal fees; 4 Pa.C.S. §13B13, §13C14) [primary] — https://gamingcontrolboard.pa.gov/sites/default/files/licensure/applications/Interactive_Gaming_Sports_Wagering_Certificate_Renewal_Application.pdf
+10. [Primary] PGCB — Interactive gaming licensing process for Qualified Gaming Entities ($4m bond per certificate; application fees) [primary] — https://pgcb.pa.gov/files/licensure/interactive_gaming_licensing_process.pdf
+11. [Primary] Joint State Government Commission — Sports Betting and Related Interactive Gambling in Pennsylvania, HR60 Staff Study (Jul 2026) [primary] — https://jsg.legis.state.pa.us/resources/documents/ftp/publications/2026-07-13%20WEB%20(HR60)%20Sports%20Betting%20REPORT%207.14.26.pdf
+12. [Primary] Penn State SSRI / DDAP — 2025 Pennsylvania Interactive Gaming Assessment: Online Gambling Report (Jan 2026) [primary] — https://management.ssri.psu.edu/news/2026-2026-01/online-gambling-participation-increased-pennsylvania-2025-report-finds
+13. [Primary] IRRC — Regulation #125-258 docket, Greenwood Gaming & Entertainment comments (Aug 2026) [primary] — https://irrc.state.pa.us/docs/3491/COMMENTS_PUBLIC/3491%2008-11-26%20Greenwood%20Gaming%20and%20Entertainment.pdf
+14. [Secondary] American Gaming Association — Pennsylvania Gaming Regulatory Fact Sheet 2025 (fees, 36% sports tax, $10m operation fee) [secondary] — https://www.americangaming.org/wp-content/uploads/2025/02/Pennsylvania_AGA-Gaming-Regulatory-Fact-Sheet-2025.pdf
+15. [Secondary] Gaming Intelligence — Pennsylvania gambling revenue hits $555 million in September (22 Oct 2026) [secondary; lead article] — https://www.gamingintelligence.com/finance/237536-pennsylvania-gambling-revenue-hits-555-million-in-september/
+16. [Secondary] Focus Gaming News — Pennsylvania Gaming Revenue hits US$555m in September 2026 [secondary; lead article, not retrievable] — https://focusgn.com/pennsylvania-gaming-revenue-september
+17. [Secondary] Covers — Pennsylvania Bill Seeks Sweeping Sports Betting Restrictions, Including SGPs, Microbets (HB 2879; 28 Oct 2026) [secondary] — https://www.covers.com/industry/pennsylvania-bill-seeks-sweeping-sports-betting-restrictions-including-sgps-microbets-oct-28-2026
+18. [Secondary] Legal Sports Report — Bipartisan Bills Would Ban Micro Bets, Cap Online Casino Losses In Pennsylvania (26 Oct 2026) [secondary] — https://www.legalsportsreport.com/284197/bipartisan-bills-would-ban-micro-bets-cap-online-casino-losses-in-pennsylvania/
+19. [Secondary] USPoker — Pennsylvania HB 2879 would require loss limits and ban VIP programs; PGCB Regulation #125-258 comparison [secondary] — https://www.uspoker.com/blog/pennsylvania-hb-2879-would-require-loss-limits-and-ban-vip-programs-on-all-online-accounts/45599/
+20. [Secondary] MyChesCo — Pennsylvania Bill Targets Online Gambling Revenue Practices (credit-card ban, Problem Gambling Caucus) [secondary] — https://www.mychesco.com/a/news/government/pennsylvania-bill-targets-online-gambling-revenue-practices/
+21. [Secondary] LegalSportsBetting — Pa. Report Puts Player-Data Mandate Above In-Game Ban (JSG HR60; Regulation 125-258 chapters; 21 Jul 2026) [secondary] — https://www.legalsportsbetting.com/news/pa-report-puts-player-data-mandate-above-in-game-ban-07-21-2026/
+22. [Secondary] Yogonet — NCPG pushes for default online gaming limits in Pennsylvania (Regulation published 11 Jul 2026; comments closed 10 Aug) [secondary] — https://www.yogonet.com/international/news/2026/08/12/125831-ncpg-pushes-for-default-online-gaming-limits-in-pennsylvania
+23. [Secondary] Spotlight PA — Skill games are gambling devices: PA Supreme Court (Jun 2026) [secondary] — https://www.spotlightpa.org/news/2026/06/skill-games-illegal-pennsylvania-supreme-court-ruling-capitol/
+24. [Secondary] Spotlight PA — Skill games face seizure as deadline looms (Sep 2026) [secondary] — https://www.spotlightpa.org/news/2026/09/pennsylvania-skill-games-legislature-deadline-october-supreme-court-ruling-seizure-capitol/
+25. [Secondary] Spotlight PA — Legislature didn't act on skill games by the deadline; ~70,000 machines (16 Oct 2026) [secondary] — https://www.spotlightpa.org/news/2026/10/skill-games-deadline-pennsylvania-legislature-divided-caucus-democrats-capitol/
+26. [Secondary] Spotlight PA — PA adopts $50.8B budget, skips skill games (11 Jul 2026) [secondary] — https://www.spotlightpa.org/news/2026/07/pennsylvania-budget-education-skill-games-data-centers-capitol/
+27. [Secondary] City & State PA — What to know as Pennsylvania's skill games deadline takes effect (enforcement 14 Oct 2026) [secondary] — https://www.cityandstatepa.com/policy/2026/10/what-know-pennsylvanias-skill-games-deadline-takes-effect/416540/
+28. [Secondary] WTAJ — Enforcement of skill games ban underway in PA (PSP; six operator agreements) [secondary] — https://www.wtaj.com/news/regional-news/enforcement-of-skill-games-ban-underway-in-pa-as-deadline-passes/
+29. [Secondary] Covers — Pennsylvania Lawmakers Propose Ban on Sweepstakes Casinos and $500,000 Fines (HB 2801; 13 Oct 2026) [secondary] — https://www.covers.com/industry/pennsylvania-lawmakers-propose-ban-on-sweepstakes-casinos-and-500000-dollar-fines-oct-13-2026
+30. [Secondary] SBC Americas — Pennsylvania sweepstakes casinos bill faces tight calendar (session ends 30 Nov; 14 Oct 2026) [secondary] — https://sbcamericas.com/2026/10/14/pennsylvania-sweepstakes-casinos-bill/
+31. [Secondary] Gambling Insider — Pennsylvania HB 2711 prediction market regulation (AG oversight) [secondary] — https://www.gamblinginsider.com/news/187585/pennsylvania-state-level-prediction-market-regulation-hb-2711
+32. [Secondary] PlayPennsylvania — Kalshi joins NCPG as Pennsylvania pushes for oversight of prediction markets (PGCB letter to CFTC, 30 Apr 2026) [secondary] — https://www.playpennsylvania.com/news/kalshi-joins-ncpg-as-pennsylvania-pushes-for-oversight-of-prediction-market-firms/
+33. [Secondary] SportsBettingDime — Top Pennsylvania gaming regulator warns legislators of prediction market threat (O'Toole letter) [secondary] — https://www.sportsbettingdime.com/news/industry/top-pennsylvania-gaming-regulator-warns-legislators-of-prediction-market-threat/
+34. [Secondary] CBS Sports — Pennsylvania prediction markets legal status (Kalshi/Polymarket operating outside PGCB, 18+) [secondary] — https://www.cbssports.com/prediction/news/pennsylvania/
+35. [Secondary] gamblingatlas.org — Pennsylvania tax rates table (statutory stack, promo deductibility) [secondary] — https://gamblingatlas.org/states/pennsylvania/
+36. [Secondary] gamingcompliance.io — Pennsylvania PGCB tax structure: 54% online slots (Act 42 of 2017) [secondary] — https://gamingcompliance.io/pennsylvania-pgcb-tax-structure-why-the-54-online-slots-rate-is-the-highest-in-the-us-regulated-market/
+37. [Secondary] Covers — Pennsylvania sports betting: legal sportsbook list and casino partners [secondary] — https://www.covers.com/betting/usa/pennsylvania
+38. [Secondary] PlayPennsylvania — PA sports betting (11 online books; Mohegan online launch 7 Nov 2025) [secondary] — https://www.playpennsylvania.com/sports-betting/
+39. [Secondary] SportsbooksOnline — List of all PA sportsbooks (FanDuel licensing partner Valley Forge) [secondary] — https://sportsbooksonline.com/articles/list-of-all-pa-sportsbooks
+
+*Research analysis only — not a rating, price target, or personalised investment advice.*

@@ -1,0 +1,1355 @@
+{
+  "company": {
+    "name": "Svenska Spel",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 2312814,
+    "output": 44559,
+    "searches": 6,
+    "fetches": 10,
+    "uncached": 72,
+    "cacheRead": 2192709,
+    "cacheWrite": 120033,
+    "turns": 1
+  },
+  "prepared": "28 Oct 2026",
+  "report": {
+    "releaseDate": "22 Oct 2026",
+    "currency": "SEK (tables in SEK millions; USD equivalents at USD/SEK 9.91 as of 22 Oct 2026, prefixed \"~\")",
+    "verdict": "A revenue-steady, cost-heavy quarter. Group NGR rose 1.3% to SEK 1,898m (~$192m) as post-World Cup Oddset and casino (Sport & Casino +5.5%) plus Triss/Lotto offset a weaker Eurojackpot and a 14% Vegas decline, but a SEK 69m (+18%) step-up in external costs for the brand relaunch, AI and cloud migration cut operating profit 9% to SEK 656m (~$66m) and the margin by c.375bps to 34.6%. Net profit fell only 3% to SEK 565m (~$57m) because finance income tripled; the business is still well above the owner's 30% margin target, so the debate is about the duration of the spend, not demand.",
+    "kpis": [
+      {
+        "label": "Net gaming revenue (Q3)",
+        "value": "SEK 1,898m (~$192m)",
+        "delta": "+1.3% YoY / -3.3% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Operating profit (EBIT, Q3)",
+        "value": "SEK 656m (~$66m)",
+        "delta": "-8.6% YoY / +6.3% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Operating margin (Q3)",
+        "value": "34.6%",
+        "delta": "-375bps YoY (38.3%)",
+        "dir": "down"
+      },
+      {
+        "label": "Net profit, continuing ops (Q3)",
+        "value": "SEK 565m (~$57m)",
+        "delta": "-3.3% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Online share of NGR (Q3)",
+        "value": "67%",
+        "delta": "+180bps YoY (65%)",
+        "dir": "up"
+      },
+      {
+        "label": "Cash + financial investments (30 Sep)",
+        "value": "SEK 5,159m (~$521m)",
+        "delta": "No financial debt; equity ratio 43% (41% Dec-25)",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**Headline: top line held, EBIT missed the prior year on self-inflicted cost.** Q3 2026 group net gaming revenue (NGR) was SEK 1,898m (~$192m), +SEK 24m / +1.3% YoY (Q3 2025: SEK 1,874m), but operating profit fell SEK 62m / -8.6% to SEK 656m (~$66m) and the operating margin compressed c.375bps to 34.6% (company-rounded 35% vs 38%). Svenska Spel gives no numerical guidance and has no sell-side consensus, so 'vs expectations' is against management's own framing: they describe Q3 as 'growth and good profitability' and say the Vegas decline was 'in line with expectations'.",
+      "**The entire EBIT decline is opex, not demand or tax.** Gross profit ('net sales from gaming operations') was flat at SEK 1,320m (~$133m, +0.3%): NGR +SEK 24m and other income +SEK 9m were absorbed by gaming tax +SEK 26m (+6.7%, to 21.8% of NGR from 20.7%) and direct costs +SEK 4m. Below gross profit, other external costs jumped +SEK 69m / +17.6% to SEK 460m (~$46m), lifting total operating costs 10.9% to SEK 663m, or 34.9% of NGR (31.9%). Personnel (SEK 185m, -0.5%) and D&A (SEK 31m) were flat.",
+      "**Management attributes the cost step-up to three 'strategic investments': brand, AI and cloud.** They are running what they call the largest renewal of the Svenska Spel brand since the company's formation in 1997 (new visual identity, 'en större känsla' positioning), integrating AI (coding and in-house AI agents for personalised CRM) and migrating the IT estate to cloud-based services. No budget, phasing or end-date is disclosed — the single most important gap in the report for anyone modelling 2027 margins.",
+      "**Sport & Casino was the growth engine, Tur did the heavy lifting on mix, Vegas kept shrinking.** Tur (lotteries) NGR SEK 1,316m (~$133m, +0.7%; 69% of group), Sport & Casino SEK 516m (~$52m, +5.5%; 27%), Vegas SEK 67m (~$7m, -14.1%; 4%). On a 9M basis NGR is SEK 5,741m (~$579m, +3.2%): Tur +3.2%, Sport & Casino +6.2%, Vegas -15.7%.",
+      "**World Cup after-glow quantified as far as the company allows.** Management says they beat their World Cup sales targets through the closing weeks in July with 'high customer activity all the way to the final', and that Sport & Casino active customers hit record levels in Q3 (no number disclosed). The Q2 report gave the event peak: June Sport & Casino revenue +24% YoY, sports betting +135%, playing customers +36% and new registrations +340% YoY. Sequentially S&C NGR fell 6.5% from Q2's SEK 552m as the tournament ended on 19 July.",
+      "**Channel shift continues: online 67% of NGR, retail still eroding.** Online NGR SEK 1,274m (~$129m, +4.1%), of which mobile 59% of group NGR (57%); 9M online +8.4% to SEK 3,837m (~$387m). Retail agents ('Ombud') SEK 558m (~$56m, -1.6%; 9M -3.5%) and Restaurant & Bingo halls (Vegas) SEK 67m (-14.1%).",
+      "**Market share: management claims gains in both the licensed and lottery markets in H1; the regulator's data broadly support it.** Spelinspektionen puts the licensed market at SEK 7,380m (~$745m) in Q2 2026, +5.1% YoY, with commercial online & betting +7.1% to SEK 4,960m and public-benefit lotteries +2.0%; Svenska Spel's Q2 NGR grew 6.7%, Sport & Casino +10.8% and Tur +6.6%. Our derived share of the commercial online & betting pool for Sport & Casino is c.11.1% in Q2 2026 (10.8% in Q2 2025) [estimate]; Q3 market data are not yet published.",
+      "**Below the line, finance income flattered the net result.** Net financial items were SEK 60m (~$6m) vs SEK 20m: SEK 59m (13) return on financial investments, SEK 36m (-12) discounting effect on long-dated Triss Månadsklöver prize liabilities, and SEK 10m (20) bank interest. Profit after financial items was SEK 716m (~$72m, -3.1%); tax SEK 152m (ETR 21.2%); net profit from continuing operations SEK 565m (~$57m, -3.3%). Strip out the SEK 40m finance swing and the underlying net result is down roughly 9%, in line with EBIT.",
+      "**9M is still ahead of 2025 on every line.** EBIT SEK 1,932m (~$195m, +1.8%), margin 33.7% (34.1%), continuing net profit SEK 1,630m (~$164m, +6.1%) and total net profit SEK 1,918m (~$194m, +33.3%) including a SEK 288m (~$29m) gain on the Q1 sale of the former Casino Cosmopol Stockholm property to Alecta Fastigheter (reported in discontinued operations). The land-based casino exit (April 2025) is now complete: no held-for-sale assets remain and the shell companies are being merged into the parent in Q4 2026.",
+      "**Cost-transformation: there is no formal savings program — the opposite is happening.** Headcount is down 3.5% to 825 (855) while external costs rise 18%, i.e. cost is shifting from payroll to consultants/cloud. Vegas is the only area with an explicit efficiency agenda (cost efficiency and 'profitable partners'); the estate is now c.2,700 machines in c.900 venues versus c.3,000/c.1,000 described in the Q2 report. No one-off costs were booked in the quarter (company's own alternative-KPI note).",
+      "**Capital position: net cash, no borrowings, and above the owner's equity band.** Cash SEK 2,575m (~$260m), short-term investments SEK 877m (~$89m) and non-current financial assets SEK 1,707m (~$172m) total SEK 5,159m (~$521m) of liquid/financial assets against no interest-bearing debt (only lease liabilities within other liabilities; prize liabilities of SEK 2,258m are operational). Equity SEK 2,837m (~$286m); equity ratio 43% vs the owner's 20–40% full-year target band.",
+      "**Cash flow: Q3 operating cash flow SEK 393m (~$40m) vs SEK 484m; 9M SEK 1,788m (~$180m, +22%).** 9M includes SEK 260m from settlement of intra-group loans by the property buyer. 9M capex SEK 91m (~$9m) (SEK 71m intangible — IT/platform modernisation — and SEK 21m tangible), so 9M FCF is c.SEK 1,697m (~$171m) [derived]. SEK 463m (~$47m) was deployed into financial investments. The SEK 1,800m (~$182m) dividend to the Swedish state was paid in Q2 (FY2025: SEK 1,600m), equal to 92% of FY2025 total net profit versus the ≥80% policy.",
+      "**Owner targets: all three met at 9M.** Operating margin over time ≥30% (9M 33.7%, Q3 34.6%); equity ratio 20–40% at year-end (43% at Sep, before the Q4 earnings build — implies another above-policy distribution is plausible); dividend ≥80% of net profit after tax.",
+      "**Product news skewed to lotteries and sport.** Triss 40th-anniversary jubilee ticket with 40 million-kronor prizes; three new digital lotteries (Summa Summarum, Fruttis Troppix, Kanonkulan); 132 million-kronor wins paid in Q3 (116 lottery, 16 sport) including a c.SEK 200m (~$20m) Vikinglotto win — the largest of the year and ninth largest ever; '99 Royale' multiplayer slot concept (up to 99 players per round) in casino; SHL/SDHL ice-hockey main-sponsorship extended to 2031 and the Swedish Ski Association deal extended/expanded to 2032 (from Q2). Katarina Borstedt joined as Chief People & Culture Officer in September.",
+      "**Regulation is the medium-term swing factor and management is leaning into it.** The government appointed an inquiry (Sept 2026) into gambling by children and young adults, reporting February 2028; Spelinspektionen's consultation on new duty-of-care regulations (with specific focus on 18–24s) has closed; a 'participant criterion' to widen enforcement against unlicensed operators is under discussion; and the report flags prediction markets as a new category the 2019 framework was not designed for. Spelpaus self-exclusions were c.138,000 at end-Q2 (-0.7% QoQ). Svenska Spel welcomes the youth inquiry — tighter rules typically favour the incumbent.",
+      "**Responsible-gambling KPI slipped a point.** 'Healthy revenue' (NGR from low-risk customers) was 94% vs 95% in Q3 2025 (9M 94% both years) while management says active customers and new-customer offers drove growth and that they see 'no increase in risky gambling'. Worth watching given the 18–24 regulatory focus.",
+      "**Thesis read-through: a defensive, cash-generative state monopoly-plus-licence hybrid whose growth is low-single-digit and whose margin is now a management choice.** The lottery franchise (69% of NGR) is stable, online/sport is taking share, and the balance sheet is over-capitalised against the owner's band. The negatives are the opaque, open-ended strategic spend (external costs +18% YoY for a second consecutive quarter of elevated spend), the structural retail/Vegas decline and the fact that disclosure (no actives, ARPU, handle by product, marketing spend, segment profit) is well below listed-peer standard."
+    ],
+    "groupTable": {
+      "note": "SEK m (USD at 9.91); continuing operations unless stated",
+      "columns": [
+        "Q3-26",
+        "QoQ",
+        "YoY",
+        "9M-26",
+        "9M YoY"
+      ],
+      "rows": [
+        {
+          "label": "Net gaming revenue by business area",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Tur (lotteries)",
+          "indent": true,
+          "cells": [
+            "1,316 (~$133m)",
+            "-1.9%",
+            "+0.7%",
+            "3,909 (~$394m)",
+            "+3.2%"
+          ]
+        },
+        {
+          "label": "Sport & Casino",
+          "indent": true,
+          "cells": [
+            "516 (~$52m)",
+            "-6.5%",
+            "+5.5%",
+            "1,633 (~$165m)",
+            "+6.2%"
+          ]
+        },
+        {
+          "label": "Vegas (VLTs)",
+          "indent": true,
+          "cells": [
+            "67 (~$7m)",
+            "-2.9%",
+            "-14.1%",
+            "198 (~$20m)",
+            "-15.7%"
+          ]
+        },
+        {
+          "label": "Group net gaming revenue (NGR)",
+          "kind": "emphasis",
+          "cells": [
+            "1,898 (~$192m)",
+            "-3.3%",
+            "+1.3%",
+            "5,741 (~$579m)",
+            "+3.2%"
+          ]
+        },
+        {
+          "label": "Net gaming revenue by sales channel",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Online (of which mobile 59% of group NGR)",
+          "indent": true,
+          "cells": [
+            "1,274 (~$129m)",
+            "-2.7%",
+            "+4.1%",
+            "3,837 (~$387m)",
+            "+8.4%"
+          ]
+        },
+        {
+          "label": "Retail agents (Ombud)",
+          "indent": true,
+          "cells": [
+            "558 (~$56m)",
+            "-3.5%",
+            "-1.6%",
+            "1,712 (~$173m)",
+            "-3.5%"
+          ]
+        },
+        {
+          "label": "Restaurants & bingo halls (Vegas)",
+          "indent": true,
+          "cells": [
+            "67 (~$7m)",
+            "-2.9%",
+            "-14.1%",
+            "198 (~$20m)",
+            "-15.7%"
+          ]
+        },
+        {
+          "label": "Other",
+          "indent": true,
+          "cells": [
+            "-0",
+            "n/m",
+            "n/m (5)",
+            "-6",
+            "n/m (14)"
+          ]
+        },
+        {
+          "label": "Online share of NGR",
+          "indent": true,
+          "cells": [
+            "67.1%",
+            "+40bps",
+            "+180bps",
+            "66.8%",
+            "+320bps"
+          ]
+        },
+        {
+          "label": "Stakes, payout and gross profit",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Gross gaming revenue (customer stakes)",
+          "indent": true,
+          "cells": [
+            "4,571 (~$461m)",
+            "-0.9%",
+            "+3.8%",
+            "13,798 (~$1.39bn)",
+            "+5.5%"
+          ]
+        },
+        {
+          "label": "Winners' share (payout)",
+          "indent": true,
+          "cells": [
+            "-2,672 (~$270m)",
+            "+0.8%",
+            "+5.6%",
+            "-8,057 (~$813m)",
+            "+7.2%"
+          ]
+        },
+        {
+          "label": "Payout ratio (winners' share / stakes)",
+          "indent": true,
+          "cells": [
+            "58.5%",
+            "+110bps",
+            "+100bps",
+            "58.4%",
+            "+90bps"
+          ]
+        },
+        {
+          "label": "Other income",
+          "indent": true,
+          "cells": [
+            "37 (~$4m)",
+            "-30.2%",
+            "+32.1%",
+            "139 (~$14m)",
+            "+6.1%"
+          ]
+        },
+        {
+          "label": "Gaming tax",
+          "indent": true,
+          "cells": [
+            "-414 (~$42m)",
+            "-7.4%",
+            "+6.7%",
+            "-1,271 (~$128m)",
+            "+3.3%"
+          ]
+        },
+        {
+          "label": "Gaming tax % of NGR",
+          "indent": true,
+          "cells": [
+            "21.8%",
+            "-100bps",
+            "+110bps",
+            "22.1%",
+            "0bps"
+          ]
+        },
+        {
+          "label": "Direct costs of gaming operations",
+          "indent": true,
+          "cells": [
+            "-201 (~$20m)",
+            "-2.0%",
+            "+2.0%",
+            "-607 (~$61m)",
+            "-1.0%"
+          ]
+        },
+        {
+          "label": "Net sales from gaming operations (gross profit)",
+          "kind": "emphasis",
+          "cells": [
+            "1,320 (~$133m)",
+            "-3.2%",
+            "+0.3%",
+            "4,002 (~$404m)",
+            "+3.9%"
+          ]
+        },
+        {
+          "label": "Gross profit % of NGR",
+          "indent": true,
+          "cells": [
+            "69.5%",
+            "0bps",
+            "-70bps",
+            "69.7%",
+            "+50bps"
+          ]
+        },
+        {
+          "label": "Operating costs",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Capitalised own work",
+          "indent": true,
+          "cells": [
+            "13",
+            "-23.5%",
+            "+44.4%",
+            "52",
+            "+48.6%"
+          ]
+        },
+        {
+          "label": "Personnel costs",
+          "indent": true,
+          "cells": [
+            "-185 (~$19m)",
+            "-23.6%",
+            "-0.5%",
+            "-661 (~$67m)",
+            "+2.5%"
+          ]
+        },
+        {
+          "label": "Other external costs",
+          "indent": true,
+          "cells": [
+            "-460 (~$46m)",
+            "-7.1%",
+            "+17.6%",
+            "-1,376 (~$139m)",
+            "+9.9%"
+          ]
+        },
+        {
+          "label": "D&A",
+          "indent": true,
+          "cells": [
+            "-31 (~$3m)",
+            "+14.8%",
+            "+3.3%",
+            "-85 (~$9m)",
+            "-7.6%"
+          ]
+        },
+        {
+          "label": "Total opex (net of capitalised work) [derived]",
+          "indent": true,
+          "cells": [
+            "-663 (~$67m)",
+            "-11.2%",
+            "+10.9%",
+            "-2,070 (~$209m)",
+            "+5.9%"
+          ]
+        },
+        {
+          "label": "Opex % of NGR [derived]",
+          "indent": true,
+          "cells": [
+            "34.9%",
+            "-320bps",
+            "+300bps",
+            "36.1%",
+            "+100bps"
+          ]
+        },
+        {
+          "label": "Profit",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "EBITDA [derived: EBIT + D&A; no one-offs, so reported = adjusted]",
+          "indent": true,
+          "cells": [
+            "687 (~$69m)",
+            "+6.7%",
+            "-8.2%",
+            "2,017 (~$204m)",
+            "+1.4%"
+          ]
+        },
+        {
+          "label": "EBITDA margin [derived]",
+          "indent": true,
+          "cells": [
+            "36.2%",
+            "+340bps",
+            "-370bps",
+            "35.1%",
+            "-70bps"
+          ]
+        },
+        {
+          "label": "Operating profit (EBIT)",
+          "kind": "emphasis",
+          "cells": [
+            "656 (~$66m)",
+            "+6.3%",
+            "-8.6%",
+            "1,932 (~$195m)",
+            "+1.8%"
+          ]
+        },
+        {
+          "label": "Operating margin (EBIT / NGR)",
+          "indent": true,
+          "cells": [
+            "34.6%",
+            "+310bps",
+            "-375bps",
+            "33.7%",
+            "-50bps"
+          ]
+        },
+        {
+          "label": "Net financial items",
+          "indent": true,
+          "cells": [
+            "60 (~$6m)",
+            "+33%",
+            "+200% (20)",
+            "128 (~$13m)",
+            "+172% (47)"
+          ]
+        },
+        {
+          "label": "Profit after financial items (PBT)",
+          "indent": true,
+          "cells": [
+            "716 (~$72m)",
+            "+8.3%",
+            "-3.1%",
+            "2,060 (~$208m)",
+            "+5.9%"
+          ]
+        },
+        {
+          "label": "Income tax (ETR 21.2%)",
+          "indent": true,
+          "cells": [
+            "-152 (~$15m)",
+            "+10.9%",
+            "-1.9%",
+            "-429 (~$43m)",
+            "+4.9%"
+          ]
+        },
+        {
+          "label": "Net profit, continuing operations",
+          "kind": "emphasis",
+          "cells": [
+            "565 (~$57m)",
+            "+7.6%",
+            "-3.3%",
+            "1,630 (~$164m)",
+            "+6.1%"
+          ]
+        },
+        {
+          "label": "Result from discontinued ops (Casino Cosmopol), after tax",
+          "indent": true,
+          "cells": [
+            "1",
+            "flat",
+            "n/m (0)",
+            "288 (~$29m)",
+            "n/m (-97)"
+          ]
+        },
+        {
+          "label": "Net profit, total (IFRS)",
+          "kind": "emphasis",
+          "cells": [
+            "565 (~$57m)",
+            "+7.6%",
+            "-3.3%",
+            "1,918 (~$194m)",
+            "+33.3%"
+          ]
+        },
+        {
+          "label": "EPS, total, basic & diluted (2,000 shares; SEK thousand)",
+          "indent": true,
+          "cells": [
+            "283k (~$28.6k)",
+            "+7.6%",
+            "-3.1% (292k)",
+            "959k (~$96.8k)",
+            "+33.4% (719k)"
+          ]
+        },
+        {
+          "label": "EPS, continuing ops (SEK thousand)",
+          "indent": true,
+          "cells": [
+            "282k (~$28.5k)",
+            "+7.6%",
+            "-3.4% (292k)",
+            "815k (~$82.2k)",
+            "+6.1% (768k)"
+          ]
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Healthy revenue (NGR from low-risk customers)",
+          "indent": true,
+          "cells": [
+            "94%",
+            "0pt",
+            "-1pt (95%)",
+            "94%",
+            "0pt"
+          ]
+        },
+        {
+          "label": "Avg monthly players / actives",
+          "indent": true,
+          "cells": [
+            "n/a (not disclosed; 'c.4m customers' total; S&C actives 'record')",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Employees (period end)",
+          "indent": true,
+          "cells": [
+            "825",
+            "n/a",
+            "-3.5% (855)",
+            "825",
+            "-3.5%"
+          ]
+        },
+        {
+          "label": "Cash flow and balance sheet",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Cash flow from operations (incl. discontinued)",
+          "indent": true,
+          "cells": [
+            "393 (~$40m)",
+            "-39.9%",
+            "-18.8%",
+            "1,788 (~$180m)",
+            "+22.3%"
+          ]
+        },
+        {
+          "label": "Capex (intangible + tangible)",
+          "indent": true,
+          "cells": [
+            "-21 (~$2m)",
+            "-44.7%",
+            "-22.2%",
+            "-91 (~$9m)",
+            "-4.2%"
+          ]
+        },
+        {
+          "label": "Free cash flow [derived: CFO - capex]",
+          "indent": true,
+          "cells": [
+            "372 (~$38m)",
+            "-39.6%",
+            "-18.6%",
+            "1,697 (~$171m)",
+            "+24.1%"
+          ]
+        },
+        {
+          "label": "Dividend paid to Swedish state",
+          "indent": true,
+          "cells": [
+            "0",
+            "(1,800 in Q2)",
+            "0",
+            "-1,800 (~$182m)",
+            "+12.5% (1,600)"
+          ]
+        },
+        {
+          "label": "Cash & equivalents (period end)",
+          "indent": true,
+          "cells": [
+            "2,575 (~$260m)",
+            "+17.6% (2,190)",
+            "-25.7% (3,465)",
+            "2,575 (~$260m)",
+            "-6.5% vs Dec-25 (2,754)"
+          ]
+        },
+        {
+          "label": "Short-term investments + non-current financial assets",
+          "indent": true,
+          "cells": [
+            "2,584 (~$261m)",
+            "-0.6% (2,600)",
+            "+159% (996)",
+            "2,584 (~$261m)",
+            "+18% vs Dec-25 (2,184)"
+          ]
+        },
+        {
+          "label": "Interest-bearing debt / net debt / leverage",
+          "indent": true,
+          "cells": [
+            "None — net cash; no borrowings (lease liabilities only, inside other liabilities)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Equity / equity ratio",
+          "indent": true,
+          "cells": [
+            "2,837 (~$286m) / 43%",
+            "+24.9% (2,272 / 37%)",
+            "+29.2% (2,195 / 35%)",
+            "2,837 / 43%",
+            "vs Dec-25 2,719 / 41%"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Tur (lotteries) — 69% of group NGR",
+        "headline": "NGR +0.7% to SEK 1,316m (~$133m): Lotto and a 40th-birthday Triss outran a jackpot-starved Eurojackpot; 9M +3.2% and still taking share in a low-growth lottery market.",
+        "narrative": [
+          "Tur remains the balance-sheet of the group: SEK 1,316m (~$133m) of NGR in the quarter, 69% of the group total, up SEK 9m or 0.7% YoY and down 1.9% sequentially from a Eurojackpot-boosted Q2 (SEK 1,341m). They attribute the growth to Lotto, which continues to benefit from its 2025 relaunch, and to Triss, where the 40-year jubilee ticket carrying 40 million-kronor prizes and a push for more visibility in grocery retail lifted sales. The drag was Eurojackpot, which did not reach last year's customer activity because jackpot levels were lower — the usual reminder that roughly a third of this division's swing factor is a Europe-wide random-number generator rather than anything Visby controls. On a nine-month view Tur NGR is SEK 3,909m (~$394m), +SEK 120m or +3.2%, with Eurojackpot the growth driver over the period (May 2026 set a monthly revenue record on a high jackpot) and Lotto still showing positive relaunch effects.",
+          "Against the regulator's data the share claim stacks up: Spelinspektionen's 'public-benefit lotteries' category (the Postkodlotteriet-type competitors) grew 2.0% in Q2 2026 while Tur grew 6.6%, which is the basis for management's statement that they took share in the lottery market in H1. Q3 market data have not yet been published, and with Tur growth slowing to +0.7% the Q3 read will be less flattering; we would expect roughly flat share. Mix inside Tur is not disclosed beyond product-level commentary — no actives, ARPU or stakes by game — so the only hard engagement datapoints are prize statistics: 116 million-kronor lottery wins paid in Q3, including the c.SEK 200m (~$20m) Vikinglotto prize in the quarter, a Swedish record for that game and the ninth-largest win in Svenska Spel's history.",
+          "Product cadence is steady rather than transformative. Three new digital-only scratch lotteries (Summa Summarum, Fruttis Troppix, Kanonkulan) launched in the quarter on top of Q2's Triss Sommar, Triss Mors Dag and the Triss Semestervinsten campaign ticket; the strategy is to keep Triss relevant on mobile while retail visibility defends the physical ticket. The channel data show why this matters: retail-agent NGR (Ombud, which is overwhelmingly lottery) fell 1.6% to SEK 558m (~$56m) in Q3 and 3.5% to SEK 1,712m over nine months, while online, of which Tur is the largest component, grew 4.1% and 8.4% respectively. Every point of channel migration raises the digital share and, over time, lowers the agent-commission element of direct costs (direct costs were -1.0% at 9M despite +3.2% NGR).",
+          "Segment profit is not disclosed (the company reports revenue by business area only and explicitly declines to prepare IFRS 8 segment reporting), so Tur's contribution to the SEK 69m external-cost increase cannot be isolated. Our read is that the brand relaunch is group-wide but the Triss-40 and grocery-visibility campaigns sit here. No segment guidance is given; the Q4 set-up is the seasonally strongest lottery quarter (Q4 2025 Tur NGR SEK 1,471m, Christmas Triss and Lotto) and will again hinge on the Eurojackpot roll cycle."
+        ],
+        "table": {
+          "note": "Tur, SEK m (USD at 9.91)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Net gaming revenue",
+              "kind": "emphasis",
+              "cells": [
+                "1,316 (~$133m)",
+                "-1.9% (1,341)",
+                "+0.7% (1,307)",
+                "3,909 (~$394m)",
+                "+3.2% (3,789)"
+              ]
+            },
+            {
+              "label": "Share of group NGR",
+              "indent": true,
+              "cells": [
+                "69.3%",
+                "+100bps (68.3%)",
+                "-40bps (69.7%)",
+                "68.1%",
+                "0bps (68.1%)"
+              ]
+            },
+            {
+              "label": "Quarterly history (Q1-26 / Q4-25 / Q3-25 / Q2-25)",
+              "indent": true,
+              "cells": [
+                "1,252 / 1,471 / 1,307 / 1,258",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "FY2025 NGR (FY2024)",
+              "indent": true,
+              "cells": [
+                "5,260 (5,135)",
+                "",
+                "+2.4%",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Growth drivers (company)",
+              "indent": true,
+              "cells": [
+                "Lotto, Triss (40-yr jubilee, grocery visibility)",
+                "",
+                "Eurojackpot down on lower jackpots",
+                "Eurojackpot, Lotto relaunch",
+                ""
+              ]
+            },
+            {
+              "label": "Million-kronor lottery wins paid",
+              "indent": true,
+              "cells": [
+                "116 (largest: Vikinglotto c.200, ~$20m)",
+                "Q2: 98 (SEK 269m total)",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Public-benefit lottery market growth (Spelinspektionen)",
+              "indent": true,
+              "cells": [
+                "Q3 n/a (not yet published)",
+                "Q2-26: +2.0% YoY vs Tur +6.6%",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Segment operating profit / actives / ARPU",
+              "indent": true,
+              "cells": [
+                "n/a (not disclosed)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Quarterly NGR and drivers",
+            "takeaway": "Tur NGR rose 0.7% to SEK 1,316m (~$133m), 69% of group, as Lotto and Triss offset a jackpot-starved Eurojackpot.",
+            "points": [
+              "NGR up SEK 9m YoY and down 1.9% sequentially from a Eurojackpot-boosted Q2 (SEK 1,341m).",
+              "Lotto continues to benefit from its 2025 relaunch; Triss lifted by 40-year jubilee ticket carrying 40 million-kronor prizes and grocery-retail visibility push.",
+              "Eurojackpot did not reach last year's customer activity because jackpot levels were lower.",
+              "Roughly a third of this division's swing factor is a Europe-wide random-number generator rather than anything Visby controls."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Nine-month performance",
+            "takeaway": "9M Tur NGR is SEK 3,909m (~$394m), +SEK 120m or +3.2%, with Eurojackpot the growth driver over the period.",
+            "points": [
+              "May 2026 set a monthly revenue record on a high jackpot.",
+              "Lotto still showing positive relaunch effects over the nine months."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Market share",
+            "takeaway": "Tur grew 6.6% in Q2 2026 versus 2.0% for public-benefit lotteries, supporting management's H1 share-gain claim; Q3 likely roughly flat share.",
+            "points": [
+              "Spelinspektionen's 'public-benefit lotteries' category (Postkodlotteriet-type competitors) grew 2.0% in Q2 2026.",
+              "Q3 market data not yet published; with Tur growth slowing to +0.7% the Q3 read will be less flattering.",
+              "No actives, ARPU or stakes by game disclosed; only hard engagement datapoints are prize statistics.",
+              "116 million-kronor lottery wins paid in Q3, including c.SEK 200m (~$20m) Vikinglotto prize, a Swedish record and ninth-largest in Svenska Spel's history."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Products and channels",
+            "takeaway": "Product cadence is steady rather than transformative; retail-agent NGR fell 1.6% to SEK 558m while online grew 4.1% in Q3.",
+            "points": [
+              "Three new digital-only scratch lotteries (Summa Summarum, Fruttis Troppix, Kanonkulan) launched in Q3, after Q2's Triss Sommar, Triss Mors Dag and Triss Semestervinsten.",
+              "Strategy is to keep Triss relevant on mobile while retail visibility defends the physical ticket.",
+              "Ombud NGR (overwhelmingly lottery) fell 1.6% to SEK 558m (~$56m) in Q3 and 3.5% to SEK 1,712m over nine months.",
+              "Online, of which Tur is the largest component, grew 4.1% in Q3 and 8.4% over nine months.",
+              "Channel migration lowers agent-commission element of direct costs over time: direct costs -1.0% at 9M despite +3.2% NGR."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Profitability and outlook",
+            "takeaway": "Segment profit is not disclosed and no guidance is given; Q4 is the seasonally strongest lottery quarter and hinges on Eurojackpot.",
+            "points": [
+              "Company reports revenue by business area only and explicitly declines to prepare IFRS 8 segment reporting, so Tur's share of the SEK 69m external-cost increase cannot be isolated.",
+              "Our read is that the brand relaunch is group-wide but Triss-40 and grocery-visibility campaigns sit here.",
+              "Q4 2025 Tur NGR was SEK 1,471m (Christmas Triss and Lotto); Q4 2026 will again hinge on the Eurojackpot roll cycle."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Sport & Casino (online sportsbook, pools, casino, poker, bingo) — 27% of group NGR",
+        "headline": "NGR +5.5% to SEK 516m (~$52m) on the World Cup finish and record actives; Oddset and casino are taking share of a +7% commercial online market, but handle, hold and promo intensity remain undisclosed.",
+        "narrative": [
+          "Sport & Casino delivered SEK 516m (~$52m) of NGR, +SEK 27m or 5.5% YoY and 27% of the group, down 6.5% from the SEK 552m World Cup-peak quarter. They say an attractive sports offering and a strong finish to the tournament (final on 19 July) brought in more customers and drove a positive Oddset performance, that new-customer offers and activations pushed the number of active customers to record levels in the quarter, and that casino showed 'stable growth'. None of this comes with numbers: there is no disclosure of handle, net or structural sports margin, promotional spend as a percentage of stakes, actives or ARPU. The only quantitative event data are from the Q2 report, where June Sport & Casino revenue was +24% YoY with sports betting +135%, playing customers +36% and new registrations +340%, and where management confirmed they had exceeded their World Cup sales targets through 6 July. The nine-month picture is SEK 1,633m (~$165m), +SEK 95m or +6.2%, with growth of +2.5% in Q1, +10.8% in Q2 and +5.5% in Q3 — i.e. an underlying mid-single-digit growth business with a tournament overlay.",
+          "Share gains are the credible part of the story. Spelinspektionen's commercial online & betting category grew 7.1% in Q2 2026 to SEK 4,960m (~$500m) while Sport & Casino grew 10.8%, giving an implied share of c.11.1% versus 10.8% in Q2 2025 and 10.8% in Q3 2025 [our estimate from regulator and company data; the category includes all 70-odd online licensees]. Q3 market figures arrive in late November and will show whether the post-tournament quarter held that share. Note too that the group payout ratio rose to 58.5% of stakes (57.5%) with stakes +3.8% versus NGR +1.3%: lower hold is consistent with faster growth in Oddset-style fixed-odds product relative to lotteries, so the segment is buying share partly through price/RTP as well as marketing — which the +18% external-cost line also hints at.",
+          "Product and content investment is tilted toward engagement features and sports rights. In casino they launched '99 Royale', a multiplayer slot format (Ragnarok, Ra the King, Cherry Blossom) where up to 99 players compete in the same round — a direct answer to the social-casino mechanics competitors already run. In pools, the 'Europatipsmästaren' competition over six rounds attracted a little over 12,000 participants and 350 teams, with winners donating SEK 200k to grassroots clubs via Gräsroten. Sixteen million-kronor sports wins were paid, including one solo 13-correct Stryktipset winner in September. On rights, the SHL and SDHL ice-hockey main sponsorships were extended to 2031 (supporting Oddset and the Powerplay hockey pool through the Q4–Q1 season), the Swedish FA partnership was credited by the CEO with strengthening the business during the World Cup (Nations League activations continued in Q3), and they became an official WSOP partner in Q2 to seed the poker vertical.",
+          "Segment profitability is not disclosed and no segment guidance is given. The regulatory overlay is the main medium-term risk: the government's inquiry into gambling by children and young adults (report due February 2028), Spelinspektionen's draft duty-of-care regulations with particular reference to 18–24-year-olds, the expanded credit ban in force since May 2026 and the industry debate over prediction markets all land mostly here. Svenska Spel already runs lower deposit limits for young adults and management's framing is that tighter rules strengthen the licensed channel (2025 channelisation 84%; betting 96%, online casino 81%). The 'healthy revenue' KPI dipping to 94% from 95% in the same quarter that actives hit a record is the one number we would press them on."
+        ],
+        "table": {
+          "note": "Sport & Casino, SEK m (USD at 9.91)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Net gaming revenue",
+              "kind": "emphasis",
+              "cells": [
+                "516 (~$52m)",
+                "-6.5% (552)",
+                "+5.5% (489)",
+                "1,633 (~$165m)",
+                "+6.2% (1,538)"
+              ]
+            },
+            {
+              "label": "Share of group NGR",
+              "indent": true,
+              "cells": [
+                "27.2%",
+                "-90bps (28.1%)",
+                "+110bps (26.1%)",
+                "28.4%",
+                "+80bps (27.7%)"
+              ]
+            },
+            {
+              "label": "Quarterly history (Q1-26 / Q4-25 / Q3-25 / Q2-25 / Q1-25)",
+              "indent": true,
+              "cells": [
+                "565 / 585 / 489 / 498 / 551",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "YoY growth by quarter (Q1 / Q2 / Q3 2026)",
+              "indent": true,
+              "cells": [
+                "+2.5% / +10.8% / +5.5%",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "FY2025 NGR (FY2024)",
+              "indent": true,
+              "cells": [
+                "2,123 (2,073)",
+                "",
+                "+2.4%",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "World Cup datapoints (June 2026, YoY; from Q2 report)",
+              "indent": true,
+              "cells": [
+                "S&C rev +24%; sports betting +135%; players +36%; new regs +340%",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Implied share of commercial online & betting market [estimate]",
+              "indent": true,
+              "cells": [
+                "Q3 n/a (market data due late Nov)",
+                "Q2-26: c.11.1%",
+                "Q2-25: c.10.8%; Q3-25: c.10.8%",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Commercial online & betting market (Spelinspektionen)",
+              "indent": true,
+              "cells": [
+                "Q3 n/a",
+                "Q2-26: 4,960 (~$500m), +7.1% YoY",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Million-kronor sports wins paid",
+              "indent": true,
+              "cells": [
+                "16 (incl. one solo 13-correct Stryktipset)",
+                "Q2: 22",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Handle / net sports margin / structural margin / promo % handle / actives / ARPU / marketing % rev / segment EBIT",
+              "indent": true,
+              "cells": [
+                "n/a (not disclosed)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Quarterly NGR and drivers",
+            "takeaway": "NGR rose 5.5% to SEK 516m (~$52m), 27% of group, on the World Cup finish and record actives, but key metrics are undisclosed.",
+            "points": [
+              "Up SEK 27m YoY; down 6.5% from the SEK 552m World Cup-peak quarter.",
+              "Strong tournament finish (final on 19 July) drove positive Oddset performance; new-customer offers pushed active customers to record levels; casino showed 'stable growth'.",
+              "No disclosure of handle, net or structural sports margin, promotional spend as a percentage of stakes, actives or ARPU.",
+              "Q2 report data: June Sport & Casino revenue +24% YoY, sports betting +135%, playing customers +36%, new registrations +340%; World Cup sales targets exceeded through 6 July."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Nine-month trend",
+            "takeaway": "9M NGR is SEK 1,633m (~$165m), +SEK 95m or +6.2%, an underlying mid-single-digit growth business with a tournament overlay.",
+            "points": [
+              "Growth was +2.5% in Q1, +10.8% in Q2 and +5.5% in Q3."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Market share and hold",
+            "takeaway": "Implied share rose to c.11.1% in Q2 2026 from 10.8%, but lower hold suggests share is partly bought through price/RTP and marketing.",
+            "points": [
+              "Spelinspektionen's commercial online & betting category grew 7.1% in Q2 2026 to SEK 4,960m (~$500m) while Sport & Casino grew 10.8%.",
+              "Implied share c.11.1% versus 10.8% in Q2 2025 and Q3 2025 [our estimate; category includes all 70-odd online licensees].",
+              "Q3 market figures arrive in late November and will show whether post-tournament share held.",
+              "Group payout ratio rose to 58.5% of stakes (57.5%) with stakes +3.8% versus NGR +1.3%, consistent with faster growth in Oddset-style fixed-odds product.",
+              "The +18% external-cost line also hints at marketing-driven share gains."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Products and sports rights",
+            "takeaway": "Investment is tilted toward engagement features and sports rights, including SHL and SDHL sponsorships extended to 2031.",
+            "points": [
+              "Casino launched '99 Royale', a multiplayer slot format (Ragnarok, Ra the King, Cherry Blossom) where up to 99 players compete in the same round.",
+              "'Europatipsmästaren' pools competition over six rounds attracted a little over 12,000 participants and 350 teams; winners donated SEK 200k to grassroots clubs via Gräsroten.",
+              "Sixteen million-kronor sports wins paid, including one solo 13-correct Stryktipset winner in September.",
+              "Swedish FA partnership credited by the CEO with strengthening the business during the World Cup; Nations League activations continued in Q3.",
+              "Became an official WSOP partner in Q2 to seed the poker vertical."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Regulatory risk",
+            "takeaway": "Segment profitability and guidance are undisclosed; the regulatory overlay is the main medium-term risk and lands mostly here.",
+            "points": [
+              "Government inquiry into gambling by children and young adults (report due February 2028); Spelinspektionen's draft duty-of-care regulations focus on 18–24-year-olds.",
+              "Expanded credit ban in force since May 2026; industry debate over prediction markets.",
+              "Svenska Spel already runs lower deposit limits for young adults; management frames tighter rules as strengthening the licensed channel (2025 channelisation 84%; betting 96%, online casino 81%).",
+              "The 'healthy revenue' KPI dipping to 94% from 95% in the same quarter actives hit a record is the one number we would press them on."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Vegas (video lottery terminals in restaurants & bingo halls) — 4% of group NGR",
+        "headline": "NGR -14% to SEK 67m (~$7m), 'in line with expectations'; the estate has been cut to c.2,700 machines in c.900 venues and the division is in managed decline under a social mandate.",
+        "narrative": [
+          "Vegas NGR was SEK 67m (~$7m), down SEK 11m or 14.1% YoY and 2.9% sequentially; nine-month NGR is SEK 198m (~$20m), -15.7%. They describe the decline as expected and attribute it to fewer partner venues and the long-run shift of customers to online play, and they continue to respond with cost efficiency and a focus on 'profitable business partners'. The multi-year trajectory is unambiguous: SEK 596m in 2021, 537m in 2022, 469m in 2023, 364m in 2024 and 310m in 2025, with 2026 tracking toward roughly SEK 265m on current run-rate [our arithmetic]. The decline rate has actually steepened versus Q3 2025's -10%, when management blamed the difficult economy for restaurant partners.",
+          "The footprint is being pruned faster than the revenue line suggests. The Q3 report describes c.2,700 Vegas machines across c.900 restaurants with serving licences and bingo halls; the Q2 report three months earlier described c.3,000 machines across c.1,000 venues — a c.10% reduction in both metrics in a single quarter, which tells us where the 'profitable partners' language leads. Game refresh continues at low cost (Drakens Tempel Sparky's Riches launched this quarter after Fortune Fever 7s in Q2; the core titles remain Big Easy, Loaded 7s and Grodjakten), but there is no capex programme to speak of — group tangible capex was SEK 21m for nine months.",
+          "Strategically Vegas exists because the owner's mandate requires Svenska Spel to offer value-machine gaming — it is the only form of VLT permitted in Sweden — so an outright exit is not on the table the way Casino Cosmopol's was. Spelinspektionen's own numbers show the adjacent land-based commercial casino category (restaurant casino) growing 13% to SEK 73m in Q2, so the venue channel itself is not dead; the issue is machine economics at the partner level. Segment profitability is not disclosed; at 4% of NGR and shrinking, the division is immaterial to group earnings but a persistent c.1pt drag on group growth (c.-0.6pt of the group's +1.3% in Q3 [derived])."
+        ],
+        "table": {
+          "note": "Vegas, SEK m (USD at 9.91)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Net gaming revenue",
+              "kind": "emphasis",
+              "cells": [
+                "67 (~$7m)",
+                "-2.9% (69)",
+                "-14.1% (78)",
+                "198 (~$20m)",
+                "-15.7% (235)"
+              ]
+            },
+            {
+              "label": "Share of group NGR",
+              "indent": true,
+              "cells": [
+                "3.5%",
+                "0bps (3.5%)",
+                "-70bps (4.2%)",
+                "3.4%",
+                "-80bps (4.2%)"
+              ]
+            },
+            {
+              "label": "Quarterly history (Q1-26 / Q4-25 / Q3-25 / Q2-25 / Q1-25)",
+              "indent": true,
+              "cells": [
+                "63 / 74 / 78 / 82 / 75",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Annual NGR 2021–2025",
+              "indent": true,
+              "cells": [
+                "596 / 537 / 469 / 364 / 310",
+                "",
+                "2025: -14.8%",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Machines / venues (company description)",
+              "indent": true,
+              "cells": [
+                "c.2,700 / c.900",
+                "Q2 report: c.3,000 / c.1,000 (-10% / -10%)",
+                "n/a",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Drag on group NGR growth [derived]",
+              "indent": true,
+              "cells": [
+                "c.-0.6pt of +1.3%",
+                "",
+                "",
+                "c.-0.7pt of +3.2%",
+                ""
+              ]
+            },
+            {
+              "label": "Segment operating profit",
+              "indent": true,
+              "cells": [
+                "n/a (not disclosed)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Quarterly NGR and trend",
+            "takeaway": "Vegas NGR fell 14.1% to SEK 67m (~$7m), 'in line with expectations', with decline steepening versus Q3 2025's -10%.",
+            "points": [
+              "Down SEK 11m YoY and 2.9% sequentially; nine-month NGR SEK 198m (~$20m), -15.7%.",
+              "Decline attributed to fewer partner venues and long-run shift of customers to online play; response is cost efficiency and focus on 'profitable business partners'.",
+              "Multi-year trajectory: SEK 596m in 2021, 537m in 2022, 469m in 2023, 364m in 2024, 310m in 2025; 2026 tracking toward roughly SEK 265m [our arithmetic].",
+              "In Q3 2025 management blamed the difficult economy for restaurant partners."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Estate and investment",
+            "takeaway": "Estate cut c.10% in a single quarter to c.2,700 machines in c.900 venues, with no meaningful capex programme.",
+            "points": [
+              "Q2 report described c.3,000 machines across c.1,000 venues; Q3 describes c.2,700 machines across c.900 restaurants with serving licences and bingo halls.",
+              "Game refresh continues at low cost: Drakens Tempel Sparky's Riches launched this quarter after Fortune Fever 7s in Q2; core titles remain Big Easy, Loaded 7s and Grodjakten.",
+              "Group tangible capex was SEK 21m for nine months."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Strategic position",
+            "takeaway": "Vegas exists under the owner's social mandate, so an outright exit is not on the table; it is a persistent c.1pt drag on group growth.",
+            "points": [
+              "Owner's mandate requires Svenska Spel to offer value-machine gaming, the only VLT form permitted in Sweden, unlike Casino Cosmopol's exit.",
+              "Spelinspektionen shows adjacent land-based restaurant casino category growing 13% to SEK 73m in Q2, so the venue channel itself is not dead; the issue is machine economics at partner level.",
+              "Segment profitability not disclosed; at 4% of NGR and shrinking, immaterial to group earnings but c.-0.6pt of the group's +1.3% growth in Q3 [derived]."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Sport & Casino +5.5% to SEK 516m (~$52m) in the post-World Cup quarter with record active customers; 9M +6.2% and an implied c.11.1% share of the commercial online & betting market in Q2 (10.8% a year earlier) — share gains in a +7% market [estimate from Spelinspektionen data].",
+        "tag": "structural"
+      },
+      {
+        "text": "Online NGR +4.1% to SEK 1,274m (~$129m), 67% of group (65%), mobile 59%; 9M online +8.4% to SEK 3,837m (~$387m). Channel migration is lowering direct-cost intensity (9M direct costs -1.0% on NGR +3.2%).",
+        "tag": "structural"
+      },
+      {
+        "text": "Tur grew (+0.7% to SEK 1,316m, ~$133m) despite a weak Eurojackpot cycle, on Lotto and the Triss 40th-anniversary ticket; 9M +3.2% versus a public-benefit lottery market growing c.2% in Q2 — consistent with the share-gain claim.",
+        "tag": "mixed"
+      },
+      {
+        "text": "9M EBIT +1.8% to SEK 1,932m (~$195m) at a 33.7% margin and continuing net profit +6.1% to SEK 1,630m (~$164m): all three owner targets (≥30% margin, 20–40% equity ratio, ≥80% payout) are met with room to spare.",
+        "tag": "structural"
+      },
+      {
+        "text": "Balance sheet is net cash with SEK 5,159m (~$521m) of cash and financial investments, no borrowings and a 43% equity ratio after paying a SEK 1,800m (~$182m) dividend — above the owner's 20–40% band, implying capacity for another above-policy distribution.",
+        "tag": "structural"
+      },
+      {
+        "text": "Casino Cosmopol exit fully closed: Stockholm property sold to Alecta Fastigheter for a SEK 288m (~$29m) gain, SEK 288m of disposal cash plus SEK 260m of intra-group loan settlement; no held-for-sale assets remain and the shells merge into the parent in Q4 2026.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Net financial items tripled to SEK 60m (~$6m) on SEK 59m of investment returns and a SEK 36m positive discounting effect on long-dated prize liabilities; no one-off costs in the period; report reviewed by Deloitte under ISRE 2410.",
+        "tag": "one-off"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "EBIT -8.6% to SEK 656m (~$66m) and margin -375bps to 34.6%, entirely from other external costs +17.6% (+SEK 69m) for the brand relaunch, AI and cloud migration. Total opex rose to 34.9% of NGR (31.9%). No budget, phasing or completion date is disclosed, so the 2027 margin is unmodellable from the filing.",
+        "tag": "structural"
+      },
+      {
+        "text": "Gross profit was flat (+0.3% to SEK 1,320m) because gaming tax rose 6.7% to 21.8% of NGR (+110bps) and payout climbed to 58.5% of stakes (+100bps) — mix is shifting to lower-hold, fully-taxed online sport/casino product.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Net profit -3.3% to SEK 565m (~$57m) flatters the quarter: excluding the SEK 40m YoY swing in finance income (largely mark-to-market and a liability-discounting effect) the underlying decline is c.9%, in line with EBIT.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Vegas -14.1% to SEK 67m (~$7m), 9M -15.7%, with the estate cut c.10% in a quarter to c.2,700 machines/c.900 venues; retail agents -1.6% (9M -3.5%). Land-based is c.33% of NGR and shrinking at -2% to -15%.",
+        "tag": "structural"
+      },
+      {
+        "text": "Q3 operating cash flow fell 18.8% to SEK 393m (~$40m) on working-capital outflow (-SEK 183m), and cash is down 25.7% YoY to SEK 2,575m (~$260m) as SEK 463m was moved into financial investments — the finance line is now exposed to bond/fund marks.",
+        "tag": "mixed"
+      },
+      {
+        "text": "'Healthy revenue' slipped to 94% (95%) in the same quarter that new-customer offers drove record Sport & Casino actives, while the regulatory agenda (youth inquiry reporting Feb 2028, draft duty-of-care rules targeting 18–24s) is tightening.",
+        "tag": "watch"
+      },
+      {
+        "text": "Disclosure is well below listed-peer standard: no actives, ARPU, handle by segment, sports margin, promo intensity, marketing spend or segment profit; eegaming's English summary even reprinted FY2025 numbers as 9M 2026 — rely on the Swedish IAS 34 report only.",
+        "tag": "governance"
+      }
+    ],
+    "forecast": {
+      "intro": "Svenska Spel issues no numerical guidance, so the bridge is against the owner's three financial targets and management's qualitative signals. Nothing was changed this quarter: the 30% operating-margin target (over time), the 20–40% year-end equity-ratio band and the ≥80% payout policy all stand, and management reiterated that strategic spending on brand, AI and cloud will continue. The division that moved the needle was the group cost base rather than any business area: Sport & Casino delivered the growth (+5.5%), Tur held (+0.7%), Vegas fell as flagged (-14%, 'in line with expectations'), and the SEK 62m EBIT decline is explained by +SEK 69m of external costs against +SEK 4m of gross profit. The owner-target scorecard at nine months: margin 33.7% (Q3 34.6%) versus ≥30%; equity ratio 43% versus 20–40%; FY2025 payout 92% of total profit (SEK 1,800m) versus ≥80%.",
+      "bridge": [
+        {
+          "title": "Owner target: operating margin ≥30% over time",
+          "value": "9M-26 delivered 33.7% (Q3 34.6%)",
+          "change": "Q3 -375bps YoY; 9M -50bps; still c.370bps above target"
+        },
+        {
+          "title": "Q3 EBIT bridge (SEK m)",
+          "value": "718 → 656 (~$66m)",
+          "change": "+4 gross profit (NGR +24, other income +9, gaming tax -26, direct costs -4); +4 capitalised work; +1 personnel; -69 other external; -1 D&A"
+        },
+        {
+          "title": "Owner target: equity ratio 20–40% at year-end",
+          "value": "43% at 30 Sep 2026",
+          "change": "+200bps vs Dec-25 (41%) after SEK 1,800m dividend; above band → excess capital"
+        },
+        {
+          "title": "Owner target: dividend ≥80% of net profit after tax",
+          "value": "FY25 paid SEK 1,800m (~$182m) in Q2-26",
+          "change": "92% of FY25 total profit (86% of continuing); FY26 base will include the SEK 288m disposal gain"
+        },
+        {
+          "title": "Cost run-rate signalled by management",
+          "value": "Other external costs SEK 460m in Q3 (24.2% of NGR)",
+          "change": "+SEK 69m YoY in Q3, +SEK 124m at 9M; program open-ended, no budget disclosed"
+        }
+      ],
+      "view": "Our independent view (all figures estimates): **Q4 2026 NGR of SEK 2.15–2.20bn (~$217–222m), +1% to +3% YoY** against a strong Q4 2025 comp (SEK 2,131m, EBIT SEK 641m, +16%). Tur should carry the quarter on Christmas Triss/Lotto with Eurojackpot the swing; Sport & Casino has no tournament tailwind but a full hockey season plus autumn football, so we assume +3–5%; Vegas continues at -12% to -15%. On costs we assume other external costs stay elevated at c.SEK 500–520m in the seasonally marketing-heavy Q4 (Q4 2025 implied c.SEK 569m), giving **Q4 EBIT of SEK 620–670m and a 29–30.5% margin** — Q4 is habitually the margin low. That implies **FY2026 NGR c.SEK 7.9bn (~$796–801m), +2.5–3%, EBIT c.SEK 2.55–2.60bn (~$258–263m), +0.5–2.5%, margin c.32.5% (33.0% in 2025)**, continuing net profit c.SEK 2.15–2.2bn (~$217–221m) assuming c.SEK 40m of quarterly finance income and a 20.8% tax rate, and total IFRS profit c.SEK 2.45bn including the SEK 288m disposal gain. **Leverage direction: n/a — the company has no financial debt and ends the year with c.SEK 5bn of cash and investments.** On distribution, 80% of total profit points to a FY2026 dividend of at least c.SEK 1.95–2.0bn (~$197–200m) versus SEK 1,800m paid this year, and with the equity ratio above the 20–40% band the risk is skewed to a larger payout rather than a smaller one. Margin direction into 2027 is the key unknown: if brand/AI/cloud spending is a two-year program the margin troughs in the low-30s and recovers; if it becomes the new run-rate, the 30% target is a floor the business settles on rather than clears. The 8 February 2027 year-end report (and the dividend proposal) is the next hard datapoint.",
+      "watch": [
+        "Q4 other-external-cost run-rate and any first quantification of the brand/AI/cloud program (budget, end-date) — the single biggest swing factor for 2027 margin.",
+        "Spelinspektionen Q3 2026 market statistics (late November): does Sport & Casino hold its c.11% share of commercial online & betting without the World Cup, and does Tur keep outgrowing public-benefit lotteries?",
+        "Eurojackpot jackpot cycle through Q4 and the Christmas Triss/Lotto season — Tur is 69% of NGR and Q4 is its biggest quarter (Q4 2025 SEK 1,471m).",
+        "FY2026 dividend proposal with the 8 Feb 2027 year-end report: payout on total profit (incl. SEK 288m gain) vs continuing profit, and whether the owner takes the equity ratio back inside the 20–40% band.",
+        "'Healthy revenue' KPI (94%) and Spelpaus trends as actives grow; draft Spelinspektionen duty-of-care regulations, the youth-gambling inquiry (report Feb 2028), the participant-criterion enforcement proposal and prediction-market regulation.",
+        "Vegas partner-venue count and machine estate (c.2,700/c.900) — pace of pruning and whether NGR decline stabilises in the -10% range.",
+        "Finance-net volatility: SEK 2.58bn of bond and fund holdings and SEK 755m of fair-valued Triss Månadsklöver liabilities make the line sensitive to Swedish rates and equity marks.",
+        "Completion of the Q4 2026 merger of Svenska Spels Förvaltnings AB and CC Casino Restaurang AB into the parent, closing the Casino Cosmopol chapter."
+      ]
+    },
+    "sharePriceReaction": "n/a — AB Svenska Spel is 100% owned by the Swedish state (2,000 shares, no listed equity or public debt; HQ Visby, org. no. 556460-1812), so there is no market reaction to measure. Fiscal year ends 31 December; the year-end report is due 8 February 2027.",
+    "confidence": "MEDIUM",
+    "confidenceNote": "FX: USD/SEK 9.91 as of 22 Oct 2026 (ECB reference cross EUR/SEK 11.1120 ÷ EUR/USD 1.1205 = 9.917; Investing.com close 9.9114); USD figures are approximate conversions. All P&L, balance-sheet, cash-flow, channel and business-area figures are taken directly from Svenska Spel's IAS 34 interim report Jan–Sep 2026 (board-approved 21 Oct 2026, published 22 Oct 2026, reviewed by Deloitte) and cross-checked against the company press release, next.io, iGaming Express and InterGame; headline NGR/EBIT/net profit agree across all sources. HIGH confidence on reported figures; MEDIUM overall because (i) EBITDA, FCF, opex totals, bps moves and market shares are our derivations, not company-reported; (ii) actives, ARPU, handle by segment, sports margins, promo intensity, marketing spend and segment profit are not disclosed and are marked n/a; (iii) the Q3 2025 operating margin is 38.3% on our calculation (718/1,874) whereas the company's quarterly chart shows 38.6% — we use 38% company-rounded and c.-375bps; (iv) the eegaming.org English summary misreports 9M 2026 figures (it reprints FY2025 numbers: NGR 7,693, EBIT 2,539, profit 2,099) — disregarded; (v) Vegas machine/venue counts are the company's approximate descriptions ('cirka'), and the Spelinspektionen Q2 figures are preliminary. Q4/FY2026 figures in the forecast are our estimates.",
+    "sources": [
+      {
+        "label": "Svenska Spel — Delårsrapport januari–september 2026 (IAS 34 interim report, PDF, 23pp; primary filing)",
+        "kind": "primary",
+        "url": "https://om.svenskaspel.se/wp-content/uploads/2026/10/delarsrapport-q3-2026.pdf"
+      },
+      {
+        "label": "Svenska Spel — press release 22 Oct 2026: 'Delårsrapport januari–september 2026: Högt kundengagemang lyfter Oddset, casino och Triss'",
+        "kind": "primary",
+        "url": "https://om.svenskaspel.se/koncernnyheter/delarsrapport-januari-september-2026-hogt-kundengagemang-lyfter-oddset-casino-och-triss/"
+      },
+      {
+        "label": "Svenska Spel — Delårsrapport januari–juni 2026 (Q2 2026 interim report, PDF; World Cup datapoints, Q2 P&L for QoQ)",
+        "kind": "primary",
+        "url": "https://om.svenskaspel.se/wp-content/uploads/2026/07/delarsrapport-q2-2026.pdf"
+      },
+      {
+        "label": "Svenska Spel — press release Q3 2025 (Q3 2025 EBIT SEK 718m, +19% vs 606m; search snippet only)",
+        "kind": "primary",
+        "url": "https://om.svenskaspel.se/koncernnyheter/delarsrapport-januari-september-2025-eurojackpot-och-oddset-driver-tillvaxt-svenska-spel-okar-intakterna/"
+      },
+      {
+        "label": "Svenska Spel — financial information page (report calendar)",
+        "kind": "primary",
+        "url": "https://om.svenskaspel.se/om-oss/bolagsstyrning/finansiell-information-och-hallbarhetsredovisning/"
+      },
+      {
+        "label": "Spelinspektionen — 'Spelbolag med svensk licens omsatte 7,4 miljarder kronor under andra kvartalet' (26 Aug 2026; regulator market data)",
+        "kind": "primary",
+        "url": "https://www.spelinspektionen.se/nyhetsarkiv/spelbolag-med-svensk-licens-omsatte-74-miljarder-kronor-under-andra-kvartalet"
+      },
+      {
+        "label": "Spelinspektionen — Statistik: quarterly market turnover by category Q2 2025–Q2 2026",
+        "kind": "primary",
+        "url": "https://www.spelinspektionen.se/om-oss/statistik/"
+      },
+      {
+        "label": "NEXT.io — 'Q3 2026: Svenska Spel sees net profit fall despite revenue growth' (22 Oct 2026; user-supplied)",
+        "kind": "secondary",
+        "url": "https://next.io/news/results/q3-2026-svenska-spel-sees-net-profit-fall/"
+      },
+      {
+        "label": "Gaming Intelligence — 'Svenska Spel revenue climbs 1% in third quarter' (22 Oct 2026; paywalled, headline NGR SEK 1,898m corroborated; user-supplied)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/237607-svenska-spel-revenue-climbs-1-in-third-quarter/"
+      },
+      {
+        "label": "iGaming Express — 'Svenska Spel Q3 Profit Falls' (23 Oct 2026; corroborates NGR, EBIT, PBT, tax, net profit, 9M)",
+        "kind": "secondary",
+        "url": "https://igamingexpress.com/svenska-spel-q3-profit-falls/"
+      },
+      {
+        "label": "SBC News — 'Svenska Spel ups core brand investment as profits locked-in for 2026' (23 Oct 2026; search excerpt, page not fetchable)",
+        "kind": "secondary",
+        "url": "https://sbcnews.co.uk/retail/2026/10/23/svenska-spel-q3-2026/"
+      },
+      {
+        "label": "InterGame — 'Svenska Spel growth a statement of strength' (Oct 2026)",
+        "kind": "secondary",
+        "url": "https://www.intergameonline.com/land-based-gaming/news/svenska-spel-growth-a-statement-of-strength"
+      },
+      {
+        "label": "eegaming.org — English summary of the Q3 2026 report (26 Oct 2026; contains erroneous 9M figures — used for CEO quotes only)",
+        "kind": "secondary",
+        "url": "https://eegaming.org/latest-news/2026/10/26/53324/svenska-spel-interim-report-january-september-2026-high-customer-engagement-lifts-oddset-casino-and/"
+      },
+      {
+        "label": "ECB euro foreign exchange reference rates, 22 Oct 2026 (EUR/USD 1.1205, EUR/SEK 11.1120)",
+        "kind": "secondary",
+        "url": "https://www.ecb.europa.eu/stats/shared/pdf/eurofxref.pdf"
+      },
+      {
+        "label": "Investing.com — USD/SEK historical data (22 Oct 2026 close 9.9114)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/currencies/usd-sek-historical-data"
+      }
+    ]
+  }
+}

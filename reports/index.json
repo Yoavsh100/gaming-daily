@@ -1696,5 +1696,136 @@
     "releaseDate": "22 Oct 2026 (HKEX announcement, 04:00 HKT; LVS release 21 Oct 2026 after US close)",
     "model": "claude-fable-5-1",
     "costUsd": 5.09
+  },
+  {
+    "key": "svenska spel|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-28T18:33:55.842Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "SVENSKA-SPEL-Q3-2026",
+    "published": "2026-10-28",
+    "company": {
+      "name": "Svenska Spel",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A revenue-steady, cost-heavy quarter. Group NGR rose 1.3% to SEK 1,898m (~$192m) as post-World Cup Oddset and casino (Sport & Casino +5.5%) plus Triss/Lotto offset a weaker Eurojackpot and a 14% Vegas decline, but a SEK 69m (+18%) step-up in external costs for the brand relaunch, AI and cloud migration cut operating profit 9% to SEK 656m (~$66m) and the margin by c.375bps to 34.6%. Net profit fell only 3% to SEK 565m (~$57m) because finance income tripled; the business is still well above the owner's 30% margin target, so the debate is about the duration of the spend, not demand.",
+    "kpis": [
+      {
+        "label": "Net gaming revenue (Q3)",
+        "value": "SEK 1,898m (~$192m)",
+        "delta": "+1.3% YoY / -3.3% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Operating profit (EBIT, Q3)",
+        "value": "SEK 656m (~$66m)",
+        "delta": "-8.6% YoY / +6.3% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Operating margin (Q3)",
+        "value": "34.6%",
+        "delta": "-375bps YoY (38.3%)",
+        "dir": "down"
+      },
+      {
+        "label": "Net profit, continuing ops (Q3)",
+        "value": "SEK 565m (~$57m)",
+        "delta": "-3.3% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Online share of NGR (Q3)",
+        "value": "67%",
+        "delta": "+180bps YoY (65%)",
+        "dir": "up"
+      },
+      {
+        "label": "Cash + financial investments (30 Sep)",
+        "value": "SEK 5,159m (~$521m)",
+        "delta": "No financial debt; equity ratio 43% (41% Dec-25)",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "22 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.28
+  },
+  {
+    "key": "juris|united states|AUGUST 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-28T18:44:51.284Z",
+    "status": "failed",
+    "error": "r.forecast.bridge is not iterable",
+    "type": "jurisdiction",
+    "company": {
+      "name": "United States",
+      "ticker": ""
+    },
+    "period": "AUGUST 2026"
+  },
+  {
+    "key": "juris|pennsylvania|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-28T18:58:54.792Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "PENNSYLVANIA-SEPTEMBER-2026",
+    "published": "2026-10-28",
+    "company": {
+      "name": "Pennsylvania",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "Pennsylvania's September 2026 print ($555.0m, +4.1% YoY) confirms a $7bn-a-year, online-led market: iGaming (+6.8%) and a hold-driven sports betting rebound (+50% taxable revenue on −6% handle) carried a −3.2% retail casino month. The numbers are strong but the rules are tightening — a bipartisan online consumer-protection push (HB 2879, PGCB Regulation 125-258), the post-Supreme Court skill-game shake-out and unlicensed sweepstakes/prediction-market competition define the 2027 agenda far more than tax risk does.",
+    "kpis": [
+      {
+        "label": "Total gaming revenue (Sep-26)",
+        "value": "$555.0m",
+        "delta": "+4.1% YoY; −2.6% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "iGaming GGR",
+        "value": "$249.3m",
+        "delta": "+6.8% YoY; 44.9% of total (+1.2pp)",
+        "dir": "up"
+      },
+      {
+        "label": "Sports wagering taxable revenue",
+        "value": "$44.7m",
+        "delta": "+50.5% YoY on handle −6.1% ($798.7m)",
+        "dir": "up"
+      },
+      {
+        "label": "Retail casino GGR (slots + tables)",
+        "value": "$256.3m",
+        "delta": "−3.2% YoY (tables −18.1%)",
+        "dir": "down"
+      },
+      {
+        "label": "Tax & local share collected",
+        "value": "$242.6m",
+        "delta": "43.7% of GGR; −2.6% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "Online share of GGR",
+        "value": "52.5%",
+        "delta": "iGaming + online sports + DFS = $291.1m",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "19 Oct 2026 (PGCB September 2026 revenue release)",
+    "model": "claude-fable-5-1",
+    "costUsd": 6.26
   }
 ]
