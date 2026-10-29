@@ -647,7 +647,8 @@
       "https://www.gamingintelligence.com/finance/237900-caesars-entertainment-widens-net-loss-in-q3/",
       "https://www.yogonet.com/international/news/2026/10/28/127047-caesars-reports-123-million-q3-loss-as-las-vegas-weakness-offsets-regional-and-digital-gains",
       "https://next.io/news/results/q3-2026-caesars-entertainment-digital-revenue-growth/",
-      "https://casinobeats.com/2026/10/28/caesars-q3-las-vegas-earnings-slide-while-regional-and-digital-units-keep-growing/"
+      "https://casinobeats.com/2026/10/28/caesars-q3-las-vegas-earnings-slide-while-regional-and-digital-units-keep-growing/",
+      "https://igamingfuture.com/caesars-q3-loss-widens-despite-digital-ebitda-growth/"
     ],
     "seen": "2026-10-28"
   },
@@ -774,6 +775,50 @@
     "period": "2026",
     "urls": [
       "https://findmoreafrica.com/cameroon-betting-market-faces-revenue-transparency-concerns/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cameroon-betting-market-faces-revenue-transparency-concerns"
+    ],
+    "seen": "2026-10-29"
+  },
+  {
+    "key": "mgm resorts international|Q3 2026",
+    "type": "company",
+    "company": "MGM Resorts International",
+    "ticker": "MGM",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237971-mgm-resorts-revenue-falls-1-to-4-21-billion-in-third-quarter/"
+    ],
+    "seen": "2026-10-29"
+  },
+  {
+    "key": "CHDN|Q3 2026",
+    "type": "company",
+    "company": "Churchill Downs Incorporated",
+    "ticker": "CHDN",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237972-churchill-downs-inc-raises-dividend-as-net-income-grows-in-q3/"
+    ],
+    "seen": "2026-10-29"
+  },
+  {
+    "key": "RSI|Q3 2026",
+    "type": "company",
+    "company": "Rush Street Interactive",
+    "ticker": "RSI",
+    "period": "Q3 2026",
+    "urls": [
+      "https://igamingfuture.com/rush-street-interactive/"
+    ],
+    "seen": "2026-10-29"
+  },
+  {
+    "key": "juris|ontario|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Ontario",
+    "authority": "iGaming Ontario",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237963-ontario-igaming-wagers-grow-to-c9-71-billion-in-september/"
     ],
     "seen": "2026-10-29"
   }
