@@ -1,15 +1,5 @@
 [
   {
-    "key": "pointsbet|H1 FY2027",
-    "company": "PointsBet Holdings",
-    "ticker": "PBH.AX",
-    "period": "H1 FY2027",
-    "urls": [
-      "https://next.io/news/results/pointsbet-holdings-revenue-decline-h1-2027/"
-    ],
-    "seen": "2026-10-14"
-  },
-  {
     "key": "ENT.L|Q3 2026",
     "company": "BetMGM",
     "ticker": null,
@@ -654,7 +644,10 @@
     "ticker": "CZR",
     "period": "Q3 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/237900-caesars-entertainment-widens-net-loss-in-q3/"
+      "https://www.gamingintelligence.com/finance/237900-caesars-entertainment-widens-net-loss-in-q3/",
+      "https://www.yogonet.com/international/news/2026/10/28/127047-caesars-reports-123-million-q3-loss-as-las-vegas-weakness-offsets-regional-and-digital-gains",
+      "https://next.io/news/results/q3-2026-caesars-entertainment-digital-revenue-growth/",
+      "https://casinobeats.com/2026/10/28/caesars-q3-las-vegas-earnings-slide-while-regional-and-digital-units-keep-growing/"
     ],
     "seen": "2026-10-28"
   },
@@ -710,5 +703,63 @@
       "https://www.gamingintelligence.com/finance/237915-betr-reports-strong-wagering-growth-in-fiscal-first-quarter/"
     ],
     "seen": "2026-10-28"
+  },
+  {
+    "key": "gaming innovation|Q3 2026",
+    "type": "company",
+    "company": "Gaming Innovation Group",
+    "ticker": "GIGSEK",
+    "period": "Q3 2026",
+    "urls": [
+      "https://ibetafrica.com/2026/10/29/gig-888africa-acquisition-q3-2026-results/",
+      "https://next.io/news/people/gig-software-ceo-25-headcount-cut/",
+      "https://www.gamingintelligence.com/finance/237921-gig-software-revenue-decline-continues-into-third-quarter/",
+      "https://next.io/news/results/q3-2026-gig-software-profit-plummets/"
+    ],
+    "seen": "2026-10-29"
+  },
+  {
+    "key": "airtel africa|H1 FY2027",
+    "type": "company",
+    "company": "Airtel Africa plc",
+    "ticker": "AAF.L",
+    "period": "H1 FY2027",
+    "urls": [
+      "https://ibetafrica.com/2026/10/29/airtel-money-revenue-830-million-transactions-africa-2026/"
+    ],
+    "seen": "2026-10-29"
+  },
+  {
+    "key": "monarch casino and resort|Q3 2026",
+    "type": "company",
+    "company": "Monarch Casino & Resort",
+    "ticker": "MCRI",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237909-record-third-quarter-for-monarch-casino-resort/"
+    ],
+    "seen": "2026-10-29"
+  },
+  {
+    "key": "juris|africa|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Africa",
+    "authority": "Blask",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://igamingafrika.com/africa-igaming-in-september-2026-blask-recap/"
+    ],
+    "seen": "2026-10-29"
+  },
+  {
+    "key": "juris|illinois|AUGUST 2026",
+    "type": "jurisdiction",
+    "market": "Illinois",
+    "authority": "Illinois Gaming Board",
+    "period": "AUGUST 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/237822-illinois-sportsbooks-report-1-03-billion-in-august-handle/"
+    ],
+    "seen": "2026-10-29"
   }
 ]
