@@ -680,7 +680,11 @@
     "ticker": null,
     "period": "Q3 2026",
     "urls": [
-      "https://next.io/news/results/q3-2026-gig-software-profit-plummets/"
+      "https://next.io/news/results/q3-2026-gig-software-profit-plummets/",
+      "https://www.thegamblest.com/gig-software-q3-loss-widens-as-revenue-falls-12/",
+      "https://www.gamingintelligence.com/finance/237921-gig-software-revenue-decline-continues-into-third-quarter/",
+      "https://next.io/news/people/gig-software-ceo-25-headcount-cut/",
+      "https://ibetafrica.com/2026/10/29/gig-888africa-acquisition-q3-2026-results/"
     ],
     "seen": "2026-10-28"
   },
@@ -759,6 +763,17 @@
     "period": "AUGUST 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/237822-illinois-sportsbooks-report-1-03-billion-in-august-handle/"
+    ],
+    "seen": "2026-10-29"
+  },
+  {
+    "key": "juris|cameroon|2026",
+    "type": "jurisdiction",
+    "market": "Cameroon",
+    "authority": "AfriBallon",
+    "period": "2026",
+    "urls": [
+      "https://findmoreafrica.com/cameroon-betting-market-faces-revenue-transparency-concerns/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cameroon-betting-market-faces-revenue-transparency-concerns"
     ],
     "seen": "2026-10-29"
   }
