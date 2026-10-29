@@ -1758,16 +1758,62 @@
   },
   {
     "key": "juris|united states|AUGUST 2026",
-    "attempts": 1,
-    "lastAttempt": "2026-10-28T18:44:51.284Z",
-    "status": "failed",
-    "error": "r.forecast.bridge is not iterable",
+    "attempts": 2,
+    "lastAttempt": "2026-10-29T18:43:00.027Z",
+    "status": "done",
+    "error": null,
     "type": "jurisdiction",
     "company": {
       "name": "United States",
-      "ticker": ""
+      "ticker": "",
+      "exchange": ""
     },
-    "period": "AUGUST 2026"
+    "period": "AUGUST 2026",
+    "slug": "UNITED-STATES-AUGUST-2026",
+    "published": "2026-10-29",
+    "verdict": "A flat headline hides a sharp mix shift: August 2026 US commercial GGR slipped 0.6% YoY to $6.48bn as sports betting revenue fell 15.6% to $1.00bn on a 160bp hold collapse (9.2% vs 10.8%) and handle that is now shrinking in every month without a World Cup, while iGaming (+12.3% to $1.03bn) out-earned sportsbooks for the month and retail casino held steady (+0.9%). For an operator, the regulated US sportsbook is now a share-and-tax fight against an untaxed, federally-sheltered prediction-market competitor whose legal status is heading to the Supreme Court; iGaming remains the growth vertical but is locked in seven states with no new launches in 2026.",
+    "kpis": [
+      {
+        "label": "Commercial GGR (Aug-26)",
+        "value": "$6.48bn",
+        "delta": "-0.6% YoY; YTD $53.84bn +5.4%",
+        "dir": "down"
+      },
+      {
+        "label": "Sports betting GGR",
+        "value": "$1.00bn",
+        "delta": "-15.6% YoY; hold 9.2% vs 10.8%",
+        "dir": "down"
+      },
+      {
+        "label": "Sports betting handle",
+        "value": "$10.89bn",
+        "delta": "-0.7% YoY; -6.1% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "iGaming GGR (7 states)",
+        "value": "$1.03bn",
+        "delta": "+12.3% YoY; YTD $8.11bn +17.4%",
+        "dir": "up"
+      },
+      {
+        "label": "Traditional casino GGR",
+        "value": "$4.44bn",
+        "delta": "+0.9% YoY (slots +1.0%, tables +2.1%)",
+        "dir": "up"
+      },
+      {
+        "label": "State gaming tax (AGA-compiled)",
+        "value": "$1.46bn",
+        "delta": "-1.5% YoY; sports betting tax -14.0%",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "21 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.79
   },
   {
     "key": "juris|pennsylvania|SEPTEMBER 2026",
@@ -1827,5 +1873,123 @@
     "releaseDate": "19 Oct 2026 (PGCB September 2026 revenue release)",
     "model": "claude-fable-5-1",
     "costUsd": 6.26
+  },
+  {
+    "key": "juris|cyprus|Q2 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-29T19:06:06.231Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "CYPRUS-Q2-2026",
+    "published": "2026-10-29",
+    "company": {
+      "name": "Cyprus",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q2 2026",
+    "verdict": "Cyprus's licensed betting market posted its strongest quarter in the NBA's published series in Q2 2026: GGR +23.6% YoY to €46.9m (~$53.4m) on stakes of €329.8m (~$375.8m, +10.6%), a series-high 14.2% hold, and online (Class B) now 64% of GGR. The regime is narrow (sports betting only; online casino, slots and exchanges prohibited), fiscally stable (15% of GGR all-in; 19 licensees unchanged for six quarters) and tightening at the edges — B2B supplier licensing, retail self-exclusion and social-media advertising enforcement are the live files, tax is not. For an operator the prize is a c.€120m-a-year online GGR pool contested by 13 incumbents; for a technology supplier the coming B2B licence is the more consequential change.",
+    "kpis": [
+      {
+        "label": "Stakes (pay-in), Q2-26",
+        "value": "€329.8m (~$375.8m)",
+        "delta": "+10.6% YoY / −8.4% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "GGR (stakes − winnings, pre-tax), Q2-26",
+        "value": "€46.9m (~$53.4m)",
+        "delta": "+23.6% YoY / +2.2% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Blended hold (GGR/stakes)",
+        "value": "14.2%",
+        "delta": "+1.5pp YoY; series high",
+        "dir": "up"
+      },
+      {
+        "label": "Online (Class B) share of GGR",
+        "value": "64.4%",
+        "delta": "+1.8pp YoY (76.5% of stakes)",
+        "dir": "up"
+      },
+      {
+        "label": "Betting tax + contribution (15% of GGR)",
+        "value": "€7.0m (~$8.0m)",
+        "delta": "+23.6% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Licensees / betting premises",
+        "value": "19 (6 Class A, 13 Class B) / 461",
+        "delta": "flat YoY (premises +1)",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "20 Oct 2026 (NBA Q2 2026 Financial Results & Quantitative Data; report PDF dated 27 Oct 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.77
+  },
+  {
+    "key": "EVOK.L|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-29T19:23:20.186Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "EVOK-L-Q3-2026",
+    "published": "2026-10-29",
+    "company": {
+      "name": "evoke plc",
+      "ticker": "EVOK.L",
+      "exchange": "LSE"
+    },
+    "period": "Q3 2026",
+    "verdict": "A revenue-only trading update that confirms the 2026 story: the estate shrink and a 1–2ppt bad-results hit took reported Q3 revenue down 7% to £406m (~$544m), while like-for-like constant-currency revenue fell 2% — a deceleration from +2% in H1 even with the July World Cup in the base. With no divisional, EBITDA or net-debt disclosure and no guidance during the offer period, the equity is now a bet on Bally's Intralot closing on time (headline 52p/~$0.70 all-share, shares ~42p/~$0.56) against a balance sheet already at 5.6x and drifting toward ~6x as the 40% RGD annualises.",
+    "kpis": [
+      {
+        "label": "Q3-26 Group revenue",
+        "value": "£406m (~$544m)",
+        "delta": "-7% YoY reported (unaudited)",
+        "dir": "down"
+      },
+      {
+        "label": "Q3-26 LfL cc revenue growth",
+        "value": "-2%",
+        "delta": "vs +2% LfL in H1-26 and Q1-26",
+        "dir": "down"
+      },
+      {
+        "label": "Retail estate",
+        "value": "c.270 fewer shops YoY",
+        "delta": "c.70 closed Q4-25 + c.200 from 24 May 2026",
+        "dir": "down"
+      },
+      {
+        "label": "Net debt (30 Jun 26, last disclosed)",
+        "value": "£1,899.4m (~$2.55bn)",
+        "delta": "+£36.7m (~$49m) vs FY25",
+        "dir": "up"
+      },
+      {
+        "label": "Net leverage (30 Jun 26)",
+        "value": "5.6x LTM adj. EBITDA",
+        "delta": "vs 5.2x at Dec-25",
+        "dir": "up"
+      },
+      {
+        "label": "Share price vs offer",
+        "value": "42.1p (~$0.56) close",
+        "delta": "~19% below 52p (~$0.70) headline Bally's Intralot terms",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "23 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.45
   }
 ]
