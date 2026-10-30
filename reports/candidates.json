@@ -874,7 +874,30 @@
     "period": "9M 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238025-pagcor-posts-23-drop-in-revenue-for-9m-2026/",
-      "https://www.yogonet.com/international/news/2026/10/29/127076-pagcor-reports-2341-revenue-decline-as-gaming-earnings-weaken"
+      "https://www.yogonet.com/international/news/2026/10/29/127076-pagcor-reports-2341-revenue-decline-as-gaming-earnings-weaken",
+      "https://www.thegamblest.com/pagcor-reports-revenue-fall-of-23-4-in-2026/"
+    ],
+    "seen": "2026-10-30"
+  },
+  {
+    "key": "juris|netherlands|2025",
+    "type": "jurisdiction",
+    "market": "Netherlands",
+    "authority": "Ksa",
+    "period": "2025",
+    "urls": [
+      "https://casinobeats.com/2026/10/30/ksa-market-scan-dutch-gambling-market-2025/"
+    ],
+    "seen": "2026-10-30"
+  },
+  {
+    "key": "juris|south dakota|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "South Dakota",
+    "authority": null,
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238023-south-dakota-report-11-rise-in-gambling-turnover-for-september/"
     ],
     "seen": "2026-10-30"
   }
