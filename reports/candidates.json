@@ -1,41 +1,5 @@
 [
   {
-    "key": "ENT.L|Q3 2026",
-    "company": "BetMGM",
-    "ticker": null,
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/10/14/126830-betmgm-q3-adjusted-ebitda-doubles-to-86-million-fullyear-2026-guidance-reaffirmed",
-      "https://next.io/news/results/betmgm-shifts-focus-to-higher-value-us-markets/",
-      "https://next.io/news/results/entain-q3-uk-online-surge-pushes-ngr-up/",
-      "https://casinobeats.com/2026/10/14/betmgm-q3-results/",
-      "https://www.gamingintelligence.com/finance/237296-entain-benefits-from-uk-and-ireland-growth-in-q3-2026/",
-      "https://europeangaming.eu/portal/latest-news/2026/10/15/216063/entain-q3-2026-trading-update/"
-    ],
-    "seen": "2026-10-15"
-  },
-  {
-    "key": "rank|Q1 FY2027",
-    "company": "The Rank Group plc",
-    "ticker": "RNK.L",
-    "period": "Q1 FY2027",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237295-rank-group-delivers-like-for-like-revenue-growth-in-fiscal-first-quarter/",
-      "https://next.io/news/results/rank-highlights-digital-resilience-despite-headwinds/"
-    ],
-    "seen": "2026-10-15"
-  },
-  {
-    "key": "okada manila|Q3 2026",
-    "company": "Okada Manila",
-    "ticker": null,
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237308-okada-manila-returns-to-revenue-growth-in-third-quarter/"
-    ],
-    "seen": "2026-10-15"
-  },
-  {
     "key": "rank|Q1 FY2026/27",
     "company": "The Rank Group Plc",
     "ticker": "RNK.L",
@@ -741,7 +705,8 @@
     "ticker": "MCRI",
     "period": "Q3 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/237909-record-third-quarter-for-monarch-casino-resort/"
+      "https://www.gamingintelligence.com/finance/237909-record-third-quarter-for-monarch-casino-resort/",
+      "https://www.yogonet.com/international/news/2026/10/29/127063-monarch-casino-revenue-rises-to-record-1463-million-in-q3-as-profit-reaches-32-million"
     ],
     "seen": "2026-10-29"
   },
@@ -785,7 +750,9 @@
     "ticker": "MGM",
     "period": "Q3 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/237971-mgm-resorts-revenue-falls-1-to-4-21-billion-in-third-quarter/"
+      "https://www.gamingintelligence.com/finance/237971-mgm-resorts-revenue-falls-1-to-4-21-billion-in-third-quarter/",
+      "https://www.thegamblest.com/mgm-resorts-revenue-falls-1-in-q3-2026/",
+      "https://www.yogonet.com/international/news/2026/10/29/127074-mgm-resorts-reports-1-revenue-decline-in-q3-as-las-vegas-strip-results-weaken"
     ],
     "seen": "2026-10-29"
   },
@@ -796,7 +763,8 @@
     "ticker": "CHDN",
     "period": "Q3 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/237972-churchill-downs-inc-raises-dividend-as-net-income-grows-in-q3/"
+      "https://www.gamingintelligence.com/finance/237972-churchill-downs-inc-raises-dividend-as-net-income-grows-in-q3/",
+      "https://www.yogonet.com/international/news/2026/10/29/127079-churchill-downs-reports-record-q3-revenue-ebitda-and-net-income"
     ],
     "seen": "2026-10-29"
   },
@@ -807,7 +775,10 @@
     "ticker": "RSI",
     "period": "Q3 2026",
     "urls": [
-      "https://igamingfuture.com/rush-street-interactive/"
+      "https://igamingfuture.com/rush-street-interactive/",
+      "https://www.thegamblest.com/rush-street-interactive-revenue-rises-38-8-in-q3-2026/",
+      "https://www.gamingintelligence.com/finance/237984-rush-street-interactive-delivers-strong-revenue-and-profit-growth-in-q3/",
+      "https://www.gamblinginsider.com/news/197668/rush-street-interactive-q3-2026-revenue-miss-ebitda-beat"
     ],
     "seen": "2026-10-29"
   },
@@ -821,5 +792,64 @@
       "https://www.gamingintelligence.com/finance/237963-ontario-igaming-wagers-grow-to-c9-71-billion-in-september/"
     ],
     "seen": "2026-10-29"
+  },
+  {
+    "key": "philippine amusement and gaming|9M 2026",
+    "type": "company",
+    "company": "Philippine Amusement and Gaming Corporation",
+    "ticker": null,
+    "period": "9M 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238025-pagcor-posts-23-drop-in-revenue-for-9m-2026/",
+      "https://www.yogonet.com/international/news/2026/10/29/127076-pagcor-reports-2341-revenue-decline-as-gaming-earnings-weaken"
+    ],
+    "seen": "2026-10-30"
+  },
+  {
+    "key": "betby|Q3 2026",
+    "type": "company",
+    "company": "BETBY",
+    "ticker": null,
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/10/29/127078-betby-sportsbook-ggr-rises-334-in-q3-amid-major-sporting-events-and-product-innovation",
+      "https://focusgn.com/betby-q3-2026-growth-results"
+    ],
+    "seen": "2026-10-30"
+  },
+  {
+    "key": "betmakers technology|Q1 FY2027",
+    "type": "company",
+    "company": "BetMakers Technology Group",
+    "ticker": "BET.AX",
+    "period": "Q1 FY2027",
+    "urls": [
+      "https://www.thegamblest.com/betmakers-posts-16-3-q1-revenue-growth-in-fy2027/",
+      "https://www.gamingintelligence.com/finance/238001-betmakers-posts-revenue-growth-of-16-in-fiscal-first-quarter/"
+    ],
+    "seen": "2026-10-30"
+  },
+  {
+    "key": "vici properties|Q3 2026",
+    "type": "company",
+    "company": "VICI Properties",
+    "ticker": "VICI",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238013-vici-properties-raises-guidance-after-strong-q3/"
+    ],
+    "seen": "2026-10-30"
+  },
+  {
+    "key": "juris|nevada|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Nevada",
+    "authority": "Nevada Gaming Control Board",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/10/29/127089-nevada-gaming-win-flat-at-128-billion-in-september-visitation-slightly-up",
+      "https://www.gamingintelligence.com/finance/237967-nevada-gaming-revenue-flat-at-1-28-billion-in-september/"
+    ],
+    "seen": "2026-10-30"
   }
 ]
