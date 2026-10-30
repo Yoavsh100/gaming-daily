@@ -1991,5 +1991,182 @@
     "releaseDate": "23 Oct 2026",
     "model": "claude-fable-5-1",
     "costUsd": 4.45
+  },
+  {
+    "key": "boyd gaming|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-30T18:18:57.869Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "BYD-Q3-2026",
+    "published": "2026-10-30",
+    "company": {
+      "name": "Boyd Gaming Corporation",
+      "ticker": "BYD",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A \"down 1%, up 2% underlying\" quarter: revenue $990.5m (-1.4% YoY, ~1.1-1.3% below the ~$1.0bn consensus) and adj. EBITDAR $319.6m (-0.7%) were held up by Midwest & South (+2.5% adjusted), Online (+16%) and Managed (+13%), while the Las Vegas destination customer deteriorated further at the Orleans and Downtown (LV Locals EBITDAR -5%, Downtown -20%). Capital return of ~$180m and a 9.4% lower share count are doing the EPS work (adj. EPS $1.67, -2.9% YoY on adjusted earnings -12.6%), and leverage has drifted from 1.8x to 2.2x in two quarters as FanDuel-related tax payments, $650m of 2026 capex and $150m/qtr buybacks run ahead of cash generation.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "$990.5m",
+        "delta": "-1.4% YoY / -4.2% QoQ; ~1.1-1.3% below ~$1.0bn consensus",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDAR (non-GAAP)",
+        "value": "$319.6m",
+        "delta": "-0.7% YoY; margin 32.3% (+20bps YoY)",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EPS (diluted, non-GAAP)",
+        "value": "$1.67",
+        "delta": "-2.9% YoY vs $1.72; consensus $1.62-1.70",
+        "dir": "down"
+      },
+      {
+        "label": "GAAP net income / diluted EPS",
+        "value": "$124.9m / $1.71",
+        "delta": "vs $1,440.0m / $17.81 (Q3-25 incl. $1.4bn after-tax FanDuel gain)",
+        "dir": "down"
+      },
+      {
+        "label": "Capital returned (Q3)",
+        "value": "~$180m",
+        "delta": "$164m buybacks + $15m dividends; share count -9.4% YoY to 71.2m",
+        "dir": "up"
+      },
+      {
+        "label": "Leverage (company-defined)",
+        "value": "2.2x / 2.7x lease-adj.",
+        "delta": "vs 1.8x / 2.4x at Q1-26; cash $297.2m, total debt ~$2.7bn",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "22 Oct 2026 (after US close); call 5pm ET same day",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.33
+  },
+  {
+    "key": "juris|connecticut|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-30T18:31:07.316Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "CONNECTICUT-SEPTEMBER-2026",
+    "published": "2026-10-30",
+    "company": {
+      "name": "Connecticut",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "Connecticut's September 2026 data show a closed, three-licensee market that is still growing but visibly decelerating: record online-casino wagers of $1.95bn (+6% YoY) produced ~$57m of taxable GGR (+6% YoY, versus +17% in August), while sports handle rose 7% to $246.3m on an 8.9% hold and DraftKings overtook FanDuel in sports revenue. September was also the last month at the 18% iGaming tax — the statutory step-up to 20% took effect in October 2026 — so the state's take rises just as organic growth slows. For an outside operator the B2C door is shut by statute; the only realistic routes are B2B supply or displacing an incumbent partner at contract renewal.",
+    "kpis": [
+      {
+        "label": "Online casino wagers (Sep-26)",
+        "value": "$1.95bn",
+        "delta": "+6% YoY, all-time record",
+        "dir": "up"
+      },
+      {
+        "label": "Online casino gross win (Sep-26)",
+        "value": "$67.0m",
+        "delta": "+6.5% YoY (Sep-25: $62.9m)",
+        "dir": "up"
+      },
+      {
+        "label": "Online casino taxable GGR (Sep-26)",
+        "value": "~$57m",
+        "delta": "+6% YoY vs +17% in Aug-26",
+        "dir": "up"
+      },
+      {
+        "label": "Sports handle, total (Sep-26)",
+        "value": "$246.3m",
+        "delta": "+7% YoY; 96.7% online",
+        "dir": "up"
+      },
+      {
+        "label": "Sports GGR / tax (Sep-26)",
+        "value": "$21.4m / $2.47m",
+        "delta": "Hold 8.9% vs 7.1% Sep-25",
+        "dir": "up"
+      },
+      {
+        "label": "iGaming tax rate",
+        "value": "18% → 20%",
+        "delta": "Statutory step-up effective Oct 2026",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "Oct 2026 (CT DCP Open Data monthly update for September 2026; operator payments due 15 Oct; trade coverage 20–23 Oct 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.61
+  },
+  {
+    "key": "juris|brazil|JANUARY-SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-10-30T18:48:15.943Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "BRAZIL-JANUARY-SEPTEMBER-2026",
+    "published": "2026-10-30",
+    "company": {
+      "name": "Brazil",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "JANUARY-SEPTEMBER 2026",
+    "verdict": "Brazil's regulated fixed-odds market was running at a record ~R$3.3–3.5bn (~$0.62–0.65bn) of monthly GGR and had already delivered R$11.1bn (~$2.07bn) of federal betting-and-lottery receipts in nine months when the Lula government switched it off: MP 1.394/2026 banned all sports betting and online gaming from 25 Sep 2026, forced platforms dark on 6 Oct and extinguished every authorisation on 25 Oct with no refund of the R$30m (~$5.6m) fee. January–September 2026 is therefore the high-water mark of a 21-month regulated experiment; whether a legal market returns — and in what shape — now rests on STF Justice Fux and a Congress that must act before the measure lapses around March 2027.",
+    "kpis": [
+      {
+        "label": "Regulated GGR H1-26",
+        "value": "R$20.07bn (~$3.74bn)",
+        "delta": "+15.3% YoY (SPA via LAI)",
+        "dir": "up"
+      },
+      {
+        "label": "Fed. betting+lottery receipts Jan–Sep 26",
+        "value": "R$11.12bn (~$2.07bn)",
+        "delta": "+11.7% vs FY-25 total (R$9.95bn)",
+        "dir": "up"
+      },
+      {
+        "label": "Fixed-odds receipts 9M-26",
+        "value": "R$6.86bn (~$1.28bn)",
+        "delta": "R$3.72bn allocations + R$3.14bn taxes",
+        "dir": "up"
+      },
+      {
+        "label": "Authorised operators",
+        "value": "87 cos / 188 brands (H1-26)",
+        "delta": "→ 0 from 25 Oct 2026 (MP 1.394)",
+        "dir": "down"
+      },
+      {
+        "label": "Unique bettors (CPFs, cum.)",
+        "value": "30.9m",
+        "delta": "+9.8% vs 28.1m",
+        "dir": "up"
+      },
+      {
+        "label": "Official fiscal cost of ban",
+        "value": "-R$1.54bn 2026 / -R$5.15bn 2027",
+        "delta": "EM 2114/2026",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "22 Oct 2026 (Receita Federal Sept-2026 collection data); framed by MP 1.394 of 25 Sep 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.89
   }
 ]
