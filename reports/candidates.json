@@ -1,17 +1,5 @@
 [
   {
-    "key": "rank|Q1 FY2026/27",
-    "company": "The Rank Group Plc",
-    "ticker": "RNK.L",
-    "period": "Q1 FY2026/27",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/10/15/126862-rank-group-quarterly-revenue-rises-5--warns-higher-gaming-duty-could-trigger-closures",
-      "https://igamingbusiness.com/finance/mgd-rise-would-reduce-viability-venues-ranks-q1-ngr/",
-      "https://next.io/news/results/rank-highlights-digital-resilience-despite-headwinds/"
-    ],
-    "seen": "2026-10-16"
-  },
-  {
     "key": "catena media|Q3 2026",
     "company": "Catena Media",
     "ticker": "CTM.ST",
@@ -753,7 +741,8 @@
       "https://www.gamingintelligence.com/finance/237971-mgm-resorts-revenue-falls-1-to-4-21-billion-in-third-quarter/",
       "https://www.thegamblest.com/mgm-resorts-revenue-falls-1-in-q3-2026/",
       "https://www.yogonet.com/international/news/2026/10/29/127074-mgm-resorts-reports-1-revenue-decline-in-q3-as-las-vegas-strip-results-weaken",
-      "https://next.io/news/results/q3-2026-mgm-sees-revenue-decline-despite-further-digital-growth/"
+      "https://next.io/news/results/q3-2026-mgm-sees-revenue-decline-despite-further-digital-growth/",
+      "https://casinobeats.com/2026/10/31/mgm-digital-cuts-loss-to-4m-as-leovegas-led-arms-revenue-growth-slows-to-6/"
     ],
     "seen": "2026-10-29"
   },
@@ -886,7 +875,10 @@
     "authority": "Ksa",
     "period": "2025",
     "urls": [
-      "https://casinobeats.com/2026/10/30/ksa-market-scan-dutch-gambling-market-2025/"
+      "https://casinobeats.com/2026/10/30/ksa-market-scan-dutch-gambling-market-2025/",
+      "https://europeangaming.eu/portal/latest-news/2026/10/30/217175/dutch-gambling-market-2025-ksa-market-scan/",
+      "https://igamingbusiness.com/legal-compliance/dutch-regulated-gambling-captures-59-market-revenue-player-reach/",
+      "https://focusgn.com/netherlands-gambling-channelisation-youth-play"
     ],
     "seen": "2026-10-30"
   },
@@ -900,5 +892,92 @@
       "https://www.gamingintelligence.com/finance/238023-south-dakota-report-11-rise-in-gambling-turnover-for-september/"
     ],
     "seen": "2026-10-30"
+  },
+  {
+    "key": "pointsbet|H1 FY27",
+    "type": "company",
+    "company": "PointsBet Holdings",
+    "ticker": "PBH.AX",
+    "period": "H1 FY27",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238049-pointsbet-revenue-falls-16-to-a112-7-million-in-h1-fy27/"
+    ],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "konami|H1 FY27",
+    "type": "company",
+    "company": "Konami Group",
+    "ticker": "9766.T",
+    "period": "H1 FY27",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238046-konami-group-shares-surge-on-strong-revenue-and-profit-growth/"
+    ],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "coinbase global|Q3 2026",
+    "type": "company",
+    "company": "Coinbase Global",
+    "ticker": "COIN",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/10/30/127095-coinbase-prediction-markets-top-200m-annualized-revenue-while-q3-net-revenue-falls-34-"
+    ],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "gaming and leisure properties|Q3 2026",
+    "type": "company",
+    "company": "Gaming and Leisure Properties",
+    "ticker": "GLPI",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/10/30/127099-glpi-q3-revenue-rises-95-to-record-4354-million",
+      "https://www.gamingintelligence.com/finance/238042-glpi-delivers-another-record-performance-in-third-quarter/"
+    ],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "betty canada|Q3 2026",
+    "type": "company",
+    "company": "Betty Canada",
+    "ticker": null,
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238044-betty-canada-hits-record-revenue-of-ca111-million-in-third-quarter/"
+    ],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "juris|tanzania|2026",
+    "type": "jurisdiction",
+    "market": "Tanzania",
+    "authority": "Gaming Board of Tanzania",
+    "period": "2026",
+    "urls": [
+      "https://igamingbusiness.com/finance/tanzania-gaming-tax-revenue-player-protection/"
+    ],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "juris|las vegas strip nevada|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Las Vegas Strip, Nevada",
+    "authority": "Nevada Gaming Control Board",
+    "period": "SEPTEMBER 2026",
+    "urls": [],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "juris|delaware|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Delaware",
+    "authority": null,
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238026-delaware-igaming-and-sports-bets-rise-by-20-in-september/"
+    ],
+    "seen": "2026-11-02"
   }
 ]
