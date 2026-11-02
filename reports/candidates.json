@@ -878,7 +878,9 @@
       "https://casinobeats.com/2026/10/30/ksa-market-scan-dutch-gambling-market-2025/",
       "https://europeangaming.eu/portal/latest-news/2026/10/30/217175/dutch-gambling-market-2025-ksa-market-scan/",
       "https://igamingbusiness.com/legal-compliance/dutch-regulated-gambling-captures-59-market-revenue-player-reach/",
-      "https://focusgn.com/netherlands-gambling-channelisation-youth-play"
+      "https://focusgn.com/netherlands-gambling-channelisation-youth-play",
+      "https://next.io/news/results/netherlands-regulated-gambling-market-shrinks/",
+      "https://www.thegamblest.com/dutch-gambling-market-falls-to-e4-1-billion/"
     ],
     "seen": "2026-10-30"
   },
@@ -978,6 +980,80 @@
     "urls": [
       "https://www.gamingintelligence.com/finance/238026-delaware-igaming-and-sports-bets-rise-by-20-in-september/"
     ],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "pointsbet|H1 FY2027",
+    "type": "company",
+    "company": "PointsBet Holdings",
+    "ticker": "PBH.AX",
+    "period": "H1 FY2027",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238049-pointsbet-revenue-falls-16-to-a112-7-million-in-h1-fy27/",
+      "https://www.thegamblest.com/pointsbet-year-on-year-revenue-falls-16/",
+      "https://next.io/news/results/pointsbet-revenue-falls-amid-australian-decline/"
+    ],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "konami|H1 FY2027",
+    "type": "company",
+    "company": "Konami Group",
+    "ticker": "9766.T",
+    "period": "H1 FY2027",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238046-konami-group-shares-surge-on-strong-revenue-and-profit-growth/"
+    ],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "juris|united kingdom|2026",
+    "type": "jurisdiction",
+    "market": "United Kingdom",
+    "authority": "UKGC",
+    "period": "2026",
+    "urls": [
+      "https://casinobeats.com/2026/11/01/gambling-commission-payment-data-91-of-repeat-illegal-site-users-still-bet-with-licensed-sites/",
+      "https://focusgn.com/ukgc-illegal-gambling-harm-study"
+    ],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "juris|sweden|2026",
+    "type": "jurisdiction",
+    "market": "Sweden",
+    "authority": null,
+    "period": "2026",
+    "urls": [
+      "https://europeangaming.eu/portal/gambling-in-sweden/"
+    ],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "juris|macau|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Macau",
+    "authority": "DICJ",
+    "period": "OCTOBER 2026",
+    "urls": [],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "juris|nevada las vegas strip|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Nevada (Las Vegas Strip)",
+    "authority": "Nevada Gaming Control Board",
+    "period": "SEPTEMBER 2026",
+    "urls": [],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "juris|philippines|9M 2026",
+    "type": "jurisdiction",
+    "market": "Philippines",
+    "authority": "PAGCOR",
+    "period": "9M 2026",
+    "urls": [],
     "seen": "2026-11-02"
   }
 ]
