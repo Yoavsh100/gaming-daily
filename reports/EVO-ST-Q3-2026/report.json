@@ -1,0 +1,1385 @@
+{
+  "company": {
+    "name": "Evolution AB",
+    "ticker": "EVO.ST",
+    "exchange": "Nasdaq Stockholm"
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 1896250,
+    "output": 62958,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 72,
+    "cacheRead": 1792708,
+    "cacheWrite": 103470,
+    "turns": 1
+  },
+  "prepared": "2 Nov 2026",
+  "report": {
+    "releaseDate": "23 Oct 2026",
+    "currency": "EUR (tables in millions; ~USD at EUR/USD 1.12 as of 23 Oct 2026)",
+    "verdict": "Evolution's Q3-26 delivered its first year-on-year revenue growth in five quarters (+3.7% to EUR 526.1m, ~$589m; est. +4.0% at constant currency) and held the adjusted EBITDA margin at 65.8%, but the quality is mixed: the ~30% of revenue in the Americas and Africa grew ~18% while the ~70% in Europe (-4.7%, share loss conceded) and Asia (+1.6%, cyber-crime unresolved) shrank ~1.5%. EUR 12.1m (~$13.6m) of one-offs pushed profit for the period down 3.6%, EPS growth is entirely buyback-driven, and Brazil's 5 October ban removes a growth engine from Q4. Stabilisation, not re-acceleration — with the FY26 ~66% margin target unchanged.",
+    "kpis": [
+      {
+        "label": "Net revenue (Q3-26)",
+        "value": "EUR 526.1m (~$589m)",
+        "delta": "+3.7% YoY / +1.6% QoQ (cc ~+4.0%)",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA",
+        "value": "EUR 345.9m (~$387m)",
+        "delta": "+2.7% YoY / +1.4% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA margin",
+        "value": "65.8%",
+        "delta": "-60bps YoY / -10bps QoQ (reported 63.5%)",
+        "dir": "down"
+      },
+      {
+        "label": "Profit for the period",
+        "value": "EUR 243.3m (~$273m)",
+        "delta": "-3.6% YoY / -3.2% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "EPS (basic)",
+        "value": "EUR 1.31 (~$1.47)",
+        "delta": "+4.6% YoY; avg shares -7.8% (buyback-driven)",
+        "dir": "up"
+      },
+      {
+        "label": "Net cash",
+        "value": "EUR 656.4m (~$735m)",
+        "delta": "Zero debt; EUR 1,127m bought back since 19 May",
+        "dir": "down"
+      }
+    ],
+    "summary": [
+      "**Growth is back, barely:** Q3 net revenue EUR 526.1m (~$589m), +3.7% YoY and +1.6% QoQ, est. +4.0% at constant currency — the first YoY increase after four consecutive declines (-2.4%, -3.7%, -1.5%, -1.2%). Marginal miss vs consensus (~EUR 529m, ~$592m; Investing.com), the fifth straight quarter at or below the Street on revenue.",
+      "**Margin held — on an adjusted basis:** Adj. EBITDA EUR 345.9m (~$387m), +2.7% YoY, margin 65.8% (-60bps YoY, -10bps QoQ), ~1% above FactSet EBITDA consensus of ~EUR 343m. Reported EBITDA EUR 333.8m (~$374m), -0.9%, margin 63.5% (-290bps) after EUR 12.1m (~$13.6m) of one-offs excluded from the adjusted line.",
+      "**The one-offs clear two overhangs:** EUR 5.6m (~$6.3m; GBP 4.75m) settlement with the UK Gambling Commission closing the licence review of Evolution Malta Holding opened in Dec 2024 (announced 15 Jul, fully paid), and EUR 6.5m (~$7.3m) of termination and legal costs after walking away from the $85m Galaxy Gaming acquisition in July (incl. a $5.2m break fee). Sell-side explicitly congratulated management on removing both.",
+      "**Bottom line down, per-share up:** Operating profit EUR 290.3m (~$325m), -2.1% (margin 55.2%, -330bps); profit for the period EUR 243.3m (~$273m), -3.6%. Basic EPS EUR 1.31 (~$1.47) +4.6% (diluted EUR 1.29, ~$1.44, +2.4% vs consensus ~1.33) purely because average shares fell 7.8% to 186.0m from 201.8m.",
+      "**Guidance unchanged — and it is only a margin target:** FY26 EBITDA margin 'in line with 2025' (~66%; FY25 adjusted was 66.1%), reiterated on the call despite the Brazil studio closure; 9M-26 stands at 65.7%, so Q4 needs ~66.5-67% to land on 66.0%. No revenue guidance; the qualitative ambition is to grow at least in line with the market in every region for both Live and RNG, with 110+ game releases in 2026.",
+      "**RNG, not Live, drove the beat on growth:** RNG +10.1% to EUR 83.1m (~$93m), second consecutive double-digit quarter (Q2 +14.0%), contributing EUR 7.6m of the EUR 19.0m YoY revenue increase (40%) from <16% of the base. Live +2.6% to EUR 443.0m (~$496m) after -3.6% in Q2; 9M Live still -1.4% at EUR 1,315.2m (~$1,473m).",
+      "**Geographic divergence by player IP:** North America +13.6% to a record EUR 84.3m (~$94m); Latin America +23.1% to a record EUR 49.0m (~$55m); Africa & other +23.7% to ~EUR 27.0m (~$30m), also a record. Europe -4.7% to EUR 173.7m (~$195m); Asia +1.6% to EUR 192.1m (~$215m). All five regions grew QoQ for the first time since 2024 (Europe +0.4%, Asia +0.8%, NA +4.1%, LatAm +3.2%, Africa ~+4.7%).",
+      "**Europe share loss acknowledged:** CEO Carlesund: 'it's not exciting and we should do better', citing regulatory change and tax but accepting the group is not capturing its share of market growth; by operator location Europe fell 6.0% to EUR 336.3m (~$377m) and is still 64% of booked revenue. Remedy offered: 'a few stable quarters' of customer work — no pricing or product lever named.",
+      "**Asia / grey-market exposure is undiminished:** Asia is 37% of revenue by player IP vs 4% by operator location — the ~EUR 173m (~$194m) gap is Asian play booked through European-licensed operators. Asked if cyber-crime (video piracy, unauthorised redistribution) is solved: 'No'; 'no quick solution'. Regulated markets 49% of revenue (EUR 258.5m, ~$290m).",
+      "**Brazil: the post-period shock.** Provisional Measure 1.394/2026 suspended licensed online betting and casino; the São Paulo studio (opened 2025) closed on 5 Oct. Lula won the 25 Oct run-off (51.76%) having campaigned on the ban; resolution rests with the STF (constitutionality) and Congress. Brazil is 'well below half' of LatAm IP revenue → gross exposure <EUR 24.5m (~$27m)/quarter, <4.7% of group; market is not ring-fenced so some play may leak to offshore-licensed operators. CEO: 'flabbergasted', a 'total negative', studio can reopen 'on short notice'; Q4 'more eventful'. Staff retained for now, so cost persists without revenue.",
+      "**Activity vs revenue divergence:** game rounds index 435, +22.5% YoY / +11.3% QoQ against +3.7% revenue growth. Management calls the index 'directional' and blames bet levels, market mix and regional traction; we read it as mix toward lower-value rounds, with Asia the likeliest source.",
+      "**Cost base growing faster than revenue:** headcount 23,408 (+8.1% YoY, +2.3% QoQ); personnel costs EUR 124.3m (~$139m), +5.7%; reported opex EUR 235.9m (~$264m), +12% YoY. Management says opex grew +2.8% ex one-offs [basis unverified — our arithmetic on revenue less EBIT gives ~+6% ex one-offs incl. D&A]; other opex ex one-offs +0.7%. 27 studios (3 opened in 2026 incl. a second Lithuanian studio in Q3; New Jersey next); Argentina studio acquired in Q1 for EUR 6.0m (~$6.7m).",
+      "**Cash generation intact:** operating cash flow after investments EUR 334.1m (~$374m), incl. a EUR 32.5m (~$36m) working-capital inflow; capex EUR 32.0m (~$36m), LTM EUR 139.8m (~$157m, ~6.6% of revenue); LTM cash conversion 85%.",
+      "**Capital return running ahead of cash:** Q3 buybacks EUR 823.9m (~$923m) for 11.8m shares (~EUR 70/share) — 2.4x the quarter's adjusted EBITDA; since 19 May EUR 1,127.1m (~$1.26bn) for 16.93m shares (~8% of the count) under the EUR 2bn (~$2.24bn) programme; 16.17m shares cancelled in September leaving 183.06m in issue. EUR 873m (~$978m) remains, to run through Q4 and Q1-27 'at a somewhat lower pace… aligned with cash generation'.",
+      "**Balance sheet:** cash EUR 656.4m (~$735m), no debt → net cash EUR 656.4m (~0.5x LTM adj. EBITDA, derived); EUR 300m (~$336m) undrawn RCF as back-up only; equity EUR 3.6bn (~$4.0bn), total assets EUR 5.0bn (~$5.6bn). Management reiterated it will stay net cash and debt-free 'as it saves money'.",
+      "**Product & AI:** Monopoly Roll'em and Disco Balls launched (Live), three branded titles in the quarter; Game Night before year-end; Ice Fishing (RNG) for North America in Q4; 2027 roadmap 'spectacular' with the largest, most complex games yet. On AI dealers: 'a possibility… it's like an RNG live game, it's a complement. I don't think that it will take over live.'",
+      "**Litigation:** CEO confirmed 'we are in a full lawsuit with them and that will continue' and declined to comment on settlement speculation [counterparty not confirmed in the sources read].",
+      "**Market reaction and sell-side:** shares opened ~1.6% lower (SEK 798.8) on the revenue/EPS miss, then reversed to close +3.6% at SEK 841.40 (prev. SEK 812.00). Citi trimmed forecasts (TP unchanged); JP Morgan cut its TP to SEK 645; Pareto raised to SEK 820 (hold); BNP Paribas raised to SEK 890.",
+      "**Thesis read-through:** this is a stabilisation print, not a re-acceleration. Ex-Americas/Africa, revenue is still shrinking (~-1.5%); profit for the period is down while EPS is up only via the share count; the 66% margin is defended by other-opex restraint while headcount grows 8%. Q4 — with Brazil out, Asia unresolved and a ~67% margin needed to hit the target exactly — is the real test of whether Q3 was a turn or a pause."
+    ],
+    "groupTable": {
+      "note": "EUR m (~USD at 1.12)",
+      "columns": [
+        "Q3-26",
+        "QoQ",
+        "YoY",
+        "9M-26",
+        "9M YoY"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by product",
+          "kind": "group"
+        },
+        {
+          "label": "Net revenues",
+          "kind": "emphasis",
+          "cells": [
+            "526.1 (~$589m)",
+            "+1.6%",
+            "+3.7%",
+            "1,557.0 (~$1,744m)",
+            "+0.3%"
+          ],
+          "footnote": "Q3-25 EUR 507.1m; Q2-26 EUR 517.8m. Constant-currency growth est. ~+4.0% (company estimate)."
+        },
+        {
+          "label": "Live",
+          "indent": true,
+          "cells": [
+            "443.0 (~$496m)",
+            "+1.3%",
+            "+2.6%",
+            "1,315.2 (~$1,473m)",
+            "-1.4%"
+          ]
+        },
+        {
+          "label": "RNG",
+          "indent": true,
+          "cells": [
+            "83.1 (~$93m)",
+            "+3.2%",
+            "+10.1%",
+            "241.8 (~$271m)",
+            "+10.7%"
+          ]
+        },
+        {
+          "label": "RNG share of revenue",
+          "indent": true,
+          "cells": [
+            "15.8%",
+            "+30bps",
+            "+90bps",
+            "15.5%",
+            "+140bps"
+          ]
+        },
+        {
+          "label": "Revenue by region (player IP)",
+          "kind": "group"
+        },
+        {
+          "label": "Asia",
+          "indent": true,
+          "cells": [
+            "192.1 (~$215m)",
+            "+0.8%",
+            "+1.6%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Europe",
+          "indent": true,
+          "cells": [
+            "173.7 (~$195m)",
+            "+0.4%",
+            "-4.7%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "North America",
+          "indent": true,
+          "cells": [
+            "84.3 (~$94m)",
+            "+4.1%",
+            "+13.6%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Latin America",
+          "indent": true,
+          "cells": [
+            "49.0 (~$55m)",
+            "+3.2%",
+            "+23.1%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Africa & other",
+          "indent": true,
+          "cells": [
+            "~27.0 (~$30m)",
+            "~+4.7%",
+            "+23.7%",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Residual of group less four named regions (Q2-26 base EUR 25.8m); one secondary source prints EUR 27.1m."
+        },
+        {
+          "label": "Regulated-market share of revenue",
+          "indent": true,
+          "cells": [
+            "49% (258.5, ~$290m)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Profitability",
+          "kind": "group"
+        },
+        {
+          "label": "Adj. EBITDA",
+          "kind": "emphasis",
+          "cells": [
+            "345.9 (~$387m)",
+            "+1.4%",
+            "+2.7%",
+            "1,022.2 (~$1,145m)",
+            "-0.2%"
+          ],
+          "footnote": "Excludes EUR 12.1m one-offs (UKGC settlement EUR 5.6m; Galaxy Gaming termination/legal EUR 6.5m). Q2-26 EUR 341.0m; Q3-25 EUR 336.9m."
+        },
+        {
+          "label": "Adj. EBITDA margin",
+          "indent": true,
+          "cells": [
+            "65.8%",
+            "-10bps",
+            "-60bps",
+            "65.7%",
+            "-30bps"
+          ]
+        },
+        {
+          "label": "One-off items (excl. from adj.)",
+          "indent": true,
+          "cells": [
+            "12.1 (~$13.6m)",
+            "n/m",
+            "n/m",
+            "12.1 (~$13.6m)",
+            "n/m"
+          ]
+        },
+        {
+          "label": "EBITDA (reported)",
+          "cells": [
+            "333.8 (~$374m)",
+            "-2.1%",
+            "-0.9%",
+            "1,010.1 (~$1,131m)",
+            "-1.4%"
+          ]
+        },
+        {
+          "label": "EBITDA margin (reported)",
+          "indent": true,
+          "cells": [
+            "63.5%",
+            "-240bps",
+            "-290bps",
+            "64.9%",
+            "-110bps"
+          ]
+        },
+        {
+          "label": "D&A (derived: EBITDA less EBIT)",
+          "indent": true,
+          "cells": [
+            "43.5 (~$49m)",
+            "n/a",
+            "~+8%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Operating profit (EBIT)",
+          "cells": [
+            "290.3 (~$325m)",
+            "-2.5%",
+            "-2.1%",
+            "880.7 (~$986m)",
+            "-2.8%"
+          ]
+        },
+        {
+          "label": "Operating margin",
+          "indent": true,
+          "cells": [
+            "55.2%",
+            "-230bps",
+            "-330bps",
+            "56.6%",
+            "-180bps"
+          ]
+        },
+        {
+          "label": "Profit for the period",
+          "kind": "emphasis",
+          "cells": [
+            "243.3 (~$273m)",
+            "-3.2%",
+            "-3.6%",
+            "746.7 (~$836m)",
+            "-1.1%"
+          ]
+        },
+        {
+          "label": "EPS, basic (EUR)",
+          "cells": [
+            "1.31 (~$1.47)",
+            "+3.1%",
+            "+4.6%",
+            "3.85 (~$4.31)",
+            "+3.8%"
+          ]
+        },
+        {
+          "label": "EPS, diluted (EUR)",
+          "indent": true,
+          "cells": [
+            "1.29 (~$1.44)",
+            "n/a",
+            "+2.4%",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Per call/Quartr; company release headlines basic EPS EUR 1.31 (1.25). Consensus ~EUR 1.33."
+        },
+        {
+          "label": "Avg. shares outstanding (m)",
+          "indent": true,
+          "cells": [
+            "186.0",
+            "n/a",
+            "-7.8%",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Q3-25 201.8m. 16.17m shares cancelled Sept-26; 183.06m in issue at 30 Sep."
+        },
+        {
+          "label": "Operating KPIs",
+          "kind": "group"
+        },
+        {
+          "label": "Headcount (period end)",
+          "cells": [
+            "23,408",
+            "+2.3%",
+            "+8.1%",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Game rounds index",
+          "cells": [
+            "435",
+            "+11.3%",
+            "+22.5%",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Studios",
+          "cells": [
+            "27",
+            "+1",
+            "n/a",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Mobile share of operator GGR",
+          "cells": [
+            "77.0%",
+            "n/a",
+            "+300bps",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Cash flow & balance sheet",
+          "kind": "group"
+        },
+        {
+          "label": "Operating cash flow after investments",
+          "cells": [
+            "334.1 (~$374m)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Includes EUR 32.5m working-capital inflow. LTM cash conversion 85%."
+        },
+        {
+          "label": "Capex (intangible + tangible)",
+          "indent": true,
+          "cells": [
+            "32.0 (~$36m)",
+            "n/a",
+            "n/a",
+            "LTM 139.8 (~$157m)",
+            "~6.6% of LTM rev"
+          ]
+        },
+        {
+          "label": "Share buybacks",
+          "cells": [
+            "823.9 (~$923m)",
+            "n/a",
+            "n/a",
+            "1,127.1 (~$1,262m) since 19 May",
+            "—"
+          ],
+          "footnote": "11.8m shares in Q3; 16,925,584 shares programme-to-date under EUR 2bn (~$2.24bn) programme; EUR 873m (~$978m) remaining."
+        },
+        {
+          "label": "Cash & cash equivalents",
+          "cells": [
+            "656.4 (~$735m)",
+            "n/a",
+            "n/a",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Gross debt",
+          "indent": true,
+          "cells": [
+            "0 (EUR 300m RCF undrawn)",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Net cash / (debt)",
+          "kind": "emphasis",
+          "cells": [
+            "656.4 (~$735m) net cash",
+            "n/a",
+            "n/a",
+            "—",
+            "—"
+          ],
+          "footnote": "≈0.5x LTM adj. EBITDA net cash (derived, LTM adj. EBITDA ~EUR 1.36bn)."
+        },
+        {
+          "label": "Equity / total assets",
+          "indent": true,
+          "cells": [
+            "3.6bn (~$4.0bn) / 5.0bn (~$5.6bn)",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Live Casino",
+        "headline": "Back to +2.6% growth after four quarters of decline, but it is an Americas/Africa story — Europe is ceding share, Asia is flat, and Brazil goes dark in Q4.",
+        "narrative": [
+          "Live returned to year-on-year growth after four quarters of decline, with net revenues up 2.6% to EUR 443.0m (~$496m) and 1.3% higher sequentially, against a -3.6% print in Q2 and a nine-month run-rate still 1.4% lower at EUR 1,315.2m (~$1,473m). Live is 84.2% of group revenue, down 90bps year on year as RNG outgrows it. Management framed the quarter as 'uneventful' and 'stable', and on the numbers that is fair: the five-quarter Live series runs EUR 431.7m, 438.6m, 434.9m, 437.3m, 443.0m (~$484m, $491m, $487m, $490m, $496m), so the business has been oscillating in a EUR 430-445m band for more than a year and has only now edged above the top of it. Evolution does not disclose segment EBITDA, so the group adjusted margin of 65.8% (-60bps YoY) is the only profitability read-across; with Live at 84% of revenue it is, in effect, the group margin.",
+          "Geographically, Live's recovery is an Americas-and-Africa story. By player IP, North America rose 13.6% to a record EUR 84.3m (~$94m), +4.1% QoQ, helped by the second Michigan studio and the roll-out of Monopoly Live across US states earlier in the year, and management confirmed a New Jersey studio is next in the pipeline. Latin America grew 23.1% to a record EUR 49.0m (~$55m), with the Argentine studio acquired in Q1 for EUR 6.0m (~$6.7m) adding capacity, and Africa & other grew 23.7% to roughly EUR 27.0m (~$30m), which the CEO attributed to 'hardcore focused business as usual' while cautioning that the region is small and volatile. Set against that, Europe fell 4.7% to EUR 173.7m (~$195m) (+0.4% QoQ after +3.5% QoQ in Q2) and the CEO conceded 'it's not exciting and we should do better', pointing to regulatory change and tax as external drags but effectively acknowledging market-share loss in the group's most mature and most regulated region; a second Lithuanian studio was opened in the quarter and native-language tables remain the tactical response. Asia, the largest region by IP at EUR 192.1m (~$215m), grew just 1.6% YoY and 0.8% QoQ, and management was explicit that the cyber-crime problem affecting video distribution and unauthorised use of the product is 'not solved' and has 'no quick solution'.",
+          "On product, they launched Monopoly Roll'em and Disco Balls in the quarter as part of three new branded titles, reiterated that 2026 releases will exceed 110 games, and flagged Game Night for launch before year-end with a 2027 roadmap described as 'spectacular' and containing some of the largest and most complex games they have ever built. The studio count rose to 27 with one opening in the quarter (the third this year), and headcount reached 23,408, up 8.1% YoY and 2.3% QoQ — more than double the revenue growth rate, so Live's unit economics are being carried by restraint elsewhere (other opex ex one-offs +0.7% YoY) rather than by operating leverage. The game rounds index jumped to 435 (+22.5% YoY, +11.3% QoQ) while revenue grew 3.7%; management insists the index is a directional activity measure and that bet levels, market mix and regional traction break the link quarter to quarter, with a correlation only 'over a very long time period'. We read the gap as a mix shift toward lower-value rounds, with a meaningful share of the activity uplift likely coming from markets where monetisation is weak or the product is being used without authorisation.",
+          "The post-period event is Brazil. Provisional Measure 1.394/2026 suspended licensed online betting and casino, and they closed the São Paulo studio opened in 2025 on 5 October. Brazil is 'well below half' of Latin American IP revenue, which caps the gross quarterly exposure at under EUR 24.5m (~$27m), or below 4.7% of group, and the CEO noted the market is not ring-fenced so some play may migrate to operators licensed elsewhere; he rejected the suggestion from Rothschild Redburn that the closure could be net positive for a non-ring-fenced supplier, called it a 'total negative' and a 'populist' overthrow of an 18-month-old framework, and said the studio can reopen 'on short notice' if the STF or Congress overturns the measure. Staff are being supported rather than released, so Brazilian cost persists into Q4 without Brazilian revenue. Our takeaway on Live is that the structural growth rate has reset to low single digits: the ~30% of revenue in the Americas and Africa grew ~18%, while the ~70% in Europe and Asia shrank roughly 1.5%. Segment guidance is simply to grow at least in line with the market in every region — which Europe is currently not achieving."
+        ],
+        "table": {
+          "note": "Live Casino, EUR m (~USD at 1.12)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Live net revenues",
+              "kind": "emphasis",
+              "cells": [
+                "443.0 (~$496m)",
+                "+1.3%",
+                "+2.6%",
+                "1,315.2 (~$1,473m)",
+                "-1.4%"
+              ],
+              "footnote": "Comparatives: Q2-26 EUR 437.3m; Q3-25 EUR 431.7m; 9M-25 EUR 1,334.0m. Quarterly series Q3-25→Q3-26: 431.7 / 438.6 / 434.9 / 437.3 / 443.0."
+            },
+            {
+              "label": "Live YoY growth trend",
+              "indent": true,
+              "cells": [
+                "+2.6%",
+                "vs Q2-26 -3.6%",
+                "vs Q1-26 -3.1%",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Share of group net revenue",
+              "indent": true,
+              "cells": [
+                "84.2%",
+                "-30bps",
+                "-90bps",
+                "84.5%",
+                "-140bps"
+              ]
+            },
+            {
+              "label": "Segment EBITDA / margin",
+              "indent": true,
+              "cells": [
+                "not disclosed",
+                "—",
+                "—",
+                "not disclosed",
+                "—"
+              ],
+              "footnote": "Group adj. EBITDA margin 65.8% is the only read-across."
+            },
+            {
+              "label": "Regional drivers (player IP, group)",
+              "kind": "group"
+            },
+            {
+              "label": "Europe",
+              "indent": true,
+              "cells": [
+                "173.7 (~$195m)",
+                "+0.4%",
+                "-4.7%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Asia",
+              "indent": true,
+              "cells": [
+                "192.1 (~$215m)",
+                "+0.8%",
+                "+1.6%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "North America",
+              "indent": true,
+              "cells": [
+                "84.3 (~$94m)",
+                "+4.1%",
+                "+13.6%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Latin America",
+              "indent": true,
+              "cells": [
+                "49.0 (~$55m)",
+                "+3.2%",
+                "+23.1%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Africa & other",
+              "indent": true,
+              "cells": [
+                "~27.0 (~$30m)",
+                "~+4.7%",
+                "+23.7%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Capacity & activity",
+              "kind": "group"
+            },
+            {
+              "label": "Studios (group)",
+              "indent": true,
+              "cells": [
+                "27",
+                "+1 (2nd Lithuania)",
+                "n/a",
+                "3 opened YTD",
+                "—"
+              ]
+            },
+            {
+              "label": "Headcount (group)",
+              "indent": true,
+              "cells": [
+                "23,408",
+                "+2.3%",
+                "+8.1%",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Game rounds index (group)",
+              "indent": true,
+              "cells": [
+                "435",
+                "+11.3%",
+                "+22.5%",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "New Live titles in quarter",
+              "indent": true,
+              "cells": [
+                "Monopoly Roll'em, Disco Balls",
+                "—",
+                "—",
+                "110+ releases targeted FY26",
+                "—"
+              ]
+            },
+            {
+              "label": "Brazil exposure (gross, derived)",
+              "indent": true,
+              "cells": [
+                "<24.5 (~$27m)/qtr",
+                "—",
+                "—",
+                "<4.7% of group",
+                "—"
+              ],
+              "footnote": "'Well below half' of LatAm IP revenue of EUR 49.0m. Studio closed 5 Oct 2026."
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Return to growth",
+            "takeaway": "Live returned to growth after four quarters of decline, net revenues up 2.6% to EUR 443.0m (~$496m), but the band has barely moved.",
+            "points": [
+              "Up 1.3% sequentially, against a -3.6% print in Q2; nine-month run-rate still 1.4% lower at EUR 1,315.2m (~$1,473m).",
+              "Live is 84.2% of group revenue, down 90bps year on year as RNG outgrows it.",
+              "Five-quarter series EUR 431.7m, 438.6m, 434.9m, 437.3m, 443.0m (~$484m-$496m): oscillating in a EUR 430-445m band for over a year, only now edging above it.",
+              "No segment EBITDA disclosed; group adjusted margin of 65.8% (-60bps YoY) is the only read-across and effectively the Live margin."
+            ],
+            "quote": {
+              "text": "uneventful",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Americas and Africa",
+            "takeaway": "Live's recovery is an Americas-and-Africa story, with North America, Latin America and Africa all at records.",
+            "points": [
+              "North America +13.6% to record EUR 84.3m (~$94m), +4.1% QoQ, helped by second Michigan studio and Monopoly Live roll-out; New Jersey studio next in pipeline.",
+              "Latin America +23.1% to record EUR 49.0m (~$55m), with Argentine studio acquired in Q1 for EUR 6.0m (~$6.7m) adding capacity.",
+              "Africa & other +23.7% to roughly EUR 27.0m (~$30m); CEO cautioned the region is small and volatile."
+            ],
+            "quote": {
+              "text": "hardcore focused business as usual",
+              "speaker": "CEO"
+            }
+          },
+          {
+            "heading": "Europe",
+            "takeaway": "Europe fell 4.7% to EUR 173.7m (~$195m), with the CEO effectively acknowledging market-share loss in the most mature, regulated region.",
+            "points": [
+              "+0.4% QoQ after +3.5% QoQ in Q2.",
+              "Management pointed to regulatory change and tax as external drags.",
+              "Second Lithuanian studio opened in the quarter; native-language tables remain the tactical response."
+            ],
+            "quote": {
+              "text": "it's not exciting and we should do better",
+              "speaker": "CEO"
+            }
+          },
+          {
+            "heading": "Asia",
+            "takeaway": "Asia, largest region by IP at EUR 192.1m (~$215m), grew just 1.6% YoY and 0.8% QoQ as cyber-crime remains unresolved.",
+            "points": [
+              "Management explicit that the cyber-crime problem affecting video distribution and unauthorised product use is 'not solved'."
+            ],
+            "quote": {
+              "text": "no quick solution",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Product and capacity",
+            "takeaway": "Headcount grew 8.1% YoY to 23,408, more than double revenue growth, so Live unit economics rely on restraint elsewhere, not operating leverage.",
+            "points": [
+              "Launched Monopoly Roll'em and Disco Balls among three new branded titles; 2026 releases to exceed 110 games; Game Night due before year-end.",
+              "2027 roadmap described as 'spectacular', containing some of the largest and most complex games ever built.",
+              "Studio count rose to 27 with one opening in the quarter (third this year); headcount +2.3% QoQ; other opex ex one-offs +0.7% YoY.",
+              "Game rounds index jumped to 435 (+22.5% YoY, +11.3% QoQ) while revenue grew 3.7%; management says correlation holds only 'over a very long time period'.",
+              "We read the gap as mix shift toward lower-value rounds, likely from weakly monetised markets or unauthorised use."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Brazil",
+            "takeaway": "Provisional Measure 1.394/2026 suspended licensed online betting; São Paulo studio closed 5 October, capping exposure below EUR 24.5m (~$27m) quarterly.",
+            "points": [
+              "Brazil is 'well below half' of Latin American IP revenue, below 4.7% of group.",
+              "Market is not ring-fenced so some play may migrate to operators licensed elsewhere; CEO rejected Rothschild Redburn's suggestion closure could be net positive.",
+              "CEO called it a 'populist' overthrow of an 18-month-old framework; studio can reopen 'on short notice' if STF or Congress overturns the measure.",
+              "Staff supported rather than released, so Brazilian cost persists into Q4 without Brazilian revenue."
+            ],
+            "quote": {
+              "text": "total negative",
+              "speaker": "CEO"
+            }
+          },
+          {
+            "heading": "Outlook",
+            "takeaway": "Structural growth rate has reset to low single digits; guidance to grow at least in line with the market in every region is not being met in Europe.",
+            "points": [
+              "The ~30% of revenue in the Americas and Africa grew ~18%.",
+              "The ~70% in Europe and Asia shrank roughly 1.5%."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "RNG",
+        "headline": "Second consecutive double-digit quarter (+10.1%) — RNG supplied 40% of group revenue growth from <16% of the base; North American localisation is the strategy.",
+        "narrative": [
+          "RNG was the quarter's growth engine. Revenues rose 10.1% to EUR 83.1m (~$93m), up 3.2% sequentially, following +14.0% in Q2 — the first double-digit quarter in roughly three years — so this is now two consecutive double-digit prints after a prolonged period in which RNG was flat to down and diluted group growth. Nine-month RNG revenue is up 10.7% to EUR 241.8m (~$271m), and the quarterly series (EUR 75.5m, 75.7m, 78.2m, 80.5m, 83.1m; ~$85m to ~$93m) shows steady ~3% sequential compounding rather than a one-off step. RNG's share of group revenue reached 15.8%, up from 14.9% a year ago and 15.5% in Q2; the YoY growth path over 2026 has been roughly +8% (Q1), +14.0% (Q2), +10.1% (Q3).",
+          "The contribution arithmetic matters more than the percentage: RNG added EUR 7.6m (~$8.5m) of the group's EUR 19.0m (~$21m) YoY revenue increase — 40% of the growth from under 16% of the base — and without it the group would have grown ~2.3%. Management attributed North America's outperformance in part to 'particularly strong RNG performance' and described an initiative to create localised RNG content specifically for the North American business, with Ice Fishing slated for a Q4 North American launch; Monopoly-branded content under the Hasbro licence continues to anchor the branded pipeline. No RNG-specific KPIs — active titles, aggregation versus proprietary split, game rounds by product, or regional RNG revenue — were disclosed, and, as with Live, no segment margin is reported.",
+          "They also positioned AI in RNG terms. Asked whether AI live dealers could substitute for studio operations, the CEO said an AI dealer 'is a possibility… it's like an RNG live game, it's a complement' and that he does not believe it 'will take over live as some people ask'; separately the group is 'working hard' with AI across functions to replace functionality and lift efficiency. The implication for the RNG line is that any Evolution AI-dealer product would sit in or alongside RNG rather than cannibalise Live studios. That is relevant to the competitive debate, since third-party AI-dealer products remove the studio capex barrier that underpins Evolution's Live moat and shorten rivals' time to market in regulated US states.",
+          "Our judgment is that RNG is a genuine, if modest, positive: it is now accretive to growth after three years of drag, the base is still small enough that ~10% growth is credible for several more quarters, and the North American localisation strategy aligns RNG with the group's fastest-growing regulated region. The caveats are the usual ones — there is no RNG margin disclosure, the comparison base stays soft through Q1-27 (Q4-25 RNG was EUR 75.7m, ~$85m), so the double-digit rate is partly base effect, and EUR 83m a quarter cannot carry a EUR 2.1bn group. Segment guidance, as for Live, is to grow at least in line with the market in each region."
+        ],
+        "table": {
+          "note": "RNG, EUR m (~USD at 1.12)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "RNG net revenues",
+              "kind": "emphasis",
+              "cells": [
+                "83.1 (~$93m)",
+                "+3.2%",
+                "+10.1%",
+                "241.8 (~$271m)",
+                "+10.7%"
+              ],
+              "footnote": "Comparatives: Q2-26 EUR 80.5m; Q3-25 EUR 75.5m; 9M-25 EUR 218.3m. Series Q3-25→Q3-26: 75.5 / 75.7 / 78.2 / 80.5 / 83.1."
+            },
+            {
+              "label": "RNG YoY growth trend",
+              "indent": true,
+              "cells": [
+                "+10.1%",
+                "vs Q2-26 +14.0%",
+                "vs Q1-26 ~+8%",
+                "—",
+                "—"
+              ],
+              "footnote": "Q1-26 growth derived from 9M-25 less Q2-25/Q3-25 (Q1-25 ≈ EUR 72.2m)."
+            },
+            {
+              "label": "Share of group net revenue",
+              "indent": true,
+              "cells": [
+                "15.8%",
+                "+30bps",
+                "+90bps",
+                "15.5%",
+                "+140bps"
+              ]
+            },
+            {
+              "label": "Contribution to group YoY revenue growth",
+              "indent": true,
+              "cells": [
+                "7.6 of 19.0 (40%)",
+                "—",
+                "—",
+                "23.4 of 4.6 (RNG offset Live -18.8)",
+                "—"
+              ]
+            },
+            {
+              "label": "Segment EBITDA / margin",
+              "indent": true,
+              "cells": [
+                "not disclosed",
+                "—",
+                "—",
+                "not disclosed",
+                "—"
+              ]
+            },
+            {
+              "label": "Pipeline",
+              "kind": "group"
+            },
+            {
+              "label": "Branded / localised titles",
+              "indent": true,
+              "cells": [
+                "Monopoly (Hasbro) range; NA localisation programme",
+                "—",
+                "—",
+                "Ice Fishing (NA) planned Q4-26",
+                "—"
+              ]
+            },
+            {
+              "label": "AI dealer positioning",
+              "indent": true,
+              "cells": [
+                "'a complement… like an RNG live game'",
+                "—",
+                "—",
+                "no launch date",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Growth engine",
+            "takeaway": "RNG revenues rose 10.1% to EUR 83.1m (~$93m), the second consecutive double-digit quarter after years of flat-to-down.",
+            "points": [
+              "Up 3.2% sequentially, following +14.0% in Q2, the first double-digit quarter in roughly three years.",
+              "Nine-month RNG revenue up 10.7% to EUR 241.8m (~$271m); series EUR 75.5m, 75.7m, 78.2m, 80.5m, 83.1m shows steady ~3% sequential compounding.",
+              "Share of group revenue 15.8%, up from 14.9% a year ago and 15.5% in Q2; 2026 YoY path roughly +8% (Q1), +14.0% (Q2), +10.1% (Q3)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Contribution and strategy",
+            "takeaway": "RNG added EUR 7.6m (~$8.5m) of the group's EUR 19.0m (~$21m) YoY increase, 40% of growth from under 16% of the base.",
+            "points": [
+              "Without RNG the group would have grown ~2.3%.",
+              "Management credits North America's outperformance partly to 'particularly strong RNG performance'; localised North American RNG content planned, Ice Fishing slated for Q4 launch.",
+              "Monopoly-branded content under the Hasbro licence anchors the branded pipeline.",
+              "No RNG-specific KPIs (active titles, aggregation vs proprietary, game rounds, regional revenue) or segment margin disclosed."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "AI positioning",
+            "takeaway": "Management frames AI dealers as a complement sitting alongside RNG rather than a substitute for Live studios.",
+            "points": [
+              "CEO does not believe AI dealers 'will take over live as some people ask'; group is 'working hard' with AI across functions for efficiency.",
+              "Third-party AI-dealer products remove the studio capex barrier underpinning Evolution's Live moat and shorten rivals' time to market in regulated US states."
+            ],
+            "quote": {
+              "text": "is a possibility… it's like an RNG live game, it's a complement",
+              "speaker": "CEO"
+            }
+          },
+          {
+            "heading": "Our judgment",
+            "takeaway": "RNG is a genuine if modest positive, accretive after three years of drag, but EUR 83m a quarter cannot carry a EUR 2.1bn group.",
+            "points": [
+              "Base still small enough that ~10% growth is credible for several more quarters; North American localisation aligns with fastest-growing regulated region.",
+              "Comparison base stays soft through Q1-27 (Q4-25 RNG was EUR 75.7m, ~$85m), so double-digit rate is partly base effect.",
+              "Segment guidance is to grow at least in line with the market in each region."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Regional mix & regulatory exposure (group)",
+        "headline": "Asia is 37% of revenue by player IP but 4% by operator location — the grey-market gap is unchanged; Europe is losing share; Brazil removes a growth engine from Q4.",
+        "narrative": [
+          "Evolution reports revenue two ways, and the gap between them is the Asia/grey-market debate in a single table. By customer (operator) location, Europe is 64% of revenue (EUR 336.3m, ~$377m, -6.0% YoY), North America 15% (EUR 81.0m, ~$91m, +11.0%), Latin America 15% (EUR 76.6m, ~$86m, +39.3%), Asia 4% (EUR 19.1m, ~$21m, +42.5%) and Africa & other 2% (EUR 13.1m, ~$15m, +61.7%). By player IP, Asia is the largest region at 37% (EUR 192.1m, ~$215m), Europe 33% (EUR 173.7m, ~$195m), North America 16% (EUR 84.3m, ~$94m), Latin America 9% (EUR 49.0m, ~$55m) and Africa & other 5% (~EUR 27.0m, ~$30m). The ~EUR 173m (~$194m) of Asian end-player revenue booked to European-domiciled operators is, in effect, the grey-market exposure: licensed B2B supply to offshore-licensed operators serving players in jurisdictions without local regulation. Regulated markets were 49% of revenue (EUR 258.5m, ~$290m); mobile was 77.0% of operator GGR, up from 74.0%.",
+          "Asia is the swing factor. At EUR 192.1m it grew only 1.6% YoY and 0.8% QoQ after a -8.9% YoY / -3.7% QoQ print in Q2, so the sequential stabilisation is real but shallow. The CEO's language was candid: asked whether the cyber-crime issues were solved, the answer was 'No'; there is 'no quick solution', and the company is taking 'long-term steps' to protect the product from video piracy and unauthorised redistribution. An analyst observed that the interim report itself no longer mentions the issue, which management did not dispute — it has become a running condition rather than a disclosed event. With Asia at 37% of revenue, every 5% of Asian volatility is roughly 1.8 points of group growth — more than the entire Q3 YoY growth rate — and this is also where the game-rounds/revenue divergence (+22.5% vs +3.7%) most plausibly sits.",
+          "Europe is the structural worry. By IP it fell 4.7% YoY to EUR 173.7m (+0.4% QoQ, after +3.5% QoQ in Q2); by operator location it fell 6.0% to EUR 336.3m. Management attributed the weakness to regulatory change and tax in several markets but accepted that the group is not capturing its share of market growth, framing the fix as 'a few stable quarters' of customer-relationship work rather than any specific product or pricing action. European IP revenue has declined from above EUR 200m (~$224m) per quarter in late 2024. North America, by contrast, delivered another record (EUR 84.3m, +13.6% YoY, +4.1% QoQ) and remains the cleanest regulated growth story in the portfolio, with a New Jersey studio next; Latin America (+23.1%) and Africa & other (+23.7%) are both records, and the CEO stressed Latin America's Q3 growth 'didn't include any effects' from Brazil.",
+          "Brazil is the Q4 overhang. The São Paulo studio closed on 5 October under PM 1.394/2026; Lula won the 25 October run-off with 51.76% having campaigned on the ban, and resolution now rests with the STF (constitutionality challenge) and Congress (conversion of the provisional measure). Management will not quantify the Q4 impact beyond Brazil being 'well below half' of LatAm IP revenue (<EUR 24.5m, ~$27m per quarter, <4.7% of group), notes the market is not ring-fenced, and is retaining rather than cutting local staff for now — so Brazilian cost continues without Brazilian revenue in Q4, a drag of perhaps 20-30bps on margin that management says is absorbed within the unchanged ~66% FY target. Our view is that the regional picture supports stability rather than re-acceleration: the Americas and Africa (30% of IP revenue) grew ~18%, Europe and Asia (70%) shrank ~1.5%, and the mix is drifting slowly toward regulated, lower-volatility revenue — but with Asia at 37% the grey-market risk premium on the equity is not going away, and a new regulatory shock (Brazil) has just demonstrated that regulated revenue is not risk-free either."
+        ],
+        "table": {
+          "note": "Group revenue by geography, EUR m (~USD at 1.12)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "By player IP address",
+              "kind": "group"
+            },
+            {
+              "label": "Asia (37%)",
+              "indent": true,
+              "cells": [
+                "192.1 (~$215m)",
+                "+0.8%",
+                "+1.6%",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Q2-26 EUR 190.5m (-8.9% YoY, -3.7% QoQ). Q3-25 ≈ EUR 189.1m (derived)."
+            },
+            {
+              "label": "Europe (33%)",
+              "indent": true,
+              "cells": [
+                "173.7 (~$195m)",
+                "+0.4%",
+                "-4.7%",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Q2-26 EUR 173.0m (-4.0% YoY, +3.5% QoQ). Q3-25 ≈ EUR 182.3m (derived)."
+            },
+            {
+              "label": "North America (16%)",
+              "indent": true,
+              "cells": [
+                "84.3 (~$94m)",
+                "+4.1%",
+                "+13.6%",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Q2-26 EUR 81.0m (+9.5% YoY). Record quarter."
+            },
+            {
+              "label": "Latin America (9%)",
+              "indent": true,
+              "cells": [
+                "49.0 (~$55m)",
+                "+3.2%",
+                "+23.1%",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Q2-26 EUR 47.5m (+26.3% YoY). Record; pre-Brazil ban."
+            },
+            {
+              "label": "Africa & other (5%)",
+              "indent": true,
+              "cells": [
+                "~27.0 (~$30m)",
+                "~+4.7%",
+                "+23.7%",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Residual; Q2-26 base EUR 25.8m (residual)."
+            },
+            {
+              "label": "By customer (operator) location",
+              "kind": "group"
+            },
+            {
+              "label": "Europe (64%)",
+              "indent": true,
+              "cells": [
+                "336.3 (~$377m)",
+                "n/a",
+                "-6.0%",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Q3-25 EUR 357.6m."
+            },
+            {
+              "label": "North America (15%)",
+              "indent": true,
+              "cells": [
+                "81.0 (~$91m)",
+                "n/a",
+                "+11.0%",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Q3-25 EUR 73.0m."
+            },
+            {
+              "label": "Latin America (15%)",
+              "indent": true,
+              "cells": [
+                "76.6 (~$86m)",
+                "n/a",
+                "+39.3%",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Q3-25 EUR 55.0m."
+            },
+            {
+              "label": "Asia (4%)",
+              "indent": true,
+              "cells": [
+                "19.1 (~$21m)",
+                "n/a",
+                "+42.5%",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Q3-25 EUR 13.4m."
+            },
+            {
+              "label": "Africa & other (2%)",
+              "indent": true,
+              "cells": [
+                "13.1 (~$15m)",
+                "n/a",
+                "+61.7%",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Q3-25 EUR 8.1m."
+            },
+            {
+              "label": "Exposure metrics",
+              "kind": "group"
+            },
+            {
+              "label": "Regulated-market revenue share",
+              "indent": true,
+              "cells": [
+                "49% (258.5, ~$290m)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Asia IP less Asia operator location (grey-market proxy)",
+              "indent": true,
+              "cells": [
+                "~173 (~$194m)",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Brazil gross exposure (derived)",
+              "indent": true,
+              "cells": [
+                "<24.5 (~$27m)",
+                "—",
+                "—",
+                "<4.7% of group",
+                "—"
+              ]
+            },
+            {
+              "label": "Mobile share of operator GGR",
+              "indent": true,
+              "cells": [
+                "77.0%",
+                "n/a",
+                "+300bps",
+                "—",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Two revenue views",
+            "takeaway": "Asia is 37% of revenue by player IP but 4% by operator location; ~EUR 173m (~$194m) is effectively grey-market exposure.",
+            "points": [
+              "By operator location: Europe 64% (EUR 336.3m, -6.0%), North America 15% (EUR 81.0m, +11.0%), Latin America 15% (EUR 76.6m, +39.3%), Asia 4% (EUR 19.1m, +42.5%), Africa & other 2% (EUR 13.1m, +61.7%).",
+              "By player IP: Asia 37% (EUR 192.1m), Europe 33% (EUR 173.7m), North America 16% (EUR 84.3m), Latin America 9% (EUR 49.0m), Africa & other 5% (~EUR 27.0m).",
+              "Regulated markets were 49% of revenue (EUR 258.5m, ~$290m); mobile 77.0% of operator GGR, up from 74.0%."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Asia",
+            "takeaway": "Asia grew only 1.6% YoY and 0.8% QoQ to EUR 192.1m after -8.9% YoY / -3.7% QoQ in Q2; stabilisation is real but shallow.",
+            "points": [
+              "Asked whether cyber-crime issues were solved, the CEO answered 'No'; company taking 'long-term steps' against video piracy and unauthorised redistribution.",
+              "Interim report no longer mentions the issue; it has become a running condition rather than a disclosed event.",
+              "Every 5% of Asian volatility is roughly 1.8 points of group growth, more than the entire Q3 YoY growth rate; game-rounds/revenue divergence (+22.5% vs +3.7%) most plausibly sits here."
+            ],
+            "quote": {
+              "text": "no quick solution",
+              "speaker": "CEO"
+            }
+          },
+          {
+            "heading": "Europe",
+            "takeaway": "Europe is the structural worry: IP revenue -4.7% to EUR 173.7m, operator-location revenue -6.0% to EUR 336.3m, with share not being captured.",
+            "points": [
+              "+0.4% QoQ after +3.5% QoQ in Q2; European IP revenue has declined from above EUR 200m (~$224m) per quarter in late 2024.",
+              "Management blamed regulatory change and tax but accepted it is not capturing its share of market growth; fix framed as 'a few stable quarters' of relationship work."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Americas and Africa",
+            "takeaway": "North America delivered another record at EUR 84.3m (+13.6% YoY, +4.1% QoQ) and remains the cleanest regulated growth story.",
+            "points": [
+              "New Jersey studio is next.",
+              "Latin America (+23.1%) and Africa & other (+23.7%) both records; CEO stressed Latin America's Q3 growth 'didn't include any effects' from Brazil."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Brazil overhang",
+            "takeaway": "São Paulo studio closed 5 October under PM 1.394/2026; Q4 impact unquantified beyond Brazil being under EUR 24.5m (~$27m) quarterly, <4.7% of group.",
+            "points": [
+              "Lula won the 25 October run-off with 51.76% having campaigned on the ban; resolution rests with the STF (constitutionality) and Congress (conversion).",
+              "Brazil is 'well below half' of LatAm IP revenue; market not ring-fenced; local staff retained for now.",
+              "Brazilian cost without revenue is a drag of perhaps 20-30bps on margin, which management says is absorbed within the unchanged ~66% FY target."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Our view",
+            "takeaway": "Regional picture supports stability rather than re-acceleration, and the grey-market risk premium is not going away with Asia at 37%.",
+            "points": [
+              "Americas and Africa (30% of IP revenue) grew ~18%; Europe and Asia (70%) shrank ~1.5%.",
+              "Mix is drifting slowly toward regulated, lower-volatility revenue.",
+              "Brazil has just demonstrated that regulated revenue is not risk-free either."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "**Return to growth:** net revenue +3.7% YoY to EUR 526.1m (~$589m), est. +4.0% at constant currency, after four consecutive declines; all five regions grew QoQ for the first time since 2024.",
+        "tag": "early"
+      },
+      {
+        "text": "**RNG now accretive:** +10.1% to EUR 83.1m (~$93m), second straight double-digit quarter (Q2 +14.0%), 9M +10.7%; supplied 40% of group YoY growth from <16% of the base.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Americas & Africa records:** North America +13.6% to EUR 84.3m (~$94m), LatAm +23.1% to EUR 49.0m (~$55m), Africa & other +23.7% to ~EUR 27.0m (~$30m) — ~30% of IP revenue growing ~18%.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Margin defended:** adj. EBITDA margin 65.8% (-60bps YoY, -10bps QoQ); FY ~66% target reiterated despite Brazil; other opex ex one-offs +0.7% YoY.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Cash machine intact:** OCF after investments EUR 334.1m (~$374m), LTM cash conversion 85%, cash EUR 656.4m (~$735m), zero debt, EUR 300m (~$336m) RCF undrawn.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Two overhangs closed:** UKGC licence review settled for GBP 4.75m (EUR 5.6m, ~$6.3m) and the $85m Galaxy Gaming deal terminated for a $5.2m fee — both paid, both excluded from adj. EBITDA; total EUR 12.1m (~$13.6m).",
+        "tag": "one-off"
+      },
+      {
+        "text": "**Per-share accretion:** 16.9m shares (~8% of the count) repurchased for EUR 1,127.1m (~$1.26bn) since 19 May; basic EPS +4.6% to EUR 1.31 (~$1.47) despite profit for the period -3.6%.",
+        "tag": "mixed"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "**Europe losing share:** -4.7% YoY by IP to EUR 173.7m (~$195m), -6.0% by operator location to EUR 336.3m (~$377m); CEO: 'not exciting and we should do better', with no concrete remedy beyond 'a few stable quarters'.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Asia stalled, cyber-crime unresolved:** +1.6% YoY / +0.8% QoQ at EUR 192.1m (~$215m); 37% of revenue by IP vs 4% by operator location — grey-market exposure undiminished; regulated share only 49%.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Brazil ban:** São Paulo studio closed 5 Oct under PM 1.394/2026; Lula re-elected 25 Oct; up to ~EUR 24.5m (~$27m) of quarterly revenue at risk with the local cost base retained — Q4 will be 'more eventful'.",
+        "tag": "one-off"
+      },
+      {
+        "text": "**Reported earnings down:** EBITDA -0.9% to EUR 333.8m (~$374m), margin -290bps to 63.5%; EBIT -2.1% to EUR 290.3m (~$325m); profit for the period -3.6% to EUR 243.3m (~$273m); reported opex +12% to EUR 235.9m (~$264m).",
+        "tag": "mixed"
+      },
+      {
+        "text": "**Slight miss, again:** revenue EUR 526.1m vs ~EUR 529m consensus; diluted EPS EUR 1.29 (~$1.44) vs ~1.33 — fifth consecutive quarter of revenue at or below the Street.",
+        "tag": "watch"
+      },
+      {
+        "text": "**Activity ≠ revenue, costs ≠ revenue:** game rounds index +22.5% YoY vs revenue +3.7%; headcount +8.1% and personnel costs +5.7% (EUR 124.3m, ~$139m) vs revenue +3.7% — negative operating leverage masked by 'adjusted' and other-opex restraint.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Buyback outrunning cash:** Q3 repurchases EUR 823.9m (~$923m) vs OCF EUR 334.1m (~$374m) — 2.4x the quarter's adj. EBITDA; cash down to EUR 656.4m; pace now being slowed to 'align with cash generation' with EUR 873m (~$978m) still to deploy.",
+        "tag": "governance"
+      }
+    ],
+    "forecast": {
+      "intro": "There was no guidance change. Evolution's only numeric target is the FY2026 EBITDA margin, which stays 'in line with 2025' — i.e. ~66% against an FY25 adjusted margin of 66.1% — and it was reiterated on the call despite the 5 October Brazil closure. There is no revenue guidance; the qualitative ambition is to grow at least in line with the market in each region for both Live and RNG, and to ship 110+ games in 2026. 9M-26 adjusted margin is 65.7%, so Q4 must print ~66.5-67% for the full year to round to 66.0%. The moving parts: RNG (+10.1%) and the Americas/Africa (~+18%) pulling growth up; Europe (-4.7%) and Asia (+1.6%) pulling it down; EUR 12.1m (~$13.6m) of Q3 one-offs now behind; and Brazil removing up to ~EUR 24.5m (~$27m) of quarterly revenue from Q4 while its studio cost persists.",
+      "bridge": [
+        {
+          "title": "FY26 adj. EBITDA margin target",
+          "value": "~66% (unchanged; FY25 66.1%)",
+          "change": "9M-26 at 65.7% → Q4 needs ~66.5-67% to land on 66.0%"
+        },
+        {
+          "title": "Q4 revenue swing: Brazil",
+          "value": "up to -EUR 24.5m (~$27m)/qtr",
+          "change": "<4.7% of group; partly offset by offshore leakage and Americas/Africa growth"
+        },
+        {
+          "title": "Q3 one-offs (not recurring)",
+          "value": "EUR 12.1m (~$13.6m)",
+          "change": "UKGC EUR 5.6m + Galaxy EUR 6.5m; none flagged for Q4"
+        },
+        {
+          "title": "Remaining buyback",
+          "value": "EUR 873m (~$978m)",
+          "change": "Pace slowing to ~match EUR 330m (~$370m)/qtr cash generation; runs into Q1-27+"
+        }
+      ],
+      "view": "Our estimates (not company guidance): **Q4-26E net revenue EUR 520-535m (~$582-599m), midpoint ~EUR 527m (~$590m), +2.5% YoY and flat QoQ**, assuming normal Q4 seasonality (+1-2% QoQ) is offset by a EUR 10-20m (~$11-22m) Brazil hole net of leakage to offshore-licensed operators; Live ~EUR 441m (~$494m), RNG ~EUR 86m (~$96m). **Q4-26E adjusted EBITDA margin 66.0-66.5%** (Brazilian cost without revenue costs ~20-30bps; no one-offs assumed), giving **FY26E revenue ~EUR 2.08bn (~$2.33bn), +0.7% YoY, and FY26E adjusted EBITDA ~EUR 1.37bn (~$1.53bn) at ~65.8-65.9%** — a hair below the 66.1% FY25 print but inside management's 'in line' framing; landing exactly on 66.0% requires a ~67% Q4, which we would not underwrite. **Leverage stays negative (net cash), but the pile shrinks:** with OCF after investments of ~EUR 330m (~$370m) a quarter and EUR 873m (~$978m) of programme left to run through Q4 and Q1-27, a straight-line pace of ~EUR 435m (~$487m) a quarter would take cash from EUR 656m toward ~EUR 450m (~$504m) by Q1-27 — hence the explicit slowing; we expect completion to slip into Q2-27 rather than draw the RCF. EPS continues to be flattered by ~8% share-count shrinkage, so look through it to profit for the period, which we model roughly flat YoY in Q4 (~EUR 250m, ~$280m) absent one-offs. For 2027 the swing factors are binary rather than incremental: a Brazil reopening (studio 'ready to accelerate'), a durable fix for Asian video piracy, and whether Europe can stop ceding share; absent those, this is a low-single-digit organic-growth business defending a mid-60s margin against ~8% headcount growth, and the equity's grey-market risk premium persists.",
+      "watch": [
+        "Brazil: STF ruling on PM 1.394/2026 and the Congress vote; any São Paulo reopening timeline; Q4 LatAm IP revenue vs the EUR 49.0m (~$55m) Q3 base.",
+        "Asia by IP (EUR 192.1m, ~$215m) alongside the game-rounds index: a sequential Asian decline with rounds still rising would confirm the piracy/low-monetisation read.",
+        "Europe by IP vs EUR 173.7m (~$195m): management needs 'a few stable quarters'; a third consecutive sub-1% QoQ would make the share-loss narrative structural.",
+        "Q4 adjusted EBITDA margin — needs ≥~66.5% for FY to round to 66%; watch personnel cost (EUR 124.3m, +5.7%) vs revenue and any Brazil restructuring charge.",
+        "Buyback cadence vs cash via the weekly MFN disclosures; cash below ~EUR 500m (~$560m) or any RCF draw would contradict the 'no debt' stance.",
+        "Product cadence: Game Night before year-end, Ice Fishing (NA) in Q4, the 110+ release count, New Jersey studio timing, and any AI-dealer product announcement.",
+        "Litigation: outcome or settlement of the ongoing lawsuit the CEO referenced; UKGC remediation follow-through after the GBP 4.75m settlement."
+      ]
+    },
+    "sharePriceReaction": "Shares opened ~1.6% lower at SEK 798.8 on the modest revenue/EPS miss, were +1.3% at SEK 822.20 by midday, and closed +3.6% at SEK 841.40 (prev. close SEK 812.00; ~623k shares traded) as the unchanged ~66% margin target and the cleared UKGC/Galaxy overhangs outweighed Brazil. Options had implied a ±5.6% move. (SEK/USD on the day not verified; USD equivalent n/a.)",
+    "confidence": "MEDIUM",
+    "confidenceNote": "FX: EUR/USD 1.12 as of 23 Oct 2026 (FRED 1.1199; ECB reference 1.1193). Headline P&L (revenue, Live/RNG, adj./reported EBITDA, EBIT, profit, EPS), cash, buyback and regional figures were cross-checked between the company press release, the interim-report PDF (MFN) and at least two secondary sources; these are HIGH confidence. Direct full-document fetch was unavailable in this session, so some granular items are unverified/n/a: 9M regional splits; Q2-26 customer-location split (QoQ on that basis is n/a); financial net and tax lines; SEK/USD for the share price; and the basis of management's '+2.8% opex growth ex one-offs' (our arithmetic on revenue less EBIT gives ~+6% ex one-offs incl. D&A — flagged as a discrepancy). Africa & other by IP (~EUR 27.0m) is a residual; one source prints EUR 27.1m. Q3-25 regional IP comparatives are derived from stated growth rates. Evolution does not disclose segment-level EBITDA. The litigation counterparty referenced on the call was not confirmed in sources read.",
+    "sources": [
+      {
+        "label": "Evolution AB — Interim report January–September 2026 (press release, 23 Oct 2026)",
+        "url": "https://www.evolution.com/investors/financial-publications/press-releases/evolution-interim-report-january-september-2026",
+        "kind": "primary"
+      },
+      {
+        "label": "Evolution AB — Interim report Q3 2026, full PDF (MFN)",
+        "url": "https://storage.mfn.se/396d6c9e-e7ca-4ecd-928c-bfc2b7a5416b/evo-q3-2026-eng-2026-10-23-final.pdf",
+        "kind": "primary"
+      },
+      {
+        "label": "Evolution AB — Interim report January–June 2026, full PDF (MFN) — Q2 comparatives",
+        "url": "https://storage.mfn.se/bbf67910-dce3-4b0c-8228-de12e62c78f6/evo-q2-2026-07-17-eng.pdf",
+        "kind": "primary"
+      },
+      {
+        "label": "Evolution AB — Interim report January–June 2026 (press release)",
+        "url": "https://www.evolution.com/investors/financial-publications/press-releases/evolution-interim-report-january-june-2026",
+        "kind": "primary"
+      },
+      {
+        "label": "Evolution AB — Board resolves on EUR 2bn share buyback programme and EUR 300m RCF (18 May 2026)",
+        "url": "https://mb.cision.com/Main/12069/4349917/4099384.pdf",
+        "kind": "primary"
+      },
+      {
+        "label": "Q3 2026 earnings call transcript (Investing.com)",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-evolution-q3-2026-revenue-returns-to-growth-as-brazil-clouds-outlook-93CH-4968252",
+        "kind": "primary"
+      },
+      {
+        "label": "Q3 2026 earnings call transcript (GuruFocus)",
+        "url": "https://www.gurufocus.com/news/9139509/q3-2026-evolution-ab-publ-earnings-call-transcript",
+        "kind": "primary"
+      },
+      {
+        "label": "Investing.com — Evolution Q3 2026 slides summary (regional, headcount, game rounds, cash)",
+        "url": "https://www.investing.com/news/company-news/evolution-q3-2026-slides-growth-returns-amid-regional-divergence-93CH-4968276",
+        "kind": "secondary"
+      },
+      {
+        "label": "iGaming Future — Evolution Q3 2026 Results: Revenues up 3.7%",
+        "url": "https://igamingfuture.com/evolution-q3-2026/",
+        "kind": "secondary"
+      },
+      {
+        "label": "Gaming Intelligence — Evolution returns to revenue growth in third quarter of 2026",
+        "url": "https://www.gamingintelligence.com/finance/237687-evolution-returns-to-revenue-growth-in-third-quarter-of-2026/",
+        "kind": "secondary"
+      },
+      {
+        "label": "NEXT.io — Evolution says AI live dealer launch 'possibility' but only as complement",
+        "url": "https://next.io/news/casino/evolution-ai-live-dealer-launch-possible/",
+        "kind": "secondary"
+      },
+      {
+        "label": "European Gaming — Evolution Q3 2026: revenue back to growth, profit dips (one-offs, share count, intraday price)",
+        "url": "https://europeangaming.eu/portal/latest-news/2026/10/23/216673/evolution-q3-2026-results-revenue-growth-profit/",
+        "kind": "secondary"
+      },
+      {
+        "label": "iGaming Business — Evolution CEO 'flabbergasted' by Brazil betting ban",
+        "url": "https://igamingbusiness.com/finance/evolution-ceo-flabbergasted-brazil-betting-ban/",
+        "kind": "secondary"
+      },
+      {
+        "label": "NEXT.io — Q3 2026: Evolution sees revenue rise 3.7% as RNG reports 10% growth (customer-location split)",
+        "url": "https://next.io/news/results/q3-2026-evolution-rng-division-reports-growth/",
+        "kind": "secondary"
+      },
+      {
+        "label": "NEXT.io — Evolution shutters Brazil studio, criticises 'populist' gambling ban",
+        "url": "https://next.io/news/regulation/evolution-shuts-brazil-studio-criticises-populist-ban/",
+        "kind": "secondary"
+      },
+      {
+        "label": "Gaming.net — Evolution Q3 revenue rises 3.7% as Brazilian studio closes (regulated share, mobile share, Galaxy/UKGC detail)",
+        "url": "https://www.gaming.net/evolution-q3-revenue-rises-3-7-as-brazilian-studio-closes/",
+        "kind": "secondary"
+      },
+      {
+        "label": "iGaming Express — Evolution Q3 2026: Revenue Returns, Profit Slips (buyback detail, share cancellation)",
+        "url": "https://igamingexpress.com/evolution-q3-2026-revenue-returns-profit-slips/",
+        "kind": "secondary"
+      },
+      {
+        "label": "Yahoo Finance / GuruFocus — Q3 2026 earnings call highlights (Q&A on Brazil, Asia, AI, buyback)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/evolution-ab-evvty-q3-2026-110226904.html",
+        "kind": "secondary"
+      },
+      {
+        "label": "Quartr — Evolution Q3 2026 earnings summary (guidance, opex ex one-offs, product pipeline)",
+        "url": "https://quartr.com/companies/evolution_3967",
+        "kind": "secondary"
+      },
+      {
+        "label": "Investing.com — Evolution shares fall on third-quarter revenue miss (consensus, opening move)",
+        "url": "https://www.investing.com/news/earnings/evolution-shares-fall-on-third-quarter-revenue-miss-4968164",
+        "kind": "secondary"
+      },
+      {
+        "label": "MarketScreener — Evolution AB quote (23 Oct 2026 close SEK 841.40, +3.62%)",
+        "url": "https://www.marketscreener.com/quote/stock/EVOLUTION-AB-58808466/",
+        "kind": "secondary"
+      },
+      {
+        "label": "Swedbank Aktiellt — Evolution news feed (FactSet EBITDA consensus EUR 343m; analyst TP changes)",
+        "url": "https://www.swedbank-aktiellt.se/om/evolutiongaming",
+        "kind": "secondary"
+      },
+      {
+        "label": "Casino.org — Evolution Q3 revenue rises 3.7% as CEO slams Brazil gambling ban",
+        "url": "https://www.casino.org/news/evolution-q3-revenue-rises-3-7-as-ceo-slams-brazil-gambling-ban/",
+        "kind": "secondary"
+      },
+      {
+        "label": "FRED — U.S. Dollars to Euro spot rate (DEXUSEU), 23 Oct 2026 = 1.1199",
+        "url": "https://fred.stlouisfed.org/series/DEXUSEU",
+        "kind": "secondary"
+      }
+    ]
+  }
+}

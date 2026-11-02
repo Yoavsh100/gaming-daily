@@ -2168,5 +2168,182 @@
     "releaseDate": "22 Oct 2026 (Receita Federal Sept-2026 collection data); framed by MP 1.394 of 25 Sep 2026",
     "model": "claude-fable-5-1",
     "costUsd": 4.89
+  },
+  {
+    "key": "EVO.ST|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-02T21:59:24.636Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "EVO-ST-Q3-2026",
+    "published": "2026-11-02",
+    "company": {
+      "name": "Evolution AB",
+      "ticker": "EVO.ST",
+      "exchange": "Nasdaq Stockholm"
+    },
+    "period": "Q3 2026",
+    "verdict": "Evolution's Q3-26 delivered its first year-on-year revenue growth in five quarters (+3.7% to EUR 526.1m, ~$589m; est. +4.0% at constant currency) and held the adjusted EBITDA margin at 65.8%, but the quality is mixed: the ~30% of revenue in the Americas and Africa grew ~18% while the ~70% in Europe (-4.7%, share loss conceded) and Asia (+1.6%, cyber-crime unresolved) shrank ~1.5%. EUR 12.1m (~$13.6m) of one-offs pushed profit for the period down 3.6%, EPS growth is entirely buyback-driven, and Brazil's 5 October ban removes a growth engine from Q4. Stabilisation, not re-acceleration — with the FY26 ~66% margin target unchanged.",
+    "kpis": [
+      {
+        "label": "Net revenue (Q3-26)",
+        "value": "EUR 526.1m (~$589m)",
+        "delta": "+3.7% YoY / +1.6% QoQ (cc ~+4.0%)",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA",
+        "value": "EUR 345.9m (~$387m)",
+        "delta": "+2.7% YoY / +1.4% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA margin",
+        "value": "65.8%",
+        "delta": "-60bps YoY / -10bps QoQ (reported 63.5%)",
+        "dir": "down"
+      },
+      {
+        "label": "Profit for the period",
+        "value": "EUR 243.3m (~$273m)",
+        "delta": "-3.6% YoY / -3.2% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "EPS (basic)",
+        "value": "EUR 1.31 (~$1.47)",
+        "delta": "+4.6% YoY; avg shares -7.8% (buyback-driven)",
+        "dir": "up"
+      },
+      {
+        "label": "Net cash",
+        "value": "EUR 656.4m (~$735m)",
+        "delta": "Zero debt; EUR 1,127m bought back since 19 May",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "23 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.89
+  },
+  {
+    "key": "juris|massachusetts|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-02T22:21:29.307Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "MASSACHUSETTS-SEPTEMBER-2026",
+    "published": "2026-11-02",
+    "company": {
+      "name": "Massachusetts",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "September 2026 was a tale of two channels: a labour strike at Encore Boston Harbor cut Massachusetts casino GGR 13.6% YoY to $82.69M (Encore -22.1%), while a hold-driven rebound lifted taxable sports wagering revenue 36.0% to $71.19M on handle that was actually 3.4% lower. Combined casino-plus-sports taxable revenue still edged up 4.0% to $153.88M and state tax 1.6% to $38.41M, but the real structural story of the month sits outside the MGC's remit — the Treasurer's two-month-old iLottery took $183M of online sales and the Legislature has shelved commercial iGaming until at least 2027-28, leaving a closed, duopoly-dominated sports market under a live 51%-tax threat as the only regulated online channel.",
+    "kpis": [
+      {
+        "label": "Casino GGR (Sep-26, 3 properties)",
+        "value": "$82.69M",
+        "delta": "-13.6% YoY / -18.9% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "Sports handle (wagers settled)",
+        "value": "$772.9M",
+        "delta": "-3.4% YoY / +35.3% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "Taxable sports wagering revenue",
+        "value": "$71.19M",
+        "delta": "+36.0% YoY (hold 9.39% vs 6.5%)",
+        "dir": "up"
+      },
+      {
+        "label": "State gaming tax (casino + sports)",
+        "value": "$38.41M",
+        "delta": "+1.6% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Online share of sports handle",
+        "value": "99.1%",
+        "delta": "+0.5pt YoY (98.6%)",
+        "dir": "up"
+      },
+      {
+        "label": "Lottery sales incl. online (Sep-26)",
+        "value": "$601.2M",
+        "delta": "+27.0% YoY; online $183M",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "20 Oct 2026 (MGC Press Release 26-037 and September 2026 Revenue Report)",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.2
+  },
+  {
+    "key": "juris|maine|9M 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-02T22:37:17.732Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "MAINE-9M-2026",
+    "published": "2026-11-02",
+    "company": {
+      "name": "Maine",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "9M 2026",
+    "verdict": "Maine is a small, two-casino, tribal-exclusive-mobile market growing low-single-digits: 9M 2026 land-based GGR was $129.4m (+2.3%), carried entirely by slots (+4.5%) while tables fell 10%, and sports handle rose 10% to $450.2m with September hold normalising to 10.4%. The state keeps ~42% of casino GGR and 10% of sports AGR, and the only route to the online casino upside is through the Wabanaki Nations — whose iGaming bill (LD 1164) remains the single swing factor for the next 12-24 months.",
+    "kpis": [
+      {
+        "label": "9M-26 casino GGR (2 casinos)",
+        "value": "$129.4m",
+        "delta": "+2.3% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 slot GGR",
+        "value": "$112.4m",
+        "delta": "+4.5% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 table GGR",
+        "value": "$17.0m",
+        "delta": "-10.1% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "9M-26 state take (casino)",
+        "value": "$54.5m",
+        "delta": "+3.6% YoY; 42.1% of GGR",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 sports handle",
+        "value": "$450.2m",
+        "delta": "+10% YoY (secondary)",
+        "dir": "up"
+      },
+      {
+        "label": "Sep-26 sports AGR",
+        "value": "$6.3m",
+        "delta": "+36.5% YoY; hold 10.4%",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "23 Oct 2026 (GCU casino revenue files \"as of 20 Oct 2026\"; sports wagering files week-ending 30 Sep 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.3
   }
 ]
