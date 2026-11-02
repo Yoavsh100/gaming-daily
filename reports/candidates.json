@@ -1035,7 +1035,9 @@
     "market": "Macau",
     "authority": "DICJ",
     "period": "OCTOBER 2026",
-    "urls": [],
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238120-macau-casinos-post-10-gaming-revenue-drop-in-october/"
+    ],
     "seen": "2026-11-02"
   },
   {
@@ -1054,6 +1056,50 @@
     "authority": "PAGCOR",
     "period": "9M 2026",
     "urls": [],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "belle|9M 2026",
+    "type": "company",
+    "company": "Belle Corporation",
+    "ticker": "BEL",
+    "period": "9M 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238140-belle-corporation-grows-revenue-by-11-in-9m-2026/"
+    ],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "juris|tanzania|FY 2026",
+    "type": "jurisdiction",
+    "market": "Tanzania",
+    "authority": "Gaming Board of Tanzania",
+    "period": "FY 2026",
+    "urls": [
+      "https://igamingafrika.com/tanzania-generates-tzs307-8billion-in-gaming-tax-amid-market-expansion/"
+    ],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "juris|north carolina|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "North Carolina",
+    "authority": "North Carolina Lottery Commission",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238082-north-carolina-sports-wagers-top-700-million-in-september/"
+    ],
+    "seen": "2026-11-02"
+  },
+  {
+    "key": "juris|rhode island|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Rhode Island",
+    "authority": "Rhode Island Lottery",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/sectors/lottery-sectors/238090-rhode-island-lottery-sales-decline-15-in-september/"
+    ],
     "seen": "2026-11-02"
   }
 ]
