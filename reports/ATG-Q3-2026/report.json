@@ -1,0 +1,1454 @@
+{
+  "company": {
+    "name": "ATG",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 1875530,
+    "output": 52441,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 62,
+    "cacheRead": 1767563,
+    "cacheWrite": 107905,
+    "turns": 1
+  },
+  "prepared": "3 Nov 2026",
+  "report": {
+    "releaseDate": "23 Oct 2026",
+    "currency": "SEK (tables in SEK millions; USD at USD/SEK 9.94, Riksbanken fix 23 Oct 2026)",
+    "verdict": "A weak quarter on the only line that matters to ATG's owners: Swedish net gaming revenue fell 7.1% and parent EBIT 11.4%, dressed up by a 45% surge in Denmark that contributes almost no profit. The V85 experiment is being unwound (V75 returns 28 Nov) with NPS at -16, opex rose while revenue fell, and liquidity headroom is thin (SEK 15m / ~$1.5m undrawn) heading into a Q4 of restructuring charges. Cash generation (Q3 OCF SEK 499m / ~$50.2m) and 0.4x net bank debt/EBITDA keep this a sound credit; the open question is whether the incoming CEO can halt a four-year erosion in profit before owner transactions.",
+    "kpis": [
+      {
+        "label": "Net gaming revenue (Q3)",
+        "value": "SEK 1,247m (~$125.5m)",
+        "delta": "-3.8% YoY / -4.2% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Total revenue (Q3)",
+        "value": "SEK 1,421m (~$143.0m)",
+        "delta": "-3.1% YoY / -5.1% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Operating profit (EBIT, IFRS)",
+        "value": "SEK 392m (~$39.4m)",
+        "delta": "-9.7% YoY; margin 27.6% (-200bps)",
+        "dir": "down"
+      },
+      {
+        "label": "Net profit / EPS",
+        "value": "SEK 386m (~$38.8m) / SEK 970 (~$98)",
+        "delta": "-9.8% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Operating cash flow (Q3)",
+        "value": "SEK 499m (~$50.2m)",
+        "delta": "-2.3% YoY; 9M -5.4%",
+        "dir": "down"
+      },
+      {
+        "label": "Net bank debt",
+        "value": "SEK 726m (~$73.0m)",
+        "delta": "vs SEK 238m a year ago; 0.4x LTM EBITDA",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**Third straight quarter of revenue decline, second straight double-digit EBIT drop.** Q3 group net gaming revenue (NGR) SEK 1,247m (~$125.5m), -3.8% YoY and -4.2% QoQ; total revenue SEK 1,421m (~$143.0m), -3.1%; IFRS operating profit SEK 392m (~$39.4m), -9.7%; EBIT margin 27.6% (-200bps YoY, but +350bps QoQ on seasonality); net profit SEK 386m (~$38.8m), -9.8%; EPS SEK 970 (~$98) on 400k shares. ATG is unlisted and gives no numerical guidance, so there is no consensus to miss — the benchmark is the prior year and the Q2 run-rate, and both were missed. Figures tie across the interim report, the press release and Finwire/Börsvärlden.",
+      "**Sweden is the whole story; Denmark is the make-up.** Swedish (parent) NGR fell SEK 86m (-7.1%) to SEK 1,128m (~$113.5m) while Danish 25syv added SEK 37m (+45%) to SEK 119m (~$12.0m), limiting the group decline to SEK 49m. The -3.8% headline therefore understates the core-market deterioration by almost half. Parent EBIT -11.4% to SEK 387m (~$38.9m), margin 30.2% (-180bps).",
+      "**Horse betting — volume loss, not price or luck.** Group horse NGR SEK 902m (~$90.7m), -5.8%; Swedish horse NGR -6.7%. Swedish gross horse turnover SEK 2,818m (~$283.5m), -7.5%, while NGR/turnover (takeout proxy) was stable at 30.8% (30.6%). The calendar was neutral (13 V85/V75 Saturdays both years) and there were two MORE jackpots than Q3-25, so the decline came despite favourable jackpot support. International commingled turnover stalled to +0.6% (SEK 864m / ~$86.9m) after +13% in Q2.",
+      "**V85 misstep acknowledged — V75 back on 28 November.** NPS collapsed to -16 from +1 a year ago (five consecutive quarterly declines: +1, -3, -7, -9, -16). Management explicitly ties this to V85, which customers find harder, pricier and less attractive for small stakes, and to a perception that ATG did not listen. The Board decided in September to reinstate V75 as the Saturday flagship from 28 Nov with a SEK 0.60 row price and a V7-only option in non-jackpot rounds. Only ~5 V75 Saturdays fall in Q4, so the P&L test is Q1-27.",
+      "**Sport betting: share loss admitted.** Group sport NGR SEK 156m (~$15.7m), -8.8%; Sweden -10.9% to SEK 139m (~$14.0m) and -20% QoQ. Management concedes it lost Swedish sports market share in H1-26 after a weak spring-winter; Q3 market data are not yet available. The quarter contained the World Cup knockout rounds (to 19 July) and the report does not mention them — the absence of any uplift is itself telling.",
+      "**Casino growth is 100% Danish.** Group casino NGR +13.2% to SEK 189m (~$19.0m), but Swedish casino fell 5.5% to SEK 120m (~$12.1m) — its first decline after +9% in H1 — while Danish casino rose 72.5% to SEK 69m (~$6.9m). All three Swedish products were down YoY for the first time.",
+      "**Denmark (25syv/Bet25) is now 9.5% of group NGR (6.3%) but profit contribution is opaque.** Danish NGR +45% in SEK (FX a headwind; local-currency growth not disclosed) and +14% QoQ; 9M +28% to SEK 310m (~$31.2m). Segment profit is not disclosed; group EBIT less parent EBIT (which also carries Kanal 75 and Finnish start-up costs) was just SEK 5m (~$0.5m) in Q3 and SEK 13m (~$1.3m) for 9M — growth is being bought at thin margin.",
+      "**Costs rose while revenue fell.** Q3 operating expenses (net of SEK 30m capitalised work) SEK 720m (~$72.4m), +1.6% vs revenue -3.1%; opex/revenue 50.7% (+230bps). Personnel -3.4% on average headcount 579 (-5.5% YoY) but other expenses +2.8%. Gambling tax SEK 309m (~$31.1m), 24.8% of NGR; the 18%→22% hike from 1 Jul 2024 remains the structural drag management keeps lobbying against.",
+      "**Cost programme: SEK 300m (~$30.2m) over three years, two reorganisations in 2026.** The programme was disclosed in the Q2 CEO letter; the spring reorganisation (c.25 roles per Travronden) and the autumn round (c.30 roles per Travronden/duochjobbet — secondary sources) feed into a new organisation effective 1 Oct 2026. Autumn restructuring charges will land in Q4 and are unquantified. 9M opex SEK 2,312m (~$232.6m), -0.7%, already absorbed CEO severance and spring redundancy costs against a trademark-dispute one-off in the base.",
+      "**9M flattered by Q1.** 9M NGR SEK 3,763m (~$378.6m), -2.6%; total revenue SEK 4,307m (~$433.3m), -1.8%; EBIT SEK 1,079m (~$108.6m), -2.4% with margin flat at 25.1%; net profit SEK 1,055m (~$106.1m), -2.1%. The trajectory is the point: NGR +0.5% in Q1, -4.1% in Q2, -3.8% in Q3; EBIT +22%, -11%, -10%.",
+      "**Profit before owner transactions keeps eroding.** Parent profit before transactions with owners (non-IFRS; EBIT plus SEK 118m paid to the owners for racing information, rights and sponsorship) was SEK 505m (~$50.8m), -9.5%; 9M SEK 1,503m (~$151.2m) vs SEK 1,712m in 9M-22 — a 12% decline over four years, the cleanest measure of franchise economics.",
+      "**Cash flow intact, but balance-sheet headroom is thin.** Q3 OCF SEK 499m (~$50.2m), -2.3%; capex SEK 47m; FCF (our calc) SEK 452m (~$45.5m). 9M OCF SEK 1,146m (~$115.3m), -5.4%; FCF SEK 985m (~$99.1m). Cash SEK 272m (~$27.4m, -34% YoY); bank debt SEK 998m (~$100.4m) vs SEK 649m; net bank debt SEK 726m (~$73.0m) = 0.4x LTM EBITDA (0.5x incl. SEK 98m leases). Undrawn facilities were only SEK 15m (~$1.5m) vs SEK 65m a year ago and SEK 165m at Q2 — a facility renewal/upsizing is a near-term necessity.",
+      "**The debt funds the owners, not the business.** Receivables from Group companies (advances to Svensk Travsport/Svensk Galopp) stood at SEK 1,330m (~$133.8m) vs SEK 95m at year-end; 9M financing outflows for loans to owners, group contribution and dividend were SEK 1,442m (~$145.1m) vs SEK 1,388m. These are settled via the year-end group contribution (FY25: SEK 1,615m / ~$162.5m, plus SEK 165m dividend paid in 2026). ATG financed the horse industry with c.SEK 2.3bn (~$231m) in 2025; with parent PBT down 3% YTD the FY26 contribution should be lower.",
+      "**Management churn: three CEOs in 2026.** Hans Lord Skarplöth left 12 Feb; chair Peter Norman stood in; Jörgen Forsberg (CEO of Svensk Travsport) has been acting CEO since 5 Mar; Anna Romboli (ex-head of Svenska Spel Tur) takes office in December. Lotta Nilsson is CFO/deputy CEO. New CPO (Jesper Komstadius) and CIO (Thérése Haeggblom Widmark) joined after quarter-end; Richard Woodbridge joined the Board at the 7 May AGM.",
+      "**Finland: licence secured, launch 1 Jul 2027.** 50%-owned Hippos ATG Oy was granted a Finnish gambling licence on 19 Oct 2026 ahead of the market re-regulation. Four FTEs in Finland so far; the 9M non-controlling-interest loss of SEK -7m (~$0.7m) implies roughly SEK 14m of JV start-up losses at 100% (our inference). Management itself warns competition 'across the Baltic' will be hard.",
+      "**Data breach via a subcontractor.** Personal data was exposed to unauthorised parties; the incident is under investigation and has been reported to authorities. Regulatory (IMY/Spelinspektionen) and reputational tail risk on top of the NPS problem.",
+      "**Customers: more of them, worth less each.** Active customers (12-month) 1.4m vs 1.3m (+~8%), yet NGR per active (our crude proxy on rounded actives) fell ~11% to c.SEK 891 (~$90) per quarter. Management's own framing — reaching more customers 'must be converted into activity' — confirms the acquisition is low-value. Marketing spend is not disclosed.",
+      "**Retail keeps shrinking.** Retail NGR SEK 91m (~$9.2m), -16.5% (Sweden -18.1%); now 7.3% of group NGR vs 8.4%. c.1,430 agents. Digital NGR SEK 1,156m (~$116.3m), -2.6%.",
+      "**No guidance, next catalyst 12 Feb 2027 (FY26 report).** Our Q4-26E: NGR c.SEK 1,350m (-2.5%), EBIT SEK 385–410m (~$39–41m) vs SEK 439m, after an assumed SEK 20–40m restructuring charge; FY26E EBIT c.SEK 1,465–1,490m (~$147–150m), -3.5% to -5%. Thesis read-through: ATG remains a highly cash-generative quasi-monopoly in Swedish pool betting, but the product self-harm (V85), share loss in sport, a Swedish casino downturn and owner-driven leverage mean the equity-like value is now dependent on a strategy reset under a new CEO, while sector read-across on Swedish online sport/casino volumes is negative."
+    ],
+    "groupTable": {
+      "note": "SEK m (USD at 9.94)",
+      "columns": [
+        "Q3-26",
+        "QoQ",
+        "YoY",
+        "9M-26",
+        "9M YoY"
+      ],
+      "rows": [
+        {
+          "label": "Net gaming revenue by geography",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Sweden (parent ATG)",
+          "indent": true,
+          "cells": [
+            "1,128 (~$113.5m)",
+            "-5.8%",
+            "-7.1%",
+            "3,453 (~$347.4m)",
+            "-4.6%"
+          ]
+        },
+        {
+          "label": "Denmark (25syv)",
+          "indent": true,
+          "cells": [
+            "119 (~$12.0m)",
+            "+14.4%",
+            "+45.1%",
+            "310 (~$31.2m)",
+            "+28.1%"
+          ]
+        },
+        {
+          "label": "Net gaming revenue by product",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Horse betting",
+          "indent": true,
+          "cells": [
+            "902 (~$90.7m)",
+            "-3.6%",
+            "-5.8%",
+            "2,704 (~$272.0m)",
+            "-4.4%"
+          ]
+        },
+        {
+          "label": "Sport betting",
+          "indent": true,
+          "cells": [
+            "156 (~$15.7m)",
+            "-17.5%",
+            "-8.8%",
+            "521 (~$52.4m)",
+            "-7.6%"
+          ]
+        },
+        {
+          "label": "Casino",
+          "indent": true,
+          "cells": [
+            "189 (~$19.0m)",
+            "+6.8%",
+            "+13.2%",
+            "538 (~$54.1m)",
+            "+14.2%"
+          ]
+        },
+        {
+          "label": "Group net gaming revenue (NGR)",
+          "kind": "emphasis",
+          "cells": [
+            "1,247 (~$125.5m)",
+            "-4.2%",
+            "-3.8%",
+            "3,763 (~$378.6m)",
+            "-2.6%"
+          ]
+        },
+        {
+          "label": "of which digital",
+          "indent": true,
+          "cells": [
+            "1,156 (~$116.3m)",
+            "-4.1%",
+            "-2.6%",
+            "3,482 (~$350.3m)",
+            "-1.2%"
+          ]
+        },
+        {
+          "label": "of which retail (c.1,430 agents)",
+          "indent": true,
+          "cells": [
+            "91 (~$9.2m)",
+            "-6.2%",
+            "-16.5%",
+            "281 (~$28.3m)",
+            "-16.4%"
+          ]
+        },
+        {
+          "label": "Agent revenue",
+          "cells": [
+            "42 (~$4.2m)",
+            "0.0%",
+            "-8.7%",
+            "125 (~$12.6m)",
+            "-9.4%"
+          ]
+        },
+        {
+          "label": "Other revenue (Kanal 75 media, int'l commission, partners)",
+          "cells": [
+            "132 (~$13.3m)",
+            "-13.7%",
+            "+5.6%",
+            "419 (~$42.2m)",
+            "+9.1%"
+          ]
+        },
+        {
+          "label": "Total revenue",
+          "kind": "emphasis",
+          "cells": [
+            "1,421 (~$143.0m)",
+            "-5.1%",
+            "-3.1%",
+            "4,307 (~$433.3m)",
+            "-1.8%"
+          ]
+        },
+        {
+          "label": "Costs",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Gambling tax",
+          "indent": true,
+          "cells": [
+            "-309 (~$31.1m)",
+            "-5.2%",
+            "-4.6%",
+            "-916 (~$92.2m)",
+            "-3.7%"
+          ]
+        },
+        {
+          "label": "Gambling tax % of NGR",
+          "indent": true,
+          "cells": [
+            "24.8%",
+            "-0.2pp",
+            "-0.2pp",
+            "24.3%",
+            "-0.3pp"
+          ]
+        },
+        {
+          "label": "Operating expenses incl. D&A, net of capitalised work",
+          "indent": true,
+          "cells": [
+            "-720 (~$72.4m)",
+            "-11.1%",
+            "+1.6%",
+            "-2,312 (~$232.6m)",
+            "-0.7%"
+          ]
+        },
+        {
+          "label": "of which personnel",
+          "indent": true,
+          "cells": [
+            "-168 (~$16.9m)",
+            "-5.6%",
+            "-3.4%",
+            "-534 (~$53.7m)",
+            "+4.9%"
+          ]
+        },
+        {
+          "label": "of which other expenses",
+          "indent": true,
+          "cells": [
+            "-519 (~$52.2m)",
+            "-14.6%",
+            "+2.8%",
+            "-1,697 (~$170.7m)",
+            "-1.8%"
+          ]
+        },
+        {
+          "label": "Opex % of total revenue",
+          "indent": true,
+          "cells": [
+            "50.7%",
+            "-340bps",
+            "+230bps",
+            "53.7%",
+            "+60bps"
+          ]
+        },
+        {
+          "label": "Racing info/rights/sponsorship paid to owners (within opex)",
+          "indent": true,
+          "cells": [
+            "118 (~$11.9m)",
+            "-22.9%",
+            "-2.5%",
+            "437 (~$44.0m)",
+            "-2.0%"
+          ]
+        },
+        {
+          "label": "Profit",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "EBITDA (non-IFRS, company definition)",
+          "kind": "emphasis",
+          "cells": [
+            "455 (~$45.8m)",
+            "+7.8%",
+            "-8.6%",
+            "1,264 (~$127.2m)",
+            "-2.8%"
+          ]
+        },
+        {
+          "label": "EBITDA margin (% total revenue)",
+          "indent": true,
+          "cells": [
+            "32.0%",
+            "+380bps",
+            "-190bps",
+            "29.3%",
+            "-30bps"
+          ]
+        },
+        {
+          "label": "Operating profit (EBIT, IFRS)",
+          "kind": "emphasis",
+          "cells": [
+            "392 (~$39.4m)",
+            "+8.6%",
+            "-9.7%",
+            "1,079 (~$108.6m)",
+            "-2.4%"
+          ]
+        },
+        {
+          "label": "EBIT margin (% total revenue)",
+          "indent": true,
+          "cells": [
+            "27.6%",
+            "+350bps",
+            "-200bps",
+            "25.1%",
+            "-15bps"
+          ]
+        },
+        {
+          "label": "Parent (Sweden) EBIT",
+          "indent": true,
+          "cells": [
+            "387 (~$38.9m)",
+            "+7.5%",
+            "-11.4%",
+            "1,066 (~$107.2m)",
+            "-3.4%"
+          ]
+        },
+        {
+          "label": "Implied non-parent EBIT (Denmark, Kanal 75, Finland JV) — our calc",
+          "indent": true,
+          "cells": [
+            "5 (~$0.5m)",
+            "vs 1",
+            "vs -3",
+            "13 (~$1.3m)",
+            "vs 1"
+          ]
+        },
+        {
+          "label": "Net financial items",
+          "cells": [
+            "7 (~$0.7m)",
+            "vs 3",
+            "vs 7",
+            "13 (~$1.3m)",
+            "vs 12"
+          ]
+        },
+        {
+          "label": "Profit before tax",
+          "cells": [
+            "399 (~$40.1m)",
+            "+9.6%",
+            "-9.5%",
+            "1,092 (~$109.9m)",
+            "-2.2%"
+          ]
+        },
+        {
+          "label": "Net profit (IFRS)",
+          "kind": "emphasis",
+          "cells": [
+            "386 (~$38.8m)",
+            "+9.7%",
+            "-9.8%",
+            "1,055 (~$106.1m)",
+            "-2.1%"
+          ]
+        },
+        {
+          "label": "EPS, IFRS basic = diluted (400k shares)",
+          "cells": [
+            "SEK 970 (~$98)",
+            "+10.2%",
+            "-9.8%",
+            "SEK 2,655 (~$267)",
+            "-1.8%"
+          ]
+        },
+        {
+          "label": "Parent profit before transactions with owners (non-IFRS)",
+          "cells": [
+            "505 (~$50.8m)",
+            "-1.6%",
+            "-9.5%",
+            "1,503 (~$151.2m)",
+            "-3.0%"
+          ]
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Active customers, 12-month (m)",
+          "indent": true,
+          "cells": [
+            "1.4",
+            "flat",
+            "+0.1 (1.3)",
+            "1.4",
+            "+0.1 (1.3)"
+          ]
+        },
+        {
+          "label": "NGR per active customer, SEK/qtr (our proxy on rounded actives)",
+          "indent": true,
+          "cells": [
+            "~891 (~$90)",
+            "-4%",
+            "-11%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Net Promoter Score",
+          "indent": true,
+          "cells": [
+            "-16",
+            "-7pts (-9)",
+            "-17pts (+1)",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Average employees (FTE)",
+          "indent": true,
+          "cells": [
+            "579",
+            "-2.7% (595)",
+            "-5.5% (613)",
+            "596",
+            "-1.7% (606)"
+          ]
+        },
+        {
+          "label": "Cash flow & balance sheet",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Cash flow from operating activities",
+          "indent": true,
+          "cells": [
+            "499 (~$50.2m)",
+            "+22.3%",
+            "-2.3%",
+            "1,146 (~$115.3m)",
+            "-5.4%"
+          ]
+        },
+        {
+          "label": "Capex (intangibles + PPE)",
+          "indent": true,
+          "cells": [
+            "-47 (~$4.7m)",
+            "-23.0%",
+            "-14.5%",
+            "-161 (~$16.2m)",
+            "-9.6%"
+          ]
+        },
+        {
+          "label": "Free cash flow (OCF − capex, our calc)",
+          "indent": true,
+          "cells": [
+            "452 (~$45.5m)",
+            "+30.3%",
+            "-0.9%",
+            "985 (~$99.1m)",
+            "-4.6%"
+          ]
+        },
+        {
+          "label": "Loans to owners, group contribution & dividend (financing outflow)",
+          "indent": true,
+          "cells": [
+            "-568 (~$57.1m)",
+            "vs -444",
+            "vs -581",
+            "-1,442 (~$145.1m)",
+            "vs -1,388"
+          ]
+        },
+        {
+          "label": "Cash & equivalents (excl. SEK 450m customer funds)",
+          "indent": true,
+          "cells": [
+            "272 (~$27.4m)",
+            "+12.9% (241)",
+            "-33.8% (411)",
+            "272 (~$27.4m)",
+            "-33.8%"
+          ]
+        },
+        {
+          "label": "Bank debt (long-term, credit institutions)",
+          "indent": true,
+          "cells": [
+            "998 (~$100.4m)",
+            "+17.5% (849)",
+            "+53.8% (649)",
+            "998 (~$100.4m)",
+            "+53.8%"
+          ]
+        },
+        {
+          "label": "Net bank debt (our calc; excl. SEK 98m leases)",
+          "indent": true,
+          "cells": [
+            "726 (~$73.0m)",
+            "+118 (608)",
+            "+488 (238)",
+            "726 (~$73.0m)",
+            "+488"
+          ]
+        },
+        {
+          "label": "Net bank debt / LTM EBITDA (our calc)",
+          "indent": true,
+          "cells": [
+            "0.41x",
+            "0.34x",
+            "0.12x",
+            "0.41x",
+            "0.12x"
+          ]
+        },
+        {
+          "label": "Undrawn credit facilities",
+          "indent": true,
+          "cells": [
+            "15 (~$1.5m)",
+            "vs 165",
+            "vs 65",
+            "15 (~$1.5m)",
+            "vs 65"
+          ]
+        },
+        {
+          "label": "Receivables from Group companies (advances to owners)",
+          "indent": true,
+          "cells": [
+            "1,330 (~$133.8m)",
+            "vs 806",
+            "vs 1,215",
+            "1,330 (~$133.8m)",
+            "vs 1,215"
+          ]
+        },
+        {
+          "label": "Debt/equity (company def.: total liabilities ÷ equity)",
+          "indent": true,
+          "cells": [
+            "1.2x",
+            "1.5x",
+            "0.9x",
+            "1.2x",
+            "0.9x"
+          ]
+        },
+        {
+          "label": "Shareholders' equity",
+          "indent": true,
+          "cells": [
+            "1,709 (~$171.9m)",
+            "+29.2%",
+            "-11.6%",
+            "1,709 (~$171.9m)",
+            "-11.6%"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Sweden (parent ATG — horse, sport, casino)",
+        "headline": "Core market down 7.1% with all three products negative; takeout stable so it is volume loss, and the V85 reversal is an admission that the damage was self-inflicted.",
+        "narrative": [
+          "Swedish net gaming revenue fell 7.1% to SEK 1,128m (~$113.5m), and was 5.8% lower than Q2; for the nine months it is down 4.6% to SEK 3,453m (~$347.4m). This is the number that matters, because the group headline of -3.8% is cushioned by Denmark. Parent total revenue dropped 6.1% to SEK 1,283m (~$129.1m), parent gambling tax fell to SEK 271m (~$27.3m) from SEK 297m, and parent operating profit declined 11.4% to SEK 387m (~$38.9m) for a 30.2% margin against 32.0% a year ago. ATG remains the de facto sole pari-mutuel horse-betting operator in Sweden and the #1 horse brand by a distance, which is exactly why a volume decline of this size cannot be blamed on competition in its core product; the company does not publish numeric market shares.",
+          "Horse betting, 77% of Swedish NGR (unchanged mix), brought in SEK 869m (~$87.4m), down 6.7% year on year and 3.9% quarter on quarter, with the nine-month figure 4.9% lower at SEK 2,616m (~$263.2m). Swedish gross horse turnover was SEK 2,818m (~$283.5m), -7.5%, while the ratio of horse NGR to Swedish turnover held at 30.8% versus 30.6%, so this is a stake decline rather than a takeout or results effect. The calendar offered no excuse: 13 V85/V75 Saturdays in both years and two more jackpots than Q3-25, which should have supported turnover. International commingled turnover, which had grown 13% in Q2 mainly on Finnish demand, stalled to +0.6% at SEK 864m (~$86.9m), leaving total horse turnover down 5.7% at SEK 3,682m (~$370.4m); year to date international is still +8.8% at SEK 2,702m (~$271.8m) and total horse turnover is -2.8% at SEK 11,130m (~$1.12bn). They attribute the weakness squarely to V85, which replaced V75 as the Saturday flagship and is perceived as harder, more expensive and unattractive for small-stake players; the Board decided in September to bring V75 back from 28 November with a SEK 0.60 row price and a V7-only pool in non-jackpot rounds. Only about five V75 Saturdays fall in Q4, so management's own 'we will monitor the reception closely' is the right framing: the earnings read-out is Q1-27, not Q4-26. They also flagged a longer-dated structural worry — falling numbers across horse ownership, breeding and training, which they link to the 2024 gambling-tax increase constraining ATG's contribution to the industry.",
+          "Sport betting generated SEK 139m (~$14.0m), down 10.9% year on year and 20.1% quarter on quarter, and 12% of Swedish NGR (13%); the nine-month decline is 8.7% to SEK 473m (~$47.6m). Management states plainly that ATG lost Swedish sports-betting market share in the first half after a weak spring-winter and that third-quarter market data are not yet available. The quarter included the World Cup knockout rounds through 19 July, which the report does not mention at all — for a product management describes as 'results- and pulse-driven', the absence of any discernible event uplift is a negative signal on competitive position rather than on the calendar. Swedish casino, at SEK 120m (~$12.1m), was flat on Q2 but down 5.5% year on year — its first decline after roughly 9% growth in the first half — leaving the nine months at +4.0% (SEK 364m / ~$36.6m). The 13% group casino growth that leads the press release is therefore entirely Danish; in Sweden every product line was negative in the quarter.",
+          "By channel, digital NGR fell 6.0% to SEK 1,042m (~$104.8m) and retail dropped 18.1% to SEK 86m (~$8.7m) across roughly 1,430 agents, with retail now 7.6% of Swedish NGR; year to date retail is -16.8% at SEK 267m (~$26.9m). Group active customers rose to about 1.4m from 1.3m, but NGR per active (our proxy on rounded figures) fell roughly 11% to c.SEK 891 (~$90) per quarter, consistent with management's remark that reaching more customers 'must be converted into higher activity' — i.e. the adds are low-value. Marketing spend is not disclosed and there is no promotional-intensity metric. Net Promoter Score fell for a fifth consecutive quarter to -16 (Q2 -9, Q3-25 +1), which management ties to V85 and to customers feeling unheard; the GameScanner risk distribution was stable (82.1% in the lowest-risk category, 1.6% in categories 4–5).",
+          "On costs, group operating expenses rose 1.6% to SEK 720m (~$72.4m) net of SEK 30m of capitalised development while revenue fell 3.1%, lifting opex to 50.7% of revenue (+230bps). Personnel costs fell 3.4% to SEK 168m (~$16.9m) on average headcount of 579 (-5.5%), but other expenses rose 2.8% to SEK 519m (~$52.2m); payments to the owners for racing information, rights and sponsorship were SEK 118m (~$11.9m) versus SEK 121m. Parent profit before transactions with owners — EBIT plus those owner payments, ATG's preferred comparator against listed peers — fell 9.5% to SEK 505m (~$50.8m); the nine-month figure of SEK 1,503m (~$151.2m) compares with SEK 1,712m in 2022, a 12% erosion over four years that the SEK 300m (~$30.2m) three-year efficiency programme is meant to arrest. Two reorganisations in 2026 (c.25 roles in spring and c.30 in autumn per Travronden — secondary sources) produce a new organisation from 1 October, with the autumn charges landing in Q4 and unquantified. There is no segment guidance; ATG does not guide."
+        ],
+        "table": {
+          "note": "Sweden / parent ATG, SEK m (USD at 9.94)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Net gaming revenue by product",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Horse betting",
+              "indent": true,
+              "cells": [
+                "869 (~$87.4m)",
+                "-3.9%",
+                "-6.7%",
+                "2,616 (~$263.2m)",
+                "-4.9%"
+              ]
+            },
+            {
+              "label": "Sport betting",
+              "indent": true,
+              "cells": [
+                "139 (~$14.0m)",
+                "-20.1%",
+                "-10.9%",
+                "473 (~$47.6m)",
+                "-8.7%"
+              ]
+            },
+            {
+              "label": "Casino",
+              "indent": true,
+              "cells": [
+                "120 (~$12.1m)",
+                "0.0%",
+                "-5.5%",
+                "364 (~$36.6m)",
+                "+4.0%"
+              ]
+            },
+            {
+              "label": "Sweden NGR",
+              "kind": "emphasis",
+              "cells": [
+                "1,128 (~$113.5m)",
+                "-5.8%",
+                "-7.1%",
+                "3,453 (~$347.4m)",
+                "-4.6%"
+              ]
+            },
+            {
+              "label": "Product mix horse / sport / casino",
+              "indent": true,
+              "cells": [
+                "77% / 12% / 11%",
+                "75/15/10 (Q2)",
+                "77/13/10 (Q3-25)",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Channel",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Digital NGR",
+              "indent": true,
+              "cells": [
+                "1,042 (~$104.8m)",
+                "-5.8%",
+                "-6.0%",
+                "3,186 (~$320.5m)",
+                "-3.4%"
+              ]
+            },
+            {
+              "label": "Retail NGR (c.1,430 agents)",
+              "indent": true,
+              "cells": [
+                "86 (~$8.7m)",
+                "-6.5%",
+                "-18.1%",
+                "267 (~$26.9m)",
+                "-16.8%"
+              ]
+            },
+            {
+              "label": "Horse-betting volume",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Swedish horse gross turnover",
+              "indent": true,
+              "cells": [
+                "2,818 (~$283.5m)",
+                "-3.8%",
+                "-7.5%",
+                "8,428 (~$847.9m)",
+                "-6.0%"
+              ]
+            },
+            {
+              "label": "International (commingled) gross turnover",
+              "indent": true,
+              "cells": [
+                "864 (~$86.9m)",
+                "-15.4%",
+                "+0.6%",
+                "2,702 (~$271.8m)",
+                "+8.8%"
+              ]
+            },
+            {
+              "label": "Total horse gross turnover",
+              "indent": true,
+              "cells": [
+                "3,682 (~$370.4m)",
+                "-6.8%",
+                "-5.7%",
+                "11,130 (~$1,119.7m)",
+                "-2.8%"
+              ]
+            },
+            {
+              "label": "Horse NGR ÷ Swedish turnover (takeout proxy, our calc)",
+              "indent": true,
+              "cells": [
+                "30.8%",
+                "30.9%",
+                "30.6%",
+                "31.0%",
+                "30.7%"
+              ]
+            },
+            {
+              "label": "Scheduled V75/V85 Saturdays",
+              "indent": true,
+              "cells": [
+                "13",
+                "13",
+                "13",
+                "39",
+                "39"
+              ]
+            },
+            {
+              "label": "Jackpots vs prior-year period",
+              "indent": true,
+              "cells": [
+                "+2",
+                "+3 (Q2)",
+                "—",
+                "+7",
+                "—"
+              ]
+            },
+            {
+              "label": "Parent P&L",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Parent total revenue",
+              "indent": true,
+              "cells": [
+                "1,283 (~$129.1m)",
+                "n/a",
+                "-6.1%",
+                "3,943 (~$396.7m)",
+                "-3.4%"
+              ]
+            },
+            {
+              "label": "Parent gambling tax",
+              "indent": true,
+              "cells": [
+                "-271 (~$27.3m)",
+                "n/a",
+                "-8.8%",
+                "-821 (~$82.6m)",
+                "-6.3%"
+              ]
+            },
+            {
+              "label": "Parent gambling tax % parent NGR",
+              "indent": true,
+              "cells": [
+                "24.0%",
+                "n/a",
+                "-0.4pp (24.5%)",
+                "23.8%",
+                "-0.4pp (24.2%)"
+              ]
+            },
+            {
+              "label": "Racing info/rights/sponsorship paid to owners",
+              "indent": true,
+              "cells": [
+                "118 (~$11.9m)",
+                "-22.9%",
+                "-2.5%",
+                "437 (~$44.0m)",
+                "-2.0%"
+              ]
+            },
+            {
+              "label": "Parent operating profit (EBIT)",
+              "kind": "emphasis",
+              "cells": [
+                "387 (~$38.9m)",
+                "+7.5%",
+                "-11.4%",
+                "1,066 (~$107.2m)",
+                "-3.4%"
+              ]
+            },
+            {
+              "label": "Parent EBIT margin",
+              "indent": true,
+              "cells": [
+                "30.2%",
+                "n/a",
+                "-180bps (32.0%)",
+                "27.0%",
+                "flat (27.1%)"
+              ]
+            },
+            {
+              "label": "Parent profit before transactions with owners",
+              "indent": true,
+              "cells": [
+                "505 (~$50.8m)",
+                "-1.6%",
+                "-9.5%",
+                "1,503 (~$151.2m)",
+                "-3.0%"
+              ]
+            },
+            {
+              "label": "Customer & people",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Net Promoter Score",
+              "indent": true,
+              "cells": [
+                "-16",
+                "-9",
+                "+1",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "GameScanner lowest-risk share (cat. 1)",
+              "indent": true,
+              "cells": [
+                "82.1%",
+                "83.1%",
+                "n/a",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Average employees (group)",
+              "indent": true,
+              "cells": [
+                "579",
+                "595",
+                "613",
+                "596",
+                "606"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Swedish revenue and profit",
+            "takeaway": "Swedish NGR fell 7.1% to SEK 1,128m (~$113.5m) with all products negative; this is the number that matters, as Denmark cushions the group -3.8%.",
+            "points": [
+              "NGR was 5.8% lower than Q2; nine months down 4.6% to SEK 3,453m (~$347.4m).",
+              "Parent total revenue dropped 6.1% to SEK 1,283m (~$129.1m); parent gambling tax fell to SEK 271m (~$27.3m) from SEK 297m.",
+              "Parent operating profit declined 11.4% to SEK 387m (~$38.9m), a 30.2% margin against 32.0% a year ago.",
+              "ATG is the de facto sole pari-mutuel horse operator and #1 horse brand, so the volume decline cannot be blamed on competition; no numeric market shares published."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Horse betting and V85",
+            "takeaway": "Horse NGR fell 6.7% to SEK 869m (~$87.4m) on a stake decline, with takeout stable; the V85 reversal admits the damage was self-inflicted.",
+            "points": [
+              "Horse is 77% of Swedish NGR (unchanged mix); down 3.9% quarter on quarter; nine months 4.9% lower at SEK 2,616m (~$263.2m).",
+              "Swedish gross horse turnover SEK 2,818m (~$283.5m), -7.5%; horse NGR to turnover ratio held at 30.8% versus 30.6%.",
+              "Calendar offered no excuse: 13 V85/V75 Saturdays in both years and two more jackpots than Q3-25.",
+              "International commingled turnover stalled to +0.6% at SEK 864m (~$86.9m) after +13% in Q2; total horse turnover -5.7% at SEK 3,682m (~$370.4m).",
+              "Year to date international +8.8% at SEK 2,702m (~$271.8m); total horse turnover -2.8% at SEK 11,130m (~$1.12bn)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "V75 return",
+            "takeaway": "V75 returns from 28 November at SEK 0.60 row price, but with only about five V75 Saturdays in Q4 the earnings read-out is Q1-27, not Q4-26.",
+            "points": [
+              "Weakness attributed squarely to V85, perceived as harder, more expensive and unattractive for small-stake players.",
+              "Board decided in September to bring V75 back with a V7-only pool in non-jackpot rounds.",
+              "Longer-dated structural worry: falling horse ownership, breeding and training numbers, linked to the 2024 gambling-tax increase constraining ATG's industry contribution."
+            ],
+            "quote": {
+              "text": "we will monitor the reception closely",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Sport and casino",
+            "takeaway": "Sport fell 10.9% to SEK 139m (~$14.0m) and casino 5.5% to SEK 120m (~$12.1m); every Swedish product line was negative.",
+            "points": [
+              "Sport down 20.1% quarter on quarter, 12% of Swedish NGR (13%); nine-month decline 8.7% to SEK 473m (~$47.6m).",
+              "Management states ATG lost Swedish sports-betting market share in the first half; Q3 market data not yet available.",
+              "World Cup knockout rounds through 19 July not mentioned; absence of event uplift is a negative signal on competitive position rather than calendar.",
+              "Casino flat on Q2, first decline after roughly 9% growth in H1; nine months +4.0% (SEK 364m / ~$36.6m).",
+              "The 13% group casino growth headlined in the press release is entirely Danish."
+            ],
+            "quote": {
+              "text": "results- and pulse-driven",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Channels and customers",
+            "takeaway": "Digital NGR fell 6.0% to SEK 1,042m (~$104.8m) and retail 18.1% to SEK 86m (~$8.7m); customer adds are low-value.",
+            "points": [
+              "Retail across roughly 1,430 agents is now 7.6% of Swedish NGR; year to date retail -16.8% at SEK 267m (~$26.9m).",
+              "Group actives rose to about 1.4m from 1.3m, but NGR per active (our proxy) fell roughly 11% to c.SEK 891 (~$90) per quarter.",
+              "Marketing spend not disclosed; no promotional-intensity metric.",
+              "NPS fell for a fifth consecutive quarter to -16 (Q2 -9, Q3-25 +1), tied to V85 and customers feeling unheard.",
+              "GameScanner risk distribution stable: 82.1% lowest-risk category, 1.6% in categories 4–5."
+            ],
+            "quote": {
+              "text": "must be converted into higher activity",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Costs and efficiency",
+            "takeaway": "Group opex rose 1.6% to SEK 720m (~$72.4m) while revenue fell 3.1%, lifting opex to 50.7% of revenue (+230bps).",
+            "points": [
+              "Opex is net of SEK 30m capitalised development; personnel costs fell 3.4% to SEK 168m (~$16.9m) on headcount 579 (-5.5%).",
+              "Other expenses rose 2.8% to SEK 519m (~$52.2m); owner payments for racing information, rights and sponsorship SEK 118m (~$11.9m) versus SEK 121m.",
+              "Parent profit before transactions with owners fell 9.5% to SEK 505m (~$50.8m); nine months SEK 1,503m (~$151.2m) versus SEK 1,712m in 2022, a 12% erosion.",
+              "SEK 300m (~$30.2m) three-year efficiency programme meant to arrest this; two 2026 reorganisations (c.25 and c.30 roles per Travronden, secondary sources) from 1 October, autumn charges in Q4 unquantified.",
+              "No segment guidance; ATG does not guide."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Denmark (25syv / Bet25) & Nordic expansion (Finland — Hippos ATG Oy)",
+        "headline": "Danish NGR +45% in SEK on a casino surge, now 9.5% of group, but implied profit contribution is near zero and Finland start-up losses are beginning to build.",
+        "narrative": [
+          "The Danish subsidiary 25syv, trading as Bet25, delivered net gaming revenue of SEK 119m (~$12.0m), up 45% year on year in Swedish kronor and 14% on Q2, taking the nine months to SEK 310m (~$31.2m), +28%. Management notes that currency moves were a headwind, so local-currency growth was higher still, though they do not quantify it. Denmark has risen to 9.5% of group NGR from 6.3% a year ago and 8.0% in Q2, and it absorbed SEK 37m of the SEK 86m Swedish decline. The growth is almost entirely casino: Danish casino NGR rose 72.5% to SEK 69m (~$6.9m) and 21% quarter on quarter, lifting casino to 58% of the Danish mix from 49%; horse betting grew 22% to SEK 33m (~$3.3m) and sport 13% to SEK 17m (~$1.7m). Digital accounts for SEK 114m (~$11.5m) of the total with retail at SEK 5m (~$0.5m). No Danish market-share, actives or marketing data are disclosed.",
+          "What they do not disclose is Danish profitability, and the arithmetic available is unflattering. Group operating profit less parent operating profit — a residual that also carries the Kanal 75 media subsidiary and the Finnish JV's start-up costs — was SEK 5m (~$0.5m) in Q3 against SEK -3m a year ago, and SEK 13m (~$1.3m) for the nine months against SEK 1m. Even allowing for Finnish losses inside that residual, 25syv is at best marginally profitable on a 45% growth rate, which means the casino-led expansion is being bought with bonus and marketing spend at Danish GGR-tax rates of 28%. Diversification is real at the revenue line, but it does not yet move group earnings; management's decision to headline 'casino +13%' and '25syv +45%' while Swedish casino fell 5.5% is the clearest example this quarter of emphasising the periphery over the core.",
+          "Finland is the next leg. Hippos ATG Oy, the 50%-owned joint venture (consolidated with a non-controlling interest), was granted a Finnish gambling licence on 19 October ahead of the market's re-regulation and will open for betting on 1 July 2027; ATG says it was among the first licensees. The JV had four employees in the period, and the non-controlling-interest share of losses was SEK -2m in Q3 and SEK -7m for nine months, implying roughly SEK 14m (~$1.4m) of start-up losses at 100% year to date (our inference — not disclosed as such). ATG already has exposure to Finnish horse-betting demand through commingled international turnover, which management credited for the 13% international growth in H1; the licence allows it to serve Finnish customers directly rather than through pool commission. The acting CEO's own caution that 'competition on the other side of the Baltic will be hard' should be read alongside the Danish margin picture: ATG has shown it can grow abroad, not yet that it can do so profitably. Expect Finnish opex to step up through H1-27 ahead of any revenue, with no guidance on size."
+        ],
+        "table": {
+          "note": "Denmark (25syv) & Finland JV, SEK m (USD at 9.94)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Net gaming revenue by product — Denmark",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Horse betting",
+              "indent": true,
+              "cells": [
+                "33 (~$3.3m)",
+                "+3.1%",
+                "+22.2%",
+                "88 (~$8.9m)",
+                "+17.3%"
+              ]
+            },
+            {
+              "label": "Sport betting",
+              "indent": true,
+              "cells": [
+                "17 (~$1.7m)",
+                "+13.3%",
+                "+13.3%",
+                "48 (~$4.8m)",
+                "+4.3%"
+              ]
+            },
+            {
+              "label": "Casino",
+              "indent": true,
+              "cells": [
+                "69 (~$6.9m)",
+                "+21.1%",
+                "+72.5%",
+                "174 (~$17.5m)",
+                "+43.8%"
+              ]
+            },
+            {
+              "label": "Denmark NGR",
+              "kind": "emphasis",
+              "cells": [
+                "119 (~$12.0m)",
+                "+14.4%",
+                "+45.1%",
+                "310 (~$31.2m)",
+                "+28.1%"
+              ]
+            },
+            {
+              "label": "Digital NGR",
+              "indent": true,
+              "cells": [
+                "114 (~$11.5m)",
+                "+15.2%",
+                "+46.2%",
+                "296 (~$29.8m)",
+                "+30.4%"
+              ]
+            },
+            {
+              "label": "Retail NGR",
+              "indent": true,
+              "cells": [
+                "5 (~$0.5m)",
+                "0.0%",
+                "+25.0%",
+                "14 (~$1.4m)",
+                "-6.7%"
+              ]
+            },
+            {
+              "label": "Product mix horse / sport / casino",
+              "indent": true,
+              "cells": [
+                "28% / 14% / 58%",
+                "31/14/55 (Q2)",
+                "33/18/49 (Q3-25)",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Share of group NGR",
+              "indent": true,
+              "cells": [
+                "9.5%",
+                "8.0%",
+                "6.3%",
+                "8.2%",
+                "6.3%"
+              ]
+            },
+            {
+              "label": "Profit & other",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Implied non-parent EBIT (group − parent; incl. Kanal 75 & Finland) — our calc",
+              "indent": true,
+              "cells": [
+                "5 (~$0.5m)",
+                "vs 1",
+                "vs -3",
+                "13 (~$1.3m)",
+                "vs 1"
+              ]
+            },
+            {
+              "label": "Non-controlling interest share of result (Hippos ATG 50%)",
+              "indent": true,
+              "cells": [
+                "-2 (~$0.2m)",
+                "vs -3",
+                "vs -2",
+                "-7 (~$0.7m)",
+                "vs -2"
+              ]
+            },
+            {
+              "label": "Average employees — Denmark",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "41",
+                "43"
+              ]
+            },
+            {
+              "label": "Average employees — Finland",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "4",
+                "0"
+              ]
+            },
+            {
+              "label": "Finland licence / launch",
+              "indent": true,
+              "cells": [
+                "Granted 19 Oct 2026",
+                "—",
+                "—",
+                "Market opens 1 Jul 2027",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Danish revenue growth",
+            "takeaway": "Danish NGR rose 45% in SEK to SEK 119m (~$12.0m), now 9.5% of group, driven almost entirely by casino.",
+            "points": [
+              "Up 14% on Q2; nine months SEK 310m (~$31.2m), +28%; currency was a headwind so local-currency growth higher, unquantified.",
+              "Share of group NGR 9.5% from 6.3% a year ago and 8.0% in Q2; absorbed SEK 37m of the SEK 86m Swedish decline.",
+              "Danish casino NGR +72.5% to SEK 69m (~$6.9m), +21% quarter on quarter, 58% of Danish mix from 49%.",
+              "Horse +22% to SEK 33m (~$3.3m); sport +13% to SEK 17m (~$1.7m); digital SEK 114m (~$11.5m), retail SEK 5m (~$0.5m).",
+              "No Danish market-share, actives or marketing data disclosed."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Danish profitability",
+            "takeaway": "Implied Danish profit contribution is near zero: 25syv is at best marginally profitable on 45% growth, bought with bonus and marketing spend.",
+            "points": [
+              "Group operating profit less parent operating profit was SEK 5m (~$0.5m) in Q3 versus SEK -3m; SEK 13m (~$1.3m) nine months versus SEK 1m.",
+              "Residual also carries Kanal 75 media subsidiary and Finnish JV start-up costs; Danish GGR-tax rate is 28%.",
+              "Diversification is real at the revenue line but does not yet move group earnings.",
+              "Headlining 'casino +13%' and '25syv +45%' while Swedish casino fell 5.5% is the clearest example of emphasising the periphery over the core."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Finland start-up",
+            "takeaway": "Hippos ATG Oy won a Finnish licence on 19 October and opens 1 July 2027; start-up losses are building with no guidance on size.",
+            "points": [
+              "50%-owned JV consolidated with non-controlling interest; four employees; ATG among the first licensees ahead of re-regulation.",
+              "Non-controlling-interest share of losses SEK -2m in Q3 and SEK -7m nine months, implying roughly SEK 14m (~$1.4m) at 100% year to date (our inference).",
+              "Finnish demand already drove 13% international commingled growth in H1; licence allows direct service rather than pool commission.",
+              "ATG has shown it can grow abroad, not yet profitably; expect Finnish opex to step up through H1-27 ahead of revenue."
+            ],
+            "quote": {
+              "text": "competition on the other side of the Baltic will be hard",
+              "speaker": "Acting CEO"
+            }
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "**Denmark is scaling fast:** 25syv NGR +45% YoY in SEK to SEK 119m (~$12.0m), +14% QoQ, casino +72.5%; Denmark now 9.5% of group NGR (6.3%) and absorbed SEK 37m of the SEK 86m Swedish decline.",
+        "tag": "structural"
+      },
+      {
+        "text": "**V75 relaunch on 28 Nov is a direct, fast response to the NPS collapse** — SEK 0.60 row price and a V7-only option; the Board acted within a quarter of NPS hitting -9. If Saturday turnover recovers even to flat YoY from -7.5%, that is a c.SEK 150–200m annual NGR swing on the Swedish horse base (our estimate).",
+        "tag": "early"
+      },
+      {
+        "text": "**Finland licence secured (19 Oct) for a 1 Jul 2027 launch** via 50%-owned Hippos ATG Oy — among the first licensees in a re-regulating market where ATG already sees Finnish demand through commingled pools (international turnover 9M +8.8%).",
+        "tag": "structural"
+      },
+      {
+        "text": "**Cash conversion intact:** Q3 OCF SEK 499m (~$50.2m), FCF c.SEK 452m (~$45.5m); 9M FCF c.SEK 985m (~$99.1m). Net bank debt/LTM EBITDA only 0.4x and the SEK 998m (~$100.4m) bank debt is mirrored by SEK 1,330m (~$133.8m) of advances to owners.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Margin recovered sequentially:** EBIT margin 27.6%, +350bps QoQ; headcount 579 (-5.5% YoY); SEK 300m (~$30.2m) three-year efficiency programme with the new organisation live from 1 Oct.",
+        "tag": "mixed"
+      },
+      {
+        "text": "**Horse decline is volume, not price or luck:** takeout proxy stable at 30.8% (30.6%), same 13 Saturdays, two more jackpots — so the product fix (V75) addresses the actual problem rather than a results swing.",
+        "tag": "mixed"
+      },
+      {
+        "text": "**Active customers 1.4m vs 1.3m** — the funnel is still filling even while NPS falls; the conversion job is monetisation, not acquisition.",
+        "tag": "early"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "**Swedish NGR -7.1% to SEK 1,128m (~$113.5m)** — nearly twice the group headline; horse -6.7%, sport -10.9%, casino -5.5%: all three Swedish products negative for the first time. Parent EBIT -11.4%, margin -180bps.",
+        "tag": "structural"
+      },
+      {
+        "text": "**NPS -16 from +1 a year ago, five consecutive declines**, explicitly attributed by management to V85 and to customers feeling unheard. A product change damaged the core franchise of a de facto monopoly; the reversal costs a year of turnover.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Cost base moved the wrong way:** opex +1.6% to SEK 720m (~$72.4m) vs revenue -3.1%; opex/revenue 50.7% (+230bps); other expenses +2.8%. EBIT -9.7% follows -11% in Q2; Q4 will carry unquantified autumn restructuring charges.",
+        "tag": "mixed"
+      },
+      {
+        "text": "**Liquidity headroom is thin:** undrawn facilities SEK 15m (~$1.5m) vs SEK 165m at Q2 and SEK 65m a year ago; cash SEK 272m (~$27.4m), -34% YoY; bank debt SEK 998m (~$100.4m), +54% YoY, funding advances to owners. Facility renewal/upsizing needed before year-end settlement.",
+        "tag": "governance"
+      },
+      {
+        "text": "**Sports share loss admitted for H1-26** with no Q3 market data; a World Cup quarter still produced -9% group sport NGR and the report does not mention the tournament.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Swedish casino turned negative (-5.5%)** after +9% in H1 — the only domestic growth product has rolled over, leaving group casino growth entirely Danish and at near-zero implied margin.",
+        "tag": "watch"
+      },
+      {
+        "text": "**Governance and execution churn:** three CEOs in 2026, two reorganisations, a subcontractor data breach under investigation, and a new CEO (Anna Romboli) only arriving in December — strategy reset risk on top of operational risk.",
+        "tag": "governance"
+      },
+      {
+        "text": "**International turnover growth stalled to +0.6%** (from +13% in Q2) and retail NGR fell 16.5%; the two offsets to Swedish digital horse weakness both weakened in the quarter.",
+        "tag": "watch"
+      }
+    ],
+    "forecast": {
+      "intro": "ATG issues no numerical guidance, so there is no formal bridge to reconcile: the Q2 report's outlook language (disposable income as the long-run driver; the 2024 gambling-tax hike as a structural drag) is repeated verbatim. What changed qualitatively is (i) a new Q4 cost item — autumn restructuring charges, unquantified — flagged by the parent/Swedish division, which is also the division driving the earnings decline (parent EBIT -11.4% vs group -9.7%); (ii) the V75 relaunch on 28 Nov, which management will 'monitor closely' rather than quantify; and (iii) Finland start-up costs ahead of a 1 Jul 2027 launch. Our bridge below is therefore FY25 actual to FY26 estimate, built from the 9M actuals plus our Q4 assumptions.",
+      "bridge": [
+        {
+          "title": "FY2025A operating profit (EBIT)",
+          "value": "SEK 1,544m (~$155.3m)",
+          "change": "margin 25.9%"
+        },
+        {
+          "title": "9M-26A EBIT",
+          "value": "SEK 1,079m (~$108.6m)",
+          "change": "-2.4% YoY; Q4-25A base SEK 439m"
+        },
+        {
+          "title": "Q4-26E EBIT (our estimate)",
+          "value": "SEK 385–410m (~$38.7–41.2m)",
+          "change": "-7% to -12% YoY; incl. assumed SEK 20–40m restructuring charge"
+        },
+        {
+          "title": "FY2026E EBIT (our estimate)",
+          "value": "SEK 1,465–1,490m (~$147–150m)",
+          "change": "-3.5% to -5% YoY; margin c.25%"
+        }
+      ],
+      "view": "**Revenue:** we model Q4-26 group NGR of c.SEK 1,350m (~$136m), -2.5% YoY, assuming Swedish NGR -5% (c.SEK 1,230m — a modest improvement from -7% as comps ease and the last five V75 Saturdays add some reactivation) and Danish NGR +35% (c.SEK 123m). That puts FY26E NGR at c.SEK 5,110m (~$514m), -2.5%, and total revenue at c.SEK 5,840m (~$588m), -2%. **Margin:** Q4 is seasonally the strongest revenue quarter (Q4-25 EBIT SEK 439m, 27.7% margin), but we deduct an assumed SEK 20–40m of autumn restructuring charges (not disclosed; our placeholder) and higher Finnish start-up opex, giving Q4-26E EBIT of SEK 385–410m and FY26E EBIT of SEK 1,465–1,490m, roughly -4% YoY at a c.25% margin (25.9% FY25); FY26E EBITDA c.SEK 1,710–1,735m (~$172–175m). Net profit is not meaningful at group level because the year-end group contribution to Svensk Travsport (FY25 SEK 1,615m / ~$162.5m) and its tax effect run through equity; parent PBT of SEK 1,084m at 9M (-3.4%) points to a **lower FY26 contribution to the owners than FY25**. **Leverage:** bank debt should stay near SEK 1.0bn (~$100m) into year-end because the owner advances (SEK 1,330m) are settled by the group contribution rather than in cash; with only SEK 15m undrawn, a renewed or larger facility before the Q4 distribution cycle is the key balance-sheet event — net bank debt/EBITDA stays well under 1x either way. **2027 swing factors:** the V75 reception (a return to flat Swedish horse turnover from -6% is worth c.SEK 150–200m of NGR, our estimate), whether the Swedish sport/casino declines are cyclical (disposable income) or share loss, Finnish launch costs in H1-27 with revenue only from July, DKK/SEK, the incoming CEO's strategy reset from December, and any political movement on the 22% gambling tax that ATG keeps lobbying against. Our bias is that Q4 prints another mid-single-digit NGR decline and that FY27 is a transition year in which V75 stabilises horse but Finland and the cost programme's execution dominate the EBIT bridge.",
+      "watch": [
+        "V75 relaunch (28 Nov): Saturday turnover vs the V85 run-rate, Q4/Q1 NPS, and whether Swedish horse turnover moves from -7.5% toward flat.",
+        "Size of the Q4 restructuring charge and tangible delivery against the SEK 300m (~$30.2m) three-year efficiency programme (opex/revenue was +230bps YoY in Q3).",
+        "Credit-facility renewal/upsizing — undrawn lines were SEK 15m (~$1.5m) at 30 Sep — and the FY26 group contribution to Svensk Travsport vs FY25's SEK 1,615m.",
+        "Spelinspektionen Q3 market data: Swedish sports-betting share trend after the admitted H1 loss, and whether Swedish casino (-5.5%) keeps contracting.",
+        "25syv profitability disclosure (none today; implied non-parent EBIT SEK 5m) and DKK/SEK translation into the FY.",
+        "Hippos ATG Oy: Finnish start-up opex through H1-27, product scope (pool vs fixed-odds), and partner/JV economics ahead of the 1 Jul 2027 opening.",
+        "Anna Romboli's first strategic statements after taking office in December — horse-first strategy, owner payout policy, marketing intensity.",
+        "Regulatory outcome of the subcontractor data breach (IMY/Spelinspektionen) and any sanction."
+      ]
+    },
+    "sharePriceReaction": "n/a — AB Trav och Galopp is unlisted (wholly owned by Svensk Travsport and Svensk Galopp); no public equity or traded bonds identified, hence no market reaction to report.",
+    "confidence": "HIGH",
+    "confidenceNote": "FX: USD/SEK 9.94 as of 23 Oct 2026 (Riksbanken fix 9.9446; Investing.com close 9.9303). All reported figures are taken directly from ATG's Jan–Sep 2026 interim report (Swedish PDF, published 23 Oct 2026, unaudited) and cross-checked against ATG's press release of the same date and Finwire/Börsvärlden and hurbra.se write-ups; QoQ comparisons use the Jan–Jun 2026 interim report (English). HIGH confidence on company-reported numbers. MEDIUM on derived items we calculated (FCF, net bank debt, ND/LTM EBITDA, takeout proxy, NGR per active, implied non-parent EBIT, Finland JV loss at 100%). Not disclosed by the company and therefore not verified: marketing spend, numeric market shares, Danish segment profit, the size of the Q4 restructuring charge, local-currency Danish growth; headcount reductions (c.25 + c.30 roles) are from secondary press only; the Gaming Intelligence article body is paywalled (headline figure only used). Q4-26 and FY26 figures are our estimates. Fiscal year end 31 Dec; FY26 report due 12 Feb 2027.",
+    "sources": [
+      {
+        "label": "ATG — Delårsrapport 1 januari–30 september 2026 (Q3 interim report, Swedish PDF, published 23 Oct 2026) — PRIMARY",
+        "kind": "primary",
+        "url": "https://omatg.se/wp-content/uploads/2026/10/atg-q3-2026-sve.pdf"
+      },
+      {
+        "label": "ATG — press release 'ATG håller kursen och expanderar österut', 23 Oct 2026 (Mynewsdesk) — PRIMARY",
+        "kind": "primary",
+        "url": "https://www.mynewsdesk.com/se/atg/pressreleases/atg-r-haaller-kursen-och-expanderar-oesterut-3473788"
+      },
+      {
+        "label": "ATG — Interim Report 1 January–30 June 2026 (Q2, English PDF; QoQ figures, SEK 300m cost programme) — PRIMARY",
+        "kind": "primary",
+        "url": "https://omatg.se/wp-content/uploads/2026/08/atg-q2-eng-final.pdf"
+      },
+      {
+        "label": "ATG — Finansiella rapporter (report index, omatg.se) — PRIMARY",
+        "kind": "primary",
+        "url": "https://omatg.se/finansiella-rapporter/"
+      },
+      {
+        "label": "Gaming Intelligence — 'ATG posts lower revenue and income for Q3', 23 Oct 2026 (paywalled; headline NGR only) — secondary",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/237695-atg-posts-lower-revenue-and-income-for-q3/"
+      },
+      {
+        "label": "Börsvärlden / Finwire — 'ATG minskade nettospelintäkterna och rörelseresultatet i tredje kvartalet', 23 Oct 2026 — secondary corroboration",
+        "kind": "secondary",
+        "url": "https://borsvarlden.com/artiklar/atg-minskade-nettospelintakterna-och-rorelseresultatet-i-tredje-kvartalet"
+      },
+      {
+        "label": "hurbra.se — 'ATG rapport Q3 2026: Casino växer i Danmark men backar i Sverige', 23 Oct 2026 — secondary corroboration",
+        "kind": "secondary",
+        "url": "https://hurbra.se/atg-rapport-q3-2026/"
+      },
+      {
+        "label": "atg.se — 'V75 tillbaka på lördagarna – premiär 28 november', 17 Sep 2026 (search snippet) — secondary",
+        "kind": "secondary",
+        "url": "https://www.atg.se/nyheter/260917-v75-tillbaka-pa-lordagarna-premiar-28-november"
+      },
+      {
+        "label": "iGaming Business — 'Hippos ATG announces Finland licence ahead of market launch', Oct 2026 (search snippet) — secondary",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/legal-compliance/licensing/hippos-atg-announces-finland-licence/"
+      },
+      {
+        "label": "Travronden — ATG varsel coverage (c.25 roles spring; further roles autumn 2026) (search snippets) — secondary",
+        "kind": "secondary",
+        "url": "https://www.travronden.se/travsport/spelmarknad/spelbolag/atg/a/fler-tjanster-forsvinner-pa-atg"
+      },
+      {
+        "label": "dollar.nu — USD/SEK Riksbanken fix 23 Oct 2026 (9.9446) — secondary (FX)",
+        "kind": "secondary",
+        "url": "https://dollar.nu/"
+      },
+      {
+        "label": "Investing.com — USD/SEK historical data (23 Oct 2026 close 9.9303) — secondary (FX)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/currencies/usd-sek-historical-data"
+      }
+    ]
+  }
+}

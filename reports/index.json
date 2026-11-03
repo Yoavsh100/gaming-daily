@@ -2345,5 +2345,182 @@
     "releaseDate": "23 Oct 2026 (GCU casino revenue files \"as of 20 Oct 2026\"; sports wagering files week-ending 30 Sep 2026)",
     "model": "claude-fable-5-1",
     "costUsd": 3.3
+  },
+  {
+    "key": "juris|brazil|9M 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-03T19:53:07.750Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "BRAZIL-9M-2026",
+    "published": "2026-11-03",
+    "company": {
+      "name": "Brazil",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "9M 2026",
+    "verdict": "Brazil's regulated fixed-odds market delivered a record 9M 2026 on paper — R$11.12bn (~$2.19bn) of federal collections from gambling and betting (+55% YoY) and an estimated ~R$30bn (~$5.9bn) of licensed GGR — and then ceased to exist: MP 1.394/2026 (25 Sep) prohibited all sports betting and online gaming, extinguished all 87 authorisations without compensation and took every one of the 188 licensed brands offline on 6 Oct. With Lula re-elected on 25 Oct and the MP still in force, the only routes back are the STF (ADI 8027, public hearing 3 Nov) or Congress (initial deadline 23 Nov, realistically Feb 2027); the credible reopening case is a narrower, higher-taxed, ad-free re-regulation in 2027, not a return to the 2025 regime.",
+    "kpis": [
+      {
+        "label": "Federal collections, gambling & betting (incl. Caixa) 9M-26",
+        "value": "R$11.12bn (~$2.19bn)",
+        "delta": "+55.1% YoY; already 11.7% above FY2025",
+        "dir": "up"
+      },
+      {
+        "label": "Licensed fixed-odds GGR H1-26 (SPA via LAI)",
+        "value": "R$20.07bn (~$3.96bn)",
+        "delta": "+15.3% YoY (+6.2% on SIGAP restated base)",
+        "dir": "up"
+      },
+      {
+        "label": "Deposits into licensed platforms H1-26 (SIGAP)",
+        "value": "R$88.5bn (~$17.5bn)",
+        "delta": "−12.4% YoY; −42% from Oct-25 peak by June",
+        "dir": "down"
+      },
+      {
+        "label": "Licensed operators / brands",
+        "value": "87 / 188 → 0",
+        "delta": "All authorisations extinguished; sites offline from 6 Oct 2026",
+        "dir": "down"
+      },
+      {
+        "label": "GGR levy rate (operator)",
+        "value": "13% of GGR (2026)",
+        "delta": "+1pp vs 2025; 14% 2027, 15% 2028 (LC 224/2025)",
+        "dir": "up"
+      },
+      {
+        "label": "Govt-booked revenue loss from ban",
+        "value": "R$1.54bn 2026 / R$5.15bn 2027",
+        "delta": "(~$304m / ~$1.02bn); prohibition assumed through 2028",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "22 Oct 2026 (Receita Federal, Análise da Arrecadação – Setembro 2026; SPA/LAI H1-26 data 17 Aug 2026; MP 1.394/2026 of 25 Sep 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.73
+  },
+  {
+    "key": "juris|latin america|2030 FORECAST",
+    "attempts": 1,
+    "lastAttempt": "2026-11-03T20:14:23.021Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "LATIN-AMERICA-2030-FORECAST",
+    "published": "2026-11-03",
+    "company": {
+      "name": "Latin America",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "2030 FORECAST",
+    "verdict": "Latin America's 2030 story has split in two. The forecast houses still print a region of $51bn total GGR by 2030 (H2 Gambling Capital, Apr 2026) and $12.3bn of regulated online GGR by 2028 (Vixio), with a $467.6m online-poker niche (GVR) — but every one of those numbers pre-dates Brazil's MP 1.394/2026, which extinguished all 85 federal fixed-odds authorisations from 6 Oct 2026 and removed roughly half of the region's regulated online GGR (R$36.9bn / ~$7.2bn in 2025) at a stroke. Until Congress and the courts settle Brazil's fate, the investable regulated pool is Mexico, Colombia, Peru, Argentina's provinces and (eventually) Chile — a ~$5–7bn market with rising tax takes — while Brazilian demand migrates offshore.",
+    "kpis": [
+      {
+        "label": "LatAm & Caribbean total GGR 2030F (H2 GC)",
+        "value": "$51bn",
+        "delta": "from $29bn in 2024 (~9.9% CAGR); all channels incl. offshore; pre-ban",
+        "dir": "up"
+      },
+      {
+        "label": "LatAm regulated online GGR 2028F (Vixio)",
+        "value": "$12.3bn",
+        "delta": "from $2.5bn in 2024; Brazil >50% of total — now at risk",
+        "dir": "up"
+      },
+      {
+        "label": "Brazil regulated GGR H1-26 (SPA-MF)",
+        "value": "R$20.07bn (~$3.9bn)",
+        "delta": "+15.3% YoY; FY25 R$36.9bn (~$7.2bn); ban effective 6 Oct 2026",
+        "dir": "up"
+      },
+      {
+        "label": "Brazil federal licences (outorgas)",
+        "value": "85 → 0",
+        "delta": "MP 1.394/2026 extinguishes all authorisations; R$2.55bn (~$0.5bn) fees unrefunded",
+        "dir": "down"
+      },
+      {
+        "label": "LatAm online poker 2030F (GVR)",
+        "value": "$467.6m",
+        "delta": "from $261.6m in 2024; 10.2% CAGR; 6.8% of global poker",
+        "dir": "up"
+      },
+      {
+        "label": "LatAm online gambling revenue 2025 (GVR)",
+        "value": "$7.24bn",
+        "delta": "8.3% of global online; 10.7% CAGR to $16.2bn by 2033",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "23 Oct 2026 (lead article; GVR poker databook published 13 May 2025; H2 regional update 30 Apr 2026; GVR LatAm online databook 28 Apr 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4
+  },
+  {
+    "key": "atg|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-03T20:35:04.341Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "ATG-Q3-2026",
+    "published": "2026-11-03",
+    "company": {
+      "name": "ATG",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A weak quarter on the only line that matters to ATG's owners: Swedish net gaming revenue fell 7.1% and parent EBIT 11.4%, dressed up by a 45% surge in Denmark that contributes almost no profit. The V85 experiment is being unwound (V75 returns 28 Nov) with NPS at -16, opex rose while revenue fell, and liquidity headroom is thin (SEK 15m / ~$1.5m undrawn) heading into a Q4 of restructuring charges. Cash generation (Q3 OCF SEK 499m / ~$50.2m) and 0.4x net bank debt/EBITDA keep this a sound credit; the open question is whether the incoming CEO can halt a four-year erosion in profit before owner transactions.",
+    "kpis": [
+      {
+        "label": "Net gaming revenue (Q3)",
+        "value": "SEK 1,247m (~$125.5m)",
+        "delta": "-3.8% YoY / -4.2% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Total revenue (Q3)",
+        "value": "SEK 1,421m (~$143.0m)",
+        "delta": "-3.1% YoY / -5.1% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Operating profit (EBIT, IFRS)",
+        "value": "SEK 392m (~$39.4m)",
+        "delta": "-9.7% YoY; margin 27.6% (-200bps)",
+        "dir": "down"
+      },
+      {
+        "label": "Net profit / EPS",
+        "value": "SEK 386m (~$38.8m) / SEK 970 (~$98)",
+        "delta": "-9.8% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Operating cash flow (Q3)",
+        "value": "SEK 499m (~$50.2m)",
+        "delta": "-2.3% YoY; 9M -5.4%",
+        "dir": "down"
+      },
+      {
+        "label": "Net bank debt",
+        "value": "SEK 726m (~$73.0m)",
+        "delta": "vs SEK 238m a year ago; 0.4x LTM EBITDA",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "23 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.41
   }
 ]
