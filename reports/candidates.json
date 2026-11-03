@@ -1,62 +1,5 @@
 [
   {
-    "key": "catena media|Q3 2026",
-    "company": "Catena Media",
-    "ticker": "CTM.ST",
-    "period": "Q3 2026",
-    "urls": [
-      "https://next.io/news/results/catena-media-slashes-targets-weak-q3-2026/",
-      "https://www.gamingintelligence.com/finance/237442-catena-media-expects-third-quarter-revenue-to-decline-29/",
-      "https://igamingfuture.com/catena-media-q3/"
-    ],
-    "seen": "2026-10-19"
-  },
-  {
-    "key": "juris|france|H1 2026",
-    "type": "jurisdiction",
-    "market": "France",
-    "authority": "ANJ",
-    "period": "H1 2026",
-    "urls": [
-      "https://europeangaming.eu/portal/latest-news/2026/10/19/216197/french-gambling-market-h1-2026/"
-    ],
-    "seen": "2026-10-19"
-  },
-  {
-    "key": "juris|vermont|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Vermont",
-    "authority": null,
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237431-vermont-sports-handle-slips-to-19-8-million-in-september/"
-    ],
-    "seen": "2026-10-19"
-  },
-  {
-    "key": "juris|mississippi|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Mississippi",
-    "authority": "Mississippi Gaming Commission",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237408-mississippi-casinos-see-september-gaming-revenue-climb-4/"
-    ],
-    "seen": "2026-10-19"
-  },
-  {
-    "key": "juris|macau|Q3 2026",
-    "type": "jurisdiction",
-    "market": "Macau",
-    "authority": "DICJ",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237419-macau-baccarat-revenue-falls-by-5-in-third-quarter-of-2026/",
-      "https://www.yogonet.com/international/news/2026/10/20/126913-macau-third-quarter-casino-revenue-slips-38-on-weaker-mass-baccarat"
-    ],
-    "seen": "2026-10-19"
-  },
-  {
     "key": "juris|maryland|SEPTEMBER 2026",
     "type": "jurisdiction",
     "market": "Maryland",
@@ -1036,7 +979,8 @@
     "authority": "DICJ",
     "period": "OCTOBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238120-macau-casinos-post-10-gaming-revenue-drop-in-october/"
+      "https://www.gamingintelligence.com/finance/238120-macau-casinos-post-10-gaming-revenue-drop-in-october/",
+      "https://www.yogonet.com/international/news/2026/11/02/127117-macau-october-ggr-falls-10-to-268-billion-for-fifth-straight-monthly-decline"
     ],
     "seen": "2026-11-02"
   },
@@ -1098,7 +1042,8 @@
     "authority": "Rhode Island Lottery",
     "period": "SEPTEMBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/sectors/lottery-sectors/238090-rhode-island-lottery-sales-decline-15-in-september/"
+      "https://www.gamingintelligence.com/sectors/lottery-sectors/238090-rhode-island-lottery-sales-decline-15-in-september/",
+      "https://www.gamingintelligence.com/markets/north-america/238124-rhode-island-sports-and-igaming-wagering-climbs-3-in-september/"
     ],
     "seen": "2026-11-02"
   }
