@@ -1009,7 +1009,8 @@
     "ticker": "BEL",
     "period": "9M 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238140-belle-corporation-grows-revenue-by-11-in-9m-2026/"
+      "https://www.gamingintelligence.com/finance/238140-belle-corporation-grows-revenue-by-11-in-9m-2026/",
+      "https://www.thegamblest.com/belle-corp-year-on-year-gaming-revenue-share-rises-13/"
     ],
     "seen": "2026-11-02"
   },
@@ -1046,5 +1047,62 @@
       "https://www.gamingintelligence.com/markets/north-america/238124-rhode-island-sports-and-igaming-wagering-climbs-3-in-september/"
     ],
     "seen": "2026-11-02"
+  },
+  {
+    "key": "digiplus interactive|Q3 2026",
+    "type": "company",
+    "company": "DigiPlus Interactive Corp.",
+    "ticker": "PLUS",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238198-digiplus-interactive-swings-to-loss-in-q3-2026/",
+      "https://www.thegamblest.com/digiplus-reports-140m-profit-despite-17-drop-in-revenue/"
+    ],
+    "seen": "2026-11-03"
+  },
+  {
+    "key": "juris|zimbabwe|JANUARY-SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Zimbabwe",
+    "authority": "Blask",
+    "period": "JANUARY-SEPTEMBER 2026",
+    "urls": [
+      "https://igamingafrika.com/zimbabwe-betting-tax-demand-more-than-doubled/"
+    ],
+    "seen": "2026-11-03"
+  },
+  {
+    "key": "juris|france|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "France",
+    "authority": "Blask",
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.thegamblest.com/blask-offshore-operators-captured-nearly-84-of-french-gambling-demand-amid-october-surge/",
+      "https://europeangaming.eu/portal/latest-news/2026/11/03/217278/french-gambling-search-more-than-doubles-in-october-blask-data-shows/"
+    ],
+    "seen": "2026-11-03"
+  },
+  {
+    "key": "juris|ohio|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Ohio",
+    "authority": "Ohio Lottery",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238114-ohio-lottery-reports-6-increase-in-september-vlt-revenue/"
+    ],
+    "seen": "2026-11-03"
+  },
+  {
+    "key": "juris|iowa|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Iowa",
+    "authority": "Iowa Lottery",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238105-iowa-lottery-reports-sales-drop-of-16-in-september/"
+    ],
+    "seen": "2026-11-03"
   }
 ]
