@@ -1,61 +1,5 @@
 [
   {
-    "key": "juris|maryland|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Maryland",
-    "authority": null,
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/markets/north-america/237483-maryland-sports-handle-nears-5-billion-in-9m-2026/"
-    ],
-    "seen": "2026-10-20"
-  },
-  {
-    "key": "juris|africa|Q3 2026",
-    "type": "jurisdiction",
-    "market": "Africa",
-    "authority": "Blask",
-    "period": "Q3 2026",
-    "urls": [
-      "https://findmoreafrica.com/blask-africa-top-gambling-brands-q3-2026-rankings/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=blask-africa-top-gambling-brands-q3-2026-rankings"
-    ],
-    "seen": "2026-10-20"
-  },
-  {
-    "key": "juris|louisiana|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Louisiana",
-    "authority": null,
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237453-louisiana-sports-betting-tops-405-million-in-september/",
-      "https://www.gamingintelligence.com/finance/237462-louisiana-gaming-revenue-grows-by-14-in-september/"
-    ],
-    "seen": "2026-10-20"
-  },
-  {
-    "key": "juris|colorado|AUGUST 2026",
-    "type": "jurisdiction",
-    "market": "Colorado",
-    "authority": null,
-    "period": "AUGUST 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237393-colorado-sports-wagers-drop-below-400-million-in-august/"
-    ],
-    "seen": "2026-10-20"
-  },
-  {
-    "key": "juris|kansas|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Kansas",
-    "authority": "Kansas Lottery",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237480-kansas-lottery-sales-increase-by-6-in-september/"
-    ],
-    "seen": "2026-10-20"
-  },
-  {
     "key": "juris|new jersey|SEPTEMBER 2026",
     "type": "jurisdiction",
     "market": "New Jersey",
@@ -934,7 +878,8 @@
     "urls": [
       "https://www.gamingintelligence.com/finance/238049-pointsbet-revenue-falls-16-to-a112-7-million-in-h1-fy27/",
       "https://www.thegamblest.com/pointsbet-year-on-year-revenue-falls-16/",
-      "https://next.io/news/results/pointsbet-revenue-falls-amid-australian-decline/"
+      "https://next.io/news/results/pointsbet-revenue-falls-amid-australian-decline/",
+      "https://www.yogonet.com/international/news/2026/11/03/127149-pointsbet-posts-16-firsthalf-revenue-decline-as-australian-betting-weakens"
     ],
     "seen": "2026-11-02"
   },
@@ -1044,7 +989,8 @@
     "period": "SEPTEMBER 2026",
     "urls": [
       "https://www.gamingintelligence.com/sectors/lottery-sectors/238090-rhode-island-lottery-sales-decline-15-in-september/",
-      "https://www.gamingintelligence.com/markets/north-america/238124-rhode-island-sports-and-igaming-wagering-climbs-3-in-september/"
+      "https://www.gamingintelligence.com/markets/north-america/238124-rhode-island-sports-and-igaming-wagering-climbs-3-in-september/",
+      "https://www.gamingintelligence.com/finance/238096-rhode-island-gaming-revenue-climbs-to-51-4-million-in-september/"
     ],
     "seen": "2026-11-02"
   },
@@ -1113,7 +1059,8 @@
     "period": "9M 2026",
     "urls": [
       "https://europeangaming.eu/portal/latest-news/2026/11/03/217297/lottomatica-9m-2026-results/",
-      "https://www.gamingintelligence.com/finance/238226-lottomatica-profits-as-revenue-grows-to-e1-72-billion-in-9m-2026/"
+      "https://www.gamingintelligence.com/finance/238226-lottomatica-profits-as-revenue-grows-to-e1-72-billion-in-9m-2026/",
+      "https://igamingbusiness.com/finance/lottomatica-strengthens-italian-market-position-9m-earnings/"
     ],
     "seen": "2026-11-03"
   },
@@ -1135,7 +1082,22 @@
     "market": "Colorado",
     "authority": null,
     "period": "SEPTEMBER 2026",
-    "urls": [],
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238099-colorado-land-based-gaming-revenue-rises-8-in-september/"
+    ],
     "seen": "2026-11-03"
+  },
+  {
+    "key": "SRAD|Q3 2026",
+    "type": "company",
+    "company": "Sportradar Group AG",
+    "ticker": "SRAD",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamblinginsider.com/news/201610/sportradar-q3-2026-prediction-markets-growth",
+      "https://www.gamingintelligence.com/finance/238230-sportradar-delivers-strong-revenue-and-profit-growth-in-q3-2026/",
+      "https://next.io/news/results/q3-2026-betting-growth-drives-revenue-up-24-at-sportradar/"
+    ],
+    "seen": "2026-11-04"
   }
 ]
