@@ -2522,5 +2522,182 @@
     "releaseDate": "23 Oct 2026",
     "model": "claude-fable-5-1",
     "costUsd": 4.41
+  },
+  {
+    "key": "juris|brazil|2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-04T20:07:52.126Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "BRAZIL-2026",
+    "published": "2026-11-04",
+    "company": {
+      "name": "Brazil",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "2026",
+    "verdict": "Brazil has gone from the world's newest large regulated online market (SPA-reported GGR of R$36.96bn (~$7.25bn) in 2025, 84 licensees and 193 brands by mid-2026) to a nationwide prohibition in 21 months: Provisional Measure 1.394/2026 barred deposits from 25 Sep 2026, took every site offline on 6 Oct and extinguished all authorisations on 25 Oct with no refund of the R$30m (~$5.9m) licence fees. The ban's permanence now rests on a Congress that had not even seated the MP committee as of 4 Nov, an STF rapporteur (Fux) who has publicly said he thinks bets should be banned, and a president re-elected on 25 Oct who is campaigning for the prohibition to hold. For B2Tech there is no lawful addressable market today; this is a binary watch-list jurisdiction until at least Q1 2027.",
+    "kpis": [
+      {
+        "label": "Regulated GGR FY2025 (SPA)",
+        "value": "R$36.96bn (~$7.25bn)",
+        "delta": "first full regulated year; H2 +12.4% vs H1",
+        "dir": "up"
+      },
+      {
+        "label": "Regulated GGR H1-2026 (SPA data via LAI)",
+        "value": "R$20.07bn (~$3.94bn)",
+        "delta": "+15.3% YoY (brmkt.co series: R$20.28bn, +6.2%)",
+        "dir": "up"
+      },
+      {
+        "label": "Licensed operators / brands",
+        "value": "84 / 193 (H1-26) → 0",
+        "delta": "all authorisations extinguished 25 Oct 2026",
+        "dir": "down"
+      },
+      {
+        "label": "Federal tax take FY2025",
+        "value": "R$9.95bn (~$1.95bn)",
+        "delta": "~27% of GGR; 12% GGR levy = R$4.53bn",
+        "dir": "up"
+      },
+      {
+        "label": "Govt-estimated fiscal loss from ban",
+        "value": "R$5.15bn (~$1.01bn) in 2027",
+        "delta": "R$1.54bn in 2026; R$5.33bn in 2028",
+        "dir": "down"
+      },
+      {
+        "label": "Sites targeted for blocking post-ban",
+        "value": "16,627 + 3,691 social pages",
+        "delta": "25 Sep–9 Oct 2026 (vs >25,000 in all of 2025)",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "22 Oct 2026 (GR8_TECH \"Operator Lens: Brazil\"); underlying event: MP 1.394/2026 of 25 Sep 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.04
+  },
+  {
+    "key": "juris|michigan|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-04T20:24:32.775Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "MICHIGAN-SEPTEMBER-2026",
+    "published": "2026-11-04",
+    "company": {
+      "name": "Michigan",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "Michigan's regulated online market booked $355.7m of combined iGaming + online sports betting gross receipts in September 2026 (+17.5% YoY, +5.4% MoM) with iGaming ($300.2m GR / $288.2m AGR, +18.4% YoY) doing almost all of the work and OSB AGR up 88% on an easy, promo-heavy comp. The rules are stable today but every swing factor sits in 2027: the iGaming free-play deduction falls to zero on 1 Jan 2027, a new governor inherits a structural budget gap that the outgoing administration tried to plug with a 36% top iGaming tier and a per-bet levy, and the market remains closed to new entrants absent a Detroit-casino or tribal skin.",
+    "kpis": [
+      {
+        "label": "Online GR (iGaming + OSB), Sep-26",
+        "value": "$355.7m",
+        "delta": "+17.5% YoY / +5.4% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "iGaming AGR, Sep-26",
+        "value": "$288.2m",
+        "delta": "+18.4% YoY / −0.9% MoM (+2.4% per day)",
+        "dir": "up"
+      },
+      {
+        "label": "OSB handle, Sep-26",
+        "value": "$544.8m",
+        "delta": "+3.9% YoY / +64.9% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "OSB AGR, Sep-26",
+        "value": "$24.9m",
+        "delta": "+88.2% YoY / +2.9% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "State taxes & payments (online), Sep-26",
+        "value": "$62.4m",
+        "delta": "+20.9% YoY / −0.6% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "Detroit casinos slots + tables AGR, Sep-26",
+        "value": "$102.8m",
+        "delta": "+4.7% YoY / −5.6% MoM",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "22 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.47
+  },
+  {
+    "key": "atlantic lottery|FY 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-04T20:40:19.254Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "ATLANTIC-LOTTERY-CORPORATION-FY-2026",
+    "published": "2026-11-04",
+    "company": {
+      "name": "Atlantic Lottery Corporation",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "FY 2026",
+    "verdict": "A flat year dressed up as a 50th-anniversary milestone: FY26 (Mar-26) net profit of CA$492.1m (~$354m) fell 1.3% YoY and missed the CA$502.4m (~$362m) budget by CA$10.3m (~$7.4m), the third straight year below target, as Destination (VLT/Red Shores) profit fell 7.4% and Retail lottery fell 4.6%, and iLottery's +15.4% (+CA$17.8m / ~$12.8m) was not quite enough to plug the hole. The real tell is Core Gross Gaming Revenue of CA$744.8m (~$536m), 6.1% below target and 4.6% lower YoY, while the illegal-operator leakage estimate was lifted from ~CA$200m to ~CA$250m (~$180m) a year — the grey market is growing at least as fast as ALC's online share (35%, +1pt). New Brunswick's review of licensing private online operators is now the dominant swing factor for the franchise.",
+    "kpis": [
+      {
+        "label": "Revenue (gross sales less prizes)",
+        "value": "CA$889.6m (~$641m)",
+        "delta": "-0.1% YoY (-CA$1.3m)",
+        "dir": "flat"
+      },
+      {
+        "label": "Net profit (100% remitted to provinces)",
+        "value": "CA$492.1m (~$354m)",
+        "delta": "-1.3% YoY; -2.1% vs CA$502.4m budget",
+        "dir": "down"
+      },
+      {
+        "label": "iLottery profit",
+        "value": "CA$133.8m (~$96m)",
+        "delta": "+15.4% YoY (+CA$17.8m)",
+        "dir": "up"
+      },
+      {
+        "label": "Destination (VLT + Red Shores) profit",
+        "value": "CA$225.0m (~$162m)",
+        "delta": "-7.4% YoY (-CA$18.1m)",
+        "dir": "down"
+      },
+      {
+        "label": "Core gross gaming revenue (scorecard)",
+        "value": "CA$744.8m (~$536m)",
+        "delta": "-4.6% YoY; -6.1% vs CA$793.1m target",
+        "dir": "down"
+      },
+      {
+        "label": "Share of regional online betting & gaming",
+        "value": "35%",
+        "delta": "+1pt YoY (34% FY25; 22% FY24)",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "21 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.86
   }
 ]

@@ -1,0 +1,463 @@
+# Brazil () — 2026 Analyst Report
+** · Reporting currency: BRL (R$) primary; ~USD alongside at USD/BRL 5.10. Tables in R$ billions unless stated. · Results released 22 Oct 2026 (GR8_TECH "Operator Lens: Brazil"); underlying event: MP 1.394/2026 of 25 Sep 2026**
+
+> Brazil has gone from the world's newest large regulated online market (SPA-reported GGR of R$36.96bn (~$7.25bn) in 2025, 84 licensees and 193 brands by mid-2026) to a nationwide prohibition in 21 months: Provisional Measure 1.394/2026 barred deposits from 25 Sep 2026, took every site offline on 6 Oct and extinguished all authorisations on 25 Oct with no refund of the R$30m (~$5.9m) licence fees. The ban's permanence now rests on a Congress that had not even seated the MP committee as of 4 Nov, an STF rapporteur (Fux) who has publicly said he thinks bets should be banned, and a president re-elected on 25 Oct who is campaigning for the prohibition to hold. For B2Tech there is no lawful addressable market today; this is a binary watch-list jurisdiction until at least Q1 2027.
+
+## 1. Executive Summary
+
+- **The market has been prohibited, not reformed.** MP 1.394/2026 (DOU Extra A, 25 Sep 2026) bans the exploitation, offer, intermediation and advertising of fixed-odds lotteries — sports betting and online games — in physical and virtual environments, explicitly including offshore operators targeting people in Brazil and state/DF concessions. Only other lottery modalities (Caixa's federal lotteries) are carved out.
+- **The shutdown was executed in 30 days.** New deposits were barred from 25 Sep; voluntary withdrawals closed 23:59 on 5 Oct; sites and apps (including app-store listings) went dark on 6 Oct; operators reported residual balances by CPF to banks on 6–8 Oct; banks refunded 9–14 Oct; Caixa Econômica Federal took over unresolved refunds from 15 Oct; all authorisations were extinguished on 25 Oct 'for reasons of public interest' with no refund of outorgas and no indemnity.
+- **Pre-ban, Brazil was a ~R$40bn-a-year GGR market.** The SPA's Panorama Periódico reports FY2025 GGR of R$36,959,783,380 (~$7.25bn): R$17.4bn (~$3.41bn) in H1 and an implied R$19.56bn (~$3.84bn) in H2 (+12.4% HoH). H1-2026 GGR was R$20.07bn (~$3.94bn) on SPA data released via access-to-information requests (+15.3% YoY), or R$20.28bn (~$3.98bn, +6.2%) on brmkt.co's later SIGAP extraction, which also restates FY2025 to R$40.69bn (~$7.98bn). We anchor on the regulator's published figures and flag the ~R$3.7bn FY2025 gap.
+- **Momentum was already fading into the ban.** Monthly GGR fell from R$4.29bn (~$0.84bn) in Jan-2026 to R$3.50bn (~$0.69bn) in June (-18.5%); deposits fell 30% over the same window (R$18.65bn → R$13.06bn) and 12.4% YoY for the half (R$88.48bn (~$17.35bn) vs R$100.99bn). Deposits falling faster than GGR lifted implied hold from 18.9% to 22.9% — consistent with a casino-heavy mix and the statutory ban on sign-up bonuses.
+- **The market is effectively 100% online.** All regulated fixed-odds revenue runs through .bet.br digital platforms; retail fixed-odds was negligible and Caixa's lottery network sits outside this regime (and outside the ban). Mobile accounted for ~63% of Brazilian web traffic in Sep 2026 (GR8_TECH).
+- **Participation was mass-market.** 17.7m unique CPFs bet in H1-2025, 25.2m across FY2025 (SPA) and 30.4m in H1-2026 (BNLData). Implied annual GGR per bettor was R$1,467 (~$288) in 2025; 68.5% of H1-2026 bettors were male and roughly four in ten were under 30; 44.4% used a single operator and 27.8% used four or more (Q1-2026).
+- **Licensing regime (Law 14.790/2023, SPA/MF) — now void.** Federal authorisation cost R$30m (~$5.9m) for up to three brands over five years; 78 companies/182 brands were live in mid-2025, 79 companies at Dec-2025 and 84 companies/193 brands by H1-2026. Roughly R$2.5bn (~$0.49bn) of outorgas has been rendered worthless with no compensation; pending applications were voided and new grants are barred.
+- **Tax regime — base was GGR.** Operators paid a 12% statutory contribution on GGR (R$4.53bn (~$0.89bn) in 2025; R$2.49bn (~$0.49bn) in H1-2026, +16%), a monthly supervision fee (R$95.5m (~$18.7m) in 2025) and ordinary corporate taxes; bettors paid 15% income tax on net prizes. Total federal collection from the sector was R$9.95bn (~$1.95bn) in 2025 (~27% of GGR) and R$7.3bn (~$1.43bn) in H1-2026 (+92% YoY, secondary source).
+- **The Treasury is knowingly forgoing revenue.** The MP's own exposição de motivos books revenue losses of R$1.541bn (~$0.30bn) in 2026, R$5.150bn (~$1.01bn) in 2027 and R$5.330bn (~$1.05bn) in 2028, plus R$268.8m (~$52.7m) of supervision-fee losses over three years — i.e., the government is budgeting for prohibition to persist through 2028.
+- **Payments have been weaponised.** Banks, payment institutions and Pix participants are barred from processing betting transactions; the Central Bank must build an electronic system to reject and return betting-related instant payments. Pre-ban, SPA rules already restricted funding to Pix/TED/debit from bettor-named accounts (no credit cards, no crypto), and an STF injunction (Fux, 13 Nov 2024) barred Bolsa Família/BPC funds.
+- **Advertising and sponsorship are fully prohibited.** All marketing and sponsorship had to be removed by 5 Oct 2026; non-compliant advertising is 'abusive' under the Consumer Code; internet platforms and app stores must proactively block betting content, with fines of up to 10% of Brazilian group revenue or R$10–1,000 (~$2–196) per registered user capped at R$50m (~$9.8m). Every Série A club had a master sponsor in 2025, mostly bets; ~US$200m of football sponsorship is at risk and Flamengo alone cited ~R$45m (~$8.8m) of R$290m (~$57m) revenue.
+- **Enforcement is being scaled up, not down.** In the two weeks to 9 Oct authorities submitted 16,627 gambling sites for blocking and 3,691 social/messaging profiles for removal, versus >25,000 sites blocked in all of 2025. Anatel distributes blocking orders to ISPs, CGI.br handles .br domains, and a Casa Civil-chaired Interinstitutional Committee coordinates PF, Receita Federal and Coaf.
+- **The illegal market was already large.** Research cited by GR8_TECH found three in four Brazilian bettors used unauthorised sites at least once in 2025; the SPA logged 132 enforcement proceedings against licensees in 2025 (80 heading to penalties) and >217k self-exclusions on its centralised platform.
+- **Congress has not moved.** The MP's joint committee was designated on 30 Sep but remained 'awaiting installation' with no chair or rapporteur on 4 Nov; 99 amendments (5 withdrawn) were filed by 13 Oct; the urgency regime locks the floor agenda from 9 Nov; the initial validity window ends 23 Nov 2026, extendable 60 days (nominally ~23 Jan 2027, with the recess likely pushing the practical deadline into Feb 2027). If it lapses unconverted the prohibition falls — but licences have already been extinguished.
+- **The STF is the other gate — and the rapporteur leans pro-ban.** ADI 8.027 (ANJL) seeks suspension of the MP; Justice Fux held a 10-hour public hearing with 28 entities on 3 Nov 2026, at which the AGU argued the regulated model had failed, the Health Minister cited a 15x higher suicide risk among e-bettors, clubs and the CBF asked for a gradual transition, and Fux said his perception is that online bets should be banned. No ruling has been issued.
+- **Politics cut against re-opening.** The MP was issued nine days before the first round, when Quaest had Flávio Bolsonaro at 42%; Lula won the 25 Oct run-off with 51.79% of valid votes and on 3 Nov urged civil society to 'pressure' for the ban to stay. The opposition's line — distinguishing online casinos from sports betting — is the only visible compromise space. Senate e-Cidadania polling ran ~199k for vs 70.6k against (28 Sep).
+- **Read-through for B2Tech: no lawful route exists today.** Brazil has demonstrated regulatory expropriation without compensation; any grey-market play faces Pix rejection, CDC liability, platform de-listing and PF/Coaf exposure. Treat Brazil as a scenario-driven watch-list market with a binary outcome by Q1 2027; redeploy Portuguese-language product and LatAm capacity elsewhere, and only re-engage if Congress rebuilds a (likely sports-only, ad-restricted) regime with fresh licensing.
+- **Data confidence is MEDIUM.** FY2025 and H1-2025 figures are regulator-published; H1-2026 figures come from SPA data released via LAI and a consultancy's SIGAP extraction that disagree by 1%; no GGR split by sports vs casino is published; market shares are not disclosed by the SPA.
+
+## 2. Group Financial Summary
+
+| Brazil regulated fixed-odds market (R$ bn; ~USD at 5.10) | FY2025 | H1-2025 | H1-2026 | H1 YoY | Status after MP 1.394/2026 |
+|---|---|---|---|---|---|
+| **Market size (online fixed-odds; retail negligible)** | | | | | |
+| GGR — SPA-reported ¹ SPA data obtained via LAI by BNLData; FY2025 from SPA Panorama Periódico (GGR R$36,959,783,380). | R$36.96bn (~$7.25bn) | R$17.4bn (~$3.41bn) | R$20.07bn (~$3.94bn)¹ | +15.3% | Zero from 6 Oct 2026 (sites offline) |
+| GGR — brmkt.co SIGAP extraction (8 Sep 2026) Secondary; restates FY2025 ~R$3.7bn above SPA's published figure. | R$40.69bn (~$7.98bn) | R$19.09bn (~$3.74bn) | R$20.28bn (~$3.98bn) | +6.2% | — |
+| Deposits (brmkt.co) | n/a | R$100.99bn (~$19.8bn) | R$88.48bn (~$17.35bn) | -12.4% | Barred from 25 Sep 2026 |
+| Implied hold (GGR/deposits) | n/a | 18.9% | 22.9% | +4.0pp | — |
+| Online share of regulated fixed-odds | ~100% | ~100% | ~100% | — | — |
+| Unique bettors (CPFs) ² BNLData; SPA figures for 2025. Not directly comparable. | 25.2m | 17.7m | 30.4m² | n/a | — |
+| GGR per bettor | R$1,467 (~$288) | R$983 (~$193) | R$660 (~$129) | n/a | — |
+| **Supply** | | | | | |
+| Licensed companies / brands | 79 / n/a (Dec-25) | 78 / 182 | 84 / 193 | +6 cos | 0 — authorisations extinguished 25 Oct 2026 |
+| Licence fee (outorga) | R$30m (~$5.9m) / ≤3 brands / 5 yrs | same | same | — | Non-refundable; no indemnity; new grants barred |
+| **Tax regime & take** | | | | | |
+| Tax base / rate | 12% of GGR + supervision fee + IRPJ/CSLL/PIS/COFINS/ISS; 15% IR on net prizes | same | same | — | No activity base; legacy obligations survive |
+| 12% GGR levy (destinações legais) | R$4.53bn (~$0.89bn) | R$2.14bn (~$0.42bn) | R$2.49bn (~$0.49bn) | +16.4% | Ceases |
+| Total federal collection from sector ³ Secondary source (Clube da Aposta citing Receita Federal); not verified against RFB tables. | R$9.95bn (~$1.95bn) | R$3.8bn (~$0.75bn)³ | R$7.3bn (~$1.43bn)³ | +92% | Govt est. loss: R$1.54bn 2026 / R$5.15bn 2027 / R$5.33bn 2028 |
+| Supervision fee (taxa de fiscalização) | R$95.5m (~$18.7m) | R$49.3m (~$9.7m) | n/a | n/a | Loss est. R$38.4m Sep–Dec 26; R$115.2m p.a. 2027–28 |
+| **Enforcement & RG** | | | | | |
+| Illegal sites blocked | >25,000 | 15,463 (since Oct-24) | n/a | — | 16,627 sites + 3,691 social pages (25 Sep–9 Oct 2026) |
+| Self-exclusions (SPA platform, cumulative) | >217k | n/a | n/a | — | Platform moot |
+| SPA enforcement proceedings vs licensees | 132 (80 to penalties) | n/a | n/a | — | Wind-down reporting via SIGAP |
+
+## 3. Segment deep-dive — Online sports betting & iGaming (regulated fixed-odds market, Jan-2025 to Sep-2026)
+
+*A ~R$40bn annualised GGR market with 30m bettors was growing double-digit on the regulator's series but decelerating month by month before it was switched off.*
+
+### 2025 market size
+
+**A ~R$40bn annualised GGR market with 30m bettors was growing double-digit on the regulator's series but decelerating month by month before being switched off.**
+
+- Market opened 1 January 2025 under Law 14.790/2023; SPA licenses and supervises, operators report daily through SIGAP.
+- SPA Panorama Periódico puts 2025 GGR at R$36,959,783,380 (~$7.25bn): R$17.4bn (~$3.41bn) in H1, implied R$19.56bn (~$3.84bn) in H2, +12.4% half-on-half.
+- GGR is stakes less prizes, gross of the 12% levy and corporate tax; SPA publishes no sports-versus-casino split, so mix is inferred from surveys.
+
+### H1-2026 conflicting series
+
+**Two H1-2026 series disagree: BNLData shows R$20.07bn (~$3.94bn), +15.3%; brmkt.co shows R$20.28bn (~$3.98bn), +6.2% on a restated base.**
+
+- Regulator has released no comparable mid-year Panorama for 2026.
+- brmkt.co restates H1-2025 to R$19.09bn and FY2025 to R$40.69bn (~$7.98bn); the ~R$3.7bn FY2025 gap most plausibly reflects late or corrected filings.
+- We anchor on the regulator's published numbers and treat the consultancy series as the better guide to trend.
+
+### Trend into ban
+
+**Monthly GGR fell 18.5% from R$4.29bn (~$0.84bn) in January 2026 to R$3.50bn (~$0.69bn) in June; deposits dropped 30%.**
+
+- Deposits fell from R$18.65bn (~$3.66bn) to R$13.06bn (~$2.56bn) over the same months.
+- H1-2026 deposits of R$88.48bn (~$17.35bn) were 12.4% below H1-2025's R$100.99bn (~$19.8bn) while GGR rose, lifting implied hold from 18.9% to 22.9%.
+- Rising hold on falling deposits is the signature of a casino-weighted mix and the statutory sign-up bonus prohibition.
+- H1-2026 average monthly run-rate: R$3.38bn (~$0.66bn) GGR on R$14.7bn (~$2.9bn) deposits.
+
+### Bettor base and product mix
+
+**Participation was mass-market and young: 17.7m unique CPFs bet in H1-2025, 25.2m across 2025 and 30.4m in H1-2026.**
+
+- Implied GGR per bettor R$1,467 (~$288) for 2025 and R$660 (~$129) for H1-2026; the 30.4m figure is a different extraction, not strictly comparable.
+- Q1-2026: 44.4% of bettors used a single operator, 27.8% four or more; 68.5% of H1-2026 bettors were men, roughly four in ten under 30.
+- GR8_TECH surveys: traditional sports draw 70% of bettors, esports 40%; slots 50% of casino preferences, crash/instant games 25%, live dealer 24%.
+- Fortune-themed slots (the 'tigrinho' Lula cited), Aviator, Mines and Plinko are the recognisable favourites; mobile was roughly 63% of Brazilian web traffic in September 2026.
+
+### Unregulated leakage
+
+**Three in four Brazilian bettors used unauthorised sites at least once in 2025, despite more than 25,000 illegal domains blocked by SPA/Anatel.**
+
+- Leakage plus 132 SPA enforcement proceedings against licensees underpinned the government's argument that Law 14.790's controls were insufficient.
+- It is also the core of the industry's counter-argument that prohibition hands the whole R$40bn to the black market.
+
+### Conclusion for B2Tech
+
+**The legal addressable market is zero from 6 October 2026; B2Tech should not route product into Brazil in any form while the MP is in force.**
+
+- The MP's payment, advertising and platform provisions make offshore service of Brazilian customers operationally difficult and legally hazardous.
+- Demand that produced R$20bn of GGR in a half-year has been pushed to crypto-funded and intermediated-Pix offshore sites.
+
+| Regulated online fixed-odds (R$; ~USD at 5.10) | H1-2025 | FY2025 | H1-2026 | H1 YoY |
+|---|---|---|---|---|
+| GGR — SPA-reported ¹ SPA data via LAI (BNLData). | R$17.4bn (~$3.41bn) | R$36.96bn (~$7.25bn) | R$20.07bn (~$3.94bn)¹ | +15.3% |
+| GGR — brmkt.co / SIGAP (8 Sep 2026) | R$19.09bn (~$3.74bn) | R$40.69bn (~$7.98bn) | R$20.28bn (~$3.98bn) | +6.2% |
+| Deposits (brmkt.co) | R$100.99bn (~$19.8bn) | n/a | R$88.48bn (~$17.35bn) | -12.4% |
+| Implied hold (GGR/deposits) | 18.9% | n/a | 22.9% | +4.0pp |
+| Monthly GGR, Jan-26 → Jun-26 | — | — | R$4.29bn → R$3.50bn (~$0.84bn → ~$0.69bn) | -18.5% intra-period |
+| Monthly deposits, Jan-26 → Jun-26 | — | — | R$18.65bn → R$13.06bn (~$3.66bn → ~$2.56bn) | -30% intra-period |
+| Unique bettors (CPFs) | 17.7m | 25.2m | 30.4m (BNLData) | n/a |
+| GGR per bettor | R$983 (~$193) | R$1,467 (~$288) | R$660 (~$129) | n/a |
+| Bettors using 1 / 4+ operators (Q1-26) | n/a | n/a | 44.4% / 27.8% | — |
+| Male share of bettors | n/a | n/a | 68.5% | — |
+| GGR split sports vs casino | n/a (not published by SPA) | n/a | n/a | — |
+| Survey: sports / esports interest | — | — | 70% / 40% (GR8_TECH) | — |
+| Survey: slots / crash & instant / live casino | — | — | 50% / 25% / 24% (GR8_TECH) | — |
+| Licensed companies / brands | 78 / 182 | 79 / n/a | 84 / 193 | +6 cos |
+| Bettors who used unauthorised sites ≥1x (2025) | — | ~75% (research cited by GR8_TECH) | — | — |
+
+## 4. Segment deep-dive — Licensing & tax regime — and its extinction under MP 1.394/2026
+
+*A R$30m, five-year, 12%-of-GGR regime was expropriated without compensation; the Treasury has booked a R$5bn-a-year revenue loss to do it.*
+
+### Pre-ban licensing framework
+
+**A R$30m (~$5.9m), five-year federal authorisation covering up to three brands supported 84 companies and 193 brands by H1-2026, ~R$2.5bn (~$0.49bn) of outorga capital.**
+
+- Framework from Law 13.756/2018 and Law 14.790/2023; operators had to be Brazilian-incorporated, use .bet.br domains, report via SIGAP and pay a monthly supervision fee.
+- SPA ordinances covered responsible gambling, advertising and payments: no sign-up bonuses, no credit-card or crypto funding.
+- Licensees grew from 78 companies/182 brands mid-2025 to 79 companies at December 2025 and 84 companies/193 brands by H1-2026.
+
+### Tax base
+
+**Total federal collection attributed to the sector was R$9.95bn (~$1.95bn) in 2025, about 27% of GGR, and R$7.3bn (~$1.43bn) in H1-2026.**
+
+- 12% statutory GGR contribution raised R$4.53bn (~$0.89bn) in 2025 and R$2.49bn (~$0.49bn) in H1-2026; supervision fee R$95.5m (~$18.7m) in 2025.
+- Operators also paid ordinary IRPJ/CSLL/PIS/COFINS/ISS; bettors paid 15% income tax on net prizes.
+- H1-2026 near-doubling suggests corporate-tax instalments and prize-tax withholding were catching up with the GGR base.
+- A 2025 attempt to lift the levy from 12% to 18% did not become law [prior knowledge; not re-verified].
+
+### MP 1.394/2026 provisions
+
+**The MP does not alter rates; it abolishes the activity and extinguishes all authorisations 30 days after publication (25 Oct) without refund or indemnity.**
+
+- Prohibits exploitation, offer, intermediation and advertising of fixed-odds lotteries nationwide, including foreign-domiciled agents and state/DF concessions.
+- New deposits barred from 25 Sep; platforms offline (including app stores) from 6 Oct; open bets unsettled ten days after publication voided with full stake refunds.
+- Extinction is 'for reasons of public interest'; pending applications voided and new concessions, permits or authorisations barred.
+- Non-compliance with refund mechanics carries a daily fine of R$200,000 (~$39k).
+
+### Surviving obligations
+
+**Regulatory, tax, financial, AML/CFT, responsible-gambling and sports-integrity duties for the authorised period remain enforceable after licences die.**
+
+- Bettor, bet, payment and prize records must be retained for at least five years.
+- Operators must transmit via SIGAP full data on users, bets, deposits, withdrawals, prizes, residual balances, refunds and revenues earned while licensed.
+- The SPA remains the counterparty for audits and penalties even though it no longer licenses anything.
+
+### Fiscal cost
+
+**The Treasury has booked lost revenue of R$1.541bn (~$0.30bn) in 2026, R$5.150bn (~$1.01bn) in 2027 and R$5.330bn (~$1.05bn) in 2028.**
+
+- Supervision-fee losses of R$38.4m (~$7.5m) in Sep–Dec 2026 and R$115.2m (~$22.6m) in each of the following two years.
+- 2027–28 figures sit well below the R$9.95bn collected in 2025, indicating the counterfactual mostly counts the 12% levy and prize tax, or already modelled a shrinking market.
+- Stated justification is public health, household indebtedness (net transfers from families to platforms in 2025 put at 'tens of billions of reais') and organised crime links.
+
+### Sovereign-regulatory risk lesson
+
+**Brazil has shown a five-year authorisation can be cancelled in 30 days by provisional measure with no compensation, before Congress votes.**
+
+- Any future re-entry should avoid outorga-heavy, front-loaded structures and favour asset-light B2B exposure.
+- Constitutional litigation over 'relevance and urgency' and acquired rights (ADI 8.027) is the test case for whether licence investments in Brazil are ever recoverable.
+
+| Regime comparison (R$; ~USD at 5.10) | Pre-ban regime (Law 14.790/2023, from 1 Jan 2025) | Under MP 1.394/2026 (from 25 Sep 2026) |
+|---|---|---|
+| Legal status of fixed-odds betting (sports + online games) | Authorised; federal (SPA) and state/DF concessions | Prohibited nationwide, incl. offshore targeting Brazil and state/DF concessions; other lotteries exempt |
+| Regulator | SPA / Ministry of Finance; SIGAP daily reporting | SPA (wind-down, SIGAP data), Casa Civil-led Interinstitutional Committee, Anatel/CGI.br for blocking, MJSP |
+| Licence | R$30m (~$5.9m) outorga; ≤3 brands; 5 years; Brazilian-incorporated; .bet.br | All extinguished 25 Oct 2026; no refund, no indemnity; pending applications void; new grants barred |
+| Licensed base | 84 companies / 193 brands (H1-26); ~R$2.5bn (~$0.49bn) outorgas paid | 0 |
+| Tax base & rate | 12% of GGR levy; monthly supervision fee; IRPJ/CSLL/PIS/COFINS/ISS; 15% IR on net prizes | No activity base; legacy liabilities enforceable; 5-yr record retention |
+| Tax take | FY2025: R$9.95bn (~$1.95bn) total; R$4.53bn (~$0.89bn) levy; R$95.5m (~$18.7m) fee | Govt est. loss: R$1.54bn (2026), R$5.15bn (2027), R$5.33bn (2028); fee loss R$268.8m (~$52.7m) over 3 yrs |
+| Deposits / funding | Pix/TED/debit from bettor-named accounts; no credit card, no crypto | Barred from 25 Sep; banks, PSPs and Pix participants must reject; BCB to build rejection/return system |
+| Open bets & balances | Standard settlement/withdrawal | Unsettled bets at +10 days void with full refund; balances refunded via banks 9–14 Oct, Caixa thereafter; R$200k (~$39k)/day fine |
+| Advertising & sponsorship | Permitted under SPA ordinance; no sign-up bonuses; no targeting minors (STF 2024) | Total ban incl. sponsorship; removal by 5 Oct; 'abusive' under Consumer Code; counter-advertising sanctions |
+| Internet platforms / app stores | Notice-and-takedown for illegal sites | Duty to prevent and remove; fines up to 10% of Brazil group revenue, or R$10–1,000 (~$2–196)/user capped R$50m (~$9.8m); suspension possible |
+| Validity | Law of Congress | Provisional measure: 60 days to 23 Nov 2026, +60 days if extended; lapses if not converted |
+
+## 5. Segment deep-dive — Legislative, judicial & political path (Congress, STF, Planalto)
+
+*Three gates — a dormant Congress committee, an STF rapporteur signalling support for the ban, and a re-elected president campaigning to keep it — all currently point to prohibition holding.*
+
+### Congressional timetable
+
+**The MP must be converted within 60 days, extendable once; deliberation runs 25 Sep to 23 Nov 2026, possibly slipping to February 2027.**
+
+- Possible extension to roughly 23 Jan 2027; constitutional count suspends during December–February recess.
+- From 9 Nov the MP enters urgency regime and locks the floor agenda of the house holding it.
+- Joint committee designated 30 Sep, membership published 1 Oct, but as of 4 Nov still 'awaiting installation' with no president, rapporteur or meetings.
+- Ninety-nine amendments filed by the extended 13 Oct deadline (five later withdrawn); the Pariente Advisory read that the regime will be written in committee is the right frame.
+
+### Lapse versus rejection
+
+**A lapse does not restore the market; it creates a licensing vacuum since every authorisation has already been extinguished and outorgas forfeited.**
+
+- If the MP lapses, the Law 14.790 regime technically revives, but Congress would normally issue a legislative decree and absent that the acts stand.
+- The SPA would have to run a new authorisation round under whatever rules survive.
+- Floor rejection would be a direct political defeat for a just re-elected president; committee inertia is better read as waiting for the STF and post-election realignment.
+
+### STF track
+
+**ADI 8.027, filed by ANJL, seeks immediate suspension and unconstitutionality; rapporteur Justice Luiz Fux has signalled support for a ban, with no injunction granted.**
+
+- Fux granted the 13 Nov 2024 injunction in ADIs 7.721/7.723 barring Bolsa Família and BPC benefits for betting and advertising aimed at children.
+- Public hearing on 3 Nov 2026: 28 entities, 34 speakers, roughly ten hours, opened by ten football clubs.
+- AGU argued prior regulation proved insufficient; Health Minister cited a 15-times higher suicide risk among electronic bettors.
+- Flamengo cited ~R$45m (~$8.8m) of R$290m (~$57m) revenue at risk; industry warned of job losses, match-fixing and black-market growth. No judgment date set.
+
+> “his own perception is that online bets should be banned in Brazil” — Justice Luiz Fux
+
+### Political context
+
+**Lula signed the MP on 25 Sep, nine days before the first round, and won the 25 Oct run-off with 51.79% of valid votes.**
+
+- A 21 Sep Quaest poll put Flávio Bolsonaro at 42%; the ban joined a Bolsa Família increase and a new Desenrola debt programme as late-campaign measures.
+- Senate e-Cidadania polling ran roughly 199,000 in favour versus 70,600 against within three days of publication.
+- Opposition critique centred on use of a provisional measure; Flávio Bolsonaro distinguished online casinos from sports betting, the clearest marker of a possible compromise.
+- Polymarket has been blocked in Brazil since April even as it handled ~US$180m of wagers on the Brazilian election from abroad.
+
+> “cannot allow the continuation of the bets” — Lula
+
+### Scenario probabilities
+
+**Probabilities are not symmetric: conversion or lapse-plus-replacement bill both leave prohibition in place through 2027; judicial suspension is least likely.**
+
+- Conversion may carry amendments on club contracts, refund mechanics and enforcement.
+- A committee rewrite creating a narrower sports-only regime with casino banned, advertising curbed and deposit limits is plausible but not operational before late 2027.
+- A judicial suspension by the rapporteur looks the least likely path after 3 Nov.
+
+| Process timeline and status as of 4 Nov 2026 | Date | Status / detail |
+|---|---|---|
+| MP 1.394/2026 published (DOU Extra A) | 25 Sep 2026 | In force; new deposits barred; ad/sponsorship removal clock starts |
+| Amendment window (extended) | to 13 Oct 2026 | 99 amendments filed; 5 withdrawn |
+| Joint committee designated | 30 Sep 2026 (members published 1 Oct) | 'Awaiting installation'; no chair, rapporteur or meetings as of 4 Nov |
+| First round, general election | 4 Oct 2026 | Lula vs Flávio Bolsonaro to run-off |
+| Voluntary withdrawals close | 5 Oct 2026, 23:59 | Also deadline for removal of ads and sponsorship signage |
+| Sites/apps offline | 6 Oct 2026 | Executed; nationwide block incl. app stores |
+| Balances reported to banks / refunds / Caixa | 6–8 Oct / 9–14 Oct / from 15 Oct | Executed per Finance Ministry schedule |
+| Authorisations extinguished | 25 Oct 2026 | Done; 'public interest'; no refund of outorga, no indemnity |
+| Presidential run-off | 25 Oct 2026 | Lula re-elected with 51.79% of valid votes |
+| STF public hearing, ADI 8.027 (rapporteur Fux) | 3 Nov 2026 | 28 entities / 34 speakers, ~10 hours; Fux voiced view that bets should be banned; no ruling |
+| Urgency regime (agenda lock) | 9 Nov 2026 | Pending |
+| Initial MP validity ends | 23 Nov 2026 | Extendable 60 days |
+| Extended validity ends | ~23 Jan 2027 (nominal); recess may push to Feb 2027 | Lapse if not converted |
+| Govt-booked revenue loss | 2026 / 2027 / 2028 | R$1.54bn / R$5.15bn / R$5.33bn (~$0.30bn / ~$1.01bn / ~$1.05bn) |
+
+## 6. Segment deep-dive — Payments, enforcement & responsible gambling
+
+*Pix — the rail that made Brazil scale — is now the primary enforcement instrument, backed by platform liability and a cross-agency blocking machine.*
+
+### Pix foundation
+
+**Pix let 30 million CPFs deposit R$88.48bn (~$17.35bn) in six months, about R$14.7bn (~$2.9bn) a month, through identifiable Brazilian accounts.**
+
+- Pre-ban rules confined funding to Pix, TED and debit from accounts in the bettor's own name; credit cards and crypto prohibited; segregated accounts required.
+- In November 2024 Justice Fux ordered the government to stop Bolsa Família and BPC funds being used for bets.
+- These design choices are what now make the shutdown enforceable.
+
+### Payment blocking
+
+**The MP bars banks, payment institutions and instant-payment schemes from processing betting transactions, except flows to wind down and refund players.**
+
+- The Central Bank must build an electronic system letting institutions reject betting-related transfers in real time and return funds interbank.
+- Refunds of unclaimed balances ran through banks 9–14 Oct; Caixa Econômica Federal acts as refund-of-last-resort from 15 Oct under Finance Ministry supervision.
+- GR8_TECH flags the gap: offshore operators use intermediated Pix (gateways, nominee accounts) and crypto on-ramps without betting identifiers.
+- Expect the BCB system and Coaf data-sharing to target those intermediaries, and financial institutions to over-comply.
+
+### Blocking and platform liability
+
+**16,627 sites were submitted for blocking and 3,691 profiles flagged between 25 Sep and 9 Oct, nearly two-thirds of 2025's >25,000 blocked domains.**
+
+- Finance and Justice ministries may order blocking or redirection; Anatel distributes orders to ISPs, CGI.br handles .br domains.
+- A Casa Civil-coordinated Interinstitutional Committee runs prevention, supervision and repression, with Federal Police, Receita Federal and Coaf sharing data.
+- Internet application providers must proactively remove betting content including third-party content; app stores and operating systems must block prohibited products.
+- Sanctions run from warnings to fines of up to 10% of Brazilian group revenue (or R$10–1,000 (~$2–196) per registered user, capped at R$50m (~$9.8m)), daily fines and suspension.
+
+### Responsible gambling
+
+**The regulated regime built real infrastructure in 18 months, including more than 217,000 self-exclusions by end-2025, now moot for licensed operators.**
+
+- Mandatory self-limits, risk-behaviour monitoring, a consumer-education course, bans on sign-up bonuses and advertising to minors.
+- 132 supervisory proceedings against licensees in 2025, of which 80 were heading to penalties.
+- Government told the STF none of this sufficed; industry says the ban dismantles the only tools that existed; the self-exclusion register has no legal operator population to bind.
+
+### Implication for B2Tech
+
+**Brazil's payments environment is now actively hostile and legally weaponised, a risk profile incompatible with a licensed B2B/B2C group's compliance posture.**
+
+- Offshore service would require routing around Pix controls the Central Bank is being instructed to tighten.
+- It would expose any Brazilian payment partner to sanction and place brand and affiliates inside the Consumer Code, CDC counter-advertising and PF/Coaf perimeter.
+
+| Payments, enforcement & RG indicators (R$; ~USD at 5.10) | Pre-ban (Jan-2025 to 25 Sep 2026) | Post-ban (MP 1.394/2026) |
+|---|---|---|
+| Permitted deposit methods | Pix, TED, debit from bettor-named accounts; no credit card; no crypto | None; banks, PSPs and Pix participants must reject betting flows |
+| Deposit volume | R$88.48bn (~$17.35bn) in H1-26; ~R$14.7bn (~$2.9bn)/month | Barred from 25 Sep 2026 |
+| Refund mechanics | Ordinary withdrawals | Voluntary to 5 Oct; operator reporting 6–8 Oct; bank refunds 9–14 Oct; Caixa from 15 Oct; R$200k (~$39k)/day fine |
+| Central Bank role | Account/segregation rules for transactional accounts | Mandated real-time rejection and interbank return system for betting-related instant payments |
+| Welfare funds | Bolsa Família / BPC barred (STF injunction, 13 Nov 2024) | Moot |
+| Sites blocked | 15,463 (Oct-24 to mid-25); >25,000 in 2025 | 16,627 sites + 3,691 social/messaging pages (25 Sep–9 Oct 2026) |
+| Blocking authorities | SPA with Anatel | MF + MJSP orders; Anatel (ISPs); CGI.br (.br domains); Casa Civil committee; PF/RFB/Coaf data sharing |
+| Platform / app-store liability | Takedown on notice | Proactive duty; fines up to 10% of Brazil group revenue or R$10–1,000 (~$2–196)/user, cap R$50m (~$9.8m) |
+| Self-exclusions (SPA centralised platform) | >217,000 (cumulative to Dec-25) | No licensed population to bind |
+| Supervisory proceedings vs licensees | 132 in 2025; 80 toward penalties | Legacy liabilities remain enforceable; 5-yr record retention |
+| Advertising | Regulated; no bonuses; no targeting minors | Total ban incl. sponsorship; 'abusive' under Consumer Code |
+
+## 7. Segment deep-dive — Operator landscape, sponsorship fallout & exempt verticals
+
+*84 licensees and 193 brands have been written to zero, Brazilian football has lost its dominant sponsor category, and only Caixa's lotteries remain untouched.*
+
+### Licensee base
+
+**84 authorised companies operating 193 brands by H1-2026 have been written to zero; leader shares are n/a as SPA publishes no operator-level GGR.**
+
+- Up from 77 companies and 159 brands a year earlier and 79 companies at December 2025.
+- Groups commonly cited pre-ban: Betano (Kaizen), bet365, Superbet, Betnacional (Flutter/NSX), Esportes da Sorte, Sportingbet (Entain) [prior knowledge, shares unverified].
+- 27.8% of Q1-2026 bettors used four or more operators, which with the bonus ban points to competition on product and odds rather than acquisition spend.
+
+### Sunk capital
+
+**The 84 licensees paid on the order of R$2.5bn (~$0.49bn) in outorgas at R$30m (~$5.9m) each, all forfeited without refund or indemnity.**
+
+- Also lost: Brazilian corporate structures, local payment integrations, SIGAP reporting stacks and marketing commitments.
+- Deloitte's Malta practice says the ban is an impairment-testing trigger for year-end reporting; GR8_TECH notes Brazil-based growth forecasts and sponsorship budgets have been cut.
+- ADI 8.027 on acquired rights is the only route to recovery, and the rapporteur's remarks on 3 Nov were not encouraging.
+
+### Football sponsorship
+
+**Roughly US$200m of football sponsorship was wiped out, with all betting signage removed by 5 Oct 2026.**
+
+- In 2025 every Série A club had a master sponsor and betting operators were the central investors in Brazilian football.
+- Flamengo told the STF ~R$45m (~$8.8m) of its R$290m (~$57m) annual revenue was tied to betting sponsors and pitch-side advertising.
+- Flamengo, Botafogo, Fluminense, Grêmio, Cruzeiro and others branded the measure 'the end of Brazilian football'.
+- Clubs sought an injunction in early October and asked for a gradual transition and contract security, the most likely locus of any Congressional amendment.
+
+### Exempt verticals
+
+**Only Caixa's federal lotteries remain untouched, expressly exempt as 'other lottery modalities'; their 2025–26 sales are n/a.**
+
+- State and Federal District fixed-odds concessions (Loterj-style, already territorially constrained by the STF in early 2025) are swept into the prohibition.
+- PL 2.234/2022 on land-based casinos, bingo and jogo do bicho has not been voted by the Senate plenary and has no realistic prospect [prior knowledge; unverified].
+- Pari-mutuel horse-race betting is governed by separate legislation and not referenced in the MP summaries; status n/a.
+
+### B2Tech read-through
+
+**Brazil-heavy incumbents are impaired and distracted, marginally improving competitive conditions elsewhere in LatAm as their capital is redeployed.**
+
+- If Brazil re-opens under a narrower regime, the field is reset: outorgas gone, brands dark, favouring entrants with clean capital and no legacy litigation.
+- The earliest such window is late 2027, and only if the committee rewrite scenario materialises.
+
+| Operator landscape & sponsorship (R$; ~USD at 5.10) | H1-2025 | FY2025 | H1-2026 | After 25 Oct 2026 |
+|---|---|---|---|---|
+| Licensed companies | 77–78 | 79 | 84 | 0 |
+| Active brands | 159–182 | n/a | 193 | 0 |
+| Outorgas paid (est. at R$30m each) | ~R$2.3bn (~$0.46bn) | ~R$2.4bn (~$0.46bn) | ~R$2.5bn (~$0.49bn) | Forfeited; no refund |
+| Market shares by operator | n/a (not published by SPA) | n/a | n/a | — |
+| Bettors using 4+ operators | n/a | n/a | 27.8% (Q1-26) | — |
+| Série A clubs with master sponsor | all 20 (2025, mostly bets) | all 20 | n/a | Signage removed by 5 Oct 2026 |
+| Football sponsorship at risk | — | — | ~US$200m (Latin Times est.) | Contracts terminated/suspended |
+| Flamengo: betting-linked revenue | — | — | ~R$45m (~$8.8m) of R$290m (~$57m) | Lost |
+| Caixa federal lotteries | n/a | n/a | n/a | Exempt; continuing |
+| State/DF fixed-odds concessions | Territorially limited (STF, 2025) | same | same | Extinguished |
+| Land-based casino bill (PL 2.234/2022) | Pending Senate plenary [unverified] | same | same | No prospect in current climate |
+
+## 8. Highlights & Lowlights
+
+**Highlights**
+
+- Proven demand at scale: 30.4m bettors and a ~R$40bn (~$7.8bn) annualised GGR run-rate make Brazil the largest latent pool in LatAm; if a regime is rebuilt, day-one volume exists without market-making spend. _(structural)_
+- A compromise space is visible: the opposition and clubs distinguish sports betting from online casino, 99 amendments are on file, and the committee rewrite is where a narrower (sports-only, ad-restricted) regime could emerge in 2027–28. _(early)_
+- Field reset: all outorgas are forfeited and brands dark, so any re-licensing round would not favour incumbents' sunk capital; a clean entrant with asset-light B2B exposure could compete on equal footing. _(mixed)_
+- Regulatory plumbing already exists — SIGAP reporting, .bet.br domains, the centralised self-exclusion register, Pix KYC rails — so operational time-to-market on any re-opening would be months, not years. _(structural)_
+- Bonus-free, high-hold economics: implied hold rose to 22.9% in H1-2026 on a statutory sign-up-bonus ban, a template that would likely carry into any successor regime and favours product-led operators. _(structural)_
+- Capacity redeployment: impaired Brazil-heavy incumbents are pulling marketing and capital toward Argentina, Peru, Colombia and Mexico; Portuguese-language product can be redirected to Portugal and Lusophone Africa. _(one-off)_
+
+**Lowlights**
+
+- Zero legal addressable market: every authorisation was extinguished on 25 Oct 2026 and sites have been offline since 6 Oct; there is no lawful way to serve Brazilian customers today. _(structural)_
+- Expropriation without compensation: ~R$2.5bn (~$0.49bn) of five-year outorgas were cancelled by provisional measure with no refund or indemnity — a precedent that must be priced into any future Brazilian licence. _(governance)_
+- Political alignment against the industry: a re-elected president publicly campaigning for the ban, an AGU and Health Ministry framing it as public health, and an STF rapporteur who said bets should be banned. _(structural)_
+- The fiscal argument has been discounted: the Treasury has booked R$5.15bn (~$1.01bn) of lost 2027 revenue in the MP itself, so tax-yield lobbying has little traction. _(structural)_
+- Payment rails weaponised: Pix rejection, bank/PSP prohibition, a BCB real-time return system and platform fines up to 10% of Brazil revenue make grey-market service of Brazil an AML/criminal exposure, not a commercial option. _(structural)_
+- Legal vacuum risk even on lapse: if the MP expires unconverted (~Jan/Feb 2027), licences do not revive; a new authorisation round under uncertain rules would be needed, and litigation over acquired rights could run for years. _(watch)_
+- Data opacity: the SPA has not published a 2026 Panorama; H1-2026 series disagree by ~1% and FY2025 by ~R$3.7bn; no sports/casino split or operator shares exist to size a sports-only successor market. _(watch)_
+
+## 9. Forecast & Outlook
+
+The 'bridge' for Brazil is from a ~R$40bn (~$7.8bn) annualised regulated GGR run-rate (H1-2026: R$20.07–20.28bn) to zero from 6 Oct 2026, with the federal take moving from R$9.95bn (~$1.95bn) in 2025 to a government-booked loss of R$1.54bn in 2026 and R$5.15bn (~$1.01bn) in 2027. The moving parts are not market variables but institutional ones: whether the joint committee is installed and what its rapporteur writes before 23 Nov 2026 (or the ~Jan/Feb 2027 extension); whether Justice Fux rules on ADI 8.027 and in which direction after a hearing at which he voiced support for prohibition; and whether a re-elected Lula government, which issued the MP as a campaign measure, is willing to trade a transition for the clubs' sponsorship contracts.
+
+- **Regulated GGR run-rate:** ~R$40bn/yr → R$0 (from 6 Oct 2026 (sites offline); H1-26 was R$20.07bn (~$3.94bn))
+- **Federal take from sector:** R$9.95bn (2025) → govt-est. loss R$5.15bn (2027) (~$1.95bn actual vs ~$1.01bn booked loss; 12% GGR levy ceases)
+- **Licensed operators / brands:** 84 / 193 → 0 (authorisations extinguished 25 Oct 2026; ~R$2.5bn outorgas forfeited)
+- **Decision window:** 23 Nov 2026 → ~Jan/Feb 2027 (committee not installed as of 4 Nov; STF ADI 8.027 undated)
+
+Our independent view is that **prohibition holds through 2027 in the base case (we estimate ~55–60% probability)** — either by conversion with amendments (transition relief for club contracts, refund and enforcement tweaks) or by a lapse followed by a replacement bill, since the Executive has already absorbed the fiscal cost and the STF rapporteur has signalled sympathy. The main alternative (**~30%**) is a committee rewrite that re-creates a **narrower regulated regime from 2027–28: sports betting only, online casino prohibited, advertising and sponsorship tightly capped, deposit limits and welfare-fund blocks retained, and a fresh licensing round** — plausible because the opposition and clubs have framed the debate as casino-versus-sports and because 99 amendments exist to carry it. Judicial suspension is the tail (**~10–15%**). If a sports-only market re-opened, we would size it at **R$12–18bn (~$2.4–3.5bn) of annual GGR [analyst estimate]**, on the assumption that casino was more than half of 2025–26 GGR (not published; inferred from rising hold and survey mix), with higher hold and lower marketing intensity than the 2025 market. **Revenue direction for any Brazil-exposed operator: zero in 2027 base case; margin/leverage: impairments of licences and intangibles in FY2026 accounts, with outorga recovery dependent on ADI 8.027.** For B2Tech: no entry; keep a compliance-grade monitoring file; reassess only on committee installation with a rapporteur text that preserves a licensed sportsbook.
+
+**What to watch next quarter:**
+
+- Installation of the MP 1.394 joint committee, identity of the rapporteur, and whether the committee text preserves any licensed activity (sports-only) or merely softens wind-down terms — before 23 Nov 2026 or the ~Jan/Feb 2027 extension.
+- Any ruling by Justice Fux on ADI 8.027 (ANJL) — injunction, denial, or referral to the full bench — and whether the Court addresses acquired rights to the R$30m outorgas.
+- Whether the MP lapses unconverted; if so, the form of the Congressional legislative decree governing acts taken while it was in force and any new government bill or MP.
+- Central Bank implementation of the mandated Pix rejection/return system and its targeting of intermediated-Pix gateways and crypto on-ramps used by offshore sites; enforcement actions against payment intermediaries.
+- Monthly blocking statistics from the Interinstitutional Committee / Anatel (16,627 sites in the first two weeks) and first platform fines under the 10%-of-revenue regime.
+- Publication by the SPA of final 2026 SIGAP data (Jan–Sep) to reconcile the FY2025 (R$36.96bn vs R$40.69bn) and H1-2026 (R$20.07bn vs R$20.28bn) discrepancies and, ideally, a sports/casino GGR split.
+- Club-sponsorship settlements and whether Congress inserts a contract-transition clause; CBF/Série A commercial revenue disclosures for 2026–27.
+- Listed-operator FY2026 disclosures (impairments, Brazil revenue exposure) and any announced exits or re-entry conditions.
+
+### Sources
+
+**Data confidence: MEDIUM.** FX: USD/BRL ~5.10, implied by Sigma World's 23 Sep 2026 conversions (R$20.28bn = $3.98bn); a direct BCB PTAX lookup was not possible within this research cycle, so USD figures are approximations (~). FY2025 and H1-2025 figures are regulator-published (SPA Panorama Periódico; SPA H1-2025 presentation). H1-2026 GGR (R$20.07bn) is SPA data released via LAI and published by BNLData/Tripletrad; the brmkt.co SIGAP series (R$20.28bn H1-26; R$40.69bn FY25) is a secondary extraction and disagrees with the SPA's published FY2025 figure by ~R$3.7bn. H1-2025/H1-2026 total federal collection (R$3.8bn/R$7.3bn) is from a secondary source and was not verified against Receita Federal tables. The MP's full article text (Planalto) could not be fetched; provisions are taken from the Agência Senado and Finance Ministry summaries. No sports/casino GGR split, operator market shares, Caixa lottery figures or horse-racing data could be verified (n/a). Items marked [prior knowledge] (12%→18% levy proposal lapsing in 2025; PL 2.234/2022 status; names of leading operators) were not re-verified in this cycle.
+
+1. [Primary] Ministério da Fazenda / SPA — 'Medida Provisória n° 1.394/2026: entenda as novas regras para as apostas de quota fixa' (2 Oct 2026, upd. 7 Oct) — https://www.gov.br/fazenda/pt-br/composicao/orgaos/secretaria-de-premios-e-apostas/medida-provisoria-ndeg-1-394-2026-entenda-as-novas-regras-para-as-apostas-de-quota-fixa
+2. [Primary] Agência Senado — 'MP proíbe bets e determina encerramento das operações em 30 dias' (28 Sep 2026), incl. fiscal-impact figures from the exposição de motivos — https://www12.senado.leg.br/noticias/materias/2026/09/28/mp-proibe-bets-e-determina-encerramento-das-operacoes-em-30-dias
+3. [Primary] Congresso Nacional — MPV 1394/2026 tramitação page (calendar, committee designation, amendments) — https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/175871
+4. [Primary] Planalto — EM nº 2114/2026, exposição de motivos da MP 1.394/2026 (24 Sep 2026) — https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/exm/exm-mp-1394-26.pdf
+5. [Primary] Câmara dos Deputados — Medida Provisória nº 1.394, de 25 de setembro de 2026 (legislation record) — https://www2.camara.leg.br/legin/fed/medpro/2026/medidaprovisoria-1394-25-setembro-2026-800020-exposicaodemotivos-181492-pe.html
+6. [Primary] SPA/MF — Panorama Periódico do mercado regulado de apostas de quota fixa, dados 1 Jan–30 Dec 2025 (GGR R$36,959,783,380; 12% levy R$4,532,797,795; TF R$95,495,581; >217k self-exclusions) — https://www.gov.br/fazenda/pt-br/composicao/orgaos/secretaria-de-premios-e-apostas/apresentacoes/apresentacao-spa-mf-relatorio-periodico-2026.pdf
+7. [Primary] SPA/MF — Panorama Semestral 1º semestre 2025 (GGR R$17.4bn; 17.7m CPFs; 182 brands; 12% levy R$2.14bn; TF R$49.3m) — https://www.gov.br/fazenda/pt-br/composicao/orgaos/secretaria-de-premios-e-apostas/arquivos/arquivos-pdf/apresentacao_spamf_relatoriodo1osemestre_versao1.pdf
+8. [Primary] STF — 'STF realizará audiência pública sobre MP das bets' (ADI 8027, rapporteur Fux) — https://noticias.stf.jus.br/postsnoticias/stf-realizara-audiencia-publica-sobre-mp-que-trata-de-apostas-esportivas/
+9. [Primary] STF — 'STF divulga cronograma de audiência pública sobre proibição das bets' (28 entities) — https://noticias.stf.jus.br/postsnoticias/stf-divulga-cronograma-de-audiencia-publica-sobre-proibicao-das-bets/
+10. [Primary] TRE-SP — 'Eleições 2026: Lula é reeleito presidente da República' (25 Oct 2026) — https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/eleicoes-2026-lula-e-reeleito-presidente-da-republica-confira-resultado-do-2o-turno-em-sp
+11. [Primary] Agência Gov — 'Em audiência no STF, Governo Federal defende proibição de jogos de aposta online' (3 Nov 2026) — https://agenciagov.ebc.com.br/noticias/202611/em-audiencia-no-stf-governo-federal-defende-proibicao-de-jogos-de-aposta-online
+12. [Secondary] NEXT.io — 'GR8_TECH's Brazil iGaming Report: What happens when one of LATAM's biggest betting markets faces a ban?' (23 Oct 2026) — https://next.io/news/b2b-news/gr8_techs-brazil-igaming-report/
+13. [Secondary] GR8_TECH — 'iGaming Operator Lens: Brazil' (22 Oct 2026; gated report landing page) — https://gr8.tech/guide/igaming-operator-lens-brazil/
+14. [Secondary] Focus Gaming News — 'MP das bets: comissão segue parada a 5 dias da urgência' (4 Nov 2026) — https://focusgn.com/brasil/mp-bets-comissao-congresso-urgencia
+15. [Secondary] Focus Gaming News — 'Congresso recebe 99 emendas à MP que proíbe bets no Brasil' — https://focusgn.com/brasil/congresso-recebe-99-emendas-a-mp-que-proibe-bets-no-brasil
+16. [Secondary] Focus Gaming News — 'STF ouve clubes e governo sobre proibição das bets' (3 Nov 2026) — https://focusgn.com/brasil/stf-audiencia-publica-mp-bets
+17. [Secondary] Focus Gaming News — 'Lula reeleito: o que acontece agora com as bets no Brasil?' (51.79% of valid votes) — https://focusgn.com/brasil/lula-reeleito-futuro-bets-brasil
+18. [Secondary] Poder360 — 'Lula defende que bets continuem proibidas: Hora de pressionar' (3 Nov 2026) — https://poder360.com.br/poder-governo/lula-defende-que-bets-continuem-proibidas-hora-de-pressionar
+19. [Secondary] Poder360 — live fact-check of STF hearing (Fux 2024 injunction, ADIs 7.721/7.723) — https://www.poder360.com.br/ao-vivo/acompanhe-a-checagem-de-fatos-e-fakes-de-audiencia-sobre-bets/
+20. [Secondary] CNN Brasil — 'Governo e clubes divergem sobre proibição das bets em audiência no STF' — https://www.cnnbrasil.com.br/politica/governo-e-clubes-divergem-sobre-proibicao-das-bets-em-audiencia-no-stf/
+21. [Secondary] Migalhas — 'Após dez horas de debate, STF encerra audiência sobre bets' — https://www.migalhas.com.br/quentes/467683/apos-dez-horas-de-debate-stf-encerra-audiencia-sobre-bets
+22. [Secondary] Exame — 'Proibição das bets: o que Fux, governo Lula e clubes de futebol disseram em audiência no STF' — https://exame.com/brasil/proibicao-das-bets-o-que-fux-governo-lula-e-clubes-de-futebol-disseram-em-audiencia-no-stf
+23. [Secondary] Bahia Notícias — STF hearing summary (Flamengo R$290m revenue / ~R$45m betting-linked) — https://www.bahianoticias.com.br/esportes/noticia/80884-audiencia-no-stf-reune-clubes-e-governo-e-expoe-divergencias-sobre-proibicao-das-bets-no-brasil-veja-resumo
+24. [Secondary] Sigma World — 'Mercado de apostas do Brasil cresce 6,2% no primeiro semestre' (H1-2026 R$20.28bn; monthly series; USD conversions) — https://sigma.world/pt-br/news/mercado-apostas-brasil-h1-2026/
+25. [Secondary] BPMoney — 'Bets no Brasil movimentam R$ 20,28 bi no 1º semestre de 2026' (brmkt.co; 84 cos/193 brands; deposits R$88.48bn) — https://bpmoney.com.br/mercado/bets-no-brasil-movimentam-r-2028-bi-no-1o-semestre-de-2026/
+26. [Secondary] Claudio Dantas — 'Bets movimentam R$ 88,5 bi no semestre' (FY2025 restated R$40.69bn; H1-25 deposits R$100.99bn; R$2.49bn levy) — https://claudiodantas.com.br/bets-movimentam-r-885-bi-no-semestre/
+27. [Secondary] Tripletrad — 'Gastos com apostas' (SPA data via LAI/BNLData: H1-2026 GGR R$20.07bn, +15.3%; demographics) — https://www.tripletrad.com.br/gastos-com-apostas/
+28. [Secondary] Conexão Bet — 'Panorama revela números inéditos do mercado regulado de apostas em 2025' (R$9.95bn federal take) — https://conexaobet.com/todas-noticias/panorama-revela-numeros-ineditos-do-mercado-regulado-de-apostas-em-2025/
+29. [Secondary] Games-Latam — 'SPA informa que GGR atingiu R$ 37 bilhões em 2025' (25.2m bettors; 132 proceedings; 79 cos; >25k sites blocked) — https://games-latam.com/spa-informa-que-ggr-atingiu-r-37-bilhoes-em-2025/
+30. [Secondary] Clube da Aposta — 'Arrecadação federal com apostas cresce 92% no primeiro semestre de 2026' (R$7.3bn vs R$3.8bn) — https://clubedaposta.com/noticias/arrecadacao-federal-com-apostas-92-2026/
+31. [Secondary] Repórter Maceió — H1-2026 licences (77 cos/159 brands in H1-2025 comparison) — https://reportermaceio.com.br/apostas-no-brasil-crescem-setor-regulado-registra-84-licencas-e-faturamento-de-r-2028-bilhoes-em-2026-com-304-milhoes-de-apostadores-ativos/
+32. [Secondary] Pariente Advisory — 'MP 1.394: da proibição à transição: o que precisa acontecer até novembro' — https://parienteadvisory.com/pt/mp-1394-da-proibicao-a-transicao/
+33. [Secondary] LCA / IBJR / ANJL — 'Panorama do mercado de apostas de quota fixa' (Nov 2025; Law 13.756/18, 14.790/23, bonus ban, Série A sponsorship) — https://bnldata.com.br/wp-content/uploads/2025/11/LCA_Cruz_IBJR_ANJL_Panorama-2025-Setor.pdf
+34. [Secondary] Wikipedia (EN) — 'Provisional Measure 1394/2026' (timeline; projected expiry dates; club opposition) — https://en.wikipedia.org/wiki/Provisional_Measure_1394/2026
+35. [Secondary] Deloitte Malta — 'Brazil's betting ban: What it means for impairment testing and year-end reporting' — https://www.deloitte.com/mt/en/services/consulting/perspectives/brazil-betting-ban-what-it-means-for-impairment-testing-and-year-end-reporting.html
+36. [Secondary] Latin Times — 'Brazil's betting ban just torched $200M in football sponsorships' — https://www.latintimes.com/brazils-betting-ban-just-torched-200m-football-sponsorships-now-courts-decide-599916
+37. [Secondary] UPI — 'Brazil blocks online betting, gambling platforms' (6 Oct 2026) — https://www.upi.com/Top_News/World-News/2026/10/06/latam-brazil-bans-online-gambling/6441791314629/
+38. [Secondary] Gazeta do Povo — 'De Bolsa Família a bets, Lula procura bala de prata contra ascensão de Flávio' (Quaest 21 Sep: Flávio 42%) — https://www.gazetadopovo.com.br/eleicoes/2026/de-bolsa-familia-a-bets-lula-procura-bala-de-prata-contra-ascensao-de-flavio/
+39. [Secondary] CartaCapital — Polymarket blocked in Brazil since Apr 2026; US$180m election wagers — https://www.cartacapital.com.br/politica/como-apostas-sobre-as-eleicoes-brasileiras-se-tornaram-falsas-pesquisas/
+40. [Secondary] iGaming Times — 'Brazil Gambling Licence and Regulation (2026)' (no tax base post-ban) — https://igaming-times.com/countries/brazil
+41. [Secondary] Yogonet — 'Brazil betting ban: What the provisional measure actually says' (28 Sep 2026) — https://www.yogonet.com/international/news/2026/09/28/126587-brazil-betting-ban-what-the-provisional-measure-actually-says
+
+*Research analysis only — not a rating, price target, or personalised investment advice.*
