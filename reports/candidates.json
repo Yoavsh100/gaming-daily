@@ -1036,7 +1036,8 @@
     "authority": "Ohio Lottery",
     "period": "SEPTEMBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238114-ohio-lottery-reports-6-increase-in-september-vlt-revenue/"
+      "https://www.gamingintelligence.com/finance/238114-ohio-lottery-reports-6-increase-in-september-vlt-revenue/",
+      "https://www.gamingintelligence.com/finance/238118-ohio-casinos-earn-13-increase-in-september-gaming-revenue/"
     ],
     "seen": "2026-11-03"
   },
@@ -1096,7 +1097,8 @@
     "urls": [
       "https://www.gamblinginsider.com/news/201610/sportradar-q3-2026-prediction-markets-growth",
       "https://www.gamingintelligence.com/finance/238230-sportradar-delivers-strong-revenue-and-profit-growth-in-q3-2026/",
-      "https://next.io/news/results/q3-2026-betting-growth-drives-revenue-up-24-at-sportradar/"
+      "https://next.io/news/results/q3-2026-betting-growth-drives-revenue-up-24-at-sportradar/",
+      "https://europeangaming.eu/portal/latest-news/2026/11/04/217372/sportradar-q3-2026-results-revenue-363m/"
     ],
     "seen": "2026-11-04"
   },
@@ -1109,7 +1111,10 @@
     "urls": [
       "https://www.gamingintelligence.com/finance/238260-kambi-group-sees-profit-surge-in-q3/",
       "https://next.io/news/results/q3-2026-kambi-delivers-revenue-rise-world-cup-boost/",
-      "https://igamingfuture.com/kambi-q3-2026/"
+      "https://igamingfuture.com/kambi-q3-2026/",
+      "https://focusgn.com/kambi-q3-results-revenue-ebita",
+      "https://www.thegamblest.com/kambi-revenue-rises-23-in-q3-as-adjusted-ebita-jumps-161/",
+      "https://next.io/news/technology/kambi-expects-18-million-additional-bets-ai-trading/"
     ],
     "seen": "2026-11-04"
   },
@@ -1136,6 +1141,74 @@
     "period": "2025/26",
     "urls": [
       "https://findmoreafrica.com/tanzania-gambling-dg-reports-tzs-307-8-billion-generated-in-tax/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tanzania-gambling-dg-reports-tzs-307-8-billion-generated-in-tax"
+    ],
+    "seen": "2026-11-04"
+  },
+  {
+    "key": "SGHC|Q3 2026",
+    "type": "company",
+    "company": "Super Group (SGHC) Limited",
+    "ticker": "SGHC",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238258-online-casino-drives-super-groups-third-quarter-revenue-growth/",
+      "https://next.io/news/results/q326-super-group-downgrade-full-year-guidance/",
+      "https://igamingfuture.com/super-group-q3-2026/"
+    ],
+    "seen": "2026-11-04"
+  },
+  {
+    "key": "zeal network|9M 2026",
+    "type": "company",
+    "company": "ZEAL Network SE",
+    "ticker": "TIMA",
+    "period": "9M 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238274-zeal-network-lauds-diversification-as-9m-revenue-nears-e200-million/"
+    ],
+    "seen": "2026-11-04"
+  },
+  {
+    "key": "red rock resorts|Q3 2026",
+    "type": "company",
+    "company": "Red Rock Resorts",
+    "ticker": "RRR",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238267-red-rock-resorts-swings-to-loss-in-q3-after-employee-share-award/"
+    ],
+    "seen": "2026-11-04"
+  },
+  {
+    "key": "accel entertainment|Q3 2026",
+    "type": "company",
+    "company": "Accel Entertainment",
+    "ticker": "ACEL",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238262-accel-entertainment-grows-profit-as-q3-revenue-hits-364-million/"
+    ],
+    "seen": "2026-11-04"
+  },
+  {
+    "key": "juris|zimbabwe|JAN-SEP 2026",
+    "type": "jurisdiction",
+    "market": "Zimbabwe",
+    "authority": "Blask",
+    "period": "JAN-SEP 2026",
+    "urls": [
+      "https://igamingafrika.com/zimbabwe-betting-tax-demand-more-than-doubled/"
+    ],
+    "seen": "2026-11-04"
+  },
+  {
+    "key": "juris|arkansas|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Arkansas",
+    "authority": null,
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238160-arkansas-casinos-win-8-rise-in-revenue-for-september/"
     ],
     "seen": "2026-11-04"
   }
