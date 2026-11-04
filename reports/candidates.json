@@ -1099,5 +1099,44 @@
       "https://next.io/news/results/q3-2026-betting-growth-drives-revenue-up-24-at-sportradar/"
     ],
     "seen": "2026-11-04"
+  },
+  {
+    "key": "kambi|Q3 2026",
+    "type": "company",
+    "company": "Kambi Group plc",
+    "ticker": "KAMBI",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238260-kambi-group-sees-profit-surge-in-q3/",
+      "https://next.io/news/results/q3-2026-kambi-delivers-revenue-rise-world-cup-boost/",
+      "https://igamingfuture.com/kambi-q3-2026/"
+    ],
+    "seen": "2026-11-04"
+  },
+  {
+    "key": "lottomatica|Q3 2026",
+    "type": "company",
+    "company": "Lottomatica Group",
+    "ticker": "LTMC",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.thegamblest.com/lottomatica-q3-revenue-rises-5-since-cirsa-acquisition/",
+      "https://www.gamingintelligence.com/finance/238226-lottomatica-profits-as-revenue-grows-to-e1-72-billion-in-9m-2026/",
+      "https://europeangaming.eu/portal/latest-news/2026/11/03/217297/lottomatica-9m-2026-results/",
+      "https://igamingbusiness.com/finance/lottomatica-strengthens-italian-market-position-9m-earnings/",
+      "https://next.io/news/results/lottomatica-confirms-q227-closing-date-cirsa-deal/"
+    ],
+    "seen": "2026-11-04"
+  },
+  {
+    "key": "juris|tanzania|2025/26",
+    "type": "jurisdiction",
+    "market": "Tanzania",
+    "authority": "Gaming Board of Tanzania",
+    "period": "2025/26",
+    "urls": [
+      "https://findmoreafrica.com/tanzania-gambling-dg-reports-tzs-307-8-billion-generated-in-tax/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tanzania-gambling-dg-reports-tzs-307-8-billion-generated-in-tax"
+    ],
+    "seen": "2026-11-04"
   }
 ]
