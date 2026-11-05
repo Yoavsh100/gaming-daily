@@ -1039,7 +1039,8 @@
     "urls": [
       "https://europeangaming.eu/portal/latest-news/2026/11/03/217297/lottomatica-9m-2026-results/",
       "https://www.gamingintelligence.com/finance/238226-lottomatica-profits-as-revenue-grows-to-e1-72-billion-in-9m-2026/",
-      "https://igamingbusiness.com/finance/lottomatica-strengthens-italian-market-position-9m-earnings/"
+      "https://igamingbusiness.com/finance/lottomatica-strengthens-italian-market-position-9m-earnings/",
+      "https://focusgn.com/lottomatica-online-market-share-growth"
     ],
     "seen": "2026-11-03"
   },
@@ -1134,7 +1135,8 @@
       "https://www.gamingintelligence.com/finance/238258-online-casino-drives-super-groups-third-quarter-revenue-growth/",
       "https://next.io/news/results/q326-super-group-downgrade-full-year-guidance/",
       "https://igamingfuture.com/super-group-q3-2026/",
-      "https://www.yogonet.com/international/news/2026/11/04/127170-super-group-lowers-2026-revenue-outlook-as-africa-growth-offsets-sports-weakness"
+      "https://www.yogonet.com/international/news/2026/11/04/127170-super-group-lowers-2026-revenue-outlook-as-africa-growth-offsets-sports-weakness",
+      "https://www.thegamblest.com/super-group-revenue-falls-11-in-q3-despite-year-on-year-growth/"
     ],
     "seen": "2026-11-04"
   },
@@ -1205,7 +1207,9 @@
       "https://www.gamblinginsider.com/news/201816/flutter-q3-2026-results-fanduel-ebitda-falls-guidance-cut",
       "https://www.gamingintelligence.com/finance/238301-flutter-entertainment-posts-1-15-billion-loss-for-q3/",
       "https://igamingbusiness.com/finance/flutter-cuts-fy26-guidance-brazil-exit-sports-results-hit-q3-earnings/",
-      "https://next.io/news/results/q326-flutter-cuts-outlook/"
+      "https://next.io/news/results/q326-flutter-cuts-outlook/",
+      "https://europeangaming.eu/portal/latest-news/2026/11/05/217450/flutter-q3-2026-results-guidance-cut-cost-savings/",
+      "https://casinobeats.com/2026/11/05/flutters-uk-casino-revenue-grows-12-but-40-duty-pulls-international-ebitda-down-14/"
     ],
     "seen": "2026-11-05"
   },
@@ -1239,6 +1243,17 @@
     "period": "SEPTEMBER 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238144-west-virginia-sports-and-igaming-wagers-rise-21-in-september/"
+    ],
+    "seen": "2026-11-05"
+  },
+  {
+    "key": "melco resorts and entertainment|Q3 2026",
+    "type": "company",
+    "company": "Melco Resorts & Entertainment",
+    "ticker": "MLCO",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238316-melco-resort-entertainment-revenue-falls-10-in-third-quarter/"
     ],
     "seen": "2026-11-05"
   }
