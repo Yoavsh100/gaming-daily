@@ -1256,5 +1256,40 @@
       "https://www.gamingintelligence.com/finance/238316-melco-resort-entertainment-revenue-falls-10-in-third-quarter/"
     ],
     "seen": "2026-11-05"
+  },
+  {
+    "key": "LNW|Q3 2026",
+    "type": "company",
+    "company": "Light & Wonder",
+    "ticker": "LNW",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238319-light-wonder-widens-q3-profit-despite-slight-revenue-decline/",
+      "https://next.io/news/casino/light-wonder-flags-igaming-growth-beyond-flagship/",
+      "https://next.io/news/results/q3-2026-light-wonder-social-casino-softness/"
+    ],
+    "seen": "2026-11-05"
+  },
+  {
+    "key": "juris|greece|JAN-AUG 2026",
+    "type": "jurisdiction",
+    "market": "Greece",
+    "authority": null,
+    "period": "JAN-AUG 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238172-greece-gambling-revenue-tops-e2-billion-for-first-8-months-of-2026/"
+    ],
+    "seen": "2026-11-05"
+  },
+  {
+    "key": "juris|missouri|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Missouri",
+    "authority": null,
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238296-missouri-sports-wagers-hit-325-million-in-september/"
+    ],
+    "seen": "2026-11-05"
   }
 ]
