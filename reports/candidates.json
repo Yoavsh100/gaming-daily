@@ -1291,5 +1291,16 @@
       "https://www.gamingintelligence.com/finance/238296-missouri-sports-wagers-hit-325-million-in-september/"
     ],
     "seen": "2026-11-05"
+  },
+  {
+    "key": "juris|greece|JANUARY-AUGUST 2026",
+    "type": "jurisdiction",
+    "market": "Greece",
+    "authority": null,
+    "period": "JANUARY-AUGUST 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238172-greece-gambling-revenue-tops-e2-billion-for-first-8-months-of-2026/"
+    ],
+    "seen": "2026-11-05"
   }
 ]
