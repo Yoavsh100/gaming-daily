@@ -1,27 +1,5 @@
 [
   {
-    "key": "juris|new jersey|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "New Jersey",
-    "authority": "New Jersey Division of Gaming Enforcement",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237521-new-jersey-gambling-revenue-climbs-3-in-september/"
-    ],
-    "seen": "2026-10-21"
-  },
-  {
-    "key": "juris|maryland|9M 2026",
-    "type": "jurisdiction",
-    "market": "Maryland",
-    "authority": "Maryland Lottery and Gaming",
-    "period": "9M 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/markets/north-america/237483-maryland-sports-handle-nears-5-billion-in-9m-2026/"
-    ],
-    "seen": "2026-10-21"
-  },
-  {
     "key": "juris|ivory coast|SEPTEMBER 2026",
     "type": "jurisdiction",
     "market": "Ivory Coast",
@@ -1098,7 +1076,8 @@
       "https://www.gamblinginsider.com/news/201610/sportradar-q3-2026-prediction-markets-growth",
       "https://www.gamingintelligence.com/finance/238230-sportradar-delivers-strong-revenue-and-profit-growth-in-q3-2026/",
       "https://next.io/news/results/q3-2026-betting-growth-drives-revenue-up-24-at-sportradar/",
-      "https://europeangaming.eu/portal/latest-news/2026/11/04/217372/sportradar-q3-2026-results-revenue-363m/"
+      "https://europeangaming.eu/portal/latest-news/2026/11/04/217372/sportradar-q3-2026-results-revenue-363m/",
+      "https://www.thegamblest.com/sportradar-revenue-jumps-to-24-in-q3-2026/"
     ],
     "seen": "2026-11-04"
   },
@@ -1129,7 +1108,8 @@
       "https://www.gamingintelligence.com/finance/238226-lottomatica-profits-as-revenue-grows-to-e1-72-billion-in-9m-2026/",
       "https://europeangaming.eu/portal/latest-news/2026/11/03/217297/lottomatica-9m-2026-results/",
       "https://igamingbusiness.com/finance/lottomatica-strengthens-italian-market-position-9m-earnings/",
-      "https://next.io/news/results/lottomatica-confirms-q227-closing-date-cirsa-deal/"
+      "https://next.io/news/results/lottomatica-confirms-q227-closing-date-cirsa-deal/",
+      "https://focusgn.com/lottomatica-online-market-share-growth"
     ],
     "seen": "2026-11-04"
   },
@@ -1153,7 +1133,8 @@
     "urls": [
       "https://www.gamingintelligence.com/finance/238258-online-casino-drives-super-groups-third-quarter-revenue-growth/",
       "https://next.io/news/results/q326-super-group-downgrade-full-year-guidance/",
-      "https://igamingfuture.com/super-group-q3-2026/"
+      "https://igamingfuture.com/super-group-q3-2026/",
+      "https://www.yogonet.com/international/news/2026/11/04/127170-super-group-lowers-2026-revenue-outlook-as-africa-growth-offsets-sports-weakness"
     ],
     "seen": "2026-11-04"
   },
@@ -1164,7 +1145,8 @@
     "ticker": "TIMA",
     "period": "9M 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238274-zeal-network-lauds-diversification-as-9m-revenue-nears-e200-million/"
+      "https://www.gamingintelligence.com/finance/238274-zeal-network-lauds-diversification-as-9m-revenue-nears-e200-million/",
+      "https://igamingbusiness.com/finance/zeal-reports-22-revenue-growth-sevencanyon-acquisition/"
     ],
     "seen": "2026-11-04"
   },
@@ -1175,7 +1157,8 @@
     "ticker": "RRR",
     "period": "Q3 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238267-red-rock-resorts-swings-to-loss-in-q3-after-employee-share-award/"
+      "https://www.gamingintelligence.com/finance/238267-red-rock-resorts-swings-to-loss-in-q3-after-employee-share-award/",
+      "https://www.yogonet.com/international/news/2026/11/04/127157-red-rock-raises-durango-expansion-budget-to-430m-as-las-vegas-revenue-hits-q3-record"
     ],
     "seen": "2026-11-04"
   },
@@ -1211,5 +1194,52 @@
       "https://www.gamingintelligence.com/finance/238160-arkansas-casinos-win-8-rise-in-revenue-for-september/"
     ],
     "seen": "2026-11-04"
+  },
+  {
+    "key": "FLUT|Q3 2026",
+    "type": "company",
+    "company": "Flutter Entertainment plc",
+    "ticker": "FLUT",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamblinginsider.com/news/201816/flutter-q3-2026-results-fanduel-ebitda-falls-guidance-cut",
+      "https://www.gamingintelligence.com/finance/238301-flutter-entertainment-posts-1-15-billion-loss-for-q3/",
+      "https://igamingbusiness.com/finance/flutter-cuts-fy26-guidance-brazil-exit-sports-results-hit-q3-earnings/",
+      "https://next.io/news/results/q326-flutter-cuts-outlook/"
+    ],
+    "seen": "2026-11-05"
+  },
+  {
+    "key": "cirsa|Q3 2026",
+    "type": "company",
+    "company": "CIRSA",
+    "ticker": "CIRSA",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238300-online-drives-cirsa-revenue-growth-in-third-quarter/"
+    ],
+    "seen": "2026-11-05"
+  },
+  {
+    "key": "juris|greece|2026",
+    "type": "jurisdiction",
+    "market": "Greece",
+    "authority": "Hellenic Gaming Commission",
+    "period": "2026",
+    "urls": [
+      "https://europeangaming.eu/portal/latest-news/2026/11/04/217351/greece-online-winnings-tax-july-august-hgc-data/"
+    ],
+    "seen": "2026-11-05"
+  },
+  {
+    "key": "juris|west virginia|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "West Virginia",
+    "authority": "West Virginia Lottery",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238144-west-virginia-sports-and-igaming-wagers-rise-21-in-september/"
+    ],
+    "seen": "2026-11-05"
   }
 ]
