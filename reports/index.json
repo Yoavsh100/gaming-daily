@@ -2699,5 +2699,136 @@
     "releaseDate": "21 Oct 2026",
     "model": "claude-fable-5-1",
     "costUsd": 4.86
+  },
+  {
+    "key": "juris|germany|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-05T20:22:35.114Z",
+    "status": "failed",
+    "error": "r.forecast.bridge is not iterable",
+    "type": "jurisdiction",
+    "company": {
+      "name": "Germany",
+      "ticker": ""
+    },
+    "period": "Q3 2026"
+  },
+  {
+    "key": "juris|alberta|JULY-SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-05T20:46:52.158Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "ALBERTA-JULY-SEPTEMBER-2026",
+    "published": "2026-11-05",
+    "company": {
+      "name": "Alberta",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "JULY-SEPTEMBER 2026",
+    "verdict": "Alberta's first three months as Canada's second open iGaming market produced CA$122.1m (~US$87m) of unaudited NAGGR on CA$2.89bn (~US$2.06bn) of wagers, with September alone at CA$56.6m (~US$40m) — an annualised run-rate (~CA$680m) already above the provincial government's implied Year-1 base, before October's near-doubling of live sites from 24 operators to 50-plus brands. It is a casino-led (78% of NAGGR), Ontario-template market with an effective ~22% public take on GGR, a CA$150k per-site annual fee and a near-total ban on bonus advertising; the commercial question is not whether demand exists but how much of it 50-65 brands can hold at an acceptable acquisition cost.",
+    "kpis": [
+      {
+        "label": "Q3-26 NAGGR (13 Jul–30 Sep)",
+        "value": "CA$122.1m (~US$87m)",
+        "delta": "Sep CA$56.6m, +30.7% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "Q3-26 wagers (handle)",
+        "value": "CA$2,885m (~US$2,061m)",
+        "delta": "Sep CA$1,277m, +20.0% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "Blended hold (NAGGR / wagers)",
+        "value": "4.4% (Sep)",
+        "delta": "+0.3pp MoM; Q3 4.2%",
+        "dir": "up"
+      },
+      {
+        "label": "Active player accounts (Sep)",
+        "value": "388,585",
+        "delta": "+23.7% MoM (not unique players)",
+        "dir": "up"
+      },
+      {
+        "label": "ARPPA (Sep)",
+        "value": "CA$146 (~US$104)",
+        "delta": "+5.8% MoM; Ontario ~CA$303",
+        "dir": "up"
+      },
+      {
+        "label": "Active operators (30 Sep)",
+        "value": "24",
+        "delta": "16 in Jul; 29 operators / 50 sites by 13 Oct",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "23 Oct 2026 (AiGC first Market Performance Report; data 13 Jul–30 Sep 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.32
+  },
+  {
+    "key": "juris|new york|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-05T21:01:35.491Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "NEW-YORK-SEPTEMBER-2026",
+    "published": "2026-11-05",
+    "company": {
+      "name": "New York",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "September 2026 was a volume-strong, margin-weak month for New York mobile sports betting: a record-September $2.40bn handle (+5.0% YoY) produced only $159.4m GGR (-17.7%) on a 6.6% hold, the lowest September since launch, cutting the state's 51% tax take to $81.3m. The structural story is on the ground: Resorts World NYC's April conversion to a full commercial casino lifted statewide commercial-casino GGR 220% to $184.3m while draining VLT net win 37% to $124.8m. New York remains the largest, most transparent and most heavily taxed US betting market — a scale-only proposition for B2C, with the real white space in B2B supply to the three downstate casinos and in iGaming optionality that Albany has yet to unlock.",
+    "kpis": [
+      {
+        "label": "Mobile sports handle (Sep-26)",
+        "value": "$2,401.7m",
+        "delta": "+5.0% YoY / +38.7% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "Mobile sports GGR (Sep-26)",
+        "value": "$159.4m",
+        "delta": "-17.7% YoY / -5.4% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "Mobile hold",
+        "value": "6.64%",
+        "delta": "vs 8.47% Sep-25; lowest Sept since Jan-22 launch",
+        "dir": "down"
+      },
+      {
+        "label": "State tax from mobile (51% of GGR)",
+        "value": "$81.3m",
+        "delta": "-17.7% YoY; FY26/27 YTD $564.8m (-5.8%)",
+        "dir": "down"
+      },
+      {
+        "label": "Commercial casino GGR (5 venues)",
+        "value": "$184.3m",
+        "delta": "+219.8% YoY (RWNYC $126.7m)",
+        "dir": "up"
+      },
+      {
+        "label": "VLT/VGM net win (8 racinos)",
+        "value": "$124.8m",
+        "delta": "-37% YoY (RWNYC migrated to casino licence)",
+        "dir": "down"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "7 Oct 2026 (NYSGC statewide mobile report, data through Sep-26); land-based and operator-level trade coverage 20–27 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.23
   }
 ]

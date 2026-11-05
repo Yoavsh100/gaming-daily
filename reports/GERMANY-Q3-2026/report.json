@@ -1,0 +1,1545 @@
+{
+  "company": {
+    "name": "Germany",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 1246312,
+    "output": 63308,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 52,
+    "cacheRead": 1107380,
+    "cacheWrite": 138880,
+    "turns": 1
+  },
+  "prepared": "5 Nov 2026",
+  "report": {
+    "releaseDate": "26 Oct 2026 (Q3-26 gambling-tax receipts; BMF Monatsbericht Oktober 2026 dated 22 Oct 2026; GGL Marktmonitor last updated 12 Aug 2026)",
+    "currency": "EUR (tables in millions unless stated; ~USD alongside at an assumed EUR/USD 1.17 — see confidence note)",
+    "verdict": "Germany's regulated market is growing again in 2026: Q3 gambling-tax receipts rose 11% YoY to €622.1m (~$728m) and GGL-regulated stakes were +10.9% in H1 to €7.47bn (~$8.7bn), led by online sports betting (+23% in Q2 on the World Cup) and a first loosening of slot stake caps. But the economics remain structurally thin — a 5.3% tax on stakes (≈40–50% of GGR), a €1,000 (~$1,170) cross-operator deposit cap, no online table games under the federal regime and a 23% unlicensed online share — and the next 14 months (GlüStV evaluation due end-2026, relicensing cycle from 2027) decide whether the rules loosen or tighten.",
+    "kpis": [
+      {
+        "label": "Q3-26 gambling tax (RennwLottG, cash basis)",
+        "value": "€622.1m (~$728m)",
+        "delta": "+11.0% YoY vs ~€560.5m",
+        "dir": "up"
+      },
+      {
+        "label": "H1-26 GGL-regulated stakes",
+        "value": "€7.47bn (~$8.7bn)",
+        "delta": "+10.9% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Q2-26 online sports-betting stakes",
+        "value": "€1.71bn (~$2.0bn)",
+        "delta": "+23.0% YoY (World Cup)",
+        "dir": "up"
+      },
+      {
+        "label": "Legal market GGR 2025 (all channels)",
+        "value": "€14.4bn (~$16.8bn)",
+        "delta": "~flat vs 2024 €14.4bn",
+        "dir": "flat"
+      },
+      {
+        "label": "Online channelisation (GGL survey, 2024)",
+        "value": "77%",
+        "delta": "23% unlicensed; no 2025 update",
+        "dir": "flat"
+      },
+      {
+        "label": "BMF FY-26 gambling-tax forecast",
+        "value": "€2.51bn (~$2.94bn)",
+        "delta": "+1.9% vs FY-25 €2.46bn; 9M running ~+4%",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**Q3-26 gambling tax +11% YoY to €622.1m (~$728m)** against ~€560.5m (~$656m) in Q3-25, per Gaming Intelligence's compilation of the federal/Länder tax series (Rennwett- und Lotteriesteuer category, which bundles lottery, sports-betting, virtual-slot, online-poker and horse-race taxes). BMF monthly tables show July €209m (~$245m, +26.0%) and August €219m (~$256m, +12.5%); September is therefore implied at ~€194m (~$227m, roughly −3% YoY) — a derived figure, not a published one.",
+      "**Receipts lag play by about a month** (returns are filed monthly in arrears), so Q3 cash receipts largely reflect June–August activity: the FIFA World Cup (11 Jun–19 Jul 2026) sits inside the July/August prints and explains the +26%/+12.5% spike and the September fade.",
+      "**Year-to-date is running ahead of the official forecast**: Jan–Aug receipts €1,708m (~$2.0bn, +5.2%); 9M-26 implied ~€1,902m (~$2.23bn, ~+4%). FY-25 was €2.46bn (~$2.88bn, −1%); the BMF's May-2026 (170th) tax estimate pencils FY-26 at €2,510m (~$2.94bn, +1.9%). Our estimate: FY-26 ~€2.55bn (~$2.98bn), +3–4% (see forecast).",
+      "**Lottery tax is the bulk of the category (~70%+ by our estimate)**, so an 11% rise in the aggregate implies a much sharper rise in betting-related taxes. The Q3 breakdown by tax type was not available in the sources we could access; Q4-25 sports-betting tax was reported at €121m (~$142m, +14%) by secondary press citing official data.",
+      "**The legal market is large but flat: 2025 GGR €14.4bn (~$16.8bn)**, unchanged on 2024's €14.4bn (GGL Tätigkeitsbericht 2025, published 3 Jul 2026, via trade reproductions). Growth is concentrated online; land-based AWPs (gaming halls) and state lotteries still dominate the total.",
+      "**Online is ~24% of legal GGR** on the secondary-sourced figure of ~€3.5bn (~$4.1bn) online GGR in 2025 (of which ~€2.8bn/~$3.3bn attributed to GGL-supervised licensees) — single-source, flagged [unverified]; GGL-licensed virtual slots alone generated €543m (~$635m) GGR in 2025, up double digits.",
+      "**Regulator-reported stakes confirm acceleration**: GGL Marktmonitor Q2-26 stakes in the 'dangerous' online/retail products €3,624m (~$4.24bn, +12.5% YoY); H1-26 €7,466m (~$8.7bn, +10.9%); FY-25 €13,726m (~$16.1bn). Online is 86% of these stakes (85.9% in Q2-26 vs 84.2% FY-25).",
+      "**Online sports betting is the growth engine** — Q2-26 stakes €1,711m (~$2.0bn, +23.0% YoY); H1-26 €3,520m (~$4.1bn, +17.9%); retail betting shops grew only +3.6% in Q2 to €512m (~$599m). FY-25 total betting stakes were €8,257m (~$9.7bn), 74% online.",
+      "**Virtual slots grew +8.9% to €1,214m (~$1.42bn) stakes in Q2-26** (H1 +9.1%); in July 2026 the GGL allowed stake caps of up to €5 (~$5.85) per spin for certain players subject to conditions, versus the statutory default of €1 (~$1.17) — the first material loosening since the 2021 treaty.",
+      "**Online poker is shrinking** (Q2-26 stakes €158m/~$185m, −16.8% YoY; H1 −14.0%) with only 5 licensees; online horse betting is immaterial (€28m/~$33m).",
+      "**Tax regime: turnover-based, no GGR option.** Sports betting, virtual slots, online poker and horse betting are taxed at 5.3% of the stake net of tax (≈5.03% of gross stakes); lotteries at 20% of the nominal ticket price less tax (≈16.67%). Taxes accrue to the Länder. The Federal Fiscal Court (BFH IX R 27/24, 4 Nov 2025) upheld the stake-based virtual-slot tax, explicitly rejecting a GGR base as a required milder alternative — the litigation route is effectively closed.",
+      "**Licensing: GGL (Halle/Saale) issues product-specific nationwide licences** (sports betting, virtual slots, online poker, online horse betting; lottery brokerage/social lotteries supervised). In 2025 there were 29 sports-betting licensees (27 active), 40 virtual-slot licensees (37 active) and 5 online-poker licensees. Security deposit ≥€5m (~$5.9m), scalable to €50m (~$58.5m); fees scale with expected stakes; licences run ~5 years with a new licence cycle starting 2027.",
+      "**Product rules are among Europe's tightest**: €1,000 (~$1,170)/month cross-operator deposit cap via the LUGAS limit file (raisable to €10k/~$11.7k, exceptionally €30k/~$35.1k, after affordability checks), parallel-play ban, 5-second minimum spin, no jackpots, no 'casino' branding, no table games or live casino under the federal regime (state option only; Schleswig-Holstein the sole licensor to date), restricted in-play betting.",
+      "**Advertising is rules-heavy**: a 06:00–21:00 broadcast/internet ban for virtual slots, poker and online casino; no jersey/perimeter advertising for those products; no active athletes; sports-betting advertising permitted but restricted around live broadcasts; GGL fines for breaches. OASIS cross-vertical self-exclusion (incl. gaming halls and betting shops) is mandatory.",
+      "**Channelisation 77% (GGL survey of 2,000 players, 2024 data)** — unlicensed offers took 23% of online volume; the GGL deliberately published no standalone 2025 black-market estimate and will roll the survey forward. Industry bodies (DSWV, DOCV) and the Handelsblatt Research Institute argue channelisation is materially lower.",
+      "**Enforcement has pivoted from licensing to supervision and ecosystem pressure**: 2025 saw structured oversight of licensees, Safe-Server data enforcement, actions against service providers (payments, hosting, affiliates) and platform cooperation to reduce illegal visibility; the 2024 report had identified 212 illegal operators.",
+      "**Operator landscape (shares not published by GGL)**: Tipico is widely reported as #1 in betting (retail + online), with bwin/Entain, bet365, Betano, Interwetten and Admiralbet; slots are led by local incumbents (Tipico Games, Merkur/Gauselmann — group revenue €2.1bn/~$2.5bn in 2025 — JackpotPiraten, Löwen Play) plus bwin, bet365, LeoVegas; poker by PokerStars and GGPoker; lotteries by the 16-state DLTB bloc with ZEAL/Lotto24 as the main broker (9M-26 revenue ~€200m/~$234m). [Rankings are analyst/industry knowledge, unverified in-session.]",
+      "**Payments are conventional, not mobile-money**: cards, PayPal, Klarna/Sofort, bank transfer/Trustly and Paysafecard dominate licensed deposits; crypto is not available with licensed operators; the GGL holds payment-blocking powers against illegal operators. No official payment-mix statistics are published [industry knowledge].",
+      "**Political direction**: the statutory evaluation of the GlüStV 2021 is due by end-2026 and feeds the 2027 relicensing; the treaty runs to end-2028. Our base case is incremental product liberalisation (stake flexibility, broader live betting) traded for tougher enforcement, with no change to the turnover tax base before 2028.",
+      "**Read-through for an operator**: a ~€14bn-GGR market with regulated online stakes growing double digits, but turnover tax of ~5% of stakes equates to ~40–50% of GGR (slots: implied €230m tax on €543m GGR in 2025 ≈ 42%), deposit caps compress ARPU and black-market leakage is persistent. Entry economics favour scale sportsbooks with localised slot content and a 2027-cycle licence application; sub-scale casino-only entrants struggle."
+    ],
+    "groupTable": {
+      "note": "EUR m (~USD at 1.17)",
+      "columns": [
+        "Q3-26",
+        "YoY",
+        "Q2-26",
+        "YoY",
+        "FY-25",
+        "YoY"
+      ],
+      "rows": [
+        {
+          "label": "Gambling-tax receipts — Rennwett- und Lotteriesteuer category, cash basis (BMF/Destatis)",
+          "kind": "group"
+        },
+        {
+          "label": "Total gambling tax",
+          "kind": "emphasis",
+          "cells": [
+            "622.1 (~$728m)",
+            "+11.0%",
+            "648 (~$758m)",
+            "+4.0%ᵉ",
+            "2,460 (~$2.88bn)",
+            "−1%"
+          ],
+          "footnote": "Q3 from Gaming Intelligence/Mundo Video citing official data; Q2 = Apr 204 + May 197 + Jun 247 (BMF monthly); Q2 YoY derived from BMF cumulative series."
+        },
+        {
+          "label": "July",
+          "indent": true,
+          "cells": [
+            "209 (~$245m)",
+            "+26.0%",
+            "—",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "August",
+          "indent": true,
+          "cells": [
+            "219 (~$256m)",
+            "+12.5%",
+            "—",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "September (implied, derived)",
+          "indent": true,
+          "cells": [
+            "~194 (~$227m)",
+            "~−3%ᵉ",
+            "—",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Cumulative Jan–Aug (BMF) / 9M-26 (derived)",
+          "cells": [
+            "~1,902 (~$2.23bn)",
+            "~+4%ᵉ",
+            "1,708 to Aug (~$2.0bn)",
+            "+5.2%",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "BMF FY-26 forecast (170th estimate, May-26)",
+          "cells": [
+            "FY-26e: 2,510 (~$2.94bn)",
+            "+1.9% vs FY-25",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "GGL-regulated stakes — Marktmonitor ('länderübergreifende gefährliche Glücksspiele')",
+          "kind": "group"
+        },
+        {
+          "label": "Total stakes",
+          "kind": "emphasis",
+          "cells": [
+            "n/a (due ~mid-Nov-26)",
+            "",
+            "3,624 (~$4.24bn)",
+            "+12.5%",
+            "13,726 (~$16.1bn)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "of which online",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "",
+            "3,112 (~$3.64bn)",
+            "+14.1%",
+            "11,558 (~$13.5bn)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Online sports betting",
+          "indent": true,
+          "cells": [
+            "n/a (Q3-25 base 1,399)",
+            "",
+            "1,711 (~$2.0bn)",
+            "+23.0%",
+            "6,089 (~$7.1bn)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Retail sports betting",
+          "indent": true,
+          "cells": [
+            "n/a (Q3-25 base 476)",
+            "",
+            "512 (~$599m)",
+            "+3.6%",
+            "2,168 (~$2.5bn)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Virtual slots",
+          "indent": true,
+          "cells": [
+            "n/a (Q3-25 base 1,121)",
+            "",
+            "1,214 (~$1.42bn)",
+            "+8.9%",
+            "4,566 (~$5.3bn)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Online poker",
+          "indent": true,
+          "cells": [
+            "n/a (Q3-25 base 192)",
+            "",
+            "158 (~$185m)",
+            "−16.8%",
+            "786 (~$920m)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Online horse betting",
+          "indent": true,
+          "cells": [
+            "n/a (Q3-25 base 33)",
+            "",
+            "28 (~$33m)",
+            "−12.5%",
+            "116 (~$136m)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Online share of GGL stakes",
+          "cells": [
+            "n/a",
+            "",
+            "85.9%",
+            "+1.2pp",
+            "84.2%",
+            ""
+          ]
+        },
+        {
+          "label": "Class + social lotteries (stakes)",
+          "cells": [
+            "n/a",
+            "",
+            "379 (~$443m)",
+            "+2.2%",
+            "1,502 (~$1.76bn)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Commercial lottery brokerage (stakes)",
+          "cells": [
+            "n/a",
+            "",
+            "327 (~$383m)",
+            "+36.3%",
+            "1,022 (~$1.2bn)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Market size — GGR (GGL Tätigkeitsbericht 2025, 3 Jul 2026, via trade reproductions)",
+          "kind": "group"
+        },
+        {
+          "label": "Legal market GGR, all channels",
+          "kind": "emphasis",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "14,400 (~$16.8bn)",
+            "~flat (2024: 14,400)"
+          ]
+        },
+        {
+          "label": "Online GGR, all products [single secondary source]",
+          "indent": true,
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "~3,500 (~$4.1bn) [unverified]",
+            "n/a"
+          ]
+        },
+        {
+          "label": "GGL-supervised licensees' GGR [single secondary source]",
+          "indent": true,
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "~2,800 (~$3.3bn) [unverified]",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Virtual slots GGR (GGL)",
+          "indent": true,
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "543 (~$635m)",
+            "double-digit"
+          ]
+        },
+        {
+          "label": "Online penetration (online GGR / legal GGR)",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "~24%ᵉ",
+            ""
+          ]
+        },
+        {
+          "label": "Online channelisation (GGL player survey)",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "77% (2024 data; 23% unlicensed)",
+            "no 2025 figure"
+          ]
+        },
+        {
+          "label": "Regime",
+          "kind": "group"
+        },
+        {
+          "label": "Tax base / rate — betting, slots, poker, horse",
+          "cells": [
+            "5.3% of stake net of tax (≈5.03% of gross stake); accrues to Länder",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Tax base / rate — lotteries",
+          "cells": [
+            "20% of nominal price less tax (≈16.67% of ticket)",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Licensed operators (2025)",
+          "cells": [
+            "29 sports betting (27 active) / 40 virtual slots (37 active) / 5 online poker",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Security deposit",
+          "cells": [
+            "≥€5m (~$5.9m); up to €50m (~$58.5m) by expected stakes",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Licence term / next cycle",
+          "cells": [
+            "~5 years; new licence cycle from 2027; GlüStV runs to end-2028",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Sports betting (online & retail)",
+        "headline": "World Cup pushed online betting stakes +23% in Q2-26; retail shops are flat-to-low-single-digit and losing share.",
+        "narrative": [
+          "The GGL Marktmonitor puts Q2-26 sports-betting stakes at €2,223m (~$2.6bn), +17.9% YoY, split €1,711m (~$2.0bn) online (+23.0%) and €512m (~$599m) retail (+3.6%). The quarter contained only the first three weeks of the World Cup (from 11 June), so the tournament's full effect straddles Q2 and Q3; the Q3-26 print (expected mid-November) laps a soft Q3-25 base of €1,876m (~$2.2bn) total and €1,399m (~$1.6bn) online, and July/August tax receipts (+26%/+12.5%) point to a double-digit YoY rise in Q3 stakes before a September fade.",
+          "Half-year stakes were €4,654m (~$5.4bn), +14.5% YoY, with online +17.9% to €3,520m (~$4.1bn) and retail +5.1% to €1,134m (~$1.3bn). Online's share of betting stakes has risen to 77% in Q2-26 from 74% for FY-25 (€6,089m/~$7.1bn of €8,257m/~$9.7bn). Seasonality is pronounced: Q1 and Q4 (full football calendars) run 15–25% above Q2/Q3, and retail is more seasonal than online.",
+          "Tax is 5.3% of the stake net of tax (≈5.03% of gross stakes), the same base since the 2012 federal betting tax (raised from 5.0% in July 2021). On GGL stakes this implies ~€415m (~$486m) of sports-betting tax for FY-25 and ~€112m (~$131m) for Q2-26 — consistent with the reported Q4-25 sports-betting tax of €121m (~$142m, +14%). At a typical 8–12% sportsbook hold, the stake tax absorbs roughly 40–60% of GGR, which is why most licensed books in Germany either pass the 5% through to customers or price it into margins; both compress effective odds versus offshore books.",
+          "Product constraints matter more than the headline tax: the treaty limits in-play betting to a GGL-approved catalogue (final result and limited event bets), bans betting on certain lower-tier and youth events, prohibits 'parallel play' across verticals and imposes the €1,000 (~$1,170) cross-operator monthly deposit cap, which caps high-value customers unless they clear affordability checks. Live-betting breadth is the single biggest commercial lever the 2026 evaluation could move.",
+          "Advertising for sports betting is permitted (unlike slots/poker), including sponsorship, but not with active athletes or officials and not immediately before/during live broadcasts of the event being advertised; this leaves TV, digital and football sponsorship as the acquisition channels and favours incumbents with brand scale.",
+          "The licensed field in 2025 comprised 29 licensees (27 active). Shares are not published; Tipico (an estimated 1,000+ retail outlets plus online) is widely reported as the leader, followed by bwin (Entain), bet365, Betano, Interwetten and Admiralbet (Novomatic), with Merkur Bets, bet-at-home (FY-25 revenue €48.0m/~$56m) and Winamax among the second tier [industry knowledge, unverified in-session]. Retail betting shops remain subject to state-level permits and minimum-distance rules; their stake growth (+3.6%) is well below online.",
+          "Commercial implication: a new online sportsbook entrant competes against entrenched brands with a tax-inflated cost base and constrained product; the viable approach is a differentiated product (pricing, bet-builder within the approved catalogue, live content) and a licence secured ahead of the 2027 cycle. Retail is a low-growth, state-fragmented channel that is not an obvious entry point."
+        ],
+        "table": {
+          "note": "EUR m (~USD at 1.17) — GGL Marktmonitor stakes",
+          "columns": [
+            "Q2-26",
+            "QoQ",
+            "YoY",
+            "H1-26",
+            "H1 YoY",
+            "FY-25"
+          ],
+          "rows": [
+            {
+              "label": "Online sports betting stakes",
+              "kind": "emphasis",
+              "cells": [
+                "1,711 (~$2.0bn)",
+                "−5.4%",
+                "+23.0%",
+                "3,520 (~$4.1bn)",
+                "+17.9%",
+                "6,089 (~$7.1bn)"
+              ]
+            },
+            {
+              "label": "Retail sports betting stakes",
+              "cells": [
+                "512 (~$599m)",
+                "−17.7%",
+                "+3.6%",
+                "1,134 (~$1.3bn)",
+                "+5.1%",
+                "2,168 (~$2.5bn)"
+              ]
+            },
+            {
+              "label": "Total sports betting stakes",
+              "kind": "emphasis",
+              "cells": [
+                "2,223 (~$2.6bn)",
+                "−8.6%",
+                "+17.9%",
+                "4,654 (~$5.4bn)",
+                "+14.5%",
+                "8,257 (~$9.7bn)"
+              ]
+            },
+            {
+              "label": "Online share of betting stakes",
+              "cells": [
+                "77.0%",
+                "+2.6pp",
+                "+3.2pp",
+                "75.6%",
+                "+2.2pp",
+                "73.7%"
+              ]
+            },
+            {
+              "label": "Implied betting tax at ~5.03% of gross stakes (est.)",
+              "cells": [
+                "~112 (~$131m)",
+                "",
+                "",
+                "~234 (~$274m)",
+                "",
+                "~415 (~$486m)"
+              ],
+              "footnote": "Analyst estimate; cross-check: Q4-25 sports-betting tax reported at €121m (~$142m, +14%) by secondary press citing official data."
+            },
+            {
+              "label": "Q3-25 base for the next print",
+              "cells": [
+                "online 1,399 (~$1.6bn); retail 476 (~$557m); total 1,876 (~$2.2bn)",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Licensees (2025)",
+              "cells": [
+                "29 (27 active)",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Tax base / rate",
+              "cells": [
+                "5.3% of stake net of tax (≈5.03% gross); Länder tax",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Q2-26 stakes",
+            "takeaway": "World Cup lifted Q2-26 sports-betting stakes to €2,223m (~$2.6bn), +17.9% YoY, with online +23.0% and retail +3.6%.",
+            "points": [
+              "Split: €1,711m (~$2.0bn) online (+23.0%) and €512m (~$599m) retail (+3.6%).",
+              "Quarter contained only the first three weeks of the World Cup (from 11 June); full effect straddles Q2 and Q3.",
+              "Q3-26 print (expected mid-November) laps a soft Q3-25 base of €1,876m (~$2.2bn) total and €1,399m (~$1.6bn) online.",
+              "July/August tax receipts (+26%/+12.5%) point to a double-digit YoY rise in Q3 stakes before a September fade."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Half-year and mix",
+            "takeaway": "H1-26 stakes were €4,654m (~$5.4bn), +14.5% YoY; online share rose to 77% in Q2-26 from 74% for FY-25.",
+            "points": [
+              "Online +17.9% to €3,520m (~$4.1bn); retail +5.1% to €1,134m (~$1.3bn).",
+              "FY-25: €6,089m (~$7.1bn) online of €8,257m (~$9.7bn) total.",
+              "Seasonality is pronounced: Q1 and Q4 (full football calendars) run 15–25% above Q2/Q3; retail is more seasonal than online."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Stake tax",
+            "takeaway": "Tax of 5.3% of stake net of tax (≈5.03% gross) absorbs roughly 40–60% of GGR at a typical 8–12% hold.",
+            "points": [
+              "Same base since the 2012 federal betting tax (raised from 5.0% in July 2021).",
+              "Implied sports-betting tax ~€415m (~$486m) for FY-25 and ~€112m (~$131m) for Q2-26.",
+              "Consistent with reported Q4-25 sports-betting tax of €121m (~$142m, +14%).",
+              "Most licensed books pass the 5% through to customers or price it into margins; both compress effective odds versus offshore books."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Product constraints",
+            "takeaway": "Product constraints matter more than the headline tax; live-betting breadth is the single biggest commercial lever the 2026 evaluation could move.",
+            "points": [
+              "In-play betting limited to a GGL-approved catalogue (final result and limited event bets).",
+              "Bans on certain lower-tier and youth events; 'parallel play' across verticals prohibited.",
+              "€1,000 (~$1,170) cross-operator monthly deposit cap caps high-value customers unless they clear affordability checks."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Advertising",
+            "takeaway": "Sports-betting advertising and sponsorship are permitted, which favours incumbents with brand scale.",
+            "points": [
+              "Not with active athletes or officials, and not immediately before/during live broadcasts of the event being advertised.",
+              "TV, digital and football sponsorship remain the acquisition channels, unlike slots/poker."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Competitive field",
+            "takeaway": "29 licensees (27 active) in 2025; Tipico is widely reported as leader, with retail shops growing well below online.",
+            "points": [
+              "Tipico: an estimated 1,000+ retail outlets plus online; followed by bwin (Entain), bet365, Betano, Interwetten and Admiralbet (Novomatic).",
+              "Second tier: Merkur Bets, bet-at-home (FY-25 revenue €48.0m/~$56m) and Winamax [industry knowledge, unverified in-session].",
+              "Shares are not published.",
+              "Retail shops subject to state-level permits and minimum-distance rules; stake growth +3.6%."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Commercial implication",
+            "takeaway": "A new online entrant faces entrenched brands, a tax-inflated cost base and constrained product; retail is not an obvious entry point.",
+            "points": [
+              "Viable approach: differentiated product (pricing, bet-builder within the approved catalogue, live content) and a licence secured ahead of the 2027 cycle.",
+              "Retail is a low-growth, state-fragmented channel."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Virtual slots & online poker (online casino under the federal regime)",
+        "headline": "Slots stakes +9% and GGR €543m in 2025 with the first stake-cap relaxation; poker keeps shrinking; table games remain a state-level exception.",
+        "narrative": [
+          "Virtual-slot stakes reached €1,214m (~$1.42bn) in Q2-26, +8.9% YoY and +1.1% QoQ, taking H1-26 to €2,415m (~$2.8bn, +9.1%). FY-25 stakes were €4,566m (~$5.3bn); the GGL's 2025 activity report puts licensed slot GGR at €543m (~$635m), up double digits in a legal market that was otherwise flat. The implied 11.9% GGR/stakes ratio is high for slots and likely reflects German RTP settings lowered to absorb the stake tax; we present both figures as reported rather than reconcile them.",
+          "The tax is 5.3% of stakes net of tax (≈5.03% gross), yielding an implied ~€230m (~$269m) for FY-25 — roughly 42% of reported slot GGR, before any VAT on services, platform fees or the ≥€5m (~$5.9m) security deposit. The BFH (IX R 27/24, 4 Nov 2025) confirmed the tax is constitutional and found that a GGR-based alternative was not a required milder means, closing the legal challenge that operators had pinned hopes on. Historic tax receipts have been volatile — Destatis reported virtual-slot tax of ~€264m (~$309m) for 2023, −38.5% YoY — so treat trend series with care.",
+          "Product rules under §22a GlüStV: a statutory default stake of €1 (~$1.17) per spin, minimum 5-second spin, no jackpots, no autoplay, no use of the word 'casino', per-game approval by the GGL, no simultaneous play across verticals and the €1,000 (~$1,170) cross-operator deposit cap. In July 2026 the GGL permitted stakes of up to €5 (~$5.85) per spin for certain players subject to conditions — the first material loosening since 2021 and a signal of the direction of travel into the evaluation. This widens the addressable higher-value segment but does not touch the deposit cap, which remains the binding constraint on ARPU.",
+          "Table games (roulette, blackjack, live dealer) are not licensable at federal level: §22c leaves them to each Land, capped at the number of land-based casino concessions, and only Schleswig-Holstein has issued such licences to date [industry knowledge]. This is the largest structural leakage to the black market — the 23% unlicensed share is concentrated in online casino games the GGL cannot license.",
+          "The licensed slot field was 40 operators (37 active) in 2025; one trade source counts 34 whitelist entries at 7 Sep 2026 [unverified]. Leaders are predominantly German land-based incumbents that have ported their content online (Tipico Games, Merkur/Gauselmann, JackpotPiraten/Bally Wulff, Löwen Play) plus international brands (bwin, bet365, LeoVegas, Betano, Wildz). Shares are not published; the GGL's Safe-Server data may eventually allow it to.",
+          "Online poker has only 5 licensees (PokerStars, GGPoker, bwin/partypoker among them) and is in structural decline: Q2-26 stakes €158m (~$185m), −16.8% YoY; FY-25 €786m (~$920m). Liquidity is ring-fenced to Germany, stakes are taxed at 5.3% (not rake), and table/buy-in limits apply — a product that is sub-scale for new entrants.",
+          "Commercial implication: slots are the only online product with both growth and meaningful GGR, but the tax-to-GGR ratio (~40%+), content approval process and marketing blackout (06:00–21:00) favour operators with a sportsbook cross-sell and local content IP. A standalone casino licence is hard to justify unless the 2027 cycle brings table games or higher caps."
+        ],
+        "table": {
+          "note": "EUR m (~USD at 1.17) — GGL Marktmonitor stakes; GGR from GGL 2025 report",
+          "columns": [
+            "Q2-26",
+            "QoQ",
+            "YoY",
+            "H1-26",
+            "H1 YoY",
+            "FY-25"
+          ],
+          "rows": [
+            {
+              "label": "Virtual slots stakes",
+              "kind": "emphasis",
+              "cells": [
+                "1,214 (~$1.42bn)",
+                "+1.1%",
+                "+8.9%",
+                "2,415 (~$2.8bn)",
+                "+9.1%",
+                "4,566 (~$5.3bn)"
+              ]
+            },
+            {
+              "label": "Online poker stakes",
+              "cells": [
+                "158 (~$185m)",
+                "−15.1%",
+                "−16.8%",
+                "344 (~$402m)",
+                "−14.0%",
+                "786 (~$920m)"
+              ]
+            },
+            {
+              "label": "Online horse betting stakes",
+              "cells": [
+                "28 (~$33m)",
+                "+21.7%",
+                "−12.5%",
+                "51 (~$60m)",
+                "−10.5%",
+                "116 (~$136m)"
+              ]
+            },
+            {
+              "label": "Virtual slots GGR (GGL)",
+              "cells": [
+                "n/a",
+                "",
+                "",
+                "n/a",
+                "",
+                "543 (~$635m), double-digit growth"
+              ]
+            },
+            {
+              "label": "Implied slot GGR / stakes",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "~11.9%ᵉ"
+              ]
+            },
+            {
+              "label": "Implied slot tax at ~5.03% of stakes (est.)",
+              "cells": [
+                "~61 (~$71m)",
+                "",
+                "",
+                "~121 (~$142m)",
+                "",
+                "~230 (~$269m) ≈ 42% of GGR"
+              ]
+            },
+            {
+              "label": "Implied poker tax at ~5.03% (est.)",
+              "cells": [
+                "~8 (~$9m)",
+                "",
+                "",
+                "~17 (~$20m)",
+                "",
+                "~40 (~$47m)"
+              ]
+            },
+            {
+              "label": "Licensees (2025)",
+              "cells": [
+                "40 slots (37 active); 5 poker",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Stake cap per spin",
+              "cells": [
+                "€1 (~$1.17) default; up to €5 (~$5.85) conditional since Jul-26",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Deposit cap (cross-operator, LUGAS)",
+              "cells": [
+                "€1,000 (~$1,170)/month; €10k (~$11.7k) / €30k (~$35.1k) with affordability checks",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Slot stakes and GGR",
+            "takeaway": "Virtual-slot stakes hit €1,214m (~$1.42bn) in Q2-26, +8.9% YoY; FY-25 licensed slot GGR was €543m (~$635m), up double digits.",
+            "points": [
+              "Q2-26 +1.1% QoQ; H1-26 €2,415m (~$2.8bn, +9.1%).",
+              "FY-25 stakes €4,566m (~$5.3bn); GGR growth came in a legal market that was otherwise flat.",
+              "Implied 11.9% GGR/stakes ratio is high for slots, likely reflecting German RTP settings lowered to absorb the stake tax; figures presented as reported."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Slot tax",
+            "takeaway": "Tax of 5.3% net (≈5.03% gross) implies ~€230m (~$269m) for FY-25, roughly 42% of reported slot GGR, now judicially entrenched.",
+            "points": [
+              "Before any VAT on services, platform fees or the ≥€5m (~$5.9m) security deposit.",
+              "BFH (IX R 27/24, 4 Nov 2025) confirmed the tax constitutional; a GGR-based alternative was not a required milder means.",
+              "Destatis reported virtual-slot tax of ~€264m (~$309m) for 2023, −38.5% YoY — treat trend series with care."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Product rules",
+            "takeaway": "July 2026 permitted stakes up to €5 (~$5.85) per spin for certain players — the first material loosening since 2021 — but the deposit cap remains binding.",
+            "points": [
+              "§22a GlüStV: default €1 (~$1.17) per spin, minimum 5-second spin, no jackpots, no autoplay, no use of the word 'casino'.",
+              "Per-game GGL approval, no simultaneous play across verticals, €1,000 (~$1,170) cross-operator deposit cap.",
+              "Relaxation widens the addressable higher-value segment but does not touch the deposit cap, the binding constraint on ARPU."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Table games",
+            "takeaway": "Table games are a state-level exception under §22c and the largest structural leakage to the black market.",
+            "points": [
+              "Licences capped at the number of land-based casino concessions; only Schleswig-Holstein has issued them [industry knowledge].",
+              "The 23% unlicensed share is concentrated in online casino games the GGL cannot license."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Slot operators",
+            "takeaway": "40 licensed slot operators (37 active) in 2025, led by German land-based incumbents that ported content online.",
+            "points": [
+              "One trade source counts 34 whitelist entries at 7 Sep 2026 [unverified].",
+              "Leaders: Tipico Games, Merkur/Gauselmann, JackpotPiraten/Bally Wulff, Löwen Play plus bwin, bet365, LeoVegas, Betano, Wildz.",
+              "Shares not published; GGL Safe-Server data may eventually allow it."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Online poker",
+            "takeaway": "Online poker has only 5 licensees and is in structural decline: Q2-26 stakes €158m (~$185m), −16.8% YoY.",
+            "points": [
+              "FY-25 stakes €786m (~$920m); licensees include PokerStars, GGPoker, bwin/partypoker.",
+              "Liquidity ring-fenced to Germany, stakes taxed at 5.3% (not rake), table/buy-in limits apply — sub-scale for new entrants."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Commercial implication",
+            "takeaway": "Slots are the only online product with growth and meaningful GGR, but a standalone casino licence is hard to justify.",
+            "points": [
+              "Tax-to-GGR ratio (~40%+), content approval process and 06:00–21:00 marketing blackout favour operators with sportsbook cross-sell and local content IP.",
+              "Case improves only if the 2027 cycle brings table games or higher caps."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Lotteries, land-based & retail",
+        "headline": "State lottery monopoly and gaming halls still anchor the €14.4bn legal market; GGL-supervised lottery stakes are flat, but commercial brokerage is growing fast.",
+        "narrative": [
+          "The legal German market produced €14.4bn (~$16.8bn) of GGR in 2025, flat on 2024 per the GGL's activity report (3 Jul 2026, via trade reproductions). The GGL and trade sources describe gaming machines (Geldspielgeräte in Spielhallen and hospitality) and the 16-state DLTB lottery bloc as the two largest components; a verified product split of the €14.4bn was not obtainable in-session and is shown as n/a. Online — ~€3.5bn (~$4.1bn) GGR on a single secondary source — is therefore only ~24% of the legal total, far below the UK or Nordics.",
+          "Lotteries are a state monopoly (Lotto 6aus49, Eurojackpot, Spiel 77, GlücksSpirale) run by the Länder companies; the GGL supervises only the cross-state pieces: class lotteries (NKL/SKL), social lotteries (Aktion Mensch, Deutsche Fernsehlotterie, Deutsche Postcode Lotterie) and commercial lottery brokerage. Q2-26 class + social lottery stakes were €379m (~$443m), +2.2% YoY, with class lotteries −17.2% to €48m (~$56m) and social lotteries +5.8% to €331m (~$387m); FY-25 totalled €1,502m (~$1.76bn). Commercial brokerage (ZEAL/Lotto24, Tipp24, Lottohelden and peers) grew +36.3% YoY to €327m (~$383m) in Q2-26 and +21.1% in H1 to €585m (~$684m), the fastest-growing GGL-supervised line.",
+          "Lottery tax — 20% of the nominal ticket price less tax (≈16.67%) — is the largest element of the Rennwett- und Lotteriesteuer category: subtracting our implied ~€690m (~$808m) of betting/slot/poker/horse taxes from the €2.46bn (~$2.88bn) FY-25 total leaves roughly €1.77bn (~$2.07bn), or ~72%, for lotteries and residual items (for reference, lottery tax was €1,648m/~$1.93bn in 2021). Jackpot cycles (Eurojackpot) therefore move quarterly receipts independently of betting activity.",
+          "Land-based gaming machines are regulated under the federal Trade Regulation Act and Gaming Ordinance (SpielV) with state Spielhallen laws imposing minimum distances, licensing caps and the OASIS exclusion check at the door; the sector has been contracting in venue count for a decade under those rules [industry knowledge; no verified 2025 count]. Casinos (Spielbanken) are state concessions taxed via state-specific casino levies on GGR, outside the RennwLottG series. Retail betting shops (stakes €2,168m/~$2.5bn in FY-25, +5.1% in H1-26) need both a GGL sports-betting licence and state shop permits.",
+          "Commercial implication: lotteries are closed to private operators except as brokers (a 'gewerbliche Spielvermittlung' permit), where ZEAL has a scale lead; land-based AWPs are a domestic-incumbent business (Gauselmann/Merkur, Novomatic/Löwen Play, Bally Wulff) that is also the content source for online slots. For a foreign-origin operator the relevant takeaway is that ~75% of German GGR sits in channels it cannot address online, which caps the online prize at a few billion euros of GGR."
+        ],
+        "table": {
+          "note": "EUR m (~USD at 1.17) — GGL Marktmonitor stakes; GGR per GGL 2025 report",
+          "columns": [
+            "Q2-26",
+            "QoQ",
+            "YoY",
+            "H1-26",
+            "H1 YoY",
+            "FY-25"
+          ],
+          "rows": [
+            {
+              "label": "Class lotteries (stakes)",
+              "cells": [
+                "48 (~$56m)",
+                "−11.1%",
+                "−17.2%",
+                "102 (~$119m)",
+                "−14.3%",
+                "230 (~$269m)"
+              ]
+            },
+            {
+              "label": "Social lotteries (stakes)",
+              "cells": [
+                "331 (~$387m)",
+                "+0.9%",
+                "+5.8%",
+                "659 (~$771m)",
+                "+4.9%",
+                "1,271 (~$1.49bn)"
+              ]
+            },
+            {
+              "label": "Class + social lotteries (stakes)",
+              "kind": "emphasis",
+              "cells": [
+                "379 (~$443m)",
+                "−0.8%",
+                "+2.2%",
+                "761 (~$890m)",
+                "+1.7%",
+                "1,502 (~$1.76bn)"
+              ]
+            },
+            {
+              "label": "Commercial lottery brokerage (stakes)",
+              "cells": [
+                "327 (~$383m)",
+                "+26.7%",
+                "+36.3%",
+                "585 (~$684m)",
+                "+21.1%",
+                "1,022 (~$1.2bn)"
+              ]
+            },
+            {
+              "label": "Retail sports betting (stakes)",
+              "cells": [
+                "512 (~$599m)",
+                "−17.7%",
+                "+3.6%",
+                "1,134 (~$1.3bn)",
+                "+5.1%",
+                "2,168 (~$2.5bn)"
+              ]
+            },
+            {
+              "label": "Legal market GGR, all channels",
+              "kind": "emphasis",
+              "cells": [
+                "n/a",
+                "",
+                "",
+                "n/a",
+                "",
+                "14,400 (~$16.8bn), ~flat"
+              ]
+            },
+            {
+              "label": "Land-based AWP / casino / state-lottery GGR split",
+              "cells": [
+                "n/a [not obtained]",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Lottery tax rate",
+              "cells": [
+                "20% of nominal price less tax (≈16.67%)",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Implied lottery + residual share of FY-25 gambling tax (est.)",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "~1,770 (~$2.07bn) ≈ 72%"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Legal market size",
+            "takeaway": "Legal German GGR was €14.4bn (~$16.8bn) in 2025, flat on 2024, with online only ~24% of the total.",
+            "points": [
+              "Per GGL activity report (3 Jul 2026, via trade reproductions); gaming machines and the 16-state DLTB lottery bloc are the two largest components.",
+              "Verified product split not obtainable in-session, shown as n/a.",
+              "Online ~€3.5bn (~$4.1bn) GGR on a single secondary source — far below the UK or Nordics."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Lotteries",
+            "takeaway": "State monopoly lotteries sit outside GGL; GGL-supervised class/social stakes were €379m (~$443m) in Q2-26, +2.2% YoY, while brokerage grew +36.3%.",
+            "points": [
+              "GGL supervises class lotteries (NKL/SKL), social lotteries (Aktion Mensch, Deutsche Fernsehlotterie, Deutsche Postcode Lotterie) and commercial brokerage.",
+              "Class lotteries −17.2% to €48m (~$56m); social lotteries +5.8% to €331m (~$387m); FY-25 total €1,502m (~$1.76bn).",
+              "Commercial brokerage (ZEAL/Lotto24, Tipp24, Lottohelden) €327m (~$383m) in Q2-26, +21.1% in H1 to €585m (~$684m) — fastest-growing GGL-supervised line."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Lottery tax",
+            "takeaway": "Lottery tax (20% of nominal price less tax, ≈16.67%) accounts for roughly €1.77bn (~$2.07bn), ~72%, of FY-25 receipts.",
+            "points": [
+              "Derived by subtracting implied ~€690m (~$808m) betting/slot/poker/horse taxes from the €2.46bn (~$2.88bn) FY-25 total.",
+              "Lottery tax was €1,648m (~$1.93bn) in 2021.",
+              "Eurojackpot cycles move quarterly receipts independently of betting activity."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Land-based channels",
+            "takeaway": "Gaming machines, casinos and retail betting shops are state-regulated channels; machine venue count has contracted for a decade.",
+            "points": [
+              "Machines regulated under federal Trade Regulation Act and SpielV with state Spielhallen laws: minimum distances, licensing caps, OASIS check [no verified 2025 count].",
+              "Casinos (Spielbanken) are state concessions taxed via state-specific levies on GGR, outside the RennwLottG series.",
+              "Retail betting shops (stakes €2,168m/~$2.5bn in FY-25, +5.1% in H1-26) need both a GGL licence and state shop permits."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Commercial implication",
+            "takeaway": "~75% of German GGR sits in channels a foreign operator cannot address online, capping the online prize at a few billion euros of GGR.",
+            "points": [
+              "Lotteries closed to private operators except as brokers ('gewerbliche Spielvermittlung' permit), where ZEAL has a scale lead.",
+              "Land-based AWPs are a domestic-incumbent business (Gauselmann/Merkur, Novomatic/Löwen Play, Bally Wulff) that also supplies online slot content."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Licensing & tax regime",
+        "headline": "Product-specific GGL licences with a 2027 renewal cycle; a turnover tax now judicially entrenched; the end-2026 treaty evaluation is the only policy catalyst.",
+        "narrative": [
+          "The legal frame is the Interstate Treaty on Gambling 2021 (Glücksspielstaatsvertrag, in force 1 Jul 2021), which for the first time permitted online sports betting, virtual slots and online poker nationwide and created the Gemeinsame Glücksspielbehörde der Länder (GGL) in Halle (Saale), fully competent since 1 Jan 2023. The treaty runs to 31 Dec 2028 and §32 mandates an evaluation of its effects, with the report due by end-2026; the GGL's July 2026 outlook names that evaluation and the 'new licence cycle from 2027' as its priorities, alongside data-driven supervision.",
+          "Licences are per product (sports betting incl. retail distribution, virtual slots, online poker, online horse betting; lottery brokerage, class and social lotteries) and are granted to EU/EEA-seated companies for a fixed term — the first-generation online licences from 2020–22 expire into the 2027 cycle. Conditions include a security deposit of at least €5m (~$5.9m), scalable up to €50m (~$58.5m) with expected monthly stakes; a 'Safe Server' in Germany recording all transactions for the regulator; mandatory connection to LUGAS (limit file), OASIS (exclusion register) and the activity file; a social concept, AML programme and GGL approval of each slot game. Licence fees are assessed on expected annual stakes on a sliding scale under §9a(4) GlüStV, starting at 0.2% of the lowest tranche [exact tranches unverified in-session]; in 2025 the GGL had 29 betting, 40 slot and 5 poker licensees.",
+          "Taxes sit in the federal Rennwett- und Lotteriegesetz but accrue to the Länder: sports betting 5.3%, virtual slots 5.3% (§§36–38), online poker 5.3% (§§46–48) and horse betting 5.3%, each on the stake net of tax (≈5.03% of gross), filed monthly by the 15th with the Frankfurt am Main III tax office for foreign-seated operators; lottery tax is 20% of the nominal price less tax. Player winnings are untaxed. Receipts were €2.46bn (~$2.88bn) in 2025 (−1%), €1,708m (~$2.0bn) in Jan–Aug 2026 (+5.2%) and €622.1m (~$728m) in Q3-26 (+11%); the BMF projects €2,510m (~$2.94bn) for 2026.",
+          "The constitutionality and EU-law compatibility of the turnover base have been litigated and lost by operators: a Hamburg finance court upheld the betting tax in 2021, and the BFH's 4 Nov 2025 judgment (IX R 27/24) upheld the virtual-slot tax, holding that no milder equally effective instrument — specifically a GGR base — was evident. An EGBA state-aid complaint to the European Commission over the turnover tax has not produced a change [status unverified]. For modelling, assume the stake base persists through 2028.",
+          "Online casino table games remain a Land option (§22c) with licence numbers capped by land-based concessions; only Schleswig-Holstein has licensed them. Land-based casinos, gaming halls and state lotteries are regulated and taxed separately by each Land. This three-layer structure (federal tax law, interstate treaty, state execution) is the source of most compliance friction — a single national licence does not cover retail distribution or table games.",
+          "Commercial implication for a 2027 entrant: budget the security deposit, German hosting and three mandatory system integrations before any marketing; expect per-game approval lead times for slots; and plan on a tax burden of ~40–50% of GGR with no VAT recovery. The upside case is that the evaluation widens live betting and stake flexibility; the downside is a stricter affordability regime and advertising limits in exchange."
+        ],
+        "table": {
+          "note": "Regime parameter",
+          "columns": [
+            "Rule / value",
+            "Source basis"
+          ],
+          "rows": [
+            {
+              "label": "Enabling law",
+              "cells": [
+                "GlüStV 2021 (in force 1 Jul 2021; runs to 31 Dec 2028); RennwLottG (tax)",
+                "Legislation; GGL PR 3 Jul 2026"
+              ]
+            },
+            {
+              "label": "Regulator",
+              "cells": [
+                "GGL, Halle (Saale); full competence since 1 Jan 2023; Länder for retail, casinos, AWPs, table games",
+                "GGL"
+              ]
+            },
+            {
+              "label": "Licence types (GGL)",
+              "cells": [
+                "Sports betting; virtual slots; online poker; online horse betting; lottery brokerage; class/social lotteries",
+                "GGL"
+              ]
+            },
+            {
+              "label": "Licensees 2025",
+              "cells": [
+                "29 betting (27 active) / 40 slots (37 active) / 5 poker",
+                "GGL 2025 report via GlücksWirtschaft"
+              ]
+            },
+            {
+              "label": "Licence term / next cycle",
+              "cells": [
+                "~5 years; new cycle from 2027",
+                "GGL PR 3 Jul 2026"
+              ]
+            },
+            {
+              "label": "Security deposit",
+              "cells": [
+                "≥€5m (~$5.9m), up to €50m (~$58.5m)",
+                "GlüStV §4c [analyst knowledge]"
+              ]
+            },
+            {
+              "label": "Licence fee",
+              "cells": [
+                "% of expected annual stakes, sliding scale from 0.2% [tranches unverified]",
+                "GlüStV §9a(4) [analyst knowledge]"
+              ]
+            },
+            {
+              "label": "Tax — betting / slots / poker / horse",
+              "cells": [
+                "5.3% of stake net of tax (≈5.03% gross); monthly filing",
+                "RennwLottG §§17–18, 36–38, 46–48"
+              ]
+            },
+            {
+              "label": "Tax — lotteries",
+              "cells": [
+                "20% of nominal price less tax (≈16.67%)",
+                "RennwLottG"
+              ]
+            },
+            {
+              "label": "Tax take FY-25 / 9M-26 / Q3-26",
+              "cells": [
+                "€2,460m (~$2.88bn) / ~€1,902m (~$2.23bn)ᵉ / €622.1m (~$728m)",
+                "BMF; Gaming Intelligence"
+              ]
+            },
+            {
+              "label": "BMF FY-26 forecast",
+              "cells": [
+                "€2,510m (~$2.94bn), +1.9%",
+                "BMF 170th tax estimate"
+              ]
+            },
+            {
+              "label": "Key court ruling",
+              "cells": [
+                "BFH IX R 27/24 (4 Nov 2025): slot stake tax upheld; GGR base not required",
+                "Bundesfinanzhof"
+              ]
+            },
+            {
+              "label": "Evaluation deadline",
+              "cells": [
+                "GlüStV evaluation report due 31 Dec 2026",
+                "GlüStV §32; GGL PR"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Legal framework",
+            "takeaway": "The 2021 Interstate Treaty runs to 31 Dec 2028; the §32 evaluation due end-2026 is the only policy catalyst.",
+            "points": [
+              "Treaty in force 1 Jul 2021 first permitted online sports betting, virtual slots and online poker nationwide.",
+              "GGL in Halle (Saale) fully competent since 1 Jan 2023.",
+              "GGL's July 2026 outlook names the evaluation and the 'new licence cycle from 2027' as priorities, alongside data-driven supervision."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Licence conditions",
+            "takeaway": "Per-product licences for EU/EEA companies carry a security deposit of at least €5m (~$5.9m), scalable to €50m (~$58.5m).",
+            "points": [
+              "First-generation online licences from 2020–22 expire into the 2027 cycle.",
+              "Requirements: German 'Safe Server', connection to LUGAS, OASIS and activity file, social concept, AML programme, GGL approval of each slot game.",
+              "Fees on expected annual stakes under §9a(4) GlüStV, starting at 0.2% of the lowest tranche [exact tranches unverified in-session].",
+              "2025: 29 betting, 40 slot and 5 poker licensees."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Tax rates and receipts",
+            "takeaway": "All online verticals taxed at 5.3% of stake net of tax; receipts were €2.46bn (~$2.88bn) in 2025 (−1%), with €2,510m (~$2.94bn) projected for 2026.",
+            "points": [
+              "Sports betting, virtual slots (§§36–38), online poker (§§46–48) and horse betting 5.3% (≈5.03% gross); lottery 20% of nominal price less tax.",
+              "Filed monthly by the 15th with Frankfurt am Main III tax office for foreign-seated operators; player winnings untaxed.",
+              "Jan–Aug 2026 €1,708m (~$2.0bn, +5.2%); Q3-26 €622.1m (~$728m, +11%)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Litigation",
+            "takeaway": "Operators have litigated and lost on the turnover base; assume the stake base persists through 2028.",
+            "points": [
+              "Hamburg finance court upheld the betting tax in 2021.",
+              "BFH 4 Nov 2025 judgment (IX R 27/24) upheld the slot tax; no milder equally effective instrument, specifically a GGR base, was evident.",
+              "EGBA state-aid complaint to the European Commission has not produced a change [status unverified]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Three-layer structure",
+            "takeaway": "Federal tax law, interstate treaty and state execution create most compliance friction; a national licence does not cover retail or table games.",
+            "points": [
+              "Online table games remain a Land option (§22c), capped by land-based concessions; only Schleswig-Holstein has licensed them.",
+              "Land-based casinos, gaming halls and state lotteries are regulated and taxed separately by each Land."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Commercial implication",
+            "takeaway": "A 2027 entrant should plan on a tax burden of ~40–50% of GGR with no VAT recovery.",
+            "points": [
+              "Budget the security deposit, German hosting and three mandatory system integrations before any marketing; expect per-game approval lead times for slots.",
+              "Upside: evaluation widens live betting and stake flexibility; downside: stricter affordability regime and advertising limits in exchange."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Payments, responsible gambling, advertising & enforcement",
+        "headline": "Conventional card/wallet payments under a tight RG architecture (LUGAS/OASIS); advertising blackout for casino products; enforcement now targets the illegal ecosystem rather than just operators.",
+        "narrative": [
+          "Germany is a card-and-wallet market: licensed deposits run on Visa/Mastercard, PayPal (available to licensed operators), Klarna/Sofort bank transfer, SEPA transfer and Trustly, and Paysafecard vouchers; giropay was retired at end-2024 and crypto is not permitted for licensees [industry knowledge; no official payment-mix statistics are published]. Every deposit must be checked against LUGAS, the cross-operator limit file enforcing the €1,000 (~$1,170) monthly cap, which makes payment orchestration a compliance function as much as a conversion one. The GGL can order payment-service providers to stop processing for named illegal operators (§9 GlüStV), and in 2025 it explicitly extended enforcement to 'participating service providers'.",
+          "Responsible-gambling architecture is the most prescriptive in Europe: OASIS cross-vertical self-exclusion (online, betting shops, gaming halls, casinos; minimum three months, third-party exclusion possible); LUGAS deposit limits raisable to €10k (~$11.7k) and exceptionally €30k (~$35.1k) only with affordability evidence and for a small share of customers; an activity file preventing simultaneous play across operators and verticals with a five-minute cooling-off when switching products; a 24-hour 'panic button'; mandatory automated early-detection systems; and per-spin, per-game and per-session rules for slots. These rules, not the tax, are what cap VIP revenue — and the July 2026 stake-cap relaxation shows the GGL is willing to flex within the architecture rather than dismantle it.",
+          "Advertising under §5 GlüStV: a 06:00–21:00 ban on broadcast and internet advertising for virtual slots, online poker and online casino games; a prohibition on advertising those products on sports jerseys and perimeter boards; no use of active athletes or officials; no targeting of minors or self-excluded persons; sports-betting advertising permitted but not immediately before or during live broadcasts of the advertised event. The GGL issued fines and prohibition orders for advertising and affiliate breaches in 2024–25 and has issued guidance on influencer/social-media marketing [specific case figures not verified in-session].",
+          "Enforcement in 2025 shifted from issuing licences to structured supervision — supervisory meetings, cause-based and random audits, and enforcing correct Safe-Server reporting — and to 'whole-ecosystem' action against illegal supply: service providers, hosting, affiliates and platform cooperation (search/app stores/social) to reduce visibility. The GGL's 2024 report had identified 212 illegal operators; network (DNS/IP) blocking of access providers suffered court setbacks in 2023, which is why the authority has leaned on payment blocking, platform takedowns and prohibition orders [court detail unverified in-session].",
+          "The GGL's channelisation study (online panel, 2,000 players, 2024 data) found 77% of online volume with licensed operators and 23% with unlicensed ones; the 2025 report deliberately published no new black-market estimate and will repeat the survey, feeding the treaty evaluation. The industry's counter-evidence (DSWV/DOCV commissions, Handelsblatt Research Institute, Oct 2025) places channelisation materially lower, especially in casino games the federal regime cannot license. For an operator the practical point is that the unlicensed market is sizeable, visible and only partially suppressed — it competes on stake caps, deposit caps, table games and bonusing.",
+          "Commercial implication: a licensed entrant must build a German-specific KYC/limits/affordability stack (LUGAS/OASIS/activity file, Safe Server) and a marketing plan that lives with a daytime blackout and no sports-kit visibility for casino. The compensating advantage is regulatory moat: compliant operators face a shrinking pool of credible licensed competitors and an authority that is now actively degrading the black market's distribution and payments."
+        ],
+        "table": {
+          "note": "Rule / indicator",
+          "columns": [
+            "Value",
+            "Basis"
+          ],
+          "rows": [
+            {
+              "label": "Cross-operator deposit cap",
+              "cells": [
+                "€1,000 (~$1,170)/month; €10k (~$11.7k)–€30k (~$35.1k) with affordability checks",
+                "GlüStV §6c [analyst knowledge]"
+              ]
+            },
+            {
+              "label": "Self-exclusion register",
+              "cells": [
+                "OASIS, cross-vertical incl. land-based; min 3 months",
+                "GlüStV §8"
+              ]
+            },
+            {
+              "label": "Parallel play / cooling-off",
+              "cells": [
+                "Prohibited across operators & verticals; 5-min switch delay",
+                "GlüStV §6h"
+              ]
+            },
+            {
+              "label": "Slot per-spin stake",
+              "cells": [
+                "€1 (~$1.17) default; up to €5 (~$5.85) conditional since Jul-26",
+                "GlüStV §22a; trade press Jul-26"
+              ]
+            },
+            {
+              "label": "Advertising blackout (slots/poker/casino)",
+              "cells": [
+                "06:00–21:00 broadcast & internet; no jerseys/boards; no active athletes",
+                "GlüStV §5"
+              ]
+            },
+            {
+              "label": "Sports-betting advertising",
+              "cells": [
+                "Permitted; not around live broadcast of the event; no athletes/officials",
+                "GlüStV §5"
+              ]
+            },
+            {
+              "label": "Payments (licensed)",
+              "cells": [
+                "Cards, PayPal, Klarna/Sofort, SEPA, Trustly, Paysafecard; no crypto",
+                "Industry knowledge [unverified]"
+              ]
+            },
+            {
+              "label": "Payment blocking vs illegal operators",
+              "cells": [
+                "GGL power under §9 GlüStV; 2025 focus on service providers",
+                "GGL PR 3 Jul 2026"
+              ]
+            },
+            {
+              "label": "Online channelisation",
+              "cells": [
+                "77% (23% unlicensed), 2024 data; no 2025 estimate published",
+                "GGL survey; GGL PR"
+              ]
+            },
+            {
+              "label": "Illegal operators identified",
+              "cells": [
+                "212 (GGL 2024 report)",
+                "Rhein Main Verlag citing GGL"
+              ]
+            },
+            {
+              "label": "Statutory evaluation",
+              "cells": [
+                "Report due 31 Dec 2026; informs 2027 licence cycle",
+                "GGL PR; GlüStV §32"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Payments",
+            "takeaway": "Germany is a card-and-wallet market where every deposit is checked against LUGAS, making payment orchestration a compliance function.",
+            "points": [
+              "Visa/Mastercard, PayPal, Klarna/Sofort, SEPA, Trustly, Paysafecard; giropay retired end-2024; crypto not permitted [industry knowledge; no official mix].",
+              "LUGAS enforces the €1,000 (~$1,170) monthly cross-operator cap.",
+              "GGL can order payment-service providers to stop processing for illegal operators (§9 GlüStV); 2025 enforcement extended to 'participating service providers'."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Responsible gambling",
+            "takeaway": "The most prescriptive RG architecture in Europe caps VIP revenue more than the tax does.",
+            "points": [
+              "OASIS cross-vertical self-exclusion (minimum three months, third-party exclusion possible).",
+              "LUGAS limits raisable to €10k (~$11.7k) and exceptionally €30k (~$35.1k) only with affordability evidence for a small share of customers.",
+              "Activity file blocks simultaneous play with five-minute cooling-off; 24-hour 'panic button'; mandatory early-detection; per-spin/game/session slot rules.",
+              "July 2026 stake-cap relaxation shows the GGL will flex within the architecture rather than dismantle it."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Advertising",
+            "takeaway": "§5 GlüStV imposes a 06:00–21:00 broadcast and internet ad ban for slots, poker and casino, with sports betting permitted under limits.",
+            "points": [
+              "No casino-product ads on sports jerseys or perimeter boards; no active athletes or officials; no targeting of minors or self-excluded persons.",
+              "Sports-betting ads not immediately before or during live broadcasts of the advertised event.",
+              "GGL issued fines and prohibition orders for advertising and affiliate breaches in 2024–25 and influencer guidance [case figures not verified in-session]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Enforcement",
+            "takeaway": "Enforcement in 2025 shifted to structured supervision and 'whole-ecosystem' action against illegal supply.",
+            "points": [
+              "Supervisory meetings, cause-based and random audits, Safe-Server reporting enforcement.",
+              "Targets service providers, hosting, affiliates and platform cooperation (search/app stores/social).",
+              "2024 report identified 212 illegal operators; DNS/IP blocking suffered court setbacks in 2023, hence reliance on payment blocking, takedowns and prohibition orders [court detail unverified]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Channelisation",
+            "takeaway": "GGL study found 77% of online volume licensed and 23% unlicensed; industry evidence places channelisation materially lower.",
+            "points": [
+              "Online panel of 2,000 players, 2024 data; 2025 report published no new estimate and will repeat the survey for the treaty evaluation.",
+              "DSWV/DOCV-commissioned Handelsblatt Research Institute study (Oct 2025) finds lower channelisation, especially in casino games the federal regime cannot license.",
+              "Unlicensed market is sizeable, visible and only partially suppressed; competes on stake caps, deposit caps, table games and bonusing."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Commercial implication",
+            "takeaway": "A licensed entrant needs a German-specific compliance stack, but gains a regulatory moat against a shrinking pool of credible competitors.",
+            "points": [
+              "Build KYC/limits/affordability stack (LUGAS/OASIS/activity file, Safe Server) and a marketing plan living with daytime blackout and no sports-kit visibility for casino.",
+              "The authority is now actively degrading the black market's distribution and payments."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Regulated volume is accelerating: GGL stakes +10.9% in H1-26 to €7.47bn (~$8.7bn) and gambling tax +11% in Q3-26 to €622.1m (~$728m), ahead of the BMF's +1.9% full-year forecast — a growing legal pie for licensed operators.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Online sports betting is compounding fastest (+23% stakes in Q2-26 to €1.71bn/~$2.0bn; +17.9% in H1) and online now takes 77% of betting stakes — a scale sportsbook is the natural entry product.",
+        "tag": "structural"
+      },
+      {
+        "text": "First loosening of slot rules: GGL-sanctioned stake caps up to €5 (~$5.85) per spin for certain players (Jul-26) and licensed slot GGR up double digits to €543m (~$635m) in 2025 — the direction of travel into the evaluation is toward conditional flexibility.",
+        "tag": "early"
+      },
+      {
+        "text": "The 2027 licence cycle is a defined entry window: the GGL has named relicensing and the end-2026 treaty evaluation as its priorities, giving new applicants a clear timetable and incumbents a renewal risk.",
+        "tag": "structural"
+      },
+      {
+        "text": "Enforcement now works for licensees: ecosystem-level action against illegal supply (payments, hosting, affiliates, platforms) plus a 77% measured channelisation rate reduce the discount at which offshore competitors operate.",
+        "tag": "structural"
+      },
+      {
+        "text": "Legal certainty on tax: the BFH's Nov-2025 ruling removes the overhang of a retroactive tax redesign — unattractive, but modellable, and the same for every competitor.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Commercial lottery brokerage is growing +36% YoY (Q2-26 stakes €327m/~$383m) — a licensable, low-risk adjacency for operators with lottery-distribution capability.",
+        "tag": "structural"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Turnover tax of 5.3% on stakes (≈5.03% gross) equates to ~40–50% of GGR — implied slot tax of ~€230m (~$269m) on €543m (~$635m) GGR in 2025 — with no VAT recovery and no GGR option; now judicially entrenched through 2028.",
+        "tag": "structural"
+      },
+      {
+        "text": "The €1,000 (~$1,170) cross-operator monthly deposit cap, parallel-play ban and per-spin limits cap ARPU and push high-value players offshore; affordability-based uplifts are narrow and administratively heavy.",
+        "tag": "structural"
+      },
+      {
+        "text": "No online table games or live casino under the federal regime (state option exercised only by Schleswig-Holstein) — the product set most sought by casino players is structurally ceded to unlicensed operators.",
+        "tag": "structural"
+      },
+      {
+        "text": "Black market remains ~23% of online volume on the regulator's own 2024 survey (and higher on industry estimates); the GGL has published no 2025 figure, and network-blocking has faced court setbacks.",
+        "tag": "watch"
+      },
+      {
+        "text": "World Cup flattered Q3: July receipts +26%, August +12.5%, September implied ~−3% — underlying growth ex-tournament is mid-single-digit and the Q4-26 comparator (Q4-25 stakes €3.77bn/~$4.4bn) is tough.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Advertising blackout (06:00–21:00) and sports-kit ban for slots/poker, plus no athlete endorsements, raise CAC for new brands versus retail-born incumbents (Tipico, Merkur) with existing awareness.",
+        "tag": "structural"
+      },
+      {
+        "text": "Regulatory asymmetry risk into the 2026 evaluation: Länder with stricter player-protection agendas could trade stake flexibility for tougher affordability and marketing rules; the treaty's 2028 sunset adds a second renegotiation point.",
+        "tag": "governance"
+      }
+    ],
+    "forecast": "{\"intro\":\"The official revenue anchor moved only marginally in 2026 — the BMF's May-2026 tax estimate lifted its forecast for the Rennwett- und Lotteriesteuer category to €2,510m (~$2.94bn, +1.9%) from €2,475m (~$2.9bn, +0.5%) — but actual receipts are running ahead: Q1 €632m (~$739m, −1.2%), Q2 €648m (~$758m, ~+4%) and Q3 €622.1m (~$728m, +11%). The upside came entirely from betting-related taxes (online sports-betting stakes +23% in Q2 on the World Cup, slots +9%) while the lottery component, roughly 70% of the category, was broadly flat. The rule-set shifted in one place only — conditional €5 (~$5.85) slot stakes from July 2026 — ahead of the binding events: the GlüStV evaluation report due 31 Dec 2026 and the 2027 relicensing cycle.\",\"bridge\":[{\"title\":\"FY-25 gambling tax (actual)\",\"value\":\"€2,460m (~$2.88bn)\",\"change\":\"−1% YoY\"},{\"title\":\"9M-26 receipts (derived from BMF + Q3 print)\",\"value\":\"~€1,902m (~$2.23bn)\",\"change\":\"~+4% YoY\"},{\"title\":\"BMF FY-26 forecast (May-26)\",\"value\":\"€2,510m (~$2.94bn)\",\"change\":\"+1.9% YoY\"},{\"title\":\"Analyst FY-26 estimate\",\"value\":\"~€2,550m (~$2.98bn)\",\"change\":\"+3–4% YoY (est.; needs Q4 ≈ €650m vs Q4-25 ~€637m)\"}]",
+    "confidence": "MEDIUM",
+    "confidenceNote": "FX: USD figures use an ASSUMED EUR/USD of 1.17 — the ECB reference rate for 30 Sep 2026 could not be retrieved in-session (research tool limit); replace before external use. Q3-26 €622.1m is from Gaming Intelligence/Mundo Video citing official BMF/Destatis data; the BMF website could not be fetched directly, so monthly figures (Jan–Aug 2026, FY-26 forecast) are taken from the BMF's published tables as surfaced in search results. September 2026, Q2-26 and 9M-26 YoY figures and all 'implied tax' lines are analyst derivations. GGL stakes (Q1-25 to Q2-26) were read directly from the regulator's Marktmonitor (HIGH confidence). The GGL Tätigkeitsbericht 2025 PDF was not read — the €14.4bn GGR, €543m slot GGR, licensee counts and 77% channelisation come from the GGL press release (reproduced by ISA-Guide) and trade reproductions; the ~€3.5bn online / ~€2.8bn GGL-licensee GGR figures rest on a single secondary source and look inconsistent with stake data — treat as [unverified]. Licence-fee tranches, exact §-references, payment mix, operator rankings and court-case details are analyst knowledge not re-verified in-session. Q3-26 breakdown by tax type and Q3-26 GGL stakes: n/a (not yet published).",
+    "sources": [
+      {
+        "label": "GGL — Marktmonitor: Spieleinsätze der länderübergreifenden Glücksspiele, 2025 Q1–2026 Q2 (updated 12 Aug 2026) [primary, read]",
+        "kind": "primary",
+        "url": "https://gluecksspiel-behoerde.de/de/forschung-und-publikationen/publikationen-der-ggl/marktmonitor"
+      },
+      {
+        "label": "GGL press release 3 Jul 2026 on Tätigkeitsbericht 2025 (reproduced in full by ISA-Guide) [primary text, read]",
+        "kind": "primary",
+        "url": "https://www.isa-guide.de/isa-casinos/ggl-veroeffentlicht-taetigkeitsbericht-2025-massnahmen-der-ggl-in-aufsicht-und-vollzug-zeigen-wirkung"
+      },
+      {
+        "label": "GGL — Jährliche Berichte (Tätigkeitsbericht 2025 landing page) [primary, not fetchable in-session]",
+        "kind": "primary",
+        "url": "https://www.gluecksspiel-behoerde.de/de/forschung-und-publikationen/publikationen-der-ggl/jaehrliche-berichte-der-ggl"
+      },
+      {
+        "label": "BMF Monatsbericht September 2026 — Steuereinnahmen im August 2026 (Rennwett- und Lotteriesteuer €219m, +12.5%; Jan–Aug €1,708m; FY-26e €2,510m) [primary, via published table]",
+        "kind": "primary",
+        "url": "https://www.bundesfinanzministerium.de/Monatsberichte/Ausgabe/2026/09/Inhalte/Kapitel-3-Wirtschafts-und-Finanzlage/3-2-steuereinnahmen-august-2026.html"
+      },
+      {
+        "label": "BMF Monatsbericht August 2026 — Steuereinnahmen im Juli 2026 (€209m, +26.0%) [primary]",
+        "kind": "primary",
+        "url": "https://www.bundesfinanzministerium.de/Monatsberichte/Ausgabe/2026/08/Inhalte/Kapitel-3-Wirtschafts-und-Finanzlage/3-2-steuereinnahmen-juli-2026.html"
+      },
+      {
+        "label": "BMF Monatsbericht Juli 2026 — Steuereinnahmen im Juni 2026 (€247m, +15.5%; H1 €1,279m, +1.3%) [primary]",
+        "kind": "primary",
+        "url": "https://www.bundesfinanzministerium.de/Monatsberichte/Ausgabe/2026/07/Inhalte/Kapitel-3-Wirtschafts-und-Finanzlage/3-2-steuereinnahmen-juni-2026.html"
+      },
+      {
+        "label": "BMF — Steuereinnahmen im März 2026 (PDF; Q1-26 €632.3m vs €639.8m, −1.2%) [primary]",
+        "kind": "primary",
+        "url": "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Steuerschaetzungen_und_Steuereinnahmen/2026-04-21-steuereinnahmen-maerz-2026.pdf"
+      },
+      {
+        "label": "BMF Monatsbericht Oktober 2026 (22 Oct 2026) — contains Steuereinnahmen im September 2026 [primary, not fetchable in-session]",
+        "kind": "primary",
+        "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/Broschueren_Bestellservice/Monatsberichte/2026/monatsbericht-2026-10.html"
+      },
+      {
+        "label": "Bundesfinanzhof, Urteil IX R 27/24 vom 4 Nov 2025 — virtual slot tax (RennwLottG §§36–38) upheld [primary]",
+        "kind": "primary",
+        "url": "https://www.bundesfinanzhof.de/en/entscheidungen/entscheidungen-online/decision-detail/STRE202620067/"
+      },
+      {
+        "label": "Rennwett- und Lotteriegesetz (RennwLottG) — tax rates and bases [primary legislation]",
+        "kind": "primary",
+        "url": "https://www.gesetze-im-internet.de/rennwlottg/"
+      },
+      {
+        "label": "Gaming Intelligence — German gambling tax revenue grows by 11% in Q3 2026 (26 Oct 2026; paywalled beyond headline) [secondary]",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/237735-german-gambling-tax-revenue-grows-by-11-in-q3-2026/"
+      },
+      {
+        "label": "Mundo Video — Germany collects €622 million in gambling taxes, up 11% (26 Oct 2026) [secondary, read]",
+        "kind": "secondary",
+        "url": "https://www.mundovideo.com.co/en/europe/germany-collects-e622-million-in-gambling-taxes-up-11/"
+      },
+      {
+        "label": "Gaming Intelligence — Germany collects €2.5 billion in gambling tax for 2025 (€2.46bn, −1%) [secondary]",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/225504-germany-collects-e2-5-billion-in-gambling-tax-for-2025/"
+      },
+      {
+        "label": "SiGMA — Germany's licensed operators contribute €2.5bn in taxes in 2025; Q4-25 sports-betting tax €121m (+14%) [secondary]",
+        "kind": "secondary",
+        "url": "https://sigma.world/news/germany-gambling-tax-2025/"
+      },
+      {
+        "label": "Gambling Insider DE — DOCV on GGL Tätigkeitsbericht 2025 (€14.4bn market; 77%/23% split) [secondary]",
+        "kind": "secondary",
+        "url": "https://www.gamblinginsider.com/de/news/105363/docv-unterstuetzt-ggl-dialogaufruf"
+      },
+      {
+        "label": "GlücksWirtschaft — Glücksspielmarkt Deutschland 2026 (licensee counts 29/27, 40/37, 5; €14.4bn GGR) [secondary]",
+        "kind": "secondary",
+        "url": "https://glueckswirtschaft.de/branche/gluecksspielmarkt-deutschland-2026-umsatz-anbieter-marktanteile"
+      },
+      {
+        "label": "World Casino Directory — Germany lifts online slot stake cap to €5 for some players (10 Jul 2026); slot GGR €543m in 2025 [secondary]",
+        "kind": "secondary",
+        "url": "https://news.worldcasinodirectory.com/germany-raises-online-slot-stake-limits-under-new-rules-123503"
+      },
+      {
+        "label": "iGaming Expert — Will Germany slots change be enough to thwart black market surge? (Jul 2026) [secondary]",
+        "kind": "secondary",
+        "url": "https://igamingexpert.com/news/games/ggl-black-market-slots-changes/"
+      },
+      {
+        "label": "Mundo Video — Germany's online slots market climbs to €543 million (Jul 2026) [secondary]",
+        "kind": "secondary",
+        "url": "https://www.mundovideo.com.co/en/europe/germanys-online-slots-market-climbs-to-543-million-as-regulated-gaming-gains-ground/"
+      },
+      {
+        "label": "Casino Center — Online slots outpace Germany's wider gambling market (Sep 2026) [secondary]",
+        "kind": "secondary",
+        "url": "https://www.casinocenter.com/online-slots-outpace-germanys-wider-gambling-market-as-digital-stakes-rise/"
+      },
+      {
+        "label": "Bright Side of News — Germany online gambling channelisation rate hits 77% (May 2026) [secondary]",
+        "kind": "secondary",
+        "url": "https://brightsideofnews.com/gambling/germany-online-gambling-channelisation-rate-2026/"
+      },
+      {
+        "label": "iGaming Times — Germany gambling licence and regulation 2026 (tax sections; online GGR €3.5bn/€2.8bn claims) [secondary, single-source figures flagged]",
+        "kind": "secondary",
+        "url": "https://igaming-times.com/countries/germany"
+      },
+      {
+        "label": "Handelsblatt Research Institute — Online-Glücksspiel in Deutschland: Kanalisierung und Schwarzmarkt (Oct 2025) [secondary]",
+        "kind": "secondary",
+        "url": "https://research.handelsblatt.com/wp-content/uploads/2025/10/Onlinegluecksspiel_Schwarzmarkt_2025.pdf"
+      },
+      {
+        "label": "cash.ch / insidebw — Destatis gambling-tax figures for 2023 (sports betting €409m, −5.2%; virtual slots ~€264m, −38.5%) [secondary citing Destatis]",
+        "kind": "secondary",
+        "url": "https://www.insidebw.de/milliarden-aus-gluecksspiel-staat-kassiert-ab-doch-erstmals-weniger-als-im-vorjahr"
+      },
+      {
+        "label": "Yogonet — Germany's legal gambling market grows to €14.4 billion (2024 report, Jun 2025) [secondary]",
+        "kind": "secondary",
+        "url": "https://www.yogonet.com/international/news/2025/06/30/109897-germanys-legal-gambling-market-grows-to-144-billion-but-industry-disputes-regulators-offshore-estimates"
+      },
+      {
+        "label": "Rhein Main Verlag — GGL Tätigkeitsbericht 2024 (212 illegal operators) [secondary]",
+        "kind": "secondary",
+        "url": "https://www.rheinmainverlag.de/2025/07/28/ggl-veroeffentlicht-taetigkeitsbericht-was-lief-gut-was-muss-sich-verbessern/"
+      },
+      {
+        "label": "ghacks.de — GGL Marktmonitor Q1 2026 (25 Jun 2026) [secondary corroboration of Q1-26 stakes]",
+        "kind": "secondary",
+        "url": "https://www.ghacks.net/de/2026/06/25/ggl-marktmonitor-q1-2026-online-gluecksspiel-einsaetze/"
+      },
+      {
+        "label": "Vixio — German court says sports-betting tax is not unconstitutional (2021) [secondary]",
+        "kind": "secondary",
+        "url": "https://www.vixio.com/insights/gc-german-court-says-sports-betting-tax-not-unconstitutional"
+      },
+      {
+        "label": "DGGS — Steuereinnahmen durch Online-Glücksspiel seit 2021 (2021 lottery tax €1,648m; sports betting €389m) [secondary]",
+        "kind": "secondary",
+        "url": "https://www.dggs-online.de/news/steuereinnahmen-online-gluecksspiel-seit-legalisierung-2021"
+      }
+    ],
+    "docType": "regulator"
+  }
+}

@@ -1,0 +1,1535 @@
+{
+  "company": {
+    "name": "New York",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "SEPTEMBER 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 1847690,
+    "output": 47134,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 60,
+    "cacheRead": 1732494,
+    "cacheWrite": 115136,
+    "turns": 1
+  },
+  "prepared": "5 Nov 2026",
+  "report": {
+    "releaseDate": "7 Oct 2026 (NYSGC statewide mobile report, data through Sep-26); land-based and operator-level trade coverage 20–27 Oct 2026",
+    "currency": "USD (tables in millions unless stated; New York reports natively in USD so no FX conversion applies)",
+    "verdict": "September 2026 was a volume-strong, margin-weak month for New York mobile sports betting: a record-September $2.40bn handle (+5.0% YoY) produced only $159.4m GGR (-17.7%) on a 6.6% hold, the lowest September since launch, cutting the state's 51% tax take to $81.3m. The structural story is on the ground: Resorts World NYC's April conversion to a full commercial casino lifted statewide commercial-casino GGR 220% to $184.3m while draining VLT net win 37% to $124.8m. New York remains the largest, most transparent and most heavily taxed US betting market — a scale-only proposition for B2C, with the real white space in B2B supply to the three downstate casinos and in iGaming optionality that Albany has yet to unlock.",
+    "kpis": [
+      {
+        "label": "Mobile sports handle (Sep-26)",
+        "value": "$2,401.7m",
+        "delta": "+5.0% YoY / +38.7% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "Mobile sports GGR (Sep-26)",
+        "value": "$159.4m",
+        "delta": "-17.7% YoY / -5.4% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "Mobile hold",
+        "value": "6.64%",
+        "delta": "vs 8.47% Sep-25; lowest Sept since Jan-22 launch",
+        "dir": "down"
+      },
+      {
+        "label": "State tax from mobile (51% of GGR)",
+        "value": "$81.3m",
+        "delta": "-17.7% YoY; FY26/27 YTD $564.8m (-5.8%)",
+        "dir": "down"
+      },
+      {
+        "label": "Commercial casino GGR (5 venues)",
+        "value": "$184.3m",
+        "delta": "+219.8% YoY (RWNYC $126.7m)",
+        "dir": "up"
+      },
+      {
+        "label": "VLT/VGM net win (8 racinos)",
+        "value": "$124.8m",
+        "delta": "-37% YoY (RWNYC migrated to casino licence)",
+        "dir": "down"
+      }
+    ],
+    "summary": [
+      "**Largest US betting market, and still growing on volume:** NYSGC reports September 2026 mobile sports handle of $2,401.7m, +5.0% YoY and +38.7% MoM on the NFL/college restart — the busiest September on record and the sixth-highest month in state history; all-time mobile handle has passed $103.8bn since the 8 Jan 2022 launch.",
+      "**But GGR fell hard on hold, not demand:** GGR of $159.4m was -17.7% YoY as hold collapsed to 6.64% (Sep-25: 8.47%; Aug-26: 9.73%). Week ending 13 Sep produced only $17.0m GGR on $594.6m handle (2.9% hold) — a bettor-friendly NFL opening fortnight, not a structural shift. Six of eight active books made less money than a year ago.",
+      "**Fiscal year-to-date tells the same story:** FY2026/27 (Apr–Sep) handle $12,562.6m (+6.9%) but GGR $1,107.3m (-5.8%) and tax $564.8m (-5.8%); YTD hold 8.8% vs 10.0% a year earlier. A -$48.5m GGR week (w/e 14 Jun) tied to Knicks championship futures payouts (cash-basis accounting) is the single biggest drag.",
+      "**FY2025/26 was a record base:** handle $26,158.4m (+9.3%), GGR $2,598.4m (+21.2%, 9.93% hold), state tax $1,325.1m (+18.7%). The Office of the State Comptroller (OSC, Sep 2026) confirms mobile sports wagering is now the state's second-largest gaming revenue source after the Lottery; total state gaming receipts exceeded $5.1bn in SFY2026.",
+      "**Tax regime — 51% of GGR, no promo deductions:** the highest headline rate of any competitive US state. Net revenue to education in September was $81.3m (-17.7%); operators kept $78.1m. From FY2026/27 the earmark for problem-gambling education/treatment doubled from $6m to $12m, plus $5m for youth sports.",
+      "**Duopoly intact, challenger emerging:** FanDuel $904.7m handle (37.7% share, +14.5%) / $63.7m GGR (40.0%); DraftKings $840.1m (35.0%, -3.5%) / $56.0m (35.1%). Together 72.7% of handle and 75% of GGR. Fanatics is the only other book above 10% (handle $266.8m, +21.8%, 11.1% share) but held just 5.4%.",
+      "**Long tail is sub-scale:** Caesars $152.7m/5.2% hold; BetMGM $148.4m (-1%)/$10.0m; BetRivers $43.9m; theScore Bet (ex-ESPN Bet) $31.6m (-32.9%); Bally Bet $13.4m. Resorts World Bet, the ninth licensee, reports $0 handle. At a 51% tax, books below ~$150m monthly handle are unlikely to earn an economic return in-state.",
+      "**Licensing is closed:** nine mobile platform-provider licences were awarded via the 2021 RFA (10-year terms, $25m one-off fee each — statutory/RFA figure, not re-read this session). No mechanism exists for new entrants short of legislation or acquiring an existing licensee; the only recent 'entry' was Penn rebranding ESPN Bet to theScore Bet on its existing licence.",
+      "**Land-based has been re-based by the downstate build-out:** on 15 Dec 2025 NYSGC awarded all three downstate commercial licences — Resorts World NYC (Queens, 15-yr), Bally's Bronx (15-yr) and Metropolitan Park/Hard Rock (Queens, 20-yr) — at a $500m minimum licence fee each (RW paid an extra $100m) and ≥$500m capex. MGM's Empire City (Yonkers) missed out and remains a VLT racino.",
+      "**RWNYC is already the state's dominant casino:** it opened 240 live tables and ~2,500 Class III slots on 28 Apr 2026, added 1,400 slots in July (~3,900) and an 'International Room' high-limit area in October. September GGR $126.7m = 68.7% of the $184.3m statewide commercial total; the four upstate casinos were flat at $57.6m combined (Rivers $20.1m, +5.5%; del Lago $15.0m, +10.1%; RW Catskills $13.4m, -13.4%; Tioga $9.0m, -4.3%).",
+      "**Casino tax is bid-your-own and RWNYC overbid:** downstate rates were set by each winner's bid — RWNYC 56% slots / 30% tables; Bally's 30%/10%; Metropolitan Park 25%/10% (statutory floors 25%/10%). RWNYC is now disputing whether horseracing-support payments sit inside or on top of its 56% (critics put the all-in rate at ~72%); ten Queens legislators have asked the Commission to intervene.",
+      "**VLT channel is shrinking by design:** statewide video-gaming net win fell 37% to $124.8m in September as RWNYC's ~$70m+/month of VLT win moved into the commercial-casino line. Combined commercial + VLT win was ~$309m vs ~$256m a year earlier (+~21%, our estimate), i.e. table games and Class III slots are additive, not merely reclassified.",
+      "**Lottery remains the fiscal anchor:** traditional NY Lottery sales were ~$720m in September (sales, not GGR). Retail sports betting at the four upstate casinos was just $0.64m of GGR — mobile is 99.6% of the state's sports-betting GGR.",
+      "**Responsible-gambling pressure is rising with the numbers:** the NYSGC/OASAS 2025 report counted 7.2m unique mobile accounts, 791 under-age sign-up attempts and 2,545 HOPEline calls (+8.5% vs 2020), with mobile sports wagering the leading reason for calls since 2022. Comptroller DiNapoli (16 Sep 2026) called the $12m earmark small relative to $26bn of annual stakes and flagged prediction markets as a youth-access risk.",
+      "**Rules of the road:** 21+ for mobile sports and commercial casinos, 18+ for VLTs and lottery; wagers must be geolocated in-state and routed through servers at a licensed casino; bets on New York college teams and all high-school events are prohibited; the Commission vets prop-bet menus and leagues may petition to restrict markets (RPWB Law §1367(11), Rule 5329.13).",
+      "**Prediction markets are the live threat to the tax base:** CFTC-regulated sports event contracts (Kalshi, Polymarket, Crypto.com, plus DraftKings' and FanDuel's own exchange products) are taking volume outside the 51% regime; trade coverage credits them with NY's handle slowdown in H1-26. New York has so far relied on federal litigation rather than its own cease-and-desist route — direction of travel is the key 2027 swing factor.",
+      "**iGaming remains unlegislated:** no online casino or poker authorisation exists; successive Addabbo/Pretlow bills have stalled (2026 session outcome not re-verified this session). Legalisation would make NY the largest US iCasino market overnight, but the three new casino licensees and organised labour now have a strong interest in the sequencing.",
+      "**Read-through for B2Tech:** B2C mobile entry is effectively impossible (no licences) and uneconomic below top-three scale at 51%; the addressable opportunities are (i) platform, trading, risk and CRM supply to the eight active books fighting a hold problem, (ii) slot, ETG, systems and sports-kiosk supply to RWNYC's expansion (to 4,600+ slots/530 tables) and the Bally's/Met Park builds, and (iii) positioning for an iGaming RFA that would likely mirror the 2021 sports process."
+    ],
+    "groupTable": {
+      "note": "US $m (New York State; NYSGC data)",
+      "columns": [
+        "Sep-26",
+        "MoM",
+        "YoY",
+        "FY26/27 YTD (Apr–Sep)",
+        "YTD YoY"
+      ],
+      "rows": [
+        {
+          "label": "Mobile sports betting (online)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Handle (stakes)",
+          "indent": true,
+          "cells": [
+            "2,401.7",
+            "+38.7%",
+            "+5.0%",
+            "12,562.6",
+            "+6.9%"
+          ]
+        },
+        {
+          "label": "GGR (cash basis)",
+          "indent": true,
+          "kind": "emphasis",
+          "cells": [
+            "159.4",
+            "-5.4%",
+            "-17.7%",
+            "1,107.3",
+            "-5.8%"
+          ]
+        },
+        {
+          "label": "Hold (GGR/handle)",
+          "indent": true,
+          "cells": [
+            "6.64%",
+            "9.73% (Aug)",
+            "8.47% (Sep-25)",
+            "8.81%",
+            "10.01% (prior)"
+          ]
+        },
+        {
+          "label": "State tax — 51% of GGR (net revenue to education)",
+          "indent": true,
+          "cells": [
+            "81.3",
+            "-5.4%",
+            "-17.7%",
+            "564.8",
+            "-5.8%"
+          ]
+        },
+        {
+          "label": "Retained by platform providers (49%)",
+          "indent": true,
+          "cells": [
+            "78.1",
+            "-5.4%",
+            "-17.7%",
+            "542.6",
+            "-5.8%"
+          ]
+        },
+        {
+          "label": "Fines & prior-period adjustments",
+          "indent": true,
+          "cells": [
+            "0.02",
+            "n/m",
+            "n/m",
+            "0.06",
+            "n/m"
+          ]
+        },
+        {
+          "label": "Land-based (retail)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Commercial casino GGR (5 venues)",
+          "indent": true,
+          "kind": "emphasis",
+          "cells": [
+            "184.3",
+            "n/a",
+            "+219.8%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "  of which slots/ETG",
+          "indent": true,
+          "cells": [
+            "129.3",
+            "n/a",
+            "+217.8%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "  of which live tables",
+          "indent": true,
+          "cells": [
+            "53.6",
+            "n/a",
+            "+252.7%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "  of which poker",
+          "indent": true,
+          "cells": [
+            "0.8",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "  of which retail sports betting",
+          "indent": true,
+          "cells": [
+            "0.6",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "  Resorts World NYC (downstate, licensed Dec-25)",
+          "indent": true,
+          "cells": [
+            "126.7",
+            "n/a",
+            "n/m (VLT in Sep-25)",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "  Four upstate casinos combined",
+          "indent": true,
+          "cells": [
+            "57.6",
+            "n/a",
+            "~0%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "VLT / video gaming net win (8 racinos)",
+          "indent": true,
+          "cells": [
+            "124.8",
+            "n/a",
+            "-37%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Traditional lottery sales (sales, not GGR)",
+          "indent": true,
+          "cells": [
+            "~720",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Channel mix",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Mobile share of sports-betting GGR",
+          "indent": true,
+          "cells": [
+            "99.6%",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Mobile sports GGR as % of (mobile + casino + VLT) GGR",
+          "indent": true,
+          "cells": [
+            "34.0%",
+            "—",
+            "—",
+            "—",
+            "—"
+          ],
+          "footnote": "Excludes lottery and tribal casinos (tribal win not published)."
+        },
+        {
+          "label": "Annual reference (NYSGC fiscal year Apr–Mar)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "FY2025/26 mobile handle / GGR / tax",
+          "indent": true,
+          "cells": [
+            "26,158.4 / 2,598.4 / 1,325.1",
+            "—",
+            "+9.3% / +21.2% / +18.7%",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "FY2024/25 mobile handle / GGR / tax",
+          "indent": true,
+          "cells": [
+            "23,942.8 / 2,143.1 / 1,116.2",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Cumulative since Jan-22: handle / GGR (OSC, to Mar-26)",
+          "indent": true,
+          "cells": [
+            "91,200 / 8,300",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Licensing & tax parameters",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Mobile platform-provider licences",
+          "indent": true,
+          "cells": [
+            "9 licensed / 8 active",
+            "—",
+            "—",
+            "—",
+            "—"
+          ],
+          "footnote": "Resorts World Bet reports $0 handle. 10-yr terms from 2022; $25m one-off fee (2021 RFA — not re-read this session)."
+        },
+        {
+          "label": "Mobile tax base / rate",
+          "indent": true,
+          "cells": [
+            "GGR / 51%",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Downstate casino licence fee / term",
+          "indent": true,
+          "cells": [
+            "$500m min (RW $600m) / 15–20 yrs",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Downstate casino tax (slots / tables)",
+          "indent": true,
+          "cells": [
+            "RW 56%/30%; Bally's 30%/10%; Met Park 25%/10%",
+            "—",
+            "—",
+            "—",
+            "—"
+          ],
+          "footnote": "Statutory floors 25%/10%. RWNYC disputes whether racing-support payments are inside the 56%."
+        },
+        {
+          "label": "Upstate casino tax (slots / tables)",
+          "indent": true,
+          "cells": [
+            "37–45% statutory, petitionable to 30% / 10%",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Mobile sports betting",
+        "headline": "Record-September $2.40bn handle, but a 6.6% hold cut GGR 17.7% and the state's 51% take with it; FanDuel/DraftKings still 73% of stakes.",
+        "narrative": [
+          "September's $2,401.7m of mobile handle (NYSGC statewide monthly report, cash basis) was up 4.98% on September 2025 and 38.7% on August, as NFL and college football returned; the weekly series shows the ramp from $483m (w/e 6 Sep) to $611m (w/e 20 Sep). The problem was price: GGR of $159.4m implied a 6.64% hold against 8.47% a year earlier and a 9.93% full-year FY2025/26 average. The week ending 13 September — the first full NFL week — returned just $17.0m on $594.6m (2.9%), the kind of favourites-cover-and-parlays-cash fortnight that periodically hits a market where same-game parlays dominate mix. There is no evidence in the series of a structural hold decline: October's first four weeks (w/e 4–25 Oct) are tracking $2,471.8m handle and $244.0m GGR, a 9.9% hold, which would make October 2026 a record month if the trend holds.",
+          "Operator-level reports (NYSGC per-operator filings, reconciled here to within $0.1m of the statewide total) show FanDuel back on top with $904.7m handle (+14.5% YoY, 37.7% share) and $63.7m GGR (-18.0%, 40.0% share) at a 7.0% hold; DraftKings $840.1m (-3.5%, 35.0%) and $56.0m (-16.0%, 35.1%) at 6.7%. The two paid roughly $32.5m and $28.6m of September tax respectively. Fanatics continues to buy share — $266.8m handle (+21.8%, 11.1%) — but at a 5.4% hold its GGR fell 29.8% to $14.4m, the weakest conversion of handle to revenue among the majors and a sign that its promotional intensity is not yet translating into margin. Caesars ($152.7m, 5.2% hold, $7.9m GGR) and BetMGM ($148.4m, -1%, 6.7%, $10.0m) are drifting; BetRivers ($43.9m), theScore Bet ($31.6m, -32.9% against the ESPN Bet comparator, though GGR +1.8% at 8.9% hold) and Bally Bet ($13.4m, 9.0% hold) are sub-scale. Resorts World Bet, the ninth licensee, is dormant at $0.",
+          "On the calendar-year view, January–September 2026 handle is $19.34bn (+3.7% vs the same period of 2025) and GGR $1.75bn (-1.0%). The deceleration from FY2025/26's +9.3% is partly comparables (2025 was the first year with four full NFL quarters of Fanatics growth) and partly leakage to CFTC-regulated sports event contracts, which trade press credit with absorbing a meaningful slice of New York volume since early 2026. The June 2026 Knicks championship — which the OSC singled out — produced a -$48.5m GGR week as futures were redeemed, illustrating New York's cash-basis convention under which futures stakes are taxed when placed and payouts recognised when redeemed.",
+          "The commercial implications for an operator are blunt. At 51% of GGR with no deduction for promotional credits, a book needs a sustained ~9–10% hold and top-three scale to clear marketing and platform costs in-state; the September result shows a 200bp hold miss removes roughly a fifth of revenue while the tax rate stays fixed. The market is also closed to new B2C entrants — the 2021 RFA fixed nine licences at $25m each for ten years and the Commission's operator list is unchanged since 2022 except for brand swaps (PointsBet→Fanatics, ESPN Bet→theScore Bet). The actionable angle for a supplier is trading, pricing and parlay-risk technology for the books below FanDuel/DraftKings, whose hold deficit (Fanatics 5.4%, Caesars 5.2%) is the difference between profit and loss at this tax rate."
+        ],
+        "table": {
+          "note": "US $m — NY mobile sports wagering, September 2026 (NYSGC operator reports)",
+          "columns": [
+            "Handle Sep-26",
+            "Handle YoY",
+            "Handle share",
+            "GGR Sep-26",
+            "GGR YoY",
+            "GGR share",
+            "Hold",
+            "Implied tax (51%)"
+          ],
+          "rows": [
+            {
+              "label": "FanDuel",
+              "cells": [
+                "904.7",
+                "+14.5%",
+                "37.7%",
+                "63.7",
+                "-18.0%",
+                "40.0%",
+                "7.0%",
+                "32.5"
+              ]
+            },
+            {
+              "label": "DraftKings",
+              "cells": [
+                "840.1",
+                "-3.5%",
+                "35.0%",
+                "56.0",
+                "-16.0%",
+                "35.1%",
+                "6.7%",
+                "28.6"
+              ]
+            },
+            {
+              "label": "Fanatics",
+              "cells": [
+                "266.8",
+                "+21.8%",
+                "11.1%",
+                "14.4",
+                "-29.8%",
+                "9.0%",
+                "5.4%",
+                "7.3"
+              ]
+            },
+            {
+              "label": "Caesars",
+              "cells": [
+                "152.7",
+                "n/a",
+                "6.4%",
+                "7.9",
+                "n/a (declined)",
+                "5.0%",
+                "5.2%",
+                "4.0"
+              ]
+            },
+            {
+              "label": "BetMGM",
+              "cells": [
+                "148.4",
+                "-1.0%",
+                "6.2%",
+                "10.0",
+                "-8.5%",
+                "6.3%",
+                "6.7%",
+                "5.1"
+              ]
+            },
+            {
+              "label": "BetRivers (Rush Street)",
+              "cells": [
+                "43.9",
+                "-4.2%",
+                "1.8%",
+                "3.4",
+                "-4.9%",
+                "2.1%",
+                "7.7%",
+                "1.7"
+              ]
+            },
+            {
+              "label": "theScore Bet (Penn; ex-ESPN Bet)",
+              "cells": [
+                "31.6",
+                "-32.9%",
+                "1.3%",
+                "2.8",
+                "+1.8%",
+                "1.8%",
+                "8.9%",
+                "1.4"
+              ]
+            },
+            {
+              "label": "Bally Bet",
+              "cells": [
+                "13.4",
+                "+3.5%",
+                "0.6%",
+                "1.2",
+                "+58.4%",
+                "0.8%",
+                "9.0%",
+                "0.6"
+              ]
+            },
+            {
+              "label": "Resorts World Bet",
+              "cells": [
+                "0.0",
+                "n/m",
+                "0.0%",
+                "0.0",
+                "n/m",
+                "0.0%",
+                "n/m",
+                "0.0"
+              ]
+            },
+            {
+              "label": "Statewide (NYSGC)",
+              "kind": "emphasis",
+              "cells": [
+                "2,401.7",
+                "+5.0%",
+                "100%",
+                "159.4",
+                "-17.7%",
+                "100%",
+                "6.64%",
+                "81.3"
+              ]
+            },
+            {
+              "label": "Memo: Aug-26",
+              "cells": [
+                "1,731.3",
+                "-15.3%",
+                "—",
+                "168.5",
+                "-5.5%",
+                "—",
+                "9.73%",
+                "85.9"
+              ]
+            },
+            {
+              "label": "Memo: Sep-25",
+              "cells": [
+                "2,287.8",
+                "+10.4%",
+                "—",
+                "193.8",
+                "-5.4%",
+                "—",
+                "8.47%",
+                "98.8"
+              ]
+            },
+            {
+              "label": "Memo: Oct-26 first 4 weeks (w/e 4–25 Oct)",
+              "cells": [
+                "2,471.8",
+                "—",
+                "—",
+                "244.0",
+                "—",
+                "—",
+                "9.87%",
+                "~124"
+              ],
+              "footnote": "Weekly statewide report; w/e 4 Oct includes 28–30 Sep. Full-month October 2025 was $2,642.7m / $238.7m."
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "September handle and hold",
+            "takeaway": "Record-September $2,401.7m handle (+4.98% YoY, +38.7% on August) but a 6.64% hold cut GGR to $159.4m, -17.7%.",
+            "points": [
+              "Weekly series ramped from $483m (w/e 6 Sep) to $611m (w/e 20 Sep) as NFL and college football returned.",
+              "Hold of 6.64% compares with 8.47% a year earlier and a 9.93% FY2025/26 average.",
+              "Week ending 13 September, the first full NFL week, returned just $17.0m on $594.6m (2.9%), a favourites-cover-and-parlays-cash fortnight.",
+              "No evidence of structural hold decline: October w/e 4–25 Oct tracking $2,471.8m handle, $244.0m GGR, 9.9% hold, potentially a record month."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Operator shares",
+            "takeaway": "FanDuel and DraftKings hold 73% of stakes; Fanatics buys share at a 5.4% hold with GGR -29.8%.",
+            "points": [
+              "FanDuel $904.7m handle (+14.5% YoY, 37.7% share), $63.7m GGR (-18.0%, 40.0% share), 7.0% hold; roughly $32.5m September tax.",
+              "DraftKings $840.1m (-3.5%, 35.0%), $56.0m GGR (-16.0%, 35.1%), 6.7% hold; roughly $28.6m tax.",
+              "Fanatics $266.8m handle (+21.8%, 11.1%) but $14.4m GGR at 5.4% hold, weakest handle-to-revenue conversion among majors.",
+              "Caesars ($152.7m, 5.2% hold, $7.9m GGR) and BetMGM ($148.4m, -1%, 6.7%, $10.0m) are drifting.",
+              "BetRivers ($43.9m), theScore Bet ($31.6m, -32.9% vs ESPN Bet, GGR +1.8% at 8.9% hold), Bally Bet ($13.4m, 9.0% hold) sub-scale; Resorts World Bet dormant at $0."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Calendar-year trend",
+            "takeaway": "January–September 2026 handle $19.34bn (+3.7%) and GGR $1.75bn (-1.0%), decelerating from FY2025/26's +9.3%.",
+            "points": [
+              "Deceleration partly comparables (2025 was first year with four full NFL quarters of Fanatics growth).",
+              "Partly leakage to CFTC-regulated sports event contracts, credited by trade press with absorbing a meaningful slice of New York volume since early 2026.",
+              "June 2026 Knicks championship produced a -$48.5m GGR week as futures were redeemed, illustrating the cash-basis convention."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Commercial implications",
+            "takeaway": "At 51% tax with no promo deduction, a book needs ~9–10% hold and top-three scale; a 200bp miss removes roughly a fifth of revenue.",
+            "points": [
+              "Market closed to new B2C entrants: 2021 RFA fixed nine licences at $25m each for ten years.",
+              "Operator list unchanged since 2022 except brand swaps (PointsBet→Fanatics, ESPN Bet→theScore Bet).",
+              "Supplier angle: trading, pricing and parlay-risk technology for books below FanDuel/DraftKings, where hold deficits (Fanatics 5.4%, Caesars 5.2%) separate profit from loss."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Commercial casinos & the downstate build-out",
+        "headline": "RWNYC's conversion to a full casino tripled statewide commercial GGR to $184.3m; upstate is flat at $57.6m and the next two NYC casinos are years away.",
+        "narrative": [
+          "New York's five commercial casinos reported $184.3m of GGR in September 2026, +219.8% on the $57.6m of September 2025 (NYSGC statewide commercial casino report as carried by CDC Gaming, Gambling.com and Gaming Intelligence). Slots and electronic tables contributed $129.3m (+217.8%), live tables $53.6m (+252.7%), poker $0.80m and retail sports betting $0.64m. The entire increase is Resorts World New York City at Aqueduct, which became the state's first downstate commercial casino on 28 April 2026 with 240 live tables and ~2,500 Class III slots, took its slot count to ~3,900 in July and opened the 'International Room' high-limit salon in October. Its $126.7m September GGR — 68.7% of the state total and roughly $1.5bn annualised — is already larger than the four upstate casinos combined and places it among the highest-grossing single properties in the US outside Nevada.",
+          "The upstate estate is ex-growth: Rivers Schenectady $20.1m (+5.5%), del Lago $15.0m (+10.1%), Resorts World Catskills $13.4m (-13.4%) and Tioga Downs $9.0m (-4.3%) sum to $57.6m, exactly the September 2025 statewide figure. These venues pay 10% on tables and statutory slot rates of 37–45% (Rivers 45%, RW Catskills 39%, del Lago and Tioga 37% — statutory baseline, not re-read this session), with a 2021 amendment allowing a petition to 30% on proof of hardship. Their retail sportsbooks are irrelevant at $0.64m of monthly GGR against $159.4m mobile.",
+          "The downstate licensing process that began with the 2013 constitutional amendment concluded on 15 December 2025 when the Commission approved the Gaming Facility Location Board's recommendations: RWNYC (15-year licence), Bally's Bronx at Ferry Point (15-year; 3,500 slots/~250 tables/500 rooms planned) and Metropolitan Park, the Hard Rock/Steve Cohen project beside Citi Field (20-year; construction from 2026, opening targeted ~2030). Each paid a $500m minimum licence fee (RW volunteered an additional $100m) and committed ≥$500m of capex, with community-benefit agreements policed by third-party monitors. MGM's Empire City in Yonkers — the state's largest VLT racino — was not selected and has no path to live tables; the three Manhattan bids, Coney Island and the Avenir were eliminated earlier. RWNYC will therefore enjoy a table-games and Class III slot monopoly in New York City for at least three to four years.",
+          "Tax was set by each bidder's own proposal above statutory floors of 25% (slots) and 10% (tables): RWNYC 56%/30%, Bally's 30%/10%, Metropolitan Park 25%/10%, with proceeds split between the MTA and education aid. RWNYC has since argued its 56% was 'inclusive of racing support' payments to NYRA, which the Commission says are additional — a dispute that critics say would take RWNYC's all-in slot rate to ~72% and that ten Queens legislators have asked Commission chair Brian O'Dwyer to resolve in the operator's favour. RWNYC's own application sought a most-favoured-rate clause if rivals opened at lower rates. For a supplier the read-through is a large, immediate hardware and systems pipeline (RWNYC to 4,600 slots/530 tables in its licensed plan, 6,000/800 longer-term; Bally's and Met Park from 2029–30) and a licensee under acute margin pressure that will favour participation and lease models over capex."
+        ],
+        "table": {
+          "note": "US $m — NY commercial casino GGR, September 2026 (NYSGC)",
+          "columns": [
+            "GGR Sep-26",
+            "YoY",
+            "Share of state",
+            "Slots tax",
+            "Tables tax",
+            "Licence"
+          ],
+          "rows": [
+            {
+              "label": "Resorts World NYC (Queens)",
+              "cells": [
+                "126.7",
+                "n/m (VLT in Sep-25)",
+                "68.7%",
+                "56% (disputed up to ~72% incl. racing support)",
+                "30%",
+                "15-yr, $600m fee, live tables from 28 Apr 2026"
+              ]
+            },
+            {
+              "label": "Rivers Casino & Resort (Schenectady)",
+              "cells": [
+                "20.1",
+                "+5.5%",
+                "10.9%",
+                "45% statutory*",
+                "10%",
+                "Opened 2017"
+              ]
+            },
+            {
+              "label": "del Lago Resort & Casino",
+              "cells": [
+                "15.0",
+                "+10.1%",
+                "8.1%",
+                "37% statutory*",
+                "10%",
+                "Opened 2017"
+              ]
+            },
+            {
+              "label": "Resorts World Catskills",
+              "cells": [
+                "13.4",
+                "-13.4%",
+                "7.3%",
+                "39% statutory*",
+                "10%",
+                "Opened 2018"
+              ]
+            },
+            {
+              "label": "Tioga Downs",
+              "cells": [
+                "9.0",
+                "-4.3%",
+                "4.9%",
+                "37% statutory*",
+                "10%",
+                "Opened 2016"
+              ]
+            },
+            {
+              "label": "Statewide total",
+              "kind": "emphasis",
+              "cells": [
+                "184.3",
+                "+219.8%",
+                "100%",
+                "—",
+                "—",
+                "5 licensed"
+              ]
+            },
+            {
+              "label": "  Slots / ETG",
+              "indent": true,
+              "cells": [
+                "129.3",
+                "+217.8%",
+                "70.2%",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "  Live table games",
+              "indent": true,
+              "cells": [
+                "53.6",
+                "+252.7%",
+                "29.1%",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "  Poker",
+              "indent": true,
+              "cells": [
+                "0.8",
+                "n/a",
+                "0.4%",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "  Retail sports betting",
+              "indent": true,
+              "cells": [
+                "0.6",
+                "n/a",
+                "0.3%",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Bally's Bronx (Ferry Point)",
+              "cells": [
+                "—",
+                "—",
+                "—",
+                "30%",
+                "10%",
+                "15-yr, $500m fee; not yet open"
+              ]
+            },
+            {
+              "label": "Metropolitan Park / Hard Rock (Queens)",
+              "cells": [
+                "—",
+                "—",
+                "—",
+                "25%",
+                "10%",
+                "20-yr, $500m fee; opening ~2030"
+              ],
+              "footnote": "*Upstate statutory slot rates per RPWB Law §1351 as enacted; a 2021 amendment allows petition to 30% on financial-hardship grounds — baseline rates not re-read this session."
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Statewide commercial GGR",
+            "takeaway": "RWNYC's conversion tripled commercial casino GGR to $184.3m in September 2026, +219.8% on $57.6m.",
+            "points": [
+              "Slots and electronic tables $129.3m (+217.8%), live tables $53.6m (+252.7%), poker $0.80m, retail sports betting $0.64m.",
+              "RWNYC became first downstate commercial casino on 28 April 2026 with 240 live tables and ~2,500 Class III slots; ~3,900 slots by July; 'International Room' opened October.",
+              "RWNYC $126.7m September GGR is 68.7% of state total, roughly $1.5bn annualised, larger than the four upstate casinos combined and among the highest-grossing US properties outside Nevada."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Upstate estate",
+            "takeaway": "Upstate is ex-growth at $57.6m, exactly the September 2025 statewide figure.",
+            "points": [
+              "Rivers Schenectady $20.1m (+5.5%), del Lago $15.0m (+10.1%), Resorts World Catskills $13.4m (-13.4%), Tioga Downs $9.0m (-4.3%).",
+              "Tax of 10% on tables and 37–45% slots (Rivers 45%, RW Catskills 39%, del Lago and Tioga 37%), petitionable to 30% on hardship.",
+              "Retail sportsbooks irrelevant at $0.64m monthly GGR against $159.4m mobile."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Downstate licensing",
+            "takeaway": "Three downstate licences approved 15 December 2025 give RWNYC a NYC table and Class III monopoly for at least three to four years.",
+            "points": [
+              "RWNYC 15-year licence; Bally's Bronx at Ferry Point 15-year with 3,500 slots/~250 tables/500 rooms planned; Metropolitan Park (Hard Rock/Steve Cohen) 20-year, opening targeted ~2030.",
+              "Each paid $500m minimum licence fee (RW volunteered an additional $100m) and committed ≥$500m capex, with monitored community-benefit agreements.",
+              "MGM's Empire City not selected and has no path to live tables; three Manhattan bids, Coney Island and the Avenir eliminated earlier."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Tax rates and dispute",
+            "takeaway": "Bid-your-own tax rates (RWNYC 56%/30%, Bally's 30%/10%, Met Park 25%/10%) leave RWNYC under acute margin pressure.",
+            "points": [
+              "Statutory floors 25% slots and 10% tables; proceeds split between the MTA and education aid.",
+              "RWNYC argues its 56% was 'inclusive of racing support' payments to NYRA; Commission says they are additional, which critics say takes all-in slot rate to ~72%.",
+              "Ten Queens legislators asked chair Brian O'Dwyer to resolve in RWNYC's favour; RWNYC's application sought a most-favoured-rate clause.",
+              "Supplier read-through: large pipeline (RWNYC to 4,600 slots/530 tables, 6,000/800 longer-term; Bally's and Met Park from 2029–30) favouring participation and lease models over capex."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "VLT racinos, lottery & retail",
+        "headline": "VLT net win -37% to $124.8m as RWNYC migrates to the casino line; the Lottery (~$720m September sales) remains the state's largest gaming receipt.",
+        "narrative": [
+          "Statewide video-gaming (VLT/ETG) net win fell 37% year-on-year to $124.8m in September 2026 (NYSGC statewide video gaming report, via Gaming Intelligence), implying roughly $198m a year earlier. The decline is almost entirely classification: Resorts World NYC's Aqueduct floor — historically the largest VLT facility in the state with ~$280m of annual education contribution — now reports under its commercial licence. Adding commercial-casino GGR and VLT win together gives ~$309m for September 2026 versus ~$256m a year earlier, an estimated +21% that suggests live tables and Class III product are generating incremental spend in the New York City market rather than simply relabelling it; we flag this as our derivation, not a regulator figure.",
+          "The remaining VLT estate comprises Empire City (MGM, Yonkers; ~4,500–5,200 terminals), Jake's 58 (Suffolk OTB, Long Island; authorised to expand from 1,000 to 2,000 terminals), Resorts World Hudson Valley (Newburgh), Saratoga, Finger Lakes, Batavia Downs, Hamburg and Vernon Downs, plus the Nassau OTB allocation housed at Aqueduct. VLTs are legally part of the New York Lottery: the central system in Schenectady determines outcomes, all net proceeds flow to Aid to Education, and operators are paid an agent commission (tiered by net win), a marketing allowance and, where eligible, a capital award; the minimum age is 18 against 21 for commercial casinos and mobile sports. Empire City's loss in the downstate race leaves MGM with a VLT-only asset 15 miles from RWNYC's live tables — the clearest cannibalisation risk in the state — and makes a renewed push for legislative relief (lower education retention, ETG expansion or a fourth downstate licence) a plausible 2027 lobbying theme.",
+          "Traditional lottery sales were ~$720m in September (Gaming Intelligence; sales, not GGR), and the OSC's September 2026 report confirms the Lottery as the state's largest single gaming receipt, with mobile sports wagering second. Across SFY2016–SFY2026 total state gaming revenue grew 33% to more than $5.1bn, but excluding mobile sports the combined take from lottery, casinos, VLTs, racing and fantasy sports fell 0.8% — a decade of stagnation in legacy verticals that explains Albany's dependence on the 51% mobile tax and its wariness about anything (prediction markets, iGaming cannibalisation) that threatens it. Retail sportsbooks at the four upstate casinos are immaterial ($0.64m GGR, 0.4% of sports GGR) and tribal casinos (Seneca, Oneida, Akwesasne) do not publish win; Niagara County's current campaign to protect its share of Seneca compact payments is a reminder that tribal revenue-sharing is a live political file."
+        ],
+        "table": {
+          "note": "US $m — NY lottery-linked and retail channels, September 2026",
+          "columns": [
+            "Sep-26",
+            "YoY",
+            "Comment"
+          ],
+          "rows": [
+            {
+              "label": "VLT / VGM net win — 8 racinos + Nassau OTB",
+              "kind": "emphasis",
+              "cells": [
+                "124.8",
+                "-37%",
+                "RWNYC reclassified to commercial casino from Apr-26"
+              ]
+            },
+            {
+              "label": "Implied Sep-25 VLT net win",
+              "cells": [
+                "~198",
+                "—",
+                "Derived from -37%; Sep-24 was $197.0m"
+              ]
+            },
+            {
+              "label": "Commercial casino + VLT combined",
+              "cells": [
+                "~309",
+                "~+21% (est.)",
+                "Our estimate; like-for-like including RWNYC in both periods"
+              ]
+            },
+            {
+              "label": "Traditional lottery sales (draw, instant, Quick Draw)",
+              "cells": [
+                "~720",
+                "n/a",
+                "Sales, not GGR; Gaming Intelligence headline"
+              ]
+            },
+            {
+              "label": "Retail sports betting GGR (4 upstate casinos)",
+              "cells": [
+                "0.6",
+                "n/a",
+                "10% tax on GGR; 0.4% of sports GGR"
+              ]
+            },
+            {
+              "label": "Tribal casino win",
+              "cells": [
+                "n/a",
+                "n/a",
+                "Not published (Seneca, Oneida, Akwesasne compacts)"
+              ]
+            },
+            {
+              "label": "Minimum age — VLT / lottery vs casino / mobile",
+              "cells": [
+                "18 / 21",
+                "—",
+                "Bill to raise VLT age to 21 has been floated"
+              ]
+            },
+            {
+              "label": "VLT distribution of net win",
+              "cells": [
+                "Agent commission + marketing allowance + capital award; balance to education",
+                "—",
+                "Tiered by facility and net-win band (e.g. Empire City tiers at $50m/$100m/$150m)"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "VLT net win",
+            "takeaway": "VLT net win fell 37% to $124.8m as RWNYC's Aqueduct floor migrated to the commercial casino line.",
+            "points": [
+              "Implies roughly $198m a year earlier; Aqueduct was historically the largest VLT facility with ~$280m annual education contribution.",
+              "Combined commercial-casino GGR plus VLT win ~$309m for September 2026 versus ~$256m, an estimated +21%, our derivation not a regulator figure.",
+              "Suggests live tables and Class III product generate incremental NYC spend rather than relabelling it."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Remaining VLT estate",
+            "takeaway": "Empire City's loss in the downstate race leaves MGM with the clearest cannibalisation risk in the state.",
+            "points": [
+              "Estate: Empire City (~4,500–5,200 terminals), Jake's 58 (authorised 1,000 to 2,000 terminals), RW Hudson Valley, Saratoga, Finger Lakes, Batavia Downs, Hamburg, Vernon Downs, Nassau OTB allocation at Aqueduct.",
+              "VLTs are part of the Lottery: central system in Schenectady determines outcomes, net proceeds to Aid to Education, operators paid tiered agent commission, marketing allowance and capital award.",
+              "Minimum age 18 against 21 for commercial casinos and mobile sports.",
+              "Empire City is 15 miles from RWNYC's live tables; a 2027 push for legislative relief (lower education retention, ETG expansion or fourth downstate licence) is plausible."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Lottery and legacy verticals",
+            "takeaway": "Lottery sales of ~$720m in September remain the state's largest gaming receipt, with mobile sports second.",
+            "points": [
+              "SFY2016–SFY2026 total state gaming revenue grew 33% to more than $5.1bn, but excluding mobile sports the legacy take fell 0.8%.",
+              "Decade of stagnation explains Albany's dependence on the 51% mobile tax and wariness of prediction markets and iGaming cannibalisation.",
+              "Upstate retail sportsbooks immaterial ($0.64m GGR, 0.4% of sports GGR); tribal casinos (Seneca, Oneida, Akwesasne) do not publish win.",
+              "Niagara County's campaign to protect its share of Seneca compact payments shows tribal revenue-sharing is a live political file."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Licensing & tax regime",
+        "headline": "Closed, expensive and transparent: nine mobile licences at $25m and 51% of GGR; three downstate casino licences at $500m+ with bid-your-own tax rates from 25% to 56%.",
+        "narrative": [
+          "The regulator is the New York State Gaming Commission (NYSGC), which absorbed the Lottery, Racing & Wagering Board and charitable gaming in 2013 and publishes weekly and monthly handle/GGR by operator and facility — the most granular disclosure of any US state. Mobile sports wagering operates under Racing, Pari-Mutuel Wagering and Breeding Law §1367 and Tax Law §1367 as amended in the FY2022 budget: wagers must originate within New York (geofenced) and be accepted by servers at a licensed commercial casino; the Commission controls the wagering menu, bars bets on New York college teams and high-school events, vets proposition markets (statistical props acceptable, single-player 'negative' props subject to rejection) and lets leagues petition to restrict markets under Rule 5329.13. The 2021 competitive RFA awarded nine platform-provider licences for ten years at a $25m one-off fee each (figure per the RFA/statute, not re-read this session), scored heavily on tax rate — which is why the bidders collectively offered 51%.",
+          "The mobile tax is 51% of GGR on a cash basis with no deduction for free bets or promotional credits; 49% is retained by the platform provider, who also pays an integrity/league data cost and the usual federal 0.25% excise on handle. Proceeds are statutorily directed to education, with $5m a year carved out for youth sports and — from FY2026/27 — $12m (doubled from $6m) for problem-gambling education and treatment through OASAS. September's $81.3m of tax compares with $98.8m a year earlier; FY2025/26 delivered $1,325.1m and the Comptroller now characterises mobile wagering as the state's second-largest gaming revenue source. The practical consequence is that New York economics are hold-dependent in a way no other state's are: a point of hold is worth roughly $24m a month of GGR, of which the state takes $12m.",
+          "Land-based licensing runs under the Upstate New York Gaming Economic Development Act (2013): four upstate commercial casinos (10% tables; 37–45% slots, petitionable to 30%), and the three downstate licences awarded 15 December 2025 after a two-stage Community Advisory Committee and Gaming Facility Location Board process. The downstate terms are a $500m minimum fee (RWNYC paid $600m), ≥$500m capex, 15-year terms (RWNYC, Bally's) or 20 years (Metropolitan Park, reflecting its larger commitment), tax at the bidder's proposed rate above floors of 25% slots/10% tables, annual slot and table licence fees, and binding community-benefit agreements. RWNYC's 56%/30% bid is the highest casino tax rate in the country and the live dispute over whether NYRA racing-support payments sit inside it is the clearest warning that New York's bid-your-own-rate model shifts regulatory risk entirely onto the operator. Video lottery agents hold Lottery agent licences rather than casino licences, which is why Empire City and Jake's 58 cannot offer live tables.",
+          "Online casino and online poker are not authorised. Sen. Joseph Addabbo and Assm. Gary Pretlow have reintroduced iGaming bills in each session since 2023 (proposed terms have included a 30.5% GGR tax and $2m licences restricted to existing casino and mobile licensees); none has reached a floor vote and the outcome of the 2026 session was not verified in this research session. Fantasy sports is licensed separately under Article 14 (15% GGR tax). Any iGaming authorisation would almost certainly be tethered to the existing commercial-casino and mobile licence holders, so the entry route for a new B2C brand is partnership or acquisition rather than application; for B2B, supplier registration with the Commission is the gating item."
+        ],
+        "table": {
+          "note": "New York licensing & tax parameters (as of Sep-26)",
+          "columns": [
+            "Licence type",
+            "Count",
+            "Fee / term",
+            "Tax base & rate",
+            "Notes"
+          ],
+          "rows": [
+            {
+              "label": "Mobile sports wagering platform provider",
+              "cells": [
+                "9 (8 active)",
+                "$25m one-off; 10 yrs from 2022 (RFA figure, not re-read)",
+                "51% of GGR, cash basis, no promo deduction",
+                "Servers at licensed casino; 21+; NY college & HS events barred"
+              ]
+            },
+            {
+              "label": "Commercial casino — upstate",
+              "cells": [
+                "4",
+                "Awarded 2014–16; $50m–$70m fees (statutory)",
+                "Tables 10%; slots 37–45% (petitionable to 30%)",
+                "Rivers, del Lago, RW Catskills, Tioga"
+              ]
+            },
+            {
+              "label": "Commercial casino — downstate",
+              "cells": [
+                "3 (1 open)",
+                "$500m min (RW $600m); 15 yrs (RW, Bally's) / 20 yrs (Met Park)",
+                "Bid-your-own above 25%/10% floors: RW 56%/30%; Bally's 30%/10%; Met Park 25%/10%",
+                "Proceeds to MTA + education; RW racing-support dispute pending"
+              ]
+            },
+            {
+              "label": "Retail sportsbook at casino",
+              "cells": [
+                "4",
+                "Within casino licence",
+                "10% of GGR",
+                "$0.64m GGR Sep-26"
+              ]
+            },
+            {
+              "label": "Video lottery agent (VLT racino)",
+              "cells": [
+                "8 facilities + Nassau OTB",
+                "Lottery agent licence",
+                "Net win shared: agent commission + marketing allowance; remainder to education",
+                "18+; central determination; no live tables"
+              ]
+            },
+            {
+              "label": "Interactive fantasy sports",
+              "cells": [
+                "n/a",
+                "Registration",
+                "15% of GGR (Article 14)",
+                "Not re-verified this session"
+              ]
+            },
+            {
+              "label": "Online casino / poker",
+              "cells": [
+                "0",
+                "Not authorised",
+                "Proposed 30.5% GGR in prior bills",
+                "Addabbo/Pretlow bills stalled 2023–26"
+              ]
+            },
+            {
+              "label": "Problem-gambling earmark from mobile tax",
+              "cells": [
+                "—",
+                "—",
+                "$12m p.a. (from FY26/27; was $6m) + $5m youth sports",
+                "Administered by OASAS / OCFS"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Regulator and mobile framework",
+            "takeaway": "NYSGC publishes the most granular disclosure of any US state; nine ten-year mobile licences at $25m were scored heavily on tax rate.",
+            "points": [
+              "Mobile operates under Racing, Pari-Mutuel Wagering and Breeding Law §1367 and Tax Law §1367 as amended in the FY2022 budget; geofenced, servers at licensed commercial casinos.",
+              "Commission controls the wagering menu, bars New York college teams and high-school events, vets props and lets leagues petition under Rule 5329.13.",
+              "The $25m fee is per the RFA/statute, not re-read this session; bidders collectively offered 51%."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Mobile tax economics",
+            "takeaway": "At 51% of cash-basis GGR with no promo deduction, a point of hold is worth roughly $24m a month, $12m to the state.",
+            "points": [
+              "Operators retain 49%, plus integrity/league data costs and the federal 0.25% handle excise.",
+              "Proceeds to education, with $5m a year for youth sports and from FY2026/27 $12m (doubled from $6m) for problem gambling via OASAS.",
+              "September tax $81.3m versus $98.8m a year earlier; FY2025/26 delivered $1,325.1m, the state's second-largest gaming revenue source per the Comptroller."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Land-based licensing",
+            "takeaway": "RWNYC's 56%/30% bid is the highest casino tax rate in the country and the bid-your-own-rate model shifts regulatory risk onto operators.",
+            "points": [
+              "Upstate under the 2013 Act: 10% tables; 37–45% slots, petitionable to 30%.",
+              "Downstate terms: $500m minimum fee (RWNYC paid $600m), ≥$500m capex, 15-year (RWNYC, Bally's) or 20-year (Metropolitan Park) terms, floors of 25% slots/10% tables, annual licence fees, community-benefit agreements.",
+              "Live dispute over whether NYRA racing-support payments sit inside RWNYC's rate is the clearest warning.",
+              "Video lottery agents hold Lottery agent licences, so Empire City and Jake's 58 cannot offer live tables."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "iGaming and fantasy",
+            "takeaway": "Online casino and poker are not authorised; any authorisation would be tethered to existing licence holders.",
+            "points": [
+              "Addabbo and Pretlow bills reintroduced each session since 2023 (terms have included 30.5% GGR tax and $2m licences); none reached a floor vote; 2026 outcome not verified.",
+              "Fantasy sports licensed separately under Article 14 at 15% GGR tax.",
+              "New B2C brands must enter via partnership or acquisition; for B2B, supplier registration with the Commission is the gating item."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Responsible gambling, advertising, payments & enforcement direction",
+        "headline": "7.2m accounts, HOPEline calls +8.5% since 2020 and a Comptroller spotlight on prediction markets: the political direction is tighter, not looser.",
+        "narrative": [
+          "The Comptroller's September 2026 report and the joint NYSGC/OASAS 2025 problem-gambling review set the tone for the coming legislative session. New York counted 7.2 million unique mobile sports wagering accounts in 2025 (roughly 36% of the state's 21+ population, our estimate), 791 attempted under-age account openings, and 2,545 HOPEline calls (+8.5% versus 2020), with mobile sports wagering the leading reason for calls since 2022 — figures the Comptroller described as a major concern 'particularly among young people' while welcoming the doubling of the problem-gambling earmark to $12m. Operators must maintain Commission-approved problem-gambling plans, display HOPEline information, offer deposit, time and wager limits and participate in the statewide voluntary self-exclusion programme that spans casinos, VLTs and mobile; the Commission's sports-wagering advertising rules (adopted 2024) prohibit targeting under-21s, advertising on college campuses and 'risk-free' or similar language, and require responsible-gaming messaging in all creative — rule text not re-read this session.",
+          "Payments are conventional US rails rather than mobile money: ACH/online banking, debit, PayPal, prepaid Play+ and cash-at-retail options, with credit-card funding permitted by statute but increasingly restricted at issuer and operator level; a legislative ban on credit-card deposits and advertising curbs on bonus offers have been proposed in recent sessions but not enacted (status not verified this session — treat as [unverified]). Geolocation is mandatory and accounts are subject to KYC at registration, which is why the 791 under-age attempts were caught rather than completed. Enforcement to date has been modest and administrative: September's $19,655 of fines and prior-period adjustments is typical, and the Commission publishes notices of violation by operator.",
+          "The larger enforcement question is prediction markets. CFTC-regulated exchanges (Kalshi, Polymarket, Crypto.com) now list sports event contracts accessible from New York without a state licence, the 51% tax, the 21 age floor or the college-team prohibition; DraftKings and FanDuel have launched their own exchange products to defend share. Trade coverage attributes New York's H1-2026 handle slowdown and September's 'record despite prediction markets' framing to this leakage, and the Comptroller explicitly flagged youth access. Unlike New Jersey, Maryland, Nevada and Ohio, New York has not issued its own cease-and-desist orders, relying instead on the federal litigation track; whether the Commission or the Attorney General moves in 2027 is the single most important regulatory swing factor for licensed books' handle and for the state's tax base.",
+          "For an operator, the direction of travel is clear: more disclosure (the Commission's inspector general has noted that mobile wagering now generates the majority of gaming complaints), a higher cost of compliance, and a widening gap between the licensed channel's obligations and the untaxed prediction-market channel. Scale players can absorb this; sub-scale books cannot, which argues for consolidation among the long tail (Bally Bet, theScore Bet, BetRivers, dormant Resorts World Bet) and for suppliers to lead with KYC/age-assurance, affordability and limit-setting tooling that will be needed irrespective of how the iGaming and prediction-market debates resolve."
+        ],
+        "table": {
+          "note": "New York responsible-gambling & consumer-protection metrics (NYSGC/OASAS 2025 report via OSC, Sep-26)",
+          "columns": [
+            "Metric",
+            "Value",
+            "Source / comment"
+          ],
+          "rows": [
+            {
+              "label": "Unique mobile sports wagering accounts (2025)",
+              "cells": [
+                "7.2m",
+                "NYSGC/OASAS joint report"
+              ]
+            },
+            {
+              "label": "HOPEline problem-gambling calls (2025)",
+              "cells": [
+                "2,545 (+8.5% vs 2020)",
+                "Mobile sports wagering top reason since 2022"
+              ]
+            },
+            {
+              "label": "Under-age account attempts blocked (2025)",
+              "cells": [
+                "791",
+                "NYSGC/OASAS"
+              ]
+            },
+            {
+              "label": "Problem-gambling funding from mobile tax",
+              "cells": [
+                "$12m p.a. (doubled from $6m)",
+                "Effective FY2026/27"
+              ]
+            },
+            {
+              "label": "Minimum age — mobile / casino / VLT & lottery",
+              "cells": [
+                "21 / 21 / 18",
+                "Statute"
+              ]
+            },
+            {
+              "label": "Fines & adjustments booked (Sep-26)",
+              "cells": [
+                "$19,655",
+                "NYSGC monthly report"
+              ]
+            },
+            {
+              "label": "Advertising rules",
+              "cells": [
+                "No under-21 targeting, no campus ads, no 'risk-free'; RG messaging required",
+                "Commission regs (2024) — text not re-read this session"
+              ]
+            },
+            {
+              "label": "Prediction-market exposure",
+              "cells": [
+                "Untaxed sports event contracts live in NY (Kalshi, Polymarket, Crypto.com, DK/FD exchanges)",
+                "No NY cease-and-desist to date; federal litigation ongoing"
+              ]
+            },
+            {
+              "label": "Credit-card deposits",
+              "cells": [
+                "Permitted by statute; ban bills proposed",
+                "[unverified this session]"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Problem gambling",
+            "takeaway": "7.2 million mobile accounts in 2025 and HOPEline calls of 2,545 (+8.5% versus 2020) set a tighter political tone.",
+            "points": [
+              "7.2m accounts is roughly 36% of the 21+ population, our estimate; 791 attempted under-age openings.",
+              "Mobile sports wagering the leading reason for HOPEline calls since 2022; Comptroller welcomed doubling of earmark to $12m.",
+              "Operators must maintain approved problem-gambling plans, display HOPEline information, offer deposit, time and wager limits and join statewide self-exclusion.",
+              "2024 advertising rules prohibit targeting under-21s, campus advertising and 'risk-free' language; require responsible-gaming messaging; rule text not re-read this session."
+            ],
+            "quote": {
+              "text": "particularly among young people",
+              "speaker": "Comptroller"
+            }
+          },
+          {
+            "heading": "Payments and enforcement",
+            "takeaway": "Payments run on conventional US rails and enforcement is modest and administrative, with $19,655 of September fines typical.",
+            "points": [
+              "ACH/online banking, debit, PayPal, prepaid Play+ and cash-at-retail; credit-card funding permitted by statute but increasingly restricted.",
+              "Proposed credit-card deposit ban and bonus advertising curbs not enacted; status not verified this session, treat as [unverified].",
+              "Mandatory geolocation and KYC at registration caught the 791 under-age attempts; Commission publishes notices of violation by operator."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Prediction markets",
+            "takeaway": "Whether the Commission or Attorney General moves against prediction markets in 2027 is the single most important regulatory swing factor.",
+            "points": [
+              "Kalshi, Polymarket and Crypto.com list sports event contracts accessible from New York without state licence, 51% tax, 21 age floor or college-team prohibition.",
+              "DraftKings and FanDuel have launched their own exchange products to defend share.",
+              "Trade coverage attributes H1-2026 handle slowdown and September's 'record despite prediction markets' framing to this leakage; Comptroller flagged youth access.",
+              "Unlike New Jersey, Maryland, Nevada and Ohio, New York has issued no cease-and-desist orders, relying on federal litigation."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Operator direction",
+            "takeaway": "More disclosure and higher compliance cost argue for long-tail consolidation and suppliers leading with KYC, affordability and limit-setting tooling.",
+            "points": [
+              "Inspector general notes mobile wagering now generates the majority of gaming complaints.",
+              "Widening gap between licensed-channel obligations and the untaxed prediction-market channel; scale players absorb it, sub-scale books cannot.",
+              "Consolidation candidates: Bally Bet, theScore Bet, BetRivers, dormant Resorts World Bet.",
+              "Tooling needed irrespective of how the iGaming and prediction-market debates resolve."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Scale: New York is the largest US sports-betting market by handle ($26.2bn FY2025/26, $2.40bn in September alone) with volume still growing (+6.9% FY YTD) and October tracking a record on a normalised ~9.9% hold — the demand base is intact.",
+        "tag": "structural"
+      },
+      {
+        "text": "Downstate casino build-out is real and front-loaded: RWNYC is already printing $126.7m/month of GGR on a partial floor (to 4,600+ slots/530 tables), with Bally's Bronx and Metropolitan Park to follow — a multi-year hardware, systems, ETG and sports-kiosk procurement pipeline for suppliers.",
+        "tag": "structural"
+      },
+      {
+        "text": "Hold is the lever, and it is fixable: the market's September 6.6% hold versus a 9.9% full-year average, and sub-5.5% holds at Fanatics and Caesars, create demand for pricing, parlay-risk and trading technology among the books that cannot out-promote FanDuel/DraftKings.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Share can still move: Fanatics grew handle 21.8% to an 11.1% share and theScore Bet/Bally Bet grew GGR — the duopoly's 73% is not a ceiling, and consolidation of the sub-scale tail (Resorts World Bet dormant; Bally Bet at $13m handle) is a licence-acquisition route into an otherwise closed market.",
+        "tag": "structural"
+      },
+      {
+        "text": "iGaming optionality: no state would add more iCasino GGR on authorisation than New York; any bill will tether licences to existing casino/mobile holders, so partnerships struck now with RWNYC, Bally's, Hard Rock, MGM Empire City or the upstate four are the call option.",
+        "tag": "early"
+      },
+      {
+        "text": "Best-in-class data transparency — weekly handle and GGR by operator and facility — lets a supplier benchmark client performance and price risk with a precision unavailable in most jurisdictions.",
+        "tag": "structural"
+      },
+      {
+        "text": "The Knicks-driven June GGR hole (-$48.5m week) and the September hold miss are timing effects under cash-basis accounting, not evidence of structural demand loss; FY2025/26 GGR grew 21% on a 9.9% hold.",
+        "tag": "one-off"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "51% of GGR with no promotional deduction is the most punitive competitive-state tax in the US; September shows a 200bp hold miss turns into a 17.7% revenue decline with the state's share fixed. Only top-three scale is economic — FanDuel and DraftKings alone paid ~$61m of September's $81m tax.",
+        "tag": "structural"
+      },
+      {
+        "text": "The mobile market is closed: nine licences from the 2021 RFA, no new-entrant mechanism, and a $25m fee that has already been sunk by incumbents. Entry is only via acquisition of a dormant or sub-scale licensee.",
+        "tag": "structural"
+      },
+      {
+        "text": "Prediction markets are eroding the licensed channel untaxed and unsupervised by Albany; New York has not followed other states with cease-and-desist orders, leaving handle and the state's $1.3bn tax base exposed until federal courts or the Commission act.",
+        "tag": "watch"
+      },
+      {
+        "text": "Bid-your-own tax rates have produced an untenable 56%/30% at RWNYC and a dispute over whether racing-support payments push the effective rate to ~72% — a template for how aggressively New York extracts rent and a warning for anyone pricing a future iGaming or fourth-casino bid.",
+        "tag": "governance"
+      },
+      {
+        "text": "Political and responsible-gambling pressure is intensifying: 7.2m accounts, HOPEline calls +8.5%, 791 under-age attempts, the Comptroller's public warning and a doubled problem-gambling earmark point to tighter advertising, deposit (credit-card) and affordability rules in the 2027 session.",
+        "tag": "watch"
+      },
+      {
+        "text": "Legacy verticals are ex-growth: the four upstate casinos are flat at $57.6m, VLT net win is down 37% on reclassification and the OSC shows non-mobile gaming revenue fell 0.8% over a decade — Empire City (MGM) now faces direct cannibalisation from RWNYC's tables with no licence remedy.",
+        "tag": "structural"
+      },
+      {
+        "text": "iGaming has stalled for four consecutive sessions and the newly licensed casinos, their lenders and labour now have a $1.5bn+ reason to sequence online casino behind bricks-and-mortar openings in 2029–30; the 2026 session outcome could not be verified here.",
+        "tag": "mixed"
+      }
+    ],
+    "forecast": {
+      "intro": "The guidance bridge here is fiscal rather than corporate. The state's FY2025/26 base was $26.2bn mobile handle, $2.60bn GGR (9.9% hold) and $1.33bn tax. Six months into FY2026/27 handle is +6.9% but GGR is -5.8% on an 8.8% hold, so the Division of the Budget's mobile-tax line is tracking below plan despite record volume; the swing is entirely hold. Land-based moves the other way: RWNYC's licence has added roughly $125m a month of commercial-casino GGR (taxed at 56%/30%) that did not exist in the FY2025/26 base, more than offsetting the ~$70m/month of VLT win it removed. Net, we expect total state gaming receipts to rise in FY2026/27 even if mobile tax is flat — which is exactly the mix shift Albany designed.",
+      "bridge": [
+        {
+          "title": "Mobile handle FY2026/27E",
+          "value": "$27.5–28.0bn (est.)",
+          "change": "+5–7% vs $26.2bn FY25/26; assumes October record and flat Q4 leakage to prediction markets"
+        },
+        {
+          "title": "Mobile GGR / hold FY2026/27E",
+          "value": "$2.55–2.70bn at 9.3–9.6% (est.)",
+          "change": "-2% to +4% vs $2.60bn; H1 hold 8.8% must normalise toward the 9.9% FY25/26 run-rate"
+        },
+        {
+          "title": "Mobile state tax FY2026/27E",
+          "value": "$1.30–1.38bn (est.)",
+          "change": "roughly flat vs $1.33bn; $564.8m banked Apr–Sep"
+        },
+        {
+          "title": "Commercial casino GGR run-rate",
+          "value": "~$2.2bn annualised (est.)",
+          "change": "vs ~$0.7bn FY25/26; RWNYC ~$1.5bn + upstate ~$0.7bn; adds ~$0.8–0.9bn of state casino tax at bid rates"
+        }
+      ],
+      "view": "Our independent view is that **New York stays a volume-growth, margin-volatile market for the next 12–24 months**: mobile handle compounds mid-single digits as Fanatics and the exchanges contest the duopoly, while GGR and the 51% tax line oscillate with hold. **The structural growth engine shifts to land-based** — RWNYC should exit 2027 at or above a $1.8bn GGR run-rate as its floor expands, making it the single most important procurement account in the US northeast, while Bally's and Metropolitan Park move from fees to construction. **On rules, direction of travel is tighter**: we expect the 2027 session (Jan–Jun) to bring an advertising/bonus-messaging tightening and a renewed credit-card-deposit ban attempt, and a 50/50 chance that the Commission or Attorney General moves formally against sports event contracts if federal litigation does not resolve first. **We assign less than 30% probability to iGaming passing in 2027**; the three downstate licensees now have the economic incentive and the lobbying budget to delay it until their properties open, and the Comptroller's framing of problem gambling makes a new online vertical politically expensive. **Leverage, in a market sense, is rising**: the state's reliance on mobile tax (second-largest gaming receipt, $1.3bn) and on RWNYC's 56% slot rate means Albany will defend the tax base — against prediction markets and against RWNYC's rate-relief request — rather than cut rates. For B2Tech the actionable position is B2B: trading/risk and CRM supply to the hold-challenged books, floor and systems supply to the three downstate casinos, and a standing partnership option on an eventual iGaming RFA.",
+      "watch": [
+        "RWNYC racing-support/tax dispute — Commission ruling or legislative fix; any concession would reset the perceived cost of the downstate licences and the template for future bids.",
+        "Prediction markets — federal appellate outcomes on CFTC pre-emption and whether NYSGC/the Attorney General issue cease-and-desist orders; monthly handle growth below ~5% with hold normal would signal leakage is structural.",
+        "Hold normalisation — October 2026 weekly data (9.9% on $2.47bn for w/e 4–25 Oct) versus the 8.8% FY YTD; a full-year hold below 9.3% leaves mobile tax short of the FY2025/26 base.",
+        "2027 legislative session (Jan–Jun) and the Governor's FY2028 Executive Budget — iGaming (Addabbo/Pretlow), credit-card deposit ban, advertising restrictions, VLT age to 21, Empire City relief.",
+        "Downstate construction milestones — Bally's Bronx and Metropolitan Park financing, fee payments and ground-breaking; RWNYC phase-two (hotel/expanded floor) and slot count toward 4,600+.",
+        "Consolidation of the mobile tail — dormant Resorts World Bet licence, Bally Bet and theScore Bet sub-scale; a licence transfer would be the first real new-entrant path since 2022.",
+        "Tribal compacts — Seneca compact renewal terms and the Niagara County revenue-share dispute; any state concession would reopen exclusivity-zone questions for western New York.",
+        "NYSGC/OASAS 2026 problem-gambling report (due early 2027) — account counts, under-age attempts and HOPEline volumes will frame the advertising and affordability debate."
+      ]
+    },
+    "confidence": "HIGH",
+    "confidenceNote": "Mobile sports wagering figures (handle, GGR, hold, tax, weekly series through w/e 25 Oct 2026) are taken directly from the NYSGC statewide monthly and weekly PDF reports read in full; operator-level September figures are from trade reports of the NYSGC per-operator filings and reconcile to the statewide total within $0.1m. Commercial-casino ($184.3m) and VLT ($124.8m) September figures are NYSGC data relayed consistently by three outlets (CDC Gaming, Gambling.com, Gaming Intelligence) but the underlying PDFs were not opened. Downstate licence terms and tax rates are corroborated across five sources. FX: not applicable — New York reports in USD. Flagged as [unverified this session]: the $25m mobile licence fee and upstate statutory slot rates (from the 2021 RFA/RPWB Law, not re-read), the 2024 advertising-rule text, credit-card deposit status, the 15% IFS tax, and the outcome of the 2026 iGaming bill. Combined casino+VLT growth (~+21%) and FY2026/27 projections are our own estimates and labelled as such. Caesars' September YoY changes could not be sourced and are shown as n/a.",
+    "sources": [
+      {
+        "label": "NYSGC — Statewide Mobile Sports Wagering Monthly Report, FY2026/27 (compiled 7 Oct 2026) [primary]",
+        "kind": "primary",
+        "url": "https://gaming.ny.gov/statewide-sports-wagering-monthly-report-pdf"
+      },
+      {
+        "label": "NYSGC — Statewide Mobile Sports Wagering Weekly Report (through w/e 25 Oct 2026) [primary]",
+        "kind": "primary",
+        "url": "https://gaming.ny.gov/statewide-sports-wagering-weekly-report-pdf"
+      },
+      {
+        "label": "NYSGC — Sports Wagering overview: licensed operators, 51% tax, prohibited events, league restriction process [primary]",
+        "kind": "primary",
+        "url": "https://gaming.ny.gov/sports-wagering"
+      },
+      {
+        "label": "NYSGC — Revenue Reports index (commercial casino, sports wagering and video gaming reports by facility/operator) [primary]",
+        "kind": "primary",
+        "url": "https://gaming.ny.gov/revenue-reports"
+      },
+      {
+        "label": "Office of the NYS Comptroller — 'Sports Wagering in New York' (September 2026) [primary]",
+        "kind": "primary",
+        "url": "https://www.osc.ny.gov/files/reports/pdf/sports-wagering-in-new-york.pdf"
+      },
+      {
+        "label": "OSC press release, 16 Sep 2026 — DiNapoli: surge in mobile sports betting and jump in problem-gambling calls [primary]",
+        "kind": "primary",
+        "url": "https://www.osc.ny.gov/press/releases/2026/09/dinapoli-new-york-sees-surge-mobile-sports-betting-and-jump-problem-gambling-calls"
+      },
+      {
+        "label": "NYSGC — Empire City Casino at Yonkers Raceway VLT report FY2026/27 (distribution of net win tiers) [primary]",
+        "kind": "primary",
+        "url": "https://gaming.ny.gov/system/files/documents/2026/06/web-site-report-empire-city-casino-at-yonkers-raceway.pdf"
+      },
+      {
+        "label": "Gaming Intelligence — New York land-based casinos win $184.3m in September (27 Oct 2026) [lead article; paywalled]",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/237636-new-york-land-based-casinos-win-184-3-million-in-september/"
+      },
+      {
+        "label": "Gaming Intelligence — New York posts $2.4bn in mobile sports bets in September (27 Oct 2026) [lead article; paywalled]",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/237880-new-york-posts-2-4-billion-in-mobile-sports-bets-in-september/"
+      },
+      {
+        "label": "CDC Gaming — New York casino revenue rises 219.8% to $184.3m in September (20 Oct 2026)",
+        "kind": "secondary",
+        "url": "https://cdcgaming.com/new-york-casino-revenue-rises-219-8-to-184-3-million-in-september/"
+      },
+      {
+        "label": "Gambling.com — New York casino revenue jumps 220% as Resorts World adds tables",
+        "kind": "secondary",
+        "url": "https://www.gambling.com/us/news/new-york-casino-revenue-jumps-220-as-resorts-world-adds-tables"
+      },
+      {
+        "label": "Gaming Intelligence — New York gaming machine revenue drops below $125m in September",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/236996-new-york-gaming-machine-revenue-drops-below-125-million-in-september/"
+      },
+      {
+        "label": "Gaming Intelligence — New York Lottery sales hit $720m in September",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/237053-new-york-lottery-sales-hit-720-million-in-september/"
+      },
+      {
+        "label": "InGame — New York bettors bet more, have better success in September (operator breakdown)",
+        "kind": "secondary",
+        "url": "https://www.ingame.com/new-york-sportsbook-revenue-september-2026/"
+      },
+      {
+        "label": "Covers — New York sportsbooks' revenue slumps in September despite higher handle",
+        "kind": "secondary",
+        "url": "https://www.covers.com/industry/new-york-sportsbooks-revenue-slumps-in-september-despite-higher-handle-oct-27-2026"
+      },
+      {
+        "label": "TheLines — New York sports betting revenue slumps to $160m in September",
+        "kind": "secondary",
+        "url": "https://www.thelines.com/legal-betting/new-york-sports-betting-revenue-slumps-to-160m-in-september/"
+      },
+      {
+        "label": "RG.org — New York September 2026 sports betting revenue report",
+        "kind": "secondary",
+        "url": "https://rg.org/news/gambling-industry/new-york-september-2026-sports-betting-revenue-report"
+      },
+      {
+        "label": "Bookmakers Review — NY sports betting data Sept 2026: $2.4bn handle, 6.6% hold",
+        "kind": "secondary",
+        "url": "https://www.bookmakersreview.com/industry/new-york-bettors-love-september/"
+      },
+      {
+        "label": "Sportsbook Review — NY handle hits September record despite prediction-market growth",
+        "kind": "secondary",
+        "url": "https://www.sportsbookreview.com/news/new-york-sports-betting-handle-hits-september-record-oct-29-2026/"
+      },
+      {
+        "label": "NYSafeBets — New York sportsbook market share 2026 (YTD shares, cumulative $100bn handle)",
+        "kind": "secondary",
+        "url": "https://www.nysafebets.com/news/new-york-sportsbook-market-share"
+      },
+      {
+        "label": "iGaming Business — Resorts World NYC adds 1,400 slots, breaks ground on phase two (downstate tax rates)",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/casino/resorts-world-nyc-expansion-july-2026/"
+      },
+      {
+        "label": "iGaming Business — Resorts World NYC launches table games (28 Apr 2026)",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/casino/resorts-world-nyc-first-phase/"
+      },
+      {
+        "label": "New York Focus — RWNYC horseracing-support tax dispute",
+        "kind": "secondary",
+        "url": "https://nysfocus.com/2026/06/01/nyc-casino-resorts-world-horseracing-support-tax"
+      },
+      {
+        "label": "Casino Reports — Resorts World NYC disputed horseracing subsidy",
+        "kind": "secondary",
+        "url": "https://www.casinoreports.com/news/resorts-world-nyc-disputed-horseracing-subsidy/"
+      },
+      {
+        "label": "Gambling.com — Lawmakers push back on Resorts World NYC tax rate",
+        "kind": "secondary",
+        "url": "https://www.gambling.com/us/news/lawmakers-push-back-on-resorts-world-nyc-tax-rate"
+      },
+      {
+        "label": "QNS — Resorts World application called for standardised downstate tax rate (statutory floors, upstate petition to 30%)",
+        "kind": "secondary",
+        "url": "https://qns.com/2025/12/resorts-world-standardized-tax-rate-ny-casinos/"
+      },
+      {
+        "label": "Yogonet — NYSGC approves three downstate casino licences (15 Dec 2025; 15/20-year terms)",
+        "kind": "secondary",
+        "url": "https://www.yogonet.com/international/news/2025/12/16/116809-new-york-gaming-commission-approves-three-downstate-casino-licenses-for-queens-and-the-bronx"
+      },
+      {
+        "label": "SBC Americas — New York awards downstate casino bids ($500m fee, capex, property plans)",
+        "kind": "secondary",
+        "url": "https://sbcamericas.com/2025/12/02/new-york-approve-downstate-casino-bids/"
+      },
+      {
+        "label": "iGaming Business — New York casino process closes with all three finalists licensed",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/legal-compliance/licensing/new-york-casino-race-three-licences-awarded/"
+      },
+      {
+        "label": "CBS6 Albany (WRGB) — NY mobile sports betting tax revenue hits $1.3bn as problem gambling calls rise (OSC report coverage)",
+        "kind": "secondary",
+        "url": "https://cbs6albany.com/news/local/new-york-mobile-sports-betting-tax-revenue-hits-13b-as-problem-gambling-calls-rise-fanduel-draftkings-polymarket-state-comptroller-thomas-p-dinapoli-nba-finals-march-madness-nfl-football-mlb-world-series-gaming-revenues-impacting-state-fiscal-cbs6-wrgb"
+      },
+      {
+        "label": "FingerLakes1 — NY mobile sports betting revenue climbs as problem gambling calls rise (OSC: $5.1bn total gaming revenue, -0.8% ex-mobile)",
+        "kind": "secondary",
+        "url": "https://www.fingerlakes1.com/2026/09/17/new-york-mobile-sports-betting-revenue-climbs-as-problem-gambling-calls-rise/"
+      },
+      {
+        "label": "Chautauqua Today — DiNapoli report; problem-gambling funding doubled $6m→$12m",
+        "kind": "secondary",
+        "url": "https://www.chautauquatoday.com/news/details.cfm?clientid=25&id=369130"
+      },
+      {
+        "label": "Casino.org — Legal age to gamble in New York casinos could increase (VLT 18+, 17,600 terminals, education contributions by facility)",
+        "kind": "secondary",
+        "url": "https://www.casino.org/news/legal-age-to-gamble-in-new-york-casinos-could-increase/"
+      },
+      {
+        "label": "CDC Gaming — New York location page (Niagara County / Seneca revenue-share; RWNYC International Room)",
+        "kind": "secondary",
+        "url": "https://cdcgaming.com/location/us/new-york/"
+      }
+    ],
+    "sharePriceReaction": "",
+    "docType": "regulator"
+  }
+}
