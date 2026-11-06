@@ -1006,7 +1006,8 @@
       "https://www.gamingintelligence.com/finance/238230-sportradar-delivers-strong-revenue-and-profit-growth-in-q3-2026/",
       "https://next.io/news/results/q3-2026-betting-growth-drives-revenue-up-24-at-sportradar/",
       "https://europeangaming.eu/portal/latest-news/2026/11/04/217372/sportradar-q3-2026-results-revenue-363m/",
-      "https://www.thegamblest.com/sportradar-revenue-jumps-to-24-in-q3-2026/"
+      "https://www.thegamblest.com/sportradar-revenue-jumps-to-24-in-q3-2026/",
+      "https://igamingbusiness.com/finance/sportradar-growth-in-q3-prediction-markets-gain-ground/"
     ],
     "seen": "2026-11-04"
   },
@@ -1326,7 +1327,8 @@
     "period": "Q3 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238381-wynn-resorts-revenue-falls-8-to-1-69-billion-in-third-quarter/",
-      "https://casinobeats.com/2026/11/06/wynn-q3-profit-slides-to-17-3m-as-las-vegas-hold-and-macau-weigh-uae-spending-continues/"
+      "https://casinobeats.com/2026/11/06/wynn-q3-profit-slides-to-17-3m-as-las-vegas-hold-and-macau-weigh-uae-spending-continues/",
+      "https://next.io/news/results/q326-wynn-backs-macau-expansion-earnings-decline/"
     ],
     "seen": "2026-11-06"
   },
@@ -1374,6 +1376,31 @@
     "urls": [
       "https://www.thegamblest.com/uk-gambling-commission-introduces-index-for-illegal-gambling/",
       "https://www.yogonet.com/international/news/2026/11/05/127180-gambling-commission-finds-4-of-online-gamblers-used-illegal-websites-in-great-britain",
+      "https://next.io/news/regulation/ukgc-index-low-stable-prevalence-illegal-gambling/"
+    ],
+    "seen": "2026-11-06"
+  },
+  {
+    "key": "bet at home com|9M 2026",
+    "type": "company",
+    "company": "bet-at-home.com AG",
+    "ticker": "ACX",
+    "period": "9M 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238402-bet-at-home-posts-marginal-revenue-decline-in-9m-2026/"
+    ],
+    "seen": "2026-11-06"
+  },
+  {
+    "key": "juris|great britain|2025/26",
+    "type": "jurisdiction",
+    "market": "Great Britain",
+    "authority": "UKGC",
+    "period": "2025/26",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/11/05/127180-gambling-commission-finds-4-of-online-gamblers-used-illegal-websites-in-great-britain",
+      "https://igamingbusiness.com/legal-compliance/illegal-gambling-websites-2-5-of-online-gamblers-in-latest-uk-survey/",
+      "https://www.thegamblest.com/uk-gambling-commission-introduces-index-for-illegal-gambling/",
       "https://next.io/news/regulation/ukgc-index-low-stable-prevalence-illegal-gambling/"
     ],
     "seen": "2026-11-06"
