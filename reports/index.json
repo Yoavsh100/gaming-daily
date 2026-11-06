@@ -2702,16 +2702,62 @@
   },
   {
     "key": "juris|germany|Q3 2026",
-    "attempts": 1,
-    "lastAttempt": "2026-11-05T20:22:35.114Z",
-    "status": "failed",
-    "error": "r.forecast.bridge is not iterable",
+    "attempts": 2,
+    "lastAttempt": "2026-11-06T19:44:57.498Z",
+    "status": "done",
+    "error": null,
     "type": "jurisdiction",
     "company": {
       "name": "Germany",
-      "ticker": ""
+      "ticker": "",
+      "exchange": ""
     },
-    "period": "Q3 2026"
+    "period": "Q3 2026",
+    "slug": "GERMANY-Q3-2026",
+    "published": "2026-11-06",
+    "verdict": "Germany's Q3-26 gambling tax take rose 11% YoY to €622.1m (~$728m), but the shape — July +26%, August +12.5%, September implied ~−3% — says this is a World Cup timing effect on a 5.3%-of-stakes tax, not a step-change in underlying demand. The regulated market is large (€14.4bn GGR in 2025, flat) yet only ~24% online, with online growth (stakes +9–10% in H1-26) bought under a turnover-tax and €1-stake regime that compresses margins and leaks 23–80% of casino play offshore depending on whose study you believe. The GlüStV 2021 evaluation due 31 Dec 2026 and the 2027 licence-renewal cycle are the swing factors for anyone deciding to enter.",
+    "kpis": [
+      {
+        "label": "Q3-26 gambling tax (RennwLottG cash receipts)",
+        "value": "€622.1m (~$728m)",
+        "delta": "+11.0% YoY vs ~€560.5m",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 gambling tax",
+        "value": "€1,901m (~$2.22bn)",
+        "delta": "~+4% YoY (implied); BMF FY-26 est. €2,510m",
+        "dir": "up"
+      },
+      {
+        "label": "Q2-26 regulated stakes (GGL-licensed products)",
+        "value": "€3,624m (~$4.24bn)",
+        "delta": "−5.7% QoQ; online 86% of stakes",
+        "dir": "down"
+      },
+      {
+        "label": "FY-25 regulated market GGR",
+        "value": "€14.4bn (~$16.8bn)",
+        "delta": "flat YoY; online €3.5bn (+2%) = ~24%",
+        "dir": "flat"
+      },
+      {
+        "label": "FY-25 online slots GGR",
+        "value": "€543m (~$635m)",
+        "delta": "+11% YoY on €4.6bn stakes (11.8% hold)",
+        "dir": "up"
+      },
+      {
+        "label": "Online channelisation (legal share of online stakes)",
+        "value": "77.0%",
+        "delta": "23.0% unlicensed (study, 16 Mar 2026)",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "26 Oct 2026 (Q3-26 Destatis/BMF cash tax data; GGL Marktmonitor Q2-26 and Tätigkeitsbericht 2025 as market base)",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.91
   },
   {
     "key": "juris|alberta|JULY-SEPTEMBER 2026",
@@ -2830,5 +2876,123 @@
     "releaseDate": "7 Oct 2026 (NYSGC statewide mobile report, data through Sep-26); land-based and operator-level trade coverage 20–27 Oct 2026",
     "model": "claude-fable-5-1",
     "costUsd": 4.23
+  },
+  {
+    "key": "juris|wyoming|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-06T20:01:36.387Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "WYOMING-SEPTEMBER-2026",
+    "published": "2026-11-06",
+    "company": {
+      "name": "Wyoming",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "Wyoming is a sub-$30m-GGR, online-only, five-operator sportsbook market in which September 2026 handle fell 14.2% YoY to $23.4m (three NFL Sundays vs four, and a ~30% DraftKings retrenchment) while GGR rose 5.6% to $2.45m and state tax jumped 40% to $146.7k as promo deductions were cut. The real story for an operator is regulatory: a cheap ($100k/5-yr), uncapped licence and a 10%-of-net (≈6% of GGR) tax sit under a live 20% tax proposal, a 2027 felony sweepstakes ban and a legislature increasingly focused on the $2.5bn-handle historic-horse-racing machine market that dwarfs sports betting.",
+    "kpis": [
+      {
+        "label": "OSW handle (Sep-26)",
+        "value": "$23.42m",
+        "delta": "-14.2% YoY / +49% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "OSW GGR (Sep-26)",
+        "value": "$2.45m",
+        "delta": "+5.6% YoY; hold 10.5% vs 8.5%",
+        "dir": "up"
+      },
+      {
+        "label": "Taxable net revenue",
+        "value": "$1.47m",
+        "delta": "+40% YoY (promo deductions -32%)",
+        "dir": "up"
+      },
+      {
+        "label": "State tax (10% of net)",
+        "value": "$146.7k",
+        "delta": "+40.2% YoY; 6.0% effective on GGR",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 handle",
+        "value": "$177.4m",
+        "delta": "+9% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "HHR terminal handle (Sep-26)",
+        "value": "$240m",
+        "delta": "+16% YoY; >10x sports handle",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "c. 21 Oct 2026 (Wyoming Gaming Commission, September 2026 Combined Wagering Activity Report; trade coverage 22–27 Oct 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.03
+  },
+  {
+    "key": "juris|massachusetts|9M 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-06T20:14:23.476Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "MASSACHUSETTS-9M-2026",
+    "published": "2026-11-06",
+    "company": {
+      "name": "Massachusetts",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "9M 2026",
+    "verdict": "Massachusetts is a ~$2.0bn (LTM taxable gaming revenue) mature, closed, high-margin market whose growth engine has downshifted: 9M 2026 sports handle rose only 2.0% to $5.99bn (online $5.93bn), with taxable sports revenue +6.0% to $611m carried entirely by hold expansion (10.2% vs 9.8%), while land-based casino GGR fell 2.4% to $880m on Encore weakness. The commercial picture is a DraftKings/FanDuel fortress (74.5% of handle, 78.5% of revenue) under a regulator that is now the most interventionist in the US on bettor limits and enforcement, with a live 51%-tax / prop-ban bill (S.302) and no iGaming path before 2027 — attractive for incumbents' margins, unattractive for a new entrant.",
+    "kpis": [
+      {
+        "label": "9M-26 sports handle",
+        "value": "$5.99bn",
+        "delta": "+2.0% YoY (online $5.93bn, +2.3%)",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 taxable sports revenue (GGR-basis)",
+        "value": "$611.4m",
+        "delta": "+6.0% YoY; hold 10.20% vs 9.82%",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 casino GGR (3 properties)",
+        "value": "$879.8m",
+        "delta": "-2.4% YoY; Encore -4.7%",
+        "dir": "down"
+      },
+      {
+        "label": "9M-26 combined taxable gaming revenue",
+        "value": "$1,491m",
+        "delta": "+0.8% YoY; sports = 41%",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 state tax take (SW + casino)",
+        "value": "$374.6m",
+        "delta": "+0.5% YoY (SW $122.0m, casino $252.6m)",
+        "dir": "flat"
+      },
+      {
+        "label": "DraftKings + FanDuel share of handle",
+        "value": "74.5%",
+        "delta": "revenue share 78.5%; 7 online books live",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "20 Oct 2026 (MGC September 2026 Revenue Report; 9M = Jan–Sep 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 6.48
   }
 ]
