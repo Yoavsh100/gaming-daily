@@ -1,77 +1,5 @@
 [
   {
-    "key": "juris|ivory coast|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Ivory Coast",
-    "authority": null,
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://igamingafrika.com/ivory-coast-reserved-online-sports-to-lonaci-as-betclic-held-55-2-of-demand/"
-    ],
-    "seen": "2026-10-22"
-  },
-  {
-    "key": "juris|virginia|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Virginia",
-    "authority": null,
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237467-virginia-land-based-casinos-post-34-jump-in-september-gaming-revenue/"
-    ],
-    "seen": "2026-10-22"
-  },
-  {
-    "key": "BETS-B.ST|Q3 2026",
-    "type": "company",
-    "company": "Betsson AB",
-    "ticker": "BETS-B.ST",
-    "period": "Q3 2026",
-    "urls": [
-      "https://next.io/news/results/q3-2026-betsson-revenue-high-profit-decline/",
-      "https://europeangaming.eu/portal/latest-news/2026/10/22/216527/betsson-q3-2026-results-record-revenue-ebit/",
-      "https://igamingbusiness.com/finance/betssons-record-q3-comes-at-a-price/",
-      "https://www.gamingintelligence.com/finance/237634-betsson-negatively-impacted-by-higher-costs-in-q3/",
-      "https://igamingfuture.com/betsson-q3-revenue-rises-10-as-net-profit-falls-44/",
-      "https://www.thegamblest.com/betsson-posts-record-e326-5m-revenue-in-q3-2026/"
-    ],
-    "seen": "2026-10-22"
-  },
-  {
-    "key": "juris|latin america|2026",
-    "type": "jurisdiction",
-    "market": "Latin America",
-    "authority": "NEXT.io",
-    "period": "2026",
-    "urls": [
-      "https://next.io/news/regulation/next-io-maturity-beats-size-in-latam-igaming/"
-    ],
-    "seen": "2026-10-22"
-  },
-  {
-    "key": "las vegas sands|Q3 2026",
-    "type": "company",
-    "company": "Las Vegas Sands Corp.",
-    "ticker": "LVS",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237609-las-vegas-sands-posts-lower-revenue-and-net-income-for-q3-2026/",
-      "https://next.io/news/results/las-vegas-sands-ceo-q3-2026/"
-    ],
-    "seen": "2026-10-22"
-  },
-  {
-    "key": "juris|arizona|AUGUST 2026",
-    "type": "jurisdiction",
-    "market": "Arizona",
-    "authority": null,
-    "period": "AUGUST 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237540-arizona-sports-wagering-falls-by-5-in-august/"
-    ],
-    "seen": "2026-10-22"
-  },
-  {
     "key": "fdj united|Q3 2026",
     "type": "company",
     "company": "FDJ United",
@@ -1136,7 +1064,8 @@
       "https://next.io/news/results/q326-super-group-downgrade-full-year-guidance/",
       "https://igamingfuture.com/super-group-q3-2026/",
       "https://www.yogonet.com/international/news/2026/11/04/127170-super-group-lowers-2026-revenue-outlook-as-africa-growth-offsets-sports-weakness",
-      "https://www.thegamblest.com/super-group-revenue-falls-11-in-q3-despite-year-on-year-growth/"
+      "https://www.thegamblest.com/super-group-revenue-falls-11-in-q3-despite-year-on-year-growth/",
+      "https://europeangaming.eu/portal/latest-news/2026/11/05/217524/super-group-rules-out-prediction-markets-as-africa-leads-q3-growth/"
     ],
     "seen": "2026-11-04"
   },
@@ -1220,7 +1149,9 @@
     "ticker": "CIRSA",
     "period": "Q3 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238300-online-drives-cirsa-revenue-growth-in-third-quarter/"
+      "https://www.gamingintelligence.com/finance/238300-online-drives-cirsa-revenue-growth-in-third-quarter/",
+      "https://www.yogonet.com/international/news/2026/11/05/127191-cirsa-39s-ninemonth-profit-jumps-359-ahead-of-lottomatica-merger-vote",
+      "https://igamingbusiness.com/finance/cirsa-targets-upper-end-2026-guidance-lottomatica-merger/"
     ],
     "seen": "2026-11-05"
   },
@@ -1253,7 +1184,8 @@
     "ticker": "MLCO",
     "period": "Q3 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238316-melco-resort-entertainment-revenue-falls-10-in-third-quarter/"
+      "https://www.gamingintelligence.com/finance/238316-melco-resort-entertainment-revenue-falls-10-in-third-quarter/",
+      "https://www.yogonet.com/international/news/2026/11/05/127176-melco-q3-revenue-falls-104-to-117-billion-amid-macau-slowdown"
     ],
     "seen": "2026-11-05"
   },
@@ -1266,7 +1198,8 @@
     "urls": [
       "https://www.gamingintelligence.com/finance/238319-light-wonder-widens-q3-profit-despite-slight-revenue-decline/",
       "https://next.io/news/casino/light-wonder-flags-igaming-growth-beyond-flagship/",
-      "https://next.io/news/results/q3-2026-light-wonder-social-casino-softness/"
+      "https://next.io/news/results/q3-2026-light-wonder-social-casino-softness/",
+      "https://www.thegamblest.com/light-wonder-revenue-falls-2-in-q3-2026/"
     ],
     "seen": "2026-11-05"
   },
@@ -1302,5 +1235,71 @@
       "https://www.gamingintelligence.com/finance/238172-greece-gambling-revenue-tops-e2-billion-for-first-8-months-of-2026/"
     ],
     "seen": "2026-11-05"
+  },
+  {
+    "key": "DKNG|Q3 2026",
+    "type": "company",
+    "company": "DraftKings Inc.",
+    "ticker": "DKNG",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.covers.com/industry/draftkings-sports-predictions-success-fuels-q3-revenue-growth-nov-5-2026"
+    ],
+    "seen": "2026-11-06"
+  },
+  {
+    "key": "GENI|Q3 2026",
+    "type": "company",
+    "company": "Genius Sports Limited",
+    "ticker": "GENI",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238353-genius-sports-grows-third-quarter-revenue-by-62/"
+    ],
+    "seen": "2026-11-06"
+  },
+  {
+    "key": "penn entertainment|Q3 2026",
+    "type": "company",
+    "company": "PENN Entertainment",
+    "ticker": "PENN",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238362-penn-entertainments-q3-revenue-tops-1-84-billion/"
+    ],
+    "seen": "2026-11-06"
+  },
+  {
+    "key": "raketech|Q3 2026",
+    "type": "company",
+    "company": "Raketech Group",
+    "ticker": "RAKE.ST",
+    "period": "Q3 2026",
+    "urls": [],
+    "seen": "2026-11-06"
+  },
+  {
+    "key": "juris|united kingdom|APRIL 2025-APRIL 2026",
+    "type": "jurisdiction",
+    "market": "United Kingdom",
+    "authority": "UKGC",
+    "period": "APRIL 2025-APRIL 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/11/05/127180-gambling-commission-finds-4-of-online-gamblers-used-illegal-websites-in-great-britain"
+    ],
+    "seen": "2026-11-06"
+  },
+  {
+    "key": "juris|ireland|2026",
+    "type": "jurisdiction",
+    "market": "Ireland",
+    "authority": "ESRI",
+    "period": "2026",
+    "urls": [
+      "https://focusgn.com/online-bettors-gambling-expansion-ireland",
+      "https://europeangaming.eu/portal/latest-news/2026/11/05/217515/esri-grai-study-irish-gamblers-multiple-accounts/",
+      "https://igamingbusiness.com/legal-compliance/one-seven-irish-gamblers-prompted-bet-operator-messages-ads/"
+    ],
+    "seen": "2026-11-06"
   }
 ]
