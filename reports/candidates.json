@@ -1342,5 +1342,40 @@
       "https://next.io/news/regulation/ukgc-index-low-stable-prevalence-illegal-gambling/"
     ],
     "seen": "2026-11-06"
+  },
+  {
+    "key": "cirsa|9M 2026",
+    "type": "company",
+    "company": "Cirsa",
+    "ticker": null,
+    "period": "9M 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/11/05/127191-cirsa-39s-ninemonth-profit-jumps-359-ahead-of-lottomatica-merger-vote"
+    ],
+    "seen": "2026-11-06"
+  },
+  {
+    "key": "juris|kentucky|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Kentucky",
+    "authority": null,
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238187-kentucky-sports-wagers-fall-1-in-september/"
+    ],
+    "seen": "2026-11-06"
+  },
+  {
+    "key": "juris|great britain|APRIL 2025 - APRIL 2026",
+    "type": "jurisdiction",
+    "market": "Great Britain",
+    "authority": "UKGC",
+    "period": "APRIL 2025 - APRIL 2026",
+    "urls": [
+      "https://www.thegamblest.com/uk-gambling-commission-introduces-index-for-illegal-gambling/",
+      "https://www.yogonet.com/international/news/2026/11/05/127180-gambling-commission-finds-4-of-online-gamblers-used-illegal-websites-in-great-britain",
+      "https://next.io/news/regulation/ukgc-index-low-stable-prevalence-illegal-gambling/"
+    ],
+    "seen": "2026-11-06"
   }
 ]
