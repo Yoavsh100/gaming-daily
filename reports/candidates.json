@@ -1243,7 +1243,9 @@
     "ticker": "DKNG",
     "period": "Q3 2026",
     "urls": [
-      "https://www.covers.com/industry/draftkings-sports-predictions-success-fuels-q3-revenue-growth-nov-5-2026"
+      "https://www.covers.com/industry/draftkings-sports-predictions-success-fuels-q3-revenue-growth-nov-5-2026",
+      "https://www.gamingintelligence.com/finance/238388-draftkings-widens-net-loss-to-468-7-million-in-q3-2026/",
+      "https://next.io/news/results/draftkings-slashes-2026-profit-forecast/"
     ],
     "seen": "2026-11-06"
   },
@@ -1254,7 +1256,9 @@
     "ticker": "GENI",
     "period": "Q3 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238353-genius-sports-grows-third-quarter-revenue-by-62/"
+      "https://www.gamingintelligence.com/finance/238353-genius-sports-grows-third-quarter-revenue-by-62/",
+      "https://europeangaming.eu/portal/latest-news/2026/11/06/217539/genius-sports-q3-2026-results/",
+      "https://next.io/news/results/q3-2026-genius-ups-fy-guidance-after-operating-profit/"
     ],
     "seen": "2026-11-06"
   },
@@ -1299,6 +1303,43 @@
       "https://focusgn.com/online-bettors-gambling-expansion-ireland",
       "https://europeangaming.eu/portal/latest-news/2026/11/05/217515/esri-grai-study-irish-gamblers-multiple-accounts/",
       "https://igamingbusiness.com/legal-compliance/one-seven-irish-gamblers-prompted-bet-operator-messages-ads/"
+    ],
+    "seen": "2026-11-06"
+  },
+  {
+    "key": "cirsa enterprises|9M 2026",
+    "type": "company",
+    "company": "Cirsa Enterprises",
+    "ticker": null,
+    "period": "9M 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/11/05/127191-cirsa-39s-ninemonth-profit-jumps-359-ahead-of-lottomatica-merger-vote",
+      "https://igamingbusiness.com/finance/cirsa-targets-upper-end-2026-guidance-lottomatica-merger/"
+    ],
+    "seen": "2026-11-06"
+  },
+  {
+    "key": "wynn resorts|Q3 2026",
+    "type": "company",
+    "company": "Wynn Resorts",
+    "ticker": "WYNN",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238381-wynn-resorts-revenue-falls-8-to-1-69-billion-in-third-quarter/",
+      "https://casinobeats.com/2026/11/06/wynn-q3-profit-slides-to-17-3m-as-las-vegas-hold-and-macau-weigh-uae-spending-continues/"
+    ],
+    "seen": "2026-11-06"
+  },
+  {
+    "key": "juris|great britain|APRIL 2025–APRIL 2026",
+    "type": "jurisdiction",
+    "market": "Great Britain",
+    "authority": "UKGC",
+    "period": "APRIL 2025–APRIL 2026",
+    "urls": [
+      "https://www.thegamblest.com/uk-gambling-commission-introduces-index-for-illegal-gambling/",
+      "https://www.yogonet.com/international/news/2026/11/05/127180-gambling-commission-finds-4-of-online-gamblers-used-illegal-websites-in-great-britain",
+      "https://next.io/news/regulation/ukgc-index-low-stable-prevalence-illegal-gambling/"
     ],
     "seen": "2026-11-06"
   }
