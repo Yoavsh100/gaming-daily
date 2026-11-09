@@ -1094,7 +1094,8 @@
     "urls": [
       "https://www.gamingintelligence.com/finance/238362-penn-entertainments-q3-revenue-tops-1-84-billion/",
       "https://www.gamblinginsider.com/news/202501/penn-q3-2026-earnings-texas-igaming-expansion",
-      "https://www.yogonet.com/international/news/2026/11/06/127210-penn-entertainment-39s-q3-revenue-rises-to-184-billion-as-it-returns-to-profit"
+      "https://www.yogonet.com/international/news/2026/11/06/127210-penn-entertainment-39s-q3-revenue-rises-to-184-billion-as-it-returns-to-profit",
+      "https://igamingfuture.com/penn-entertainment-q3/"
     ],
     "seen": "2026-11-06"
   },
@@ -1340,6 +1341,17 @@
     "period": "Q3 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238337-latvia-gambling-revenue-hits-e80-million-in-q3-2026/"
+    ],
+    "seen": "2026-11-09"
+  },
+  {
+    "key": "juris|philippines|Q3 2026",
+    "type": "jurisdiction",
+    "market": "Philippines",
+    "authority": null,
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238434-philippine-gambling-industry-continues-to-decline-in-q3-2026/"
     ],
     "seen": "2026-11-09"
   }
