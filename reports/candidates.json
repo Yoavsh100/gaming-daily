@@ -624,7 +624,9 @@
     "period": "2026",
     "urls": [
       "https://casinobeats.com/2026/11/01/gambling-commission-payment-data-91-of-repeat-illegal-site-users-still-bet-with-licensed-sites/",
-      "https://focusgn.com/ukgc-illegal-gambling-harm-study"
+      "https://focusgn.com/ukgc-illegal-gambling-harm-study",
+      "https://focusgn.com/illegal-gambling-index-gambling-commission",
+      "https://igamingbusiness.com/legal-compliance/illegal-gambling-websites-2-5-of-online-gamblers-in-latest-uk-survey/"
     ],
     "seen": "2026-11-02"
   },
@@ -1258,7 +1260,9 @@
     "company": "Galaxy Entertainment Group",
     "ticker": "0027.HK",
     "period": "Q3 2026",
-    "urls": [],
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238417-galaxy-entertainment-grows-third-quarter-revenue-to-hk12-7-billion/"
+    ],
     "seen": "2026-11-09"
   },
   {
@@ -1293,6 +1297,50 @@
     "authority": null,
     "period": "2026",
     "urls": [],
+    "seen": "2026-11-09"
+  },
+  {
+    "key": "pollard banknote|Q3 2026",
+    "type": "company",
+    "company": "Pollard Banknote Limited",
+    "ticker": "PBL.TO",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238431-pollard-banknote-net-income-declines-21-in-third-quarter/"
+    ],
+    "seen": "2026-11-09"
+  },
+  {
+    "key": "sjm|Q3 2026",
+    "type": "company",
+    "company": "SJM Holdings",
+    "ticker": "0880.HK",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238429-sjm-holdings-slips-to-loss-in-third-quarter/"
+    ],
+    "seen": "2026-11-09"
+  },
+  {
+    "key": "sega sammy|H1 FY2027",
+    "type": "company",
+    "company": "Sega Sammy Holdings",
+    "ticker": "6460.T",
+    "period": "H1 FY2027",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238421-sega-sammy-profit-soars-in-first-half-as-net-sales-rise-6/"
+    ],
+    "seen": "2026-11-09"
+  },
+  {
+    "key": "juris|latvia|Q3 2026",
+    "type": "jurisdiction",
+    "market": "Latvia",
+    "authority": null,
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238337-latvia-gambling-revenue-hits-e80-million-in-q3-2026/"
+    ],
     "seen": "2026-11-09"
   }
 ]
