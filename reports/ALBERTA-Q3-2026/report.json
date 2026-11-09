@@ -1,0 +1,1491 @@
+{
+  "company": {
+    "name": "Alberta",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 3151391,
+    "output": 59546,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 70,
+    "cacheRead": 3013824,
+    "cacheWrite": 137497,
+    "turns": 1
+  },
+  "prepared": "9 Nov 2026",
+  "report": {
+    "releaseDate": "26 Oct 2026 (AiGC Market Performance Report – September 2026 edition; covers 13 Jul–30 Sep 2026)",
+    "currency": "CAD (tables in C$ millions unless stated; ~USD alongside at USD/CAD 1.40)",
+    "verdict": "Alberta's first 80 days as Canada's second open iGaming market produced C$2,885m (~$2,061m) of wagers and C$122.1m (~$87.2m) of non-adjusted GGR, with September alone at C$56.6m (~$40.4m) — a run-rate (~C$680m annualised) already ~1.7x the GGR implied by the government's own C$76m year-one revenue forecast. It is a casino-led market (78% of NAGGR) run on an Ontario-style conduct-and-manage model with a ~22% effective public take, cheap licences and the strictest day-one advertising rules in Canada; the swing factors from here are the Premier's threatened advertising clampdown, enforcement against the ~70% offshore base, and how 50 approved sites split a ~5m-person province.",
+    "kpis": [
+      {
+        "label": "Q3-26 NAGGR (13 Jul–30 Sep)",
+        "value": "C$122.1m (~$87.2m)",
+        "delta": "Sep C$56.6m, +30.7% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "Q3-26 Wagers",
+        "value": "C$2,885m (~$2,061m)",
+        "delta": "Sep C$1,277m, +20.0% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "Active player accounts (Sep)",
+        "value": "388,585",
+        "delta": "+23.7% MoM; ARPPA C$146 (~$104)",
+        "dir": "up"
+      },
+      {
+        "label": "Active operators (Sep)",
+        "value": "24",
+        "delta": "29 operators / 50 sites approved by 13 Oct",
+        "dir": "up"
+      },
+      {
+        "label": "Blended hold (Sep)",
+        "value": "4.43%",
+        "delta": "Casino 4.3% · Betting 7.3% · Live 2.3%",
+        "dir": "up"
+      },
+      {
+        "label": "Est. public take Q3 (20% of net + 3% GGR)",
+        "value": "~C$27m (~$20m)",
+        "delta": "Sep run-rate ~C$12.7m/mth vs C$76m FY1 budget",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**Market structure.** Alberta opened Canada's second competitive iGaming market on 13 Jul 2026 under the iGaming Alberta Act (SA 2025, Bill 48) and amended Gaming, Liquor and Cannabis Act. Alberta Gaming, Liquor and Cannabis (AGLC) is regulator and standard-setter; the new Crown corporation Alberta iGaming Corporation (AiGC) 'conducts and manages' the market and contracts private operators — a direct analogue of Ontario's AGCO/iGO split. Minimum age is 18 (Ontario: 19).",
+      "**Size (primary, unaudited).** AiGC's September Market Performance Report shows 13 Jul–30 Sep wagers of C$2,885.1m (~$2,061m), winnings C$2,762.9m (~$1,974m) and non-adjusted GGR (NAGGR = wagers less winnings, before promotional costs) of C$122.1m (~$87.2m); blended hold 4.23%. Monthly NAGGR: Jul (19 days) C$22.2m → Aug C$43.3m → Sep C$56.6m (+30.7% MoM) on wagers of C$542.9m → C$1,064.8m → C$1,277.4m (+20.0%).",
+      "**Run-rate vs forecast.** September annualises at ~C$680m (~$485m) NAGGR before further operator additions — ~1.7x the ~C$390m GGR implied by Minister Dale Nally's C$76m (~$54m) year-one government revenue forecast, and inside the C$850m–C$1.2bn year-one range third parties attribute to H2 Gambling Capital (two conflicting figures; neither read at source). Our estimate for the first 12 months is C$740–810m NAGGR (3–5% monthly growth) — see forecast.",
+      "**Online vs retail.** AiGC reports online only. The legacy AGLC estate (≈30 casinos' slots, VLTs, lottery, bingo and the state site Play Alberta) booked FY2024-25 gaming net sales of C$2,133.7m (~$1,524m) and gaming net income of C$1,486.9m (~$1,062m). Play Alberta's FY2024-25 net sales were C$269.9m (~$193m) and government estimated it held only 23–32% of provincial online play, i.e. ~70% of iGaming was offshore pre-launch. On September's run-rate, regulated online NAGGR is now ~C$680m/yr vs Play Alberta's C$270m — roughly a 2.5x step-up in onshore online revenue.",
+      "**Product mix.** Casino (RNG slots, tables, poker, keno) delivered 78.2% of Q3 NAGGR (C$95.5m, ~$68.2m), Sports & Event Betting 16.4% (C$20.1m, ~$14.4m) and Live Casino 5.4% (C$6.6m, ~$4.7m). September split: 75.6% / 19.5% / 4.9%. Fantasy Sports and Peer-to-Peer (poker/exchange) are eligible product categories but reported no activity in Q3.",
+      "**Sports betting.** Q3 handle C$325.8m (~$233m), NAGGR C$20.1m, hold 6.2%. September handle C$152.7m (+36% MoM) and NAGGR C$11.1m (+114%) at a 7.3% hold as NFL/CFL/college football returned; August hold was only 4.6%. Betting is 11–12% of wagers but 16–20% of NAGGR — higher margin, far lower turnover than casino.",
+      "**Players.** Active player accounts rose 226,959 (Jul) → 314,091 → 388,585 (Sep); ARPPA C$98 → C$138 → C$146 (~$104); wagers per account ~C$3,300/month. Accounts are not unique players (multi-operator sign-ups), so penetration cannot be computed from this series.",
+      "**Licensing regime.** Two-step entry: (1) AGLC registration per distinct iGaming site (due diligence, compliance attestations, integration with the centralised self-exclusion system), then (2) a commercial operating agreement with AiGC; betting starts only once AiGC notifies. Fees are fixed and non-refundable: C$50,000 (~$36k) one-time application (includes due-diligence costs) and C$150,000 (~$107k) annual registration per site; platform/critical-system suppliers C$15,000/yr (~$11k); other suppliers (e-wallets, oddsmakers, integrity monitors, test labs) C$3,000/yr (~$2k). Standards sit in AGLC's Standards and Requirements for Internet Gaming (SRIG, ~85 pp, Jan 2026; revised 18 Jun 2026).",
+      "**Fiscal regime (revenue share, not a tax statute).** Per Alberta.ca: 3% of gross gaming revenue is allocated first to First Nations initiatives (2%) and social-responsibility/problem-gambling funding (1%); the remaining 'net iGaming revenue' is split 80% operator / 20% province. Effective public take ≈22.4% of GGR (our estimate; the precise definition of 'net' — e.g. treatment of promotional credits and GST — is not published). Base is revenue, not turnover; no player withholding (recreational winnings untaxed in Canada).",
+      "**Public take to date (estimate).** Applying the published formula to NAGGR gives ~C$27.4m (~$19.6m) for Q3 — province C$23.7m, First Nations C$2.4m, RG C$1.2m — and ~C$12.7m in September alone (~C$152m annualised vs C$76m budgeted for year one). Treat as an upper bound: if the agreements compute the share on promo-adjusted revenue the take is lower.",
+      "**Operator landscape.** 22 sites went live on day one from 50 registered operators; active operators (with agreements and live sites) were 16/20/24 in Jul/Aug/Sep. At the 13 Oct 2026 grace-period close AiGC listed 29 operators and 50 sites, including bet365 (casino and sportsbook), FanDuel, DraftKings, BetMGM, BetRivers, Bally Bet, BetVictor, BET99, Stake (Stake Canada Ltd), Betway, JackpotCity, PlayOJO, TonyBet, PlayBetNova (Delasport) and AGLC's Play Alberta. AiGC CEO Dan Keene guides to 60+ sites in 2027. Operator-level shares are not disclosed (n/a).",
+      "**Channelisation and enforcement.** AiGC's stated goals: 70% of online activity on regulated sites after year one and 75% by year two (from ~30% pre-launch). The three-month transition ended 13 Oct 2026; unregistered sites must stop taking Alberta wagers and AGLC says it will monitor and act. Enforcement tools (payment/ISP blocking, affiliate liability) are not publicly specified — this is the key swing factor for the 70% target.",
+      "**Advertising — strictest in Canada, and tightening.** SRIG (18 Jun 2026) bans public advertising of inducements, bonuses and credits (permitted only on the operator's own site or via opted-in direct marketing); bars athletes except for responsible-gambling messaging; prohibits content appealing to minors (cartoons, influencers, celebrities), billboards near schools, 'excessive play' or financial-security claims; land-based casinos may not promote iGaming inducements. Premier Danielle Smith said on 25 Oct 2026 that Albertans are complaining about ad saturation and rule changes may follow — a live regulatory risk for Q1–Q2 2027.",
+      "**Responsible gambling.** A centralised self-exclusion system covering all iGaming sites, all land-based venues or all gambling was live from day one (Ontario still lacks this); 1% of GGR is earmarked for RG and treatment; the Premier has said operators should fund addiction treatment. AML/KYC runs to FINTRAC standards with sanctions screening, account-sharing detection and continuous geolocation.",
+      "**Payments.** AiGC publishes no deposit-method data. Payment providers and e-wallets must register with AGLC as 'supplier–other' (C$3,000/yr). Canadian regulated iGaming is Interac e-Transfer-led with cards and wallets secondary [industry norm, not quantified by the regulator]; the SRIG position on credit-card and crypto deposits was not verified in this research.",
+      "**Governance and politics.** Lead ministry is Service Alberta and Red Tape Reduction (Minister Nally). AGLC is simultaneously regulator and operator of Play Alberta — a conflict flagged by trade press — and a bill tabled in May 2026 could enable a sale of the Play Alberta platform/customer data. Budget 2026 assumes AGLC gaming and lottery net income of C$1,577m (~$1,126m) in 2026-27 rising to C$1,635m by 2028-29 and total AGLC net income ~C$2.4bn/yr — land-based cannibalisation by online is not visibly modelled.",
+      "**Benchmark.** Ontario (≈3x Alberta's population) generated FY2024-25 wagers of C$82.7bn and GGR of C$3.2bn (iGO) and >C$4bn GGR in calendar 2025 on C$98.3bn wagers (+34% YoY). Alberta's September NAGGR equals roughly 17% of Ontario's monthly GGR on ~1/3 of the population — consistent with a market in month three of channelisation, with headroom as the roster fills.",
+      "**Read-through for an operator.** Fundamentals are attractive: casino-led mix, 18+ age, high-income province, ~22% effective take, negligible fee drag (C$150k ≈ 0.5% of an average operator's annualised Sep NAGGR), Ontario-compatible compliance stack and transparent monthly data. Constraints are commercial and political: 50 sites chasing ~5m people, promotions pushed only through owned channels (so NAGGR flatters net revenue), an imminent advertising review, undefined 'net revenue' base, and no operator-level data to track share. Late entrants need differentiated product (live, P2P/poker once liquidity rules settle) or Ontario scale; sports-only models face thin, volatile economics."
+    ],
+    "groupTable": {
+      "note": "Alberta regulated iGaming (AiGC data; C$m unless stated)",
+      "columns": [
+        "Jul-26 (13–31 Jul)",
+        "Aug-26",
+        "Sep-26",
+        "Sep MoM",
+        "Q3-26 (80 days)"
+      ],
+      "rows": [
+        {
+          "label": "Market volumes",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Wagers (stakes incl. fees)",
+          "indent": true,
+          "cells": [
+            "542.9 (~$387.8m)",
+            "1,064.8 (~$760.6m)",
+            "1,277.4 (~$912.4m)",
+            "+20.0%",
+            "2,885.1 (~$2,060.8m)"
+          ]
+        },
+        {
+          "label": "Winnings paid",
+          "indent": true,
+          "cells": [
+            "520.6",
+            "1,021.5",
+            "1,220.8",
+            "+19.5%",
+            "2,762.9 (~$1,973.5m)"
+          ]
+        },
+        {
+          "label": "NAGGR (wagers − winnings; pre-promo)",
+          "kind": "emphasis",
+          "cells": [
+            "22.2 (~$15.9m)",
+            "43.3 (~$30.9m)",
+            "56.6 (~$40.4m)",
+            "+30.7%",
+            "122.1 (~$87.2m)"
+          ]
+        },
+        {
+          "label": "Blended hold (NAGGR/wagers)",
+          "indent": true,
+          "cells": [
+            "4.09%",
+            "4.07%",
+            "4.43%",
+            "+36bp",
+            "4.23%"
+          ]
+        },
+        {
+          "label": "NAGGR by product",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Casino (RNG slots/tables/poker/keno)",
+          "indent": true,
+          "cells": [
+            "17.0 (~$12.1m)",
+            "35.7 (~$25.5m)",
+            "42.8 (~$30.6m)",
+            "+19.9%",
+            "95.5 (~$68.2m)"
+          ]
+        },
+        {
+          "label": "Sports & event betting",
+          "indent": true,
+          "cells": [
+            "3.8 (~$2.7m)",
+            "5.2 (~$3.7m)",
+            "11.1 (~$7.9m)",
+            "+113.5%",
+            "20.1 (~$14.4m)"
+          ]
+        },
+        {
+          "label": "Live casino",
+          "indent": true,
+          "cells": [
+            "1.4 (~$1.0m)",
+            "2.4 (~$1.7m)",
+            "2.8 (~$2.0m)",
+            "+16.7%",
+            "6.6 (~$4.7m)"
+          ]
+        },
+        {
+          "label": "Casino share of NAGGR / Betting share",
+          "indent": true,
+          "cells": [
+            "76.4% / 17.3%",
+            "82.3% / 12.1%",
+            "75.6% / 19.5%",
+            "−6.7pp / +7.4pp",
+            "78.2% / 16.4%"
+          ]
+        },
+        {
+          "label": "Fantasy / Peer-to-peer",
+          "indent": true,
+          "cells": [
+            "no activity",
+            "no activity",
+            "no activity",
+            "—",
+            "eligible, not yet live"
+          ]
+        },
+        {
+          "label": "Players & operators",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Active operators (live, with AiGC agreement)",
+          "indent": true,
+          "cells": [
+            "16",
+            "20",
+            "24",
+            "+4",
+            "24 (29 ops / 50 sites approved by 13 Oct)"
+          ]
+        },
+        {
+          "label": "Active player accounts (not unique)",
+          "indent": true,
+          "cells": [
+            "226,959",
+            "314,091",
+            "388,585",
+            "+23.7%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "ARPPA (NAGGR per active account, C$)",
+          "indent": true,
+          "cells": [
+            "98",
+            "138",
+            "146 (~$104)",
+            "+5.8%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Wagers per active account (C$)",
+          "indent": true,
+          "cells": [
+            "2,392",
+            "3,390",
+            "3,287",
+            "−3.0%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Fiscal regime & fees",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Public take: base & rate",
+          "indent": true,
+          "cells": [
+            "3% of GGR carve-out (2% First Nations, 1% RG)",
+            "then 20% of 'net iGaming revenue' to province",
+            "≈22.4% of GGR effective (est.)",
+            "—",
+            "Revenue share via AiGC agreement; not a turnover tax"
+          ]
+        },
+        {
+          "label": "Est. public take (formula applied to NAGGR)",
+          "indent": true,
+          "footnote": "Estimate: assumes NAGGR ≈ GGR base and no further deductions; actual take is lower if agreements use promo-adjusted revenue.",
+          "cells": [
+            "5.0 (~$3.6m)",
+            "9.7 (~$6.9m)",
+            "12.7 (~$9.1m)",
+            "+30.7%",
+            "27.4 (~$19.6m)"
+          ]
+        },
+        {
+          "label": "Operator registration fees (AGLC)",
+          "indent": true,
+          "cells": [
+            "C$50k one-time application (~$36k)",
+            "C$150k/yr per site (~$107k)",
+            "Suppliers C$15k or C$3k/yr (~$11k / ~$2k)",
+            "—",
+            "Non-refundable; per distinct site"
+          ]
+        },
+        {
+          "label": "Legacy baseline (AGLC FY2024-25)",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Play Alberta net sales (state site)",
+          "indent": true,
+          "cells": [
+            "FY22-23: 179",
+            "FY23-24: 235",
+            "FY24-25: 269.9 (~$192.8m)",
+            "+15% YoY",
+            "Casino 73%; sports only C$8.0m"
+          ]
+        },
+        {
+          "label": "AGLC gaming net sales / net income",
+          "indent": true,
+          "cells": [
+            "Net sales 2,133.7 (~$1,524m)",
+            "Net income 1,486.9 (~$1,062m)",
+            "Budget 2026-27: 1,577 (~$1,126m)",
+            "≈flat YoY",
+            "Total AGLC net income ~2,400/yr (~$1.7bn)"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Sports & event betting",
+        "headline": "A 16% minority product with volatile hold (4.6%→7.3%) — September's C$11.1m already exceeds Play Alberta's entire FY2024-25 sports take.",
+        "narrative": [
+          "Across the 80-day period licensed books took C$325.8m (~$232.7m) of handle and kept C$20.1m (~$14.4m) of non-adjusted GGR, a blended hold of 6.2%. The monthly sequence is instructive: July's 19 days (C$60.9m handle, C$3.8m NAGGR) coincided with the final week of the World Cup and held 6.2%; August (C$112.2m handle, C$5.2m NAGGR) was a baseball-heavy, low-margin month at 4.6%; September (C$152.7m handle, +36% MoM; C$11.1m NAGGR, +114%) brought NFL, CFL and college football and a 7.3% hold. Betting's share of market NAGGR swung 17.3% → 12.1% → 19.5% while its share of wagers stayed at 11–12%, so the vertical earns roughly 1.7x casino's margin per dollar staked but on a fraction of the turnover.",
+          "The blended 6.2% hold sits below the 8–10% that parlay-heavy US books now print, which points to a straight-bet/moneyline-weighted early mix and aggressive launch pricing: because inducements may be marketed only on-site or by opted-in CRM, odds boosts and bet credits are being spent inside the apps rather than on billboards, and AiGC's 'non-adjusted' metric does not strip them out. We would expect Q4 hold to normalise toward 7–8% with the NHL (Oilers, Flames), the NFL mid-season and the Grey Cup in Calgary on 15 Nov 2026, and for betting's NAGGR share to oscillate between ~15% in quiet months and ~20% in football months.",
+          "The eligible 'Sports and Event Betting' category covers traditional sports, esports and novelty markets with single-event, live, pool and parlay bet types (single-event wagering has been lawful in Canada since the 2021 Criminal Code amendment). Peer-to-peer sports betting (exchanges) is a separate eligible category that recorded no activity in Q3 — a white space. The pre-launch baseline underlines how much sports value was offshore: Play Alberta's sports vertical generated only C$8.0m (~$5.7m) of net sales in all of FY2024-25, 3% of its total, so the open market's September alone exceeded the state monopoly's annual sports revenue.",
+          "For an operator the demographics are favourable — an 18+ age floor (Ontario is 19+) widens the young-male sports cohort — but acquisition is constrained: athletes may appear only in responsible-gambling messaging, public bonus advertising is banned, and licensees are exposed if affiliates also promote unlicensed sites, so growth leans on brand, media and league partnerships (bet365 is a CFL partner in Ontario and Alberta), sponsorship and CRM. Operator-level handle shares are not published (n/a); mature-market precedent suggests the FanDuel/DraftKings/bet365/BetMGM/theScore cohort will concentrate share, leaving sports-only challengers with thin, volatile unit economics unless they cross-sell casino.",
+          "Two regulatory items bear directly on this vertical. First, the Premier's 25 Oct comments about ad saturation were anchored in sports broadcasts, so any tightening is likely to land hardest on sportsbook marketing. Second, US-style event-contract/prediction-market products are not an Eligible iGame under the Act; whether AGLC treats such offers to Albertans as unlicensed gambling has not been addressed in any source reviewed and is a watch item."
+        ],
+        "table": {
+          "note": "Sports & event betting (C$m)",
+          "columns": [
+            "Jul-26 (19 days)",
+            "Aug-26",
+            "Sep-26",
+            "Sep MoM",
+            "Q3-26"
+          ],
+          "rows": [
+            {
+              "label": "Handle (wagers)",
+              "cells": [
+                "60.9 (~$43.5m)",
+                "112.2 (~$80.1m)",
+                "152.7 (~$109.1m)",
+                "+36.1%",
+                "325.8 (~$232.7m)"
+              ]
+            },
+            {
+              "label": "Winnings paid",
+              "cells": [
+                "57.1",
+                "107.0",
+                "141.6",
+                "+32.3%",
+                "305.7"
+              ]
+            },
+            {
+              "label": "NAGGR",
+              "kind": "emphasis",
+              "cells": [
+                "3.8 (~$2.7m)",
+                "5.2 (~$3.7m)",
+                "11.1 (~$7.9m)",
+                "+113.5%",
+                "20.1 (~$14.4m)"
+              ]
+            },
+            {
+              "label": "Hold (NAGGR/handle)",
+              "cells": [
+                "6.24%",
+                "4.63%",
+                "7.27%",
+                "+264bp",
+                "6.17%"
+              ]
+            },
+            {
+              "label": "Share of market NAGGR",
+              "cells": [
+                "17.3%",
+                "12.1%",
+                "19.5%",
+                "+7.4pp",
+                "16.4%"
+              ]
+            },
+            {
+              "label": "Share of market wagers",
+              "cells": [
+                "11.2%",
+                "10.5%",
+                "12.0%",
+                "+1.5pp",
+                "11.3%"
+              ]
+            },
+            {
+              "label": "Handle MoM",
+              "cells": [
+                "—",
+                "+84.2%",
+                "+36.1%",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Play Alberta sports net sales FY2024-25 (baseline)",
+              "cells": [
+                "—",
+                "—",
+                "—",
+                "—",
+                "8.0 (~$5.7m) for the full year"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Q3 handle and hold",
+            "takeaway": "Licensed books took C$325.8m (~$232.7m) handle and C$20.1m (~$14.4m) NAGGR over 80 days, a volatile 6.2% blended hold.",
+            "points": [
+              "July (19 days, final World Cup week): C$60.9m handle, C$3.8m NAGGR, 6.2% hold.",
+              "August, baseball-heavy and low-margin: C$112.2m handle, C$5.2m NAGGR, 4.6% hold.",
+              "September with NFL, CFL and college football: C$152.7m handle (+36% MoM), C$11.1m NAGGR (+114%), 7.3% hold.",
+              "Betting's NAGGR share swung 17.3% → 12.1% → 19.5% while its wager share stayed 11–12%.",
+              "Vertical earns roughly 1.7x casino's margin per dollar staked but on a fraction of the turnover."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Hold outlook",
+            "takeaway": "The 6.2% hold trails the 8–10% parlay-heavy US books print; we expect Q4 to normalise toward 7–8%.",
+            "points": [
+              "Low hold points to a straight-bet/moneyline-weighted early mix and aggressive launch pricing.",
+              "Inducements may only be marketed on-site or via opted-in CRM, so boosts and bet credits are spent inside apps.",
+              "AiGC's 'non-adjusted' metric does not strip out promotions.",
+              "Q4 catalysts: NHL (Oilers, Flames), NFL mid-season and the Grey Cup in Calgary on 15 Nov 2026.",
+              "Betting's NAGGR share should oscillate between ~15% in quiet months and ~20% in football months."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Eligible category and baseline",
+            "takeaway": "September's C$11.1m alone exceeded Play Alberta's entire FY2024-25 sports net sales of C$8.0m (~$5.7m), 3% of its total.",
+            "points": [
+              "Category covers traditional sports, esports and novelty markets with single-event, live, pool and parlay bets.",
+              "Single-event wagering has been lawful in Canada since the 2021 Criminal Code amendment.",
+              "Peer-to-peer sports betting (exchanges) is a separate eligible category with no Q3 activity — a white space.",
+              "Baseline underlines how much sports value was offshore before launch."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Demographics and acquisition",
+            "takeaway": "An 18+ age floor (Ontario is 19+) widens the young-male cohort, but acquisition is constrained and share will likely concentrate.",
+            "points": [
+              "Athletes may appear only in responsible-gambling messaging; public bonus advertising is banned.",
+              "Licensees are exposed if affiliates also promote unlicensed sites.",
+              "Growth leans on brand, media and league partnerships (bet365 is a CFL partner in Ontario and Alberta), sponsorship and CRM.",
+              "Operator-level handle shares are not published (n/a).",
+              "Mature-market precedent suggests FanDuel/DraftKings/bet365/BetMGM/theScore concentrate share, leaving sports-only challengers thin, volatile economics unless they cross-sell casino."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Regulatory watch items",
+            "takeaway": "Any advertising tightening is likely to land hardest on sportsbook marketing; prediction-market treatment is unaddressed.",
+            "points": [
+              "The Premier's 25 Oct comments about ad saturation were anchored in sports broadcasts.",
+              "US-style event-contract/prediction-market products are not an Eligible iGame under the Act.",
+              "Whether AGLC treats such offers to Albertans as unlicensed gambling has not been addressed in any source reviewed."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Online casino & live casino",
+        "headline": "Casino is where the value sits — 78% of NAGGR at a steady ~4.2% hold; live dealer is under-indexed at 5% and shrinking in share.",
+        "narrative": [
+          "RNG casino (slots, progressive jackpots, tables, poker and keno) took C$2,275.2m (~$1,625m) of wagers and C$95.5m (~$68.2m) of NAGGR in the period, a 4.20% hold. Monthly wagers ran C$422.4m → C$849.6m (+101%) → C$1,003.2m (+18%) and NAGGR C$17.0m → C$35.7m → C$42.8m (+19.9% in September). Hold edged up 4.02% → 4.20% → 4.27%, consistent with a slots-dominant mix where high recycling of balances keeps revenue at 4–5% of turnover. Casino's share of NAGGR was 76.4% in July, peaked at 82.3% in August when sports hold collapsed, and settled at 75.6% in September.",
+          "Live casino (dealer-hosted tables, live slots/keno, gameshows) generated C$284.1m (~$203m) of wagers and C$6.6m (~$4.7m) of NAGGR at a stable 2.3% hold, but its share of market NAGGR fell 6.3% → 5.6% → 4.9% as RNG-centric brands came online. In mature online-casino markets live dealer typically captures a materially larger slice of casino GGR than 5%, so Alberta looks under-penetrated — an opening for live-led brands and for studios licensing content through AGLC-registered platform suppliers (C$15,000/yr) and test labs (C$3,000/yr).",
+          "The legacy baseline frames the channelisation story. Play Alberta's FY2024-25 casino net sales were C$197.3m (~$141m, 73% of its C$269.9m), with live dealer C$21.4m and instants C$27.8m. The open market's September casino-plus-live NAGGR of C$45.6m annualises to ~C$547m — roughly 2.5x the state site's annual casino take within three months — which, set against government's pre-launch estimate that only 23–32% of online play was regulated, indicates offshore volume is moving onshore quickly, albeit with some demand creation from 24 brands marketing simultaneously.",
+          "Unit economics for operators: public take of ~22.4% of GGR (estimate) plus federal GST plus C$150,000 per site; against that, launch-phase promotional intensity is invisible in NAGGR, and we would expect promo-adjusted revenue to run 20–35% below NAGGR in year one (analyst estimate). Blended ARPPA of C$146 (~$104) in September is dragged down by low-value sports accounts; casino ARPPA is likely higher. Poker sits inside the casino category and is confined to Alberta liquidity unless an inter-jurisdictional pooling framework emerges (the Supreme Court of Canada heard Ontario's international-liquidity reference in October 2026; outcome pending and details not verified here).",
+          "Risks to the vertical are regulatory rather than demand-side: mandatory RG tools and centralised self-exclusion, a prohibition on marketing that 'promotes excessive play' or implies skill affects outcomes, game-certification throughput via accredited test facilities, and the political temperature around gambling harm (the Premier wants operators to fund treatment). None of these change the conclusion that casino — not sports — is the profit pool in Alberta."
+        ],
+        "table": {
+          "note": "Casino & live casino (C$m)",
+          "columns": [
+            "Jul-26 (19 days)",
+            "Aug-26",
+            "Sep-26",
+            "Sep MoM",
+            "Q3-26"
+          ],
+          "rows": [
+            {
+              "label": "Casino (RNG)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Wagers",
+              "indent": true,
+              "cells": [
+                "422.4 (~$301.7m)",
+                "849.6 (~$606.9m)",
+                "1,003.2 (~$716.6m)",
+                "+18.1%",
+                "2,275.2 (~$1,625.1m)"
+              ]
+            },
+            {
+              "label": "NAGGR",
+              "indent": true,
+              "kind": "emphasis",
+              "cells": [
+                "17.0 (~$12.1m)",
+                "35.7 (~$25.5m)",
+                "42.8 (~$30.6m)",
+                "+19.9%",
+                "95.5 (~$68.2m)"
+              ]
+            },
+            {
+              "label": "Hold",
+              "indent": true,
+              "cells": [
+                "4.02%",
+                "4.20%",
+                "4.27%",
+                "+7bp",
+                "4.20%"
+              ]
+            },
+            {
+              "label": "Share of market NAGGR",
+              "indent": true,
+              "cells": [
+                "76.4%",
+                "82.3%",
+                "75.6%",
+                "−6.7pp",
+                "78.2%"
+              ]
+            },
+            {
+              "label": "Live casino",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Wagers",
+              "indent": true,
+              "cells": [
+                "59.5 (~$42.5m)",
+                "103.1 (~$73.6m)",
+                "121.5 (~$86.8m)",
+                "+17.8%",
+                "284.1 (~$202.9m)"
+              ]
+            },
+            {
+              "label": "NAGGR",
+              "indent": true,
+              "cells": [
+                "1.4 (~$1.0m)",
+                "2.4 (~$1.7m)",
+                "2.8 (~$2.0m)",
+                "+16.7%",
+                "6.6 (~$4.7m)"
+              ]
+            },
+            {
+              "label": "Hold",
+              "indent": true,
+              "cells": [
+                "2.35%",
+                "2.33%",
+                "2.30%",
+                "−3bp",
+                "2.32%"
+              ]
+            },
+            {
+              "label": "Share of market NAGGR",
+              "indent": true,
+              "cells": [
+                "6.3%",
+                "5.6%",
+                "4.9%",
+                "−0.7pp",
+                "5.4%"
+              ]
+            },
+            {
+              "label": "Baseline: Play Alberta FY2024-25 net sales",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Casino / Instants / Live dealer",
+              "indent": true,
+              "cells": [
+                "197.3 (~$140.9m)",
+                "27.8 (~$19.8m)",
+                "21.4 (~$15.3m)",
+                "—",
+                "Combined 246.5 ≈ 5.4 months of Sep-26 run-rate"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "RNG casino performance",
+            "takeaway": "RNG casino took C$2,275.2m (~$1,625m) of wagers and C$95.5m (~$68.2m) NAGGR, a 4.20% hold — the market's profit pool.",
+            "points": [
+              "Monthly wagers: C$422.4m → C$849.6m (+101%) → C$1,003.2m (+18%).",
+              "Monthly NAGGR: C$17.0m → C$35.7m → C$42.8m (+19.9% in September).",
+              "Hold edged up 4.02% → 4.20% → 4.27%, consistent with a slots-dominant mix recycling balances at 4–5% of turnover.",
+              "Casino's NAGGR share was 76.4% in July, peaked at 82.3% in August when sports hold collapsed, settled at 75.6% in September.",
+              "Category covers slots, progressive jackpots, tables, poker and keno."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Live casino",
+            "takeaway": "Live casino made C$284.1m (~$203m) wagers and C$6.6m (~$4.7m) NAGGR at a stable 2.3% hold but is under-indexed at 5%.",
+            "points": [
+              "Share of market NAGGR fell 6.3% → 5.6% → 4.9% as RNG-centric brands came online.",
+              "Mature online-casino markets give live dealer a materially larger slice of casino GGR than 5%, so Alberta looks under-penetrated.",
+              "Opening for live-led brands and studios licensing content via AGLC-registered platform suppliers (C$15,000/yr) and test labs (C$3,000/yr)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Channelisation vs Play Alberta",
+            "takeaway": "September casino-plus-live NAGGR of C$45.6m annualises to ~C$547m, roughly 2.5x the state site's annual casino take within three months.",
+            "points": [
+              "Play Alberta FY2024-25 casino net sales were C$197.3m (~$141m, 73% of its C$269.9m), live dealer C$21.4m, instants C$27.8m.",
+              "Government pre-launch estimate: only 23–32% of online play was regulated.",
+              "Offshore volume is moving onshore quickly, albeit with some demand creation from 24 brands marketing simultaneously."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Operator unit economics",
+            "takeaway": "Public take of ~22.4% of GGR (estimate) plus GST and C$150,000 per site; promo-adjusted revenue likely 20–35% below NAGGR in year one.",
+            "points": [
+              "Launch-phase promotional intensity is invisible in NAGGR (analyst estimate on the 20–35% gap).",
+              "Blended ARPPA of C$146 (~$104) in September is dragged down by low-value sports accounts; casino ARPPA is likely higher.",
+              "Poker sits inside the casino category and is confined to Alberta liquidity unless an inter-jurisdictional pooling framework emerges.",
+              "Supreme Court of Canada heard Ontario's international-liquidity reference in October 2026; outcome pending, details not verified here."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Vertical risks",
+            "takeaway": "Risks are regulatory rather than demand-side and do not change the conclusion that casino, not sports, is Alberta's profit pool.",
+            "points": [
+              "Mandatory RG tools and centralised self-exclusion.",
+              "Prohibition on marketing that 'promotes excessive play' or implies skill affects outcomes.",
+              "Game-certification throughput via accredited test facilities.",
+              "Political temperature around gambling harm; the Premier wants operators to fund treatment."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Legacy market: Play Alberta, land-based & lottery",
+        "headline": "A C$1.5bn-net-income AGLC estate now competes with — and may be cannibalised by — the open online market; AGLC's dual role and a possible Play Alberta sale are governance overhangs.",
+        "narrative": [
+          "AGLC's FY2024-25 Annual Report records gaming net sales of C$2,133.7m (~$1,524m) and gaming net income of C$1,486.9m (~$1,062m), essentially flat on FY2023-24 (~C$1,486m): slots, online and lottery grew while VLT net sales declined, and the province-wide VLT fleet was replaced. Legal gaming comprises slot terminals in roughly 30 casinos, a provincial VLT network, lottery via the Western Canada Lottery Corporation, bingo, raffles and pull-tickets, plus the state online site PlayAlberta.ca. The Budget 2026 fiscal plan projects AGLC gaming and lottery net income of C$1,577m (~$1,126m) in 2026-27 rising to C$1,635m by 2028-29, with total AGLC net income (gaming, liquor, cannabis) steady at ~C$2.4bn (~$1.7bn) a year.",
+          "Play Alberta grew from C$179m of net sales in FY2022-23 to C$235m in FY2023-24 and C$269.9m (~$193m) in FY2024-25 (+15%): casino C$197.3m (73.1%), instants C$27.8m, live dealer C$21.4m, lottery C$15.5m and sports C$8.0m. Government has said the platform captured only ~23–32% of provincial online gambling, which is the origin of the '70% unregulated' figure. Play Alberta continues as AGLC's own brand inside the new market and appears in AiGC's registered-site directory; whether its volumes are consolidated into AiGC's 'operators with an active operating agreement' series is not stated in the report notes and is flagged [unverified].",
+          "Two governance features matter for private entrants. First, AGLC is both the regulator of the open market and the operator of a competing brand — a conflict Ontario avoided by separating AGCO and iGO from OLG. Second, legislation tabled in May 2026 would permit the sale of Play Alberta's platform and customer data, which could create a privileged, pre-channelised asset for an acquirer. Land-based licensees, meanwhile, are barred from offering or advertising iGaming inducements and cannot link the Winner's Edge retail loyalty scheme to online play, which protects the retail estate from cross-promotion but blunts omnichannel strategies for casino owners such as Indigenous Gaming Partners, Pure Canadian Gaming and Great Canadian.",
+          "Cannibalisation of slots and VLTs by online casino is the unmodelled fiscal risk: Budget 2026 assumes flat-to-rising land-based net income while online NAGGR is already running ~C$680m a year. The 2% of GGR earmarked for First Nations initiatives is separate from the existing land-based First Nations Development Fund arrangements; allocation mechanics have not been published, and Indigenous-owned operators or partnerships may seek a role — a watch item."
+        ],
+        "table": {
+          "note": "Legacy AGLC estate & Play Alberta (C$m)",
+          "columns": [
+            "FY2022-23",
+            "FY2023-24",
+            "FY2024-25",
+            "YoY",
+            "Budget 2026-27 / note"
+          ],
+          "rows": [
+            {
+              "label": "AGLC gaming net sales",
+              "cells": [
+                "n/a",
+                "n/a",
+                "2,133.7 (~$1,523.8m)",
+                "n/a",
+                "—"
+              ]
+            },
+            {
+              "label": "AGLC gaming net income",
+              "kind": "emphasis",
+              "cells": [
+                "n/a",
+                "~1,486 (~$1,061m)",
+                "1,486.9 (~$1,062.1m)",
+                "≈flat",
+                "1,577 (~$1,126m); 1,635 by 2028-29"
+              ]
+            },
+            {
+              "label": "Play Alberta net sales (total)",
+              "cells": [
+                "179 (~$127.9m)",
+                "235 (~$167.9m)",
+                "269.9 (~$192.8m)",
+                "+14.9%",
+                "Est. 23–32% of pre-launch online market"
+              ]
+            },
+            {
+              "label": "— Casino",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "197.3 (~$140.9m)",
+                "n/a",
+                "73.1% of total"
+              ]
+            },
+            {
+              "label": "— Instants",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "27.8 (~$19.8m)",
+                "n/a",
+                "—"
+              ]
+            },
+            {
+              "label": "— Live dealer",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "21.4 (~$15.3m)",
+                "n/a",
+                "—"
+              ]
+            },
+            {
+              "label": "— Lottery",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "15.5 (~$11.0m)",
+                "n/a",
+                "—"
+              ]
+            },
+            {
+              "label": "— Sports",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "8.0 (~$5.7m)",
+                "n/a",
+                "3% of total"
+              ]
+            },
+            {
+              "label": "Open-market NAGGR run-rate (Sep-26 ×12)",
+              "cells": [
+                "—",
+                "—",
+                "—",
+                "—",
+                "~680 (~$485m) — est., 24 operators"
+              ]
+            },
+            {
+              "label": "Total AGLC net income (gaming+liquor+cannabis)",
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "—",
+                "~2,400/yr (~$1,714m) across fiscal plan"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "AGLC estate",
+            "takeaway": "AGLC FY2024-25 gaming net sales were C$2,133.7m (~$1,524m) and gaming net income C$1,486.9m (~$1,062m), flat on FY2023-24 (~C$1,486m).",
+            "points": [
+              "Slots, online and lottery grew while VLT net sales declined; the province-wide VLT fleet was replaced.",
+              "Estate: slots in roughly 30 casinos, a provincial VLT network, lottery via Western Canada Lottery Corporation, bingo, raffles, pull-tickets, PlayAlberta.ca.",
+              "Budget 2026 projects AGLC gaming and lottery net income of C$1,577m (~$1,126m) in 2026-27 rising to C$1,635m by 2028-29.",
+              "Total AGLC net income (gaming, liquor, cannabis) steady at ~C$2.4bn (~$1.7bn) a year."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Play Alberta",
+            "takeaway": "Play Alberta grew to C$269.9m (~$193m) net sales in FY2024-25 (+15%) yet captured only ~23–32% of provincial online gambling.",
+            "points": [
+              "Net sales rose from C$179m in FY2022-23 to C$235m in FY2023-24.",
+              "FY2024-25 mix: casino C$197.3m (73.1%), instants C$27.8m, live dealer C$21.4m, lottery C$15.5m, sports C$8.0m.",
+              "The 23–32% capture is the origin of the '70% unregulated' figure.",
+              "Play Alberta continues as AGLC's own brand and appears in AiGC's registered-site directory.",
+              "Whether its volumes are consolidated into AiGC's 'operators with an active operating agreement' series is not stated and flagged [unverified]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Governance overhangs",
+            "takeaway": "AGLC regulates the open market while operating a competing brand, and May 2026 legislation would permit a Play Alberta sale.",
+            "points": [
+              "Ontario avoided this conflict by separating AGCO and iGO from OLG.",
+              "Sale of Play Alberta's platform and customer data could create a privileged, pre-channelised asset for an acquirer.",
+              "Land-based licensees cannot offer or advertise iGaming inducements or link the Winner's Edge retail loyalty scheme to online play.",
+              "This protects the retail estate but blunts omnichannel strategies for Indigenous Gaming Partners, Pure Canadian Gaming and Great Canadian."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Cannibalisation and First Nations",
+            "takeaway": "Cannibalisation of slots and VLTs by online casino is the unmodelled fiscal risk with online NAGGR already running ~C$680m a year.",
+            "points": [
+              "Budget 2026 assumes flat-to-rising land-based net income.",
+              "The 2% of GGR earmarked for First Nations initiatives is separate from the existing land-based First Nations Development Fund arrangements.",
+              "Allocation mechanics have not been published; Indigenous-owned operators or partnerships may seek a role — a watch item."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Licensing, revenue share & fees",
+        "headline": "Ontario's template with a 3% top-line carve-out: ~22% effective public take, C$150k/site/year, 18+, and a 'net revenue' base that is not publicly defined.",
+        "narrative": [
+          "The legal architecture rests on the iGaming Alberta Act (SA 2025; Bill 48, passed spring 2025 and brought into force in January 2026) and amendments to the Gaming, Liquor and Cannabis Act (RSA 2000). Because section 207 of the Criminal Code reserves the conduct and management of lottery schemes to provinces, AiGC — a Government of Alberta corporate enterprise — is the legal operator of every 'Eligible iGame' and private brands are contracted suppliers under commercial operating agreements, exactly as iGaming Ontario contracts operators. AGLC registers operators and suppliers, sets the Standards and Requirements for Internet Gaming (SRIG; ~85 pages published 14 Jan 2026 and revised 18 Jun 2026 to absorb the advertising rules) and enforces them with fines up to loss of registration.",
+          "Entry is a three-part AGLC application — corporate and personal due diligence, a compliance/attestation package, and technical integration with the centralised Self-Exclusion Program — followed by a negotiated AiGC agreement; wagers and deposits may be accepted only after AiGC notifies the registrant. Registration opened 13 Jan 2026, the market launched 13 Jul 2026 and the three-month transition for grey-market sites ended 13 Oct 2026. Registration is per distinct iGaming site, so multi-skin groups pay per brand. The published fee schedule: C$50,000 (~$36k) one-time, non-refundable operator application fee that includes due-diligence costs; C$150,000 (~$107k) non-refundable annual registration per site; C$15,000 (~$11k) a year for platform providers and critical gaming systems; C$3,000 (~$2k) a year for 'other' suppliers (e-wallets, oddsmakers, independent integrity monitors, accredited testing facilities); no supplier application fee. Registration is annual; there are no local-ownership, local-server or local-partner requirements in any source reviewed.",
+          "The public take is not levied by a tax statute but embedded in the AiGC agreements. The Government of Alberta states that 3% of gross gaming revenue is allocated first — 2% to First Nations initiatives and 1% to social-responsibility and problem-gambling programmes — and that the remaining 'net iGaming revenue' is split 80% to operators and 20% to the province. On a GGR base that is an effective ~22.4% public take (our estimate). Two things are unverified and should be diligenced in the agreement: whether 'net' is struck after promotional credits/bonuses (AiGC's public metric is explicitly 'non-adjusted'), and the treatment of federal GST on gaming supplies. Players face no withholding; recreational gambling winnings are not taxed in Canada.",
+          "Against Ontario, Alberta runs the same 20% headline but adds the 3% carve-out, sets a higher per-site registration fee (Ontario's AGCO fee is lower per site [not re-verified here]), lowers the age to 18, and launched with centralised self-exclusion and inducement/athlete advertising limits already in force (Ontario added its athlete restrictions in 2024 and still lacks a centralised exclusion scheme). Roster depth differs too: Ontario's first year ended with 45 operators and 76 sites; Alberta stands at 29 operators and 50 sites after three months with AiGC guiding to 60+ sites in 2027.",
+          "Government's own fiscal anchor is a C$76m (~$54m) year-one take, which back-solves to ~C$390m of GGR; applying the published formula to Q3's NAGGR yields ~C$27.4m (~$19.6m) in 80 days and ~C$12.7m in September alone (~C$152m annualised), so the forecast looks conservative by roughly half — mirroring Ontario's early under-forecasting. For an operator the licence cost is immaterial (C$150k is ~0.5% of the annualised September NAGGR of an average-sized licensee); the binding items are the revenue-share base, GST, promotional intensity and marketing rules."
+        ],
+        "table": {
+          "note": "Regulatory architecture: Alberta vs Ontario benchmark",
+          "columns": [
+            "Alberta (2026)",
+            "Ontario (benchmark)",
+            "Comment"
+          ],
+          "rows": [
+            {
+              "label": "Regulator / conductor",
+              "cells": [
+                "AGLC / Alberta iGaming Corporation (AiGC)",
+                "AGCO / iGaming Ontario",
+                "Same Criminal Code s.207 conduct-and-manage construct"
+              ]
+            },
+            {
+              "label": "Enabling law",
+              "cells": [
+                "iGaming Alberta Act SA 2025 (Bill 48) + GLCA RSA 2000",
+                "Gaming Control Act; iGO est. 2021",
+                "Alberta standards = SRIG (Jan 2026, rev. 18 Jun 2026)"
+              ]
+            },
+            {
+              "label": "Launch / transition end",
+              "cells": [
+                "13 Jul 2026 / 13 Oct 2026",
+                "4 Apr 2022 / Oct 2022",
+                "Alberta grace period 3 months"
+              ]
+            },
+            {
+              "label": "Minimum age",
+              "cells": [
+                "18",
+                "19",
+                "Wider young-adult TAM in Alberta"
+              ]
+            },
+            {
+              "label": "Operator application fee",
+              "cells": [
+                "C$50,000 one-time (~$36k), incl. due diligence",
+                "n/a [not verified]",
+                "Non-refundable"
+              ]
+            },
+            {
+              "label": "Annual operator registration",
+              "cells": [
+                "C$150,000 per site (~$107k)",
+                "Lower per-site fee [not re-verified]",
+                "Per distinct iGaming site/skin"
+              ]
+            },
+            {
+              "label": "Supplier fees",
+              "cells": [
+                "C$15,000 platform/critical systems; C$3,000 other (~$11k / ~$2k)",
+                "Separate AGCO supplier classes",
+                "No supplier application fee in Alberta"
+              ]
+            },
+            {
+              "label": "Public take",
+              "cells": [
+                "3% of GGR (2% First Nations, 1% RG) then 20% of net → ≈22.4% eff. (est.)",
+                "20% of gaming revenue",
+                "Base definition of 'net' not published in Alberta"
+              ]
+            },
+            {
+              "label": "Gov't year-one revenue forecast",
+              "cells": [
+                "C$76m (~$54m) ⇒ ~C$390m GGR implied",
+                "—",
+                "Q3 run-rate implies ~C$150m/yr (est.)"
+              ]
+            },
+            {
+              "label": "Operators / sites",
+              "cells": [
+                "29 / 50 at 13 Oct 2026; 24 active in Sep; 60+ sites guided for 2027",
+                "45 / 76 at end of year one",
+                "Operator-level share not disclosed in either"
+              ]
+            },
+            {
+              "label": "Centralised self-exclusion at launch",
+              "cells": [
+                "Yes (online + land-based)",
+                "No",
+                "Day-one CSE integration is a registration condition"
+              ]
+            },
+            {
+              "label": "Channelisation target",
+              "cells": [
+                "70% after year 1; 75% by year 2",
+                "—",
+                "~30% regulated pre-launch"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Legal architecture",
+            "takeaway": "AiGC is the legal operator of every 'Eligible iGame' and private brands are contracted suppliers, mirroring iGaming Ontario.",
+            "points": [
+              "Framework: iGaming Alberta Act (SA 2025; Bill 48, passed spring 2025, in force January 2026) plus Gaming, Liquor and Cannabis Act amendments (RSA 2000).",
+              "Section 207 of the Criminal Code reserves conduct and management of lottery schemes to provinces.",
+              "AGLC registers operators and suppliers and sets the ~85-page SRIG (published 14 Jan 2026, revised 18 Jun 2026 to absorb advertising rules).",
+              "Enforcement runs to fines up to loss of registration."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Entry process and fees",
+            "takeaway": "Entry is a three-part AGLC application plus negotiated AiGC agreement; fees are C$50,000 one-time and C$150,000 per site annually.",
+            "points": [
+              "Application: corporate and personal due diligence, compliance/attestation package, technical integration with the centralised Self-Exclusion Program.",
+              "Registration opened 13 Jan 2026; launch 13 Jul 2026; grey-market transition ended 13 Oct 2026.",
+              "C$50,000 (~$36k) non-refundable operator application fee includes due-diligence costs; C$150,000 (~$107k) annual registration per site, so multi-skin groups pay per brand.",
+              "Platform providers and critical gaming systems pay C$15,000 (~$11k) a year; 'other' suppliers C$3,000 (~$2k); no supplier application fee.",
+              "No local-ownership, local-server or local-partner requirements in any source reviewed; registration is annual."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Public take",
+            "takeaway": "3% of GGR is carved off first, then 'net iGaming revenue' splits 80/20 — an effective ~22.4% public take (our estimate).",
+            "points": [
+              "Carve-out: 2% to First Nations initiatives, 1% to social-responsibility and problem-gambling programmes.",
+              "Take is embedded in AiGC agreements, not levied by a tax statute.",
+              "Unverified: whether 'net' is struck after promotional credits/bonuses (AiGC's metric is explicitly 'non-adjusted').",
+              "Unverified: treatment of federal GST on gaming supplies.",
+              "Players face no withholding; recreational gambling winnings are not taxed in Canada."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Ontario comparison",
+            "takeaway": "Alberta matches Ontario's 20% headline but adds the 3% carve-out, higher per-site fee, age 18 and stricter day-one rules.",
+            "points": [
+              "Ontario's AGCO fee is lower per site [not re-verified here].",
+              "Alberta launched with centralised self-exclusion and inducement/athlete advertising limits; Ontario added athlete restrictions in 2024 and lacks centralised exclusion.",
+              "Ontario's first year ended with 45 operators and 76 sites; Alberta has 29 operators and 50 sites after three months.",
+              "AiGC guides to 60+ sites in 2027."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Fiscal forecast",
+            "takeaway": "Government's C$76m (~$54m) year-one take implies ~C$390m GGR and looks conservative by roughly half.",
+            "points": [
+              "Applying the formula to Q3 NAGGR yields ~C$27.4m (~$19.6m) in 80 days and ~C$12.7m in September (~C$152m annualised).",
+              "This mirrors Ontario's early under-forecasting.",
+              "Licence cost is immaterial: C$150k is ~0.5% of annualised September NAGGR of an average-sized licensee.",
+              "Binding items are the revenue-share base, GST, promotional intensity and marketing rules."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Advertising, responsible gambling, payments & enforcement",
+        "headline": "Day-one rules are the tightest in Canada and the Premier has signalled they may tighten further; enforcement against the offshore 70% is unproven.",
+        "narrative": [
+          "AGLC's 18 Jun 2026 SRIG update moved iGaming advertising from regulation into standards and set the current rulebook, summarised by AiGC on 4 Aug 2026: no advertising or marketing of inducements, bonuses or credits except on the operator's own registered site or in direct communications to players who have given express consent; no targeting of minors, self-excluded or otherwise vulnerable people; no cartoons, influencers or celebrities likely to appeal to minors; no billboards near schools or youth venues; active or retired athletes only in responsible-gambling messaging; no claims that gambling is a route to financial security, that skill alters RNG outcomes, or that encourage chasing losses or 'excessive play'. Licensees are accountable for affiliates, including where a partner also promotes unlicensed sites, and land-based casino licensees may not offer or advertise iGaming inducements. Non-compliance carries fines or loss of registration.",
+          "The political direction is toward more restriction, not less. On 26 Jul 2026 Premier Danielle Smith said gambling websites should pay for addiction treatment; on 25 Oct 2026 she said Albertans had complained about being 'bombarded' with gambling ads and that rule changes may be coming. Plausible instruments include volume or watershed limits on broadcast and in-venue advertising, sports-broadcast caps, mandatory RG-message share, or a higher RG levy than the current 1% of GGR. Operators should front-load brand investment now and budget for a rule change in H1 2027.",
+          "Responsible-gambling architecture is comparatively strong: a centralised self-exclusion system that lets a person block all iGaming sites, all land-based venues, or all gambling in one step was live at launch and is a condition of registration; 1% of GGR funds RG and treatment (≈C$1.2m from Q3, ≈C$0.6m in September alone on our estimate); limit-setting and RG tools are mandated by SRIG; the minimum age is 18. KYC/AML runs to FINTRAC standards, with sanctions screening, account-sharing detection and continuous geolocation monitoring expected of operators.",
+          "On payments, AiGC publishes no deposit-method or transaction data, so market-level figures are n/a. Payment processors and e-wallets must register with AGLC as 'supplier–other' (C$3,000/yr), which gives the regulator a lever over the rails. Canadian regulated iGaming is Interac e-Transfer-led with debit/credit cards, Apple/Google Pay and Paysafe-type wallets secondary [industry norm; not quantified by any regulator source]; SRIG's specific position on credit-card deposits and on crypto (Stake entered via a Canadian entity, Stake Canada Ltd) was not verified in this research and should be confirmed in the standards.",
+          "Enforcement is the open question. With the transition closed on 13 Oct 2026, unregistered sites must stop accepting Alberta wagers; AGLC says it will monitor and take action, and AiGC's CEO says the corporation 'has levers' of its own, but neither has published a toolkit (payment blocking, ISP blocking, affiliate or ad-platform liability, legal action). Ontario's experience suggests channelisation stalls in the 80–85% range without active payment and advertising enforcement; Alberta's 70%/75% targets are achievable only if AGLC is seen to act against named holdouts in the next two quarters."
+        ],
+        "table": {
+          "note": "Rulebook summary (AGLC SRIG / AiGC guidance)",
+          "columns": [
+            "Alberta position",
+            "Status / date",
+            "Operator implication"
+          ],
+          "rows": [
+            {
+              "label": "Public advertising of bonuses/inducements/credits",
+              "cells": [
+                "Prohibited except own site or opted-in direct marketing",
+                "SRIG rev. 18 Jun 2026; AiGC overview 4 Aug 2026",
+                "Promo spend shifts to CRM/on-site; NAGGR overstates net"
+              ]
+            },
+            {
+              "label": "Athletes & celebrities",
+              "cells": [
+                "Athletes only for RG messaging; no figures appealing to minors",
+                "In force at launch",
+                "Brand/media partnerships over endorsements"
+              ]
+            },
+            {
+              "label": "Placement limits",
+              "cells": [
+                "No billboards near schools/youth venues; no targeting self-excluded",
+                "In force",
+                "OOH planning constraints"
+              ]
+            },
+            {
+              "label": "Affiliate liability",
+              "cells": [
+                "Operator accountable if affiliate also promotes unlicensed sites",
+                "In force",
+                "Affiliate audits required"
+              ]
+            },
+            {
+              "label": "Land-based cross-promotion",
+              "cells": [
+                "Casinos may not offer/advertise iGaming inducements; Winner's Edge not linkable",
+                "AGLC guidance pre-launch",
+                "Limits omnichannel for casino owners"
+              ]
+            },
+            {
+              "label": "Possible further tightening",
+              "cells": [
+                "Premier: ad rules 'may change' after complaints",
+                "25 Oct 2026 (CityNews Calgary)",
+                "Plan for H1 2027 rule change"
+              ]
+            },
+            {
+              "label": "Centralised self-exclusion",
+              "cells": [
+                "Online + land-based, single system; mandatory integration",
+                "Live 13 Jul 2026",
+                "Registration precondition"
+              ]
+            },
+            {
+              "label": "RG funding",
+              "cells": [
+                "1% of GGR (≈C$1.2m from Q3, est.)",
+                "Alberta.ca allocation model",
+                "Levy may rise (Premier's treatment comments)"
+              ]
+            },
+            {
+              "label": "Minimum age",
+              "cells": [
+                "18",
+                "In force",
+                "Younger TAM than Ontario (19)"
+              ]
+            },
+            {
+              "label": "Payments",
+              "cells": [
+                "No regulator data; PSPs/e-wallets register at C$3,000/yr; method rules [unverified]",
+                "—",
+                "Confirm card/crypto rules in SRIG"
+              ]
+            },
+            {
+              "label": "Enforcement vs unlicensed sites",
+              "cells": [
+                "Must cease AB wagers from 13 Oct 2026; AGLC monitoring; tools unpublished",
+                "Transition closed 13 Oct 2026",
+                "Channelisation 70%/75% depends on visible action"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Advertising rules",
+            "takeaway": "The 18 Jun 2026 SRIG update, summarised by AiGC on 4 Aug 2026, sets Canada's tightest day-one advertising rulebook.",
+            "points": [
+              "No marketing of inducements, bonuses or credits except on the operator's own registered site or to players with express consent.",
+              "No targeting minors, self-excluded or vulnerable people; no cartoons, influencers or celebrities appealing to minors; no billboards near schools or youth venues.",
+              "Athletes only in responsible-gambling messaging; no claims of financial security, skill altering RNG outcomes, chasing losses or 'excessive play'.",
+              "Licensees accountable for affiliates, including those promoting unlicensed sites; land-based licensees may not offer or advertise iGaming inducements.",
+              "Non-compliance carries fines or loss of registration."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Political direction",
+            "takeaway": "The Premier has signalled further restriction; operators should front-load brand investment and budget for a rule change in H1 2027.",
+            "points": [
+              "26 Jul 2026: Premier Danielle Smith said gambling websites should pay for addiction treatment.",
+              "25 Oct 2026: she said Albertans complained of being 'bombarded' by gambling ads and rule changes may be coming.",
+              "Plausible instruments: volume or watershed limits, sports-broadcast caps, mandatory RG-message share, or an RG levy above the current 1% of GGR."
+            ],
+            "quote": {
+              "text": "bombarded",
+              "speaker": "Premier Danielle Smith"
+            }
+          },
+          {
+            "heading": "Responsible gambling and KYC",
+            "takeaway": "RG architecture is comparatively strong, led by centralised self-exclusion live at launch and 1% of GGR funding treatment.",
+            "points": [
+              "Self-exclusion blocks all iGaming sites, all land-based venues, or all gambling in one step; it is a condition of registration.",
+              "1% of GGR ≈ C$1.2m from Q3 and ≈ C$0.6m in September alone, on our estimate.",
+              "Limit-setting and RG tools mandated by SRIG; minimum age 18.",
+              "KYC/AML to FINTRAC standards with sanctions screening, account-sharing detection and continuous geolocation monitoring."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Payments",
+            "takeaway": "AiGC publishes no deposit-method or transaction data (n/a), but processors must register as 'supplier–other' at C$3,000/yr.",
+            "points": [
+              "Supplier registration gives the regulator a lever over the payment rails.",
+              "Canadian regulated iGaming is Interac e-Transfer-led with cards, Apple/Google Pay and Paysafe-type wallets secondary [industry norm; not quantified].",
+              "SRIG's position on credit-card deposits and crypto (Stake entered via Stake Canada Ltd) was not verified and should be confirmed."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Enforcement",
+            "takeaway": "Enforcement against the offshore 70% is unproven; targets are achievable only if AGLC acts against named holdouts within two quarters.",
+            "points": [
+              "Transition closed 13 Oct 2026; unregistered sites must stop accepting Alberta wagers.",
+              "AGLC says it will monitor and act; AiGC's CEO says the corporation 'has levers', but no toolkit is published.",
+              "Possible tools: payment blocking, ISP blocking, affiliate or ad-platform liability, legal action.",
+              "Ontario suggests channelisation stalls at 80–85% without active payment and advertising enforcement; Alberta targets 70%/75%."
+            ],
+            "quote": {
+              "text": "has levers",
+              "speaker": "AiGC CEO"
+            }
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Scale and ramp: NAGGR of C$122.1m (~$87.2m) in 80 days with September at C$56.6m (+30.7% MoM) annualising ~C$680m — about 1.7x the GGR implied by government's C$76m year-one take — before the roster has filled (24 active of 29 approved operators) and before NHL/NFL peak months.",
+        "tag": "structural"
+      },
+      {
+        "text": "Casino-led profit pool: 78% of NAGGR from RNG casino at a steady ~4.2% hold, an 18+ age floor and a high-income province give higher-LTV, lower-volatility economics than sports-led markets; live casino is under-indexed at 5% and a clear gap for specialists.",
+        "tag": "structural"
+      },
+      {
+        "text": "Low fiscal drag: ~22.4% effective public take (20% of net + 3% GGR carve-out, est.), C$150,000/site/year (~0.5% of an average licensee's annualised NAGGR), no supplier application fees, no local-ownership or server rules, no player withholding — cheaper than Pennsylvania/Michigan-style iCasino rates and most European multi-tier regimes.",
+        "tag": "structural"
+      },
+      {
+        "text": "Channelisation runway: ~70% of online play was offshore pre-launch; AiGC targets 70% regulated after year one and 75% by year two, the grace period closed 13 Oct 2026 and affiliates/payment providers sit inside AGLC's registration perimeter — tailwinds for licensed brands if enforcement is visible.",
+        "tag": "early"
+      },
+      {
+        "text": "Product white space: Fantasy Sports and Peer-to-Peer (exchange betting, poker) are already eligible categories with zero reported activity, and live dealer's share is falling as RNG brands launch — first movers can own these verticals.",
+        "tag": "early"
+      },
+      {
+        "text": "Ontario-compatible compliance stack and transparent monthly regulator data (Excel, third week of each month) cut entry cost for operators already live in Ontario; the 22-sites-on-day-one launch shows AGLC/AiGC can process registrations at pace.",
+        "tag": "structural"
+      },
+      {
+        "text": "Seasonal lift ahead: NFL mid-season, the NHL (Oilers, Flames) and the Grey Cup in Calgary on 15 Nov 2026 should lift Q4 sportsbook handle and push hold toward 7–8% from Q3's 6.2%.",
+        "tag": "one-off"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Advertising clampdown risk: Premier Smith (25 Oct 2026) said Albertans are complaining about ad saturation and rules may change; with inducement ads already banned, the next step is volume/watershed or sports-broadcast limits — hitting late entrants' ability to build brand.",
+        "tag": "governance"
+      },
+      {
+        "text": "Crowded field and hidden promo burn: 50 approved sites for a ~5m-person province; because bonuses can only be pushed on-site/CRM, acquisition costs are invisible in AiGC's 'non-adjusted' GGR, so operator net revenue is likely 20–35% below reported NAGGR in year one (estimate).",
+        "tag": "structural"
+      },
+      {
+        "text": "Regulator-operator conflict: AGLC both regulates the market and runs the competing Play Alberta brand, and May 2026 legislation could enable a sale of Play Alberta's platform/customer data — a privileged, pre-channelised asset for whoever buys it.",
+        "tag": "governance"
+      },
+      {
+        "text": "Opaque revenue-share base: 'net iGaming revenue' is not publicly defined (promo deductibility, GST treatment unknown) and the 3% GGR carve-out is a top-line levy regardless of margin; the government's own C$76m forecast is already stale, inviting a re-cut of the split if the take overshoots.",
+        "tag": "watch"
+      },
+      {
+        "text": "Sports economics are thin and volatile: betting is only 16% of NAGGR with hold swinging 4.6% (Aug) to 7.3% (Sep); sports-first entrants without casino cross-sell face marginal unit economics under a ~22% take and tight marketing rules.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Data limitations: figures are unaudited, NAGGR is pre-promotion, 'active accounts' are not unique players and no operator-level data is published — share tracking and penetration analysis are impossible from regulator data alone.",
+        "tag": "structural"
+      },
+      {
+        "text": "Legal and federal overhangs: the Supreme Court of Canada's pending ruling on Ontario's international liquidity-pooling reference governs whether P2P poker/DFS can pool beyond Alberta; US-style prediction-market contracts are outside the Act with no stated AGLC position; and the Premier's push for operators to fund addiction treatment could translate into a higher RG levy.",
+        "tag": "watch"
+      }
+    ],
+    "forecast": {
+      "intro": "The 'guidance bridge' here is fiscal: Minister Nally's year-one forecast of C$76m (~$54m) in provincial proceeds implied ~C$390m of first-year GGR, whereas the regulator's first three months printed C$122.1m of NAGGR with September at C$56.6m — a run-rate that, through the published 3%-then-20% formula, yields ~C$12.7m of public take per month (~C$152m annualised). Third-party estimates attributed to H2 Gambling Capital (C$850m to C$1.2bn year-one GGR; conflicting, unverified at source) bracket the upside. Our own 12-month estimate (13 Jul 2026–12 Jul 2027) is C$740–810m of NAGGR assuming 3–5% monthly growth as the roster expands from 24 to ~40 live sites and offshore volume channelises, implying public take of ~C$165–180m — more than double budget.",
+      "bridge": [
+        {
+          "title": "Gov't year-one GGR implied by C$76m take",
+          "value": "~C$390m (~$279m)",
+          "change": "baseline"
+        },
+        {
+          "title": "Q3-26 actual NAGGR (80 days)",
+          "value": "C$122.1m (~$87.2m)",
+          "change": "31% of implied FY1 GGR in 22% of the year"
+        },
+        {
+          "title": "Sep-26 run-rate annualised",
+          "value": "~C$680m (~$485m)",
+          "change": "+74% vs implied FY1"
+        },
+        {
+          "title": "Our FY1 estimate (3–5% monthly growth)",
+          "value": "C$740–810m (~$530–580m) NAGGR; public take ~C$165–180m",
+          "change": "est.; +90–110% vs implied FY1"
+        }
+      ],
+      "view": "**Revenue:** we expect monthly NAGGR of C$75–90m by mid-2027 (estimate), with casino holding 75–80% of the mix, sports oscillating 15–20% by season and live casino recovering toward 7–8% as specialists launch; active accounts should pass 500,000 by Q1 2027 but ARPPA will plateau near C$150–170 as lower-value sports accounts dilute the base. **Margins:** operator net revenue will trail NAGGR by 20–35% in year one on launch promotions, then converge as the inducement-ad ban caps above-the-line spend; the ~22% effective take, GST and C$150k/site leave mid-teens EBITDA margins achievable only for top-eight-share operators — expect exits or skin consolidation among the 50 approved sites from H2 2027. **Rules:** the direction of travel is tighter, not looser — we assign a high probability to new advertising volume/placement limits in H1 2027, a meaningful probability of a higher RG levy or treatment-funding obligation, and a decision on Play Alberta's future (sale or repositioning) within 12 months; the revenue split itself is unlikely to be reopened before the first annual AiGC report, but an over-delivering take versus budget raises the risk. **Enforcement** against named offshore holdouts in the next two quarters is the single biggest determinant of whether the 70%/75% channelisation targets — and the upside half of our range — are met.",
+      "watch": [
+        "October 2026 Market Performance Report (due third week of November): first full month after the 13 Oct grace-period close — look for operator count moving from 24 toward 29+, sports share with NFL/NHL, and whether Fantasy/P2P appear.",
+        "Premier Smith's advertising review: any AGLC bulletin or SRIG amendment on ad volume, watershed or sports-broadcast limits (H1 2027 risk window) and any change to the 1% RG allocation.",
+        "AGLC enforcement actions against unregistered sites, payment processors or affiliates — the credibility test for 70%/75% channelisation.",
+        "Play Alberta: progress of the May 2026 bill enabling a sale of the platform/customer data, and whether AiGC clarifies if Play Alberta volumes are inside its reported series.",
+        "Supreme Court of Canada decision on Ontario's international liquidity-pooling reference — determines P2P poker/DFS viability in Alberta.",
+        "Alberta Budget 2027 (Feb 2027): first official iGaming revenue line against the C$76m forecast, and any sign of land-based slot/VLT cannibalisation in AGLC's net-income forecast.",
+        "Definition and audit of the revenue-share base (promo deductibility, GST) in AiGC's first annual report; First Nations 2% allocation mechanics.",
+        "Roster additions toward Keene's 60+ sites and early consolidation signals among sub-scale skins."
+      ]
+    },
+    "confidence": "MEDIUM",
+    "confidenceNote": "FX: USD/CAD 1.40 as of 26 Oct 2026 (implied by the CA$122.1m = US$87.2m conversion published on release day; Bank of Canada fixing not independently retrieved). Market volumes, product split, accounts and operator counts are HIGH confidence (taken directly from AiGC's September 2026 Market Performance Report Excel; unaudited and subject to revision per AiGC). Revenue-allocation model (3% GGR then 80/20) is from the Government of Alberta's own strategy page; the 2%/1% sub-split is from ministerial statements via trade press. Fee schedule and advertising rules are corroborated across ≥3 legal/trade summaries of AGLC's SRIG but the AGLC PDFs themselves were not opened (fetch budget exhausted). NOT verified: the definition of 'net iGaming revenue' (promo/GST treatment) and all 'public take' figures (labelled estimates); whether Play Alberta volumes are inside AiGC's series; Ontario's per-site fee; Alberta population (~5m) used only qualitatively; H2 Gambling Capital year-one figures (two conflicting values cited by third parties); payments mix and SRIG card/crypto rules; details of the SCC liquidity hearing; the Kalshi/prediction-market content of the Gambling Insider lead (article inaccessible). The 12-month NAGGR and public-take ranges are our own estimates.",
+    "sources": [
+      {
+        "label": "Alberta iGaming Corporation – Alberta Market Performance Report (September 2026 highlights, definitions)",
+        "url": "https://www.abigaming.ca/reports/market-performance-report/",
+        "kind": "primary"
+      },
+      {
+        "label": "AiGC – Market Performance Report, period ending 30 Sep 2026 (Excel: Monthly Data; Monthly Data by Product)",
+        "url": "https://www.abigaming.ca/media/jrsf0dca/market-performance-report-2026-september.xlsx",
+        "kind": "primary"
+      },
+      {
+        "label": "Government of Alberta – Alberta's iGaming Strategy (70% unregulated estimate; 80/20 split; 3% of GGR to First Nations and social responsibility; governance)",
+        "url": "https://www.alberta.ca/albertas-igaming-strategy",
+        "kind": "primary"
+      },
+      {
+        "label": "AGLC – Annual Report 2024-25 (gaming net income C$1,486.9m; Play Alberta net sales; VLT/slots/lottery commentary)",
+        "url": "https://aglc.ca/sites/aglc.ca/files/aglc_files/Annual%20Report%202024-25.pdf",
+        "kind": "primary"
+      },
+      {
+        "label": "Government of Alberta – Alberta iGaming fact sheet (Bill 48 / iGaming Alberta Act overview)",
+        "url": "https://www.alberta.ca/system/files/sartr-igaming-phase-3-factsheet.pdf",
+        "kind": "primary"
+      },
+      {
+        "label": "Covers – Alberta iGaming generates nearly $3B in wagers, $122M in revenue in first 3 months (26 Oct 2026; Keene quotes)",
+        "url": "https://www.covers.com/industry/alberta-igaming-generates-nearly-3b-in-wagers-122m-in-revenue-in-3-months-oct-26-2026",
+        "kind": "secondary"
+      },
+      {
+        "label": "Gaming Intelligence – Alberta iGaming wagering nears C$3 billion in first three months (26 Oct 2026)",
+        "url": "https://www.gamingintelligence.com/finance/237777-alberta-igaming-wagering-nears-c3-billion-in-first-three-months/",
+        "kind": "secondary"
+      },
+      {
+        "label": "Yogonet – Alberta iGaming market generates US$87.2 million in first three months (26 Oct 2026; FX reference)",
+        "url": "https://www.yogonet.com/international/news/2026/10/26/127013-alberta-igaming-market-generates-872-million-in-first-three-months",
+        "kind": "secondary"
+      },
+      {
+        "label": "The Globe and Mail – Alberta launches regulated iGaming market (20% of revenue; self-exclusion)",
+        "url": "https://www.theglobeandmail.com/canada/article-regulated-igaming-market-launches-in-alberta/",
+        "kind": "secondary"
+      },
+      {
+        "label": "The Globe and Mail – Alberta opens regulated online gaming market (Ontario year-one 45 operators/76 sites; $76m forecast)",
+        "url": "https://www.theglobeandmail.com/sports/article-alberta-opens-regulated-online-gaming-market/",
+        "kind": "secondary"
+      },
+      {
+        "label": "Gowling WLG – Entering Alberta's iGaming market: registration roadmap (fees, process)",
+        "url": "https://gowlingwlg.com/en-ca/insights-resources/articles/2026/entering-alberta-igaming-market-registration-roadmap-for-operators",
+        "kind": "secondary"
+      },
+      {
+        "label": "Gowling WLG via Mondaq – Alberta iGaming: get in the game before July 13 (per-site fees; supplier fee classes)",
+        "url": "https://www.mondaq.com/canada/gaming/1776856/alberta-igaming-get-in-the-game-before-july-13",
+        "kind": "secondary"
+      },
+      {
+        "label": "Blakes – Alberta's iGaming market: registration now open (two-step AGLC/AiGC process)",
+        "url": "https://www.blakes.com/insights/alberta-s-igaming-market-registration-now-open/",
+        "kind": "secondary"
+      },
+      {
+        "label": "MNP – Alberta iGaming registration: key requirements for 2026 (fee structure)",
+        "url": "https://www.mnp.ca/en/insights/directory/what-operators-and-compliance-leaders-need-to-know",
+        "kind": "secondary"
+      },
+      {
+        "label": "Canadian Gaming Business – Alberta publishes awaited iGaming standards (14 Jan 2026; 85-page SRIG; Play Alberta 25–30% share)",
+        "url": "https://www.canadiangamingbusiness.com/2026/01/14/alberta-igaming-standards-applications/",
+        "kind": "secondary"
+      },
+      {
+        "label": "Canadian Gaming Business – Alberta regulator codifies its rules for iGaming advertising (24 Jun 2026)",
+        "url": "https://www.canadiangamingbusiness.com/2026/06/24/alberta-igaming-ads/",
+        "kind": "secondary"
+      },
+      {
+        "label": "Canadian Gaming Business – Alberta iGaming swells to 50 licensed sites; 60+ expected by 2027 (14 Oct 2026)",
+        "url": "https://www.canadiangamingbusiness.com/2026/10/14/alberta-igaming-oct-2026/",
+        "kind": "secondary"
+      },
+      {
+        "label": "Covers – Alberta's legal iGaming roster hits 48 operators as grace period closes (13 Oct 2026)",
+        "url": "https://www.covers.com/industry/alberta-legal-igaming-roster-hits-48-operators-as-grace-period-closes-oct-13-2026",
+        "kind": "secondary"
+      },
+      {
+        "label": "Sigma World – Alberta ends iGaming transition with 50 sites, 29 operators (15 Oct 2026)",
+        "url": "https://sigma.world/news/alberta-igaming-market-50-brands-approved/",
+        "kind": "secondary"
+      },
+      {
+        "label": "Gaming News Canada – Alberta gaming market reaches 50 websites by approval deadline (Stake, BET99; SCC hearing note)",
+        "url": "https://www.gamingnewscanada.ca/p/alberta-gaming-market-reaches-48",
+        "kind": "secondary"
+      },
+      {
+        "label": "Covers – Alberta channelization goals: 70% year one, 75% year two (Jul 2026)",
+        "url": "https://www.covers.com/industry/alberta-channelization-rate-goal-set-sports-betting-igaming-july-2026",
+        "kind": "secondary"
+      },
+      {
+        "label": "Casino.org – Nally: Alberta to collect $76M from first-year iGaming (~$390m GGR implied; 47 operators registered)",
+        "url": "https://www.casino.org/news/canadian-gaming-alberta-76m-in-first-year-igaming-revenue/",
+        "kind": "secondary"
+      },
+      {
+        "label": "Bonus.com – Alberta projects $76M in year-one iGaming revenue (GGR-based layered formula)",
+        "url": "https://www.bonus.com/ca/news/alberta-projects-76m-in-year-one-igaming-revenue/",
+        "kind": "secondary"
+      },
+      {
+        "label": "World Casino Directory – Alberta forecasts $76M (1% of GGR to RG; 2% to First Nations)",
+        "url": "https://news.worldcasinodirectory.com/alberta-forecasts-76m-revenue-from-new-igaming-launch-123448",
+        "kind": "secondary"
+      },
+      {
+        "label": "Covers – Is Alberta a billion-dollar market? (Play Alberta ~C$270m FY2024-25; 23–32% share)",
+        "url": "https://www.covers.com/industry/alberta-sizing-up-size-of-igaming-sports-betting-market-estimates-february-2026",
+        "kind": "secondary"
+      },
+      {
+        "label": "PlayCanada – Canada gambling revenue (Play Alberta FY2024-25 product split; AGLC gaming net sales C$2,133.7m)",
+        "url": "https://www.playcanada.com/gambling-revenue/",
+        "kind": "secondary"
+      },
+      {
+        "label": "Covers – Alberta Budget 2026 and iGaming revenue (AGLC net income ~C$2.4bn/yr)",
+        "url": "https://www.covers.com/industry/alberta-budget-sports-betting-icasino-gaming-tax-revenue-february-2026",
+        "kind": "secondary"
+      },
+      {
+        "label": "Segev LLP – What Alberta's 2026 Budget signals for iGaming (gaming & lottery net income C$1,577m 2026-27 → C$1,635m 2028-29)",
+        "url": "https://segevllp.com/what-albertas-2026-budget-signals-for-the-igaming-industry",
+        "kind": "secondary"
+      },
+      {
+        "label": "Covers – Bill could enable sale of Play Alberta platform (May 2026)",
+        "url": "https://www.covers.com/industry/play-alberta-possible-sale-privacy-bill-pass-sports-betting-igaming-launch-may-2026",
+        "kind": "secondary"
+      },
+      {
+        "label": "Gambling.com – Alberta gambling ad rules may change, Premier says (25 Oct 2026; AiGC 4 Aug 2026 ad overview)",
+        "url": "https://www.gambling.com/ca/news/alberta-premier-says-gambling-ad-rules-may-change",
+        "kind": "secondary"
+      },
+      {
+        "label": "CP24 / Canadian Press – Alberta aims to get gambling websites to pay for addiction treatment (26 Jul 2026)",
+        "url": "https://www.cp24.com/news/canada/2026/07/26/alberta-aims-to-get-gambling-websites-to-pay-for-addiction-treatment-danielle-smith/",
+        "kind": "secondary"
+      },
+      {
+        "label": "Yahoo/Covers – Alberta takes harder line on sports betting advertising (18 Jun 2026 SRIG update)",
+        "url": "https://www.yahoo.com/news/politics/articles/alberta-takes-harder-line-sports-183000791.html",
+        "kind": "secondary"
+      },
+      {
+        "label": "gamingcompliance.io – Bonusing and promotions compliance in Alberta (land-based inducement restriction; Winner's Edge)",
+        "url": "https://gamingcompliance.io/bonusing-and-promotions-compliance-in-alberta-what-the-aglc-srig-allows-and-what-it-prohibits/",
+        "kind": "secondary"
+      },
+      {
+        "label": "Radar – iGaming Alberta Act for operators (geolocation, account-sharing, sanctions screening)",
+        "url": "https://radar.com/blog/igaming-alberta-act-for-operators",
+        "kind": "secondary"
+      },
+      {
+        "label": "GBG – Game plan for iGaming Alberta (Ontario CY2025 GGR >C$4bn, wagers C$98.3bn; AGLC C$1.49bn)",
+        "url": "https://www.gbg.com/en/blog/what-s-the-game-plan-for-igaming-alberta/",
+        "kind": "secondary"
+      },
+      {
+        "label": "GlobeNewswire via Globe and Mail – Delasport live in Alberta with PlayBetNova (iGO FY2024-25 C$82.7bn/C$3.2bn; H2 ~C$1.2bn estimate)",
+        "url": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/8198048/delasport-goes-live-in-alberta-with-playbetnova-ca-marking-its-second-canadian-market/",
+        "kind": "secondary"
+      },
+      {
+        "label": "licencegaming.com – Alberta iGaming revenue 2026 (H2 ~C$850m estimate; proclamation date)",
+        "url": "https://licencegaming.com/igaming/alberta-igaming-revenue-2026",
+        "kind": "secondary"
+      },
+      {
+        "label": "Yogonet – Alberta opens competitive iGaming market with 50 registered operators (13 Jul 2026)",
+        "url": "https://www.yogonet.com/international/news/2026/07/13/125336-canada-alberta-opens-competitive-igaming-market-with-50-registered-operators",
+        "kind": "secondary"
+      }
+    ],
+    "sharePriceReaction": "",
+    "docType": "regulator"
+  }
+}

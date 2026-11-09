@@ -2994,5 +2994,182 @@
     "releaseDate": "20 Oct 2026 (MGC September 2026 Revenue Report; 9M = Jan–Sep 2026)",
     "model": "claude-fable-5-1",
     "costUsd": 6.48
+  },
+  {
+    "key": "juris|tennessee|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-09T22:46:48.054Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "TENNESSEE-SEPTEMBER-2026",
+    "published": "2026-11-09",
+    "company": {
+      "name": "Tennessee",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "Tennessee's mobile-only sportsbook market took $591.9m of gross wagers in September 2026 (+4.7% YoY; taxable gross handle $588.6m, +4.9%) — the best month of 2026 but still short of the $598.6m booked in November 2024 — and yielded $10.88m of privilege tax under the only handle-based regime in the US (1.85% of gross handle). Growth has decelerated hard from the World Cup-inflated summer (+30–38% YoY in June/July) to mid-single digits, the licensed field has thinned to nine operators, and the regulatory story is now enforcement-led (a Sixth Circuit ruling that Tennessee's Sports Gaming Act reaches Kalshi's sports contracts, and a run of offshore cease-and-desists) rather than tax or licensing change. For an entrant, Tennessee is cheap to enter but structurally rewards scale and high-hold product; it penalises promo-heavy or low-margin models because free bets are taxed at face value.",
+    "kpis": [
+      {
+        "label": "Gross wagers (Sep-26)",
+        "value": "$591.9m",
+        "delta": "+4.7% YoY / +42.8% MoM; best month of 2026",
+        "dir": "up"
+      },
+      {
+        "label": "Gross handle – taxable base",
+        "value": "$588.6m",
+        "delta": "+4.9% YoY (Sep-25 ≈$561m)",
+        "dir": "up"
+      },
+      {
+        "label": "Privilege tax assessed",
+        "value": "$10.88m",
+        "delta": "+4.9% YoY vs $10.4m",
+        "dir": "up"
+      },
+      {
+        "label": "Tax regime",
+        "value": "1.85% of handle",
+        "delta": "Unchanged since 1 Jul 2023; fed. 0.25% excise deductible",
+        "dir": "flat"
+      },
+      {
+        "label": "Licensed sportsbooks",
+        "value": "9",
+        "delta": "vs 10 at end-2025, 12 at end-2024",
+        "dir": "down"
+      },
+      {
+        "label": "2026 YTD gross wagers (Jan–Sep)",
+        "value": "≈$4.37bn",
+        "delta": "CY2025 full year $5.87bn (+10.8%)",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "23 Oct 2026 (SWC \"Monthly Sports Gaming Report: September 2026\"; trade coverage 23–28 Oct 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.04
+  },
+  {
+    "key": "juris|alberta|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-09T23:06:22.212Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "ALBERTA-Q3-2026",
+    "published": "2026-11-09",
+    "company": {
+      "name": "Alberta",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "Alberta's first 80 days as Canada's second open iGaming market produced C$2,885m (~$2,061m) of wagers and C$122.1m (~$87.2m) of non-adjusted GGR, with September alone at C$56.6m (~$40.4m) — a run-rate (~C$680m annualised) already ~1.7x the GGR implied by the government's own C$76m year-one revenue forecast. It is a casino-led market (78% of NAGGR) run on an Ontario-style conduct-and-manage model with a ~22% effective public take, cheap licences and the strictest day-one advertising rules in Canada; the swing factors from here are the Premier's threatened advertising clampdown, enforcement against the ~70% offshore base, and how 50 approved sites split a ~5m-person province.",
+    "kpis": [
+      {
+        "label": "Q3-26 NAGGR (13 Jul–30 Sep)",
+        "value": "C$122.1m (~$87.2m)",
+        "delta": "Sep C$56.6m, +30.7% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "Q3-26 Wagers",
+        "value": "C$2,885m (~$2,061m)",
+        "delta": "Sep C$1,277m, +20.0% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "Active player accounts (Sep)",
+        "value": "388,585",
+        "delta": "+23.7% MoM; ARPPA C$146 (~$104)",
+        "dir": "up"
+      },
+      {
+        "label": "Active operators (Sep)",
+        "value": "24",
+        "delta": "29 operators / 50 sites approved by 13 Oct",
+        "dir": "up"
+      },
+      {
+        "label": "Blended hold (Sep)",
+        "value": "4.43%",
+        "delta": "Casino 4.3% · Betting 7.3% · Live 2.3%",
+        "dir": "up"
+      },
+      {
+        "label": "Est. public take Q3 (20% of net + 3% GGR)",
+        "value": "~C$27m (~$20m)",
+        "delta": "Sep run-rate ~C$12.7m/mth vs C$76m FY1 budget",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "26 Oct 2026 (AiGC Market Performance Report – September 2026 edition; covers 13 Jul–30 Sep 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.45
+  },
+  {
+    "key": "star entertainment|Q1 FY27",
+    "attempts": 1,
+    "lastAttempt": "2026-11-09T23:27:21.833Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "SGR-AX-Q1-FY27",
+    "published": "2026-11-09",
+    "company": {
+      "name": "The Star Entertainment Group",
+      "ticker": "SGR.AX",
+      "exchange": ""
+    },
+    "period": "Q1 FY27",
+    "verdict": "The Star's Q1 FY27 (Sep-26 quarter) is the first positive EBITDA print in more than two years — A$12m (~$8m) vs –A$13m pcp — driven entirely by the two owned properties (Sydney + Gold Coast EBITDA A$35m / ~$24.5m, +164% YoY) and a 29% cut in unallocated corporate costs, partly offset by the Brisbane operator-fee reset (–67%). The operating turnaround is real but small: a ~A$48m annualised group EBITDA run-rate sits below our ~A$70m estimate of annual cash interest (currently paid from a restricted reserve), statutory operating cash flow was still –A$15.5m, cash fell A$28m to A$239m, and the day after the AGM the Federal Court imposed a A$260m (~$182m) AUSTRAC penalty that triggers a WhiteHawk review event. The equity remains a levered option on licence restoration and Bally's continued support, not a cash-flow story yet.",
+    "kpis": [
+      {
+        "label": "Group revenue (Q1 FY27)",
+        "value": "A$284m (~$199m)",
+        "delta": "+2% YoY / +8% QoQ (pcp restated A$280m)",
+        "dir": "up"
+      },
+      {
+        "label": "Group EBITDA",
+        "value": "A$12m (~$8m)",
+        "delta": "+A$25m YoY (vs –A$13m); +A$21m QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Owned-property EBITDA (Sydney + Gold Coast)",
+        "value": "A$35m (~$24.5m)",
+        "delta": "+164% YoY; margin 12.5% (+720bps)",
+        "dir": "up"
+      },
+      {
+        "label": "Unallocated corporate costs",
+        "value": "A$23m (~$16m)",
+        "delta": "–29% / –A$10m YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Cash & equivalents (30 Sep 26)",
+        "value": "A$239m (~$167m)",
+        "delta": "–A$28m QoQ; +A$80m restricted deposits",
+        "dir": "down"
+      },
+      {
+        "label": "Net operating cash flow (App. 4C)",
+        "value": "–A$15.5m (~–$11m)",
+        "delta": "incl. +A$41.5m one-off receipts & unquantified duty payment",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "27 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.59
   }
 ]
