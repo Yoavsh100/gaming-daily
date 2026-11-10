@@ -1,62 +1,5 @@
 [
   {
-    "key": "atg|Q3 2026",
-    "type": "company",
-    "company": "ATG",
-    "ticker": null,
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237695-atg-posts-lower-revenue-and-income-for-q3/"
-    ],
-    "seen": "2026-10-26"
-  },
-  {
-    "key": "juris|brazil|2026",
-    "type": "jurisdiction",
-    "market": "Brazil",
-    "authority": "GR8_TECH",
-    "period": "2026",
-    "urls": [
-      "https://next.io/news/b2b-news/gr8_techs-brazil-igaming-report/",
-      "https://focusgn.com/gr8-tech-brazil-betting-ban-report",
-      "https://igamingfuture.com/gr8_techs-brazil-igaming-report-what-happens-when-one-of-latams-biggest-betting-markets-faces-a-ban/"
-    ],
-    "seen": "2026-10-26"
-  },
-  {
-    "key": "juris|michigan|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Michigan",
-    "authority": "Michigan Gaming Control Board",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237739-michigan-sports-betting-and-igaming-revenue-tops-355-million-in-september/"
-    ],
-    "seen": "2026-10-26"
-  },
-  {
-    "key": "atlantic lottery|FY 2026",
-    "type": "company",
-    "company": "Atlantic Lottery Corporation",
-    "ticker": null,
-    "period": "FY 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237807-canadas-atlantic-lottery-delivers-strong-ilottery-growth-in-2025-26/"
-    ],
-    "seen": "2026-10-26"
-  },
-  {
-    "key": "juris|germany|Q3 2026",
-    "type": "jurisdiction",
-    "market": "Germany",
-    "authority": null,
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237735-german-gambling-tax-revenue-grows-by-11-in-q3-2026/"
-    ],
-    "seen": "2026-10-26"
-  },
-  {
     "key": "juris|alberta|JULY-SEPTEMBER 2026",
     "type": "jurisdiction",
     "market": "Alberta",
@@ -626,7 +569,9 @@
       "https://casinobeats.com/2026/11/01/gambling-commission-payment-data-91-of-repeat-illegal-site-users-still-bet-with-licensed-sites/",
       "https://focusgn.com/ukgc-illegal-gambling-harm-study",
       "https://focusgn.com/illegal-gambling-index-gambling-commission",
-      "https://igamingbusiness.com/legal-compliance/illegal-gambling-websites-2-5-of-online-gamblers-in-latest-uk-survey/"
+      "https://igamingbusiness.com/legal-compliance/illegal-gambling-websites-2-5-of-online-gamblers-in-latest-uk-survey/",
+      "https://igamingfuture.com/ukgc-illegal-gambling-data/",
+      "https://igamingfuture.com/gambling-commission-2/"
     ],
     "seen": "2026-11-02"
   },
@@ -1354,5 +1299,38 @@
       "https://www.gamingintelligence.com/finance/238434-philippine-gambling-industry-continues-to-decline-in-q3-2026/"
     ],
     "seen": "2026-11-09"
+  },
+  {
+    "key": "juris|virginia|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Virginia",
+    "authority": "Virginia Lottery",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/markets/north-america/238254-virginia-sports-wagers-decline-1-in-september/"
+    ],
+    "seen": "2026-11-10"
+  },
+  {
+    "key": "juris|new york|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "New York",
+    "authority": null,
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238318-new-york-video-gaming-machines-win-132-1-million-in-october/"
+    ],
+    "seen": "2026-11-10"
+  },
+  {
+    "key": "juris|pennsylvania|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Pennsylvania",
+    "authority": "Pennsylvania Lottery",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/sectors/lottery-sectors/238268-pennsylvania-lottery-sales-drop-15-in-september/"
+    ],
+    "seen": "2026-11-10"
   }
 ]
