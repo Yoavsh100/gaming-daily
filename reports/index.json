@@ -3171,5 +3171,136 @@
     "releaseDate": "27 Oct 2026",
     "model": "claude-fable-5-1",
     "costUsd": 4.59
+  },
+  {
+    "key": "star entertainment|Q1 FY2027",
+    "attempts": 1,
+    "lastAttempt": "2026-11-10T20:05:15.133Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "SGR-AX-Q1-FY2027",
+    "published": "2026-11-10",
+    "company": {
+      "name": "The Star Entertainment Group",
+      "ticker": "SGR.AX",
+      "exchange": ""
+    },
+    "period": "Q1 FY2027",
+    "verdict": "A genuine operational inflection: first positive group EBITDA (A$12m / ~$8m) since quarterly reporting began and the first YoY revenue growth at the two owned properties, delivered by EGM-led growth at Gold Coast and Sydney plus a 29% cut in unallocated corporate costs. But the equity remains hostage to a still-suspended Sydney licence, a Gold Coast suspension deferral expiring 31 Mar 2027, a A$260m (~$183m) AUSTRAC penalty payable over 19 months against A$239m (~$168m) of cash, and a going-concern uncertainty the company itself re-flagged. Shares +13% to A$0.13 (~$0.09) on the day.",
+    "kpis": [
+      {
+        "label": "Group revenue",
+        "value": "A$284m (~$199m)",
+        "delta": "+2% YoY / +8% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Group EBITDA (pre-significant items)",
+        "value": "A$12m (~$8m)",
+        "delta": "+A$25m YoY (vs −A$13m); margin 4.2%, +880bps",
+        "dir": "up"
+      },
+      {
+        "label": "Owned-property revenue (Sydney + Gold Coast)",
+        "value": "A$279m (~$196m)",
+        "delta": "+5% YoY / +9% QoQ — first YoY growth since Sep-24 qtr",
+        "dir": "up"
+      },
+      {
+        "label": "Unallocated corporate costs",
+        "value": "A$23m (~$16m)",
+        "delta": "−29% YoY (−A$10m); 8.1% of revenue vs 11.8%",
+        "dir": "down"
+      },
+      {
+        "label": "Cash & equivalents (30 Sep 2026)",
+        "value": "A$239m (~$168m)",
+        "delta": "−A$28m QoQ; total cash & deposits A$319m, −A$49m",
+        "dir": "down"
+      },
+      {
+        "label": "Brisbane EBITDAM (managed, 100% basis)",
+        "value": "A$37m (~$26m)",
+        "delta": "+193% YoY / +43% QoQ — record",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "27 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.04
+  },
+  {
+    "key": "juris|united states|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-10T20:17:28.544Z",
+    "status": "failed",
+    "error": "Cannot read properties of undefined (reading 'join')",
+    "type": "jurisdiction",
+    "company": {
+      "name": "United States",
+      "ticker": ""
+    },
+    "period": "Q3 2026"
+  },
+  {
+    "key": "juris|alberta|FIRST THREE MONTHS OF REGULATED MARKET",
+    "attempts": 1,
+    "lastAttempt": "2026-11-10T20:32:43.915Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "ALBERTA-FIRST-THREE-MONTHS-OF-REGULATED-MARKET",
+    "published": "2026-11-10",
+    "company": {
+      "name": "Alberta",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "FIRST THREE MONTHS OF REGULATED MARKET",
+    "verdict": "Alberta's open-licence online market generated C$122.1m (~$87.2m) of non-adjusted GGR on C$2,885m (~$2.06bn) of wagers in its first 80 days (13 Jul–30 Sep 2026), exiting September at C$56.6m (~$40.4m), +30.7% MoM, with only 24 operators live against 51 registered brands. It is a casino-led (78% of NAGGR), thin-hold (4.2%) land-grab with Ontario-parity economics (20% GGR share + 3% earmarks), but the regulator has not yet disclosed operator shares, the adjusted-GGR levy base or any channelization measurement — the headline is strong, the invoice is still open.",
+    "kpis": [
+      {
+        "label": "NAGGR, 13 Jul–30 Sep 2026 (80 days)",
+        "value": "C$122.1m (~$87.2m)",
+        "delta": "Jul C$22.2m → Aug C$43.3m → Sep C$56.6m",
+        "dir": "up"
+      },
+      {
+        "label": "September NAGGR",
+        "value": "C$56.6m (~$40.4m)",
+        "delta": "+30.7% MoM; +61% per-day vs July",
+        "dir": "up"
+      },
+      {
+        "label": "Wagers, launch-to-date",
+        "value": "C$2,885.1m (~$2.06bn)",
+        "delta": "Sep C$1,277.4m, +20.0% MoM; blended hold 4.23%",
+        "dir": "up"
+      },
+      {
+        "label": "Active player accounts (Sep)",
+        "value": "388,585",
+        "delta": "+23.7% MoM (not unique players)",
+        "dir": "up"
+      },
+      {
+        "label": "ARPPA (Sep, NAGGR/account)",
+        "value": "C$146 (~$104)",
+        "delta": "+5.8% MoM; C$98 in Jul",
+        "dir": "up"
+      },
+      {
+        "label": "Active operators (30 Sep)",
+        "value": "24",
+        "delta": "15 at launch; 51 brands registered at 10 Nov 2026",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "23 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.43
   }
 ]

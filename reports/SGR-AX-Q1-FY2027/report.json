@@ -1,0 +1,1771 @@
+{
+  "company": {
+    "name": "The Star Entertainment Group",
+    "ticker": "SGR.AX",
+    "exchange": ""
+  },
+  "period": "Q1 FY2027",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 968862,
+    "output": 55062,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 46,
+    "cacheRead": 883411,
+    "cacheWrite": 85405,
+    "turns": 1
+  },
+  "prepared": "10 Nov 2026",
+  "report": {
+    "releaseDate": "27 Oct 2026",
+    "currency": "AUD (A$), tables in millions; ~USD equivalents at AUD/USD 0.702 (27 Oct 2026)",
+    "verdict": "A genuine operational inflection: first positive group EBITDA (A$12m / ~$8m) since quarterly reporting began and the first YoY revenue growth at the two owned properties, delivered by EGM-led growth at Gold Coast and Sydney plus a 29% cut in unallocated corporate costs. But the equity remains hostage to a still-suspended Sydney licence, a Gold Coast suspension deferral expiring 31 Mar 2027, a A$260m (~$183m) AUSTRAC penalty payable over 19 months against A$239m (~$168m) of cash, and a going-concern uncertainty the company itself re-flagged. Shares +13% to A$0.13 (~$0.09) on the day.",
+    "kpis": [
+      {
+        "label": "Group revenue",
+        "value": "A$284m (~$199m)",
+        "delta": "+2% YoY / +8% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Group EBITDA (pre-significant items)",
+        "value": "A$12m (~$8m)",
+        "delta": "+A$25m YoY (vs −A$13m); margin 4.2%, +880bps",
+        "dir": "up"
+      },
+      {
+        "label": "Owned-property revenue (Sydney + Gold Coast)",
+        "value": "A$279m (~$196m)",
+        "delta": "+5% YoY / +9% QoQ — first YoY growth since Sep-24 qtr",
+        "dir": "up"
+      },
+      {
+        "label": "Unallocated corporate costs",
+        "value": "A$23m (~$16m)",
+        "delta": "−29% YoY (−A$10m); 8.1% of revenue vs 11.8%",
+        "dir": "down"
+      },
+      {
+        "label": "Cash & equivalents (30 Sep 2026)",
+        "value": "A$239m (~$168m)",
+        "delta": "−A$28m QoQ; total cash & deposits A$319m, −A$49m",
+        "dir": "down"
+      },
+      {
+        "label": "Brisbane EBITDAM (managed, 100% basis)",
+        "value": "A$37m (~$26m)",
+        "delta": "+193% YoY / +43% QoQ — record",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**Back in the black at EBITDA level.** Q1 FY27 (3 months to 30 Sep 2026) group EBITDA before significant items of A$12m (~$8m) vs a A$13m loss in the pcp and a A$9m loss in Q4 FY26 — a A$25m YoY swing and the first positive quarter since ASX-mandated quarterly reporting began in the Sep-24 quarter. Group EBITDA margin 4.2% vs −4.6% pcp (+880bps) and −3.4% QoQ (+770bps).",
+      "**Versus expectations: no meaningful published consensus, but the tape says 'beat'.** SGR closed +13.0% at A$0.13 (~$0.09) from A$0.115, having traded as high as A$0.138 (+20%) intraday. Context matters: the stock had lost >10% on 25 Sep when the NICC extended the Sydney licence suspension, so part of the move is relief positioning rather than re-rating.",
+      "**Revenue has inflected, but only at the owned properties.** Group revenue A$284m (~$199m), +2% YoY and +8% QoQ. The Star Sydney + The Star Gold Coast combined A$279m (~$196m), +5% YoY / +9% QoQ — management stresses this is the first YoY quarterly growth for the pair since Q1 FY25. The gap between +5% owned and +2% group is entirely the A$9m YoY cut in the Brisbane operator fee.",
+      "**Gold Coast drove the quarter; Sydney drove the cost side.** Gold Coast revenue +12% YoY to A$117m (~$82m) and EBITDA +92% to A$20m (~$14m). Sydney revenue only +1% to A$162m (~$114m) but EBITDA rose A$12m to A$15m (~$11m) as opex fell 13%. Corporate costs added a further A$10m; Brisbane's fee reset subtracted A$6m. Bridge: −13 +12 (Syd) +9 (GC) +10 (corp) −6 (Bris) = +12.",
+      "**Growth is EGM-led and promo-funded — quality is mixed.** Both properties cite 'strong electronic gaming machine growth' from 'revenue and marketing initiatives'; Sydney tables and non-gaming were soft, with non-gaming hit by 'increased complimentary investment' and the Sep-25 sale of the Event Centre. No EGM/table/non-gaming revenue split, win rates, visitation, actives or market shares are disclosed in the quarterly.",
+      "**Cost-out is real but unquantified as a program.** Group opex −12% YoY to A$202m (~$142m), 71.1% of revenue vs 81.8% pcp. Unallocated corporate A$23m (~$16m), −29% YoY. The Chairman says 'tens of millions' of corporate bloat have been removed and decentralisation of operating control to the properties was completed in October; management expects further corporate reductions to fund marketing. There is no stated savings target or timeline — a disclosure gap vs listed peers.",
+      "**Gaming-tax leverage is working against the P&L.** Gaming taxes & levies +10% YoY to A$70m (~$49m) on +2% revenue — 24.6% of revenue vs 22.9% pcp (Sydney 29.6% vs 28.0%; Gold Coast 18.8% vs 18.1%), consistent with the EGM-heavy mix and scheduled NSW duty step-ups. EGM-led growth carries a structurally higher duty take than the tables business it is replacing.",
+      "**Brisbane is a record for the asset, not for shareholders.** The Star Brisbane (managed under the amended CMA after Stage 1 of the DBC unwind closed in Mar-26) produced EBITDAM of A$37m (~$26m), +193% YoY on revenue of A$136m (~$95m), +14%; margin 27.2%. The Chairman says EBITDAM now annualises to >A$150m vs ~A$50m at takeover. But Star's operator fee is now A$4.5m/qtr (vs A$13.8m pcp) against A$5m of directly attributable cost, so segment EBITDA is nil (vs A$6m pcp). The upside accrues to the DBC owners.",
+      "**Reported operating cash flow was negative; 'underlying' positive.** Appendix 4C net operating cash flow −A$15.5m (~−$11m), which includes a one-off payment of historical underpaid NSW casino duties (in item 1.2(b), amount not disclosed) and +A$41.5m (~$29m) of one-off receipts (ATO settlement on junket GST/withholding tax, plus returned rebate duty). Management says operating free cash flow excluding one-offs was positive; by arithmetic that implies the duty catch-up payment exceeded ~A$63m [analyst inference, unverified]. No cash interest was paid — the first year of WhiteHawk interest to May 2027 is funded from a A$48m Interest Reserve Account.",
+      "**Liquidity is shrinking at the margin.** Cash & equivalents A$239.4m (~$168m) vs A$267.1m at 30 Jun (−A$27.6m); restricted deposits A$80m (~$56m) vs A$101m; total cash & deposits A$319m (~$224m) vs A$368m (−A$49m). Composition deteriorated more than the headline: bank balances −A$42m to A$186m while cage cash +A$15m to A$32m. The Chairman told the AGM cash is 'approximately $200 million' — which reconciles to cash ex-cage (A$207m) or signals further October outflow; unverified either way.",
+      "**Debt and leverage.** Drawn facilities A$570.7m (~$401m): the US$390m WhiteHawk facility (A$559.1m at 30 Sep; three-year term; minimum-liquidity covenant A$50m for the first 12 months rising to A$75m thereafter) plus a A$11.6m 9% PIK liability to Bally's/Investment Holdings now being converted to 105.9m shares. Analyst-computed net debt ~A$252m (~$177m) including restricted deposits, ~A$331m (~$233m) excluding. Net debt/EBITDA is not meaningful on LTM EBITDA near zero; on Q1 annualised EBITDA of A$48m it is >5x and rising once AUSTRAC instalments are paid.",
+      "**AUSTRAC resolved at A$260m (~$183m), payable in four instalments over 19 months.** Federal Court judgment 28 Oct; Star says the quantum is 'materially in line' with the FY26 provision and does not impair going concern. The penalty terms constitute a 'review event' under the WhiteHawk facility; management is 'engaging' and 'confident' the facility remains available — the waiver terms (fees, pricing, covenants) are the near-term credit event to watch.",
+      "**Going concern still formally flagged.** The report repeats that sufficient liquidity is 'subject to and dependent on the outcome of a number of material uncertainties' (Note G of the FY26 accounts), to be reassessed at the H1 FY27 filing (Feb 2027). Appendix 4C shows 15.9 quarters of funding on the reported (one-off-affected) burn.",
+      "**Licences remain on probation into 2027.** Sydney: licence suspended, NSW Manager's appointment extended to 30 Jun 2027 unless terminated earlier by the NICC (the Sep-25 extension cited unresolved governance concerns, per press). Gold Coast: suspension deferral and Special Manager to 31 Mar 2027. Brisbane: External Adviser to 31 Mar 2027. Management says >85% of remediation-plan milestones are complete and decentralisation is 'a critical regulatory milestone'.",
+      "**Guidance is directional, not numerical.** FY27 is 'expected to be the first time The Star will generate net annual operating cash inflows, before one-off items, in more than two years'; management 'now expect[s] to start building cash reserves in FY27, before non-operating items'; October momentum 'has continued'. Nothing on FY27 revenue, EBITDA or capex.",
+      "**Governance and management.** All AGM resolutions passed on a poll, including five director elections and the PIK share settlement (Bally's 62.57m / Investment Holdings 43.35m shares). New property CEOs: John Koster (Sydney) and Ameet Patel (Gold Coast & Brisbane); NEDs Brooke Lindsay and Grant Bowie joined 1 Sep. Chairman Soo Kim opened by noting that 'if the reporting is to be believed' this is his 'first and last' AGM — a succession signal the market should not ignore given Bally's ~38% holding.",
+      "**Capital allocation is survival-mode.** Capex A$5.7m (~$4m), 2.0% of revenue — well below maintenance levels for three integrated resorts. A$5.1m of loans and A$1.0m of PP&E payments went to the Destination Gold Coast Consortium JV (Tower 2 delivered; Andaz hotel opening Nov-26). No dividend or buyback, obviously.",
+      "**Accounting presentation changed.** From FY27 corporate shared-service costs are directly attributed to properties rather than allocated by fixed percentage; FY26 property figures are restated and are not comparable with previously published segment EBITDA. Group EBITDA is unaffected. Treasury Brisbane remains discontinued (nil EBITDA).",
+      "**FY26 base for context.** Statutory NPAT −A$307.3m (~−$216m), normalised revenue A$1,101m (~$773m, −2%), normalised EBITDA −A$16.1m (~−$11m). Q1 FY27 annualises to ~A$48m EBITDA before seasonality and further cost-out — small against A$571m gross debt, A$260m of penalties and ~A$70m+/yr of cash interest once the reserve account is exhausted.",
+      "**Thesis read-through.** The operating turnaround is credible and now visible in three consecutive data points (Mar-26 monthly inflection, Jul-26 +6%, Q1 +5% owned). What it does not yet do is fund the liabilities: equity value hinges on (i) suitability outcomes by Mar/Jun 2027, (ii) WhiteHawk's treatment of the AUSTRAC review event, and (iii) whether ~A$60–90m of FY27E EBITDA [our estimate] can carry AUSTRAC instalments plus post-May-2027 cash interest without another equity call from Bally's/Mathieson."
+    ],
+    "groupTable": {
+      "note": "A$m (~US$m) — unaudited, pre-significant items, continuing ops",
+      "columns": [
+        "Q1 FY27",
+        "Q4 FY26",
+        "Q1 FY26 (pcp)",
+        "QoQ",
+        "YoY"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by segment",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "The Star Sydney",
+          "indent": true,
+          "cells": [
+            "162 (~$114)",
+            "150 (~$105)",
+            "161 (~$113)",
+            "+8%",
+            "+1%"
+          ]
+        },
+        {
+          "label": "The Star Gold Coast",
+          "indent": true,
+          "cells": [
+            "117 (~$82)",
+            "107 (~$75)",
+            "105 (~$74)",
+            "+9%",
+            "+12%"
+          ]
+        },
+        {
+          "label": "The Star Brisbane (operator fee)",
+          "indent": true,
+          "cells": [
+            "5 (~$3.5)",
+            "5 (~$3.5)",
+            "14 (~$10)",
+            "0%",
+            "−67%"
+          ],
+          "footnote": "Fee A$4.5m vs A$13.8m pcp under amended CMA effective 1 Apr 2026"
+        },
+        {
+          "label": "Group revenue",
+          "kind": "emphasis",
+          "cells": [
+            "284 (~$199)",
+            "262 (~$184)",
+            "280 (~$197)",
+            "+8%",
+            "+2%"
+          ]
+        },
+        {
+          "label": "Owned properties (Sydney + Gold Coast)",
+          "indent": true,
+          "cells": [
+            "279 (~$196)",
+            "257 (~$180)",
+            "266 (~$187)",
+            "+9%",
+            "+5%"
+          ]
+        },
+        {
+          "label": "Revenue by product",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "EGM / tables / non-gaming split",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Not disclosed in quarterly reporting; company states growth was EGM-led with Sydney tables and non-gaming soft"
+        },
+        {
+          "label": "Costs",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Gaming taxes & levies",
+          "indent": true,
+          "cells": [
+            "(70) (~$49)",
+            "(66) (~$46)",
+            "(64) (~$45)",
+            "+6%",
+            "+10%"
+          ],
+          "footnote": "24.6% of revenue vs 25.2% Q4 and 22.9% pcp"
+        },
+        {
+          "label": "Operating expenses",
+          "indent": true,
+          "cells": [
+            "(202) (~$142)",
+            "(205) (~$144)",
+            "(229) (~$161)",
+            "−1%",
+            "−12%"
+          ],
+          "footnote": "71.1% of revenue vs 78.2% Q4 and 81.8% pcp"
+        },
+        {
+          "label": "Unallocated corporate costs",
+          "indent": true,
+          "cells": [
+            "(23) (~$16)",
+            "(24) (~$17)",
+            "(33) (~$23)",
+            "−4%",
+            "−29%"
+          ],
+          "footnote": "8.1% of revenue vs 11.8% pcp; FY26 restated to direct-attribution methodology"
+        },
+        {
+          "label": "EBITDA (before significant items)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "The Star Sydney",
+          "indent": true,
+          "cells": [
+            "15 (~$11)",
+            "(1) (~−$1)",
+            "3 (~$2)",
+            "nmf",
+            "+A$12m"
+          ]
+        },
+        {
+          "label": "The Star Gold Coast",
+          "indent": true,
+          "cells": [
+            "20 (~$14)",
+            "17 (~$12)",
+            "11 (~$8)",
+            "+18%",
+            "+92%"
+          ]
+        },
+        {
+          "label": "The Star Brisbane (segment)",
+          "indent": true,
+          "cells": [
+            "0",
+            "(1)",
+            "6 (~$4)",
+            "nmf",
+            "−A$6m"
+          ]
+        },
+        {
+          "label": "Unallocated corporate",
+          "indent": true,
+          "cells": [
+            "(23) (~$16)",
+            "(24) (~$17)",
+            "(33) (~$23)",
+            "−4%",
+            "−29%"
+          ]
+        },
+        {
+          "label": "Group EBITDA",
+          "kind": "emphasis",
+          "cells": [
+            "12 (~$8)",
+            "(9) (~−$6)",
+            "(13) (~−$9)",
+            "+A$21m",
+            "+A$25m"
+          ]
+        },
+        {
+          "label": "Group EBITDA margin",
+          "indent": true,
+          "cells": [
+            "4.2%",
+            "−3.4%",
+            "−4.6%",
+            "+770bps",
+            "+880bps"
+          ]
+        },
+        {
+          "label": "Owned-property EBITDA (Sydney + GC)",
+          "indent": true,
+          "cells": [
+            "35 (~$25)",
+            "16 (~$11)",
+            "14 (~$10)",
+            "+125%",
+            "+164%"
+          ]
+        },
+        {
+          "label": "Owned-property EBITDA margin",
+          "indent": true,
+          "cells": [
+            "12.5%",
+            "6.2%",
+            "5.3%",
+            "+630bps",
+            "+720bps"
+          ]
+        },
+        {
+          "label": "Managed property — The Star Brisbane (100% basis, not consolidated)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Revenue",
+          "indent": true,
+          "cells": [
+            "136 (~$95)",
+            "121 (~$85)",
+            "119 (~$84)",
+            "+12%",
+            "+14%"
+          ]
+        },
+        {
+          "label": "EBITDAM (before operator fee)",
+          "indent": true,
+          "cells": [
+            "37 (~$26)",
+            "26 (~$18)",
+            "13 (~$9)",
+            "+43%",
+            "+193%"
+          ]
+        },
+        {
+          "label": "EBITDAM margin",
+          "indent": true,
+          "cells": [
+            "27.2%",
+            "21.5%",
+            "10.9%",
+            "+570bps",
+            "+1,630bps"
+          ]
+        },
+        {
+          "label": "Below EBITDA",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Net income / GAAP & adjusted EPS",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Not disclosed in quarterly reporting. FY26 statutory NPAT −A$307.3m (~−$216m); FY26 normalised EBITDA −A$16.1m"
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Avg monthly players / ARPU / handle",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Not reported by The Star (land-based operator); no visitation or market-share data in the quarterly"
+        },
+        {
+          "label": "Cash flow (Appendix 4C, A$m)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Receipts from customers",
+          "indent": true,
+          "cells": [
+            "334.4 (~$235)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Grossed up by at-cost DBC labour recharge; not comparable with P&L revenue"
+        },
+        {
+          "label": "Net operating cash flow (reported)",
+          "indent": true,
+          "cells": [
+            "(15.5) (~−$11)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Includes one-off NSW historical duty payment (not quantified) and +A$41.5m one-off receipts (ATO junket GST/WHT settlement, returned rebate duty); company states op. FCF ex one-offs was positive"
+        },
+        {
+          "label": "Cash interest paid",
+          "indent": true,
+          "cells": [
+            "0",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Year-1 WhiteHawk interest to May 2027 funded from A$48m Interest Reserve Account (restricted)"
+        },
+        {
+          "label": "Capex (PP&E)",
+          "indent": true,
+          "cells": [
+            "(5.7) (~$4)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "2.0% of revenue"
+        },
+        {
+          "label": "Loans to DGCC JV / dividends received",
+          "indent": true,
+          "cells": [
+            "(5.1) / +0.4",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Balance sheet & liquidity (30 Sep 2026 vs 30 Jun 2026)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Cash & cash equivalents",
+          "indent": true,
+          "cells": [
+            "239.4 (~$168)",
+            "267.1 (~$187)",
+            "n/a",
+            "−A$27.6m",
+            "n/a"
+          ],
+          "footnote": "Of which cage cash A$32.2m (Jun: A$16.9m); bank balances A$185.7m (Jun: A$227.6m)"
+        },
+        {
+          "label": "Restricted deposits",
+          "indent": true,
+          "cells": [
+            "80 (~$56)",
+            "101 (~$71)",
+            "n/a",
+            "−A$21m",
+            "n/a"
+          ],
+          "footnote": "Incl. A$48m Interest Reserve Account, cash-backed guarantees, workers' comp security"
+        },
+        {
+          "label": "Total cash & deposits",
+          "indent": true,
+          "cells": [
+            "319 (~$224)",
+            "368 (~$258)",
+            "n/a",
+            "−A$49m",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Drawn debt (WhiteHawk US$390m = A$559.1m + PIK A$11.6m)",
+          "indent": true,
+          "cells": [
+            "570.7 (~$401)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "3-yr term; min liquidity covenant A$50m (yr 1) rising to A$75m; PIK at 9% being converted to 105.9m shares"
+        },
+        {
+          "label": "Net debt — analyst estimate",
+          "kind": "emphasis",
+          "cells": [
+            "~252 (~$177)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Drawn facilities less total cash & deposits; ~A$331m (~$233m) excluding restricted deposits. Not a company-reported figure"
+        },
+        {
+          "label": "Net debt / LTM EBITDA",
+          "indent": true,
+          "cells": [
+            "n/m",
+            "n/m",
+            "n/m",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "LTM EBITDA ≈ zero/negative; >5x on Q1 annualised A$48m"
+        },
+        {
+          "label": "Quarters of funding (4C item 8.5)",
+          "indent": true,
+          "cells": [
+            "15.9",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "AUSTRAC penalty (judgment 28 Oct 2026)",
+          "indent": true,
+          "cells": [
+            "260 (~$183)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Four instalments over 19 months; 'materially in line' with FY26 provision"
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "The Star Sydney (owned)",
+        "headline": "Revenue +1% YoY to A$162m but EBITDA +A$12m to A$15m on a 13% opex cut — the margin story, not the growth story; licence still suspended to at least 30 Jun 2027.",
+        "narrative": [
+          "They reported Sydney revenue of A$162m (~$114m), up 1% on the pcp and 8% on Q4 FY26, with the growth coming from 'strong year on year electronic gaming machines growth' that was partially offset by softness in table games and in non-gaming. The non-gaming line was hit twice: by 'increased complimentary investment' (comps are netted against revenue) and by the loss of events and catering revenue after the Event Centre sale completed in September 2025. In other words, the 1% headline understates gaming growth and overstates the health of the broader resort: the floor is being driven by machines and promotional reinvestment while the premium/tables business, which was the pre-2022 profit engine, continues to shrink. No EGM/table split, win rates, visitation, actives or NSW market shares are disclosed, so the quality of the gaming growth cannot be independently assessed from the quarterly.",
+          "Gaming taxes and levies rose 7% to A$48m (~$34m), or 29.6% of revenue versus 28.0% in the pcp, so the state took more than the incremental revenue delivered. That is the arithmetic of an EGM-led mix in NSW, where machine duty exceeds table duty and the duty schedule steps up over time, and it means Sydney's revenue growth will convert to EBITDA at a lower rate than Gold Coast's for as long as tables remain soft.",
+          "The result was made on the cost line. Operating expenses fell 13% YoY (−A$14m) and 7% QoQ (−A$7m) to A$99m (~$70m), or 61.1% of revenue against 70.2% in the pcp and 70.7% in Q4. Segment EBITDA was A$15m (~$11m) versus A$3m in the pcp and a A$1m loss in Q4 — a 9.3% margin, +740bps YoY and +1,000bps QoQ. Two caveats: the FY26 comparatives have been restated to the new direct-attribution methodology for corporate shared services, so part of the 'property' improvement reflects a lower allocated shared-service base rather than property-level cost-out; and management concedes the property only 'stabilised' revenue, so a 9% margin on A$650m of annualised revenue still leaves Sydney as the lowest-return owned asset by a wide margin.",
+          "On the regulatory front they were advised by the NICC that the casino licence suspension 'will remain in effect at this time' and that the Manager's appointment runs to 30 June 2027 unless terminated earlier; press coverage of the September decision cited unresolved governance and leadership concerns. New property CEO John Koster is in place, decentralisation of operating control to the property was completed in October (which management calls 'a critical regulatory milestone'), and the Chairman says the group has 'embraced' NSW and QLD AML/KYC/safer-gambling standards. The AUSTRAC judgment on 28 October (A$260m, four instalments over 19 months) removes the largest Sydney-related legal overhang at a cost in line with provisions.",
+          "Our read is that Sydney is the swing asset for the equity — roughly 57% of group revenue, the only property with no suitability horizon shorter than mid-2027 and the one where comps-funded EGM growth is masking a structurally smaller premium business. The 13% opex reduction is welcome, but sustaining it while 'improving service standards' (the CEO's stated priority) and funding higher marketing is a real tension; we would want to see tables stop declining and non-gaming stabilise before treating the Q1 margin as a base rather than a high-water mark. No segment guidance was given."
+        ],
+        "table": {
+          "note": "The Star Sydney, A$m (~US$m)",
+          "columns": [
+            "Q1 FY27",
+            "Q4 FY26",
+            "Q1 FY26 (pcp)",
+            "QoQ",
+            "YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue",
+              "cells": [
+                "162 (~$114)",
+                "150 (~$105)",
+                "161 (~$113)",
+                "+8%",
+                "+1%"
+              ]
+            },
+            {
+              "label": "Gaming taxes & levies",
+              "indent": true,
+              "cells": [
+                "(48) (~$34)",
+                "(45) (~$32)",
+                "(45) (~$32)",
+                "+6%",
+                "+7%"
+              ]
+            },
+            {
+              "label": "Gaming taxes % revenue",
+              "indent": true,
+              "cells": [
+                "29.6%",
+                "30.0%",
+                "28.0%",
+                "−40bps",
+                "+160bps"
+              ]
+            },
+            {
+              "label": "Operating expenses",
+              "indent": true,
+              "cells": [
+                "(99) (~$70)",
+                "(106) (~$74)",
+                "(113) (~$79)",
+                "−7%",
+                "−13%"
+              ]
+            },
+            {
+              "label": "Opex % revenue",
+              "indent": true,
+              "cells": [
+                "61.1%",
+                "70.7%",
+                "70.2%",
+                "−960bps",
+                "−910bps"
+              ]
+            },
+            {
+              "label": "Segment EBITDA",
+              "kind": "emphasis",
+              "cells": [
+                "15 (~$11)",
+                "(1) (~−$1)",
+                "3 (~$2)",
+                "+A$16m",
+                "+A$12m"
+              ]
+            },
+            {
+              "label": "EBITDA margin",
+              "indent": true,
+              "cells": [
+                "9.3%",
+                "−0.7%",
+                "1.9%",
+                "+1,000bps",
+                "+740bps"
+              ]
+            },
+            {
+              "label": "Share of group revenue",
+              "indent": true,
+              "cells": [
+                "57%",
+                "57%",
+                "58%",
+                "flat",
+                "−1pt"
+              ]
+            },
+            {
+              "label": "Revenue drivers (qualitative)",
+              "indent": true,
+              "cells": [
+                "EGM strong; tables soft; non-gaming down (comps, Event Centre sold Sep-25)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "EGM / tables / non-gaming revenue; win rate; visitation; market share",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Not disclosed in quarterly reporting"
+            },
+            {
+              "label": "Licence status",
+              "indent": true,
+              "cells": [
+                "Suspended; NSW Manager to 30 Jun 2027",
+                "Suspended",
+                "Suspended",
+                "—",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and mix",
+            "takeaway": "Sydney revenue of A$162m (~$114m) rose 1% on the pcp and 8% on Q4 FY26, driven by electronic gaming machines offset by softer tables and non-gaming.",
+            "points": [
+              "Growth came from 'strong year on year electronic gaming machines growth', partially offset by softness in table games and non-gaming.",
+              "Non-gaming was hit by 'increased complimentary investment' (comps netted against revenue) and loss of events and catering revenue after the Event Centre sale completed in September 2025.",
+              "The 1% headline understates gaming growth and overstates the health of the broader resort; the premium/tables business, the pre-2022 profit engine, continues to shrink.",
+              "No EGM/table split, win rates, visitation, actives or NSW market shares are disclosed, so the quality of gaming growth cannot be independently assessed."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Gaming taxes",
+            "takeaway": "Gaming taxes and levies rose 7% to A$48m (~$34m), 29.6% of revenue versus 28.0% in the pcp, so the state took more than the incremental revenue.",
+            "points": [
+              "This reflects an EGM-led mix in NSW, where machine duty exceeds table duty and the duty schedule steps up over time.",
+              "Sydney's revenue growth will convert to EBITDA at a lower rate than Gold Coast's for as long as tables remain soft."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Costs and EBITDA",
+            "takeaway": "Operating expenses fell 13% YoY (−A$14m) and 7% QoQ (−A$7m) to A$99m, lifting segment EBITDA to A$15m from A$3m in the pcp.",
+            "points": [
+              "Opex was 61.1% of revenue against 70.2% in the pcp and 70.7% in Q4.",
+              "Segment EBITDA of A$15m (~$11m) versus A$3m pcp and a A$1m loss in Q4; 9.3% margin, +740bps YoY and +1,000bps QoQ.",
+              "FY26 comparatives restated to the new direct-attribution methodology for corporate shared services, so part of the improvement reflects a lower allocated shared-service base rather than property-level cost-out.",
+              "Management concedes the property only 'stabilised' revenue; a 9% margin on A$650m annualised revenue leaves Sydney the lowest-return owned asset by a wide margin."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Regulatory status",
+            "takeaway": "The NICC advised the licence suspension 'will remain in effect at this time' and the Manager's appointment runs to 30 June 2027 unless terminated earlier.",
+            "points": [
+              "Press coverage of the September decision cited unresolved governance and leadership concerns.",
+              "New property CEO John Koster is in place; decentralisation of operating control to the property was completed in October, which management calls 'a critical regulatory milestone'.",
+              "The Chairman says the group has 'embraced' NSW and QLD AML/KYC/safer-gambling standards.",
+              "The AUSTRAC judgment on 28 October (A$260m, four instalments over 19 months) removes the largest Sydney-related legal overhang at a cost in line with provisions."
+            ],
+            "quote": {
+              "text": "a critical regulatory milestone",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Analyst view",
+            "takeaway": "Sydney is the swing asset for the equity: roughly 57% of group revenue, with comps-funded EGM growth masking a structurally smaller premium business.",
+            "points": [
+              "It is the only property with no suitability horizon shorter than mid-2027.",
+              "Sustaining the 13% opex reduction while 'improving service standards' (the CEO's stated priority) and funding higher marketing is a real tension.",
+              "We would want tables to stop declining and non-gaming to stabilise before treating the Q1 margin as a base rather than a high-water mark.",
+              "No segment guidance was given."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "The Star Gold Coast (owned)",
+        "headline": "The growth engine: revenue +12% to A$117m, EBITDA +92% to A$20m, margin 17.1% (+660bps) on marketing-led EGM growth — but the licence suspension deferral expires 31 Mar 2027.",
+        "narrative": [
+          "They delivered Gold Coast revenue of A$117m (~$82m), up 12% on the pcp and 9% on Q4 FY26, which management attributes to 'strong growth in electronic gaming machines, driven by increased marketing investment and promotional initiatives'. This is the one property where both revenue and EBITDA 'increased substantially', and it is now the group's highest-margin owned asset. Gaming taxes rose 17% to A$22m (~$15m), 18.8% of revenue versus 18.1% in the pcp — the Queensland duty take is materially lower than NSW's, which is why Gold Coast converts revenue growth to EBITDA far more efficiently than Sydney.",
+          "Operating expenses were flat YoY at A$75m (~$53m) but up 8% (A$6m) QoQ as marketing stepped up, taking opex to 64.1% of revenue against 71.4% in the pcp and 64.5% in Q4. Segment EBITDA was A$20m (~$14m), up A$9m or 92% YoY and 18% QoQ, for a 17.1% margin (+660bps YoY, +120bps QoQ). The QoQ trade — A$6m of extra opex for A$10m of extra revenue and A$3m of extra EBITDA — is the right one at this stage of the turnaround, and it is the clearest evidence in the release that management's 'marketing to reinvigorate growth' thesis works when the duty rate allows it.",
+          "The property footprint is changing. Through the Brisbane unwind, Star acquired the JV partners' interests in the Gold Coast tower assets held via the Destination Gold Coast Consortium; the Chairman says Tower 2 has been delivered and the Andaz hotel opens in November 2026. Star put A$5.1m of loans and A$1.0m of PP&E funding into the DGCC JV in the quarter (A$6.1m of related-party investing payments). This should lift non-gaming revenue and room inventory from Q2 FY27, though it also adds cost and the quarterly gives no view on hotel ramp economics. Ameet Patel has been appointed property CEO for both Gold Coast and Brisbane.",
+          "The regulatory horizon is the shortest in the group: the Queensland Government and Commissioner for Liquor and Gaming confirmed the deferral of the licence suspension and the Special Manager's appointment only to 31 March 2027. A 17% margin property growing double digits is exactly what the regulator needs to see to extend, but the decision is binary and five months away. We would also flag the medium-term cannibalisation question — The Star Brisbane's ramp (EBITDAM +193% YoY) is drawing on the same south-east Queensland catchment — though for now both properties are growing together. No segment guidance was given beyond the group-level comment that October momentum continued."
+        ],
+        "table": {
+          "note": "The Star Gold Coast, A$m (~US$m)",
+          "columns": [
+            "Q1 FY27",
+            "Q4 FY26",
+            "Q1 FY26 (pcp)",
+            "QoQ",
+            "YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue",
+              "cells": [
+                "117 (~$82)",
+                "107 (~$75)",
+                "105 (~$74)",
+                "+9%",
+                "+12%"
+              ]
+            },
+            {
+              "label": "Gaming taxes & levies",
+              "indent": true,
+              "cells": [
+                "(22) (~$15)",
+                "(21) (~$15)",
+                "(19) (~$13)",
+                "+6%",
+                "+17%"
+              ]
+            },
+            {
+              "label": "Gaming taxes % revenue",
+              "indent": true,
+              "cells": [
+                "18.8%",
+                "19.6%",
+                "18.1%",
+                "−80bps",
+                "+70bps"
+              ]
+            },
+            {
+              "label": "Operating expenses",
+              "indent": true,
+              "cells": [
+                "(75) (~$53)",
+                "(69) (~$48)",
+                "(75) (~$53)",
+                "+8%",
+                "−1%"
+              ]
+            },
+            {
+              "label": "Opex % revenue",
+              "indent": true,
+              "cells": [
+                "64.1%",
+                "64.5%",
+                "71.4%",
+                "−40bps",
+                "−730bps"
+              ]
+            },
+            {
+              "label": "Segment EBITDA",
+              "kind": "emphasis",
+              "cells": [
+                "20 (~$14)",
+                "17 (~$12)",
+                "11 (~$8)",
+                "+18%",
+                "+92%"
+              ]
+            },
+            {
+              "label": "EBITDA margin",
+              "indent": true,
+              "cells": [
+                "17.1%",
+                "15.9%",
+                "10.5%",
+                "+120bps",
+                "+660bps"
+              ]
+            },
+            {
+              "label": "Share of group revenue",
+              "indent": true,
+              "cells": [
+                "41%",
+                "41%",
+                "38%",
+                "flat",
+                "+3pts"
+              ]
+            },
+            {
+              "label": "Revenue drivers (qualitative)",
+              "indent": true,
+              "cells": [
+                "EGM strong on higher marketing/promos",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Related-party funding to DGCC JV (loans + PP&E)",
+              "indent": true,
+              "cells": [
+                "6.1 (~$4)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "EGM / tables / non-gaming; win rate; visitation; market share",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Not disclosed"
+            },
+            {
+              "label": "Licence status",
+              "indent": true,
+              "cells": [
+                "Suspension deferred; Special Manager to 31 Mar 2027",
+                "Deferred",
+                "Deferred",
+                "—",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and taxes",
+            "takeaway": "Gold Coast revenue rose 12% on the pcp and 9% on Q4 FY26 to A$117m (~$82m), driven by marketing-led electronic gaming machine growth.",
+            "points": [
+              "Management attributes growth to 'strong growth in electronic gaming machines, driven by increased marketing investment and promotional initiatives'.",
+              "This is the one property where both revenue and EBITDA 'increased substantially'; it is now the group's highest-margin owned asset.",
+              "Gaming taxes rose 17% to A$22m (~$15m), 18.8% of revenue versus 18.1% in the pcp; the Queensland duty take is materially lower than NSW's.",
+              "Lower duty is why Gold Coast converts revenue growth to EBITDA far more efficiently than Sydney."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Costs and EBITDA",
+            "takeaway": "Segment EBITDA was A$20m (~$14m), up A$9m or 92% YoY and 18% QoQ, for a 17.1% margin (+660bps YoY, +120bps QoQ).",
+            "points": [
+              "Opex flat YoY at A$75m (~$53m) but up 8% (A$6m) QoQ as marketing stepped up; 64.1% of revenue versus 71.4% pcp and 64.5% in Q4.",
+              "The QoQ trade of A$6m extra opex for A$10m extra revenue and A$3m extra EBITDA is the right one at this stage of the turnaround.",
+              "It is the clearest evidence that management's 'marketing to reinvigorate growth' thesis works when the duty rate allows it."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Property footprint",
+            "takeaway": "Through the Brisbane unwind Star acquired the JV partners' interests in the Gold Coast tower assets; Tower 2 is delivered and the Andaz hotel opens November 2026.",
+            "points": [
+              "Tower assets are held via the Destination Gold Coast Consortium.",
+              "Star put A$5.1m of loans and A$1.0m of PP&E funding into the DGCC JV in the quarter (A$6.1m of related-party investing payments).",
+              "Should lift non-gaming revenue and room inventory from Q2 FY27, though it adds cost and the quarterly gives no view on hotel ramp economics.",
+              "Ameet Patel has been appointed property CEO for both Gold Coast and Brisbane."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Regulatory horizon",
+            "takeaway": "The Queensland Government and Commissioner for Liquor and Gaming deferred the licence suspension and Special Manager's appointment only to 31 March 2027, the shortest horizon in the group.",
+            "points": [
+              "A 17% margin property growing double digits is what the regulator needs to see to extend, but the decision is binary and five months away.",
+              "Medium-term cannibalisation risk: The Star Brisbane's ramp (EBITDAM +193% YoY) draws on the same south-east Queensland catchment, though both properties are growing together for now.",
+              "No segment guidance was given beyond the group-level comment that October momentum continued."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "The Star Brisbane (managed under CMA; DBC-owned)",
+        "headline": "Record EBITDAM of A$37m (+193% YoY, 27% margin) at the asset — but Star's operator fee has reset to A$4.5m/qtr and segment EBITDA is nil, so the record is a credential, not cash.",
+        "narrative": [
+          "They now operate The Star Brisbane under the amended Casino Management Agreement with Destination Brisbane Consortium following completion of Stage 1 of the JVP transaction in March 2026, under which Star transferred its interest in the Brisbane property (and Treasury) to the Hong Kong partners in exchange for their Gold Coast JV interests, release from a A$700m debt guarantee and the revised CMA. Star recognises only the operator fee as revenue — A$4.5m (~$3.2m) this quarter versus A$13.8m (~$9.7m) in the pcp, −67% — against A$5m of directly attributable overhead, leaving segment EBITDA at nil versus A$6m in the pcp. That A$6m swing is the only negative item in the group EBITDA bridge and the A$9m fee cut is the entire reason group revenue grew 2% rather than 5%.",
+          "At the asset level the numbers are strong: managed-property revenue of A$136m (~$95m), up 14% YoY and 12% QoQ, and EBITDAM (EBITDA before Star's management fee, excluding DBC's owner-level costs) of A$37m (~$26m), up 193% YoY and 43% QoQ, for a 27.2% margin versus 10.9% in the pcp. Management calls it 'an all-time record' and the Chairman says operating profit now annualises to 'more than $150 million' against 'just $50 million annualised when we took over'. For context that is already comparable to the combined EBITDA of the two owned properties (A$35m this quarter).",
+          "The question for shareholders is who captures it. Under the amended CMA the economics visible in the quarterly are a flat-looking A$4.5m fee; the release does not disclose whether there is a performance-linked component, so we cannot say how much of further EBITDAM growth accrues to Star. Treasury Brisbane remains classified as discontinued with nil EBITDA. The External Adviser's appointment for Brisbane has been extended to 31 March 2027, matching the Gold Coast horizon.",
+          "Our read is that management is, understandably, leading with the A$37m record in the highlights while the fee reset sits lower down. The record matters — it demonstrates operator capability to two regulators and keeps the Brisbane relationship (and Star's remaining role in Queensland's flagship asset) intact — but on the disclosed numbers it contributes nothing to group EBITDA and should not be capitalised by investors unless and until Star discloses a participating fee."
+        ],
+        "table": {
+          "note": "The Star Brisbane, A$m (~US$m)",
+          "columns": [
+            "Q1 FY27",
+            "Q4 FY26",
+            "Q1 FY26 (pcp)",
+            "QoQ",
+            "YoY"
+          ],
+          "rows": [
+            {
+              "label": "Star-consolidated segment",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Operator fee revenue",
+              "indent": true,
+              "cells": [
+                "4.5 (~$3.2)",
+                "5 (~$3.5)",
+                "13.8 (~$9.7)",
+                "0%",
+                "−67%"
+              ]
+            },
+            {
+              "label": "Directly attributable opex",
+              "indent": true,
+              "cells": [
+                "(5) (~$3.5)",
+                "(6) (~$4)",
+                "(8) (~$6)",
+                "−9%",
+                "−37%"
+              ]
+            },
+            {
+              "label": "Segment EBITDA",
+              "kind": "emphasis",
+              "cells": [
+                "0",
+                "(1)",
+                "6 (~$4)",
+                "nmf",
+                "−A$6m"
+              ]
+            },
+            {
+              "label": "Managed property (100% basis, not consolidated)",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Revenue",
+              "indent": true,
+              "cells": [
+                "136 (~$95)",
+                "121 (~$85)",
+                "119 (~$84)",
+                "+12%",
+                "+14%"
+              ]
+            },
+            {
+              "label": "EBITDAM (before operator fee)",
+              "indent": true,
+              "cells": [
+                "37 (~$26)",
+                "26 (~$18)",
+                "13 (~$9)",
+                "+43%",
+                "+193%"
+              ]
+            },
+            {
+              "label": "EBITDAM margin",
+              "indent": true,
+              "cells": [
+                "27.2%",
+                "21.5%",
+                "10.9%",
+                "+570bps",
+                "+1,630bps"
+              ]
+            },
+            {
+              "label": "Annualised EBITDAM (Chairman, AGM)",
+              "indent": true,
+              "cells": [
+                ">150 (~$105)",
+                "n/a",
+                "~50 at takeover (Dec-25)",
+                "n/a",
+                "~3x"
+              ]
+            },
+            {
+              "label": "Star fee as % of EBITDAM",
+              "indent": true,
+              "cells": [
+                "12%",
+                "19%",
+                "106%",
+                "−7pts",
+                "−94pts"
+              ]
+            },
+            {
+              "label": "Treasury Brisbane (discontinued)",
+              "indent": true,
+              "cells": [
+                "0",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Oversight",
+              "indent": true,
+              "cells": [
+                "External Adviser to 31 Mar 2027",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Operator fee reset",
+            "takeaway": "Star's operator fee fell 67% to A$4.5m (~$3.2m) from A$13.8m, leaving segment EBITDA at nil versus A$6m in the pcp.",
+            "points": [
+              "Star operates Brisbane under the amended Casino Management Agreement with Destination Brisbane Consortium following Stage 1 of the JVP transaction in March 2026.",
+              "Star transferred its interest in Brisbane (and Treasury) to the Hong Kong partners for their Gold Coast JV interests, release from a A$700m debt guarantee and the revised CMA.",
+              "The A$4.5m fee is set against A$5m of directly attributable overhead.",
+              "The A$6m swing is the only negative item in the group EBITDA bridge; the A$9m fee cut is why group revenue grew 2% rather than 5%."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Asset performance",
+            "takeaway": "Managed-property revenue rose 14% YoY and 12% QoQ to A$136m (~$95m), with record EBITDAM of A$37m (~$26m), up 193% YoY and 43% QoQ.",
+            "points": [
+              "EBITDAM margin of 27.2% versus 10.9% in the pcp; EBITDAM is before Star's management fee and excludes DBC's owner-level costs.",
+              "Management calls it 'an all-time record'; the Chairman says operating profit annualises to 'more than $150 million' against 'just $50 million annualised when we took over'.",
+              "That is already comparable to the combined EBITDA of the two owned properties (A$35m this quarter)."
+            ],
+            "quote": {
+              "text": "an all-time record",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Who captures value",
+            "takeaway": "The release does not disclose any performance-linked fee component, so how much further EBITDAM growth accrues to Star cannot be determined.",
+            "points": [
+              "The economics visible in the quarterly are a flat-looking A$4.5m fee.",
+              "Treasury Brisbane remains classified as discontinued with nil EBITDA.",
+              "The External Adviser's appointment for Brisbane has been extended to 31 March 2027, matching the Gold Coast horizon."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Analyst view",
+            "takeaway": "The A$37m record is a credential for regulators, not cash; on disclosed numbers it contributes nothing to group EBITDA.",
+            "points": [
+              "Management leads with the record in the highlights while the fee reset sits lower down.",
+              "The record demonstrates operator capability to two regulators and keeps the Brisbane relationship and Star's role in Queensland's flagship asset intact.",
+              "Investors should not capitalise it unless and until Star discloses a participating fee."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Corporate, cash flow & liquidity",
+        "headline": "Corporate costs −29% and 'underlying' operating FCF positive, but reported cash fell A$28m (total cash & deposits −A$49m), interest is being paid from a reserve that runs out in May 2027, and A$260m of AUSTRAC instalments start inside the next 19 months.",
+        "narrative": [
+          "They cut unallocated corporate costs to A$23m (~$16m), down 29% or A$10m on the pcp and 4% on Q4, taking corporate to 8.1% of revenue from 11.8%. The reduction coincides with the switch from fixed-percentage allocation to direct attribution of shared-service costs (FY26 restated, no group impact), so the like-for-like property/corporate split is not comparable with older disclosures, but the group total opex decline of 12% YoY is unambiguous. Decentralisation of customer-facing functions to the properties was completed in October, with corporate retaining remediation, legal/compliance, technology, audit, tax and consolidated reporting; management expects corporate costs to fall further 'as this decentralisation model takes shape' and says cost-out will fund marketing. No savings target or timeline is given.",
+          "The Appendix 4C shows reported net operating cash flow of −A$15.5m (~−$11m) on receipts of A$334.4m (grossed up by the at-cost DBC labour recharge, so not comparable to revenue). Two one-offs distort it in opposite directions: a payment of historical underpaid NSW casino duties, agreed with NSW Treasury, sits inside the A$178.1m of 'product manufacturing and operating costs' and is not quantified; and A$41.5m (~$29m) of one-off receipts — an ATO settlement on GST/withholding tax on junket payments and returned rebate duty on written-off debts — sit in 'Other'. Management's statement that operating free cash flow excluding one-offs was positive implies, after A$5.7m of capex, that the duty catch-up exceeded roughly A$63m [analyst inference — the company does not disclose it]. Cash marketing spend was A$10.4m (3.7% of revenue), staff costs A$177.5m and admin/corporate A$25.8m. No cash interest was paid because year-one interest on the WhiteHawk facility is funded from a A$48m Interest Reserve Account held in restricted deposits — so the operating cash line flatters true free cash flow by the quarterly interest bill.",
+          "Cash and equivalents ended at A$239.4m (~$168m) versus A$267.1m at 30 June (−A$27.6m, including −A$1.7m FX). The composition is worse than the headline: bank balances fell A$42m to A$185.7m while cage cash rose A$15m to A$32.2m, and call deposits were A$21.6m. Restricted deposits fell A$21m to A$80m (~$56m), consistent with the reserve account funding interest, so total cash and deposits fell A$49m to A$319m (~$224m). The Chairman told the AGM that 'cash is now building, with our cash balance approximately $200 million' — a figure that reconciles to cash excluding cage cash (A$207m) but could equally imply further outflow in October; it is unverified and we would want it clarified. The 4C's mechanical 15.9 quarters of funding is computed on the one-off-distorted burn and should not be read as a runway.",
+          "Drawn facilities total A$570.7m (~$401m): the US$390m WhiteHawk term facility (A$559.1m at 30 Sep; three-year term, minimum liquidity covenant A$50m for the first 12 months rising to A$75m thereafter, per the March/May 2026 announcements) and the A$11.6m 9% PIK liability to Bally's and Investment Holdings, which shareholders approved converting into 105.9m shares (62.57m/43.35m) at the AGM. Our estimated net debt is ~A$252m (~$177m) including restricted deposits or ~A$331m (~$233m) excluding them; the company did not state a net debt figure in the quarterly. The facility's interest rate is not disclosed in the quarterly; the A$48m reserve covering roughly eight months to May 2027 implies cash interest of ~A$6m/month, or ~A$70m+/yr (~13% on A$559m) [analyst estimate]. The AUSTRAC penalty of A$260m, payable in four instalments over 19 months, constitutes a review event under the facility; Star is 'engaging with WhiteHawk and is confident that the facility will remain available', and says the penalty is materially in line with the FY26 provision and does not affect going concern.",
+          "Our read is that the quarter was operationally cash-positive but structurally cash-negative. Even on a generous ~A$60–90m FY27E EBITDA [our estimate], the group faces AUSTRAC instalments averaging ~A$65m each if evenly spread [assumption — profile not disclosed], ~A$70m+/yr of cash interest from mid-2027, a covenant step-up to A$75m minimum liquidity, and sub-maintenance capex of ~A$23m annualised. The going-concern language is repeated verbatim and will be re-tested at the H1 FY27 accounts in February 2027. Absent asset sales or further support from Bally's/Mathieson, the balance sheet does not self-fund through FY28 on these numbers."
+        ],
+        "table": {
+          "note": "Corporate, cash flow & liquidity, A$m (~US$m)",
+          "columns": [
+            "Q1 FY27",
+            "Q4 FY26 / 30 Jun 2026",
+            "Q1 FY26 (pcp)",
+            "QoQ",
+            "YoY"
+          ],
+          "rows": [
+            {
+              "label": "Unallocated corporate costs",
+              "cells": [
+                "(23) (~$16)",
+                "(24) (~$17)",
+                "(33) (~$23)",
+                "−4%",
+                "−29%"
+              ]
+            },
+            {
+              "label": "Corporate % group revenue",
+              "indent": true,
+              "cells": [
+                "8.1%",
+                "9.2%",
+                "11.8%",
+                "−110bps",
+                "−370bps"
+              ]
+            },
+            {
+              "label": "Appendix 4C cash flow",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Receipts from customers",
+              "indent": true,
+              "cells": [
+                "334.4 (~$235)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Operating costs (incl. one-off NSW duty payment)",
+              "indent": true,
+              "cells": [
+                "(178.1) (~$125)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Staff costs",
+              "indent": true,
+              "cells": [
+                "(177.5) (~$125)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Advertising & marketing (cash)",
+              "indent": true,
+              "cells": [
+                "(10.4) (~$7)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "3.7% of revenue"
+            },
+            {
+              "label": "Admin & corporate (cash)",
+              "indent": true,
+              "cells": [
+                "(25.8) (~$18)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Other — one-off receipts (ATO settlement, rebate duty)",
+              "indent": true,
+              "cells": [
+                "+41.5 (~$29)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Interest received / paid",
+              "indent": true,
+              "cells": [
+                "+2.5 / 0",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Net operating cash flow (reported)",
+              "kind": "emphasis",
+              "cells": [
+                "(15.5) (~−$11)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Capex (PP&E)",
+              "indent": true,
+              "cells": [
+                "(5.7) (~$4)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Loans to DGCC JV / dividends received",
+              "indent": true,
+              "cells": [
+                "(5.1) / +0.4",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Net investing / financing",
+              "indent": true,
+              "cells": [
+                "(10.4) / (0.1)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Liquidity",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Cash & equivalents",
+              "indent": true,
+              "cells": [
+                "239.4 (~$168)",
+                "267.1 (~$187)",
+                "n/a",
+                "−A$27.6m",
+                "n/a"
+              ]
+            },
+            {
+              "label": "of which bank balances / call deposits / cage cash",
+              "indent": true,
+              "cells": [
+                "185.7 / 21.6 / 32.2",
+                "227.6 / 22.6 / 16.9",
+                "n/a",
+                "−42 / −1 / +15",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Restricted deposits (incl. A$48m Interest Reserve)",
+              "indent": true,
+              "cells": [
+                "80 (~$56)",
+                "101 (~$71)",
+                "n/a",
+                "−A$21m",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Total cash & deposits",
+              "kind": "emphasis",
+              "cells": [
+                "319 (~$224)",
+                "368 (~$258)",
+                "n/a",
+                "−A$49m",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Drawn loan facilities (WhiteHawk + PIK)",
+              "indent": true,
+              "cells": [
+                "570.7 (~$401)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Bank guarantees drawn / unused facilities",
+              "indent": true,
+              "cells": [
+                "9.3 / 6.0",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Net debt (analyst est., incl. / excl. restricted)",
+              "kind": "emphasis",
+              "cells": [
+                "~252 / ~331 (~$177 / ~$233)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Min liquidity covenant",
+              "indent": true,
+              "cells": [
+                "A$50m (yr 1) → A$75m",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "AUSTRAC penalty / instalments",
+              "indent": true,
+              "cells": [
+                "260 (~$183) / 4 over 19 months",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Quarters of funding (4C 8.5)",
+              "indent": true,
+              "cells": [
+                "15.9",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Corporate costs",
+            "takeaway": "Unallocated corporate costs fell 29% or A$10m on the pcp to A$23m (~$16m), 8.1% of revenue from 11.8%, with further falls expected.",
+            "points": [
+              "Down 4% on Q4; the reduction coincides with the switch to direct attribution of shared-service costs (FY26 restated, no group impact), so splits are not comparable with older disclosures.",
+              "Group total opex decline of 12% YoY is unambiguous.",
+              "Decentralisation of customer-facing functions completed in October; corporate retains remediation, legal/compliance, technology, audit, tax and consolidated reporting.",
+              "Management expects corporate costs to fall further 'as this decentralisation model takes shape' and says cost-out will fund marketing; no savings target or timeline given."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Operating cash flow",
+            "takeaway": "Reported net operating cash flow was −A$15.5m (~−$11m), distorted by an unquantified NSW duty catch-up and A$41.5m of one-off receipts.",
+            "points": [
+              "Receipts of A$334.4m are grossed up by the at-cost DBC labour recharge, so not comparable to revenue.",
+              "Historical underpaid NSW casino duties, agreed with NSW Treasury, sit unquantified inside A$178.1m of 'product manufacturing and operating costs'.",
+              "A$41.5m (~$29m) of one-off receipts (ATO settlement on junket GST/withholding tax and returned rebate duty) sit in 'Other'; management says operating FCF excluding one-offs was positive, implying after A$5.7m capex the duty catch-up exceeded roughly A$63m [analyst inference].",
+              "Cash marketing spend A$10.4m (3.7% of revenue), staff costs A$177.5m, admin/corporate A$25.8m.",
+              "No cash interest was paid because year-one WhiteHawk interest is funded from a A$48m Interest Reserve Account, so operating cash flatters true free cash flow."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Cash position",
+            "takeaway": "Cash and equivalents ended at A$239.4m (~$168m) versus A$267.1m at 30 June (−A$27.6m), with total cash and deposits down A$49m to A$319m.",
+            "points": [
+              "Bank balances fell A$42m to A$185.7m while cage cash rose A$15m to A$32.2m; call deposits were A$21.6m; FX impact −A$1.7m.",
+              "Restricted deposits fell A$21m to A$80m (~$56m), consistent with the reserve account funding interest.",
+              "The Chairman told the AGM 'cash is now building, with our cash balance approximately $200 million'; this reconciles to cash excluding cage cash (A$207m) but could imply further October outflow; unverified and we want it clarified.",
+              "The 4C's mechanical 15.9 quarters of funding is computed on one-off-distorted burn and should not be read as a runway."
+            ],
+            "quote": {
+              "text": "cash is now building, with our cash balance approximately $200 million",
+              "speaker": "Chairman"
+            }
+          },
+          {
+            "heading": "Debt and AUSTRAC",
+            "takeaway": "Drawn facilities total A$570.7m (~$401m); estimated net debt is ~A$252m including restricted deposits or ~A$331m excluding them.",
+            "points": [
+              "US$390m WhiteHawk term facility (A$559.1m at 30 Sep; three-year term, minimum liquidity covenant A$50m for first 12 months rising to A$75m thereafter).",
+              "A$11.6m 9% PIK liability to Bally's and Investment Holdings, approved for conversion into 105.9m shares (62.57m/43.35m) at the AGM; company did not state net debt.",
+              "Interest rate undisclosed; the A$48m reserve covering roughly eight months to May 2027 implies ~A$6m/month, ~A$70m+/yr (~13% on A$559m) [analyst estimate].",
+              "The A$260m AUSTRAC penalty, four instalments over 19 months, is a review event; Star is 'engaging with WhiteHawk and is confident that the facility will remain available', penalty in line with FY26 provision and no going-concern impact."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Analyst view",
+            "takeaway": "The quarter was operationally cash-positive but structurally cash-negative; the balance sheet does not self-fund through FY28 absent asset sales or further Bally's/Mathieson support.",
+            "points": [
+              "Even on a generous ~A$60–90m FY27E EBITDA [our estimate], the group faces AUSTRAC instalments averaging ~A$65m each if evenly spread [assumption].",
+              "~A$70m+/yr of cash interest from mid-2027, a covenant step-up to A$75m minimum liquidity, and sub-maintenance capex of ~A$23m annualised.",
+              "Going-concern language is repeated verbatim and will be re-tested at the H1 FY27 accounts in February 2027."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "**Owned-property revenue inflection is now three data points deep.** Sydney + Gold Coast revenue +5% YoY / +9% QoQ to A$279m (~$196m) — the first YoY quarterly growth since Sep-24 — following the Mar-26 monthly inflection and Jul-26 +6%; CEO says October momentum continued.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Gold Coast margin expansion is real operating leverage.** Revenue +12% to A$117m (~$82m), EBITDA +92% to A$20m (~$14m), margin 17.1% (+660bps YoY) with opex flat YoY; incremental QoQ revenue of A$10m on A$6m of extra marketing opex.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Corporate cost-out is delivering.** Unallocated corporate A$23m (~$16m), −29% YoY; group opex −12% to A$202m (~$142m), 71% of revenue vs 82%; decentralisation completed in October with further reductions flagged.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Sydney EBITDA swung A$12m to A$15m (~$11m)** on a 13% opex cut, taking the margin to 9.3% from 1.9% — even with revenue only +1%.",
+        "tag": "mixed"
+      },
+      {
+        "text": "**AUSTRAC certainty at a provisioned number.** A$260m (~$183m) in four instalments over 19 months, 'materially in line' with the FY26 provision; removes the largest open legal item and the post-judgment trading halt resolved with the shares higher.",
+        "tag": "one-off"
+      },
+      {
+        "text": "**Brisbane EBITDAM record (A$37m / ~$26m, +193% YoY, 27% margin)** annualising >A$150m is a strong operator credential ahead of suitability decisions, even if the economics sit with DBC.",
+        "tag": "early"
+      },
+      {
+        "text": "**No near-term debt maturity and no cash interest until May 2027** thanks to the three-year WhiteHawk facility and A$48m Interest Reserve Account; 85%+ of remediation milestones complete.",
+        "tag": "one-off"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "**Going-concern uncertainty is restated verbatim.** Liquidity is 'subject to and dependent on' material uncertainties (Note G, FY26); the assessment is deferred to the H1 FY27 accounts in Feb-27 with 'no assurance' they will be resolved.",
+        "tag": "watch"
+      },
+      {
+        "text": "**Licence clocks keep ticking.** Sydney licence suspended with the Manager to 30 Jun 2027; Gold Coast suspension deferral and Brisbane External Adviser both expire 31 Mar 2027 — binary outcomes within five to eight months.",
+        "tag": "governance"
+      },
+      {
+        "text": "**Cash is falling, and the mix is worse than the headline.** Cash −A$28m to A$239m (~$168m); total cash & deposits −A$49m to A$319m (~$224m); bank balances −A$42m while cage cash +A$15m. The Chairman's 'approximately $200 million' at the AGM is unreconciled and unverified.",
+        "tag": "watch"
+      },
+      {
+        "text": "**Brisbane fee reset is a permanent A$9m/qtr revenue and A$6m/qtr EBITDA headwind** until lapped in Q4 FY27; the record EBITDAM does not flow to SGR shareholders on disclosed terms.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Sydney growth is thin and bought with comps.** Revenue +1% with tables and non-gaming soft and 'increased complimentary investment'; gaming taxes +7% on +1% revenue (29.6% of revenue). The premium business that made Sydney profitable pre-2022 is not coming back in these numbers.",
+        "tag": "mixed"
+      },
+      {
+        "text": "**Reported operating cash flow was −A$15.5m (~−$11m)** and the 'positive ex one-offs' claim rests on an undisclosed NSW duty catch-up payment (implied >A$63m) netted against A$41.5m of one-off receipts; capex at 2% of revenue is below maintenance.",
+        "tag": "one-off"
+      },
+      {
+        "text": "**Funding gap and dilution.** A$260m AUSTRAC instalments, ~A$70m+/yr of cash interest from mid-2027 [est.], and a covenant step-up to A$75m minimum liquidity sit against ~A$48m annualised EBITDA; 105.9m PIK shares issued to Bally's/Investment Holdings and the Chairman's 'first and last AGM' remark add governance uncertainty.",
+        "tag": "governance"
+      }
+    ],
+    "forecast": {
+      "intro": "The Star gives no numerical guidance, so the 'bridge' is directional. The FY26 message (31 Aug 2026) was that the worst was behind the group, with July revenue +6% YoY; the Q1 FY27 message upgrades that to (i) FY27 being the first year of net annual operating cash inflows before one-off items in more than two years, (ii) management 'now expect[ing] to start building cash reserves in FY27, before non-operating items', and (iii) October momentum continuing. The upgrade is driven by the two owned properties — Gold Coast EGM growth on higher marketing and Sydney's 13% opex reduction — plus the 29% cut in unallocated corporate costs. The offsets are the Brisbane operator-fee reset (−A$9m revenue / −A$6m EBITDA per quarter YoY until Q4 FY27), rising gaming-tax take on the EGM mix, and, below EBITDA, the A$260m AUSTRAC instalments and the resumption of cash interest once the A$48m reserve is exhausted in May 2027. The YoY EBITDA bridge below reconciles exactly to the company's segment table.",
+      "bridge": [
+        {
+          "title": "Q1 FY26 Group EBITDA (pcp)",
+          "value": "−A$13m (~−$9m)",
+          "change": "margin −4.6%"
+        },
+        {
+          "title": "Owned properties: Sydney +A$12m, Gold Coast +A$9m",
+          "value": "+A$21m",
+          "change": "EGM-led revenue +5%; opex −13% Syd / flat GC"
+        },
+        {
+          "title": "Unallocated corporate +A$10m; Brisbane fee reset −A$6m",
+          "value": "+A$4m net",
+          "change": "corporate −29%; operator fee A$4.5m vs A$13.8m"
+        },
+        {
+          "title": "Q1 FY27 Group EBITDA",
+          "value": "A$12m (~$8m)",
+          "change": "+A$25m YoY; margin 4.2% (+880bps)"
+        }
+      ],
+      "view": "**Q2 FY27 (Dec quarter) should be seasonally stronger** (school holidays, Christmas/NYE, Andaz opening in November) and the group is lapping a weak Q2 FY26. We pencil in revenue of **A$290–305m (~$204–214m)** and group EBITDA of **A$18–28m (~$13–20m)** [our estimates], assuming owned-property growth of 5–8% YoY, Gold Coast marketing intensity maintained, corporate costs ≤A$23m and the Brisbane fee flat at A$4.5m. **For FY27 we estimate revenue of ~A$1.13–1.16bn (~$0.79–0.81bn) and EBITDA of A$60–90m (~$42–63m), a 5–8% margin** — a swing of ~A$75–105m from FY26's normalised −A$16.1m, of which roughly A$40m is corporate/opex already in the run-rate and the balance requires continued EGM growth. Risks to that range are two-sided: the mix of comps-funded EGM growth and rising duty take caps conversion, while any tables/non-gaming stabilisation in Sydney would be pure upside. **Leverage direction is up, not down.** Our ~A$252m estimated net debt (incl. restricted deposits) will rise as AUSTRAC instalments (A$260m over 19 months; ~A$65m each if evenly spread [assumption]) and, from May 2027, ~A$70m+/yr of cash interest [est.] are paid out of an operating cash inflow we estimate at A$40–70m for FY27 before one-offs. On those numbers total cash & deposits trend toward the A$75m minimum-liquidity covenant during FY28 absent asset sales, a CMA renegotiation or further equity from Bally's/Investment Holdings — which is why we read the Chairman's succession hint and the PIK-to-equity conversions as the more telling capital signals. The FX exposure on the USD-denominated facility (A$559m at 30 Sep) is unhedged as far as the quarterly discloses; every 1c move in AUD/USD is ~A$8m of principal. **The swing factors that matter more than any of this arithmetic are regulatory**: the Gold Coast deferral (31 Mar 2027) and the Sydney Manager term (30 Jun 2027).",
+      "watch": [
+        "Monthly trading through Oct–Dec: does the 'momentum continued in October' comment translate to ≥5% owned-property growth and a seasonally higher Q2 EBITDA, and does Sydney tables/non-gaming stop shrinking?",
+        "WhiteHawk's response to the AUSTRAC review event — waiver/amendment terms, any fee, margin step-up or covenant tightening; and the AUSTRAC instalment schedule (dates and amounts) once published.",
+        "Gold Coast licence suspension deferral and Brisbane External Adviser (both 31 Mar 2027); NICC decision on the Sydney Manager (30 Jun 2027) — the binary events for equity value.",
+        "H1 FY27 accounts (Feb 2027): the going-concern conclusion, statutory NPAT and significant items, a company-stated net debt figure, and quantification of the NSW duty catch-up and one-off receipts.",
+        "Interest Reserve Account exhaustion (May 2027) and the step-up in the minimum liquidity covenant to A$75m — the point at which cash interest becomes a P&L and cash-flow reality.",
+        "Reconciliation of the Chairman's 'approximately $200 million' cash comment with the A$239m 30 Sep balance; cage-cash build vs bank-balance decline.",
+        "Brisbane CMA economics: any disclosure of a performance-linked fee, and whether Star's A$4.5m/qtr take changes as EBITDAM scales toward A$150m+ annualised.",
+        "Andaz Gold Coast opening (Nov-26) and Tower 2 contribution to non-gaming revenue; DGCC JV funding requirements beyond the A$6.1m paid in Q1.",
+        "Chairman succession ('first and last AGM'), Bally's/Investment Holdings shareholding changes post-PIK conversion (6 Nov substantial-holder notice), and any further related-party funding.",
+        "Gaming-tax take trajectory (24.6% of revenue vs 22.9%) as EGM mix rises — the structural cap on EBITDA conversion in NSW."
+      ]
+    },
+    "sharePriceReaction": "Shares +13.0% to A$0.13 (~$0.09) on 27 Oct 2026 from a A$0.115 prior close, having traded as high as A$0.138 (+20%) intraday; the stock had fallen >10% on 25 Sep when the NICC extended the Sydney licence suspension, and rallied again on 29 Oct after the A$260m AUSTRAC penalty landed in line with provisions.",
+    "confidence": "MEDIUM",
+    "confidenceNote": "FX: AUD/USD 0.702 (USD/AUD 1.4246 close, Yahoo Finance) as of 27 Oct 2026; USD figures rounded and prefixed '~'. HIGH confidence on all quarter revenue, EBITDA, segment, cash-flow and liquidity figures — taken directly from the company's unaudited Quarterly Activities Report and Appendix 4C (read in full) and corroborated by AGBrief, Well-played and TradingView coverage. Not disclosed by the company and therefore shown as n/a: net income, EPS, EGM/table/non-gaming split, win rates, visitation, actives, ARPU, market shares. Analyst-derived and labelled as such: net debt (~A$252m incl. / ~A$331m excl. restricted deposits), the implied >A$63m NSW duty catch-up payment, the ~A$70m+/yr cash-interest estimate from the Interest Reserve sizing, the even-instalment AUSTRAC assumption, and all FY27 estimates. The WhiteHawk interest rate, AUSTRAC instalment profile and any performance component in the Brisbane CMA fee are not disclosed in the sources read. FY26 base figures (statutory NPAT −A$307.3m, normalised revenue A$1,101m, normalised EBITDA −A$16.1m) and WhiteHawk covenant terms are taken from secondary coverage of the 31 Aug 2026 and 30 Mar/7 May 2026 ASX releases; the FY26 PDF itself could not be re-opened. The Chairman's 'approximately $200 million' cash remark is unreconciled. No published sell-side consensus was available for comparison.",
+    "sources": [
+      {
+        "label": "The Star Entertainment Group — Quarterly Activities Report & Appendix 4C for the period ended 30 September 2026 (ASX, 27 Oct 2026)",
+        "kind": "primary",
+        "url": "https://www.starentertainmentgroup.com.au/wp-content/uploads/2026/10/ASX-Announcement-27-10-2026-Quarterly-Activities-Report-for-the-Period-Ended-30-September-2026.pdf"
+      },
+      {
+        "label": "The Star Entertainment Group — 2026 AGM Chairman & CEO Addresses (ASX, 27 Oct 2026)",
+        "kind": "primary",
+        "url": "https://www.starentertainmentgroup.com.au/wp-content/uploads/2026/10/ASX-Announcement-27-10-2026-2026-Annual-General-Meeting-Chairman-CEO-Addresses.pdf"
+      },
+      {
+        "label": "The Star Entertainment Group — AUSTRAC Civil Penalty Proceedings Decision (ASX, 29 Oct 2026)",
+        "kind": "primary",
+        "url": "https://www.starentertainmentgroup.com.au/wp-content/uploads/2026/10/ASX-Announcement-29-10-2026-AUSTRAC-Civil-Penalty-Proceedings-Decision.pdf"
+      },
+      {
+        "label": "The Star Entertainment Group — ASX Announcements index (AGM results, Appendix 2A, substantial-holder notices, Sydney/Gold Coast regulatory updates 24–25 Sep 2026)",
+        "kind": "primary",
+        "url": "https://www.starentertainmentgroup.com.au/asx-announcements/"
+      },
+      {
+        "label": "The Star Entertainment Group — H1 FY26 Results Presentation (27 Feb 2026; net debt definition)",
+        "kind": "primary",
+        "url": "https://www.starentertainmentgroup.com.au/wp-content/uploads/2026/02/27-02-2026-ASX-Announcement-1HFY26-Results-Presentation.pdf"
+      },
+      {
+        "label": "Gaming Intelligence — 'Star Entertainment Group shows strong EBITDA growth in Q1 FY27' (27 Oct 2026; user-supplied, paywalled; shares +13%)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/237871-star-entertainment-group-shows-strong-ebitda-growth-in-q1-fy27/"
+      },
+      {
+        "label": "Asia Gaming Brief — 'Star Entertainment returns to EBITDA profit as NICC keeps Sydney licence suspended' (27 Oct 2026)",
+        "kind": "secondary",
+        "url": "https://agbrief.com/news/australia/27/10/2026/star-entertainment-returns-to-ebitda-profit-as-nicc-keeps-sydney-licence-suspended/"
+      },
+      {
+        "label": "Well-played.com.au — 'The Star's A$12 million quarter comes with a licence expiry date attached'",
+        "kind": "secondary",
+        "url": "https://www.well-played.com.au/star-entertainment-q1-fy2027-licence-clock/"
+      },
+      {
+        "label": "Kalkine — 'Why has The Star Entertainment Group stock rallied on the ASX today?' (intraday A$0.138, +19.6%)",
+        "kind": "secondary",
+        "url": "https://kalkine.com.au/news/consumer/why-has-the-star-entertainment-group-asxsgr-stock-rallied-on-the-asx-today"
+      },
+      {
+        "label": "Halo Technologies — SGR quote, close A$0.13 (+13.04%) 27 Oct 2026",
+        "kind": "secondary",
+        "url": "https://www.halo-technologies.com/markets/shares/asx/sgr/"
+      },
+      {
+        "label": "Capital Brief — 'Star Entertainment shares jump 17% after swinging to Q1 profit' (27 Oct 2026)",
+        "kind": "secondary",
+        "url": "https://www.capitalbrief.com/briefing/star-entertainment-shares-jump-17-after-swinging-to-q1-profit-1ad1ad2d-b0b6-46a3-b061-a489952bb0ac/"
+      },
+      {
+        "label": "TradingView / Small Caps — 'The Star Entertainment Group returns to positive quarterly earnings'",
+        "kind": "secondary",
+        "url": "https://www.tradingview.com/news/smallcaps:cb2e90790094b:0-the-star-entertainment-group-returns-to-positive-quarterly-earnings-on-improved-casino-revenue/"
+      },
+      {
+        "label": "Asia Gaming Brief (asgam) — 'Star falls to AU$307 million loss in FY26' (31 Aug 2026)",
+        "kind": "secondary",
+        "url": "https://asgam.com/2026/08/31/star-falls-to-au307-million-loss-in-fy26-insists-worst-is-now-behind-on-long-awaited-revenue-growth-in-july/"
+      },
+      {
+        "label": "Kalkine — FY26 liquidity and casino operations (normalised revenue A$1,101m; normalised EBITDA −A$16.1m)",
+        "kind": "secondary",
+        "url": "https://kalkine.com.au/news/consumer/what-does-the-star-entertainment-group-asxsgr-report-about-its-fy26-liquidity-and-casino-operations"
+      },
+      {
+        "label": "asgam — WhiteHawk binding commitment letter: US$390m, 3-year term, A$50m→A$75m minimum liquidity covenant (30 Mar 2026)",
+        "kind": "secondary",
+        "url": "https://asgam.com/2026/03/30/star-entertainment-group-receives-binding-commitment-letter-from-whitehawk-to-refinance-group-debt-in-full/"
+      },
+      {
+        "label": "Asia Gaming Brief — 'The Star finalizes WhiteHawk refinancing, adds $84M liquidity' (7 May 2026)",
+        "kind": "secondary",
+        "url": "https://agbrief.com/news/australia/07/05/2026/the-star-finalizes-whitehawk-refinancing-adds-84m-liquidity/"
+      },
+      {
+        "label": "iGB — 'Star Entertainment's Sydney casino licence suspension extended until 2027' (25 Sep 2026)",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/legal-compliance/star-entertainments-sydney-casino-licence-suspension-extended-2027/"
+      },
+      {
+        "label": "asgam — PIK interest share issue to Bally's and Investment Holdings (25 Sep 2026)",
+        "kind": "secondary",
+        "url": "https://asgam.com/2026/09/25/star-to-issue-new-shares-to-ballys-corp-and-investment-holdings-in-lieu-of-au11-9-million-interest-on-convertible-notes/"
+      },
+      {
+        "label": "Focus Gaming News — 'The Star 2026 AGM to vote on 105.9m-share issue' (Bally's 62.57m / IH 43.35m)",
+        "kind": "secondary",
+        "url": "https://focusgn.com/asia-pacific/the-star-seeks-shareholder-approval-for-us8-4m-share-settlement"
+      },
+      {
+        "label": "Kalkine — 'The Star passes all resolutions at 2026 AGM, including five director elections'",
+        "kind": "secondary",
+        "url": "https://kalkine.com.au/news/announcements/the-star-entertainment-group-passes-all-resolutions-at-2026-agm-including-five-director-elections"
+      },
+      {
+        "label": "Investing.com — 'Why is The Star Entertainment stock rallying today?' (post-AUSTRAC judgment, 29 Oct 2026)",
+        "kind": "secondary",
+        "url": "https://za.investing.com/news/stock-market-news/why-is-the-star-entertainment-stock-rallying-today-93CH-4533576"
+      },
+      {
+        "label": "Yahoo Finance — USD/AUD historical data (close 1.4246 on 27 Oct 2026)",
+        "kind": "secondary",
+        "url": "https://au.finance.yahoo.com/quote/AUD=X/history/"
+      }
+    ]
+  }
+}
