@@ -1332,5 +1332,49 @@
       "https://www.gamingintelligence.com/sectors/lottery-sectors/238268-pennsylvania-lottery-sales-drop-15-in-september/"
     ],
     "seen": "2026-11-10"
+  },
+  {
+    "key": "PTEC.L|FY 2026",
+    "type": "company",
+    "company": "Playtech plc",
+    "ticker": "PTEC.L",
+    "period": "FY 2026",
+    "urls": [
+      "https://next.io/news/results/playtech-lifts-full-year-earnings-guidance-amid-americas-growth/"
+    ],
+    "seen": "2026-11-10"
+  },
+  {
+    "key": "bally s|Q3 2026",
+    "type": "company",
+    "company": "Bally's Corporation",
+    "ticker": "BALY",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238451-ballys-corp-posts-strong-preliminary-results-for-q3/"
+    ],
+    "seen": "2026-11-10"
+  },
+  {
+    "key": "piggs peak hotel and casino|Q2 2026/27",
+    "type": "company",
+    "company": "Piggs Peak Hotel and Casino",
+    "ticker": null,
+    "period": "Q2 2026/27",
+    "urls": [
+      "https://focusgn.com/africa/piggs-peak-hotel-casino-quarterly-profit-eswatini"
+    ],
+    "seen": "2026-11-10"
+  },
+  {
+    "key": "juris|united states|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "United States",
+    "authority": null,
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238375-us-horse-racing-wagers-jump-by-10-in-october/"
+    ],
+    "seen": "2026-11-10"
   }
 ]
