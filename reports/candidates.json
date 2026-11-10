@@ -1376,5 +1376,39 @@
       "https://www.gamingintelligence.com/finance/238375-us-horse-racing-wagers-jump-by-10-in-october/"
     ],
     "seen": "2026-11-10"
+  },
+  {
+    "key": "PTEC.L|Q3 2026",
+    "type": "company",
+    "company": "Playtech plc",
+    "ticker": "PTEC.L",
+    "period": "Q3 2026",
+    "urls": [
+      "https://next.io/news/results/playtech-lifts-full-year-earnings-guidance-amid-americas-growth/",
+      "https://www.gamingintelligence.com/finance/238481-playtech-sees-strong-growth-in-the-americas-in-2026/"
+    ],
+    "seen": "2026-11-10"
+  },
+  {
+    "key": "bally s intralot|Q3 2026",
+    "type": "company",
+    "company": "Bally's Intralot",
+    "ticker": "INLOT",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238460-ballys-intralot-grows-revenue-to-e286-1-million-in-q3/"
+    ],
+    "seen": "2026-11-10"
+  },
+  {
+    "key": "galaxy gaming|Q3 2026",
+    "type": "company",
+    "company": "Galaxy Gaming",
+    "ticker": "GLXZ",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238453-galaxy-gaming-revenue-hits-8-million-in-third-quarter/"
+    ],
+    "seen": "2026-11-10"
   }
 ]
