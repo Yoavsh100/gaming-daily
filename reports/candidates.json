@@ -1401,5 +1401,14 @@
       "https://www.thegamblest.com/blask-melbourne-cup-lifts-australian-betting-demand-34-in-a-week/"
     ],
     "seen": "2026-11-11"
+  },
+  {
+    "key": "juris|ireland|2025",
+    "type": "jurisdiction",
+    "market": "Ireland",
+    "authority": null,
+    "period": "2025",
+    "urls": [],
+    "seen": "2026-11-11"
   }
 ]
