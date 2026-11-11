@@ -1232,7 +1232,8 @@
     "authority": null,
     "period": "OCTOBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238318-new-york-video-gaming-machines-win-132-1-million-in-october/"
+      "https://www.gamingintelligence.com/finance/238318-new-york-video-gaming-machines-win-132-1-million-in-october/",
+      "https://www.gamingintelligence.com/finance/238522-new-york-mobile-sportsbooks-take-record-handle-in-october/"
     ],
     "seen": "2026-11-10"
   },
@@ -1292,7 +1293,9 @@
     "authority": null,
     "period": "OCTOBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238375-us-horse-racing-wagers-jump-by-10-in-october/"
+      "https://www.gamingintelligence.com/finance/238375-us-horse-racing-wagers-jump-by-10-in-october/",
+      "https://www.thegamblest.com/blask-kalshi-leads-polymarket-as-us-prediction-markets-surge-4x/",
+      "https://www.gamblinginsider.com/news/203124/kalshi-polymarket-search-demand-october-2026-blask"
     ],
     "seen": "2026-11-10"
   },
@@ -1363,6 +1366,39 @@
     "period": "SEPTEMBER 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238514-illinois-lottery-sales-fall-below-300-million-in-september/"
+    ],
+    "seen": "2026-11-11"
+  },
+  {
+    "key": "catena media|Q3 2026",
+    "type": "company",
+    "company": "Catena Media",
+    "ticker": "CTM.ST",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238526-catena-media-sees-revenue-and-profit-decline-in-q3/"
+    ],
+    "seen": "2026-11-11"
+  },
+  {
+    "key": "juris|colombia|NOVEMBER 2-8 2026",
+    "type": "jurisdiction",
+    "market": "Colombia",
+    "authority": "Blask",
+    "period": "NOVEMBER 2-8 2026",
+    "urls": [
+      "https://www.thegamblest.com/blask-liga-betplays-penultimate-round-gives-colombia-its-biggest-betting-demand-day-of-2026/"
+    ],
+    "seen": "2026-11-11"
+  },
+  {
+    "key": "juris|australia|NOVEMBER 2-8 2026",
+    "type": "jurisdiction",
+    "market": "Australia",
+    "authority": "Blask",
+    "period": "NOVEMBER 2-8 2026",
+    "urls": [
+      "https://www.thegamblest.com/blask-melbourne-cup-lifts-australian-betting-demand-34-in-a-week/"
     ],
     "seen": "2026-11-11"
   }
