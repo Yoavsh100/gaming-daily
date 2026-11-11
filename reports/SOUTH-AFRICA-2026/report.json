@@ -1,0 +1,1781 @@
+{
+  "company": {
+    "name": "South Africa",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 2237562,
+    "output": 50704,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 70,
+    "cacheRead": 2122229,
+    "cacheWrite": 115263,
+    "turns": 1
+  },
+  "prepared": "11 Nov 2026",
+  "report": {
+    "releaseDate": "Oct 2026 (NGB Annual Report 2025/26 tabled; MTBPS 21 Oct 2026; audited FY2024/25 statistics published 2 Oct 2025 / Apr 2026)",
+    "currency": "ZAR (South African rand), tables in billions unless stated; ~USD alongside at USD/ZAR 16.6",
+    "verdict": "South Africa is now a R84.5bn (~$5.1bn) GGR market whose growth is entirely online bookmaking: betting is 70% of GGR, ~86% of it online, and the land-based estate is shrinking. The rules are moving against the online channel — a proposed 20% national tax on online GGR (decision Feb 2027), new advertising norms, and an NGB site-blocking programme — while interactive casino remains illegal and licensing stays provincial. For B2Tech the prize is real but the licence-to-tax arbitrage that built the market is closing.",
+    "kpis": [
+      {
+        "label": "GGR FY2025/26 (NGB AR, Gauteng provisional)",
+        "value": "R84.46bn (~$5.09bn)",
+        "delta": "+13.4% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "GGR FY2024/25 (audited)",
+        "value": "R74.50bn (~$4.49bn)",
+        "delta": "+25.6% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Betting share of GGR FY24/25",
+        "value": "69.8% (R51.97bn / ~$3.13bn)",
+        "delta": "+9.3pp YoY; betting GGR +44.7%",
+        "dir": "up"
+      },
+      {
+        "label": "Online share of all GGR (NGB est.)",
+        "value": "60% (online betting R44.46bn / ~$2.68bn)",
+        "delta": "from ~49% (SARB: R29bn online in FY23/24)",
+        "dir": "up"
+      },
+      {
+        "label": "Provincial taxes/levies FY25/26",
+        "value": "R6.44bn (~$388m)",
+        "delta": "+10.8% YoY; 7.6% of GGR",
+        "dir": "up"
+      },
+      {
+        "label": "Proposed national online tax",
+        "value": "20% of online GGR (+~R10bn / ~$0.6bn)",
+        "delta": "Final design: Feb 2027 Budget",
+        "dir": "flat"
+      }
+    ],
+    "summary": [
+      "**Market size: R84.46bn (~$5.09bn) GGR in FY2025/26 (1 Apr 2025–31 Mar 2026), +13.4% on the audited FY2024/25 figure of R74.50bn (~$4.49bn).** Turnover (stakes, including recycled winnings) reached ~R1.76tn (~$106bn) vs R1.50tn (~$90bn). FY2025/26 figures come from the NGB Annual Report tabled in October 2026 as relayed by The Citizen/Focus Gaming News; Gauteng's contribution is flagged as provisional and unaudited.",
+      "**Growth is decelerating but still double-digit.** Audited GGR grew 36.9% (FY21/22), 25.7% (FY23/24) and 25.6% (FY24/25); FY25/26 slowed to ~13%. Post-COVID four-year average growth was 34.1% vs 5.9% pre-pandemic (NGB). Turnover growth also slowed from +30.7% to ~+17%.",
+      "**Betting is the market: R51.97bn (~$3.13bn) GGR in FY24/25, 69.8% of the total and +44.7% YoY.** Bookmaker sports/'other contingencies' alone was R47.89bn (~$2.89bn, +49.3%); bookmaker horse racing R3.52bn (~$212m, +12.3%); totalisators (4Racing, Gold Circle) R0.57bn and shrinking ~10% a year.",
+      "**Online penetration: 86% of betting GGR and ~60% of all gambling GGR is online (NGB estimate; R44.46bn/~$2.68bn disclosed by six provinces).** SARB's March 2026 Quarterly Bulletin independently reports online betting GGR of R44bn vs R29bn a year earlier (85.5% of betting revenue), corroborating the NGB figure. Because Gauteng, KZN and Free State do not disaggregate, the true online share is higher than 60%.",
+      "**Land-based is in structural decline.** Casino GGR fell 4.1% to R16.65bn (~$1.00bn, 22.3% share; 36 of a maximum 41 casinos operating after Mayfair closed in Jan 2025); bingo −8.6% to R1.73bn (~$104m); LPMs flat at R4.15bn (~$250m). Casino share of GGR has collapsed from 81.9% in FY10/11 to 22.2%.",
+      "**Geography follows licences, not population: Western Cape (R23.1bn/~$1.39bn, 31%) and Mpumalanga (R22.2bn/~$1.34bn, 30%) now out-earn Gauteng (R13.5bn/~$0.81bn, 18%)** because national-reach online bookmakers are licensed there. Mpumalanga books 54% of all betting turnover (R609bn/~$36.7bn) at a 3.5% hold; Gauteng's betting hold is 15% — a retail/horse-racing profile.",
+      "**Licensing is provincial and concurrent (Constitution Sched. 4A; National Gambling Act 7 of 2004).** Nine Provincial Licensing Authorities issue casino, bookmaker, totalisator, route/LPM and bingo licences; the NGB oversees norms, the national register of excluded persons and statistics. 315 bookmakers, 553 bookmaker outlets, 325 tote outlets, 2,546 LPM site operators (15,743 machines) and 73 bingo halls (13,452 EBTs) were operational at 31 Mar 2025. Bookmaker licence caps: Gauteng 131, KZN 48, Northern Cape 19; elsewhere unlimited 'subject to market demand'.",
+      "**Online casino ('interactive gambling') remains illegal under s11 NGA; only online betting via a provincially licensed bookmaker is lawful.** The 2008 Amendment Act that would have created national interactive licences was never proclaimed; the National Gambling Amendment Bill (B27-2018) is still in the NCOP process and the private-member Remote Gambling Bill (B11-2024) is stalled. In practice, bookmakers in WC/MP/LP offer casino-style 'fixed-odds' content (numbers, virtuals, crash games), which is the legal grey zone driving the numbers.",
+      "**Tax regime today: provincial GGR taxes plus 15% VAT on GGR plus 27% CIT.** Gauteng (GN 570/1997): casino 9%, bingo 12%, route/LPM 15%, totalisator 9% + 8.5% SDF levy, bookmakers 6.5% + 1% SDF levy. Western Cape: casinos 8–19% progressive, LPM 10–20%, bingo 10–15%, tote 6%, bookmakers 3% tax + 3% levy on winning bets. Industry (SABA) says online bookmakers 'typically' pay 6.5% of GGR; with VAT the effective burden is ~18–19% of GGR.",
+      "**Tax take: R5.81bn (~$350m) in FY24/25 (+20.1%), i.e. 7.8% of GGR; R6.44bn (~$388m) in FY25/26 (+10.8%, 7.6%).** Betting delivered 58.9% (R3.42bn/~$206m, effective 6.6%), casinos 29.5% (R1.72bn/~$103m, 10.3%), LPMs 9.0% (12.7%), bingo 2.5% (8.4%). Provinces depend on this: own-revenue is only ~3% of provincial budgets (Treasury).",
+      "**The big swing factor: National Treasury's proposed 20% national tax on online betting and interactive GGR (discussion paper, Nov 2025).** It would sit on top of provincial taxes, be administered by SARS, apply even to unlawful interactive revenue, and raise 'over R10bn' (~$0.6bn). Comments closed Feb 2026; the Minister told Parliament in the 21 Oct 2026 MTBPS that the final design comes in the Feb 2027 Budget, then a Money Bill. Combined burden would be 26–29% before VAT, ~38–40% with VAT (SABA, Whitesmans, Lurie Inc).",
+      "**Operator landscape: a dozen scaled bookmakers, three casino groups.** Hollywoodbets is widely regarded as the #1 online bookmaker [share unverified — NGB publishes no operator shares]; Betway (Super Group: Africa segment revenue $262m in Q3-26, +17%, 34% EBITDA margin — not SA-only), Supabets, Lottostar, World Sports Betting, Gbets, Playabets, Sportingbet, Easybet, Goldrush and SunBet (Sun International) are the other scaled brands. Casinos: Sun International, Tsogo Sun, Peermont. The National Lottery (Lotteries Act; NLC) sits outside NGB statistics.",
+      "**Payments are bank-rail, not mobile-money.** Instant EFT (Ozow, Capitec Pay, Stitch/SiD), debit cards and cash vouchers (1Voucher, OTT) dominate deposits; credit-card gambling is widely blocked by banks and exchange control forbids cards/forex for offshore gambling (Treasury). Gambling licensees are FICA 'accountable institutions' (KYC/AML). Minimum deposits of R10–R50 (secondary sources) underpin mass-market reach.",
+      "**Participation is the highest in the world: 32.3% of South African internet users aged 16+ visited a gambling site/app in the past month (GWI Digital 2026, #1 of 48 markets; UK 19.6%, US 10.2%).** Betting is 1.6% of the CPI basket, the 12th-largest weight (Treasury/StatsSA).",
+      "**Responsible gambling and advertising are tightening.** Industry contributed R57.4m (~$3.5m) to the National Responsible Gambling Foundation in FY25/26; the NRGF counselling line took 83,541 calls (5,443 treatment-related; 3,541 people treated). The dtic promised advertising 'norms and standards' and regulations before July 2026 [publication not verified]; the ARB consulted on a tougher Gambling Code (comments 28 Feb 2026) and signed an enforcement MoU with the NGB in Sept 2026.",
+      "**Enforcement is escalating against offshore/illegal online casino.** Government 'declared war' on illegal online gambling (Jul 2026); the NGB issued an EOI (30 Jun 2026, extended to 4 Sep 2026) for a provider to monitor and IP-block illegal sites; s16 NGA lets banks confiscate illegal winnings to the NGB. Illegal online gambling is said to drain >R50bn (~$3bn) a year (ITWeb/CNBC Africa) — basis unverified.",
+      "**Employment and transformation: 33,169 direct jobs (−3% YoY) in FY24/25; FY25/26 casinos 13,328, bookmakers 12,230.** B-BBEE is measured on the generic scorecard (casino operators average Level 1.7, LPM 2.4, bingo 3.1); provincial boards weigh empowerment in licence awards.",
+      "**Read-through for B2Tech: enter via a provincial bookmaker licence (WC or MP are the proven national-reach hubs), build on 'fixed-odds' content and instant-EFT rails, and underwrite the business at a 38–40% effective GGR tax.** A 20% national tax plus advertising limits would compress promo-led growth and favour scale incumbents with retail estates and low CAC; it also raises the odds that the eventual national interactive regime arrives with a high tax attached rather than as a liberalisation."
+    ],
+    "groupTable": {
+      "note": "ZAR (≈USD at 16.6)",
+      "columns": [
+        "FY2024/25 (audited)",
+        "YoY",
+        "Share FY24/25",
+        "FY2025/26 (NGB AR, prov.)",
+        "YoY"
+      ],
+      "rows": [
+        {
+          "label": "Market size",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Turnover (stakes incl. recycling)",
+          "indent": true,
+          "cells": [
+            "R1,500.7bn (~$90.4bn)",
+            "+30.7%",
+            "—",
+            "~R1.76tn (~$106bn)",
+            "~+17%"
+          ]
+        },
+        {
+          "label": "Gross gambling revenue (GGR)",
+          "kind": "emphasis",
+          "cells": [
+            "R74.50bn (~$4.49bn)",
+            "+25.6%",
+            "100%",
+            "R84.46bn (~$5.09bn)",
+            "+13.4%"
+          ]
+        },
+        {
+          "label": "GGR by product",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Betting (bookmakers + totalisators)",
+          "indent": true,
+          "cells": [
+            "R51.97bn (~$3.13bn)",
+            "+44.7%",
+            "69.8%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "– Bookmaker sports & other contingencies",
+          "indent": true,
+          "cells": [
+            "R47.89bn (~$2.89bn)",
+            "+49.3%",
+            "64.3%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "– Bookmaker horse racing",
+          "indent": true,
+          "cells": [
+            "R3.52bn (~$212m)",
+            "+12.3%",
+            "4.7%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "– Totalisator (racing + sport)",
+          "indent": true,
+          "cells": [
+            "R0.57bn (~$34m)",
+            "−10.3%",
+            "0.8%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Casinos (tables + slots)",
+          "indent": true,
+          "cells": [
+            "R16.65bn (~$1.00bn)",
+            "−4.1%",
+            "22.3%",
+            "n/a ('flat')",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Limited payout machines (LPM)",
+          "indent": true,
+          "cells": [
+            "R4.15bn (~$250m)",
+            "−0.04%",
+            "5.6%",
+            "n/a ('flat')",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Bingo (EBTs)",
+          "indent": true,
+          "cells": [
+            "R1.73bn (~$104m)",
+            "−8.6%",
+            "2.3%",
+            "n/a ('flat')",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Channel",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Online betting GGR (WC, MP, LP, NW, EC, NC)",
+          "indent": true,
+          "cells": [
+            "R44.46bn (~$2.68bn)",
+            "~+53% (SARB: R29bn prior)",
+            "59.7% of GGR / 86% of betting",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Retail betting GGR (incl. non-disclosing GP, KZN, FS)",
+          "indent": true,
+          "cells": [
+            "R7.52bn (~$453m)",
+            "n/a",
+            "10.1%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Online share of all GGR (NGB estimate)",
+          "indent": true,
+          "cells": [
+            "~60%",
+            "from ~49%",
+            "—",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Tax",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Provincial taxes/levies collected",
+          "kind": "emphasis",
+          "cells": [
+            "R5.81bn (~$350m)",
+            "+20.1%",
+            "7.8% of GGR",
+            "R6.44bn (~$388m)",
+            "+10.8%"
+          ]
+        },
+        {
+          "label": "– Betting",
+          "indent": true,
+          "cells": [
+            "R3.42bn (~$206m)",
+            "+41.8%",
+            "58.9% (eff. 6.6%)",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "– Casinos",
+          "indent": true,
+          "cells": [
+            "R1.72bn (~$103m)",
+            "n/a",
+            "29.5% (eff. 10.3%)",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "– LPM / Bingo",
+          "indent": true,
+          "cells": [
+            "R0.53bn / R0.15bn",
+            "n/a",
+            "9.0% / 2.5%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Tax base & headline rates",
+          "indent": true,
+          "cells": [
+            "GGR; bookmakers 6.5% (+1% SDF in GP); casinos 9% GP / 8–19% WC; VAT 15% on GGR; CIT 27%",
+            "—",
+            "—",
+            "Proposed +20% national tax on online GGR",
+            "Decision Feb 2027"
+          ]
+        },
+        {
+          "label": "Supply side (at 31 Mar 2025)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Operational casinos (max licences 41)",
+          "indent": true,
+          "cells": [
+            "36",
+            "−1",
+            "21,370 slots / 890 tables",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Operational bookmakers / outlets",
+          "indent": true,
+          "cells": [
+            "315 / 553",
+            "−7.1% / n/a",
+            "GP 140 bookmakers",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Totalisator outlets",
+          "indent": true,
+          "cells": [
+            "325",
+            "n/a",
+            "4Racing + Gold Circle",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "LPM site operators / machines",
+          "indent": true,
+          "cells": [
+            "2,546 / 15,743",
+            "n/a",
+            "RTP 92%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Bingo outlets / EBTs",
+          "indent": true,
+          "cells": [
+            "73 / 13,452",
+            "n/a",
+            "6 provinces only",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Direct employment (industry + PLAs)",
+          "indent": true,
+          "cells": [
+            "33,169",
+            "−3.3%",
+            "casinos 13,759; bookmakers 12,899",
+            "casinos 13,328; bookmakers 12,230",
+            "−3% / −5%"
+          ]
+        },
+        {
+          "label": "Licence application/annual fees",
+          "indent": true,
+          "cells": [
+            "n/a [unverified]",
+            "—",
+            "set per province",
+            "n/a",
+            "—"
+          ]
+        },
+        {
+          "label": "Monthly online gambling participation (GWI Digital 2026)",
+          "indent": true,
+          "cells": [
+            "32.3% of internet users 16+",
+            "#1 of 48 markets",
+            "UK 19.6%, US 10.2%",
+            "—",
+            "—"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Sports betting & online bookmaking",
+        "headline": "R52bn (~$3.1bn) and 70% of GGR; 86% online, concentrated in Western Cape and Mpumalanga licences; the whole market's growth and the whole of Treasury's target.",
+        "narrative": [
+          "Betting on horse racing, sport and 'other contingencies' generated R51.97bn (~$3.13bn) of GGR in the audited year to 31 March 2025, up 44.7% on R35.91bn, and was the only mode to grow. Within it, bookmaker sports betting was R47.89bn (~$2.89bn, +49.3%), continuing a run of 57%, 61%, 55% and 49% annual growth since FY2021/22; bookmaker horse racing added R3.52bn (~$212m, +12.3%); and the totalisators (4Racing in eight provinces, Gold Circle in KZN) shrank again to R0.57bn (~$34m). Betting turnover was R1,125.6bn (~$67.8bn), 75% of all stakes, implying a blended hold of just 4.6% — and 4.3% on bookmaker sports — which is far below a conventional sportsbook margin and signals that the volume is dominated by high-frequency, high-recycling products (numbers/lottery betting, virtuals and crash-style 'fixed-odds' games) rather than match betting. Quarterly GGR ran R11.6bn, R12.1bn, R14.6bn and R13.7bn through FY24/25, so Q4 was already decelerating to +41% YoY from +50% in Q3; the NGB's FY25/26 annual report shows total market GGR growth slowing to 13.4%, and since land-based was 'relatively flat', betting growth in FY25/26 was likely in the mid-to-high teens [estimate].",
+          "The channel split is the key regulatory fact. Six provinces (WC, MP, LP, NW, EC, NC) disaggregate online from retail, and their online betting GGR was R44.46bn (~$2.68bn), 86% of all betting GGR and 59.7% of total gambling GGR; the Reserve Bank's March 2026 Quarterly Bulletin independently puts online betting at R44bn vs R29bn a year earlier (85.5% of betting revenue), so the two primary sources agree. Gauteng, KZN and Free State do not split their data and are booked as retail, so the NGB's '60% of all gambling is online' is a floor. Geography is a function of where national-reach online licences sit: Mpumalanga booked R21.33bn (41%) of betting GGR on R609bn of turnover (3.5% hold) and Western Cape R19.52bn (37%) on R343bn (5.7%), while Gauteng, with the most bookmakers (140), took only R4.66bn (9%) at a 15% hold — a retail and horse-racing profile. Betting taxes/levies were R3.42bn (~$206m), 59% of all gambling tax, at an effective 6.6% of GGR; Mpumalanga (41%) and the Western Cape (36%) collected the bulk, which is why those provinces have been content to host a 'provincial licence, national customer' model.",
+          "Supply is consolidating even as revenue grows: operational bookmakers fell from 349 to 315 (−7.1%) while outlets held at roughly 550–600 and totalisator outlets at 325, and bookmaking employment slipped from 12,899 to 12,230 in FY25/26. The NGB does not publish operator shares; Hollywoodbets is generally regarded as the largest brand, with Betway (Super Group), Supabets, Lottostar, World Sports Betting, Gbets, Playabets, Sportingbet, Easybet, Goldrush and SunBet the other scaled names [shares unverified]. Super Group's Africa segment — of which South Africa is the anchor but not the whole — grew revenue 17% to $262m in Q3-26 with a 34% adjusted EBITDA margin and $839m (+29%) over nine months, which is the best public proxy for the unit economics an incumbent is achieving here. Market behaviour is promo-heavy (sign-up bonuses, free bets, wagering requirements), which is exactly where a 20% national tax would bite first.",
+          "For an entrant the commercial logic is a bookmaker licence in a province that permits broad 'fixed-odds' content and online acceptance (Western Cape or Mpumalanga in practice), a content stack weighted to numbers, virtuals and live 'bet-games' plus a conventional sportsbook, and instant-EFT/voucher cashiering to reach a mass market that stakes small amounts frequently. The counter-case is equally clear: the product mix sits in a legal grey zone that both the dtic and Treasury describe as 'interactive gambling remains illegal'; Treasury explicitly wants to end provinces competing on headline tax to attract registrations; and advertising restrictions are coming. Underwrite the plan at a 38–40% effective GGR tax, assume promotional intensity falls, and treat the WC/MP hold rates as the realistic margin ceiling."
+        ],
+        "table": {
+          "note": "Betting segment, ZAR (≈USD at 16.6)",
+          "columns": [
+            "FY2023/24",
+            "FY2024/25",
+            "YoY",
+            "Share / note"
+          ],
+          "rows": [
+            {
+              "label": "GGR",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Betting GGR (total)",
+              "kind": "emphasis",
+              "cells": [
+                "R35.91bn (~$2.16bn)",
+                "R51.97bn (~$3.13bn)",
+                "+44.7%",
+                "69.8% of all GGR"
+              ]
+            },
+            {
+              "label": "Bookmakers – sports & other contingencies",
+              "indent": true,
+              "cells": [
+                "R32.07bn (~$1.93bn)",
+                "R47.89bn (~$2.89bn)",
+                "+49.3%",
+                "92.1% of betting"
+              ]
+            },
+            {
+              "label": "Bookmakers – horse racing",
+              "indent": true,
+              "cells": [
+                "R3.13bn (~$189m)",
+                "R3.52bn (~$212m)",
+                "+12.3%",
+                "6.8%"
+              ]
+            },
+            {
+              "label": "Totalisators – horse racing",
+              "indent": true,
+              "cells": [
+                "R0.377bn (~$23m)",
+                "R0.337bn (~$20m)",
+                "−10.6%",
+                "0.6%"
+              ]
+            },
+            {
+              "label": "Totalisators – sports",
+              "indent": true,
+              "cells": [
+                "R0.255bn (~$15m)",
+                "R0.230bn (~$14m)",
+                "−9.8%",
+                "0.4%"
+              ]
+            },
+            {
+              "label": "Online betting GGR (6 disclosing provinces)",
+              "indent": true,
+              "cells": [
+                "~R29bn (SARB) (~$1.75bn)",
+                "R44.46bn (~$2.68bn)",
+                "~+53%",
+                "86% of betting; 59.7% of all GGR"
+              ]
+            },
+            {
+              "label": "Retail betting GGR (incl. GP/KZN/FS undisclosed)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "R7.52bn (~$453m)",
+                "n/a",
+                "14% of betting"
+              ]
+            },
+            {
+              "label": "Quarterly betting GGR Q1 / Q2 / Q3 / Q4",
+              "indent": true,
+              "cells": [
+                "R7.97 / 8.52 / 9.73 / 9.69bn",
+                "R11.62 / 12.06 / 14.63 / 13.66bn",
+                "+46% / +42% / +50% / +41%",
+                "Q4 QoQ −6.6%"
+              ]
+            },
+            {
+              "label": "Turnover & hold",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Betting turnover",
+              "indent": true,
+              "cells": [
+                "~R761bn (~$45.8bn)",
+                "R1,125.6bn (~$67.8bn)",
+                "+47.9%",
+                "75.0% of all turnover"
+              ]
+            },
+            {
+              "label": "Bookmaker sports turnover",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "R1,111.4bn (~$67.0bn)",
+                "n/a",
+                "hold 4.3%"
+              ]
+            },
+            {
+              "label": "Implied hold (GGR/turnover)",
+              "indent": true,
+              "cells": [
+                "4.7%",
+                "4.6%",
+                "−0.1pp",
+                "MP 3.5%; WC 5.7%; GP 15.4%"
+              ]
+            },
+            {
+              "label": "By province (GGR)",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Mpumalanga",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "R21.33bn (~$1.28bn)",
+                "n/a",
+                "41%; turnover R609bn (54%)"
+              ]
+            },
+            {
+              "label": "Western Cape",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "R19.52bn (~$1.18bn)",
+                "n/a",
+                "37%; turnover R343bn (30%)"
+              ]
+            },
+            {
+              "label": "Gauteng",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "R4.66bn (~$281m)",
+                "n/a",
+                "9%; 140 bookmakers"
+              ]
+            },
+            {
+              "label": "Limpopo / KZN",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "R3.96bn / R1.52bn",
+                "n/a",
+                "8% / 3%"
+              ]
+            },
+            {
+              "label": "Tax & supply",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Betting taxes/levies",
+              "indent": true,
+              "cells": [
+                "R2.42bn (~$145m)",
+                "R3.42bn (~$206m)",
+                "+41.8%",
+                "eff. 6.6% of GGR; MP 41%, WC 36%"
+              ]
+            },
+            {
+              "label": "Operational bookmakers / outlets",
+              "indent": true,
+              "cells": [
+                "349 / 594",
+                "315 / 553",
+                "−7.1% / n/a",
+                "GP 140, WC 47, KZN 125 (bookmakers)"
+              ]
+            },
+            {
+              "label": "Totalisator outlets",
+              "indent": true,
+              "cells": [
+                "366",
+                "325",
+                "−11%",
+                "4Racing; Gold Circle (KZN)"
+              ]
+            },
+            {
+              "label": "Bookmaker employment",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "12,899",
+                "n/a",
+                "FY25/26: 12,230 (−5%)"
+              ]
+            },
+            {
+              "label": "Betting RTP (NGB)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "92%",
+                "—",
+                "MP/LP 96–97%; GP 83–87%"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Betting GGR growth",
+            "takeaway": "Betting GGR was R51.97bn (~$3.13bn) in the year to 31 March 2025, up 44.7% on R35.91bn, the only mode to grow.",
+            "points": [
+              "Bookmaker sports betting R47.89bn (~$2.89bn, +49.3%), continuing 57%, 61%, 55% and 49% annual growth since FY2021/22.",
+              "Bookmaker horse racing R3.52bn (~$212m, +12.3%); totalisators (4Racing in eight provinces, Gold Circle in KZN) shrank again to R0.57bn (~$34m).",
+              "Betting turnover R1,125.6bn (~$67.8bn), 75% of all stakes, implying blended hold of 4.6% and 4.3% on bookmaker sports.",
+              "Low hold signals volume dominated by high-frequency products (numbers/lottery betting, virtuals, crash-style 'fixed-odds' games) rather than match betting.",
+              "Quarterly GGR R11.6bn, R12.1bn, R14.6bn, R13.7bn; Q4 decelerated to +41% YoY from +50% in Q3; FY25/26 betting growth likely mid-to-high teens [estimate] as total market slowed to 13.4%."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Online channel split",
+            "takeaway": "Online betting GGR in six disaggregating provinces was R44.46bn (~$2.68bn), 86% of betting GGR and 59.7% of total gambling GGR.",
+            "points": [
+              "Reserve Bank March 2026 Quarterly Bulletin independently puts online betting at R44bn vs R29bn a year earlier (85.5% of betting revenue).",
+              "Gauteng, KZN and Free State do not split data and are booked as retail, so the NGB's '60% of all gambling is online' is a floor.",
+              "Mpumalanga booked R21.33bn (41%) on R609bn turnover (3.5% hold); Western Cape R19.52bn (37%) on R343bn (5.7%).",
+              "Gauteng, with 140 bookmakers, took only R4.66bn (9%) at a 15% hold, a retail and horse-racing profile.",
+              "Betting taxes/levies R3.42bn (~$206m), 59% of gambling tax, effective 6.6% of GGR; Mpumalanga (41%) and Western Cape (36%) collected the bulk."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Supply and operators",
+            "takeaway": "Supply is consolidating as revenue grows: operational bookmakers fell from 349 to 315 (−7.1%) and employment slipped from 12,899 to 12,230 in FY25/26.",
+            "points": [
+              "Outlets held at roughly 550–600 and totalisator outlets at 325.",
+              "NGB publishes no operator shares; Hollywoodbets generally regarded as largest, with Betway (Super Group), Supabets, Lottostar, World Sports Betting, Gbets, Playabets, Sportingbet, Easybet, Goldrush and SunBet [shares unverified].",
+              "Super Group's Africa segment grew revenue 17% to $262m in Q3-26 at a 34% adjusted EBITDA margin, and $839m (+29%) over nine months.",
+              "Market behaviour is promo-heavy (sign-up bonuses, free bets, wagering requirements), where a 20% national tax would bite first."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Entrant logic",
+            "takeaway": "Entry case is a bookmaker licence in Western Cape or Mpumalanga, underwritten at a 38–40% effective GGR tax with WC/MP holds as margin ceiling.",
+            "points": [
+              "Content stack weighted to numbers, virtuals and live 'bet-games' plus a conventional sportsbook, with instant-EFT/voucher cashiering for small frequent stakes.",
+              "Counter-case: product mix sits in a legal grey zone that dtic and Treasury describe as 'interactive gambling remains illegal'.",
+              "Treasury explicitly wants to end provinces competing on headline tax; advertising restrictions are coming.",
+              "Assume promotional intensity falls."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Land-based: casinos, LPMs & bingo",
+        "headline": "R22.5bn (~$1.36bn) of GGR shrinking 3–4% a year; a capped, high-tax, high-RTP estate that still supplies 41% of provincial gambling tax.",
+        "narrative": [
+          "Casinos generated R16.65bn (~$1.00bn) of GGR in FY2024/25, down 4.1% after a flat FY2023/24, on turnover of R292.8bn (~$17.6bn, −1.5%); every quarter was below the prior-year quarter (Q4 R4.01bn vs R4.31bn). Thirty-six of a maximum 41 licensed casinos were operating at 31 March 2025 after Mayfair (Eastern Cape) closed in January 2025, with 21,370 slots and 890 tables; Gauteng hosts seven casinos, 8,226 slots and 45% of casino GGR (R7.49bn/~$451m), followed by KZN (R3.55bn, 21%) and the Western Cape (R2.70bn, 16%). Average return-to-player is 94% (North West 87–88%). Casino taxes were R1.72bn (~$103m), an effective 10.3% of GGR, reflecting Gauteng's 9% flat rate and the Western Cape's 8–19% progressive scale. The NGB's FY25/26 report describes casino, bingo and LPM revenue as 'relatively flat', and casino headcount fell from 13,759 to 13,328. Sun International, Tsogo Sun and Peermont own the bulk of the estate; the NGB does not publish operator shares.",
+          "Limited payout machines — route-operated slots in bars, taverns and bingo halls, capped at five per site with low stakes/prizes — are the most resilient land-based product: R4.15bn (~$250m) of GGR (−0.04%) on R54.7bn of turnover across 2,546 site operators and 15,743 active machines, taxed at an effective 12.7% (R525m/~$32m; Gauteng's route-operator rate is 15%). Western Cape (22%) and KZN (21%) lead. Route-operator licences are capped at two in Eastern Cape, five in Gauteng and two each in Northern and Western Cape, which makes incumbents' positions (e.g., Vukani/Galaxy, Goldrush) effectively entrenched.",
+          "Bingo is a six-province (GP, KZN, MP, LP, NW, EC) electronic-bingo-terminal business: 73 outlets and 13,452 EBTs produced R1.73bn (~$104m) of GGR, down 8.6%, with taxes of R146m (~$8.8m, 8.4% effective; 12% headline in Gauteng). Western Cape, Free State and Northern Cape have 'no roll-out currently', and Gauteng caps bingo at 11 licences. Totalisator horse racing, the historic core of South African betting, has declined every year since FY2018/19 and is now R337m (~$20m).",
+          "For an operator the land-based estate matters in three ways rather than as a growth vehicle: retail outlets and casino floors remain the cheapest customer-acquisition channel for an online brand (and will matter more if advertising is curbed); casino licences carry provincial socio-economic obligations and B-BBEE scrutiny (casino operators average Level 1.7) that set the political benchmark against which 'few local benefits' online operators are judged — Treasury makes this contrast explicitly when justifying a higher online rate; and casino groups are the natural partners or acquirers for any entrant needing a provincial licence and a local balance sheet."
+        ],
+        "table": {
+          "note": "Land-based modes, ZAR (≈USD at 16.6), FY2024/25 unless stated",
+          "columns": [
+            "Casinos",
+            "LPMs",
+            "Bingo",
+            "Note"
+          ],
+          "rows": [
+            {
+              "label": "GGR",
+              "kind": "emphasis",
+              "cells": [
+                "R16.65bn (~$1.00bn)",
+                "R4.15bn (~$250m)",
+                "R1.73bn (~$104m)",
+                "shares 22.3% / 5.6% / 2.3%"
+              ]
+            },
+            {
+              "label": "GGR growth YoY",
+              "cells": [
+                "−4.1%",
+                "−0.04%",
+                "−8.6%",
+                "FY23/24: +0.1% / −1.9% / +2.4%"
+              ]
+            },
+            {
+              "label": "Turnover",
+              "cells": [
+                "R292.8bn (~$17.6bn)",
+                "R54.7bn (~$3.3bn)",
+                "R27.5bn (~$1.7bn)",
+                "casino turnover −1.5%"
+              ]
+            },
+            {
+              "label": "Taxes/levies",
+              "cells": [
+                "R1.72bn (~$103m)",
+                "R0.53bn (~$32m)",
+                "R0.15bn (~$9m)",
+                "29.5% / 9.0% / 2.5% of tax"
+              ]
+            },
+            {
+              "label": "Effective tax rate (tax/GGR)",
+              "cells": [
+                "10.3%",
+                "12.7%",
+                "8.4%",
+                "GP headline 9% / 15% / 12%"
+              ]
+            },
+            {
+              "label": "Operational units (31 Mar 2025)",
+              "cells": [
+                "36 casinos (max 41)",
+                "2,546 sites; 15,743 machines",
+                "73 outlets; 13,452 EBTs",
+                "36 ← 37 (Mayfair closed)"
+              ]
+            },
+            {
+              "label": "Positions",
+              "cells": [
+                "21,370 slots; 890 tables",
+                "15,743 LPMs",
+                "13,452 EBTs",
+                "GP: 8,226 slots, 335 tables"
+              ]
+            },
+            {
+              "label": "Top provinces (GGR)",
+              "cells": [
+                "GP 45%, KZN 21%, WC 16%",
+                "WC 22%, KZN 21%, GP 20%",
+                "GP 30%, EC 24%, KZN 22%",
+                "bingo in 6 provinces only"
+              ]
+            },
+            {
+              "label": "RTP (NGB average)",
+              "cells": [
+                "94%",
+                "92%",
+                "94%",
+                "NW casinos 87–88%"
+              ]
+            },
+            {
+              "label": "Quarterly GGR Q1/Q2/Q3/Q4",
+              "cells": [
+                "R4.21/4.25/4.17/4.01bn",
+                "R1.01/1.05/1.10/0.99bn",
+                "R0.43/0.44/0.46/0.40bn",
+                "all casino quarters below prior year"
+              ]
+            },
+            {
+              "label": "Direct employment",
+              "cells": [
+                "13,759 → 13,328 (FY25/26)",
+                "2,894",
+                "1,804",
+                "totalisators 1,084"
+              ]
+            },
+            {
+              "label": "Avg B-BBEE level",
+              "cells": [
+                "1.7",
+                "2.4",
+                "3.1",
+                "totalisators 4.5"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Casinos",
+            "takeaway": "Casinos generated R16.65bn (~$1.00bn) GGR in FY2024/25, down 4.1% after a flat FY2023/24, on turnover of R292.8bn (~$17.6bn, −1.5%).",
+            "points": [
+              "Every quarter was below prior year (Q4 R4.01bn vs R4.31bn); 36 of a maximum 41 casinos operating after Mayfair (Eastern Cape) closed January 2025.",
+              "21,370 slots and 890 tables; Gauteng hosts seven casinos, 8,226 slots and 45% of casino GGR (R7.49bn/~$451m), then KZN (R3.55bn, 21%) and Western Cape (R2.70bn, 16%).",
+              "Average return-to-player 94% (North West 87–88%); casino taxes R1.72bn (~$103m), effective 10.3%, reflecting Gauteng's 9% flat rate and Western Cape's 8–19% scale.",
+              "NGB FY25/26 report calls casino, bingo and LPM revenue 'relatively flat'; casino headcount fell from 13,759 to 13,328.",
+              "Sun International, Tsogo Sun and Peermont own the bulk; NGB does not publish operator shares."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Limited payout machines",
+            "takeaway": "LPMs are the most resilient land-based product: R4.15bn (~$250m) GGR (−0.04%) on R54.7bn turnover across 2,546 site operators and 15,743 machines.",
+            "points": [
+              "Route-operated slots in bars, taverns and bingo halls, capped at five per site with low stakes/prizes.",
+              "Taxed at effective 12.7% (R525m/~$32m); Gauteng's route-operator rate is 15%. Western Cape (22%) and KZN (21%) lead.",
+              "Route-operator licences capped at two in Eastern Cape, five in Gauteng and two each in Northern and Western Cape, entrenching incumbents (e.g., Vukani/Galaxy, Goldrush)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Bingo and totalisators",
+            "takeaway": "Bingo produced R1.73bn (~$104m) GGR, down 8.6%, from 73 outlets and 13,452 EBTs across six provinces.",
+            "points": [
+              "Taxes R146m (~$8.8m, 8.4% effective; 12% headline in Gauteng).",
+              "Western Cape, Free State and Northern Cape have 'no roll-out currently'; Gauteng caps bingo at 11 licences.",
+              "Totalisator horse racing has declined every year since FY2018/19 and is now R337m (~$20m)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Relevance to operators",
+            "takeaway": "Land-based matters as acquisition channel, political benchmark and partner pool rather than as a growth vehicle.",
+            "points": [
+              "Retail outlets and casino floors remain the cheapest customer-acquisition channel for an online brand, more so if advertising is curbed.",
+              "Casino licences carry socio-economic obligations and B-BBEE scrutiny (operators average Level 1.7); Treasury explicitly contrasts this with 'few local benefits' online operators.",
+              "Casino groups are natural partners or acquirers for entrants needing a provincial licence and local balance sheet."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Licensing & legal framework",
+        "headline": "A 2004 statute, nine provincial regulators, an unproclaimed 2008 online law and two stalled bills: lawful online = betting via a provincial bookmaker licence; interactive casino = illegal.",
+        "narrative": [
+          "Gambling (excluding lotteries and sports pools) is a concurrent national–provincial competence under Schedule 4 Part A of the Constitution. The National Gambling Act 7 of 2004 (NGA) sets uniform norms and standards, creates the National Gambling Board (NGB) under the Department of Trade, Industry and Competition (dtic) and recognises nine Provincial Licensing Authorities (Eastern Cape Gambling Board, Free State Gambling and Liquor Authority, Gauteng Gambling Board, KZN Gaming and Betting Board, Limpopo Gambling Board, Mpumalanga Economic Regulator, Northern Cape, North West and Western Cape Gambling and Racing Boards), each with exclusive jurisdiction to license casinos, bookmakers, totalisators, route/LPM operators and bingo under its own provincial Act. The NGB keeps the national register of excluded persons, monitors market conduct and statistics, and leads illegal-gambling enforcement; the National Lottery is separately regulated by the National Lotteries Commission under the Lotteries Act 1997 (operator licence transitioned from Ithuba to Sizekhaya Holdings in 2025/26 [secondary]).",
+          "Section 11 of the NGA prohibits making an 'interactive game' available — a gambling game played over the internet other than one accessible only on licensed premises — which the dtic, NGB and Treasury all read as a ban on online casino. The National Gambling Amendment Act 10 of 2008 would have created NGB-issued national interactive licences but was never proclaimed by the President and has no legal effect. The National Gambling Amendment Bill (B27-2018), which would replace the NGB with a National Gambling Regulator and tighten enforcement, passed the National Assembly in 2018 and was still in the NCOP mandate process in late 2025, with public participation mooted for February 2026 [status as of Nov 2026 unverified]. The private-member Remote Gambling Bill (B11-2024), which proposed a national remote-gambling licence covering casino games, lapsed with the sixth Parliament and has not progressed. Online betting — bets on sport, horse racing or 'other contingencies' placed with a provincially licensed bookmaker — is lawful, and provinces such as the Western Cape, Mpumalanga and Limpopo have licensed bookmakers to accept online bets nationally and to offer fixed-odds products on numbers, virtual events and live games. This is the grey zone: legally 'betting', economically 'gaming'.",
+          "Licence supply is capped by product and province. Casinos are limited to 41 nationally (EC 5, FS 4, GP 7, KZN 5, LP 3, MP 4, NW 4+1 pending, NC 3, WC 5); route-operator licences to 2 (EC), 5 (GP), 2 (NC) and 2 (WC) with no cap elsewhere; bookmaker licences to 131 in Gauteng, 48 in KZN and 19 in the Northern Cape but unlimited (subject to market demand and viability) in the other provinces; totalisators to one per province except KZN (two); bingo to 15 (EC) and 11 (GP), with no roll-out in WC, FS and NC. Licences are granted after probity, financial, B-BBEE and socio-economic review, with public objection periods; provincial licence fees and the NGB's own levies are set by provincial regulation and were not verified for this brief [n/a]. There is no national server-location rule, but exchange control (SARB) and s16 NGA effectively ring-fence payments inside the domestic banking system.",
+          "Commercially, the framework rewards early provincial licences in 'open' provinces and penalises latecomers in capped ones. An entrant should expect 6–12 months [estimate] for a bookmaker licence, a local company with meaningful black ownership to score on the generic B-BBEE scorecard, and a product line vetted by the licensing province. The strategic risk is that the eventual national online regime — whether via the 2018 Bill, a revived remote-gambling bill, or Treasury's tax instrument as a de facto regulator — is being designed in a climate of harm reduction, not liberalisation, so the interactive-casino upside should not be in a base case."
+        ],
+        "table": {
+          "note": "Licensing regime (NGB, 31 Mar 2025)",
+          "columns": [
+            "Licence type",
+            "Max licences by province",
+            "Operational at 31 Mar 2025",
+            "Issuer / notes"
+          ],
+          "rows": [
+            {
+              "label": "Casino",
+              "cells": [
+                "EC 5, FS 4, GP 7, KZN 5, LP 3, MP 4, NW 4 (+1 pending), NC 3, WC 5 = 41",
+                "36 (GP 7, WC 5, KZN 5, EC 4)",
+                "PLA; capped; socio-economic + B-BBEE conditions"
+              ]
+            },
+            {
+              "label": "Route operator (LPM)",
+              "cells": [
+                "EC 2, GP 5, NC 2, WC 2; others unlimited/no set max",
+                "2,546 site operators; 15,743 LPMs",
+                "PLA; ≤5 machines per site"
+              ]
+            },
+            {
+              "label": "Bookmaker",
+              "cells": [
+                "GP 131, KZN 48, NC 19; others unlimited (demand/viability)",
+                "315 bookmakers; 553 outlets (GP 140 bookmakers, KZN 125)",
+                "PLA; online acceptance under provincial Act; national reach in practice"
+              ]
+            },
+            {
+              "label": "Totalisator",
+              "cells": [
+                "GP 1, KZN 2, NC 2; others unlimited",
+                "325 outlets (4Racing; Gold Circle KZN)",
+                "PLA"
+              ]
+            },
+            {
+              "label": "Bingo",
+              "cells": [
+                "EC 15, GP 11; FS/WC/NC no roll-out; others unlimited",
+                "73 outlets; 13,452 EBTs",
+                "PLA; 6 provinces"
+              ]
+            },
+            {
+              "label": "Interactive gambling (online casino)",
+              "cells": [
+                "Prohibited — NGA s11",
+                "None lawful",
+                "2008 Amendment Act unproclaimed; B27-2018 in NCOP; B11-2024 lapsed"
+              ]
+            },
+            {
+              "label": "National Lottery",
+              "cells": [
+                "1 operator licence (Lotteries Act)",
+                "Sizekhaya Holdings [secondary]",
+                "NLC; outside NGB statistics"
+              ]
+            },
+            {
+              "label": "Licence fees (application/annual)",
+              "cells": [
+                "Set by provincial regulation",
+                "n/a [unverified]",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Regulatory structure",
+            "takeaway": "Gambling is a concurrent national–provincial competence: the NGA 2004 sets norms, the NGB oversees, and nine provincial authorities license exclusively.",
+            "points": [
+              "Provincial Licensing Authorities license casinos, bookmakers, totalisators, route/LPM operators and bingo under their own provincial Acts.",
+              "NGB (under dtic) keeps the national register of excluded persons, monitors conduct and statistics, and leads illegal-gambling enforcement.",
+              "National Lottery regulated separately by the National Lotteries Commission under the Lotteries Act 1997; operator licence moved from Ithuba to Sizekhaya Holdings in 2025/26 [secondary]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Online legality",
+            "takeaway": "Online betting via a provincial bookmaker licence is lawful; interactive casino is illegal under s11 NGA, with the 2008 online law never proclaimed.",
+            "points": [
+              "National Gambling Amendment Act 10 of 2008 would have created national interactive licences but has no legal effect.",
+              "Amendment Bill B27-2018 passed the National Assembly in 2018, still in NCOP mandate process late 2025, public participation mooted February 2026 [status as of Nov 2026 unverified].",
+              "Remote Gambling Bill B11-2024 lapsed with the sixth Parliament and has not progressed.",
+              "Western Cape, Mpumalanga and Limpopo license bookmakers to accept online bets nationally and offer fixed-odds on numbers, virtuals and live games: legally 'betting', economically 'gaming'."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Licence caps",
+            "takeaway": "Licence supply is capped by product and province: 41 casinos nationally, bookmakers capped at 131 in Gauteng, 48 in KZN, 19 in Northern Cape.",
+            "points": [
+              "Casino caps: EC 5, FS 4, GP 7, KZN 5, LP 3, MP 4, NW 4+1 pending, NC 3, WC 5.",
+              "Route-operator licences 2 (EC), 5 (GP), 2 (NC), 2 (WC), no cap elsewhere; totalisators one per province except KZN (two); bingo 15 (EC), 11 (GP), no roll-out in WC, FS, NC.",
+              "Bookmaker licences unlimited in other provinces subject to demand and viability; granted after probity, financial, B-BBEE and socio-economic review with public objection periods.",
+              "Fees not verified [n/a]; no server-location rule, but SARB exchange control and s16 NGA ring-fence payments domestically."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Strategic implications",
+            "takeaway": "The framework rewards early licences in 'open' provinces; interactive-casino upside should not be in a base case.",
+            "points": [
+              "Expect 6–12 months [estimate] for a bookmaker licence, a local company with meaningful black ownership, and products vetted by the licensing province.",
+              "Eventual national online regime (2018 Bill, revived remote bill, or Treasury tax instrument) is being designed for harm reduction, not liberalisation."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Tax regime & the proposed 20% national online gambling tax",
+        "headline": "Today ~18–19% of online GGR all-in (6.5% provincial + VAT); Treasury wants +20% on top, worth >R10bn (~$0.6bn), with the design due in the Feb 2027 Budget.",
+        "narrative": [
+          "All gambling taxes are levied on gross gambling revenue (stakes less winnings) by the provinces, which keep the proceeds; this matters because provinces raise only ~3% of their budgets from own revenue and gambling is one of the few levers they control. Gauteng's regulations (GN 570 of 1997) tax casinos at 9% of GGR, bingo at 12%, route/LPM operators at 15%, totalisators at 9% plus an 8.5% Sports Development Fund levy, bookmakers at 6.5% of gross betting revenue plus a 1% levy, and horse-racing bets at 6% plus 6%. The Western Cape applies progressive scales — casinos 8% (below R14.2m) to 19% (above R71.0m), LPMs 10–20%, bingo 10–15% — a 6% totalisator rate and, for bookmakers, a 3% tax plus a 3% levy on winning bets; Treasury characterises bookmakers nationally as paying 6–7% (elsewhere 6–9%) and casinos 10–15%. KZN, Mpumalanga and Limpopo rates were not verified for this brief [n/a]. On top sit 15% VAT, which bookmakers account for on GGR (an effective 12–13% after input recovery, per SABA), 27% corporate income tax and the skills development levy; gambling winnings are not taxed in the hands of recreational punters, although habitual professional winnings are taxable income. The out-turn: R5.81bn (~$350m) of provincial gambling tax in FY24/25 (7.8% of GGR; betting 6.6%, casinos 10.3%, LPMs 12.7%, bingo 8.4%) and R6.44bn (~$388m) in FY25/26 (7.6%).",
+          "National Treasury's discussion paper 'The case for a national online gambling tax' (published Nov 2025; comments closed Feb 2026) proposes a 20% national tax on the GGR of online betting including interactive gambling, in addition to provincial taxes, collected by SARS using the same returns operators already file with provincial boards, and applying to any locally based operator's interactive revenue 'to the extent' it is earned even though interactive gambling is illegal. Treasury's stated aims are to internalise the social cost of problem gambling, to stop provinces competing on headline rates to attract registrations, and — explicitly a secondary objective — to raise 'over R10 billion' (~$0.6bn) a year, roughly 1.7x the entire current provincial gambling-tax take. The paper benchmarks 11 jurisdictions at 20% and 16 above it, cites the UK (RGD 21%, GBD 15%) and Australian POCTs (15–25%), and acknowledges Kenya's 2019–20 experience, where a 20% stake excise drove operators and punters offshore and was repealed.",
+          "Industry arithmetic (SABA, Whitesmans Attorneys, Lurie Inc/SAROGA) puts the combined rate at 26.5% of GGR before VAT and 38–40% all-in, versus Treasury's own 26–29% pre-VAT figure, and warns of migration to unlicensed offshore sites, provincial revenue erosion and job losses; a constitutional challenge is also flagged, since a national tax on a provincially licensed, provincially taxed activity must proceed as a s77 Money Bill. Finance Minister Godongwana's 21 October 2026 MTBPS confirmed consultations are ongoing on 'the tax design, its linkages to the existing regulatory framework, and the implications for provinces and the currently regulated market', with the final design to be announced in the February 2027 Budget, followed by legislation — so the earliest realistic effective date is FY2027/28 [estimate].",
+          "The commercial implication for an operator is that a pure-online model priced for an 18–19% effective GGR tax would see roughly a fifth of gross margin removed at a stroke; at Betway-type Africa EBITDA margins of ~34% the hit is survivable for scale players but would likely be passed through as lower bonuses, tighter odds and higher wagering requirements, and would trim the ~4–6% hold products hardest. Smaller licensees, which are already exiting (315 bookmakers from 349), would consolidate. The upside scenario is that Treasury lands at a lower rate (10–15%) or offsets VAT; the downside is a 20% rate plus a VAT-inclusive base. Any entry model should be stress-tested at the 38–40% all-in level and assume that provincial headline competition — the arbitrage that made WC and MP the hubs — disappears."
+        ],
+        "table": {
+          "note": "Tax regime (base = GGR unless stated), ZAR (≈USD at 16.6)",
+          "columns": [
+            "Rate / value",
+            "Base",
+            "Source / note"
+          ],
+          "rows": [
+            {
+              "label": "Current provincial taxes (Gauteng, GN 570/1997)",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Casino",
+              "indent": true,
+              "cells": [
+                "9%",
+                "GGR",
+                "Treasury Table 1"
+              ]
+            },
+            {
+              "label": "Bingo",
+              "indent": true,
+              "cells": [
+                "12%",
+                "bingo revenue",
+                "Treasury Table 1"
+              ]
+            },
+            {
+              "label": "Route operator (LPM)",
+              "indent": true,
+              "cells": [
+                "15%",
+                "GGR",
+                "Treasury Table 1"
+              ]
+            },
+            {
+              "label": "Totalisator",
+              "indent": true,
+              "cells": [
+                "9% + 8.5% SDF levy",
+                "gross revenue",
+                "Treasury Table 1"
+              ]
+            },
+            {
+              "label": "Bookmaker (sports/other)",
+              "indent": true,
+              "cells": [
+                "6.5% + 1% SDF levy",
+                "gross betting revenue",
+                "Treasury Table 1"
+              ]
+            },
+            {
+              "label": "Horse racing bets",
+              "indent": true,
+              "cells": [
+                "6% + 6%",
+                "betting transactions",
+                "Treasury Table 1"
+              ]
+            },
+            {
+              "label": "Current provincial taxes (Western Cape)",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Casino",
+              "indent": true,
+              "cells": [
+                "8% (<R14.2m) → 19% (>R71.0m)",
+                "taxable revenue (progressive)",
+                "WC Gambling & Racing Act via Treasury"
+              ]
+            },
+            {
+              "label": "LPM / Bingo",
+              "indent": true,
+              "cells": [
+                "10–20% / 10–15%",
+                "taxable revenue (progressive)",
+                "Treasury"
+              ]
+            },
+            {
+              "label": "Totalisator / Bookmaker",
+              "indent": true,
+              "cells": [
+                "6% / 3% tax + 3% levy",
+                "taxable revenue / winning bets",
+                "Treasury; industry cites 6.5% of GGR for online"
+              ]
+            },
+            {
+              "label": "Other provinces (KZN, MP, LP, NW, EC, FS, NC)",
+              "indent": true,
+              "cells": [
+                "bookmakers ~6–9%; casinos ~10–15%",
+                "GGR",
+                "Treasury averages; specific rates n/a [unverified]"
+              ]
+            },
+            {
+              "label": "National taxes",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "VAT",
+              "indent": true,
+              "cells": [
+                "15% (eff. 12–13% after input recovery)",
+                "GGR",
+                "SABA/Whitesmans"
+              ]
+            },
+            {
+              "label": "Corporate income tax",
+              "indent": true,
+              "cells": [
+                "27%",
+                "taxable profit",
+                "SARS"
+              ]
+            },
+            {
+              "label": "Player winnings",
+              "indent": true,
+              "cells": [
+                "Not taxed (recreational); taxable if habitual income",
+                "—",
+                "Treasury paper"
+              ]
+            },
+            {
+              "label": "Proposed national online gambling tax",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Rate / base",
+              "indent": true,
+              "cells": [
+                "20%",
+                "GGR of online betting + interactive gambling",
+                "Treasury discussion paper, Nov 2025"
+              ]
+            },
+            {
+              "label": "Estimated yield",
+              "indent": true,
+              "cells": [
+                ">R10bn (~$0.6bn) p.a.",
+                "at FY24/25 GGR",
+                "Treasury"
+              ]
+            },
+            {
+              "label": "Combined burden",
+              "indent": true,
+              "cells": [
+                "26–29% pre-VAT (Treasury); 38–40% all-in (industry)",
+                "GGR",
+                "vs 18–19% today"
+              ]
+            },
+            {
+              "label": "Timeline",
+              "indent": true,
+              "cells": [
+                "Comments closed Feb 2026 → MTBPS 21 Oct 2026 → design Feb 2027 Budget → Money Bill",
+                "—",
+                "earliest effect FY2027/28 [estimate]"
+              ]
+            },
+            {
+              "label": "Tax take",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Provincial taxes/levies FY24/25",
+              "indent": true,
+              "cells": [
+                "R5.81bn (~$350m), +20.1%",
+                "7.8% of GGR",
+                "NGB audited"
+              ]
+            },
+            {
+              "label": "– Betting / Casinos / LPM / Bingo",
+              "indent": true,
+              "cells": [
+                "R3.42bn / R1.72bn / R0.53bn / R0.15bn",
+                "6.6% / 10.3% / 12.7% / 8.4%",
+                "NGB audited"
+              ]
+            },
+            {
+              "label": "– By province",
+              "indent": true,
+              "cells": [
+                "WC 30.0%, GP 20.0%, MP 25.3%, KZN 12.6%",
+                "of R5.81bn",
+                "NGB audited"
+              ]
+            },
+            {
+              "label": "Provincial taxes/levies FY25/26",
+              "indent": true,
+              "cells": [
+                "R6.44bn (~$388m), +10.8%",
+                "7.6% of GGR",
+                "NGB AR 2025/26 via Citizen/Focus GN"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Current tax regime",
+            "takeaway": "Provincial gambling tax was R5.81bn (~$350m) in FY24/25 (7.8% of GGR) and R6.44bn (~$388m) in FY25/26 (7.6%).",
+            "points": [
+              "Provinces levy and keep GGR taxes; they raise only ~3% of budgets from own revenue.",
+              "Gauteng (GN 570 of 1997): casinos 9%, bingo 12%, route/LPM 15%, totalisators 9% plus 8.5% levy, bookmakers 6.5% plus 1% levy, horse-racing bets 6% plus 6%.",
+              "Western Cape: casinos 8% (below R14.2m) to 19% (above R71.0m), LPMs 10–20%, bingo 10–15%, totalisator 6%, bookmakers 3% tax plus 3% levy on winning bets.",
+              "Treasury characterises bookmakers at 6–7% (elsewhere 6–9%) and casinos 10–15%; KZN, Mpumalanga, Limpopo rates not verified [n/a].",
+              "Plus 15% VAT on GGR (effective 12–13% per SABA), 27% corporate tax and skills levy; recreational winnings untaxed. Effective rates: betting 6.6%, casinos 10.3%, LPMs 12.7%, bingo 8.4%."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Treasury proposal",
+            "takeaway": "Treasury proposes a 20% national GGR tax on online betting including interactive gambling, on top of provincial tax, worth 'over R10 billion' (~$0.6bn) a year.",
+            "points": [
+              "Discussion paper 'The case for a national online gambling tax' published Nov 2025; comments closed Feb 2026; collected by SARS using existing provincial returns.",
+              "Applies to locally based operators' interactive revenue 'to the extent' earned even though interactive gambling is illegal.",
+              "Aims: internalise social cost of problem gambling, stop provinces competing on rates, and raise roughly 1.7x the current provincial take.",
+              "Benchmarks 11 jurisdictions at 20% and 16 above; cites UK (RGD 21%, GBD 15%), Australian POCTs (15–25%), and Kenya's repealed 2019–20 20% stake excise."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Industry response and timing",
+            "takeaway": "Industry puts the combined rate at 26.5% pre-VAT and 38–40% all-in; final design due in the February 2027 Budget, earliest effect FY2027/28 [estimate].",
+            "points": [
+              "SABA, Whitesmans Attorneys, Lurie Inc/SAROGA warn of offshore migration, provincial revenue erosion and job losses; Treasury's own figure is 26–29% pre-VAT.",
+              "Constitutional challenge flagged: a national tax on a provincially licensed activity must proceed as a s77 Money Bill.",
+              "Godongwana's 21 October 2026 MTBPS confirmed consultations ongoing, with legislation to follow the Budget announcement."
+            ],
+            "quote": {
+              "text": "the tax design, its linkages to the existing regulatory framework, and the implications for provinces and the currently regulated market",
+              "speaker": "Finance Minister Godongwana"
+            }
+          },
+          {
+            "heading": "Commercial implications",
+            "takeaway": "A pure-online model priced for 18–19% effective tax would lose roughly a fifth of gross margin; stress-test entry at 38–40% all-in.",
+            "points": [
+              "At Betway-type Africa EBITDA margins of ~34% the hit is survivable for scale players but passed through as lower bonuses, tighter odds and higher wagering requirements.",
+              "~4–6% hold products trimmed hardest; smaller licensees already exiting (315 bookmakers from 349) would consolidate.",
+              "Upside: Treasury lands at 10–15% or offsets VAT; downside: 20% plus a VAT-inclusive base.",
+              "Assume provincial headline competition, the arbitrage that made WC and MP hubs, disappears."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Payments, responsible gambling, advertising & enforcement",
+        "headline": "Bank-rail payments and world-leading participation meet a 2026 tightening cycle: advertising norms, an NGB–ARB enforcement pact and an IP-blocking programme against offshore casino.",
+        "narrative": [
+          "South Africa's cashier stack is domestic bank rails rather than mobile money: instant EFT via Ozow, Capitec Pay and Stitch/SiD, Visa/Mastercard debit cards, and cash-bought vouchers (1Voucher, OTT) sold at major retail tills, with ATM and retail-counter deposits for the unbanked; secondary guides report minimum deposits of R10–R50 at the major bookmakers. Credit-card gambling is widely declined by issuers, and the exchange-control regime requires Authorised Dealers to refuse foreign-currency purchases and card payments for offshore gambling, while s16 NGA obliges banks to withhold unlawful winnings and remit them to the NGB in trust pending forfeiture — a real, if patchily enforced, deterrent to offshore play. Gambling licensees are FICA accountable institutions, so KYC at registration, source-of-funds checks and suspicious-transaction reporting to the Financial Intelligence Centre are standard, and payouts must go to a verified account in the player's name.",
+          "Participation is extreme by any benchmark: GWI's Digital 2026 report ranks South Africa first of 48 markets with 32.3% of internet users aged 16+ visiting a gambling site or app in the previous month (Ghana 21.5%, UK 19.6%, Nigeria 18%, Kenya 16%, US 10.2%) — a measure of visits, not spend. Betting is 1.6% of the CPI basket, the 12th-largest weight. Statutory protections are the NGA's minimum age of 18, the ban on extending credit, the national register of excluded persons (self- and third-party exclusion administered by the NGB), mandatory problem-gambling messaging in advertising, and the industry-funded National Responsible Gambling Foundation (NRGF): R57.4m (~$3.5m) of contributions in FY25/26, 1.26m helpline contacts (mostly operational queries), 83,541 counselling-line calls, 5,443 treatment-related and 3,541 people treated. Survey reporting through 2026 (Yazi, stokvel studies) and parliamentary questions on gambling-linked suicide risk have made harm the dominant political frame.",
+          "Advertising is where the rules are moving fastest. Section 15 NGA and the 2004 regulations already prohibit targeting minors, false claims and ads without the responsible-gambling warning; in February 2026 the dtic told Parliament it would publish 'norms and standards' on gambling advertising together with advertising regulations before July 2026 [publication not verified as of 11 Nov 2026]; the Advertising Regulatory Board consulted on amendments to its Gambling Code (comments due 28 Feb 2026); and in September 2026 the NGB and ARB formalised a memorandum of understanding to jointly monitor and act on gambling advertising, with a betting operator publicly apologising in October 2026 after a promotion reached a preschool. Expect restrictions on timing, media, bonus advertising and sports-sponsorship visibility in the next 12 months rather than a UK-style whistle-to-whistle ban [view].",
+          "Enforcement is now a stated government priority. The NGB chairs an Illegal Gambling Task Team with SAPS and provincial boards, has run joint raids on illegal machines, and on 30 June 2026 issued an Expression of Interest (deadline extended to 4 September 2026) for a specialist provider to identify, monitor and block illegal gambling websites targeting South Africans, with evidence shared for prosecution under the NGA; government ministers 'declared war' on illegal online gambling in July 2026, citing estimates that unlicensed sites drain more than R50bn (~$3bn) a year from the economy — a figure whose basis is unverified and which should be read as advocacy, not measurement. For an operator the practical consequences are that offshore-licensed casino brands face rising payment and DNS friction, that licensed operators' compliance (ad content, affiliate marketing, KYC, exclusion-list checks) will be audited more actively by both the ARB and PLAs, and that the political reward for being demonstrably 'licensed and responsible' is rising just as the tax cost of that status rises too."
+        ],
+        "table": {
+          "note": "Payments, player protection, advertising & enforcement — key data points",
+          "columns": [
+            "Metric / rule",
+            "Value",
+            "Source"
+          ],
+          "rows": [
+            {
+              "label": "Payments",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Dominant deposit rails",
+              "cells": [
+                "Instant EFT (Ozow, Capitec Pay, Stitch/SiD); debit cards; vouchers (1Voucher, OTT); retail/ATM cash",
+                "Secondary (industry guides)"
+              ]
+            },
+            {
+              "label": "Minimum deposits (major bookmakers)",
+              "cells": [
+                "R10–R50 (~$0.6–3.0) [secondary]",
+                "Industry guides"
+              ]
+            },
+            {
+              "label": "Offshore gambling payments",
+              "cells": [
+                "Forex/card purchases for offshore gambling prohibited; winnings withheld under s16 NGA",
+                "Treasury paper; NGA"
+              ]
+            },
+            {
+              "label": "AML/KYC",
+              "cells": [
+                "Gambling licensees are FICA accountable institutions",
+                "FIC Act"
+              ]
+            },
+            {
+              "label": "Participation & harm",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Monthly online gambling participation (internet users 16+)",
+              "cells": [
+                "32.3% — #1 of 48 markets (UK 19.6%, US 10.2%)",
+                "GWI Digital 2026 via Focus GN"
+              ]
+            },
+            {
+              "label": "Gambling weight in CPI basket",
+              "cells": [
+                "1.6% (12th largest)",
+                "Treasury / StatsSA"
+              ]
+            },
+            {
+              "label": "NRGF industry contributions FY25/26",
+              "cells": [
+                "R57.4m (~$3.5m)",
+                "NGB AR 2025/26 via Citizen"
+              ]
+            },
+            {
+              "label": "NRGF counselling-line calls / treatment-related / treated",
+              "cells": [
+                "83,541 / 5,443 / 3,541 (1.26m total helpline contacts)",
+                "NGB AR 2025/26 via Citizen"
+              ]
+            },
+            {
+              "label": "Minimum age / credit",
+              "cells": [
+                "18; credit betting prohibited",
+                "NGA"
+              ]
+            },
+            {
+              "label": "Self-exclusion",
+              "cells": [
+                "National register of excluded persons (NGB)",
+                "NGA s14"
+              ]
+            },
+            {
+              "label": "Advertising",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "dtic advertising norms & standards + regulations",
+              "cells": [
+                "Promised 'before July 2026' [publication unverified]",
+                "BusinessDay/Sunday Times, 19–20 Feb 2026"
+              ]
+            },
+            {
+              "label": "ARB Gambling Code amendments",
+              "cells": [
+                "Consultation closed 28 Feb 2026",
+                "Werksmans, 19 Feb 2026"
+              ]
+            },
+            {
+              "label": "NGB–ARB MoU on advertising enforcement",
+              "cells": [
+                "Signed Sept 2026",
+                "Adams & Adams, 29 Sep 2026"
+              ]
+            },
+            {
+              "label": "Enforcement",
+              "kind": "group",
+              "cells": [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "NGB illegal-website monitoring/blocking EOI",
+              "cells": [
+                "Issued 30 Jun 2026; deadline extended to 4 Sep 2026",
+                "NGB EOI via iGB/Sigma"
+              ]
+            },
+            {
+              "label": "Illegal online gambling 'drain' estimate",
+              "cells": [
+                ">R50bn (~$3bn) p.a. [basis unverified]",
+                "ITWeb / CNBC Africa"
+              ]
+            },
+            {
+              "label": "Illegal Gambling Task Team",
+              "cells": [
+                "NGB + SAPS + LP/MP/NW boards; joint raids",
+                "NGB news"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Payments",
+            "takeaway": "The cashier stack is domestic bank rails and retail vouchers, with exchange control and s16 NGA deterring offshore play.",
+            "points": [
+              "Instant EFT via Ozow, Capitec Pay and Stitch/SiD, Visa/Mastercard debit, 1Voucher and OTT vouchers, ATM and retail-counter deposits; minimum deposits R10–R50 per secondary guides.",
+              "Credit-card gambling widely declined; Authorised Dealers must refuse foreign-currency and card payments for offshore gambling.",
+              "s16 NGA obliges banks to withhold unlawful winnings and remit to the NGB in trust, a real if patchily enforced deterrent.",
+              "Licensees are FICA accountable institutions: KYC, source-of-funds checks, FIC reporting, payouts only to verified accounts in the player's name."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Participation and harm",
+            "takeaway": "South Africa ranks first of 48 markets with 32.3% of internet users aged 16+ visiting a gambling site monthly (GWI Digital 2026).",
+            "points": [
+              "Comparators: Ghana 21.5%, UK 19.6%, Nigeria 18%, Kenya 16%, US 10.2%; a measure of visits, not spend. Betting is 1.6% of the CPI basket, 12th-largest weight.",
+              "Protections: minimum age 18, credit ban, national excluded-persons register, mandatory problem-gambling messaging.",
+              "NRGF received R57.4m (~$3.5m) in FY25/26: 1.26m helpline contacts, 83,541 counselling calls, 5,443 treatment-related, 3,541 treated.",
+              "Survey reporting (Yazi, stokvel studies) and parliamentary questions on gambling-linked suicide risk have made harm the dominant political frame."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Advertising",
+            "takeaway": "Advertising rules are moving fastest; expect restrictions on timing, media, bonuses and sponsorship within 12 months rather than a whistle-to-whistle ban [view].",
+            "points": [
+              "Section 15 NGA and 2004 regulations already prohibit targeting minors, false claims and ads without responsible-gambling warnings.",
+              "dtic told Parliament in February 2026 it would publish 'norms and standards' and regulations before July 2026 [publication not verified as of 11 Nov 2026].",
+              "ARB consulted on Gambling Code amendments (comments due 28 Feb 2026); NGB–ARB memorandum of understanding formalised September 2026.",
+              "A betting operator publicly apologised in October 2026 after a promotion reached a preschool."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Enforcement",
+            "takeaway": "Enforcement is a stated government priority, including an NGB programme to identify, monitor and block illegal gambling websites.",
+            "points": [
+              "NGB chairs an Illegal Gambling Task Team with SAPS and provincial boards and has run joint raids on illegal machines.",
+              "Expression of Interest issued 30 June 2026 (deadline extended to 4 September 2026) for a specialist website-blocking provider, with evidence for prosecution under the NGA.",
+              "Ministers 'declared war' on illegal online gambling in July 2026, citing unlicensed sites draining over R50bn (~$3bn) a year; basis unverified, read as advocacy.",
+              "Offshore casino brands face rising payment and DNS friction; licensed operators' compliance will be audited more actively by ARB and PLAs as the political reward for being 'licensed and responsible' rises alongside tax cost."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Scale and momentum: R84.5bn (~$5.1bn) GGR growing 13% even after a 26% year, with ~60%+ online — the largest regulated online betting pool in Africa and one of the deepest per-capita anywhere (32.3% monthly participation).",
+        "tag": "structural"
+      },
+      {
+        "text": "Lawful national-reach online betting under a single provincial bookmaker licence, with unlimited licence supply in WC/MP/LP/EC/FS and a permissive 'fixed-odds' content envelope (numbers, virtuals, live games) that monetises like casino at 6.5% provincial tax.",
+        "tag": "structural"
+      },
+      {
+        "text": "Mature payments and identity rails: instant EFT, Capitec Pay, vouchers and FICA-grade KYC let an operator reach banked and unbanked customers at R10–R50 tickets without mobile-money dependency or operator-borne wallet float.",
+        "tag": "structural"
+      },
+      {
+        "text": "Land-based decline (casino −4.1%, bingo −8.6%) is pushing incumbent casino groups toward online partnerships and selling retail-acquisition capacity cheaply — a route to licences, B-BBEE-compliant local structures and low-CAC distribution.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Consolidation among bookmakers (349 → 315 operational) and a coming tax/advertising squeeze favour scaled, well-capitalised entrants able to acquire sub-scale licensees rather than build greenfield.",
+        "tag": "early"
+      },
+      {
+        "text": "Enforcement against offshore casino (IP blocking, bank withholding of winnings, ARB–NGB pact) raises the value of a licensed position: the >R50bn (~$3bn) 'illegal' pool, whatever its true size, is addressable only by licensees.",
+        "tag": "watch"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Treasury's proposed 20% national tax on online GGR would lift the all-in burden from ~18–19% to 38–40%; final design in the Feb 2027 Budget, likely effective FY2027/28 [estimate]. Promo-led growth and 4–6% hold products are most exposed.",
+        "tag": "structural"
+      },
+      {
+        "text": "Interactive casino remains illegal (NGA s11; 2008 Act unproclaimed; B27-2018 and B11-2024 stalled): the casino-style 'fixed-odds' content underpinning WC/MP revenue sits in a grey zone that a national regulator or SARS could re-characterise.",
+        "tag": "governance"
+      },
+      {
+        "text": "Advertising restrictions (dtic norms and standards, ARB Gambling Code, NGB–ARB MoU) are arriving in a harm-dominated political climate; expect limits on bonus advertising, timing and sports visibility that raise CAC for new brands.",
+        "tag": "structural"
+      },
+      {
+        "text": "Growth is decelerating (GGR +25.6% → +13.4%; turnover +30.7% → ~+17%) and the NRGF/survey evidence of harm (5,443 treatment-related calls; stokvel and grocery-money studies) gives regulators cover for stake, deposit or product limits.",
+        "tag": "watch"
+      },
+      {
+        "text": "Provincial fragmentation: nine regulators, differing tax bases (GP 6.5%+1%; WC 3%+3% on winning bets), caps on bookmaker licences in GP/KZN/NC and unverified licence fees; Treasury explicitly intends to end inter-provincial rate competition.",
+        "tag": "governance"
+      },
+      {
+        "text": "Data quality: Gauteng's FY25/26 numbers are provisional; three provinces do not split online/retail; the NGB's own text contradicts its tables on outlet counts and casino shares — model on audited FY24/25 figures and treat FY25/26 as indicative.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Macro and FX: a rand at ~16.6/USD, 15% VAT and weak consumer incomes mean USD-reported returns are volatile and the political optics of R1.76tn 'wagered' (turnover, not spend — as SARB itself cautioned) keep the sector a fiscal target.",
+        "tag": "mixed"
+      }
+    ],
+    "forecast": {
+      "intro": "The regulatory 'bridge' from the audited FY2024/25 base to today runs through four moving parts. The NGB's 2025/26 Annual Report (tabled Oct 2026) lifts the market from R74.5bn (~$4.49bn) to R84.46bn (~$5.09bn) GGR and provincial taxes from R5.81bn to R6.44bn (~$388m), with growth slowing from 26% to 13% and still entirely online-betting-led. Against that base, National Treasury's 20% national tax on online and interactive GGR (worth >R10bn/~$0.6bn) moved from discussion paper (Nov 2025) through consultation (closed Feb 2026) to a confirmed design announcement in the February 2027 Budget (MTBPS, 21 Oct 2026). In parallel the dtic promised advertising norms and standards (by Jul 2026; publication unverified), the NGB tendered for site-blocking (EOI Jun–Sep 2026) and signed an enforcement MoU with the ARB (Sep 2026), while the structural fix — a national interactive-gambling licence via the 2018 Amendment Bill or a remote-gambling bill — has not advanced.",
+      "bridge": [
+        {
+          "title": "GGR FY2024/25 (audited)",
+          "value": "R74.5bn (~$4.49bn)",
+          "change": "+25.6% YoY"
+        },
+        {
+          "title": "GGR FY2025/26 (NGB AR; Gauteng provisional)",
+          "value": "R84.46bn (~$5.09bn)",
+          "change": "+13.4% YoY"
+        },
+        {
+          "title": "Proposed national online gambling tax",
+          "value": "20% of online GGR; >R10bn (~$0.6bn) p.a.",
+          "change": "Design: Feb 2027 Budget → Money Bill"
+        },
+        {
+          "title": "All-in tax on online GGR",
+          "value": "18–19% today → 38–40% if enacted",
+          "change": "+20pp"
+        }
+      ],
+      "view": "Our base case is that **the market reaches ~R92–95bn (~$5.5–5.7bn) GGR in FY2026/27 (+9–12%) [estimate]**, with betting passing 72% of GGR and online passing 65%, as sports-betting growth normalises toward the mid-teens and land-based drifts 2–4% lower; **provincial tax take rises to ~R7.0bn (~$420m) [estimate]**. On tax, we expect Treasury to **confirm a national online GGR tax in February 2027 but at a rate and base softened from the paper — most likely 10–15% with transitional relief or VAT interaction addressed — effective no earlier than FY2027/28 [view]**; a straight 20% on top of VAT would, on Treasury's own Kenya analysis, push volume offshore and cut the provincial base it needs. The legislative response (B27-2018 or a successor) is more likely to be reshaped around the tax than to legalise interactive casino within two years. **Advertising rules will tighten first** (bonus/inducement advertising, time-of-day, sports kit), raising CAC and favouring brands with retail estates. Operator margins in the online segment, currently supported by ~34% regional EBITDA margins at the leader, should compress by roughly 10–15 points under a 20% scenario and 5–8 points under a 10–15% scenario [estimate], driving further consolidation among the 315 licensed bookmakers. Leverage in the sector is low and self-funded; the risk is regulatory, not balance-sheet. Swing factors: the February 2027 rate; whether SARS or the provinces administer it; the published scope of 'interactive' revenue; the dtic advertising regulations; and the NGB blocking programme's effectiveness against offshore casino.",
+      "watch": [
+        "February 2027 Budget: headline rate, base (online betting only vs all 'interactive'), VAT treatment, revenue-sharing with provinces and effective date of the national online gambling tax.",
+        "Publication of dtic gambling-advertising norms and standards and regulations (promised before July 2026) and the first ARB/NGB joint rulings under the Sept 2026 MoU — scope for bonus and sports-sponsorship limits.",
+        "NCOP progress on the National Gambling Amendment Bill (B27-2018) and any revived remote-gambling bill; whether a National Gambling Regulator assumes licensing of online activity.",
+        "NGB appointment of the illegal-website monitoring/blocking provider (EOI closed 4 Sep 2026) and first blocking orders; bank-side enforcement of s16 withholding.",
+        "NGB FY2025/26 audited statistics (due ~Oct 2026/early 2027) and Q1–Q2 FY2026/27 quarterlies: online share by province, bookmaker count, and whether Gauteng's provisional numbers are revised.",
+        "Provincial responses: Western Cape and Mpumalanga rate or licence-condition changes to defend their R19–21bn betting bases; any province moving to disaggregate online data or to cap bookmaker licences.",
+        "Operator signals: Super Group Africa margins and Hollywoodbets/Sun International disclosures on promo intensity, retail footprint and any M&A among sub-scale licensees."
+      ]
+    },
+    "confidence": "MEDIUM",
+    "confidenceNote": "FX: USD/ZAR ~16.6 applied to all conversions (rate implied by Focus Gaming News conversions published 3 Nov 2026; an exact 11 Nov 2026 spot could not be looked up after my web-tool budget was exhausted — treat USD figures as approximate, prefixed ~). FY2024/25 figures are NGB audited statistics (HIGH confidence). FY2025/26 figures (GGR R84.46bn, taxes R6.44bn, turnover ~R1.76tn, employment, NRGF data) come from the NGB Annual Report 2025/26 tabled Oct 2026 but were relayed via The Citizen (30 Oct 2026) and Focus Gaming News (3 Nov 2026); the PDF at pmg.org.za was located but not opened, and Gauteng's contribution is provisional/unaudited (MEDIUM). SARB March 2026 Quarterly Bulletin figures (online betting R44bn vs R29bn; 85.5% of betting revenue) were taken from search excerpts, not the full document (MEDIUM). Not verified: provincial licence application/annual fees (n/a); KZN/MP/LP tax rates; whether the dtic advertising norms and standards were published by July 2026; operator market shares (NGB publishes none); the >R50bn illegal-gambling estimate; the exact tabling date of the NGB AR. NGB internal inconsistencies noted: bookmaker outlets (text 594 vs table 553) and casino provincial shares (text 'Mpumalanga 41%' vs audited table KZN 21%) — audited tables used.",
+    "sources": [
+      {
+        "label": "NGB — National Gambling Statistics FY2024/25 (audited), 2 Oct 2025 [read in full]",
+        "kind": "primary",
+        "url": "https://www.ngb.org.za/wp-content/uploads/2025/10/National-Gambling-Statistics-Financial-Year-Ending-31-March-2025-02-October-2025.pdf"
+      },
+      {
+        "label": "NGB — Gambling Sector Performance in South Africa FY2024/25 Summary Report (Apr 2026) [read in full]",
+        "kind": "primary",
+        "url": "https://www.ngb.org.za/wp-content/uploads/2026/04/Summary-Gambling-Sector-Performance-FY2024-25.pdf"
+      },
+      {
+        "label": "NGB — Annual Report 2025/26 (tabled Oct 2026; PMG copy) [located, not opened; figures via Citizen/Focus GN]",
+        "kind": "primary",
+        "url": "https://pmg.org.za/files/13._NGB_Annual_Report_2026_FINAL.pdf"
+      },
+      {
+        "label": "National Treasury — Discussion Paper: The case for a national online gambling tax (Nov 2025) [read in full]",
+        "kind": "primary",
+        "url": "https://www.treasury.gov.za/comm_media/press/2025/Discussion%20Paper%20-%20National%20Gambling%20Tax.pdf"
+      },
+      {
+        "label": "SA Government News Agency — Government proposes 20% online gambling tax (Nov 2025)",
+        "kind": "primary",
+        "url": "https://www.sanews.gov.za/south-africa/government-proposes-20-online-gambling-tax"
+      },
+      {
+        "label": "SARB — Quarterly Bulletin March 2026, Quarterly Economic Review (gambling box) [excerpt only]",
+        "kind": "primary",
+        "url": "https://resbank.co.za/content/dam/sarb/publications/quarterly-bulletins/quarterly-bulletin-publications/2026/march/2%20Quarterly%20Economic%20Review.pdf"
+      },
+      {
+        "label": "NGB — National Statistics index page",
+        "kind": "primary",
+        "url": "https://www.ngb.org.za/industry-performance/national-statistics/"
+      },
+      {
+        "label": "PMG — Annual Reports 2025/26 index (dtic entities)",
+        "kind": "primary",
+        "url": "https://pmg.org.za/page/Annual%20Reports%202025/26"
+      },
+      {
+        "label": "PMG — National Gambling Amendment Bill: update on parliamentary process (NCOP) [excerpt]",
+        "kind": "primary",
+        "url": "https://pmg.org.za/committee-meeting/42194/"
+      },
+      {
+        "label": "Gauteng Gambling Board — Annual Report 2024/25 [excerpt]",
+        "kind": "primary",
+        "url": "https://www.ggb.org.za/wp-content/uploads/2026/02/GGB_Annual_Report_Final_web.pdf"
+      },
+      {
+        "label": "Focus Gaming News — South Africa tops GWI online gambling participation ranking (27 Oct 2026) [lead article, read]",
+        "kind": "secondary",
+        "url": "https://focusgn.com/africa/online-gambling-participation-ranking-africa-gwi"
+      },
+      {
+        "label": "ITWeb — Online gambling tax still in consultation phase (MTBPS, 21 Oct 2026) [read]",
+        "kind": "secondary",
+        "url": "https://www.itweb.co.za/article/online-gambling-tax-still-in-consultation-phase/Pero3MZ3VGnqQb6m"
+      },
+      {
+        "label": "The Citizen — New gambling figures put Treasury's proposed 20% tax under scrutiny (30 Oct 2026) [read]",
+        "kind": "secondary",
+        "url": "https://www.citizen.co.za/business/new-gambling-figures-put-national-treasurys-proposed-20-tax-under-scrutiny/"
+      },
+      {
+        "label": "Focus Gaming News — Proposed gambling tax could push operator burden to 40% (3 Nov 2026) [read]",
+        "kind": "secondary",
+        "url": "https://focusgn.com/africa/south-africa-online-gambling-tax-2"
+      },
+      {
+        "label": "BusinessDay — Government declares war on illegal online gambling (6 Jul 2026) [excerpt]",
+        "kind": "secondary",
+        "url": "https://www.businessday.co.za/news/2026-07-06-government-declares-war-on-illegal-online-gambling/"
+      },
+      {
+        "label": "iGaming Business — NGB advances illegal-website blocking plan; EOI deadline 4 Sep 2026 [excerpt]",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/legal-compliance/south-africa-ngb-blocking-plan-advances-eoi-deadline-approaches/"
+      },
+      {
+        "label": "ITWeb — Offshore online gambling drains over R50bn from SA (1 Apr 2026) [excerpt]",
+        "kind": "secondary",
+        "url": "https://www.itweb.co.za/article/offshore-online-gambling-drains-over-r50bn-from-sa/mYZRXM9g3ExvOgA8"
+      },
+      {
+        "label": "BusinessDay — Reserve Bank says online betting surge not denting household spending (7 Apr 2026) [excerpt]",
+        "kind": "secondary",
+        "url": "https://www.businessday.co.za/news/2026-04-07-reserve-bank-says-online-betting-surge-not-denting-household-spending/"
+      },
+      {
+        "label": "BusinessDay — Govt readying advertising rules; norms and standards expected by July 2026 (19 Feb 2026) [excerpt]",
+        "kind": "secondary",
+        "url": "https://www.businessday.co.za/news/2026-02-19-new-gambling-advertising-rules-expected-by-july/"
+      },
+      {
+        "label": "Werksmans — ARB proposed Gambling Code amendments, comments due 28 Feb 2026 [excerpt]",
+        "kind": "secondary",
+        "url": "https://werksmans.com/advertising-regulatory-board-ups-the-ante-on-responsible-gambling-advertising/"
+      },
+      {
+        "label": "Adams & Adams — Gambling advertising crackdown; NGB–ARB alliance (29 Sep 2026) [excerpt]",
+        "kind": "secondary",
+        "url": "https://www.adams.africa/intellectual-property/trade-marks/regulatory-law/gambling-advertising-crackdown-signals-heightened-compliance-risk/"
+      },
+      {
+        "label": "South African Bookmakers' Association — Media statement on Treasury discussion paper [excerpt]",
+        "kind": "secondary",
+        "url": "https://www.bookies.co.za/media-statement-national-treasury-discussion-paper-on-the-case-for-a-national-online-gambling-tax/"
+      },
+      {
+        "label": "BusinessDay — Bookmakers face 39% effective tax, fear job losses (2 Mar 2026) [excerpt]",
+        "kind": "secondary",
+        "url": "https://www.businessday.co.za/companies/2026-03-02-bookmakers-face-39-effective-tax-fear-job-losses/"
+      },
+      {
+        "label": "CMS — The Remote Gambling Bill and the legalisation of online gambling in South Africa [excerpt]",
+        "kind": "secondary",
+        "url": "https://cms.law/en/zaf/legal-updates/the-remote-gambling-bill-and-the-legalisation-of-online-gambling-in-south-africa"
+      },
+      {
+        "label": "SBC News / Motley Fool — Super Group Q3 2026 results (Africa revenue $262m, +17%) [excerpt]",
+        "kind": "secondary",
+        "url": "https://sbcnews.co.uk/sportsbook/2026/11/04/super-group-q3-results/"
+      },
+      {
+        "label": "Industry payment guides (Ozow/Capitec Pay/vouchers; minimum deposits) — e.g. casinopayment.co.za [excerpt; low weight]",
+        "kind": "secondary",
+        "url": "https://casinopayment.co.za/payments/"
+      }
+    ],
+    "docType": "regulator"
+  }
+}

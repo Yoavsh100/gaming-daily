@@ -3233,16 +3233,62 @@
   },
   {
     "key": "juris|united states|Q3 2026",
-    "attempts": 1,
-    "lastAttempt": "2026-11-10T20:17:28.544Z",
-    "status": "failed",
-    "error": "Cannot read properties of undefined (reading 'join')",
+    "attempts": 2,
+    "lastAttempt": "2026-11-11T19:54:57.049Z",
+    "status": "done",
+    "error": null,
     "type": "jurisdiction",
     "company": {
       "name": "United States",
-      "ticker": ""
+      "ticker": "",
+      "exchange": ""
     },
-    "period": "Q3 2026"
+    "period": "Q3 2026",
+    "slug": "UNITED-STATES-Q3-2026",
+    "published": "2026-11-11",
+    "verdict": "Q3 2026 is the quarter the regulated US online market stopped being a growth story and became a share-and-margin story: iGaming growth slowed to a record-low 12% YoY (Citizens; ~13-14% on summed state monthlies) with no new states since Rhode Island, and sportsbook handle was flat-to-down outside the June–July World Cup window while CFTC-regulated prediction markets printed >$82bn of September volume paying zero state gaming tax. For an entrant the addressable regulated pool is large (~$6.5–6.8bn/month commercial GGR, ~$1.0bn/month iGaming) but closed-access, high-tax, top-two dominated and now contested by an untaxed federal channel.",
+    "kpis": [
+      {
+        "label": "US iGaming GGR, Q3-26 (7 states, sum of monthlies)",
+        "value": "~$3.06bn",
+        "delta": "+~13.6% est. (Citizens: +12%, lowest on record vs 16% in Q1/Q2)",
+        "dir": "up"
+      },
+      {
+        "label": "Sports betting GGR, Aug-26 (AGA)",
+        "value": "$1.00bn",
+        "delta": "-15.6% YoY; hold 9.2% vs 10.8%",
+        "dir": "down"
+      },
+      {
+        "label": "Sports betting handle, Jul-26 (AGA)",
+        "value": "$11.60bn",
+        "delta": "+31.9% YoY (World Cup); Aug $10.89bn -0.7%",
+        "dir": "up"
+      },
+      {
+        "label": "Total commercial GGR, Aug-26 (AGA)",
+        "value": "$6.48bn",
+        "delta": "-0.6% YoY (Jul ~$6.76bn, +8.6%)",
+        "dir": "down"
+      },
+      {
+        "label": "Direct state/local gaming tax, Aug-26 (AGA)",
+        "value": "$1.46bn",
+        "delta": "-1.5% YoY; sports tax receipts -14%",
+        "dir": "down"
+      },
+      {
+        "label": "Prediction-market volume, Sep-26 (Stifel)",
+        "value": ">$82bn",
+        "delta": "$76.7bn on CFTC-regulated exchanges, +64% MoM",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "27 Oct 2026 (Citizens Q3-26 share data via NEXT.io); AGA Aug-26 tracker 22 Oct 2026; state Sep-26 regulator reports through 2 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.06
   },
   {
     "key": "juris|alberta|FIRST THREE MONTHS OF REGULATED MARKET",
@@ -3302,5 +3348,123 @@
     "releaseDate": "23 Oct 2026",
     "model": "claude-fable-5-1",
     "costUsd": 3.43
+  },
+  {
+    "key": "juris|macau|9M 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-11T20:15:59.141Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "MACAU-9M-2026",
+    "published": "2026-11-11",
+    "company": {
+      "name": "Macau",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "9M 2026",
+    "verdict": "Macau's 9M-2026 casino GGR of MOP187.12bn (~$23.19bn, +3.2% YoY) flatters a market that has rolled over: four straight monthly year-on-year declines through September (five through October), a Q3 of MOP60.22bn (~$7.46bn, -3.8%) driven by a 7.9% fall in mass/premium-mass baccarat, and GGR per visitor down ~5% even as arrivals rose 8.5%. The regime is stable but closed — six concessions locked to 31 Dec 2032, a 40% effective levy on GGR, zero licensed online — so for B2Tech the only realistic exposure is B2B supply into the one product line still growing, slots (+~19% YoY).",
+    "kpis": [
+      {
+        "label": "9M-26 casino GGR (DICJ)",
+        "value": "MOP187.12bn (~$23.19bn)",
+        "delta": "+3.2% YoY; 10M +1.6%",
+        "dir": "up"
+      },
+      {
+        "label": "Q3-26 casino GGR",
+        "value": "MOP60.22bn (~$7.46bn)",
+        "delta": "-3.8% YoY, -1.3% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "9M-26 gaming tax receipts (DSF)",
+        "value": "MOP74.56bn (~$9.24bn)",
+        "delta": "+5.9% YoY; 80.6% of FY budget",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 visitor arrivals (DSEC)",
+        "value": "32.18m",
+        "delta": "+8.5% YoY; Sept +15.9%",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 GGR per visitor (calc.)",
+        "value": "~MOP5,815 (~$721)",
+        "delta": "~-4.9% YoY; Sept ~-15%",
+        "dir": "down"
+      },
+      {
+        "label": "9M-26 slot-machine GGR (calc. from DICJ quarterlies)",
+        "value": "MOP12.18bn (~$1.51bn)",
+        "delta": "~+19% YoY; share 6.8% in Q3",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "1 Oct 2026 (DICJ Sept/9M GGR); 17 Oct 2026 (DICJ Q3 by game); 26 Oct 2026 (DSEC 9M arrivals); 12 Oct 2026 (DSF 9M gaming tax)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.26
+  },
+  {
+    "key": "juris|south africa|2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-11T20:33:34.330Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "SOUTH-AFRICA-2026",
+    "published": "2026-11-11",
+    "company": {
+      "name": "South Africa",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "2026",
+    "verdict": "South Africa is now a R84.5bn (~$5.1bn) GGR market whose growth is entirely online bookmaking: betting is 70% of GGR, ~86% of it online, and the land-based estate is shrinking. The rules are moving against the online channel — a proposed 20% national tax on online GGR (decision Feb 2027), new advertising norms, and an NGB site-blocking programme — while interactive casino remains illegal and licensing stays provincial. For B2Tech the prize is real but the licence-to-tax arbitrage that built the market is closing.",
+    "kpis": [
+      {
+        "label": "GGR FY2025/26 (NGB AR, Gauteng provisional)",
+        "value": "R84.46bn (~$5.09bn)",
+        "delta": "+13.4% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "GGR FY2024/25 (audited)",
+        "value": "R74.50bn (~$4.49bn)",
+        "delta": "+25.6% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Betting share of GGR FY24/25",
+        "value": "69.8% (R51.97bn / ~$3.13bn)",
+        "delta": "+9.3pp YoY; betting GGR +44.7%",
+        "dir": "up"
+      },
+      {
+        "label": "Online share of all GGR (NGB est.)",
+        "value": "60% (online betting R44.46bn / ~$2.68bn)",
+        "delta": "from ~49% (SARB: R29bn online in FY23/24)",
+        "dir": "up"
+      },
+      {
+        "label": "Provincial taxes/levies FY25/26",
+        "value": "R6.44bn (~$388m)",
+        "delta": "+10.8% YoY; 7.6% of GGR",
+        "dir": "up"
+      },
+      {
+        "label": "Proposed national online tax",
+        "value": "20% of online GGR (+~R10bn / ~$0.6bn)",
+        "delta": "Final design: Feb 2027 Budget",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "Oct 2026 (NGB Annual Report 2025/26 tabled; MTBPS 21 Oct 2026; audited FY2024/25 statistics published 2 Oct 2025 / Apr 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.51
   }
 ]

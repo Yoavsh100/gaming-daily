@@ -1,0 +1,318 @@
+# United States () — Q3 2026 Analyst Report
+** · Reporting currency: USD (tables in US$ millions unless stated; market reports natively in USD — no FX conversion required) · Results released 27 Oct 2026 (Citizens Q3-26 share data via NEXT.io); AGA Aug-26 tracker 22 Oct 2026; state Sep-26 regulator reports through 2 Nov 2026**
+
+> Q3 2026 is the quarter the regulated US online market stopped being a growth story and became a share-and-margin story: iGaming growth slowed to a record-low 12% YoY (Citizens; ~13-14% on summed state monthlies) with no new states since Rhode Island, and sportsbook handle was flat-to-down outside the June–July World Cup window while CFTC-regulated prediction markets printed >$82bn of September volume paying zero state gaming tax. For an entrant the addressable regulated pool is large (~$6.5–6.8bn/month commercial GGR, ~$1.0bn/month iGaming) but closed-access, high-tax, top-two dominated and now contested by an untaxed federal channel.
+
+## 1. Executive Summary
+
+- **Market size is a $78.6bn regulated commercial pool.** AGA State of the States 2026 puts FY2025 commercial gaming GGR (land-based casino + sports betting + iGaming; excludes tribal and lottery) at $78.62bn, +9.1% YoY, with direct state/local gaming taxes of $17.86bn (+12.3%). AGA's February 2026 preliminary release quoted $78.7bn / $18.1bn — we use the May State of the States figures and note the gap. Record revenue in 34 states + DC; all but one of 38 commercial jurisdictions (Mississippi, marginally down) grew.
+- **Q3-26 run-rate: growth has stalled at group level.** July commercial GGR was ~$6.76bn (implied; AGA +8.6%, World Cup-driven) but August fell 0.6% to $6.48bn — the first monthly decline in the dataset we reviewed. Jul+Aug combined ≈ $13.24bn, +3.9% (derived). AGA's September/Q3 tracker was not yet published at 11 Nov 2026 — September totals below are compiled from state regulator releases.
+- **iGaming is the growth engine but is decelerating fast.** Seven-state online casino GGR was $1.01bn in July (+15.7%), $1.03bn in August (+12.3%) and $1.02bn in September (+12.9%), i.e. ~$3.06bn for Q3-26 (+~13.6% on summed monthlies; Citizens' operator-level dataset shows +12%, the weakest quarter on record after 16% in Q1 and Q2). 9M-26 iGaming GGR is $9.09bn. AGA explicitly attributes the slowdown to 'natural maturation with no new markets coming online'. FY2025 iGaming grew 27.6%.
+- **Sports betting: event-driven handle, structurally flat underneath.** July GGR $1.27bn (+27.0%) on $11.60bn handle (+31.9%) was a World Cup effect; August GGR dropped 15.6% to $1.00bn on handle of $10.89bn (-0.7%) as hold fell to 9.2% from 10.8%. September handle across 15 reporting states was ~$11.11bn (-0.3% est.); Stifel's 13-state cut shows +4% despite one fewer NFL week. AGA notes that outside June–July, monthly handle has declined YoY every month since December 2025.
+- **Online is ~one-third of commercial GGR.** Combining iGaming and online sports betting, online was ~31–33% of commercial GGR in Jul–Aug 2026 (our estimate), consistent with the 32.8% record share AGA reported for Q1-25. Land-based slots+tables remain the bulk at $4.48bn (+3.1%) in July and $4.44bn (+0.9%) in August.
+- **Two operators control ~70% of sports GGR; shares are stable, margins diverge.** Citizens Q3-26: DraftKings 37.6% handle / 35.4% GGR share (from 37.3% / 34.9%); FanDuel 32.8% / 35.4% (from 31.4% / 37.7%) — FanDuel's GGR share fell despite higher handle because its gross margin (10.4%) narrowed versus DraftKings (9.5%). Fanatics is a distant #3 at 9.9% handle / 8.8% GGR. Market GGR margin was 9.6%, flat YoY.
+- **iGaming leadership is fragmenting.** FanDuel still leads at 25.1% (from 26.6%, falling every quarter of 2026); DraftKings 22.2% (from 24.3%, but up from 20.9% in Q2 — first sequential gain in two years); BetMGM 18.6% (from 20.7%, sixth straight decline); Rush Street 7.4% (6.8%); Caesars 6.4% (7.1%); Fanatics 5.2% (3.9%); bet365 1.7% (0.4%) after Michigan and West Virginia launches. The top-three share fell from 71.6% to 65.9% in a year.
+- **Prediction markets are the structural wildcard.** Stifel estimates >$82bn of September 2026 trading volume, $76.7bn on CFTC-regulated exchanges (+64% MoM), with a sportsbook-comparable 'taker-only' volume of ~$17.7bn — larger than any single state's monthly handle. The CFTC treats sports event contracts as derivatives available in all 50 states (including Texas and California, which lack legal OSB); Kalshi holds ~60% of volume, much of it via Robinhood. AGA estimates $1.56bn of state gaming taxes displaced since early 2025.
+- **Tax take is now flat-to-down at the margin.** Direct gaming taxes were $1.42bn in July (+7.7%) and $1.46bn in August (-1.5%); August sports-betting tax receipts fell 14%. FY2025 was $17.86bn. State appetite for rate rises is therefore rising just as the regulated base softens.
+- **Tax regime: GGR-based, state-set, and ratcheting up.** No federal GGR tax, but a 0.25% federal excise on the amount wagered plus a $50 per-employee occupational stamp. State sports-betting rates run from 6.75% of GGR (Nevada, Iowa) to 51% (New York, New Hampshire, Rhode Island); Tennessee is the outlier at 1.85% of handle. 2025 saw hikes in New Jersey (online casino and sports to 19.75%), Maryland (20%), Louisiana (21.5%) and Illinois (progressive 20–40% plus a $0.25/$0.50 per-wager levy). The OBBBA 90% cap on gambling-loss deductions took effect for tax year 2026; Rep. Titus was still lobbying Congress to restore the full deduction in November 2026. [Rate details from enabling statutes; not re-verified in-session.]
+- **Licensing is state-by-state and access-constrained.** Online licences are generally tethered to land-based casinos, racetracks or tribes ('skins'), with a limited number of standalone slots (Illinois' $20m online-only licences; New York's nine mobile platforms at a $25m one-time fee). Fees range from ~$100k initial + $50k annual (Michigan) to $10m per certificate (Pennsylvania) and $25m (New York). A new entrant without a land-based partner needs a market-access deal or a B2B supplier licence. [Fee levels not re-verified in-session.]
+- **Seven iGaming states, 38 commercial jurisdictions.** iGaming is live only in NJ, PA, MI, WV, CT, DE and RI (Nevada: online poker only); commercial sports betting operates in 37 states + DC, with Missouri (Sept-26 handle $325.2m), Kentucky ($293.8m) and Vermont ($19.8m) among the newer markets reporting in Q3-26. No new iGaming state launched in 2026.
+- **Payments are bank-rail, not card-rail.** Regulated deposits run on ACH/online banking, debit, PayPal/Venmo, Apple Pay, prepaid 'Play+' cards and cash at kiosks; several states (e.g. Massachusetts, Iowa, Tennessee) bar credit cards for online wagering and major issuers block MCC 7995; crypto is not accepted on state-licensed sites; GeoComply-style geolocation and KYC are mandatory. [Regulatory knowledge; not re-verified in-session.]
+- **Responsible gambling and advertising are tightening at state level.** 'Risk-free' promotional language is banned in multiple states (OH, MA, NY), under-21 targeting and college-campus partnerships are prohibited in several jurisdictions, mandatory deposit-limit and self-exclusion tooling applies everywhere, and a federal SAFE Bet Act (affordability checks, ad windows) remains pending. New York's 51% rate also disallows promo deductions. [Not re-verified in-session.]
+- **Enforcement and politics are turning against the untaxed channel — and toward higher rates on the taxed one.** AGA's July and August trackers name skill machines, sweepstakes casinos and prediction-market 'backdoor sports bets' as paying no state gaming tax; 2025 saw a wave of state sweepstakes bans (MT, CT, NV, NJ, NY, CA) and attorney-general litigation against Kalshi [status in 2026 not re-verified]. Expect 2027 state budgets to revisit rates and to legislate around prediction markets.
+- **Land-based is a slow-growth annuity with regional divergence.** Slots $3.25bn in both July (+0.9%) and August (+1.0%); tables $876.8m (+6.2%) and $885.9m (+2.1%), with AGA crediting the Resorts World New York City expansion. Boyd Gaming's Q3-26 revenue was $990.5m vs $1.0bn a year earlier amid Las Vegas tourism softness (8-K).
+- **Operator read-through.** BetMGM reported Q3-26 net revenue +7% to $710m on iGaming strength; DraftKings held its Q3-26 call on 6 Nov 2026 (figures not retrieved in-session). Trade-press summaries of the Citizens dataset put Q3 handle growth at ~7% YoY [secondary, unverified against the PDF].
+- **Read-through for B2Tech.** The US is the world's largest regulated online pool but is a licensed-partner, high-tax, top-two market where the marginal growth (iGaming) is slowing to low-teens and the marginal threat (prediction markets) sits outside state jurisdiction. The realistic entry paths are B2B supply (platform/content to licensed operators), a market-access tie-up in a 2–3 state iGaming footprint, or a prediction-market-adjacent product — each with different tax and licensing exposure.
+
+## 2. Group Financial Summary
+
+| US $m (commercial gaming; AGA basis unless stated) | Jul-26 | Aug-26 | Sep-26 | Q3-26 (est.) | FY2025 |
+|---|---|---|---|---|---|
+| **Revenue (GGR)** | | | | | |
+| Total commercial GGR Jul-26 total implied from AGA vertical figures. AGA Feb-26 prelim said 78,700. | ~6,760 (+8.6%) | 6,480 (-0.6%) | n/a (AGA pending) | n/a | 78,620 (+9.1%) |
+| Land-based casino (slots + tables) | 4,480 (+3.1%) | 4,440 (+0.9%) | n/a | n/a | n/a |
+|   of which slots | 3,250 (+0.9%) | 3,250 (+1.0%) | n/a | n/a | n/a |
+|   of which table games | 877 (+6.2%) | 886 (+2.1%) | n/a | n/a | n/a |
+| Sports betting GGR (retail + online) | 1,270 (+27.0%) | 1,000 (-15.6%) | 322 (8 early states only) | n/a | 16,530 [rg.org compilation] |
+| Sports betting handle (stakes) | 11,600 (+31.9%) | 10,890 (-0.7%) | ~11,110 (15 states, -0.3% est.) | n/a | 165,770 [rg.org compilation] |
+| Sportsbook hold (GGR/handle) | ~10.9% (vs ~11.4%) | 9.2% (vs 10.8%) | 7.1% (8 early states) | 9.6% flat (Citizens) | 9.9% [rg.org] |
+| iGaming GGR (7 states) 9M-26 iGaming GGR $9,090m. Q3 sum of monthlies; Citizens' operator-level growth 12%. | 1,010 (+15.7%) | 1,030 (+12.3%) | 1,020 (+12.9%) | ~3,060 (+~13.6%; Citizens +12%) | n/a (+27.6%) |
+| Online share of commercial GGR (est.) | ~33% | ~30% | n/a | ~31-33% | n/a (Q1-25 record 32.8%) |
+| **Tax & market structure** | | | | | |
+| Direct state/local gaming tax paid Excludes federal 0.25% excise, annual licence fees, corporate/income taxes. | 1,420 (+7.7%) | 1,460 (-1.5%) | n/a | n/a | 17,860 (+12.3%) |
+| Prediction-market volume (CFTC-regulated exchanges) Stifel via LSR; taker-only (handle-like) Sep-26 est. $17,700m. Not in AGA GGR. | n/a | ~46,800 (implied) | 76,700 (+64% MoM); all venues >82,000 | n/a | n/a |
+| Active iGaming states | 7 | 7 | 7 | 7 | 7 |
+| Commercial gaming jurisdictions (casino and/or sports) | 38 | 38 | 38 | 38 | 38 (37 states + DC) |
+| Federal excise (base: handle) | 0.25% | 0.25% | 0.25% | 0.25% | 0.25% |
+| State sports-betting tax range (base: GGR) Statutory rates; not re-verified in-session. | 6.75%-51% | 6.75%-51% | 6.75%-51% | 6.75%-51% | TN: 1.85% of handle |
+| State iGaming tax range (base: GGR) Statutory rates; not re-verified in-session. | 15%-54% | 15%-54% | 15%-54% | 15%-54% | WV low; PA slots high |
+| Online licence fee range (one-off) Statutory fees; not re-verified in-session. | $0.1m-$25m | $0.1m-$25m | $0.1m-$25m | $0.1m-$25m | MI low; NY high; IL standalone $20m |
+
+## 3. Segment deep-dive — Sports betting (online + retail)
+
+*Event-driven handle masks a flat underlying market; hold volatility, not volume, now sets GGR — and prediction markets are taking the marginal dollar.*
+
+The quarter opened with the best handle month in the AGA dataset outside the NFL season: July 2026 commercial sports betting handle of $11.60bn was up 31.9% YoY and GGR rose 27.0% to $1.27bn, which AGA attributes to the FIFA World Cup after 'months of near zero handle growth dating back to December' 2025. Hold in July was ~10.9% (derived), lower than the ~11.4% of July 2025, so revenue growth lagged handle. August then reversed: handle was essentially flat at $10.89bn (-0.7%) but GGR fell 15.6% to $1.00bn as hold dropped to 9.2% from 10.8%, and sports-betting tax receipts fell 14%. AGA ties the softness to a later college-football start and competition from prediction markets. September data are still being compiled: Gambling Insider's 15-state aggregate is ~$11.11bn, down an estimated 0.3% YoY, while Stifel's 13-state cut is +4% YoY despite one fewer NFL week and +43% MoM. The first eight states to report showed $4.51bn handle (+7.2%), $321.9m GGR, 7.14% hold and $110.1m tax. Mature markets are rolling over: New Jersey and Pennsylvania both reported lower September handle than a year earlier, and Iowa's YoY growth decelerated from 24.7% in July to 2.1% in August and 0.0% in September.
+
+At state level the September prints show how much hold now drives outcomes. New York handled $2.41bn (the largest market; 51% GGR tax, no promo deduction). New Jersey took $1.09bn in handle for $77.0m GGR at a 7.1% hold; Pennsylvania $798.7m for $44.7m at a punishing 5.6%; Michigan $544.8m for $55.5m at 10.2%. Newer markets reported Missouri $325.2m, Kentucky $293.8m and Vermont $19.8m. For context, LSR's cumulative tracker (mid-2026) shows lifetime US GGR above $60bn on ~$700bn of handle, with New York alone at $95.98bn handle / $8.80bn GGR / $4.48bn taxes — i.e. a 51% state take has not stopped New York being the #1 market, which is the data point every other state treasury looks at.
+
+Citizens' Q3-26 operator data confirm a two-horse market with a stable duopoly and a thinning tail. DraftKings led handle at 37.6% (37.3% in Q3-25) and GGR at 35.4% (34.9%); FanDuel grew handle share to 32.8% (31.4%) but lost GGR share to 35.4% (37.7%) because its gross gaming margin compressed to 10.4% — still above DraftKings' 9.5%. Fanatics ceded handle share (9.9% from 11.2%) but gained GGR share (8.8% from 7.3%) by tightening margin; BetMGM lifted margin to 10.2% from 9.6% while losing handle share; bet365 held a 9.4% margin on rising handle and GGR share; Caesars lost both share metrics with margin down to 6.9% from 7.6%. Market-wide GGR margin was 9.6%, flat YoY, and trade-press summaries of the same dataset put Q3 handle growth at ~7% [secondary; not verified against the Citizens PDF].
+
+The commercial implication is that organic handle growth in legal states is now low-single-digit outside events, so operator revenue growth must come from (i) structural hold expansion via parlays/same-game parlays — FanDuel and DraftKings both run >9.5% — and (ii) new-state launches, of which only Missouri (live since late 2025) contributed in Q3. The tax environment compounds this: New York 51%, Pennsylvania 36%, Illinois 20–40% plus a $0.25/$0.50 per-bet levy (which FanDuel and DraftKings have passed through as a customer surcharge), New Jersey 19.75%, Maryland 20%, Louisiana 21.5%, Ohio 20%, Massachusetts 20% [statutory rates; not re-verified in-session]. A third-tier entrant faces a ~70% top-two GGR share, a ~9.6% market hold and promo-heavy competition; the only scale shortcuts are market-access deals with land-based licensees or acquiring a sub-scale brand (Caesars, BetRivers, bet365 are the only mid-tier names with >1% share).
+
+| US $m (sports betting) | Q3-26 / latest | Prior-year | Change | Source |
+|---|---|---|---|---|
+| **Monthly nationals (AGA)** | | | | |
+| Handle Jul-26 | 11,600 | ~8,790 (derived) | +31.9% | AGA |
+| GGR Jul-26 | 1,270 | ~1,000 (derived) | +27.0% | AGA |
+| Handle Aug-26 | 10,890 | ~10,970 (derived) | -0.7% | AGA |
+| GGR Aug-26 | 1,000 | ~1,185 (derived) | -15.6% | AGA |
+| Hold Aug-26 | 9.2% | 10.8% | -160bp | AGA |
+| Handle Sep-26 (15 states) | ~11,110 | ~11,140 | -0.3% est. | Gambling Insider |
+| Handle Sep-26 (13 states, Stifel) | n/a | n/a | +4% YoY; +43% MoM | Stifel via LSR |
+| First 8 states Sep-26: handle / GGR / hold / tax | 4,509 / 322 / 7.14% / 110 | n/a | handle +7.2% | rg.org (state reports) |
+| **September state prints** | | | | |
+| New York handle | 2,406 | n/a | n/a | NYSGC via rg.org |
+| New Jersey handle / GGR / hold | 1,086 / 77.0 / 7.1% | n/a | handle down YoY | NJ DGE via GamingToday |
+| Pennsylvania handle / GGR / hold | 799 / 44.7 / 5.6% | n/a | handle down YoY | PGCB via GamingToday |
+| Michigan handle / GGR / hold | 545 / 55.5 / 10.2% | n/a | n/a | MGCB via GamingToday |
+| Missouri / Kentucky / Vermont handle | 325 / 294 / 20 | n/a | n/a | state reports via rg.org |
+| **Citizens Q3-26 operator data** | | | | |
+| Market GGR margin | 9.6% | 9.6% | flat | Citizens via NEXT.io |
+| DraftKings handle / GGR share | 37.6% / 35.4% | 37.3% / 34.9% | +30bp / +50bp | Citizens |
+| FanDuel handle / GGR share; margin | 32.8% / 35.4%; 10.4% | 31.4% / 37.7% | +140bp / -230bp | Citizens |
+| Fanatics handle / GGR share | 9.9% / 8.8% | 11.2% / 7.3% | -130bp / +150bp | Citizens |
+| BetMGM margin | 10.2% | 9.6% | +60bp | Citizens |
+| Caesars margin | 6.9% | 7.6% | -70bp | Citizens |
+| bet365 margin | 9.4% | 9.4% | flat; share up | Citizens |
+| **Full-year context** | | | | |
+| FY2025 handle / GGR / hold / state tax | 165,770 / 16,530 / 9.90% / 3,660 | n/a | n/a | rg.org compilation (all reporting states) |
+| Cumulative since 2018: handle / GGR | >700,000 / >60,000 | n/a | n/a | LSR tracker (mid-2026) |
+
+## 4. Segment deep-dive — iGaming (online casino)
+
+*Still the profit pool — ~$1.02bn a month across seven states — but growth has halved from 27.6% (FY25) to 12% (Q3-26) with no new states, and leadership is fragmenting.*
+
+Online casino GGR exceeded $1bn for the third consecutive month in September 2026 ($1.02bn, +12.9% YoY), after $1.01bn in July (+15.7%) and $1.03bn in August (+12.3%); seven of nine months in 2026 have cleared $1bn and year-to-date GGR is $9.09bn. Summing the three months gives ~$3.06bn for Q3-26, roughly +13.6% on the equivalent 2025 months, while Citizens' operator-level dataset records +12% — the weakest growth rate on record and down from 16% in each of Q1 and Q2 2026. The difference between the two measures is definitional (Citizens tracks operator GGR shares; state totals include poker and small operators) rather than directional. AGA's language is unambiguous: 'showing signs of natural maturation with no new markets coming online, iGaming growth continues to steadily moderate'. The September increment of $116.7m YoY compares with $190.3m in September 2025, i.e. the dollar growth has fallen by ~40% in a year even as the base rose.
+
+The state mix is unchanged and highly concentrated: Pennsylvania $316.8m (+10.5%), Michigan $300.2m (+15.9%), New Jersey $274.8m (+13.0%), Connecticut $67.0m (+6.5%), West Virginia $39.5m (+15.5%), Delaware $15.0m (+29.3%) and Rhode Island $5.9m (+20.4%). The big three are 87% of the vertical. Every state grew at least 6.5% and four grew ≥15%, so the slowdown is broad-based maturation rather than one market stalling. Pennsylvania's deceleration is notable given it carries the highest tax (54% on online slots, 16% on tables/poker); Michigan, with a 20–28% graduated rate and a $100k licence, is the fastest-growing large state — a reminder that tax rate, not just population, shapes operator investment [rates per statute; not re-verified in-session].
+
+Citizens' share data show a leader losing altitude and a challenger set gaining. FanDuel remains #1 at 25.1% but has shed share every quarter in 2026 (26.6% a year ago). DraftKings at 22.2% is down 210bp YoY but up from 20.9% in Q2 — its first sequential gain in two years, consistent with Stifel's observation of improving DraftKings online-casino share in September. BetMGM, the former leader, slid to 18.6% (20.7%) for a sixth straight quarterly decline even as parent BetMGM reported Q3-26 net revenue +7% to $710m on iGaming strength. Rush Street (BetRivers) rose to 7.4% (6.8%), Caesars fell to 6.4% (7.1%), Fanatics nearly doubled to 5.2% (3.9%; 5.4% in Q2) and bet365 jumped to 1.7% (0.4%) on its Michigan and West Virginia launches. The combined share of the top three fell from 71.6% to 65.9% in twelve months — the clearest evidence that mid-tier brands with content, loyalty or sports cross-sell can still take share in a maturing market.
+
+The commercial read is twofold. First, the regulated iGaming TAM will not expand geographically in the near term: no state legalised online casino in 2025 or 2026, and the perennial candidates (New York, Maryland, Illinois, Indiana, Virginia, Maine) remain stalled by land-based union and tribal opposition and by the sweepstakes/prediction-market debates [legislative status not re-verified in-session]. Second, growth within the seven states is now a function of product (live dealer, exclusive content, jackpots), cross-sell from sportsbook databases and promo efficiency, and incumbents are showing it can be won — Fanatics and bet365 added ~260bp of share between them in a year. For a B2B supplier, the seven-state footprint is still the most valuable regulated content market in the world (~$12bn annualised GGR), but entry means per-state supplier licensing (PGCB, MGCB, NJ DGE etc.) and integration with operators who increasingly favour proprietary studios.
+
+| US $m (iGaming GGR by state, regulator reports) | Sep-26 | Sep-25 | YoY | Q3-26 / note |
+|---|---|---|---|---|
+| Pennsylvania (PGCB) | 316.8 | 286.7 | +10.5% | 54% slots / 16% tables tax |
+| Michigan (MGCB) | 300.2 | 259.1 | +15.9% | 20-28% graduated tax |
+| New Jersey (DGE) | 274.8 | 243.1 | +13.0% | 19.75% tax since Jul-25 |
+| Connecticut (DCP) | 67.0 | 62.9 | +6.5% | 18% tax (two tribal-partnered skins) |
+| West Virginia (Lottery) | 39.5 | 34.2 | +15.5% | 15% tax |
+| Delaware (Lottery) | 15.0 | 11.6 | +29.3% | single operator (BetRivers) |
+| Rhode Island (Lottery) | 5.9 | 4.9 | +20.4% | single operator (Bally's) |
+| Total 7 states | 1,019.2 | 902.5 | +12.9% | +$116.7m YoY (Sep-25 added +$190.3m) |
+| July / August 2026 (AGA) | 1,010 / 1,030 | n/a | +15.7% / +12.3% | Q3-26 sum ~3,060 (+~13.6%) |
+| 9M-26 YTD | 9,090 | n/a | n/a | 7 of 9 months >$1bn |
+| Citizens quarterly growth | Q3-26: 12% | Q1/Q2-26: 16% | record low | FY25 AGA: +27.6% |
+| **Operator share (Citizens, Q3-26 vs Q3-25)** | | | | |
+| FanDuel | 25.1% | 26.6% | -150bp | down every quarter in 2026 |
+| DraftKings | 22.2% | 24.3% | -210bp | Q2-26 20.9%: first QoQ gain in 2 yrs |
+| BetMGM | 18.6% | 20.7% | -210bp | 6th straight decline |
+| Rush Street (BetRivers) | 7.4% | 6.8% | +60bp |  |
+| Caesars | 6.4% | 7.1% | -70bp |  |
+| Fanatics | 5.2% | 3.9% | +130bp | Q2-26 5.4% |
+| bet365 | 1.7% | 0.4% | +130bp | MI, WV launches |
+| Top-3 combined | 65.9% | 71.6% | -570bp | fragmenting |
+
+## 5. Segment deep-dive — Land-based casino, retail & lottery
+
+*A ~$53bn, low-single-digit annuity: slots flat, tables lifted by Resorts World NYC, Las Vegas softening; lotteries sit outside the commercial dataset.*
+
+Brick-and-mortar slots and table games remain roughly two-thirds of commercial GGR. July 2026 land-based casino revenue was $4.48bn (+3.1%), split $3.25bn slots (+0.9%) and $876.8m tables (+6.2%); August was $4.44bn (+0.9%) with slots $3.25bn (+1.0%) and tables $885.9m (+2.1%). AGA explicitly credits the Resorts World New York City expansion for the table-games uplift — the first tangible revenue effect of New York's downstate casino licensing round [licence awards not re-verified in-session]. These figures exclude Louisiana and Michigan, which report slots and tables combined, and exclude the entire tribal sector (c.$40bn+ per NIGC, not covered here) and state lotteries.
+
+Regional divergence is widening. Boyd Gaming's Q3-26 8-K shows revenue of $990.5m versus $1.0bn a year earlier with adjusted EBITDAR of $319.6m (vs $321.8m), and trade coverage frames the miss around weakening Las Vegas tourism; MGM's Q3-26 presentation was characterised as 'digital gains amid property pressure'. By contrast, markets with recent capacity additions (New York tables, and in 2025 Nebraska, Virginia and Illinois) are growing. FY2025 showed the same pattern at national level: 34 states plus DC set records and only Mississippi declined, by a fraction of a percent.
+
+For the operator weighing entry, land-based matters less as a revenue target than as the gatekeeper: in most states the land-based licensee owns the online 'skin', so casino operators monetise market access through revenue shares (typically high-single to low-double-digit percentages of NGR [industry convention; not re-verified]) rather than compete online themselves. Retail sportsbooks are a rounding error in revenue terms (AGA's retail sports GGR is a low-single-digit share of the sports total) but remain the legal anchor for online licences in states such as Pennsylvania, Michigan and Illinois.
+
+State lotteries (c.$100bn+ in sales nationally) are not in the AGA commercial series and are not addressed by this brief's numbers; the relevant point for a digital entrant is that several lottery agencies (Rhode Island, Delaware, West Virginia, New Hampshire, DC) are themselves the iGaming or sports-betting regulator-operator, awarding single-vendor or revenue-share contracts (e.g. Rhode Island with Bally's/IGT, New Hampshire with DraftKings at a 51% share) — a B2B route that bypasses the open-licence market entirely [contract terms not re-verified in-session].
+
+| US $m (land-based commercial casino) | Jul-26 | Aug-26 | YoY (Jul / Aug) | Note |
+|---|---|---|---|---|
+| Slots + tables GGR | 4,480 | 4,440 | +3.1% / +0.9% | ex-LA and MI split |
+| Slots | 3,250 | 3,250 | +0.9% / +1.0% |  |
+| Table games | 877 | 886 | +6.2% / +2.1% | Resorts World NYC expansion cited by AGA |
+| Share of total commercial GGR (est.) | ~66% | ~69% | n/a | derived |
+| Boyd Gaming Q3-26 revenue | 990.5 (quarter) | n/a | vs 1,000 Q3-25 | 8-K, 22 Oct 2026 |
+| Boyd Q3-26 adj. EBITDAR | 319.6 (quarter) | n/a | vs 321.8 | 8-K |
+| FY2025: jurisdictions with record GGR | 34 states + DC | n/a | n/a | AGA State of the States 2026 |
+| FY2025: jurisdictions declining | 1 (Mississippi, marginal) | n/a | n/a | AGA |
+| Tribal gaming / state lotteries | n/a | n/a | n/a | outside AGA commercial series |
+
+## 6. Segment deep-dive — Prediction markets, sweepstakes & the untaxed channel
+
+*A federally regulated, nationally available, zero-state-tax sports product grew to >$82bn of monthly volume in September; it is the single biggest regulatory variable for any US strategy.*
+
+Sports event contracts listed on CFTC-regulated designated contract markets (Kalshi, Crypto.com, Polymarket US, with Robinhood as a major distribution channel) are the fastest-growing wagering product in the country. Stifel estimates total prediction-market trading volume above $82bn in September 2026, of which $76.7bn was on federally regulated exchanges (+64% MoM); on a 'taker-only' basis designed to approximate sportsbook handle the figure is ~$17.7bn (+27% MoM), versus a +43% MoM rise in regulated sportsbook handle in the states that had reported. Kalshi reportedly holds ~60% of volume, much of it via Robinhood. The CFTC's position is that these contracts are derivatives tradable in all 50 states, which gives the channel access to the ~20 states without legal online sports betting, including Texas and California.
+
+The fiscal consequence is now explicit in the regulator-sourced data: AGA's August tracker estimates that prediction-market sports contracts have displaced $1.56bn of potential state gaming taxes since early 2025 (up from $1.5bn at the July tracker), and attributes part of the YoY handle decline since December 2025 to prediction-market competition. Note this is an estimate of forgone collections at state tax rates, not an assessed liability. September's data are ambiguous on substitution — 15-state handle was flat (-0.3%) while prediction volume set records — which suggests the first-order effect to date is incremental demand (new states, new users, intra-day trading) rather than wholesale cannibalisation, but mature-state handle (NJ, PA, IA) is where the erosion is showing.
+
+The legal position remains unresolved. Through 2025, multiple state regulators issued cease-and-desist orders (Nevada, New Jersey, Maryland, Ohio, Illinois, Montana, Arizona, Massachusetts among them) and litigation produced split district-court outcomes with appeals in the Third, Fourth and Ninth Circuits; the incumbents responded by entering the market themselves (DraftKings via an NFA-registered FCM, FanDuel via a CME partnership) [status of litigation and launches as of Q3-26 not re-verified in-session]. Gambling Insider's framing that '2026 could decide the future of prediction markets' reflects the expectation of either an appellate/Supreme Court ruling or CFTC rulemaking on sports contracts; neither had been confirmed in the material we could verify.
+
+Two further untaxed channels matter. Sweepstakes casinos — dual-currency social casinos monetising 'sweeps coins' — were banned by statute in several states in 2025 (Montana, Connecticut, Nevada, New Jersey, New York, California) and AGA continues to cite them, with unregulated 'skill machines', as reducing gaming-tax collections [2026 enforcement not re-verified]. For B2Tech the strategic implications are: (1) a prediction-market product reaches all 50 states under a single federal regime with no state GGR tax, but with CFTC/NFA registration, exchange-fee economics (not bookmaker margin) and acute litigation risk; (2) a sweepstakes model is being legislated out of the largest states; (3) the regulated state-licensed route is the only one with durable legal certainty, at the cost of 20–51% GGR taxes and partner-gated access.
+
+| US $m (prediction-market and grey-channel indicators) | Sep-26 | Aug-26 | Change | Source |
+|---|---|---|---|---|
+| Total prediction-market volume (all venues) | >82,000 | n/a | record | Stifel via LSR |
+| CFTC-regulated exchange volume | 76,700 | ~46,800 (implied) | +64% MoM | Stifel |
+| Taker-only volume (handle proxy) | ~17,700 | ~13,900 (implied) | +27% MoM | Stifel estimate |
+| Regulated sportsbook handle, 15 states | ~11,110 | n/a | -0.3% YoY | Gambling Insider |
+| Regulated sportsbook handle MoM (reporting states) | +43% | n/a | vs +27% taker-only | Stifel |
+| Kalshi share of prediction volume | ~60% | n/a | n/a | Gambling Insider (reported) |
+| Est. state gaming tax displaced since early 2025 | 1,560 (Aug tracker) | 1,500 (Jul tracker) | +60 in one month | AGA estimate |
+| States without legal online sports betting | ~20 (incl. TX, CA) | n/a | n/a | Gambling Insider |
+| State gaming tax on prediction-market sports contracts | 0% | 0% | n/a | CFTC pre-emption position |
+| Sweepstakes statutory bans enacted (2025) | MT, CT, NV, NJ, NY, CA | n/a | n/a | [not re-verified in-session] |
+
+## 7. Segment deep-dive — Licensing & tax regime
+
+*Fifty regulators, GGR-based state taxes from 6.75% to 51%, partner-gated online access and a new federal 90% loss-deduction cap — the rules are moving toward more tax on the regulated channel, not less.*
+
+There is no federal gambling regulator. Federal law sets the perimeter — the Wire Act (interstate sports wagering transmission), UIGEA (payment processing for unlawful internet gambling), IGRA (tribal gaming compacts) and, since Murphy v. NCAA (2018) struck down PASPA, state discretion over sports betting — while each state legislature authorises products and each state regulator (e.g. New Jersey DGE, Pennsylvania GCB, Michigan GCB, New York Gaming Commission, Nevada GCB, Illinois Gaming Board, Massachusetts GC, plus lottery commissions in RI, DE, WV, NH and DC) licenses operators, suppliers and key persons. Federal taxation is light: a 0.25% excise on the amount legally wagered (2% on illegal wagers) and a $50 annual occupational tax per person accepting wagers. The One Big Beautiful Bill Act (July 2025) introduced the first material federal change in years: from tax year 2026 bettors may deduct only 90% of gambling losses against winnings, and the W-2G slot reporting threshold rose to $2,000; the FAIR BET Act to restore the full deduction remained unpassed in November 2026, with Rep. Dina Titus still pressing Congress. Industry fears the cap pushes professional and high-volume players toward offshore or prediction-market venues [OBBBA detail from statute; not re-verified in-session].
+
+State tax bases are almost universally GGR (sometimes 'adjusted' for promotional credits — allowed in e.g. Michigan, Pennsylvania (partially), Colorado (phasing out); disallowed in New York, Illinois, Tennessee). Headline online sports-betting rates: New York, New Hampshire and Rhode Island 51%; Pennsylvania 36% (34% state + 2% local); Illinois 20–40% progressive plus $0.25 per wager on the first 20m bets and $0.50 thereafter (from 1 July 2025); Louisiana 21.5% (from Aug 2025); Maryland, Ohio, Massachusetts and Vermont 20%; New Jersey 19.75% (from 1 July 2025, previously 13%); North Carolina 18%; Arizona 10% online; Michigan 8.4%; Nevada and Iowa 6.75%; Tennessee 1.85% of handle (the only turnover-based regime). iGaming rates: Pennsylvania 54% on online slots / 16% tables and poker; Rhode Island and Delaware lottery revenue-share models (state keeps a majority); Michigan 20–28% graduated; New Jersey 19.75%; Connecticut 18%; West Virginia 15% [statutory rates; not re-verified in-session]. The 2025 session established the direction of travel — four large states raised rates in one year — and the August 2026 tax data (-1.5% YoY total, -14% sports) will sharpen 2027 budget appetite.
+
+Licence architecture determines who can actually enter. Most states tie each online brand to a land-based licensee ('skin'): Pennsylvania (one iGaming certificate per casino, $10m for all three categories or $4m each; $10m sports certificate; 5-year renewal $250k), Michigan ($50k application, $100k initial, $50k annual; one online casino and one sportsbook skin per tribal or commercial casino), New Jersey (casino-tethered; $400k initial iGaming permit, $250k annual renewal; up to three sports skins per licensee), Illinois (casino/track master licences at up to $10m plus three standalone online licences at $20m), Massachusetts ($5m per five years; capped untethered category). New York issued nine mobile platforms via a competitive bid at $25m each, tethered to no casino but limited in number; Rhode Island, New Hampshire, Delaware and DC operate single-vendor lottery models. Suppliers (platforms, content studios, geolocation, payments, odds feeds) need their own vendor/supplier licences per state, typically $5k–$100k with key-person suitability reviews [all fee levels from enabling statutes; not re-verified in-session]. Servers must generally be located in-state (or in-state for iGaming; some states allow hosting in another regulated state); several states additionally require a physical in-state presence for iGaming operations.
+
+The practical consequences for B2Tech are: (1) with no land-based asset, direct B2C entry requires buying market access (revenue share plus upfront fees) from a casino/track/tribe in each state, or acquiring a licensed brand; (2) the effective tax burden on a #4–#8 operator in New York or Pennsylvania (51%/36% of GGR before promo costs, which are non-deductible in NY) makes stand-alone sportsbook economics negative at sub-scale — hence the exits of Fubo, MaximBet, SuperBook, WynnBet, Betfred and, most recently, ESPN Bet [exit list from prior-period knowledge; not re-verified in-session]; (3) B2B supply (platform, PAM, content, trading) is the lower-capital route, with per-state supplier licensing and a customer base that is consolidating around five or six operators.
+
+| Regime snapshot (statutory; not re-verified in-session unless noted) | Product / level | Tax base & rate | Licence fee (one-off / renewal) | Note |
+|---|---|---|---|---|
+| **Federal** | | | | |
+| Federal excise | 0.25% of handle (2% illegal) + $50/employee | n/a | IRC §4401/4411 |  |
+| Federal income tax on bettors (OBBBA) | losses deductible only to 90% from TY2026; W-2G threshold $2,000 | n/a | FAIR BET Act pending; Titus push ongoing (Nov-26, verified) |  |
+| **Online sports betting (selected states)** | | | | |
+| New York | 51% GGR, no promo deduction | $25m one-off; 9 platforms | #1 market; Sep-26 handle $2.41bn (verified) |  |
+| Pennsylvania | 36% GGR (34% + 2% local) | $10m certificate; $250k/5yr | Sep-26 hold 5.6% (verified) |  |
+| Illinois | 20-40% progressive + $0.25/$0.50 per wager | $20m standalone / up to $10m master | per-wager levy from 1 Jul 2025 |  |
+| New Jersey | 19.75% GGR online (from 13%); 8.5% retail | $100k sports; casino-tethered | raised 1 Jul 2025 |  |
+| Maryland / Louisiana | 20% / 21.5% GGR | $0.5-2m / $250k | raised Jul-25 / Aug-25 |  |
+| Ohio / Massachusetts / Vermont | 20% GGR | $3m / $5m per 5yr / n/a | OH doubled 2023 |  |
+| Michigan | 8.4% adjusted GGR | $50k app + $100k + $50k/yr | promo deductible |  |
+| Nevada / Iowa | 6.75% GGR | varies | NV in-person registration |  |
+| Tennessee | 1.85% of handle | $750k/yr | only turnover-based regime |  |
+| **iGaming (all 7 states)** | | | | |
+| Pennsylvania | 54% online slots; 16% tables/poker | $10m all categories or $4m each | largest iGaming state |  |
+| Michigan | 20-28% graduated adjusted GGR | $50k + $100k + $50k/yr | fastest-growing large state |  |
+| New Jersey | 19.75% GGR (from 15%) | $400k initial; $250k renewal | raised 1 Jul 2025 |  |
+| Connecticut | 18% GGR (20% after yr 5) | tribal-partnered skins only | 2 operators + lottery |  |
+| West Virginia | 15% GGR | $250k / $100k | 5 casinos; bet365 launched 2026 (verified) |  |
+| Delaware / Rhode Island | lottery revenue share (state majority) | single vendor contract | BetRivers / Bally's |  |
+| **Scale of take** | | | | |
+| Direct gaming taxes FY2025 | $17,860m (+12.3%) | n/a | AGA (verified) |  |
+| Direct gaming taxes Jul-26 / Aug-26 | $1,420m (+7.7%) / $1,460m (-1.5%) | n/a | AGA (verified) |  |
+| NY cumulative sports tax since Jan-22 | $4,483m on $8,803m GGR | n/a | LSR tracker (verified) |  |
+
+## 8. Segment deep-dive — Payments, responsible gambling & advertising
+
+*Bank-rail payments, mandatory geolocation/KYC, state-level advertising codes hardening and a pending federal SAFE Bet Act — compliance cost is high and rising, but rules are predictable.*
+
+Regulated US online wagering runs on bank rails rather than cards. Deposits are dominated by ACH/online banking (instant-bank aggregators such as Trustly and Plaid), debit cards, PayPal/Venmo, Apple Pay, prepaid 'Play+' wallets and cash via PayNearMe or casino cages; withdrawals revert to the same instrument or ACH. Credit-card funding is prohibited by statute or rule in several states (Massachusetts, Iowa, Tennessee among them) and is widely declined by issuers under MCC 7995 even where legal; cryptocurrencies are not accepted on state-licensed sites. UIGEA obliges banks to block payments to unlawful internet gambling, which is the practical mechanism by which the offshore market is suppressed. Every session requires geolocation verification (GeoComply-type) and every account full KYC against government ID and SSN, with W-2G reporting for qualifying wins. For an entrant, payment acceptance rates and withdrawal speed are competitive differentiators, and the UIGEA/MCC ecosystem means offshore-style card/crypto cashiers are not transferable to the US [payment detail from regulatory knowledge; not re-verified in-session].
+
+Responsible-gambling obligations are set state by state but converge on a common core: mandatory deposit, loss, wager and time-limit tools; state self-exclusion registers (often cross-vertical); 21+ age in most states (18+ in a handful for sports); RG messaging and helpline numbers in all advertising; employee training; and in the larger states, annual RG plans and problem-gambling funding levies. New Jersey, Massachusetts and Pennsylvania have gone furthest on data-driven player-protection expectations (e.g. monitoring for markers of harm), while the federal SAFE Bet Act (Tonko/Blumenthal) proposes affordability checks, limits on AI-driven personalisation and advertising windows — it has not advanced but frames the direction [not re-verified in-session].
+
+Advertising rules tightened sharply after the 2022–23 backlash. Ohio, Massachusetts and New York prohibit 'risk-free' or 'free bet' language that misdescribes bonus terms; multiple states ban targeting under-21s and partnerships with colleges (New York, Ohio, Massachusetts and the NCAA-aligned restrictions); Massachusetts restricts affiliate CPA models; Illinois and others disallow promo deductions from taxable GGR, which structurally caps bonus intensity. New York's 51% non-deductible regime and Illinois' per-wager levy have already produced visible behaviour changes — customer surcharges in Illinois and lower promo rates — and the Citizens data showing stable 9.6% market hold with FanDuel compressing to 10.4% suggests promotional competition remains intense in the duopoly despite the rules [ad-rule specifics not re-verified in-session].
+
+The enforcement environment is active and public: regulators levy fines for underage/self-excluded play, geofencing lapses and advertising breaches (Massachusetts and New Jersey in particular), and the AGA's own Responsible Marketing Code has become the de facto baseline. Combined with per-state supplier licensing, server-location rules and KYC, the compliance stack is the largest fixed cost of entry after market access — but it is codified and stable, in contrast to the prediction-market channel where the rules are being made in court.
+
+| Payments & player-protection snapshot (regulatory knowledge; not re-verified in-session) | Item | Status | Key states / detail | Implication |
+|---|---|---|---|---|
+| ACH / online banking | Permitted, dominant | all online states | instant-bank aggregators standard |  |
+| Debit cards | Permitted | issuer declines common (MCC 7995) | acceptance rate is a KPI |  |
+| Credit cards | Barred in several states; issuer-blocked elsewhere | MA, IA, TN bans | no card-led acquisition |  |
+| PayPal / Venmo / Apple Pay | Permitted | most states | mainstream e-wallets only |  |
+| Prepaid 'Play+' / PayNearMe cash | Permitted | nationwide | cash-to-digital bridge |  |
+| Cryptocurrency | Not accepted on licensed sites | all states | offshore differentiator only |  |
+| UIGEA payment blocking | In force since 2006 | federal | suppresses offshore card flows |  |
+| Geolocation + KYC | Mandatory every session / account | all states | GeoComply-type vendors licensed |  |
+| Minimum age | 21 (most); 18 in a few sports-only states | e.g. NH, KY 18+ | verify per state |  |
+| Self-exclusion | Statewide registers | all states | cross-vertical in many |  |
+| 'Risk-free' promo language | Banned | OH, MA, NY and others | bonus wording constrained |  |
+| College / under-21 targeting | Banned | NY, OH, MA et al. | no campus partnerships |  |
+| Promo deductibility from taxable GGR | Varies | NY/IL/TN: none; MI: yes; CO: phasing out | caps promo intensity |  |
+| Federal SAFE Bet Act | Pending, not advanced | Tonko / Blumenthal | affordability checks, ad windows |  |
+| OBBBA 90% loss-deduction cap | In force TY2026 | federal | pushes high-volume play offshore/prediction markets (industry view) |  |
+
+## 9. Highlights & Lowlights
+
+**Highlights**
+
+- Scale: the regulated US pool is ~$78.6bn of commercial GGR (FY25) with iGaming running at ~$1.02bn/month across only seven states — a per-state online casino yield (PA $317m, MI $300m, NJ $275m in Sept-26 alone) with no equivalent anywhere else in the world. _(structural)_
+- Share is winnable in iGaming: the top-three share fell from 71.6% to 65.9% in a year; Fanatics (+130bp to 5.2%) and bet365 (+130bp to 1.7% on MI/WV launches) prove a well-funded challenger with content and cross-sell can take share even as market growth slows. _(structural)_
+- Michigan-style regimes (20–28% iGaming, 8.4% sports, ~$150k entry fees, promo-deductible) still grow fastest among the large states (+15.9% Sept iGaming) — a template for where to concentrate a 2–3 state footprint. _(structural)_
+- B2B demand is rising as operators chase hold and content: FanDuel at 10.4% and DraftKings at 9.5% structural margin depend on parlay/SGP engines, live-dealer and exclusive studios; per-state supplier licensing is cheaper and faster than operator licensing. _(structural)_
+- Event upside is real and recurring: the World Cup lifted July handle 31.9% and GGR 27.0%; the 2026 NFL season, March Madness and a 2028 Olympics/2028 World Cup cycle give predictable demand spikes for well-traded books. _(one-off)_
+- Prediction markets open all 50 states under one federal regime with zero state GGR tax — an asymmetric option for an operator willing to run exchange economics and absorb litigation risk, and a hedge if sportsbook handle in mature states keeps rolling over. _(mixed)_
+- Lottery-model states (RI, DE, NH, DC, WV) award single-vendor or revenue-share contracts, a B2B entry route that bypasses the open-licence market and the land-based skin gatekeepers. _(structural)_
+
+**Lowlights**
+
+- Growth has halved: iGaming slowed from +27.6% (FY25) to +12% (Q3-26, Citizens), with no new iGaming state in 2025–26 and AGA calling it 'natural maturation'; total commercial GGR fell 0.6% in August — the TAM is no longer expanding geographically. _(structural)_
+- Sportsbook handle is flat-to-down ex-events: AGA reports YoY declines every month since Dec-25 outside June–July; NJ and PA handle fell in September; Iowa's growth decelerated from 24.7% (Jul) to 0.0% (Sep). Hold volatility (Aug 9.2% vs 10.8%) drove a 15.6% GGR drop on flat stakes. _(structural)_
+- Prediction markets are an untaxed, federally pre-empted competitor at >$82bn monthly volume with ~60% held by Kalshi; AGA estimates $1.56bn of state taxes displaced since early 2025. Whether the regulated channel wins in court or loses the marginal customer is unresolved. _(watch)_
+- Tax ratchet: NJ, MD, LA and IL all raised sports/iGaming taxes in 2025, Illinois added a per-wager levy, NY taxes 51% with no promo deduction, PA 54% on online slots; August 2026 tax receipts fell 1.5% (sports -14%), which will sharpen 2027 budget appetite for further rises. _(structural)_
+- Access is gated: online licences are tethered to land-based casinos/tracks/tribes in most states, standalone slots are scarce and expensive (NY $25m, IL $20m), and the sub-scale exits (Fubo, WynnBet, Betfred, ESPN Bet [list not re-verified]) show #4–#8 sportsbook economics are negative at 36–51% tax. _(structural)_
+- Duopoly: DraftKings and FanDuel hold ~70% of sports GGR and ~47% of iGaming; BetMGM (18.6%) has declined six straight quarters despite MGM/Entain backing, evidence that even a well-capitalised #3 struggles to hold share. _(structural)_
+- Federal fiscal headwind: the OBBBA 90% loss-deduction cap took effect in TY2026 and remains unrepealed (Titus lobbying Nov-26), raising the effective cost of high-volume regulated play relative to offshore and prediction venues. _(governance)_
+
+## 10. Forecast & Outlook
+
+The Q3-26 data reset the growth frame for the US: iGaming went from 16% (Q1/Q2) to 12% (Q3) with no new states, commercial GGR turned negative in August (-0.6%) for the first time in the reviewed series, and the only vertical compounding at >50% is the CFTC-regulated prediction-market channel outside state tax. The moving parts for the next 12–24 months are (i) whether any state legalises iGaming (New York, Maryland, Illinois, Indiana, Virginia and Maine are the live candidates but all stalled in 2025–26 [not re-verified]); (ii) the 2027 state budget cycle, where August's tax decline and AGA's $1.56bn displacement estimate give treasuries both motive and narrative to raise GGR rates further; (iii) the judicial/CFTC resolution of state authority over sports event contracts; and (iv) federal action on the OBBBA 90% deduction cap and the SAFE Bet Act. AGA's September/Q3 tracker (due mid-to-late November) will confirm whether Q3-26 total GGR was flat or marginally up.
+
+- **iGaming growth:** 12% (Q3-26) → est. 8–11% in 2027 (no new states; base effects; share fragmentation)
+- **Sports betting GGR:** flat handle ex-events; GGR ±10% on hold swings (Missouri annualises; prediction-market substitution in mature states)
+- **State tax rates:** further hikes likely in 2027 budgets (NJ/MD/LA/IL 2025 precedents; Aug-26 receipts -1.5%)
+- **Prediction markets:** >$82bn/month, growing >25% MoM (court/CFTC ruling in 2027 is the binary)
+
+Our independent view: **regulated US online GGR grows mid-to-high single digits in 2027 (estimate), with iGaming at ~8–11% and sports betting roughly flat to +5% ex-hold**, absent a new-state catalyst. **The duopoly's share is stable but its margin is not** — the FanDuel/DraftKings 9.5–10.4% structural hold is the ceiling the whole market prices against, and promo intensity will stay high in iGaming as challengers take share. **Tax direction is unambiguously up**: expect at least two more large states to raise online rates or add per-wager levies by mid-2027 (estimate), and expect New York's 51% to remain the reference point for treasuries. **Prediction markets are the swing factor**: if appellate courts affirm CFTC pre-emption, a nationally available, untaxed sports product permanently caps regulated-state sportsbook growth and forces the incumbents (and any entrant) to run both models; if states prevail, the channel shrinks to non-sports contracts and the $1.5bn+ of displaced tax returns to the regulated base. **For B2Tech**, the risk-adjusted entry path is B2B supply plus, at most, a market-access-based B2C position in Michigan/New Jersey-type regimes; a stand-alone sportsbook build in New York/Pennsylvania-type regimes is not economic at sub-10% share.
+
+**What to watch next quarter:**
+
+- AGA Q3-26 Commercial Gaming Revenue Tracker (Nov-26): national September handle/GGR, confirmation of Q3 total GGR direction and the online share of revenue.
+- Prediction-market litigation and CFTC policy: Third/Fourth/Ninth Circuit rulings on state authority over sports event contracts, any CFTC rulemaking, and whether DraftKings/FanDuel prediction products reach material volume.
+- 2027 state budget proposals (Jan–Jun 2027): online sports/iGaming rate changes in NY, PA, IL, OH, MI, MA, MD; any new per-wager levies following Illinois.
+- iGaming legalisation bills in NY, MD, IL, IN, VA, ME for the 2027 sessions — the only lever that restores double-digit iGaming growth.
+- Federal: FAIR BET Act progress on the OBBBA 90% loss-deduction cap; SAFE Bet Act hearings; any federal sweepstakes/prediction-market legislation.
+- Q4-26 operator prints (Flutter, DraftKings, MGM/BetMGM, Caesars, Rush Street) for NFL-season hold, promo rates and iGaming share — particularly whether DraftKings' Q3 share recovery (20.9% → 22.2%) holds.
+- Sweepstakes enforcement and further state bans; state-AG actions against offshore and 'skill' operators that AGA cites as untaxed competition.
+
+### Sources
+
+**Data confidence: MEDIUM.** FX: market reports natively in USD; no conversion applied. Verified in-session: Citizens Q3-26 share/margin data (via NEXT.io, 27 Oct 2026 — the Citizens PDF itself is access-restricted); AGA July-26 and August-26 trackers (via SoloAzar/iGaming.org relays of AGA text); AGA State of the States 2026 FY2025 totals ($78.62bn GGR, $17.86bn tax; AGA's Feb-26 preliminary release cited $78.7bn/$18.1bn — gap noted); September-26 iGaming by state (SportsBettingDime compilation of PGCB/MGCB/DGE/DCP/lottery reports); September-26 sports handle (Gambling Insider 15-state, Stifel/LSR 13-state, rg.org/GamingToday state prints); Boyd Q3-26 8-K; BetMGM Q3-26 revenue (trade press). NOT verified in-session and flagged in text: AGA September/Q3-26 national totals (not yet published at 11 Nov 2026 — Q3 iGaming total is a sum of monthlies, Q3 sports totals are n/a); statutory tax rates and licence fees (from enabling legislation as previously known; treat as directional until re-checked against each regulator); 2026 status of prediction-market litigation, sweepstakes enforcement, operator exits and iGaming legalisation bills; payments and advertising rule specifics. rg.org FY2025 sports figures ($165.77bn handle / $16.53bn GGR / $3.66bn tax) are a secondary compilation that may include non-commercial jurisdictions and are not reconciled to AGA. Web-tool budget was exhausted mid-research, which prevented direct reads of the NJ DGE, PGCB, MGCB and NYSGC September releases; figures from those regulators are quoted via the named trackers.
+
+1. [Secondary] NEXT.io — 'US iGaming growth slows to record low in Q3 2026, Citizens data reveals' (27 Oct 2026) [secondary; lead article] — https://next.io/news/results/citizens-us-igaming-growth-q3/
+2. [Secondary] Citizens (JMP) Q3 2026 US online gaming data, research PDF [market intelligence; access-restricted — not read directly] — https://citizens.bluematrix.com/links2/pdf/7240971d-5f7b-4648-b079-587511ac0b8e
+3. [Primary] American Gaming Association — Commercial Gaming Revenue Tracker (compilation of state regulator data) [primary industry statistics] — https://www.americangaming.org/resources/commercial-gaming-revenue-tracker/
+4. [Primary] American Gaming Association — State of the States 2026 (FY2025 commercial gaming revenue and tax) [primary industry statistics] — https://www.americangaming.org/resources/state-of-the-states-2026/
+5. [Primary] AGA — State of the States 2026 full report PDF [primary] — https://www.americangaming.org/wp-content/uploads/2026/05/AGA-State-of-the-States-2026.pdf
+6. [Primary] AGA — Sports event contracts / prediction-market tax displacement tracker [primary industry estimate] — https://www.americangaming.org/sports-event-contracts/
+7. [Secondary] SoloAzar — relay of AGA July 2026 Commercial Gaming Revenue Tracker text [secondary relay of primary] — https://www.soloazar.com/en/category/reports-and-data/us-commercial-gaming-revenue-hits-new-heights-in-july-2026
+8. [Secondary] iGaming.org — 'US Sports Betting Revenue Falls 15.6% As Lower Hold Hits August Results' (AGA August 2026 tracker) [secondary relay of primary] — https://igaming.org/casino-news/us-sports-betting-revenue-falls-15-6-as-lower-hold-hits-august-results/
+9. [Secondary] SportsBettingDime — 'US Online Casino Revenue Reaches $1.02 Billion Again In September' (state regulator compilation) [secondary] — https://www.sportsbettingdime.com/news/casino/us-online-casino-revenue-september-2026/
+10. [Secondary] Gambling Insider — 'Prediction Markets Surge in September as US Sportsbook Handle Stays Flat' (15-state September 2026 handle) [secondary] — https://www.gamblinginsider.com/news/200921/prediction-markets-sportsbook-handle-september-2026
+11. [Secondary] Legal Sports Report — 'Prediction Markets Trail Sportsbooks In Key Growth Metric, Stifel Finds' (20 Oct 2026) [secondary; Stifel estimates] — https://www.legalsportsreport.com/282948/prediction-markets-trail-sportsbooks-in-key-growth-metric-stifel-finds/
+12. [Secondary] Legal Sports Report — US Sports Betting Revenue & Handle tracker (cumulative by state) [secondary compilation of regulator data] — https://www.legalsportsreport.com/sports-betting/states/revenue/
+13. [Secondary] rg.org — U.S. Sports Betting Statistics (September 2026 state handle; FY2025 totals) [secondary compilation] — https://rg.org/statistics/us
+14. [Secondary] rg.org — 'US Sports Betting Revenue September 2026: Report 1' (first eight states) [secondary] — https://rg.org/news/gambling-industry/us-sports-betting-revenue-september-2026-week-1
+15. [Secondary] GamingToday — Sports Betting Revenue by State tracker (NJ/PA/MI September 2026) [secondary compilation of DGE/PGCB/MGCB reports] — https://www.gamingtoday.com/sports-betting/states/revenue/
+16. [Primary] PR Newswire — AGA: 'Commercial Gaming Revenue Hits $78.7 Billion in 2025, Driving Record $18.1 Billion in Gaming Taxes' (preliminary, Feb 2026) [primary press release] — https://www.prnewswire.com/news-releases/commercial-gaming-revenue-hits-78-7-billion-in-2025--driving-record-18-1-billion-in-gaming-taxes-nationwide-302697602.html
+17. [Secondary] Casino Reports — 'AGA Report: Commercial Gaming Revenue Up 9.1% In 2025, Online Casino Up 27.6%' [secondary] — https://www.casinoreports.com/aga-state-states-report-2026/
+18. [Secondary] Casino Compendium — AGA Q1 2025 Commercial Gaming Revenue Tracker (online share 32.8%) [secondary relay of primary] — https://casinocompendium.com/en/aga-publishes-us-commercial-gaming-revenue-tracker/
+19. [Primary] Boyd Gaming — Form 8-K, Q3 2026 results (22 Oct 2026) [primary] — https://www.sec.gov/Archives/edgar/data/0000906553/000143774926033268/ex_996638.htm
+20. [Primary] BetMGM — Q3 2026 Business Update press release (13 Oct 2026) [primary] — https://www.nasdaq.com/press-release/betmgm-q3-2026-business-update-2026-10-13
+21. [Secondary] iGamingFuture — 'BetMGM Q3 2026: Net Revenue up 7% to $710m' [secondary] — https://igamingfuture.com/betmgm-q3-2026-2/
+22. [Secondary] Motley Fool — DraftKings Q3 2026 earnings call transcript (6 Nov 2026) [secondary; not read in full] — https://www.fool.com/earnings/call-transcripts/2026/11/06/draftkings-dkng-q3-2026-earnings-call-transcript/
+23. [Secondary] Gambling Insider — 'Why 2026 Could Decide the Future of Prediction Markets' (CFTC position, Kalshi share) [secondary] — https://www.gamblinginsider.com/news/100146/why-2026-could-decide-future-of-prediction-markets
+24. [Secondary] iGaming.org — 'Dina Titus Urges Congress to Restore Full Gambling Loss Tax Deduction' (Nov 2026) [secondary] — https://igaming.org/casino-news/dina-titus-urges-congress-to-restore-full-gambling-loss-tax-deduction/
+25. [Secondary] Data-confidence note: MEDIUM — AGA Q3-26 national tracker not yet published; Citizens PDF not directly readable; statutory tax/fee tables and 2026 litigation/legislative status drawn from enabling legislation and prior-period knowledge and flagged [not re-verified in-session].
+
+*Research analysis only — not a rating, price target, or personalised investment advice.*
