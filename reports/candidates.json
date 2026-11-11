@@ -1269,7 +1269,8 @@
     "period": "Q3 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238451-ballys-corp-posts-strong-preliminary-results-for-q3/",
-      "https://www.gamblinginsider.com/news/203004/ballys-q3-2026-results-revenue-21-7-10-q-delayed"
+      "https://www.gamblinginsider.com/news/203004/ballys-q3-2026-results-revenue-21-7-10-q-delayed",
+      "https://igamingbusiness.com/finance/ballys-q3-results/"
     ],
     "seen": "2026-11-10"
   },
@@ -1303,7 +1304,8 @@
     "period": "Q3 2026",
     "urls": [
       "https://next.io/news/results/playtech-lifts-full-year-earnings-guidance-amid-americas-growth/",
-      "https://www.gamingintelligence.com/finance/238481-playtech-sees-strong-growth-in-the-americas-in-2026/"
+      "https://www.gamingintelligence.com/finance/238481-playtech-sees-strong-growth-in-the-americas-in-2026/",
+      "https://casinobeats.com/2026/11/10/playtech-lifts-2026-profit-guidance-above-e300m-but-warns-2027-will-be-weaker/"
     ],
     "seen": "2026-11-10"
   },
@@ -1314,7 +1316,8 @@
     "ticker": "INLOT",
     "period": "Q3 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238460-ballys-intralot-grows-revenue-to-e286-1-million-in-q3/"
+      "https://www.gamingintelligence.com/finance/238460-ballys-intralot-grows-revenue-to-e286-1-million-in-q3/",
+      "https://casinobeats.com/2026/11/11/ballys-intralot-speeds-up-uk-online-growth-under-40-duty-as-evoke-deal-slips-to-2027/"
     ],
     "seen": "2026-11-10"
   },
@@ -1338,6 +1341,28 @@
     "urls": [
       "https://next.io/news/results/q326-brightstar-cuts-guidance-pressure-lottery-spending/",
       "https://www.gamingintelligence.com/finance/238507-brightstar-lottery-posts-lower-net-income-as-q3-revenue-falls-4/"
+    ],
+    "seen": "2026-11-11"
+  },
+  {
+    "key": "lotto nz|FY 2026",
+    "type": "company",
+    "company": "Lotto NZ",
+    "ticker": null,
+    "period": "FY 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238360-lotto-nz-reports-3-sales-growth-in-fy2026/"
+    ],
+    "seen": "2026-11-11"
+  },
+  {
+    "key": "juris|illinois|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Illinois",
+    "authority": "Illinois Lottery",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238514-illinois-lottery-sales-fall-below-300-million-in-september/"
     ],
     "seen": "2026-11-11"
   }
