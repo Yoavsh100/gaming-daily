@@ -1134,7 +1134,8 @@
       "https://next.io/news/results/playtech-lifts-full-year-earnings-guidance-amid-americas-growth/",
       "https://casinobeats.com/2026/11/10/playtech-lifts-2026-profit-guidance-above-e300m-but-warns-2027-will-be-weaker/",
       "https://www.gamingintelligence.com/finance/238481-playtech-sees-strong-growth-in-the-americas-in-2026/",
-      "https://igamingfuture.com/playtech-trading-update/"
+      "https://igamingfuture.com/playtech-trading-update/",
+      "https://europeangaming.eu/portal/latest-news/2026/11/11/217818/playtech-trading-update-2026-ebitda-guidance/"
     ],
     "seen": "2026-11-10"
   },
@@ -1336,6 +1337,15 @@
     "urls": [
       "https://www.gamingintelligence.com/finance/238490-new-hampshire-sports-betting-tops-85-million-in-september/"
     ],
+    "seen": "2026-11-12"
+  },
+  {
+    "key": "juris|iowa|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Iowa",
+    "authority": "Iowa Racing and Gaming Commission",
+    "period": "OCTOBER 2026",
+    "urls": [],
     "seen": "2026-11-12"
   }
 ]
