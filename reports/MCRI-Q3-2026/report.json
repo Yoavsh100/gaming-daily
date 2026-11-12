@@ -1,0 +1,1558 @@
+{
+  "company": {
+    "name": "Monarch Casino & Resort",
+    "ticker": "MCRI",
+    "exchange": ""
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 2298392,
+    "output": 57101,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 82,
+    "cacheRead": 2179560,
+    "cacheWrite": 118750,
+    "turns": 1
+  },
+  "prepared": "12 Nov 2026",
+  "report": {
+    "releaseDate": "27 Oct 2026 (after market close)",
+    "currency": "USD (tables in $ millions unless stated)",
+    "verdict": "A record but decelerating quarter: net revenue +2.4% to $146.3m and adj. EBITDA +2.1% to $56.0m were both Q3 records, yet both missed the Street (~$148m revenue; EPS $1.76 vs ~$1.86) and growth slowed sharply from H1's +6.4%/+10.3%. The 38.3% margin held, net cash rose to $137.4m with zero debt and $42m went back to holders in the quarter — but with organic growth converging on low single digits, the equity now hinges on Q4 seasonality, the pending ~$75m PCL appeal, and whether the Farahis finally deploy the balance sheet beyond buybacks.",
+    "kpis": [
+      {
+        "label": "Net revenue (Q3 record)",
+        "value": "$146.3m",
+        "delta": "+2.4% YoY; vs ~$148.0m consensus",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA (non-GAAP)",
+        "value": "$56.0m",
+        "delta": "+2.1% YoY; margin 38.3% (-11bps)",
+        "dir": "up"
+      },
+      {
+        "label": "Diluted EPS (GAAP)",
+        "value": "$1.76",
+        "delta": "+4.1% YoY; cons. $1.84–1.91",
+        "dir": "up"
+      },
+      {
+        "label": "Net income (GAAP)",
+        "value": "$32.0m",
+        "delta": "+1.4% YoY; ETR 24.0% vs 18.5%",
+        "dir": "up"
+      },
+      {
+        "label": "Net cash (no debt)",
+        "value": "$137.4m",
+        "delta": "+$40.9m YTD after $70.9m returned",
+        "dir": "up"
+      },
+      {
+        "label": "Capital returned in Q3",
+        "value": "$42.3m",
+        "delta": "$37.0m buyback + $5.3m dividend",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**Record print, Street miss.** Q3-26 net revenue +2.4% YoY to a record $146.3m vs ~$148.0m consensus (-1.2%); GAAP diluted EPS $1.76 (+4.1%) vs a $1.84–1.91 consensus range (MarketBeat $1.86; Zacks $1.91; S&P $1.84); adj. EBITDA $56.0m (+2.1%) was flagged by secondary sources as marginally below estimates. Shares gapped ~7% lower at the open and closed ~2.6% down.",
+      "**Sharp deceleration versus H1.** Implied H1-26 net revenue was +6.4% and adj. EBITDA +10.3%; Q3 slowed to +2.4%/+2.1%. Hotel went from +13.2% (H1) to +0.9%, casino from +5.8% to +3.4%, F&B from +4.3% to +1.3% — the Atlantis room-count/convention tailwind of H1 has been lapped and 2025's +3.6% Q3 comp was itself a record.",
+      "**No formal guidance, so the 'bridge' is consensus-to-actual.** Monarch does not guide. The ~$1.7m revenue shortfall sits in near-flat hotel and F&B; on EPS the effective tax rate (24.0% vs 18.5%) cost ~$2.3m / ~$0.13 — at the prior-year ETR EPS would have been ~$1.89, i.e. above consensus. There is no divisional attribution because the company reports a single segment.",
+      "**Margin held near record.** Adj. EBITDA margin 38.3% (-11bps YoY, +115bps QoQ); casino opex ratio flat at 35.8% of casino revenue; F&B 69.6% (-33bps, higher revenue per cover); hotel 31.3% (-10bps, higher ADR, lower cost per occupied room). SG&A was the only line to de-lever: +5.4% to $29.0m, 19.8% of revenue (+56bps) on legal and employee costs.",
+      "**EPS quality: a D&A tailwind and a tax headwind.** D&A fell 23% to $10.8m (-$3.2m), lifting GAAP operating income +8.1% to $41.3m (28.2% margin, +149bps) — a non-cash roll-off, not operating leverage. Pre-tax +8.7%, but net income only +1.4% as the ETR normalised; 9M ETR is flat at 21.3%, so the Q3 distortion is timing of option-exercise tax benefits.",
+      "**Buybacks did the per-share work.** Diluted shares -3.1% YoY to 18.15m turned +1.4% net income into +4.1% EPS. Q3 repurchases: 300,859 shares for $37.0m (~$123 average — above the ~$112 post-print price); 9M: ~482k shares for $54.9m (~$114 avg). 670,644 shares (~3.8% of 17.64m outstanding, ~$75m) remain under the 3.0m-share authorisation.",
+      "**Dividend maintained.** $0.30/share declared (record 1 Dec, payable 15 Dec 2026), part of the $1.20 annual programme (~1.1% yield); $5.3m paid in Q3, $16.0m in 9M.",
+      "**Balance sheet: $137.4m net cash, revolver undrawn.** Cash rose $40.9m YTD even after $70.9m of buybacks and dividends; 9M operating cash flow $130.0m (+2.7%), capex $19.6m (-35%), FCF (OCF less capex) $110.4m (+14.7%), ~$6.06 per diluted share. Capital returned = 64% of 9M FCF.",
+      "**Capex is running at ~0.6x D&A — and includes a land purchase.** Q3 capex $9.7m covered maintenance, new slot product at both properties and land with a building adjacent to Atlantis (balance-sheet land +$2.2m YTD to $36.9m). No project announced; it reads as a master-plan option on the Reno site. Annualised D&A ~$43m vs ~$26m annualised capex flatters FCF and will need to normalise.",
+      "**PCL litigation remains the overhang.** A $74,627,657 judgment for PCL Construction (Denver District Court, Case 2019cv33368) over the Black Hawk build is under appeal at the Colorado Court of Appeals; PCL has post-judgment motions for 'further release'. Post-judgment interest of $1.1m was accrued in Q3 ($3.3m 9M, ~$4.5m/yr run-rate) and excluded from adj. EBITDA. Construction payables of $47.5m are already carried on the balance sheet.",
+      "**Adj. EBITDA add-backs are growing.** Non-D&A/tax/interest add-backs were $3.9m in Q3 vs $2.6m: stock-based comp $2.6m (+26%, 1.8% of revenue), PCL judgment interest $1.1m, litigation fees $0.2m. We treat the PCL interest as a real economic cost; 'clean' EBITDA growth is closer to +0.5%.",
+      "**Cost base (9M, CODM view): labor is the only lever being pulled.** Labor $120.6m (+2.5%; 28.4% of revenue, -70bps), cost of sales $34.2m (+3.2%), gaming tax & licence $63.2m (+5.1%; 14.8% of revenue), other opex $56.2m (+6.0%). Tax & licence and other opex are growing faster than revenue; the gaming-tax drift is consistent with mix shifting toward Colorado's graduated (up to 20%) regime from Nevada's 6.75%.",
+      "**Segment disclosure is thin.** Atlantis (Reno) and Monarch Black Hawk are two operating segments aggregated into one reportable segment under ASC 280; the CEO is the CODM and allocates on consolidated net income. No property-level revenue, EBITDA, handle, hold, occupancy or ADR is disclosed. The Q1-26 release claimed YoY market-share gains at both properties; the Q3 release is silent on share — a notable omission.",
+      "**M&A rhetoric unchanged, action absent.** Management 'continues to diligently evaluate potential M&A transactions' — the same language for several quarters. With $137m cash, an undrawn facility and ~$210m annualised EBITDA, there is capacity for a meaningful acquisition; insiders (~26%) have not used it. Capital allocation remains the central debate.",
+      "**Explicitly anti-iGaming.** $181k of 9M lobbying expense to oppose iGaming expansion (added back) confirms Monarch is a land-based defender; Colorado/Nevada online casino legislation is a structural thesis risk the company is actively fighting rather than hedging.",
+      "**Related-party footprint persists.** Parking-lot and driveway leases with Biggest Little Investments (Farahi-family partnership) adjacent to Atlantis; weighted remaining lease term 15.3 years, $1.2m cash lease payments in 9M. Governance point rather than a financial one.",
+      "**Valuation framing (estimates).** At ~$112: market cap ~$2.0bn, EV ~$1.84bn, ~8.8x annualised 9M adj. EBITDA, ~7% FCF yield on annualised 9M FCF (a capex-light year). The multiple already discounts low-single-digit growth; re-rating requires a capital-deployment catalyst or PCL resolution.",
+      "**Thesis read-through.** Q3 confirms a mature, debt-free, ~38%-margin two-asset operator whose organic growth has converged to GDP-like rates. The bull case rests on cash conversion plus buybacks (EPS +21% 9M) and optionality on M&A/Atlantis land; the bear case is that the record-margin era is fully priced, growth has rolled over, and a ~$75m legal cash call sits unresolved."
+    ],
+    "groupTable": {
+      "note": "US $m (single reportable segment)",
+      "columns": [
+        "Q3-26",
+        "QoQ",
+        "YoY",
+        "9M-26",
+        "9M YoY"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by property segment",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Atlantis (Reno) + Monarch Black Hawk (aggregated)",
+          "indent": true,
+          "cells": [
+            "146.3",
+            "+2.5%",
+            "+2.4%",
+            "425.4",
+            "+5.0%"
+          ],
+          "footnote": "Property-level P&L not disclosed; QoQ vs derived Q2-26 $142.6m (9M less Q1 less Q3)."
+        },
+        {
+          "label": "Revenue by product",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Casino",
+          "indent": true,
+          "cells": [
+            "82.8",
+            "n/a",
+            "+3.4%",
+            "244.1",
+            "+4.9%"
+          ]
+        },
+        {
+          "label": "Food & beverage",
+          "indent": true,
+          "cells": [
+            "34.3",
+            "n/a",
+            "+1.3%",
+            "99.1",
+            "+3.2%"
+          ]
+        },
+        {
+          "label": "Hotel",
+          "indent": true,
+          "cells": [
+            "22.7",
+            "n/a",
+            "+0.9%",
+            "63.2",
+            "+8.4%"
+          ]
+        },
+        {
+          "label": "Other",
+          "indent": true,
+          "cells": [
+            "6.5",
+            "n/a",
+            "+2.0%",
+            "18.9",
+            "+4.3%"
+          ]
+        },
+        {
+          "label": "Net revenue",
+          "kind": "emphasis",
+          "cells": [
+            "146.3",
+            "+2.5%",
+            "+2.4%",
+            "425.4",
+            "+5.0%"
+          ]
+        },
+        {
+          "label": "Profitability",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Adj. EBITDA (non-GAAP, company definition)",
+          "kind": "emphasis",
+          "cells": [
+            "56.0",
+            "+5.7%",
+            "+2.1%",
+            "158.0",
+            "+7.3%"
+          ],
+          "footnote": "Adds back SBC, PCL judgment interest, litigation fees, iGaming lobbying, asset disposals."
+        },
+        {
+          "label": "Adj. EBITDA margin",
+          "indent": true,
+          "cells": [
+            "38.3%",
+            "+115bps",
+            "-11bps",
+            "37.1%",
+            "+78bps"
+          ]
+        },
+        {
+          "label": "SG&A",
+          "indent": true,
+          "cells": [
+            "29.0",
+            "n/a",
+            "+5.4%",
+            "85.3",
+            "+4.7%"
+          ]
+        },
+        {
+          "label": "SG&A % of net revenue",
+          "indent": true,
+          "cells": [
+            "19.8%",
+            "n/a",
+            "+56bps",
+            "20.1%",
+            "-6bps"
+          ]
+        },
+        {
+          "label": "Depreciation & amortisation",
+          "indent": true,
+          "cells": [
+            "10.8",
+            "n/a",
+            "-23.1%",
+            "31.9",
+            "-21.8%"
+          ]
+        },
+        {
+          "label": "Other operating items, net (PCL interest, litigation)",
+          "indent": true,
+          "cells": [
+            "1.3",
+            "n/a",
+            "+141%",
+            "4.5",
+            "+129%"
+          ]
+        },
+        {
+          "label": "Operating income (GAAP)",
+          "indent": true,
+          "cells": [
+            "41.3",
+            "n/a",
+            "+8.1%",
+            "114.8",
+            "+16.7%"
+          ]
+        },
+        {
+          "label": "Operating margin",
+          "indent": true,
+          "cells": [
+            "28.2%",
+            "n/a",
+            "+149bps",
+            "27.0%",
+            "+271bps"
+          ]
+        },
+        {
+          "label": "Effective tax rate",
+          "indent": true,
+          "cells": [
+            "24.0%",
+            "n/a",
+            "+548bps",
+            "21.3%",
+            "-2bps"
+          ]
+        },
+        {
+          "label": "Net income (GAAP)",
+          "kind": "emphasis",
+          "cells": [
+            "32.0",
+            "-1.6%",
+            "+1.4%",
+            "92.1",
+            "+17.4%"
+          ]
+        },
+        {
+          "label": "Diluted EPS (GAAP)",
+          "kind": "emphasis",
+          "cells": [
+            "$1.76",
+            "-1.1%",
+            "+4.1%",
+            "$5.06",
+            "+21.1%"
+          ],
+          "footnote": "QoQ vs Q2-26 $1.78 (secondary source). Company does not report an adjusted EPS."
+        },
+        {
+          "label": "Basic EPS (GAAP)",
+          "indent": true,
+          "cells": [
+            "$1.80",
+            "n/a",
+            "+4.0%",
+            "$5.17",
+            "+21.1%"
+          ]
+        },
+        {
+          "label": "Diluted shares (m)",
+          "indent": true,
+          "cells": [
+            "18.15",
+            "n/a",
+            "-3.1%",
+            "18.22",
+            "-2.9%"
+          ]
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Avg monthly players / ARPU",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Not disclosed by the company."
+        },
+        {
+          "label": "Slot handle / table drop / hold",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Shares outstanding, period end (m)",
+          "indent": true,
+          "cells": [
+            "17.64",
+            "n/a",
+            "n/a",
+            "17.64",
+            "-1.0% YTD"
+          ]
+        },
+        {
+          "label": "Cash flow & capital",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Operating cash flow",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "130.0",
+            "+2.7%"
+          ],
+          "footnote": "Only 9M cash flow is disclosed in the 10-Q."
+        },
+        {
+          "label": "Capex",
+          "indent": true,
+          "cells": [
+            "9.7",
+            "n/a",
+            "n/a",
+            "19.6",
+            "-35.4%"
+          ]
+        },
+        {
+          "label": "Free cash flow (OCF less capex, analyst calc.)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "110.4",
+            "+14.7%"
+          ]
+        },
+        {
+          "label": "Share repurchases",
+          "indent": true,
+          "cells": [
+            "37.0",
+            "n/a",
+            "n/a",
+            "54.9",
+            "+75.3%"
+          ]
+        },
+        {
+          "label": "Dividends paid",
+          "indent": true,
+          "cells": [
+            "5.3",
+            "n/a",
+            "n/a",
+            "16.0",
+            "-3.1%"
+          ]
+        },
+        {
+          "label": "Cash & equivalents (period end)",
+          "indent": true,
+          "cells": [
+            "137.4",
+            "n/a",
+            "n/a",
+            "137.4",
+            "vs 96.5 at Dec-25"
+          ]
+        },
+        {
+          "label": "Borrowings",
+          "indent": true,
+          "cells": [
+            "0.0",
+            "—",
+            "—",
+            "0.0",
+            "Revolver undrawn"
+          ]
+        },
+        {
+          "label": "Net cash / leverage",
+          "kind": "emphasis",
+          "cells": [
+            "137.4 net cash",
+            "n/a",
+            "n/a",
+            "0.0x",
+            "Net cash position"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Consolidated casino resorts — revenue streams (Casino / F&B / Hotel / Other)",
+        "headline": "Casino carried the quarter (+3.4%) while hotel and F&B growth stalled as the Atlantis room-count comp normalised; departmental cost ratios were stable to slightly better.",
+        "narrative": [
+          "They reported net revenue of $146.3m, up 2.4% year-on-year and 2.5% on the derived Q2-26 base of $142.6m, with all four lines growing but none quickly: casino +3.4% to $82.8m (56.6% of mix, +53bps), food & beverage +1.3% to $34.3m, hotel +0.9% to $22.7m and other +2.0% to $6.5m. Set against the implied first half — net revenue +6.4%, casino +5.8%, F&B +4.3%, hotel +13.2% — this is a clear step-down, and it is the hotel line that explains most of the change: H1 benefited from more available rooms at Atlantis and stronger convention and group business, and that tailwind has now been lapped against a Q3-25 comparison that was itself a record (+3.6%). Management offered no volume/price split — the release carries no slot handle, table drop, hold, occupancy or ADR figures — only that ADR rose and revenue per cover improved, so we cannot say how much of the casino growth was win rate versus volume.",
+          "Casino revenue of $82.8m converted at an unchanged 35.8% direct-cost ratio, producing departmental profit of $53.2m (+3.3%) at a 64.2% margin; on a nine-month view casino is +4.9% to $244.1m with the cost ratio 62bps better at 35.8%. The one cost line moving against them is gaming tax and licence, up 5.1% in 9M against revenue +4.9%, which is consistent with the growth mix skewing toward Black Hawk, where Colorado's graduated tax tops out at 20% versus Nevada's 6.75% [analyst inference — the company does not split tax by property]. Q3 capex included new gaming equipment at both properties, which is the only product-refresh datapoint given. Notably, the Q1-26 release had stated that market share increased year-on-year at both Atlantis and Monarch Black Hawk; the Q3 release makes no market-share claim at all, which we read as a signal that share was at best flat in the quarter — the Colorado Division of Gaming's Black Hawk AGP series and the Nevada GCB's Washoe County data are the places to check, but we were unable to access them for this note.",
+          "Food & beverage grew 1.3% to $34.3m with the direct-cost ratio improving 33bps to 69.6% on higher revenue per cover, leaving departmental profit of $10.4m (+2.4%) at a 30.4% margin; on nine months F&B is +3.2% with the cost ratio 26bps worse at 71.7%, so Q3 was the better quarter for F&B cost control. Hotel revenue of $22.7m (+0.9%) carried a 31.3% cost ratio (-10bps) on the back of higher ADR and lower operating cost per occupied room, for departmental profit of $15.6m (+1.0%) at a 68.7% margin; on nine months hotel is +8.4% to $63.2m with the cost ratio 119bps better at 33.0% and departmental profit +10.4%. Across the 1,333 rooms (817 at Atlantis, 516 at Black Hawk) that is a highly profitable hotel operation, but the growth phase from room additions looks over for now, and without occupancy or RevPAR disclosure we cannot tell whether Q3's +0.9% was rate-led with softer occupancy or simply a tough comp.",
+          "Below the departments, SG&A rose 5.4% to $29.0m, or 19.8% of net revenue (+56bps), attributed to legal and employee-related costs; roughly $0.5m of the $1.5m increase is higher stock-based compensation ($2.6m, +26%), which is added back, and the PCL-related legal costs sit in 'other operating items' rather than SG&A, so the SG&A legal increase is incremental to the litigation line. Adj. EBITDA came in at $56.0m with the margin at 38.3%, 11bps below last year's Q3 record and 115bps above Q2. The GAAP lines then diverge: D&A fell $3.2m (-23%) to $10.8m as expansion-era assets rolled off, lifting operating income 8.1% to $41.3m (28.2% margin, +149bps), while the effective tax rate jumped to 24.0% from 18.5% because last year's quarter carried option-exercise tax benefits; net income was therefore only +1.4% at $32.0m, and the 3.1% lower diluted share count delivered +4.1% EPS to $1.76. Had the ETR matched the prior year, net income would have been ~$34.3m and EPS ~$1.89 — above consensus — which is the single most important point in judging the 'miss'.",
+          "There is no segment guidance. The seasonal shape is well established — adj. EBITDA margin ran 35.9% in Q1-26, 37.2% in Q2 and 38.3% in Q3 — so Q4 should step down on both revenue and margin. On the Q3 run-rate we would pencil Q4-26E net revenue of ~$133–138m and adj. EBITDA of ~$47–50m (35–36% margin), with winter weather in Black Hawk the usual swing factor; these are our estimates, not company guidance, and the Q4-25 base is not disclosed in the documents reviewed."
+        ],
+        "table": {
+          "note": "US $m",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Casino",
+              "indent": true,
+              "cells": [
+                "82.8",
+                "n/a",
+                "+3.4%",
+                "244.1",
+                "+4.9%"
+              ]
+            },
+            {
+              "label": "Food & beverage",
+              "indent": true,
+              "cells": [
+                "34.3",
+                "n/a",
+                "+1.3%",
+                "99.1",
+                "+3.2%"
+              ]
+            },
+            {
+              "label": "Hotel",
+              "indent": true,
+              "cells": [
+                "22.7",
+                "n/a",
+                "+0.9%",
+                "63.2",
+                "+8.4%"
+              ]
+            },
+            {
+              "label": "Other",
+              "indent": true,
+              "cells": [
+                "6.5",
+                "n/a",
+                "+2.0%",
+                "18.9",
+                "+4.3%"
+              ]
+            },
+            {
+              "label": "Net revenue",
+              "kind": "emphasis",
+              "cells": [
+                "146.3",
+                "+2.5%",
+                "+2.4%",
+                "425.4",
+                "+5.0%"
+              ]
+            },
+            {
+              "label": "Implied H1-26 growth (for reference)",
+              "indent": true,
+              "cells": [
+                "—",
+                "—",
+                "—",
+                "H1: +6.4%",
+                "Casino +5.8% / F&B +4.3% / Hotel +13.2%"
+              ]
+            },
+            {
+              "label": "Mix (% of net revenue)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Casino",
+              "indent": true,
+              "cells": [
+                "56.6%",
+                "n/a",
+                "+53bps",
+                "57.4%",
+                "-3bps"
+              ]
+            },
+            {
+              "label": "Food & beverage",
+              "indent": true,
+              "cells": [
+                "23.4%",
+                "n/a",
+                "-27bps",
+                "23.3%",
+                "-40bps"
+              ]
+            },
+            {
+              "label": "Hotel",
+              "indent": true,
+              "cells": [
+                "15.5%",
+                "n/a",
+                "-24bps",
+                "14.9%",
+                "+47bps"
+              ]
+            },
+            {
+              "label": "Departmental expense ratios (% of own revenue)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Casino opex / casino revenue",
+              "indent": true,
+              "cells": [
+                "35.8%",
+                "n/a",
+                "+2bps",
+                "35.8%",
+                "-62bps"
+              ]
+            },
+            {
+              "label": "F&B opex / F&B revenue",
+              "indent": true,
+              "cells": [
+                "69.6%",
+                "n/a",
+                "-33bps",
+                "71.7%",
+                "+26bps"
+              ]
+            },
+            {
+              "label": "Hotel opex / hotel revenue",
+              "indent": true,
+              "cells": [
+                "31.3%",
+                "n/a",
+                "-10bps",
+                "33.0%",
+                "-119bps"
+              ]
+            },
+            {
+              "label": "Other opex / other revenue",
+              "indent": true,
+              "cells": [
+                "50.3%",
+                "n/a",
+                "+109bps",
+                "50.7%",
+                "-43bps"
+              ]
+            },
+            {
+              "label": "Departmental profit (revenue less direct opex, analyst calc.)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Casino (margin 64.2%)",
+              "indent": true,
+              "cells": [
+                "53.2",
+                "n/a",
+                "+3.3%",
+                "156.8",
+                "+6.0%"
+              ]
+            },
+            {
+              "label": "Food & beverage (margin 30.4%)",
+              "indent": true,
+              "cells": [
+                "10.4",
+                "n/a",
+                "+2.4%",
+                "28.1",
+                "+2.3%"
+              ]
+            },
+            {
+              "label": "Hotel (margin 68.7%)",
+              "indent": true,
+              "cells": [
+                "15.6",
+                "n/a",
+                "+1.0%",
+                "42.4",
+                "+10.4%"
+              ]
+            },
+            {
+              "label": "Other (margin 49.7%)",
+              "indent": true,
+              "cells": [
+                "3.2",
+                "n/a",
+                "-0.2%",
+                "9.3",
+                "+5.2%"
+              ]
+            },
+            {
+              "label": "SG&A",
+              "indent": true,
+              "cells": [
+                "29.0",
+                "n/a",
+                "+5.4%",
+                "85.3",
+                "+4.7%"
+              ]
+            },
+            {
+              "label": "Adj. EBITDA",
+              "kind": "emphasis",
+              "cells": [
+                "56.0",
+                "+5.7%",
+                "+2.1%",
+                "158.0",
+                "+7.3%"
+              ]
+            },
+            {
+              "label": "Adj. EBITDA margin",
+              "indent": true,
+              "cells": [
+                "38.3%",
+                "+115bps",
+                "-11bps",
+                "37.1%",
+                "+78bps"
+              ]
+            },
+            {
+              "label": "Operating KPIs",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Slot handle / table drop / hold %",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "Not disclosed"
+              ]
+            },
+            {
+              "label": "Hotel occupancy / ADR / RevPAR",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "ADR 'increased' — no figure"
+              ]
+            },
+            {
+              "label": "Market share (Reno / Black Hawk)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "Q1-26: 'increased' at both; Q3 silent"
+              ]
+            },
+            {
+              "label": "Rooms (Atlantis / Black Hawk)",
+              "indent": true,
+              "cells": [
+                "817 / 516",
+                "—",
+                "—",
+                "1,333 total",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Net revenue and mix",
+            "takeaway": "Net revenue rose 2.4% to $146.3m with all four lines growing slowly, a clear step-down from implied H1 growth of +6.4%.",
+            "points": [
+              "Net revenue +2.4% year-on-year and +2.5% on the derived Q2-26 base of $142.6m.",
+              "Casino +3.4% to $82.8m (56.6% of mix, +53bps); F&B +1.3% to $34.3m; hotel +0.9% to $22.7m; other +2.0% to $6.5m.",
+              "Implied H1: net revenue +6.4%, casino +5.8%, F&B +4.3%, hotel +13.2%; hotel explains most of the change as Atlantis room additions and group business were lapped.",
+              "Q3-25 comparison was itself a record (+3.6%).",
+              "No slot handle, table drop, hold, occupancy or ADR figures; only that ADR rose and revenue per cover improved, so casino win-rate versus volume is unknown."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Casino department",
+            "takeaway": "Casino departmental profit was $53.2m (+3.3%) at a 64.2% margin on an unchanged 35.8% cost ratio; no market-share claim was made this quarter.",
+            "points": [
+              "Nine-month casino revenue +4.9% to $244.1m with cost ratio 62bps better at 35.8%.",
+              "Gaming tax and licence +5.1% in 9M against revenue +4.9%, consistent with growth skewing to Black Hawk (Colorado tax tops out at 20% versus Nevada's 6.75%) — analyst inference.",
+              "Q3 capex included new gaming equipment at both properties, the only product-refresh datapoint.",
+              "Q1-26 release claimed share gains at both Atlantis and Monarch Black Hawk; the Q3 release makes no market-share claim, which we read as share at best flat.",
+              "Colorado Division of Gaming Black Hawk AGP and Nevada GCB Washoe County data are the checks; not accessed for this note."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "F&B and hotel",
+            "takeaway": "F&B profit rose 2.4% to $10.4m and hotel profit 1.0% to $15.6m, but the hotel growth phase from room additions looks over for now.",
+            "points": [
+              "F&B +1.3% to $34.3m, cost ratio improved 33bps to 69.6% on higher revenue per cover; 30.4% margin. 9M F&B +3.2% with cost ratio 26bps worse at 71.7%.",
+              "Hotel $22.7m (+0.9%), cost ratio 31.3% (-10bps) on higher ADR and lower cost per occupied room; 68.7% margin.",
+              "9M hotel +8.4% to $63.2m, cost ratio 119bps better at 33.0%, departmental profit +10.4%.",
+              "1,333 rooms (817 Atlantis, 516 Black Hawk); without occupancy or RevPAR disclosure we cannot tell if +0.9% was rate-led with softer occupancy or a tough comp."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "SG&A, EBITDA and EPS",
+            "takeaway": "Adj. EBITDA of $56.0m held a 38.3% margin, and EPS of $1.76 (+4.1%) would have been ~$1.89 at last year's tax rate — the key point on the 'miss'.",
+            "points": [
+              "SG&A +5.4% to $29.0m (19.8% of revenue, +56bps) on legal and employee costs; ~$0.5m of the $1.5m rise is stock-based compensation ($2.6m, +26%), which is added back.",
+              "PCL-related legal costs sit in 'other operating items', so the SG&A legal increase is incremental to the litigation line.",
+              "Adj. EBITDA margin 38.3%, 11bps below last year's Q3 record and 115bps above Q2.",
+              "D&A fell $3.2m (-23%) to $10.8m, lifting operating income 8.1% to $41.3m (28.2% margin, +149bps).",
+              "ETR jumped to 24.0% from 18.5% (prior-year option-exercise benefits); net income +1.4% to $32.0m; 3.1% lower share count gave EPS $1.76. At prior ETR, net income ~$34.3m, EPS ~$1.89, above consensus."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Q4 outlook",
+            "takeaway": "No segment guidance; on seasonality we pencil Q4-26E net revenue ~$133–138m and adj. EBITDA ~$47–50m (35–36% margin).",
+            "points": [
+              "Adj. EBITDA margin ran 35.9% in Q1-26, 37.2% in Q2 and 38.3% in Q3, so Q4 should step down on revenue and margin.",
+              "Winter weather in Black Hawk is the usual swing factor.",
+              "These are our estimates, not company guidance; the Q4-25 base is not disclosed in documents reviewed."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Cost base, cash flow & capital allocation (single reportable segment — CODM expense view)",
+        "headline": "Labor leverage and a $3.2m D&A step-down did the heavy lifting; 9M FCF of $110m (+15%) funded $71m of capital returns while cash still rose $41m — but add-backs are growing and the PCL judgment is unresolved.",
+        "narrative": [
+          "The 10-Q's CODM expense table is the closest thing to a cost bridge they provide. On nine months, labor rose 2.5% to $120.6m and fell 70bps as a share of revenue to 28.4% — the only major line being leveraged. Cost of sales rose 3.2% to $34.2m (8.0% of revenue, -15bps), gaming tax and licence rose 5.1% to $63.2m (14.8%, flat) and other operating expense rose 6.0% to $56.2m (13.2%, +12bps); total expenses including tax and interest grew 2.0% to $333.3m against revenue +5.0%, taking the 9M net margin to 21.7% from 19.4%. They run no formal cost-transformation programme with a dollar target or target year; the efficiency narrative in prior quarters has been marketing efficiency and technology, and in Q3 the message was simply 'maintaining operational efficiency'. We would note that other opex and gaming taxes are both growing faster than revenue, so the margin story now depends almost entirely on wage discipline at two properties in tight labor markets.",
+          "The adj. EBITDA bridge deserves scrutiny. Beyond D&A, tax and interest, the Q3 add-backs were $3.9m against $2.6m a year ago: stock-based compensation $2.6m (+26%, now 1.8% of revenue versus 1.5%), $1.1m of accrued post-judgment interest on the PCL judgment, $0.2m of construction-litigation fees and a trivial amount of iGaming lobbying. We treat the PCL interest as a real, recurring cash-bearing cost while the appeal is pending (~$4.5m annualised), on which basis 'clean' EBITDA grew closer to +0.5% than the reported +2.1%. The D&A decline (-$3.2m in Q3, -$8.9m in 9M) reflects shorter-lived expansion-era furniture and equipment reaching the end of their useful lives [analyst inference]; it is a genuine GAAP earnings tailwind for the next several quarters but it is also a reminder that 9M capex of $19.6m is running at ~0.6x D&A of $31.9m, which flatters free cash flow until the refresh cycle returns.",
+          "Nine-month operating cash flow of $130.0m grew only 2.7% against adj. EBITDA +7.3%, with working capital absorbing cash (accrued expenses -$4.8m, receivables -$1.9m, inventories -$1.1m, prepaids -$1.3m) and cash taxes rising. Capex of $19.6m (vs $30.4m) leaves FCF, on our OCF-less-capex definition, at $110.4m (+14.7%), or ~$6.06 per diluted share. On the financing side they spent $54.9m on buybacks, $16.0m on dividends and $7.4m on payroll taxes for net option exercises, partly offset by $11.3m of option proceeds, and still ended with cash of $137.4m, up $40.9m from December. Lease liabilities are modest at $12.6m (parking-lot and driveway leases with the Farahi-related BLI partnership, 15.3-year remaining term, incremental borrowing rate 4.34%). Total assets are $736.1m against equity of $569.5m; there is no debt and the credit facility is undrawn.",
+          "On capital returns, the Q3 buyback of 300,859 shares for $37.0m implies an average price of ~$123 — above the ~$112 at which the stock settled after the print — while the 9M average of ~$114 on ~482k shares is closer to the current level. Shares outstanding fell 1.0% YTD to 17.64m (the gross 2.7% buyback was partly offset by option exercises), and 670,644 shares (~3.8%, ~$75m at current prices) remain authorised, roughly two quarters at the Q3 pace. The $0.30 quarterly dividend was maintained. At ~$112 the market capitalisation is ~$2.0bn and EV ~$1.84bn, which is ~8.8x annualised 9M adj. EBITDA and a ~7% FCF yield on annualised 9M FCF — all our estimates, and the FCF yield is flattered by the light capex year. The M&A line ('continues to diligently evaluate potential M&A transactions') is verbatim from prior quarters; with debt capacity in the high hundreds of millions, the absence of a deal is a choice rather than a constraint.",
+          "The contingent liability is the PCL Construction judgment of $74,627,657 entered by the Denver District Court (Case 2019cv33368) over the Monarch Black Hawk build, now on appeal to the Colorado Court of Appeals, with PCL pursuing post-judgment motions for further release of funds and the company flagging a potential need to post additional bonds or surety. Construction accounts payable of $47.5m (down from $50.2m at December) have sat on the balance sheet since the project and, per prior filings, largely relate to the disputed PCL amounts [analyst reading — the Q3 10-Q section we could access does not restate this]; on that basis an adverse appellate outcome implies incremental cash of roughly $27m plus accrued interest beyond what is already carried, comfortably covered by cash, while a favourable outcome would release working capital and end the ~$1.1m quarterly interest accrual. Either way it is a cash and sentiment event rather than a solvency one."
+        ],
+        "table": {
+          "note": "US $m (9M, CODM expense categories per 10-Q)",
+          "columns": [
+            "9M-26",
+            "9M-25",
+            "YoY",
+            "% of rev 9M-26",
+            "% of rev 9M-25"
+          ],
+          "rows": [
+            {
+              "label": "Net revenue",
+              "kind": "emphasis",
+              "cells": [
+                "425.4",
+                "405.1",
+                "+5.0%",
+                "100.0%",
+                "100.0%"
+              ]
+            },
+            {
+              "label": "CODM expense categories",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Labor",
+              "indent": true,
+              "cells": [
+                "120.6",
+                "117.7",
+                "+2.5%",
+                "28.4%",
+                "29.1%"
+              ]
+            },
+            {
+              "label": "Cost of sales",
+              "indent": true,
+              "cells": [
+                "34.2",
+                "33.2",
+                "+3.2%",
+                "8.0%",
+                "8.2%"
+              ]
+            },
+            {
+              "label": "Tax & licence (gaming, commerce, use, property)",
+              "indent": true,
+              "cells": [
+                "63.2",
+                "60.1",
+                "+5.1%",
+                "14.8%",
+                "14.8%"
+              ]
+            },
+            {
+              "label": "Other operating expense",
+              "indent": true,
+              "cells": [
+                "56.2",
+                "53.0",
+                "+6.0%",
+                "13.2%",
+                "13.1%"
+              ]
+            },
+            {
+              "label": "Depreciation & amortisation",
+              "indent": true,
+              "cells": [
+                "31.9",
+                "40.8",
+                "-21.8%",
+                "7.5%",
+                "10.1%"
+              ]
+            },
+            {
+              "label": "Other operating items, net (PCL interest, litigation, lobbying)",
+              "indent": true,
+              "cells": [
+                "4.5",
+                "2.0",
+                "+129%",
+                "1.1%",
+                "0.5%"
+              ]
+            },
+            {
+              "label": "Interest income, net",
+              "indent": true,
+              "cells": [
+                "(2.2)",
+                "(1.3)",
+                "+69%",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Income tax (ETR)",
+              "indent": true,
+              "cells": [
+                "24.9",
+                "21.2",
+                "+17.3%",
+                "ETR 21.3%",
+                "ETR 21.3%"
+              ]
+            },
+            {
+              "label": "Total expenses",
+              "indent": true,
+              "cells": [
+                "333.3",
+                "326.7",
+                "+2.0%",
+                "78.3%",
+                "80.6%"
+              ]
+            },
+            {
+              "label": "Net income",
+              "kind": "emphasis",
+              "cells": [
+                "92.1",
+                "78.4",
+                "+17.4%",
+                "21.7%",
+                "19.4%"
+              ]
+            },
+            {
+              "label": "Adj. EBITDA reconciliation (Q3)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Stock-based compensation (Q3)",
+              "indent": true,
+              "cells": [
+                "2.6",
+                "2.1",
+                "+26.3%",
+                "1.8% (Q3)",
+                "1.5% (Q3)"
+              ]
+            },
+            {
+              "label": "PCL judgment interest accrual (Q3)",
+              "indent": true,
+              "cells": [
+                "1.1",
+                "0.0",
+                "n/m",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Construction litigation fees (Q3)",
+              "indent": true,
+              "cells": [
+                "0.2",
+                "0.5",
+                "-71%",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Cash flow",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Operating cash flow",
+              "indent": true,
+              "cells": [
+                "130.0",
+                "126.6",
+                "+2.7%",
+                "30.6%",
+                "31.3%"
+              ]
+            },
+            {
+              "label": "Capex",
+              "indent": true,
+              "cells": [
+                "19.6",
+                "30.4",
+                "-35.4%",
+                "4.6%",
+                "7.5%"
+              ]
+            },
+            {
+              "label": "FCF (OCF less capex, analyst calc.)",
+              "kind": "emphasis",
+              "cells": [
+                "110.4",
+                "96.2",
+                "+14.7%",
+                "26.0%",
+                "23.7%"
+              ]
+            },
+            {
+              "label": "Share repurchases",
+              "indent": true,
+              "cells": [
+                "54.9",
+                "31.3",
+                "+75.3%",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Dividends paid",
+              "indent": true,
+              "cells": [
+                "16.0",
+                "16.5",
+                "-3.1%",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Capital returned as % of FCF",
+              "indent": true,
+              "cells": [
+                "64%",
+                "50%",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Balance sheet",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Cash & equivalents (Sep-26 vs Dec-25)",
+              "indent": true,
+              "cells": [
+                "137.4",
+                "96.5",
+                "+$40.9m",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Borrowings",
+              "indent": true,
+              "cells": [
+                "0.0",
+                "0.0",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Construction accounts payable (Sep-26 vs Dec-25)",
+              "indent": true,
+              "cells": [
+                "47.5",
+                "50.2",
+                "-$2.7m",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "PCL judgment (principal, under appeal)",
+              "indent": true,
+              "cells": [
+                "74.6",
+                "74.6",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Buyback authorisation remaining (shares)",
+              "indent": true,
+              "cells": [
+                "670,644",
+                "—",
+                "~3.8% of s/o",
+                "—",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Cost base",
+            "takeaway": "Labor was the only major line leveraged (28.4% of revenue, -70bps); other opex and gaming taxes grew faster than revenue, so margins depend on wage discipline.",
+            "points": [
+              "9M labor +2.5% to $120.6m; cost of sales +3.2% to $34.2m (8.0%, -15bps); gaming tax and licence +5.1% to $63.2m (14.8%, flat); other opex +6.0% to $56.2m (13.2%, +12bps).",
+              "Total expenses including tax and interest +2.0% to $333.3m against revenue +5.0%; 9M net margin 21.7% from 19.4%.",
+              "No formal cost-transformation programme with a dollar target or target year; prior efficiency narrative was marketing efficiency and technology.",
+              "Two properties in tight labor markets make wage discipline the whole margin story."
+            ],
+            "quote": {
+              "text": "maintaining operational efficiency",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "EBITDA add-backs",
+            "takeaway": "Q3 add-backs grew to $3.9m from $2.6m; treating PCL interest as recurring, 'clean' EBITDA grew closer to +0.5% than reported +2.1%.",
+            "points": [
+              "Add-backs: stock-based compensation $2.6m (+26%, 1.8% of revenue vs 1.5%), $1.1m accrued PCL post-judgment interest, $0.2m construction-litigation fees, trivial iGaming lobbying.",
+              "PCL interest is ~$4.5m annualised while the appeal is pending.",
+              "D&A decline (-$3.2m Q3, -$8.9m 9M) reflects expansion-era furniture and equipment reaching end of useful lives (analyst inference); a GAAP tailwind for several quarters.",
+              "9M capex of $19.6m runs at ~0.6x D&A of $31.9m, flattering free cash flow until the refresh cycle returns."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Cash flow and balance sheet",
+            "takeaway": "9M FCF of $110.4m (+14.7%, ~$6.06 per diluted share) funded $71m of capital returns while cash still rose $40.9m to $137.4m.",
+            "points": [
+              "9M operating cash flow $130.0m, +2.7% against adj. EBITDA +7.3%; working capital absorbed cash (accrued expenses -$4.8m, receivables -$1.9m, inventories -$1.1m, prepaids -$1.3m) and cash taxes rose.",
+              "Capex $19.6m vs $30.4m.",
+              "Financing: $54.9m buybacks, $16.0m dividends, $7.4m payroll taxes on net option exercises, offset by $11.3m option proceeds.",
+              "Lease liabilities $12.6m (BLI partnership parking-lot and driveway leases, 15.3-year term, 4.34% incremental borrowing rate).",
+              "Total assets $736.1m, equity $569.5m; no debt, credit facility undrawn."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Capital returns and valuation",
+            "takeaway": "Q3 buyback of 300,859 shares for $37.0m averaged ~$123, above the ~$112 post-print price; 670,644 shares (~3.8%) remain authorised.",
+            "points": [
+              "9M average ~$114 on ~482k shares; shares outstanding -1.0% YTD to 17.64m as the gross 2.7% buyback was partly offset by option exercises.",
+              "Remaining authorisation ~$75m at current prices, roughly two quarters at the Q3 pace; $0.30 quarterly dividend maintained.",
+              "At ~$112, market cap ~$2.0bn, EV ~$1.84bn: ~8.8x annualised 9M adj. EBITDA and ~7% FCF yield (our estimates, flattered by light capex).",
+              "With debt capacity in the high hundreds of millions, the absence of a deal is a choice rather than a constraint."
+            ],
+            "quote": {
+              "text": "continues to diligently evaluate potential M&A transactions",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "PCL litigation",
+            "takeaway": "The $74,627,657 PCL judgment on appeal is a cash and sentiment event rather than a solvency one.",
+            "points": [
+              "Denver District Court Case 2019cv33368 over the Monarch Black Hawk build; on appeal to the Colorado Court of Appeals; PCL pursuing post-judgment motions for further release of funds.",
+              "Company flags potential need to post additional bonds or surety.",
+              "Construction accounts payable $47.5m (from $50.2m at December) largely relate to disputed PCL amounts per prior filings (analyst reading).",
+              "Adverse outcome implies roughly $27m incremental cash plus accrued interest, comfortably covered by cash; favourable outcome releases working capital and ends the ~$1.1m quarterly interest accrual."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Property view — Atlantis Casino Resort Spa (Reno, NV) and Monarch Casino Resort Spa Black Hawk (CO)",
+        "headline": "Two assets, one disclosure line: no property P&L, no market-share claim this quarter, and the live items are the Black Hawk litigation and the Atlantis land purchase.",
+        "narrative": [
+          "They continue to report Atlantis and Monarch Black Hawk as two operating segments aggregated into a single reportable segment under ASC 280-10-50-11, with the CEO as chief operating decision maker allocating resources on consolidated net income; the only property-specific balance-sheet item is $25.1m of goodwill, all at Black Hawk, with no interim impairment indicators identified. The physical footprint is unchanged: Atlantis has 817 rooms, ~61,000 sq ft of casino with ~1,200 slots and video poker machines, ~30 tables, a race and sportsbook, 24-hour keno, poker, eight food outlets, a 30,000 sq ft spa and ~52,000 sq ft of convention space; Monarch Black Hawk has 516 rooms, ~60,000 sq ft of casino with ~1,100 slots, 37 tables, poker, keno, a sportsbook, four restaurants including the Monarch Chophouse and Bistro Mariposa, a rooftop spa and pool and a ~1,500-space parking capacity. Consolidated Q3 revenue of $146.3m across ~2,300 slots and ~67 tables is the only productivity datapoint available; per-unit win is not disclosed.",
+          "On market position, the Q1-26 release stated that market share increased year-on-year at both properties, extending a multi-year narrative in which Black Hawk has taken share at the upper end of the Denver regional market on the back of its luxury positioning, while Reno is described by management as 'extremely competitive'. The Q3 release drops any reference to share, and with hotel growth collapsing from +13.2% in H1 to +0.9% we suspect the Atlantis room-count tailwind — rather than Black Hawk — explains most of the group deceleration, though without property disclosure this is inference. The Colorado Division of Gaming's monthly Black Hawk adjusted gross proceeds and the Nevada Gaming Control Board's Washoe County win are the external checks; we could not access either for this note and record share as n/a.",
+          "At Atlantis, Q3 capex included the purchase of land with a building adjacent to the property (balance-sheet land +$2.2m YTD to $36.9m; construction in progress +$3.2m to $14.7m) alongside new gaming equipment. Monarch already owns separate parcels next to Atlantis and leases parking-lot and driveway land from Biggest Little Investments, the Farahi-family partnership that owns the adjacent shopping centre. Nothing has been announced, but the pattern — assembling contiguous land while running capex at ~0.6x D&A — is how the Black Hawk expansion began, and a Reno master plan is the obvious use of a $137m cash pile that management is unwilling to put into M&A. Investors should ask for a capital plan before the next 10-K.",
+          "At Black Hawk, the PCL Construction litigation is the overhang: a $74,627,657 judgment in PCL's favour is under appeal at the Colorado Court of Appeals, PCL has filed post-judgment motions for further release of funds, and the company accrued $1.1m of post-judgment interest in Q3 ($3.3m in 9M), excluded from adj. EBITDA. Black Hawk also carries the higher tax burden — Colorado's graduated gaming tax reaches 20% against Nevada's 6.75% top rate — which is consistent with group tax and licence growing faster than revenue as Colorado grows. Separately, $181k of 9M lobbying spend to oppose iGaming expansion shows the company actively defending its land-based franchise in both states rather than preparing a digital option.",
+          "There is no property-level guidance; management's stated commitments are 'technology and other strategic capital investments that enhance both properties' and setting 'the standard for luxury casino resorts in Northern Nevada and Colorado'. What a covering analyst would want — property EBITDA, slot handle and hold, hotel occupancy and ADR, and quarterly share — is not provided, and the Q3 earnings call transcript was not accessible to us, so any property colour management gave on the call is absent from this note and should be checked against the replay."
+        ],
+        "table": {
+          "note": "Disclosed property facts (no property P&L reported)",
+          "columns": [
+            "Atlantis (Reno, NV)",
+            "Monarch Black Hawk (CO)",
+            "Group / comment"
+          ],
+          "rows": [
+            {
+              "label": "Hotel rooms & suites",
+              "cells": [
+                "817",
+                "516",
+                "1,333"
+              ]
+            },
+            {
+              "label": "Casino floor (sq ft, approx.)",
+              "cells": [
+                "~61,000",
+                "~60,000",
+                "~121,000"
+              ]
+            },
+            {
+              "label": "Slot / video poker units (approx.)",
+              "cells": [
+                "~1,200",
+                "~1,100",
+                "~2,300"
+              ]
+            },
+            {
+              "label": "Table games (approx.)",
+              "cells": [
+                "~30",
+                "37",
+                "~67"
+              ]
+            },
+            {
+              "label": "Other amenities",
+              "cells": [
+                "Race & sportsbook, keno, poker, 8 food outlets, 30k sq ft spa, 52k sq ft convention",
+                "Sportsbook, keno, poker, 10 bars, 4 restaurants, rooftop spa/pool, ~1,500 parking",
+                "—"
+              ]
+            },
+            {
+              "label": "Q3-26 revenue / adj. EBITDA",
+              "cells": [
+                "n/a",
+                "n/a",
+                "$146.3m / $56.0m (consolidated only)"
+              ]
+            },
+            {
+              "label": "Market share (Q3-26)",
+              "cells": [
+                "n/a — Q1-26: 'increased YoY'",
+                "n/a — Q1-26: 'increased YoY'",
+                "Q3 release silent on share"
+              ]
+            },
+            {
+              "label": "Goodwill",
+              "cells": [
+                "—",
+                "$25.1m",
+                "$25.1m; no interim impairment"
+              ]
+            },
+            {
+              "label": "Q3-26 capex items",
+              "cells": [
+                "Land + building adjacent; new gaming equipment; maintenance",
+                "New gaming equipment; maintenance",
+                "$9.7m total (9M $19.6m)"
+              ]
+            },
+            {
+              "label": "Gaming tax regime",
+              "cells": [
+                "Nevada, 6.75% top rate",
+                "Colorado, graduated to 20%",
+                "9M tax & licence $63.2m (+5.1%)"
+              ]
+            },
+            {
+              "label": "Litigation",
+              "cells": [
+                "—",
+                "PCL judgment $74.6m; on appeal; $1.1m Q3 interest accrual",
+                "Construction AP $47.5m carried"
+              ]
+            },
+            {
+              "label": "Related-party items",
+              "cells": [
+                "Parking-lot & driveway leases with BLI (Farahi family); 15.3-yr remaining term",
+                "—",
+                "Lease liability $12.6m"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Segment disclosure and footprint",
+            "takeaway": "Two operating segments are aggregated into one reportable segment, with no property P&L; Q3 revenue of $146.3m spans ~2,300 slots and ~67 tables.",
+            "points": [
+              "Aggregated under ASC 280-10-50-11; CEO as CODM allocates on consolidated net income; $25.1m goodwill all at Black Hawk, no interim impairment indicators.",
+              "Atlantis: 817 rooms, ~61,000 sq ft casino, ~1,200 slots and video poker, ~30 tables, race and sportsbook, keno, poker, eight food outlets, 30,000 sq ft spa, ~52,000 sq ft convention space.",
+              "Black Hawk: 516 rooms, ~60,000 sq ft casino, ~1,100 slots, 37 tables, poker, keno, sportsbook, four restaurants, rooftop spa and pool, ~1,500 parking spaces.",
+              "Per-unit win is not disclosed."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Market share",
+            "takeaway": "The Q3 release drops the Q1-26 claim of share gains at both properties; we suspect the Atlantis room tailwind explains most of the deceleration.",
+            "points": [
+              "Black Hawk has taken share at the upper end of the Denver regional market on luxury positioning; Reno described by management as 'extremely competitive'.",
+              "Hotel growth collapsed from +13.2% in H1 to +0.9%; attribution to Atlantis rather than Black Hawk is inference without property disclosure.",
+              "Colorado Black Hawk adjusted gross proceeds and Nevada Washoe County win are external checks; not accessed, share recorded as n/a."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Atlantis land purchase",
+            "takeaway": "Q3 capex included adjacent land with a building at Atlantis, a pattern resembling how the Black Hawk expansion began; investors should ask for a capital plan.",
+            "points": [
+              "Balance-sheet land +$2.2m YTD to $36.9m; construction in progress +$3.2m to $14.7m; plus new gaming equipment.",
+              "Monarch already owns separate adjacent parcels and leases parking-lot and driveway land from Biggest Little Investments, the Farahi-family partnership owning the adjacent shopping centre.",
+              "Nothing announced; assembling contiguous land while running capex at ~0.6x D&A suggests a Reno master plan as the obvious use of the $137m cash pile.",
+              "Ask for a capital plan before the next 10-K."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Black Hawk overhangs",
+            "takeaway": "The PCL judgment of $74,627,657 under appeal is the overhang, with $1.1m Q3 interest accrued ($3.3m 9M) excluded from adj. EBITDA.",
+            "points": [
+              "PCL has filed post-judgment motions for further release of funds.",
+              "Colorado's graduated gaming tax reaches 20% against Nevada's 6.75% top rate, consistent with group tax and licence growing faster than revenue.",
+              "$181k of 9M lobbying spend to oppose iGaming expansion shows defence of the land-based franchise rather than a digital option."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Guidance and disclosure gaps",
+            "takeaway": "No property-level guidance; property EBITDA, slot handle and hold, occupancy, ADR and quarterly share are not provided.",
+            "points": [
+              "Management commits to 'technology and other strategic capital investments that enhance both properties'.",
+              "The Q3 earnings call transcript was not accessible, so any property colour given on the call should be checked against the replay."
+            ],
+            "quote": {
+              "text": "the standard for luxury casino resorts in Northern Nevada and Colorado",
+              "speaker": "Management"
+            }
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Record Q3 net revenue ($146.3m, +2.4%) and adj. EBITDA ($56.0m, +2.1%) with the margin at 38.3%, within 11bps of last year's record — a mature asset base still holding near-peak profitability.",
+        "tag": "structural"
+      },
+      {
+        "text": "Casino revenue +3.4% to $82.8m on an unchanged 35.8% direct-cost ratio; departmental profit $53.2m at 64.2% — the core engine is intact and 9M casino profit is +6.0%.",
+        "tag": "structural"
+      },
+      {
+        "text": "9M FCF (OCF less capex) $110.4m (+14.7%), cash +$40.9m YTD to $137.4m after $70.9m of buybacks and dividends, zero debt and an undrawn revolver — balance sheet optionality is unmatched in the small-cap regional peer set.",
+        "tag": "structural"
+      },
+      {
+        "text": "$37.0m buyback in the quarter (300,859 shares) took diluted shares down 3.1% YoY, converting +1.4% net income into +4.1% EPS; 9M diluted EPS +21.1% to $5.06. Dividend of $0.30 maintained.",
+        "tag": "structural"
+      },
+      {
+        "text": "D&A -23% YoY (-$3.2m) lifted GAAP operating income +8.1% to $41.3m and the operating margin +149bps to 28.2% — a multi-quarter non-cash tailwind to reported EPS as expansion-era assets roll off.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Hotel and F&B cost ratios improved (31.3%, -10bps; 69.6%, -33bps) on higher ADR and revenue per cover, and 9M labor fell 70bps to 28.4% of revenue — pricing power and wage discipline are both still working.",
+        "tag": "structural"
+      },
+      {
+        "text": "Q3 capex included land with a building adjacent to Atlantis — an early sign of a Reno master-plan option for the cash pile, with capex still running at only ~0.6x D&A.",
+        "tag": "early"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Miss on every headline line: revenue $146.3m vs ~$148.0m consensus (-1.2%), diluted EPS $1.76 vs $1.84–1.91, adj. EBITDA marginally below the Street; the stock gapped ~7% lower before closing ~2.6% down.",
+        "tag": "watch"
+      },
+      {
+        "text": "Growth has rolled over: net revenue +6.4% and adj. EBITDA +10.3% in H1 became +2.4% and +2.1% in Q3; hotel slowed from +13.2% to +0.9% as the Atlantis room-count tailwind lapped. With no new capacity, the forward algorithm is low-single-digit organic growth.",
+        "tag": "structural"
+      },
+      {
+        "text": "Effective tax rate 24.0% vs 18.5% (prior-year option-exercise benefit) cost ~$2.3m / ~$0.13 of EPS — a one-off versus the comp, but it means Q3-25's EPS base was flattered and the 'clean' EPS run-rate is ~$1.89 rather than $1.76 or $1.69.",
+        "tag": "one-off"
+      },
+      {
+        "text": "SG&A +5.4% to $29.0m (19.8% of revenue, +56bps) on legal and employee costs, with stock-based comp +26% to $2.6m (1.8% of revenue) and total non-D&A add-backs up to $3.9m from $2.6m — adj. EBITDA quality is slipping at the margin.",
+        "tag": "mixed"
+      },
+      {
+        "text": "PCL Construction's $74.6m judgment remains on appeal with ~$1.1m/quarter of post-judgment interest accruing (excluded from adj. EBITDA) and the risk of further bonding; construction payables of $47.5m have been frozen on the balance sheet for years.",
+        "tag": "governance"
+      },
+      {
+        "text": "Capital allocation is still buybacks-only: Q3 repurchases averaged ~$123/share (above the current ~$112), the M&A language is unchanged boilerplate, and the Atlantis land buy comes with no plan — the ~$137m cash and undrawn facility remain unproductive.",
+        "tag": "governance"
+      },
+      {
+        "text": "Disclosure gaps: no property-level P&L, no handle/hold or hotel KPIs, and the Q1-26 claim of share gains at both properties disappeared from the Q3 release; the call transcript was not accessible for this note.",
+        "tag": "watch"
+      }
+    ],
+    "forecast": {
+      "intro": "Monarch issues no formal guidance, so the only bridge is Street-to-actual. Pre-print consensus of ~$148.0m net revenue and ~$1.86 diluted EPS (range $1.84–1.91 across MarketBeat, S&P and Zacks) became $146.3m and $1.76. The ~$1.7m revenue shortfall sits in near-flat hotel (+0.9%) and F&B (+1.3%) rather than casino (+3.4%); on EPS the normalised 24.0% tax rate versus 18.5% a year ago explains ~$0.13, so at the prior-year ETR EPS would have printed ~$1.89, above consensus. There is no divisional attribution — the company reports one segment — and management's qualitative outlook (property investment, buybacks and dividend, 'diligently evaluating' M&A) is unchanged from Q2.",
+      "bridge": [
+        {
+          "title": "Consensus net revenue (pre-print)",
+          "value": "~$148.0m",
+          "change": "MarketBeat $147.9m / S&P $148.0m"
+        },
+        {
+          "title": "Reported net revenue",
+          "value": "$146.3m",
+          "change": "-$1.7m (-1.2%); hotel/F&B ~flat"
+        },
+        {
+          "title": "Consensus diluted EPS (pre-print)",
+          "value": "~$1.86",
+          "change": "Range $1.84–1.91"
+        },
+        {
+          "title": "Reported diluted EPS",
+          "value": "$1.76",
+          "change": "-$0.10; ~$0.13 of which is the ETR step-up"
+        }
+      ],
+      "view": "Our independent view (all estimates, not company guidance). **Q4-26E net revenue ~$133–138m** — Q4 is seasonally the lightest quarter and the Q3 run-rate implies roughly flat to low-single-digit growth; the Q4-25 base is not in the documents reviewed, so we frame it on seasonality (Q1-26 was $136.5m). **Q4-26E adj. EBITDA ~$47–50m at a 35–36% margin**, below Q3's 38.3% on seasonal deleverage, with Black Hawk winter weather the swing factor. That gives **FY26E net revenue ~$558–563m (+~4–5%) and adj. EBITDA ~$205–208m (~36.8% margin vs 37.1% 9M)**. On EPS, 9M is $5.06; a Q4 with ~$48m EBITDA, ~$10.8m D&A, ~$1.3m litigation items, ~$2.6m SBC and a ~21.5% ETR on ~18.0m diluted shares yields ~$1.45–1.50, so **FY26E diluted EPS ~$6.50–6.55 (+~19%)**, with most of the growth from buybacks and the D&A roll-off rather than operations. **Leverage stays negative**: we expect cash to keep building toward ~$150m+ by year-end unless the buyback accelerates — 670,644 shares (~$75m) remain authorised, about two quarters at the Q3 pace, so a new authorisation is likely in Q1-27. Margin direction into 2027 is flat-to-slightly-down: labor leverage is being offset by gaming-tax mix drift toward Colorado and other opex growing ~6%, and the D&A tailwind fades as capex normalises toward the ~$43m annualised D&A. Swing factors: an adverse PCL appeal (gross ~$75m plus interest, roughly $27m incremental cash beyond the construction payables already carried — our reading), an Atlantis expansion announcement that would lift capex and reset FCF, and any M&A that finally uses the undrawn facility.",
+      "watch": [
+        "Colorado Court of Appeals ruling on the $74.6m PCL judgment, any further release of bonded funds, and the quarterly interest accrual (~$1.1m) — the single largest cash and sentiment swing factor.",
+        "Q4 seasonality and Black Hawk winter weather; cross-check share via Colorado Division of Gaming monthly Black Hawk AGP and Nevada GCB Washoe County win, given the Q3 release dropped the share-gain claim.",
+        "Buyback pace against the 670,644 shares remaining and the likelihood of a new authorisation; average repurchase price versus market (Q3 ~$123 vs ~$112 now); secondary reports of a CEO share sale warrant a check of Form 4s.",
+        "Capital deployment: any Atlantis master-plan disclosure following the adjacent land purchase, and whether the 'diligently evaluating M&A' language converts into a transaction using the undrawn facility.",
+        "Cost lines growing faster than revenue — SG&A (legal, employee), SBC (+26%), other opex (+6%) and gaming tax & licence (+5.1%) — against the labor leverage that is currently carrying the margin.",
+        "iGaming legislation in Colorado and Nevada (Monarch is actively lobbying against) and any regional supply additions in Reno or Black Hawk.",
+        "Capex normalisation: 9M capex at ~0.6x D&A flatters FCF; watch the FY27 maintenance/refresh budget and the D&A trajectory as expansion assets fully depreciate."
+      ]
+    },
+    "sharePriceReaction": "Shares gapped ~7% lower at the 28-Oct open ($107.31 vs a $115.28 prior close), traded below the $112.27 200-day average, and recovered through the session to close ~2.6% down at ~$112.3 (closing level per secondary sources).",
+    "confidence": "MEDIUM",
+    "confidenceNote": "Core P&L, balance sheet, cash flow, adj. EBITDA reconciliation, buyback and dividend figures are taken directly from the 8-K Ex. 99.1 press release and the Q3-26 Form 10-Q (primary) and cross-checked against the GlobeNewswire/Nasdaq reproductions, CDC Gaming and the AP snapshot — HIGH confidence on all reported numbers. MEDIUM overall because: (i) the Q3 earnings-call transcript was not accessible, so management colour on property trends, share and the PCL appeal is absent; (ii) property-level P&L, slot handle/hold, hotel occupancy/ADR and market share are not disclosed by the company (shown as n/a); (iii) Q2-26 figures used for QoQ (revenue ~$142.6m, adj. EBITDA ~$53.0m, net income ~$32.5m, EPS $1.78) are derived (9M less Q1 less Q3) from company releases and one secondary source; (iv) the Q4-25 base and FY25 totals were not in the documents reviewed, so Q4/FY estimates are framed on seasonality; (v) the 28-Oct close (~$112.3, -2.6%) and consensus ($147.9–148.0m revenue; $1.84–1.91 EPS) are from secondary sources; (vi) the link between the $47.5m construction payables and the PCL judgment is an analyst reading of prior filings, flagged as such. FX: the company reports in USD; no conversion required.",
+    "sources": [
+      {
+        "label": "Monarch Casino & Resort — Form 8-K Ex. 99.1, Q3 2026 results press release (27 Oct 2026) — P&L, balance sheet, adj. EBITDA reconciliation, buybacks, dividend, capex, liquidity",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000907242/000117184326006863/exh_991.htm"
+      },
+      {
+        "label": "Monarch Casino & Resort — Form 10-Q for the quarter ended 30 Sep 2026 — cash flow statement, segment note (single reportable segment), CODM expense table, PP&E, other operating items (PCL interest accrual), SBC, EPS, leases",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000907242/000110465926120630/mcri-20260930x10q.htm"
+      },
+      {
+        "label": "GlobeNewswire — company-issued Q3 2026 results release (duplicate of Ex. 99.1, used for cross-check)",
+        "kind": "primary",
+        "url": "https://www.globenewswire.com/news-release/2026/10/27/3389594/0/en/monarch-casino-resort-reports-record-third-quarter-2026-financial-results.html"
+      },
+      {
+        "label": "Monarch Casino & Resort — Form 8-K Ex. 99.1, Q1 2026 results (Q1 revenue $136.5m, adj. EBITDA $48.95m, net income $27.6m; market-share-gain statement)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000907242/000117184326002629/exh_991.htm"
+      },
+      {
+        "label": "Nasdaq.com reproduction of the Q3 2026 release (cross-check)",
+        "kind": "secondary",
+        "url": "https://www.nasdaq.com/press-release/monarch-casino-resort-reports-record-third-quarter-2026-financial-results-2026-10-27"
+      },
+      {
+        "label": "Gaming Intelligence — 'Record third quarter for Monarch Casino & Resort' (user-supplied; paywalled beyond headline: net revenue +2.4% to $146.3m)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/237909-record-third-quarter-for-monarch-casino-resort/"
+      },
+      {
+        "label": "Yogonet — 'Monarch Casino revenue rises to record $146.3 million in Q3 as profit reaches $32 million' (user-supplied; page not accessible, headline only)",
+        "kind": "secondary",
+        "url": "https://www.yogonet.com/international/news/2026/10/29/127063-monarch-casino-revenue-rises-to-record-1463-million-in-q3-as-profit-reaches-32-million"
+      },
+      {
+        "label": "CDC Gaming — 'Monarch numbers slightly higher in third quarter' (27 Oct 2026) — colour, cross-check of headline figures",
+        "kind": "secondary",
+        "url": "https://cdcgaming.com/monarch-numbers-slightly-higher-in-third-quarter/"
+      },
+      {
+        "label": "MarketBeat — 'Shares gap down on disappointing earnings' (28 Oct 2026) — prior close $115.28, open $107.31",
+        "kind": "secondary",
+        "url": "https://www.marketbeat.com/instant-alerts/price-monarch-casino-resort-nasdaq-mcri-shares-gap-down-on-disappointing-earnings-2026-10-28/"
+      },
+      {
+        "label": "MarketBeat — 'Shares cross below 200-day moving average' (28 Oct 2026) — EPS consensus $1.86, 200DMA $112.27, intraday low $107.31",
+        "kind": "secondary",
+        "url": "https://www.marketbeat.com/instant-alerts/price-monarch-casino-resort-nasdaq-mcri-shares-cross-below-200-day-moving-average-following-weak-earnings-2026-10-28/"
+      },
+      {
+        "label": "Simply Wall St — 'MCRI misses estimates as record quarter keeps valuation in focus' — share price -2.6% on the day",
+        "kind": "secondary",
+        "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-mcri/monarch-casino-resort/news/monarch-casino-resort-mcri-misses-estimates-as-record-quarte/amp"
+      },
+      {
+        "label": "Zacks via Yahoo Finance Canada — 'Monarch Casino (MCRI) Q3 Earnings and Revenues Miss Estimates' — Zacks EPS consensus $1.91; Q2-26 EPS $1.78 vs $1.75",
+        "kind": "secondary",
+        "url": "https://ca.finance.yahoo.com/news/monarch-casino-mcri-q3-earnings-212008034.html"
+      },
+      {
+        "label": "StockStory via TradingView — 'Monarch misses Q3 2026 sales expectations' — S&P consensus revenue $148m, EPS $1.84",
+        "kind": "secondary",
+        "url": "https://www.tradingview.com/news/stockstory:1f3c99de8094b:0-monarch-nasdaq-mcri-misses-q3-2026-sales-expectations/"
+      },
+      {
+        "label": "AP via Yahoo Finance — 'Monarch Casino: Q3 Earnings Snapshot' (cross-check of net income/EPS/revenue)",
+        "kind": "secondary",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/monarch-casino-q3-earnings-snapshot-183425851.html"
+      },
+      {
+        "label": "Defense World — earnings preview (consensus revenue $147.93m / EPS $1.86; Q2-26 revenue $142.60m)",
+        "kind": "secondary",
+        "url": "https://www.defenseworld.net/2026/10/20/monarch-casino-resort-mcri-projected-to-announce-earnings-on-tuesday.html"
+      }
+    ]
+  }
+}

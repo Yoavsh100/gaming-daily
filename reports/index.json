@@ -3466,5 +3466,182 @@
     "releaseDate": "Oct 2026 (NGB Annual Report 2025/26 tabled; MTBPS 21 Oct 2026; audited FY2024/25 statistics published 2 Oct 2025 / Apr 2026)",
     "model": "claude-fable-5-1",
     "costUsd": 4.51
+  },
+  {
+    "key": "gaming innovation|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-12T20:31:51.348Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "GIGSEK-Q3-2026",
+    "published": "2026-11-12",
+    "company": {
+      "name": "Gaming Innovation Group",
+      "ticker": "GIGSEK",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A weak core quarter wrapped around a transformational deal. Q3-26 revenue fell 12% YoY to €8.5m (~$9.5m) — the third consecutive YoY decline, now accelerating — and adj. EBITDA fell a third to €0.8m (~$0.9m) at a 9% margin, while the net loss widened 50% to €4.5m (~$5.0m). The substance is the 30 Sep completion of 80% of 888AFRICA (€16.4m/~$18.3m), which lifts the 2027 outlook to €85-90m revenue and €17-19m adj. EBITDA; the shares rose ~20%, but the bridge to that number runs through unaudited acquired earnings, a €10.3m deferred payment against €8.0m of (partly acquired) cash, and a CFO who left five days after the print.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "€8.5m (~$9.5m)",
+        "delta": "-12% YoY / -3% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA (Q3-26)",
+        "value": "€0.8m (~$0.9m)",
+        "delta": "-33% YoY / flat QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA margin",
+        "value": "9%",
+        "delta": "-300bps YoY / flat QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Loss after tax (Q3-26)",
+        "value": "€(4.5)m (~$(5.0)m)",
+        "delta": "vs €(3.0)m Q3-25; €(7.2)m Q2-26",
+        "dir": "down"
+      },
+      {
+        "label": "Group cash (30 Sep)",
+        "value": "€8.0m (~$8.9m)",
+        "delta": "vs €3.5m at 30 Jun (incl. 888AFRICA cash)",
+        "dir": "up"
+      },
+      {
+        "label": "FY27 outlook (new)",
+        "value": "€85-90m rev / €17-19m adj. EBITDA",
+        "delta": "(~$94.8-100.4m / ~$19.0-21.2m)",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "28 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.1
+  },
+  {
+    "key": "airtel africa|H1 FY2027",
+    "attempts": 1,
+    "lastAttempt": "2026-11-12T20:44:48.683Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "AAF-L-H1-FY2027",
+    "published": "2026-11-12",
+    "company": {
+      "name": "Airtel Africa plc",
+      "ticker": "AAF.L",
+      "exchange": ""
+    },
+    "period": "H1 FY2027",
+    "verdict": "A clean, high-quality half: revenue +28.2% reported / +20.8% constant currency to $3,823m, underlying EBITDA +32.8% to $1,921m with a record 50.4% Q2 margin despite a c.2–2.5pp fuel headwind, pre-exceptional EPS +41% to 11.7c and leverage down to 1.6x (0.5x lease-adjusted). The market nonetheless sold the shares c.5.5% to a new 52-week low: capex doubled to $657m, Nigeria decelerated (cc growth 24.4% in Q2 vs 29.8% in Q1, voice revenue down 6% QoQ), $55m of exceptionals hit PAT, and the NGN/ZMW translation tailwind that flattered reported growth expires in Q3. Guidance is unchanged (FY27 capex ~$1.1bn, margins \"above 50%\", dividend mid-to-high single-digit growth).",
+    "kpis": [
+      {
+        "label": "H1 revenue",
+        "value": "$3,823m",
+        "delta": "+28.2% reported / +20.8% cc; Q2 $1,970m +6.3% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Underlying EBITDA / margin",
+        "value": "$1,921m / 50.3%",
+        "delta": "+32.8% rep, +23.5% cc; margin +172bps; Q2 record 50.4%",
+        "dir": "up"
+      },
+      {
+        "label": "EPS (basic / pre-exceptional)",
+        "value": "10.2c / 11.7c",
+        "delta": "+23.3% / +41.2%; ex-FX gains 11.8c vs 6.9c",
+        "dir": "up"
+      },
+      {
+        "label": "Capex",
+        "value": "$657m",
+        "delta": "+106.5% YoY; 60% of unchanged ~$1.1bn FY27 guide",
+        "dir": "up"
+      },
+      {
+        "label": "Leverage (net debt/EBITDA)",
+        "value": "1.6x (lease-adj 0.5x)",
+        "delta": "from 2.1x / 0.8x; net debt $5,870m",
+        "dir": "down"
+      },
+      {
+        "label": "Customers / mobile money customers",
+        "value": "193.9m / 60.9m",
+        "delta": "+11.6% / +22.4% YoY; +2.6% / +7.8% QoQ",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "30 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 7.5
+  },
+  {
+    "key": "monarch casino and resort|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-12T21:00:19.077Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "MCRI-Q3-2026",
+    "published": "2026-11-12",
+    "company": {
+      "name": "Monarch Casino & Resort",
+      "ticker": "MCRI",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A record but decelerating quarter: net revenue +2.4% to $146.3m and adj. EBITDA +2.1% to $56.0m were both Q3 records, yet both missed the Street (~$148m revenue; EPS $1.76 vs ~$1.86) and growth slowed sharply from H1's +6.4%/+10.3%. The 38.3% margin held, net cash rose to $137.4m with zero debt and $42m went back to holders in the quarter — but with organic growth converging on low single digits, the equity now hinges on Q4 seasonality, the pending ~$75m PCL appeal, and whether the Farahis finally deploy the balance sheet beyond buybacks.",
+    "kpis": [
+      {
+        "label": "Net revenue (Q3 record)",
+        "value": "$146.3m",
+        "delta": "+2.4% YoY; vs ~$148.0m consensus",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA (non-GAAP)",
+        "value": "$56.0m",
+        "delta": "+2.1% YoY; margin 38.3% (-11bps)",
+        "dir": "up"
+      },
+      {
+        "label": "Diluted EPS (GAAP)",
+        "value": "$1.76",
+        "delta": "+4.1% YoY; cons. $1.84–1.91",
+        "dir": "up"
+      },
+      {
+        "label": "Net income (GAAP)",
+        "value": "$32.0m",
+        "delta": "+1.4% YoY; ETR 24.0% vs 18.5%",
+        "dir": "up"
+      },
+      {
+        "label": "Net cash (no debt)",
+        "value": "$137.4m",
+        "delta": "+$40.9m YTD after $70.9m returned",
+        "dir": "up"
+      },
+      {
+        "label": "Capital returned in Q3",
+        "value": "$42.3m",
+        "delta": "$37.0m buyback + $5.3m dividend",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "27 Oct 2026 (after market close)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.89
   }
 ]
