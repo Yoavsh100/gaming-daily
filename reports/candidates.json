@@ -1,132 +1,5 @@
 [
   {
-    "key": "star entertainment|Q1 FY2027",
-    "type": "company",
-    "company": "The Star Entertainment Group",
-    "ticker": "SGR.AX",
-    "period": "Q1 FY2027",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237871-star-entertainment-group-shows-strong-ebitda-growth-in-q1-fy27/"
-    ],
-    "seen": "2026-10-28"
-  },
-  {
-    "key": "juris|united states|Q3 2026",
-    "type": "jurisdiction",
-    "market": "United States",
-    "authority": "Citizens",
-    "period": "Q3 2026",
-    "urls": [
-      "https://next.io/news/results/citizens-us-igaming-growth-q3/"
-    ],
-    "seen": "2026-10-28"
-  },
-  {
-    "key": "juris|alberta|FIRST THREE MONTHS OF REGULATED MARKET",
-    "type": "jurisdiction",
-    "market": "Alberta",
-    "authority": null,
-    "period": "FIRST THREE MONTHS OF REGULATED MARKET",
-    "urls": [
-      "https://europeangaming.eu/portal/latest-news/2026/10/27/216866/alberta-igaming-revenue-september-2026/"
-    ],
-    "seen": "2026-10-28"
-  },
-  {
-    "key": "juris|macau|9M 2026",
-    "type": "jurisdiction",
-    "market": "Macau",
-    "authority": "Statistics and Census Service (DSEC)",
-    "period": "9M 2026",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/10/26/127007-macau-visitor-arrivals-climb-85-through-september-while-gaming-revenue-grows-32-"
-    ],
-    "seen": "2026-10-28"
-  },
-  {
-    "key": "juris|south africa|2026",
-    "type": "jurisdiction",
-    "market": "South Africa",
-    "authority": "GWI",
-    "period": "2026",
-    "urls": [
-      "https://focusgn.com/africa/online-gambling-participation-ranking-africa-gwi"
-    ],
-    "seen": "2026-10-28"
-  },
-  {
-    "key": "caesars entertainment|Q3 2026",
-    "type": "company",
-    "company": "Caesars Entertainment",
-    "ticker": "CZR",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237900-caesars-entertainment-widens-net-loss-in-q3/",
-      "https://www.yogonet.com/international/news/2026/10/28/127047-caesars-reports-123-million-q3-loss-as-las-vegas-weakness-offsets-regional-and-digital-gains",
-      "https://next.io/news/results/q3-2026-caesars-entertainment-digital-revenue-growth/",
-      "https://casinobeats.com/2026/10/28/caesars-q3-las-vegas-earnings-slide-while-regional-and-digital-units-keep-growing/",
-      "https://igamingfuture.com/caesars-q3-loss-widens-despite-digital-ebitda-growth/"
-    ],
-    "seen": "2026-10-28"
-  },
-  {
-    "key": "juris|china|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "China",
-    "authority": "Ministry of Finance",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237772-china-lottery-sales-jump-by-27-in-september/"
-    ],
-    "seen": "2026-10-28"
-  },
-  {
-    "key": "juris|macau|JANUARY-SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Macau",
-    "authority": "DSEC",
-    "period": "JANUARY-SEPTEMBER 2026",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/10/26/127007-macau-visitor-arrivals-climb-85-through-september-while-gaming-revenue-grows-32-"
-    ],
-    "seen": "2026-10-28"
-  },
-  {
-    "key": "gig software|Q3 2026",
-    "type": "company",
-    "company": "GiG Software",
-    "ticker": null,
-    "period": "Q3 2026",
-    "urls": [
-      "https://next.io/news/results/q3-2026-gig-software-profit-plummets/",
-      "https://www.thegamblest.com/gig-software-q3-loss-widens-as-revenue-falls-12/",
-      "https://www.gamingintelligence.com/finance/237921-gig-software-revenue-decline-continues-into-third-quarter/",
-      "https://next.io/news/people/gig-software-ceo-25-headcount-cut/",
-      "https://ibetafrica.com/2026/10/29/gig-888africa-acquisition-q3-2026-results/"
-    ],
-    "seen": "2026-10-28"
-  },
-  {
-    "key": "juris|alberta|FIRST THREE MONTHS",
-    "type": "jurisdiction",
-    "market": "Alberta",
-    "authority": null,
-    "period": "FIRST THREE MONTHS",
-    "urls": [],
-    "seen": "2026-10-28"
-  },
-  {
-    "key": "betr entertainment|Q1 FY2027",
-    "type": "company",
-    "company": "betr Entertainment Limited",
-    "ticker": "BBT.AX",
-    "period": "Q1 FY2027",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237915-betr-reports-strong-wagering-growth-in-fiscal-first-quarter/"
-    ],
-    "seen": "2026-10-28"
-  },
-  {
     "key": "gaming innovation|Q3 2026",
     "type": "company",
     "company": "Gaming Innovation Group",
@@ -1098,7 +971,8 @@
     "period": "9M 2026",
     "urls": [
       "https://focusgn.com/africa/benin-lottery-profit-online-betting",
-      "https://igamingafrika.com/lottery-profits-surge-in-benin-national-lottery/"
+      "https://igamingafrika.com/lottery-profits-surge-in-benin-national-lottery/",
+      "https://ibetafrica.com/2026/11/11/benin-national-lottery-records-72-profit-growth-as-online-betting-sales-surge/"
     ],
     "seen": "2026-11-09"
   },
@@ -1271,7 +1145,10 @@
     "urls": [
       "https://www.gamingintelligence.com/finance/238451-ballys-corp-posts-strong-preliminary-results-for-q3/",
       "https://www.gamblinginsider.com/news/203004/ballys-q3-2026-results-revenue-21-7-10-q-delayed",
-      "https://igamingbusiness.com/finance/ballys-q3-results/"
+      "https://igamingbusiness.com/finance/ballys-q3-results/",
+      "https://www.yogonet.com/international/news/2026/11/11/127250-ballys-revenue-rises-21-in-q3-as-debt-casino-projects-and-regulatory-pressures-persist",
+      "https://casinobeats.com/2026/11/11/ballys-intralot-speeds-up-uk-online-growth-under-40-duty-as-evoke-deal-slips-to-2027/",
+      "https://next.io/news/investment/cbre-scale-key-ballys-uk-market-consolidation/"
     ],
     "seen": "2026-11-10"
   },
@@ -1308,7 +1185,9 @@
     "urls": [
       "https://next.io/news/results/playtech-lifts-full-year-earnings-guidance-amid-americas-growth/",
       "https://www.gamingintelligence.com/finance/238481-playtech-sees-strong-growth-in-the-americas-in-2026/",
-      "https://casinobeats.com/2026/11/10/playtech-lifts-2026-profit-guidance-above-e300m-but-warns-2027-will-be-weaker/"
+      "https://casinobeats.com/2026/11/10/playtech-lifts-2026-profit-guidance-above-e300m-but-warns-2027-will-be-weaker/",
+      "https://europeangaming.eu/portal/latest-news/2026/11/11/217818/playtech-trading-update-2026-ebitda-guidance/",
+      "https://www.gamblinginsider.com/news/203419/playtech-hard-rock-pmr-historical-racing-growth"
     ],
     "seen": "2026-11-10"
   },
