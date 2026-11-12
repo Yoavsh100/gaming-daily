@@ -540,7 +540,8 @@
     "authority": null,
     "period": "SEPTEMBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238099-colorado-land-based-gaming-revenue-rises-8-in-september/"
+      "https://www.gamingintelligence.com/finance/238099-colorado-land-based-gaming-revenue-rises-8-in-september/",
+      "https://www.gamingintelligence.com/finance/238494-colorado-reports-10-decline-in-september-sports-handle/"
     ],
     "seen": "2026-11-03"
   },
@@ -1107,7 +1108,8 @@
     "period": "OCTOBER 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238318-new-york-video-gaming-machines-win-132-1-million-in-october/",
-      "https://www.gamingintelligence.com/finance/238522-new-york-mobile-sportsbooks-take-record-handle-in-october/"
+      "https://www.gamingintelligence.com/finance/238522-new-york-mobile-sportsbooks-take-record-handle-in-october/",
+      "https://www.gamingintelligence.com/finance/238518-new-york-lottery-posts-sales-of-565-5-million-in-october/"
     ],
     "seen": "2026-11-10"
   },
@@ -1199,7 +1201,9 @@
     "period": "Q3 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238460-ballys-intralot-grows-revenue-to-e286-1-million-in-q3/",
-      "https://casinobeats.com/2026/11/11/ballys-intralot-speeds-up-uk-online-growth-under-40-duty-as-evoke-deal-slips-to-2027/"
+      "https://casinobeats.com/2026/11/11/ballys-intralot-speeds-up-uk-online-growth-under-40-duty-as-evoke-deal-slips-to-2027/",
+      "https://europeangaming.eu/portal/latest-news/2026/11/12/217863/ballys-intralot-q3-2026-results/",
+      "https://next.io/news/investment/cbre-scale-key-ballys-uk-market-consolidation/"
     ],
     "seen": "2026-11-10"
   },
@@ -1289,5 +1293,49 @@
     "period": "2025",
     "urls": [],
     "seen": "2026-11-11"
+  },
+  {
+    "key": "aristocrat leisure|FY 2026",
+    "type": "company",
+    "company": "Aristocrat Leisure Limited",
+    "ticker": "ALL.AX",
+    "period": "FY 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238568-aristocrat-leisure-grows-profit-to-a1-45-billion-in-fy26/"
+    ],
+    "seen": "2026-11-12"
+  },
+  {
+    "key": "doubledown interactive|Q3 2026",
+    "type": "company",
+    "company": "DoubleDown Interactive",
+    "ticker": "DDI",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238576-doubledown-interactive-posts-q3-revenue-decline/"
+    ],
+    "seen": "2026-11-12"
+  },
+  {
+    "key": "meridian|Q3 2026",
+    "type": "company",
+    "company": "Meridian Holdings",
+    "ticker": null,
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238564-meridian-holdings-swings-to-loss-in-third-quarter/"
+    ],
+    "seen": "2026-11-12"
+  },
+  {
+    "key": "juris|new hampshire|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "New Hampshire",
+    "authority": "New Hampshire Lottery",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238490-new-hampshire-sports-betting-tops-85-million-in-september/"
+    ],
+    "seen": "2026-11-12"
   }
 ]
