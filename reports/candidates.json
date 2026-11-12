@@ -1260,7 +1260,8 @@
     "ticker": "CTM.ST",
     "period": "Q3 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238526-catena-media-sees-revenue-and-profit-decline-in-q3/"
+      "https://www.gamingintelligence.com/finance/238526-catena-media-sees-revenue-and-profit-decline-in-q3/",
+      "https://igamingfuture.com/catena-media-q3-2/"
     ],
     "seen": "2026-11-11"
   },
@@ -1302,7 +1303,8 @@
     "ticker": "ALL.AX",
     "period": "FY 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238568-aristocrat-leisure-grows-profit-to-a1-45-billion-in-fy26/"
+      "https://www.gamingintelligence.com/finance/238568-aristocrat-leisure-grows-profit-to-a1-45-billion-in-fy26/",
+      "https://next.io/news/results/aristocrat-leisure-fy26-results-revenue-earnings/"
     ],
     "seen": "2026-11-12"
   },
@@ -1346,6 +1348,17 @@
     "authority": "Iowa Racing and Gaming Commission",
     "period": "OCTOBER 2026",
     "urls": [],
+    "seen": "2026-11-12"
+  },
+  {
+    "key": "codere online|Q3 2026",
+    "type": "company",
+    "company": "Codere Online",
+    "ticker": "CDRO",
+    "period": "Q3 2026",
+    "urls": [
+      "https://igamingfuture.com/codere-online-q3-2026-revenue-up-31-to-e62-6m/"
+    ],
     "seen": "2026-11-12"
   }
 ]
