@@ -3643,5 +3643,182 @@
     "releaseDate": "27 Oct 2026 (after market close)",
     "model": "claude-fable-5-1",
     "costUsd": 4.89
+  },
+  {
+    "key": "philippine amusement and gaming|9M 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-13T20:08:58.807Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "PHILIPPINE-AMUSEMENT-AND-GAMING-CORPORATION-9M-2026",
+    "published": "2026-11-13",
+    "company": {
+      "name": "Philippine Amusement and Gaming Corporation",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "9M 2026",
+    "verdict": "A 9M-26 print that is bad in level but no longer deteriorating: derived Q3 revenue of PHP 21.09bn (~$329m) was -15.8% YoY against -31.5% in Q2, with electronic-gaming revenue flat at ~PHP 9bn (~$141m) a quarter since the August-2025 e-wallet delinking reset the base. Net income of PHP 2.17bn (~$34m, -84.9%) reflects a structurally higher 5% PSC levy layered on a cost base that grew 3% while revenue fell 23% — the operating deleverage, not the court, is the bigger problem, and the FY26 H2 net-operating-income target now looks unattainable.",
+    "kpis": [
+      {
+        "label": "9M-26 total revenue",
+        "value": "PHP 64.41bn (~$1.01bn)",
+        "delta": "-23.4% YoY (PHP 84.09bn)",
+        "dir": "down"
+      },
+      {
+        "label": "9M-26 electronic gaming revenue",
+        "value": "PHP 27.63bn (~$431m)",
+        "delta": "-37.2% YoY (PHP 44.03bn)",
+        "dir": "down"
+      },
+      {
+        "label": "9M-26 net operating income",
+        "value": "PHP 44.55bn (~$696m)",
+        "delta": "c.-31% YoY; margin 69.2% (-790bps) [secondary-sourced]",
+        "dir": "down"
+      },
+      {
+        "label": "9M-26 net income",
+        "value": "PHP 2.17bn (~$34m)",
+        "delta": "-84.9% YoY (PHP 14.32bn); net margin 3.4%",
+        "dir": "down"
+      },
+      {
+        "label": "Q3-26 revenue (derived: 9M less H1)",
+        "value": "PHP 21.09bn (~$329m)",
+        "delta": "-15.8% YoY / -0.6% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "9M-26 contributions to nation-building",
+        "value": "PHP 45.28bn (~$707m)",
+        "delta": "-16.5% YoY (PHP 54.26bn)",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "29 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.85
+  },
+  {
+    "key": "betby|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-13T20:23:15.511Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "BETBY-Q3-2026",
+    "published": "2026-11-13",
+    "company": {
+      "name": "BETBY",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A volume-led quarter from an unlisted B2B supplier that discloses growth rates, not money: sportsbook GGR +33.4% YoY on actives +82.7% and bets +31.9% means GGR per active fell ~27% (our arithmetic) — breadth from new operator go-lives and World Cup/Esports World Cup casuals, not deeper monetisation. Growth has decelerated from +61% in Q1 and +42.7% in H1 but re-accelerated versus an implied ~+24% Q2 (est.), while lapping a soft-hold September 2025 comp. With no revenue, EBITDA, handle, hold, partner-count or concentration disclosure, this is a momentum signal, not an underwritable result.",
+    "kpis": [
+      {
+        "label": "Sportsbook GGR (YoY)",
+        "value": "+33.4%",
+        "delta": "vs +56.1% Q3-25; +42.7% H1-26; +61% Q1-26",
+        "dir": "up"
+      },
+      {
+        "label": "Sportsbook active players (YoY)",
+        "value": "+82.7%",
+        "delta": "vs +19.5% Q3-25; +47% H1-26",
+        "dir": "up"
+      },
+      {
+        "label": "Sportsbook bets placed (YoY)",
+        "value": "+31.9%",
+        "delta": "vs +24.9% Q3-25; +21.2% H1-26",
+        "dir": "up"
+      },
+      {
+        "label": "BETBY Games GGR (YoY)",
+        "value": "+32.2%",
+        "delta": "vs +8.4% Q3-25; +28% H1-26",
+        "dir": "up"
+      },
+      {
+        "label": "BETBY Games actives (YoY)",
+        "value": "+123.3%",
+        "delta": "vs +11.9% Q3-25; +46% H1-26",
+        "dir": "up"
+      },
+      {
+        "label": "Implied sportsbook GGR per active (YoY, derived)",
+        "value": "~-27%",
+        "delta": "vs +30.7% Q3-25; -2.9% H1-26 (our arithmetic)",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "29 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.17
+  },
+  {
+    "key": "betmakers technology|Q1 FY2027",
+    "attempts": 1,
+    "lastAttempt": "2026-11-13T20:33:06.356Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "BET-AX-Q1-FY2027",
+    "published": "2026-11-13",
+    "company": {
+      "name": "BetMakers Technology Group",
+      "ticker": "BET.AX",
+      "exchange": ""
+    },
+    "period": "Q1 FY2027",
+    "verdict": "A clean quarter on the metrics that matter for a B2B supplier: record Adj. EBITDA of A$5.9m (~$4.1m) at a 23.8% margin on revenue of A$24.7m (~$17.4m), +16.3% YoY in constant currency (+11.8% reported), with opex down 2.4% YoY and the 70% gross-margin / 25% EBITDA-margin long-term goals now one quarter away. But the equity is a merger-arb instrument, not a growth stock: Tabcorp's A$0.24 cash scheme caps the upside, the shares sit ~12% below the offer at A$0.21, and the beat mostly sharpens the question of whether the board recommended a sale at the bottom of the margin curve.",
+    "kpis": [
+      {
+        "label": "Revenue (Q1 FY27)",
+        "value": "A$24.7m (~$17.4m)",
+        "delta": "+16.3% YoY CC (+11.8% reported); +2.1% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA (non-IFRS)",
+        "value": "A$5.9m (~$4.1m)",
+        "delta": "+176% YoY CC (~+145% reported); +31% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA margin",
+        "value": "23.8%",
+        "delta": "+1,380bps YoY; +530bps QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Gross margin",
+        "value": "69.1%",
+        "delta": "+520bps YoY; +60bps QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Operating cash flow (4C)",
+        "value": "A$2.8m (~$2.0m)",
+        "delta": "vs −A$1.2m PCP; −A$0.4m QoQ; after US$2.0m Monmouth MG",
+        "dir": "up"
+      },
+      {
+        "label": "Unrestricted cash (no debt)",
+        "value": "A$16.0m (~$11.3m)",
+        "delta": "+A$0.4m QoQ; zero borrowings",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "29 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.42
   }
 ]
