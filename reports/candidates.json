@@ -1,127 +1,5 @@
 [
   {
-    "key": "gaming innovation|Q3 2026",
-    "type": "company",
-    "company": "Gaming Innovation Group",
-    "ticker": "GIGSEK",
-    "period": "Q3 2026",
-    "urls": [
-      "https://ibetafrica.com/2026/10/29/gig-888africa-acquisition-q3-2026-results/",
-      "https://next.io/news/people/gig-software-ceo-25-headcount-cut/",
-      "https://www.gamingintelligence.com/finance/237921-gig-software-revenue-decline-continues-into-third-quarter/",
-      "https://next.io/news/results/q3-2026-gig-software-profit-plummets/"
-    ],
-    "seen": "2026-10-29"
-  },
-  {
-    "key": "airtel africa|H1 FY2027",
-    "type": "company",
-    "company": "Airtel Africa plc",
-    "ticker": "AAF.L",
-    "period": "H1 FY2027",
-    "urls": [
-      "https://ibetafrica.com/2026/10/29/airtel-money-revenue-830-million-transactions-africa-2026/"
-    ],
-    "seen": "2026-10-29"
-  },
-  {
-    "key": "monarch casino and resort|Q3 2026",
-    "type": "company",
-    "company": "Monarch Casino & Resort",
-    "ticker": "MCRI",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237909-record-third-quarter-for-monarch-casino-resort/",
-      "https://www.yogonet.com/international/news/2026/10/29/127063-monarch-casino-revenue-rises-to-record-1463-million-in-q3-as-profit-reaches-32-million"
-    ],
-    "seen": "2026-10-29"
-  },
-  {
-    "key": "juris|africa|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Africa",
-    "authority": "Blask",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://igamingafrika.com/africa-igaming-in-september-2026-blask-recap/"
-    ],
-    "seen": "2026-10-29"
-  },
-  {
-    "key": "juris|illinois|AUGUST 2026",
-    "type": "jurisdiction",
-    "market": "Illinois",
-    "authority": "Illinois Gaming Board",
-    "period": "AUGUST 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237822-illinois-sportsbooks-report-1-03-billion-in-august-handle/"
-    ],
-    "seen": "2026-10-29"
-  },
-  {
-    "key": "juris|cameroon|2026",
-    "type": "jurisdiction",
-    "market": "Cameroon",
-    "authority": "AfriBallon",
-    "period": "2026",
-    "urls": [
-      "https://findmoreafrica.com/cameroon-betting-market-faces-revenue-transparency-concerns/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cameroon-betting-market-faces-revenue-transparency-concerns"
-    ],
-    "seen": "2026-10-29"
-  },
-  {
-    "key": "mgm resorts international|Q3 2026",
-    "type": "company",
-    "company": "MGM Resorts International",
-    "ticker": "MGM",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237971-mgm-resorts-revenue-falls-1-to-4-21-billion-in-third-quarter/",
-      "https://www.thegamblest.com/mgm-resorts-revenue-falls-1-in-q3-2026/",
-      "https://www.yogonet.com/international/news/2026/10/29/127074-mgm-resorts-reports-1-revenue-decline-in-q3-as-las-vegas-strip-results-weaken",
-      "https://next.io/news/results/q3-2026-mgm-sees-revenue-decline-despite-further-digital-growth/",
-      "https://casinobeats.com/2026/10/31/mgm-digital-cuts-loss-to-4m-as-leovegas-led-arms-revenue-growth-slows-to-6/"
-    ],
-    "seen": "2026-10-29"
-  },
-  {
-    "key": "CHDN|Q3 2026",
-    "type": "company",
-    "company": "Churchill Downs Incorporated",
-    "ticker": "CHDN",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237972-churchill-downs-inc-raises-dividend-as-net-income-grows-in-q3/",
-      "https://www.yogonet.com/international/news/2026/10/29/127079-churchill-downs-reports-record-q3-revenue-ebitda-and-net-income"
-    ],
-    "seen": "2026-10-29"
-  },
-  {
-    "key": "RSI|Q3 2026",
-    "type": "company",
-    "company": "Rush Street Interactive",
-    "ticker": "RSI",
-    "period": "Q3 2026",
-    "urls": [
-      "https://igamingfuture.com/rush-street-interactive/",
-      "https://www.thegamblest.com/rush-street-interactive-revenue-rises-38-8-in-q3-2026/",
-      "https://www.gamingintelligence.com/finance/237984-rush-street-interactive-delivers-strong-revenue-and-profit-growth-in-q3/",
-      "https://www.gamblinginsider.com/news/197668/rush-street-interactive-q3-2026-revenue-miss-ebitda-beat"
-    ],
-    "seen": "2026-10-29"
-  },
-  {
-    "key": "juris|ontario|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Ontario",
-    "authority": "iGaming Ontario",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/237963-ontario-igaming-wagers-grow-to-c9-71-billion-in-september/"
-    ],
-    "seen": "2026-10-29"
-  },
-  {
     "key": "philippine amusement and gaming|9M 2026",
     "type": "company",
     "company": "Philippine Amusement and Gaming Corporation",
@@ -1357,8 +1235,41 @@
     "ticker": "CDRO",
     "period": "Q3 2026",
     "urls": [
-      "https://igamingfuture.com/codere-online-q3-2026-revenue-up-31-to-e62-6m/"
+      "https://igamingfuture.com/codere-online-q3-2026-revenue-up-31-to-e62-6m/",
+      "https://next.io/news/news/codere-online-q3-2026-revenue-mexico-growth/",
+      "https://www.gamingintelligence.com/finance/238598-codere-online-gaming-win-rises-30-in-third-quarter/"
     ],
     "seen": "2026-11-12"
+  },
+  {
+    "key": "codere|Q3 2026",
+    "type": "company",
+    "company": "Codere Group",
+    "ticker": null,
+    "period": "Q3 2026",
+    "urls": [],
+    "seen": "2026-11-13"
+  },
+  {
+    "key": "angler gaming|Q3 2026",
+    "type": "company",
+    "company": "Angler Gaming",
+    "ticker": null,
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238611-angler-gaming-grows-revenue-and-profit-in-third-quarter/"
+    ],
+    "seen": "2026-11-13"
+  },
+  {
+    "key": "juris|maryland|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Maryland",
+    "authority": null,
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238550-maryland-casinos-win-159-7-million-in-october-gaming-revenue/"
+    ],
+    "seen": "2026-11-13"
   }
 ]
