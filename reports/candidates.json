@@ -1271,5 +1271,42 @@
       "https://www.gamingintelligence.com/finance/238550-maryland-casinos-win-159-7-million-in-october-gaming-revenue/"
     ],
     "seen": "2026-11-13"
+  },
+  {
+    "key": "codere online luxembourg s a|Q3 2026",
+    "type": "company",
+    "company": "Codere Online Luxembourg, S.A.",
+    "ticker": "CDRO",
+    "period": "Q3 2026",
+    "urls": [
+      "https://next.io/news/news/codere-online-q3-2026-revenue-mexico-growth/",
+      "https://www.thegamblest.com/codere-online-reports-third-quarter-2026-results/",
+      "https://europeangaming.eu/portal/latest-news/2026/11/13/217917/codere-online-q3-2026-results/",
+      "https://igamingbusiness.com/finance/codere-online-q3-revenue-surges-aviv-sher-conservative-outlook/",
+      "https://www.gamingintelligence.com/finance/238598-codere-online-gaming-win-rises-30-in-third-quarter/"
+    ],
+    "seen": "2026-11-13"
+  },
+  {
+    "key": "genting singapore|Q3 2026",
+    "type": "company",
+    "company": "Genting Singapore",
+    "ticker": "G13.SI",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238629-genting-singapore-posts-lower-revenue-and-profit-in-q3-2026/"
+    ],
+    "seen": "2026-11-13"
+  },
+  {
+    "key": "juris|denmark|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Denmark",
+    "authority": null,
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238602-denmark-gambling-revenue-jumps-25-in-september/"
+    ],
+    "seen": "2026-11-13"
   }
 ]
