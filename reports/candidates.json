@@ -457,7 +457,9 @@
       "https://europeangaming.eu/portal/latest-news/2026/11/05/217450/flutter-q3-2026-results-guidance-cut-cost-savings/",
       "https://casinobeats.com/2026/11/05/flutters-uk-casino-revenue-grows-12-but-40-duty-pulls-international-ebitda-down-14/"
     ],
-    "seen": "2026-11-05"
+    "seen": "2026-11-05",
+    "sector": "gaming",
+    "africa": false
   },
   {
     "key": "cirsa|Q3 2026",
@@ -1249,7 +1251,8 @@
       "https://www.gamingintelligence.com/finance/238664-bragg-gaming-group-revenue-drops-23-in-third-quarter/",
       "https://next.io/news/results/bragg-gaming-q3-2026-revenue-losses-cost-cuts/",
       "https://focusgn.com/bragg-gaming-q3-financial-results",
-      "https://www.thegamblest.com/bragg-gaming-reports-23-revenue-decline-in-q3-2026/"
+      "https://www.thegamblest.com/bragg-gaming-reports-23-revenue-decline-in-q3-2026/",
+      "https://next.io/news/investment/bragg-chairman-reassure-shareholders-financial-position/"
     ],
     "seen": "2026-11-16",
     "sector": "gaming",
@@ -1346,6 +1349,17 @@
     "period": "Q3 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238658-germany-gambling-stakes-increase-16-in-third-quarter/"
+    ],
+    "seen": "2026-11-16"
+  },
+  {
+    "key": "juris|france|2026",
+    "type": "jurisdiction",
+    "market": "France",
+    "authority": null,
+    "period": "2026",
+    "urls": [
+      "https://europeangaming.eu/portal/gambling-in-france/"
     ],
     "seen": "2026-11-16"
   }
