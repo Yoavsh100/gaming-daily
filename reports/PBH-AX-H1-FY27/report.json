@@ -1,0 +1,1468 @@
+{
+  "company": {
+    "name": "PointsBet Holdings",
+    "ticker": "PBH.AX",
+    "exchange": ""
+  },
+  "period": "H1 FY27",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 1955305,
+    "output": 57823,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 60,
+    "cacheRead": 1827670,
+    "cacheWrite": 127575,
+    "turns": 1
+  },
+  "prepared": "16 Nov 2026",
+  "report": {
+    "releaseDate": "30 Oct 2026",
+    "currency": "AUD (A$m; USD equivalents at AUD/USD 0.703, 30 Oct 2026)",
+    "verdict": "A pre-announced miss delivered as pre-announced: H1 FY27 (Apr–Sep 2026) revenue fell 16% to A$112.7m (~US$79.2m) and normalised EBITDA swung from +A$2.9m (~US$2.0m) to -A$6.9m (~-US$4.9m), entirely driven by Australia, where self-imposed VIP compliance cuts took ~A$17m (~US$12m) out of net win and an 8.7% AFL/NRL-season hold in Aug–Sep cost roughly another A$6m (~US$4m). The more important disclosure is below the EBITDA line: corporate cash of A$5.3m (~US$3.7m), A$21m (~US$15m) of a A$23m parent facility drawn, net liabilities of A$34.8m (~US$24.5m) and going-concern language leaning on a MIXI letter of support — the equity story is now a funding story.",
+    "kpis": [
+      {
+        "label": "Revenue (H1 FY27)",
+        "value": "A$112.7m (~US$79.2m)",
+        "delta": "-16% YoY vs PCP A$134.9m; -13% vs Dec-25 half",
+        "dir": "down"
+      },
+      {
+        "label": "Total net win",
+        "value": "A$122.1m (~US$85.8m)",
+        "delta": "-17% YoY (sports -18%, iGaming -1%)",
+        "dir": "down"
+      },
+      {
+        "label": "Normalised EBITDA",
+        "value": "-A$6.9m (~-US$4.9m)",
+        "delta": "vs +A$2.9m PCP (-A$9.8m); margin -6.1% (-830bps)",
+        "dir": "down"
+      },
+      {
+        "label": "Statutory net loss / EPS",
+        "value": "-A$17.3m (~-US$12.2m) / -5.0¢ (~-US$0.035)",
+        "delta": "loss narrowed 22% vs Dec-25 half (-A$22.2m, -6.4¢)",
+        "dir": "up"
+      },
+      {
+        "label": "12m-rolling cash actives",
+        "value": "310,058",
+        "delta": "+6% YoY (Australia +2%, Canada +18%)",
+        "dir": "up"
+      },
+      {
+        "label": "Corporate cash / parent loan drawn",
+        "value": "A$5.3m (~US$3.7m) / A$21.3m (~US$15.0m)",
+        "delta": "net debt ex-leases A$16.0m vs A$1.7m net cash at Mar-26",
+        "dir": "down"
+      }
+    ],
+    "summary": [
+      "**Headline in line with the 13-Oct pre-release, but a sharp deterioration YoY.** Revenue A$112.7m (~US$79.2m), -16% vs the unaudited PCP (Apr–Sep 2025: A$134.9m / ~US$94.8m) and -13% vs the reviewed statutory comparative (Jul–Dec 2025: A$129.3m / ~US$90.9m). The trading update had guided to ~A$113m, so the 'surprise' was zero; there is no meaningful sell-side consensus to miss (Yahoo shows a thin A$1.08 average target).",
+      "**Normalised EBITDA -A$6.9m (~-US$4.9m), mid-point of the -A$6m to -A$8m guide**, versus +A$2.9m (~US$2.0m) in the PCP — a A$9.8m swing and a margin of -6.1% (-830bps). Statutory EBITDA was -A$8.5m (~-US$6.0m) after A$1.6m of significant items (A$2.2m legal/one-offs less A$0.6m AASB 16), versus -A$12.2m in the Dec-25 half, which carried A$5.9m of MIXI transaction costs and A$3.1m of share-based payments.",
+      "**Statutory net loss -A$17.3m (~-US$12.2m), EPS -5.0¢ (~-US$0.035)**, a 22% narrower loss than the Dec-25 half (-A$22.2m, -6.4¢) — but that optical improvement is one-off cost roll-off; normalised net loss widened 18% to -A$15.7m (~-US$11.0m) from a derived -A$13.3m.",
+      "**Australia drove more than 100% of the decline.** Australian revenue fell 19% to A$91.8m (~US$64.5m; -A$20.9m) and segment EBITDA fell 76% to A$2.9m (~US$2.0m; -A$9.1m, margin 3.2% vs 10.6%). Canada revenue fell 6% to A$20.9m (~US$14.7m) but grew 3% in C$ (AUD +10% vs CAD cost A$2.1m of revenue); its segment loss widened to -A$6.8m (~-US$4.8m) from -A$4.1m on World Cup/legacy-sponsorship marketing.",
+      "**Two self-described Australian themes.** (1) 'Proactive compliance actions' on the highest-value cohort produced sustained double-digit VIP turnover and revenue declines throughout H1 — management calls these 'important decisions… in an increasingly complex regulatory environment'. (2) A deliberate acceleration of mass-market sports actives, which raises net-win-margin volatility: NW margin ran 10.4% Apr–Jul, then 8.7% in Aug–Sep as AFL/NRL results went the punters' way, landing at 9.8% for the half (PCP 10.4%, target 10%).",
+      "**Volume vs price: mostly volume.** Group turnover -16% to A$1,116.0m (~US$784.5m). Our decomposition of the A$22.9m Australian net-win decline: ~A$17m (~US$12m) from the 14% handle fall (compliance-driven) and ~A$6m (~US$4m) from the 60bps NW-margin drop. The Aug–Sep 'luck' alone (1.7pp on ~A$344m of handle) is worth ~A$5.8m — i.e. roughly the entire normalised EBITDA loss.",
+      "**Structural margin is actually improving; promo intensity is not.** Australian structural (expected) gross-win margin rose ~50bps YoY and actual GW/NW margins matched structural for the half as a whole (GW margin 13.6%, -10bps). But promotions (GW minus NW, derived A$39.1m / ~US$27.5m) rose to 27.9% of gross win from 24.4% — 32.8% in Aug–Sep — and to ~3.8% of handle from ~3.3%, despite absolute promo spend being 2% lower.",
+      "**Actives up, yield down — the mass-market mix shift is visible.** Group 12m-rolling cash actives +6% to 310,058 (Australia +2% to 237,265; Canada +18% to 72,793). Derived Australian H1 net win per active fell ~20% to ~A$427 (~US$300) from ~A$534: the VIP cohort has been cut and replaced by lower-value AFL 'Pull 'Em' and World Cup recruits.",
+      "**Cost base held flat, but marketing is now 29% of revenue.** Total opex (incl. marketing) A$63.9m (~US$44.9m), -A$0.3m YoY; marketing +6% to A$33.1m (~US$23.3m), 29.4% of revenue (+620bps); other opex -6% to A$30.8m (~US$21.7m). Versus the Dec-25 half, employee costs fell 19% to A$20.7m (no SBP charge), consulting fell 92% to A$0.5m and D&A fell 13% to A$8.6m. No formal cost-transformation programme with quantified targets has been disclosed.",
+      "**Tax/product-fee leakage improved — one genuine structural positive.** Australia paid A$48.0m (~US$33.7m) in GST, point-of-consumption taxes and racing product fees, 47.4% of net win versus 49.1% (-170bps), with better racing gross-profit efficiency partly offset by 'high AFL product fees'. Group gross margin rose 90bps to 50.6%.",
+      "**Canada: iGaming growing, sportsbook VIP churn, marketing front-loaded.** In C$, iGaming turnover +21% to C$592.9m and net win +9%; sports turnover -32% to C$83.4m after a small number of high-staking clients churned in Q1, though sports NW margin improved 150bps to 6.8%. Marketing +16% in A$ (+28% in C$) to A$9.1m (~US$6.4m) = 43.5% of revenue, tied to the FIFA World Cup and the final year of legacy sponsorship deals. The iGaming platform was migrated to Bede Gaming.",
+      "**Alberta is the only new TAM.** Sportsbook and iGaming launch in Alberta — Canada's second regulated province — is 'expected in 2026', i.e. inside H2 FY27, subject to approvals. Expect launch marketing to keep Canada loss-making through FY27. Separately, AGCO cut a proposed 5-day Ontario site suspension (failure to detect suspicious Jontay Porter bets) to 2 days via settlement in October.",
+      "**Cash and funding are the real story.** Cash A$24.8m (~US$17.4m) but only A$5.3m (~US$3.7m) is corporate; A$19.5m is player cash against A$17.9m of player liabilities. Operating cash flow -A$8.1m (~-US$5.7m; -A$9.6m ex player-cash movement), capitalised software A$7.1m (~US$5.0m), FCF (our calc) ~-A$15.6m (~-US$11.0m). The gap was filled by drawing A$18.0m from MIXI Australia: A$21.3m (~US$15.0m) of a A$23m facility is now drawn at 7.19%, maturing within 12 months of each drawdown.",
+      "**Going-concern basis rests on the parent.** Net liabilities A$34.8m (~US$24.5m; NTA -16.7¢/share). The Directors state the Group is 'seeking to access working capital funding options from external funding sources' and an increase to the parent facility, and that MIXI Australia has provided a letter of financial support. PwC's review conclusion is unmodified, but minority holders should read this as: the next A$15–20m (~US$11–14m) has to come from MIXI or an external lender.",
+      "**Governance and structure.** MIXI, Inc (TYO:2121) holds 66.4% via MIXI Australia (since Sept 2025); the board is five directors including three MIXI nominees; founder Sam Swanell is now listed as Executive Director and Senior Advisor (current Group CEO identity not verified in the filings read); CFO/CoSec is Alister Lui. The financial year-end moved to 31 March (changed 12 Dec 2025), making FY26 a 9-month transition period and the PCP an unaudited management comparative. No dividend.",
+      "**No numeric FY27 guidance; qualitative H2 optimism.** The deck's framing is 'positive signals to return to PCP growth in H2', and the 13-Oct update cited early-H2 re-alignment of actual and expected net-win margins. H2 (Oct–Mar) is racing-heavier (Spring Carnival) and AFL/NRL-light, which historically stabilises Australian hold; the VIP compliance cuts, which appear to have begun in H2 FY26, should start to annualise by Q4 FY27.",
+      "**Event engagement not quantified.** The FIFA World Cup (June–July 2026) fell inside H1 and drove 'mass market campaigns' in Australia and front-loaded Canadian marketing, but management disclosed no World Cup handle, actives or revenue — a gap versus peer disclosure standards; the only comparative given is +6% group actives.",
+      "**Share price: illiquid non-reaction, then a drift down.** Shares closed unchanged at A$0.81 (~US$0.57) on 30 Oct on negligible volume, then fell 8.6% to A$0.745 (~US$0.52) on 2 Nov. Market cap ~A$281m (~US$198m) at A$0.81; EV ~A$301m (~US$212m) including the parent loan and leases.",
+      "**Thesis read-through.** PointsBet is a sub-scale challenger (Australian and Ontario market shares not disclosed) that has traded VIP revenue for regulatory robustness and is spending 29% of revenue on marketing to rebuild the base with lower-yield mass-market customers. Structural margin gains and tax-leakage improvement are real, but with FCF of ~-A$31m annualised (~-US$22m) against A$5m of corporate cash, the investment case for the ~34% minority is a function of MIXI's intentions (fund, dilute, or mop up) rather than operating momentum."
+    ],
+    "groupTable": {
+      "note": "A$m (USD at 0.703) — PointsBet reports no quarterly P&L; the statutory comparative is the Jul–Dec 2025 half (old FY basis) and the KPI comparative is the unaudited Apr–Sep 2025 PCP",
+      "columns": [
+        "H1 FY27 (Apr–Sep 26)",
+        "PCP (Apr–Sep 25)¹",
+        "YoY",
+        "Dec-25 half (stat. comp)²",
+        "vs Dec-25 half"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by segment",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Australia (Australian Trading)",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "91.8 (~US$64.5m)",
+            "112.7",
+            "-19%",
+            "104.9",
+            "-12%"
+          ]
+        },
+        {
+          "label": "Canada (Canadian Trading)",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "20.9 (~US$14.7m)",
+            "22.3",
+            "-6% (+3% in C$)",
+            "24.4",
+            "-14%"
+          ]
+        },
+        {
+          "label": "Group revenue",
+          "kind": "emphasis",
+          "cells": [
+            "112.7 (~US$79.2m)",
+            "134.9",
+            "-16%",
+            "129.3",
+            "-13%"
+          ]
+        },
+        {
+          "label": "Revenue by product",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Sportsbook (Australia + Canada)",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "97.5 (~US$68.6m)",
+            "~119.6³",
+            "~-18%",
+            "110.4",
+            "-12%"
+          ]
+        },
+        {
+          "label": "iGaming (Canada only)",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "15.2 (~US$10.7m)",
+            "~15.3³",
+            "-1%",
+            "18.8",
+            "-19%"
+          ]
+        },
+        {
+          "label": "Volume & hold (KPI basis)",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Sports turnover / handle",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "1,116.0 (~US$784.5m)",
+            "1,331.8",
+            "-16%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Sports gross win / GW margin",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "149.3 (~US$105.0m) / 13.4%",
+            "174.9 / 13.1%",
+            "-15% / +30bps",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Sports net win / NW margin",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "107.0 (~US$75.2m) / 9.6%",
+            "131.2 / 9.9%",
+            "-18% / -30bps",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "iGaming net win",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "15.2 (~US$10.7m)",
+            "15.3",
+            "-1%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Total net win",
+          "kind": "emphasis",
+          "cells": [
+            "122.1 (~US$85.8m)",
+            "146.5",
+            "-17%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Profitability",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Gross profit / margin",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "57.1 (~US$40.1m) / 50.6%",
+            "67.1 / 49.7%",
+            "-15% / +90bps",
+            "64.2 / 49.6%",
+            "-11% / +100bps"
+          ]
+        },
+        {
+          "label": "Marketing / % revenue",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "33.1 (~US$23.3m) / 29.4%",
+            "31.3 / 23.2%",
+            "+6% / +620bps",
+            "34.8 / 27.0%",
+            "-5% / +240bps"
+          ]
+        },
+        {
+          "label": "Other opex (normalised)",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "30.8 (~US$21.7m)",
+            "32.9",
+            "-6%",
+            "~32.5⁴",
+            "~-5%"
+          ]
+        },
+        {
+          "label": "Normalised EBITDA / margin",
+          "kind": "emphasis",
+          "cells": [
+            "(6.9) (~-US$4.9m) / -6.1%",
+            "2.9 / 2.1%",
+            "-A$9.8m / -830bps",
+            "(3.3) / -2.5%",
+            "-A$3.6m / -360bps"
+          ]
+        },
+        {
+          "label": "Australia segment EBITDA",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "2.9 (~US$2.0m)",
+            "12.0",
+            "-76%",
+            "7.8",
+            "-63%"
+          ]
+        },
+        {
+          "label": "Canada segment EBITDA",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "(6.8) (~-US$4.8m)",
+            "(4.1)",
+            "-65%",
+            "(8.3)",
+            "+17% (loss narrowed)"
+          ]
+        },
+        {
+          "label": "Corporate",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "(2.9) (~-US$2.0m)",
+            "n/a",
+            "n/a",
+            "(2.8)",
+            "-5%"
+          ]
+        },
+        {
+          "label": "Significant items (SBP / AASB 16 / one-offs)",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "(1.6)",
+            "n/a",
+            "n/a",
+            "(8.9)",
+            "n.m."
+          ]
+        },
+        {
+          "label": "Statutory EBITDA / margin",
+          "kind": "line",
+          "cells": [
+            "(8.5) (~-US$6.0m) / -7.5%",
+            "n/a",
+            "n/a",
+            "(12.2) / -9.4%",
+            "+31% (loss narrowed)"
+          ]
+        },
+        {
+          "label": "Depreciation & amortisation",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "(8.6) (~-US$6.0m)",
+            "n/a",
+            "n/a",
+            "(10.0)",
+            "-13%"
+          ]
+        },
+        {
+          "label": "Statutory net loss after tax",
+          "kind": "emphasis",
+          "cells": [
+            "(17.3) (~-US$12.2m)",
+            "n/a",
+            "n/a",
+            "(22.2)",
+            "+22% (loss narrowed)"
+          ]
+        },
+        {
+          "label": "Normalised net loss",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "(15.7) (~-US$11.0m)",
+            "n/a",
+            "n/a",
+            "(13.3)⁴",
+            "-18% (loss widened)"
+          ]
+        },
+        {
+          "label": "Basic & diluted EPS (statutory)",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "(5.0)¢ (~-US$0.035)",
+            "n/a",
+            "n/a",
+            "(6.4)¢",
+            "+22%"
+          ]
+        },
+        {
+          "label": "Weighted avg shares (m)",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "347.6",
+            "n/a",
+            "n/a",
+            "344.3",
+            "+1%"
+          ]
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "12m-rolling cash active clients",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "310,058",
+            "~292,500 (derived)",
+            "+6%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "of which Australia / Canada",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "237,265 / 72,793",
+            "n/a",
+            "+2% / +18%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Cash flow",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Operating cash flow",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "(8.1) (~-US$5.7m)",
+            "n/a",
+            "n/a",
+            "(4.4)",
+            "-A$3.7m"
+          ]
+        },
+        {
+          "label": "Operating cash flow ex player-cash movement",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "(9.6) (~-US$6.7m)",
+            "n/a",
+            "n/a",
+            "(4.3)",
+            "-A$5.3m"
+          ]
+        },
+        {
+          "label": "Capitalised software + PP&E",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "(7.5) (~-US$5.3m)",
+            "n/a",
+            "n/a",
+            "(9.0)",
+            "-17%"
+          ]
+        },
+        {
+          "label": "Free cash flow (OCF − capex, our calc)",
+          "kind": "emphasis",
+          "cells": [
+            "(15.6) (~-US$11.0m)",
+            "n/a",
+            "n/a",
+            "(13.4)",
+            "-A$2.2m"
+          ]
+        },
+        {
+          "label": "Parent (MIXI Australia) loan drawdown",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "+18.0 (~US$12.7m)",
+            "n/a",
+            "n/a",
+            "0.0",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Balance sheet (30-Sep-26 vs 31-Mar-26)",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Total cash (incl. player cash)",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "24.8 (~US$17.4m)",
+            "n/a",
+            "n/a",
+            "23.0 (Mar-26)",
+            "+A$1.8m"
+          ]
+        },
+        {
+          "label": "Corporate cash",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "5.3 (~US$3.7m)",
+            "n/a",
+            "n/a",
+            "4.7 (Mar-26)",
+            "+A$0.6m"
+          ]
+        },
+        {
+          "label": "Player cash / player liabilities",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "19.5 / 17.9",
+            "n/a",
+            "n/a",
+            "18.3 / 16.0 (Mar-26)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Borrowings (MIXI Australia facility, 7.19%)",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "21.3 (~US$15.0m) of A$23m",
+            "n/a",
+            "n/a",
+            "3.0 (Mar-26)",
+            "+A$18.3m"
+          ]
+        },
+        {
+          "label": "Lease liabilities",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "3.9 (~US$2.7m)",
+            "n/a",
+            "n/a",
+            "1.8 (Mar-26)",
+            "+A$2.1m"
+          ]
+        },
+        {
+          "label": "Net debt ex-leases (borrowings − corporate cash, our calc)",
+          "kind": "emphasis",
+          "cells": [
+            "16.0 (~US$11.2m)",
+            "n/a",
+            "n/a",
+            "(1.7) net cash (Mar-26)",
+            "+A$17.7m"
+          ]
+        },
+        {
+          "label": "Net debt / EBITDA",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "n.m. (negative EBITDA)",
+            "n/a",
+            "n/a",
+            "n.m.",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Net assets / (liabilities)",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "(34.8) (~-US$24.5m)",
+            "n/a",
+            "n/a",
+            "(17.5) (Mar-26)",
+            "-A$17.3m"
+          ]
+        },
+        {
+          "label": "NTA per share",
+          "indent": true,
+          "kind": "line",
+          "cells": [
+            "(16.7)¢",
+            "n/a",
+            "n/a",
+            "(11.3)¢ (Dec-25)",
+            "n/a"
+          ],
+          "footnote": "¹ PCP = 1 Apr–30 Sep 2025, management comparative, not audited or reviewed. ² Statutory comparative = 6 months to 31 Dec 2025 (old June year-end basis), PwC-reviewed. ³ Derived: PCP iGaming revenue ≈ iGaming net win; sportsbook = group revenue less iGaming. ⁴ Derived from reported statutory figures and significant items."
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Australia (Australian Trading — online sports & fixed-odds racing)",
+        "headline": "Compliance-driven VIP cuts took 14% off handle, then an 8.7% AFL/NRL hold in Aug–Sep took 76% off segment EBITDA; structural margin is improving but promo intensity hit 32.8% of gross win.",
+        "narrative": [
+          "They do not disclose market share, and PointsBet remains a sub-scale challenger in a market led by Sportsbet, TAB, Entain's Ladbrokes/Neds and bet365 — so the numbers have to be read as company-specific rather than market-driven. Australian revenue fell 19% to A$91.8m (~US$64.5m) on net win down 18% to A$101.2m (~US$71.1m) and turnover down 14% to A$1,031.4m (~US$725m). Management attributes the handle decline to 'the continued strengthening of the Company's compliance standards', with proactive actions on the highest-value cohort producing double-digit turnover and revenue declines in that cohort throughout the half; the 13-Oct trading update framed these as important decisions in an increasingly complex Australian regulatory environment. We read this as a permanent reset of the VIP book rather than a timing effect, which means the comparison does not get easier until the actions annualise — they appear to have started in H2 FY26, when the annual report already cited 'lower VIP play'.",
+          "On hold, the half was a tale of two periods. Gross-win margin was 13.6% (-10bps), and they say structural (expected) gross-win margin is trending up, +50bps on the PCP, with actual gross- and net-win margins matching structural for the half as a whole. But net-win margin tracked 10.4% from April to July and then 8.7% in August and September as AFL and NRL results went against the book, landing at 9.8% for H1 against 10.4% in the PCP and the 10% internal target. Promotions, derived as gross win less net win, were A$39.1m (~US$27.5m), 2% lower in absolute terms, but 27.9% of gross win versus 24.4% — 32.8% in Aug–Sep — and ~3.8% of handle versus ~3.3%. Our decomposition of the A$22.9m net-win decline puts ~A$17m (~US$12m) on volume and ~A$6m (~US$4m) on margin; the Aug–Sep variance alone (1.7pp on roughly A$344m of handle) is worth ~A$5.8m (~US$4.1m), i.e. the whole of the group's normalised EBITDA loss. That is the bull case in one line — and the bear case is that a bookmaker deliberately chasing mass-market AFL punters with 'Pull 'Em' and World Cup campaigns has chosen a higher-variance book at exactly the moment its VIP cushion is gone.",
+          "Customer economics confirm the mix shift. 12-month rolling cash actives rose 2% to 237,265, so the top line fell despite a larger base; derived H1 net win per active dropped ~20% to ~A$427 (~US$300) from ~A$534. Marketing rose 2% to A$23.9m (~US$16.8m), 26.0% of revenue versus 20.8% (+520bps), reflecting mass-market campaigns for the FIFA World Cup and AFL Pull 'Em. They flag that gross-profit efficiency improved in racing but softened in sports because of high AFL product fees — a reminder that the mass-market sports pivot is also a lower-gross-margin pivot in Australia's product-fee regime.",
+          "The cost lines below net win were the one place the half surprised positively. GST, point-of-consumption taxes and racing product fees paid were A$48.0m (~US$33.7m), 47.4% of net win versus 49.1% (-170bps), and gross profit fell 17% to A$46.9m (~US$33.0m) with gross margin on revenue up 110bps to 51.1%. Other opex fell 4% to A$20.1m (~US$14.1m). Even so, statutory segment EBITDA fell 76% to A$2.9m (~US$2.0m), a 3.2% margin versus 10.6%, and 63% below the A$7.8m earned in the Jul–Dec 2025 half; the ~A$9.1m decline reconciles broadly to the ~A$6m margin shortfall plus the after-tax, after-promo flow-through of the lost VIP volume.",
+          "Their outlook is qualitative: 'positive signals to return to PCP growth in H2', with the October update pointing to early-H2 re-alignment of actual and expected net-win margins. Our view is that H2 (Oct–Mar) is structurally a better half for hold — Spring Racing Carnival, summer cricket and tennis, no AFL/NRL — so a reversion to ~10% NW margin is plausible and on ~A$170m of monthly handle each 1pp of margin is worth ~A$1.7m (~US$1.2m) a month. But a return to PCP revenue growth requires the mass-market base to outgrow the annualising VIP hole, and with promotions running near 28–33% of gross win the EBITDA leverage from any recovery will be thinner than the FY25 cost base implied."
+        ],
+        "table": {
+          "note": "Australia, A$m (USD at 0.703)",
+          "columns": [
+            "H1 FY27 (Apr–Sep 26)",
+            "PCP (Apr–Sep 25)",
+            "YoY",
+            "Dec-25 half (stat. comp)",
+            "vs Dec-25"
+          ],
+          "rows": [
+            {
+              "label": "Volume, hold & promotions",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Turnover / handle",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "1,031.4 (~US$725m)",
+                "1,195.2",
+                "-14%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Gross win",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "140.3 (~US$98.6m)",
+                "164.1",
+                "-14%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Gross win margin",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "13.6%",
+                "13.7%",
+                "-10bps",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Structural (expected) gross win margin",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "not disclosed",
+                "not disclosed",
+                "+50bps (per company)",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Promotions (GW − NW, derived)",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "39.1 (~US$27.5m)",
+                "40.0",
+                "-2%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Promotions % gross win",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "27.9% (32.8% Aug–Sep)",
+                "24.4%",
+                "+350bps",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Promotions % handle (derived)",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "3.8%",
+                "3.3%",
+                "+45bps",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Net win",
+              "kind": "emphasis",
+              "cells": [
+                "101.2 (~US$71.1m)",
+                "124.1",
+                "-18%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Net win margin",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "9.8% (Apr–Jul 10.4%; Aug–Sep 8.7%)",
+                "10.4%",
+                "-60bps (target 10%)",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Segment P&L",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "91.8 (~US$64.5m)",
+                "112.7",
+                "-19%",
+                "104.9",
+                "-12%"
+              ]
+            },
+            {
+              "label": "GST, POCT & racing product fees",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "48.0 (~US$33.7m)",
+                "~60.9 (derived)",
+                "~-21%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "— as % of net win",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "47.4%",
+                "49.1%",
+                "-170bps",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Gross profit / margin on revenue",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "46.9 (~US$33.0m) / 51.1%",
+                "56.3 / 50.0%",
+                "-17% / +110bps",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Marketing / % revenue",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "23.9 (~US$16.8m) / 26.0%",
+                "23.4 / 20.8%",
+                "+2% / +520bps",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Other opex",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "20.1 (~US$14.1m)",
+                "20.9",
+                "-4%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Statutory segment EBITDA / margin",
+              "kind": "emphasis",
+              "cells": [
+                "2.9 (~US$2.0m) / 3.2%",
+                "12.0 / 10.6%",
+                "-76% / -740bps",
+                "7.8 / 7.4%",
+                "-63%"
+              ]
+            },
+            {
+              "label": "Customers & position",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "12m-rolling cash actives",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "237,265",
+                "~232,600 (derived)",
+                "+2%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "H1 net win per active (derived)",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "~A$427 (~US$300)",
+                "~A$534",
+                "-20%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Online wagering market share",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "not disclosed",
+                "not disclosed",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "PCP is unaudited management data. Derived rows are our calculations from reported figures."
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and VIP reset",
+            "takeaway": "Revenue fell 19% to A$91.8m as compliance-driven VIP cuts took 14% off turnover; we read this as a permanent reset, not timing.",
+            "points": [
+              "Net win down 18% to A$101.2m (~US$71.1m); turnover down 14% to A$1,031.4m (~US$725m); revenue ~US$64.5m.",
+              "Proactive actions on the highest-value cohort produced double-digit turnover and revenue declines in that cohort throughout the half.",
+              "13-Oct update framed these as important decisions in an increasingly complex Australian regulatory environment.",
+              "Actions appear to have started in H2 FY26; comparison does not ease until they annualise.",
+              "Market share undisclosed; sub-scale challenger versus Sportsbet, TAB, Entain's Ladbrokes/Neds and bet365, so numbers are company-specific."
+            ],
+            "quote": {
+              "text": "the continued strengthening of the Company's compliance standards",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Hold and promotions",
+            "takeaway": "Net-win margin fell to 9.8% from 10.4% after an 8.7% Aug–Sep AFL/NRL hold; promotions reached 32.8% of gross win in that period.",
+            "points": [
+              "Gross-win margin 13.6% (-10bps); structural gross-win margin +50bps on PCP, with actual margins matching structural for the half overall.",
+              "Net-win margin 10.4% April–July, then 8.7% August–September; 10% internal target.",
+              "Promotions A$39.1m (~US$27.5m), 2% lower, but 27.9% of gross win versus 24.4% and ~3.8% of handle versus ~3.3%.",
+              "Of the A$22.9m net-win decline, ~A$17m (~US$12m) is volume and ~A$6m (~US$4m) margin; Aug–Sep variance alone ~A$5.8m (~US$4.1m), the whole group normalised EBITDA loss.",
+              "Bear case: chasing mass-market AFL punters with 'Pull 'Em' and World Cup campaigns means a higher-variance book just as the VIP cushion is gone."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Customer economics and marketing",
+            "takeaway": "Actives rose 2% to 237,265 yet net win per active fell ~20% to ~A$427, while marketing rose to 26.0% of revenue.",
+            "points": [
+              "Derived H1 net win per active ~A$427 (~US$300) from ~A$534.",
+              "Marketing up 2% to A$23.9m (~US$16.8m), 26.0% of revenue versus 20.8% (+520bps), on FIFA World Cup and AFL Pull 'Em campaigns.",
+              "Gross-profit efficiency improved in racing but softened in sports because of high AFL product fees; the mass-market sports pivot is a lower-gross-margin pivot."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Costs and segment EBITDA",
+            "takeaway": "Taxes and fees fell to 47.4% of net win and opex fell 4%, but segment EBITDA still dropped 76% to A$2.9m (3.2% margin).",
+            "points": [
+              "GST, point-of-consumption taxes and product fees A$48.0m (~US$33.7m), 47.4% of net win versus 49.1% (-170bps).",
+              "Gross profit down 17% to A$46.9m (~US$33.0m); gross margin on revenue up 110bps to 51.1%; other opex down 4% to A$20.1m (~US$14.1m).",
+              "EBITDA A$2.9m (~US$2.0m), 3.2% margin versus 10.6%, and 63% below the A$7.8m of the Jul–Dec 2025 half.",
+              "The ~A$9.1m decline reconciles to the ~A$6m margin shortfall plus after-tax, after-promo flow-through of lost VIP volume."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Outlook",
+            "takeaway": "Reversion to ~10% net-win margin in H2 is plausible, but returning to PCP revenue growth requires mass-market to outgrow the annualising VIP hole.",
+            "points": [
+              "October update pointed to early-H2 re-alignment of actual and expected net-win margins.",
+              "H2 (Oct–Mar) is structurally better for hold: Spring Racing Carnival, summer cricket and tennis, no AFL/NRL.",
+              "On ~A$170m monthly handle, each 1pp of margin is worth ~A$1.7m (~US$1.2m) a month.",
+              "With promotions near 28–33% of gross win, EBITDA leverage from any recovery will be thinner than the FY25 cost base implied."
+            ],
+            "quote": {
+              "text": "positive signals to return to PCP growth in H2",
+              "speaker": "Management"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Canada (Canadian Trading — Ontario sportsbook & iGaming; Alberta pending)",
+        "headline": "Up 3% in C$ with iGaming turnover +21% and actives +18%, but AUD strength, Q1 VIP churn in sports and World Cup/legacy-sponsorship marketing widened the segment loss to -A$6.8m (-32.5% margin).",
+        "narrative": [
+          "They operate in Ontario, a crowded ~50-operator regulated market where PointsBet is a mid-tier brand with undisclosed share. Reported revenue fell 6% to A$20.9m (~US$14.7m) but rose 3% in local currency: the average AUD/CAD rate moved to 0.9851 from 0.8939, a 10% appreciation that they estimate cut reported revenue by A$2.1m (~US$1.5m) and flattered the reported loss by A$0.7m. Revenue mix is now 73% iGaming (A$15.2m / ~US$10.7m) and 27% sportsbook (A$5.7m / ~US$4.0m), so this is an online-casino business with a sportsbook attached — relevant for how the Alberta launch should be judged.",
+          "iGaming did what it was supposed to. Turnover grew 21% in C$ to C$592.9m (10% in A$ to A$602.5m / ~US$423.6m), gross-win margin eased 30bps to 2.9% and net-win margin eased 30bps to 2.5%, so net win grew 9% in C$ but was flat-to-down 1% in A$ at A$15.2m (~US$10.7m); derived promotions were ~12% of iGaming gross win versus ~11%. The half also carried the migration of the casino product onto Bede Gaming's platform, which management says has been 'working well since launch' and gives more flexibility on content, engagement and retention — the lever they need to lift hold from 2.9% toward peer levels.",
+          "Sportsbook was weaker on volume and better on quality. Turnover fell 32% in C$ to C$83.4m (-38% in A$ to A$84.7m / ~US$59.5m) because a small number of high-staking clients churned in Q1 (April–June); mass-market performance was described as consistent. Gross-win margin rose 270bps to 10.6% and net-win margin 150bps to 6.8%, limiting the net-win decline to 20% (A$5.7m / ~US$4.0m). Derived promotions remain heavy at ~36% of sports gross win (vs ~33%), and management explicitly says the improved margin is 'enabling reinvestment' for the FIFA World Cup and the NFL season launch — i.e. the margin gain is being spent, not banked.",
+          "The cost side explains the wider loss. Cash actives rose 18% to 72,793, but marketing rose 16% in A$ (28% in C$) to A$9.1m (~US$6.4m), 43.5% of revenue versus 35.4%, reflecting 'the upfront weighting of FY27 spend tied to the FIFA World Cup and the final year of legacy sponsorship deals'. Other opex rose 11% to A$7.8m (~US$5.5m), gross profit fell 6% to A$10.1m (~US$7.1m) at a stable 48.3% gross margin, and statutory segment EBITDA deteriorated 65% to -A$6.8m (~-US$4.8m), a -32.5% margin versus -18.4% — though 17% better than the -A$8.3m of the Jul–Dec 2025 half. The read-across is that Canadian marketing should step down in H2 as the World Cup and legacy sponsorships roll off, but Alberta will absorb much of that saving.",
+          "Alberta is the strategic item. They 'continue to expand the addressable market into a second regulated province', with sportsbook and iGaming expected to launch in calendar 2026, subject to approvals — effectively inside H2 FY27. On the regulatory side, the AGCO settled its February proposal to suspend PointsBet Canada's Ontario site for five days (failure to detect suspicious wagers linked to the Jontay Porter matter) at two days, removing a tail risk. Our view: Canada is the only growth optionality in the group and the iGaming engine is genuine, but at a -32.5% EBITDA margin after four years in Ontario the unit economics are not yet proven, and an Alberta launch funded from a A$23m parent facility that is 91% drawn will need either MIXI's cheque-book or a very disciplined launch budget."
+        ],
+        "table": {
+          "note": "Canada, A$m unless stated (USD at 0.703; C$ figures from the results presentation)",
+          "columns": [
+            "H1 FY27 (Apr–Sep 26)",
+            "PCP (Apr–Sep 25)",
+            "YoY",
+            "Dec-25 half (stat. comp)",
+            "vs Dec-25"
+          ],
+          "rows": [
+            {
+              "label": "Sportsbook",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Turnover / handle",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "84.7 (~US$59.5m) [C$83.4m]",
+                "136.6",
+                "-38% A$ / -32% C$",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Gross win / GW margin",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "8.9 (~US$6.3m) / 10.6%",
+                "10.8 / 7.9%",
+                "-17% / +270bps",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Net win / NW margin",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "5.7 (~US$4.0m) / 6.8%",
+                "7.2 / 5.3%",
+                "-20% / +150bps",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Promotions % gross win (derived)",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "~36%",
+                "~33%",
+                "+300bps",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Sportsbook revenue (statutory)",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "5.7",
+                "n/a",
+                "n/a",
+                "5.6",
+                "+3%"
+              ]
+            },
+            {
+              "label": "iGaming",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Turnover",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "602.5 (~US$423.6m) [C$592.9m]",
+                "545.9",
+                "+10% A$ / +21% C$",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Gross win / GW margin",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "17.3 (~US$12.2m) / 2.9%",
+                "17.1 / 3.1%",
+                "+1% / -30bps",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Net win / NW margin",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "15.2 (~US$10.7m) / 2.5%",
+                "15.3 / 2.8%",
+                "-1% A$ (+9% C$) / -30bps",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Promotions % gross win (derived)",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "~12%",
+                "~11%",
+                "+150bps",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "iGaming revenue (statutory)",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "15.2",
+                "n/a",
+                "n/a",
+                "18.8",
+                "-19%"
+              ]
+            },
+            {
+              "label": "Segment P&L",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Total net win",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "21.0 (~US$14.8m)",
+                "22.5",
+                "-7%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "20.9 (~US$14.7m)",
+                "22.3",
+                "-6% A$ / +3% C$",
+                "24.4",
+                "-14%"
+              ]
+            },
+            {
+              "label": "FX translation impact on revenue",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "(2.1) (~-US$1.5m)",
+                "n/a",
+                "AUD +10% vs CAD",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Gross profit / margin",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "10.1 (~US$7.1m) / 48.3%",
+                "10.8 / 48.4%",
+                "-6% / -10bps",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Marketing / % revenue",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "9.1 (~US$6.4m) / 43.5%",
+                "7.9 / 35.4%",
+                "+16% A$ (+28% C$) / +810bps",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Other opex",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "7.8 (~US$5.5m)",
+                "7.1",
+                "+11%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Statutory segment EBITDA / margin",
+              "kind": "emphasis",
+              "cells": [
+                "(6.8) (~-US$4.8m) / -32.5%",
+                "(4.1) / -18.4%",
+                "-65% / -1,410bps",
+                "(8.3)",
+                "+17% (loss narrowed)"
+              ]
+            },
+            {
+              "label": "FX impact on reported loss",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "+0.7 (loss reduced)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Customers, FX & position",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "12m-rolling cash actives",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "72,793",
+                "~61,700 (derived)",
+                "+18%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Average AUD/CAD",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "0.9851",
+                "0.8939",
+                "+10%",
+                "0.9082 (Jul–Dec 25)",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Ontario market share",
+              "indent": true,
+              "kind": "line",
+              "cells": [
+                "not disclosed",
+                "not disclosed",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "PCP is unaudited management data. C$ turnover figures and AUD/CAD averages are from the H1FY27 results presentation as indexed/secondary-reported; derived rows are our calculations."
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and FX",
+            "takeaway": "Revenue fell 6% to A$20.9m but rose 3% in local currency, with 73% of revenue now iGaming.",
+            "points": [
+              "Average AUD/CAD moved to 0.9851 from 0.8939, a 10% appreciation estimated to cut reported revenue by A$2.1m (~US$1.5m) and flatter the loss by A$0.7m.",
+              "Mix: iGaming A$15.2m (~US$10.7m), sportsbook A$5.7m (~US$4.0m); an online-casino business with a sportsbook attached.",
+              "Ontario is a crowded ~50-operator market; PointsBet is a mid-tier brand with undisclosed share."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "iGaming",
+            "takeaway": "iGaming turnover grew 21% in C$ to C$592.9m, but net win was flat-to-down 1% in A$ at A$15.2m.",
+            "points": [
+              "Turnover up 10% in A$ to A$602.5m (~US$423.6m); gross-win margin eased 30bps to 2.9%, net-win margin 30bps to 2.5%.",
+              "Net win grew 9% in C$; derived promotions ~12% of iGaming gross win versus ~11%.",
+              "Casino product migrated onto Bede Gaming's platform, giving more flexibility on content, engagement and retention to lift hold toward peer levels."
+            ],
+            "quote": {
+              "text": "working well since launch",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Sportsbook",
+            "takeaway": "Sportsbook turnover fell 32% in C$ on Q1 VIP churn, but higher margins limited the net-win decline to 20% (A$5.7m).",
+            "points": [
+              "Turnover C$83.4m (-38% in A$ to A$84.7m / ~US$59.5m); churn of a few high-staking clients in April–June; mass-market consistent.",
+              "Gross-win margin up 270bps to 10.6%; net-win margin up 150bps to 6.8%.",
+              "Derived promotions ~36% of sports gross win versus ~33%; margin gain is being spent on FIFA World Cup and NFL launch, not banked."
+            ],
+            "quote": {
+              "text": "enabling reinvestment",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Costs and segment loss",
+            "takeaway": "Marketing rose to 43.5% of revenue and segment EBITDA worsened 65% to -A$6.8m, a -32.5% margin.",
+            "points": [
+              "Cash actives up 18% to 72,793; marketing up 16% in A$ (28% in C$) to A$9.1m (~US$6.4m) versus 35.4% of revenue.",
+              "Spend reflects 'the upfront weighting of FY27 spend tied to the FIFA World Cup and the final year of legacy sponsorship deals'.",
+              "Other opex up 11% to A$7.8m (~US$5.5m); gross profit down 6% to A$10.1m (~US$7.1m) at a stable 48.3% margin.",
+              "EBITDA -A$6.8m (~-US$4.8m), margin -32.5% versus -18.4%, but 17% better than -A$8.3m in Jul–Dec 2025.",
+              "Marketing should step down in H2 as World Cup and legacy sponsorships roll off, but Alberta will absorb much of that saving."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Alberta and regulation",
+            "takeaway": "Alberta launch expected in calendar 2026 is the only growth optionality, but unit economics are unproven at a -32.5% margin after four years.",
+            "points": [
+              "Sportsbook and iGaming launch in a second regulated province expected calendar 2026, subject to approvals — effectively inside H2 FY27.",
+              "AGCO settled its February five-day Ontario suspension proposal (Jontay Porter-linked suspicious wagers) at two days, removing a tail risk.",
+              "The iGaming engine is genuine, but a launch funded from a A$23m parent facility 91% drawn needs MIXI's cheque-book or a very disciplined budget."
+            ],
+            "quote": {
+              "text": "continue to expand the addressable market into a second regulated province",
+              "speaker": "Management"
+            }
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "**Customer base growing through the reset:** 12m-rolling cash actives +6% to 310,058 (Australia +2%, Canada +18%) despite the VIP cull — the mass-market acquisition engine (AFL 'Pull 'Em', World Cup) is working on volume, if not yet on yield.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Hold quality is improving underneath the luck:** Australian structural (expected) gross-win margin +50bps YoY, actual margins matched structural for the half, and Canadian sports NW margin +150bps to 6.8%. The Aug–Sep 8.7% hold (~A$5.8m / ~US$4.1m of net win, our estimate) is variance, not pricing.",
+        "tag": "one-off"
+      },
+      {
+        "text": "**Tax and product-fee leakage fell:** A$48.0m (~US$33.7m) of GST/POCT/product fees = 47.4% of Australian net win vs 49.1% (-170bps), lifting group gross margin 90bps to 50.6% — a rare structural lever in a jurisdiction where taxes usually only go one way.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Canada is growing in local currency:** revenue +3% in C$, iGaming turnover +21% to C$592.9m, iGaming net win +9%, Bede platform migration complete, and Alberta (sportsbook + iGaming) targeted for calendar 2026 — the only incremental TAM in the group.",
+        "tag": "early"
+      },
+      {
+        "text": "**Cost discipline on the non-marketing base:** other opex -6% to A$30.8m (~US$21.7m); versus the Dec-25 half, employee costs -19% to A$20.7m, consulting -92% to A$0.5m, D&A -13% to A$8.6m (~US$6.0m); total opex incl. marketing flat at A$63.9m (~US$44.9m).",
+        "tag": "structural"
+      },
+      {
+        "text": "**Delivered the pre-release and cleaned up the one-offs:** revenue A$112.7m (~US$79.2m) vs ~A$113m guided, normalised EBITDA -A$6.9m (~-US$4.9m) at the mid-point of -A$6m to -A$8m; significant items fell to A$1.6m from A$8.9m, narrowing the statutory loss 22% to -A$17.3m (~-US$12.2m).",
+        "tag": "one-off"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "**Revenue -16%, net win -17%, normalised EBITDA swing -A$9.8m (~-US$6.9m):** Australia's VIP compliance reset removed ~A$17m (~US$12m) of net win on our decomposition and will not annualise until late FY27; Australian segment EBITDA -76% to A$2.9m (~US$2.0m), margin 3.2% vs 10.6%.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Promotional intensity is rising, not falling:** 27.9% of Australian gross win (32.8% in Aug–Sep) vs 24.4%, ~3.8% of handle vs ~3.3%; Canadian sportsbook promos ~36% of gross win. The margin gains being generated are being reinvested rather than dropped to EBITDA.",
+        "tag": "mixed"
+      },
+      {
+        "text": "**Marketing at 29.4% of group revenue (+620bps) while revenue fell 16%;** Canada at 43.5% of revenue (+810bps). Management attributes the Canadian step-up to World Cup front-loading and the last year of legacy sponsorships, but Alberta launch spend will replace much of that in H2.",
+        "tag": "watch"
+      },
+      {
+        "text": "**Going-concern language and a parent-dependent balance sheet:** corporate cash A$5.3m (~US$3.7m); A$21.3m (~US$15.0m) of a A$23m (~US$16.2m) MIXI Australia facility drawn at 7.19% with ≤12-month maturities; net liabilities A$34.8m (~US$24.5m), NTA -16.7¢; Directors are seeking external working-capital funding and a larger parent facility backed by a MIXI letter of support.",
+        "tag": "governance"
+      },
+      {
+        "text": "**Cash burn ran at ~A$31m (~US$22m) annualised:** OCF -A$8.1m (~-US$5.7m), -A$9.6m ex player-cash movement, plus A$7.1m (~US$5.0m) of capitalised software — FCF ~-A$15.6m (~-US$11.0m) in six months against A$5.3m of unrestricted cash.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Yield dilution from the mass-market pivot:** derived Australian net win per active -20% to ~A$427 (~US$300); high AFL product fees mean the new sports customers also carry lower gross margin than racing.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Minority governance and liquidity:** MIXI holds 66.4% with three of five board seats; the founder-CEO is now 'Executive Director and Senior Advisor'; the stock traded ~zero volume on results day and fell 8.6% the next session. No numeric FY27 guidance, no World Cup KPIs, no earnings call, and no market-share disclosure.",
+        "tag": "governance"
+      }
+    ],
+    "forecast": {
+      "intro": "There is no formal FY27 guidance to bridge; the only quantified marker was the 13-Oct trading update, which the result met (revenue ~A$113m guided vs A$112.7m / ~US$79.2m delivered; normalised EBITDA -A$6m to -A$8m guided vs -A$6.9m / ~-US$4.9m delivered). Every dollar of the YoY deterioration came from the Australian segment (revenue -A$20.9m, segment EBITDA -A$9.1m), with Canada's wider loss (-A$2.7m) offset by lower corporate one-offs. The moving parts into H2 are (i) Australian net-win margin reverting from 8.7% toward the 10% target in a racing-heavier half, (ii) the VIP compliance cuts beginning to annualise, (iii) Canadian marketing stepping down post-World Cup/legacy sponsorships but Alberta launch costs stepping up, and (iv) funding — the parent facility is 91% drawn.",
+      "bridge": [
+        {
+          "title": "13-Oct trading update → actual: revenue",
+          "value": "~A$113m (~US$79m) → A$112.7m (~US$79.2m)",
+          "change": "in line; -16% YoY"
+        },
+        {
+          "title": "13-Oct trading update → actual: normalised EBITDA",
+          "value": "-A$6m to -A$8m → -A$6.9m (~-US$4.9m)",
+          "change": "mid-point; vs +A$2.9m PCP"
+        },
+        {
+          "title": "H2 FY27 outlook (qualitative only)",
+          "value": "'Positive signals to return to PCP growth in H2'; Alberta sportsbook + iGaming launch in CY2026",
+          "change": "no numeric FY27 guidance issued"
+        },
+        {
+          "title": "Funding runway",
+          "value": "A$23m (~US$16.2m) parent facility, A$21m drawn; H1 FCF ~-A$15.6m (~-US$11.0m); MIXI letter of support",
+          "change": "facility increase / external funding required before Mar-27"
+        }
+      ],
+      "view": "**Our H2 FY27 (Oct-26–Mar-27) estimate is revenue of ~A$120–128m (~US$84–90m), i.e. FY27 revenue of ~A$233–241m (~US$164–169m)** — flat to modestly up on the H2 PCP, consistent with management's 'return to PCP growth' but not more. The arithmetic: Australian handle of ~A$170m/month at a reverted ~10% NW margin adds ~A$2m/month of net win versus the Aug–Sep run-rate (1.3pp × ~A$172m), Spring Carnival racing carries better product-fee economics, and Canada should grow mid-single digits in C$ with iGaming carrying the sportsbook. **On margin we model H2 normalised EBITDA of roughly -A$3m to +A$1m (~-US$2m to +US$0.7m), giving FY27 normalised EBITDA of ~-A$6m to -A$10m (~-US$4m to -US$7m)** — the Australian margin recovery (worth ~A$6m vs H1 if promos also normalise below 25% of gross win) is largely consumed by Alberta launch marketing, with Canadian legacy-sponsorship roll-off the swing factor. **Leverage direction is up:** with D&A of ~A$17m/yr non-cash but capitalised software of ~A$14m/yr cash, we expect H2 FCF of -A$8m to -A$12m (~-US$6m to -US$8m), taking parent borrowings above A$25m (~US$18m) by March 2027 unless an external facility or equity is introduced; net debt/EBITDA stays not meaningful. Net loss for FY27 should land around -A$30m to -A$34m (~-US$21m to -US$24m), EPS ~-9¢ to -10¢ (~-US$0.06 to -US$0.07). All figures above are our estimates, not company guidance.",
+      "watch": [
+        "Monthly Australian net-win margin vs the 10% target through Spring Carnival/summer — and whether promotions fall back below ~25% of gross win from 32.8% in Aug–Sep.",
+        "Alberta go-live date, launch marketing budget and early actives; whether Canadian marketing/revenue falls from 43.5% as World Cup and legacy sponsorships roll off.",
+        "Size, tenor and pricing of the enlarged MIXI Australia facility or any external working-capital line; any equity raise or MIXI move on the ~34% minority.",
+        "Annualisation of the VIP compliance actions — the quarter in which Australian turnover stops declining double-digit YoY (we assume Q4 FY27).",
+        "Australian regulatory flow (AML/CTF enforcement, advertising restrictions) and any further AGCO action in Ontario post the 2-day suspension settlement.",
+        "Capitalised software (A$7.1m / ~US$5.0m in H1) vs amortisation (A$8.5m) — the gap between normalised EBITDA and cash burn.",
+        "Management clarity: identity and tenure of the Group CEO under MIXI, and whether FY27 numeric guidance is introduced at the Q3 update."
+      ]
+    },
+    "sharePriceReaction": "Shares closed unchanged at A$0.81 (~US$0.57) on 30 Oct 2026 with negligible volume — MIXI holds 66.4% and the ~34% free float trades a few thousand shares a day — then fell 8.6% to A$0.745 (~US$0.52) on the next session (2 Nov) and sat at A$0.75 by 4 Nov. Market cap ~A$281m (~US$198m) at A$0.81; EV ~A$301m (~US$212m) including the parent loan and leases.",
+    "confidence": "HIGH",
+    "confidenceNote": "FX: AUD/USD 0.703 as of 30 Oct 2026 (Yahoo Finance close 0.7027; valutafx 0.7029); USD figures are prefixed '~' and are our conversions. All P&L, balance-sheet, cash-flow, segment and KPI figures are taken directly from the Appendix 4D / Interim Report (PwC-reviewed; the Apr–Sep 2025 PCP is unaudited, unreviewed management data) and cross-checked against next.io, gambling.com, Yogonet and Kalkine. MEDIUM confidence applies to items available only via search-index extracts of the H1FY27 results presentation and secondary reporting — C$ turnover figures (sports C$83.4m, iGaming C$592.9m), AUD/CAD averages (0.9851 vs 0.8939), and the 'positive signals to return to PCP growth in H2' outlook wording — as the full deck and the 13-Oct trading update PDF could not be opened. No earnings-call transcript exists to our knowledge (none appears to have been held). Not verified / not disclosed: current Group CEO identity (Swanell listed as Executive Director & Senior Advisor), Australian and Ontario market shares, World Cup event KPIs, any FY27 numeric guidance (none issued), and meaningful sell-side consensus. Derived figures (promotions in A$ and % of handle, net win per active, PCP actives, FCF, net debt, Dec-25 normalised NPAT and other opex, PCP tax/product fees) are our own calculations from reported data and are labelled as such. H2/FY27 numbers in the forecast are our estimates.",
+    "sources": [
+      {
+        "label": "PointsBet Holdings — Appendix 4D and Half-Year Interim Report, six months to 30 Sep 2026 (ASX, 30 Oct 2026) — PRIMARY, read in full",
+        "kind": "primary",
+        "url": "https://asx.api.cmfyapp.com/asx-research/1.0/file/2924-03156353-3A705536&v=undefined"
+      },
+      {
+        "label": "PointsBet Holdings — H1FY27 Results Presentation (ASX, 30 Oct 2026) — PRIMARY, partially read via search-index extracts",
+        "kind": "primary",
+        "url": "https://wcsecure.weblink.com.au/pdf/PBH/03156359.pdf"
+      },
+      {
+        "label": "PointsBet Holdings — 2026 Annual Report (9-month period to 31 Mar 2026) — PRIMARY, extract only (FY26 KPIs, 'lower VIP play', Pull 'Em launch)",
+        "kind": "primary",
+        "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03103064-3A695826&v=undefined"
+      },
+      {
+        "label": "Listcorp mirror of the Appendix 4D announcement (corroboration)",
+        "kind": "secondary",
+        "url": "https://www.listcorp.com/asx/pbh/pointsbet-holdings-limited/news/appendix-4d-and-half-year-interim-report-3430858.html"
+      },
+      {
+        "label": "Kalkine — 'PointsBet Holdings Tips H1 FY27 Group Revenue of ~$113m' (13-Oct trading update coverage)",
+        "kind": "secondary",
+        "url": "https://kalkine.com.au/news/announcements/pointsbet-holdings-tips-h1-fy27-group-revenue-of-113m-down-16-on-pcp"
+      },
+      {
+        "label": "NEXT.io — 'PointsBet projects 16% revenue drop for H1 2027' (13-Oct trading update, management quote)",
+        "kind": "secondary",
+        "url": "https://next.io/news/results/pointsbet-holdings-revenue-decline-h1-2027/"
+      },
+      {
+        "label": "NEXT.io — 'PointsBet revenue falls 16% amid H1 Australian decline' (results coverage; MIXI 66.4%, AGCO settlement)",
+        "kind": "secondary",
+        "url": "https://next.io/news/results/pointsbet-revenue-falls-amid-australian-decline/"
+      },
+      {
+        "label": "Gambling.com — 'PointsBet Revenue Falls 16% To A$112.7m In H1 FY27' (C$ figures, Alberta, cash/loan)",
+        "kind": "secondary",
+        "url": "https://www.gambling.com/news/pointsbet-first-half-revenue-falls-16"
+      },
+      {
+        "label": "Gaming Intelligence — 'PointsBet revenue falls 16% to A$112.7 million in H1 FY27' (user-supplied; headline corroboration via snippet — page not accessible to fetch)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/238049-pointsbet-revenue-falls-16-to-a112-7-million-in-h1-fy27/"
+      },
+      {
+        "label": "Yogonet — 'PointsBet posts 16% first-half revenue decline as Australian betting weakens' (corroboration)",
+        "kind": "secondary",
+        "url": "https://www.yogonet.com/international/news/2026/11/03/127149-pointsbet-posts-16-firsthalf-revenue-decline-as-australian-betting-weakens"
+      },
+      {
+        "label": "MF & Co (mfam.com.au) — ASX announcement summaries, H1 FY27 Results Presentation and Interim Report (loan 7.19%, Bede platform, trading-update wording)",
+        "kind": "secondary",
+        "url": "https://mfam.com.au/asx-announcements/pbh-2026-10-30-pointsbet-h1-fy27-results-presentation/"
+      },
+      {
+        "label": "Kalkine — 'What Changed in First-Half FY27 Revenue and Active-Client Metrics?' (corroboration)",
+        "kind": "secondary",
+        "url": "https://kalkine.com.au/news/consumer/pointsbet-holdings-ltd-asxpbh-what-changed-in-first-half-fy27-revenue-and-active-client-metrics"
+      },
+      {
+        "label": "Yahoo Finance — PBH.AX historical prices (29 Oct–2 Nov 2026)",
+        "kind": "secondary",
+        "url": "https://finance.yahoo.com/quote/PBH.AX/history/"
+      },
+      {
+        "label": "Motley Fool Australia — PBH share price history table (Morningstar data, Oct–Nov 2026)",
+        "kind": "secondary",
+        "url": "https://www.fool.com.au/tickers/asx-pbh/"
+      },
+      {
+        "label": "Yahoo Finance — AUD/USD historical rate, 30 Oct 2026 (0.7027)",
+        "kind": "secondary",
+        "url": "https://finance.yahoo.com/quote/AUDUSD=X/history/"
+      },
+      {
+        "label": "ValutaFX — AUD/USD on 30 Oct 2026 (0.7029)",
+        "kind": "secondary",
+        "url": "https://www.valutafx.com/history/aud-usd-2026-10-30"
+      }
+    ]
+  }
+}

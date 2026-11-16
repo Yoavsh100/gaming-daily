@@ -3820,5 +3820,182 @@
     "releaseDate": "29 Oct 2026",
     "model": "claude-fable-5-1",
     "costUsd": 4.42
+  },
+  {
+    "key": "bragg gaming|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-16T08:25:23.936Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "BRAGG-GAMING-GROUP-Q3-2026",
+    "published": "2026-11-16",
+    "company": {
+      "name": "Bragg Gaming Group",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A shrinking-but-cleaner quarter: revenue fell 23% to EUR 20.6m (~$23.4m) as the Dutch platform migrations removed EUR 6.2m (~$7.1m) on their own, while the mix shift away from aggregated third-party content lifted gross margin 155bps to 56%. Adj. EBITDA still dropped 33% to EUR 3.0m (~$3.4m) because EUR 1.6m (~$1.8m) of cost savings covered only half of the EUR 3.1m (~$3.5m) gross-profit loss, and cash is down to EUR 2.5m (~$2.8m) with capitalised development running ahead of operating cash flow. With the CEO replaced a week before the print and no guidance for FY26 or FY27, the case now rests on the interim CEO's cash discipline rather than growth.",
+    "kpis": [
+      {
+        "label": "Revenue (IFRS)",
+        "value": "EUR 20.6m (~$23.4m)",
+        "delta": "-23.0% YoY / -9.9% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Normalized revenue (ex-BetCity/Drayton)",
+        "value": "EUR 20.0m (~$22.7m)",
+        "delta": "-11.9% YoY / +3.7% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Gross margin",
+        "value": "56.2%",
+        "delta": "+155bps YoY / +~450bps QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA (non-IFRS)",
+        "value": "EUR 3.0m (~$3.4m)",
+        "delta": "-32.5% YoY; margin 14.5% (-204bps)",
+        "dir": "down"
+      },
+      {
+        "label": "Net loss / diluted EPS (IFRS)",
+        "value": "EUR (4.3)m (~$(4.9)m) / EUR (0.15) (~$(0.17))",
+        "delta": "vs EUR (2.3)m / EUR (0.09) in Q3-25",
+        "dir": "down"
+      },
+      {
+        "label": "Cash (30 Sep 26)",
+        "value": "EUR 2.5m (~$2.8m)",
+        "delta": "vs EUR 6.7m at Dec-25; net debt EUR 0.8m ex-leases",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "13 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.58
+  },
+  {
+    "key": "pointsbet|H1 FY27",
+    "attempts": 1,
+    "lastAttempt": "2026-11-16T08:41:49.848Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "PBH-AX-H1-FY27",
+    "published": "2026-11-16",
+    "company": {
+      "name": "PointsBet Holdings",
+      "ticker": "PBH.AX",
+      "exchange": ""
+    },
+    "period": "H1 FY27",
+    "verdict": "A pre-announced miss delivered as pre-announced: H1 FY27 (Apr–Sep 2026) revenue fell 16% to A$112.7m (~US$79.2m) and normalised EBITDA swung from +A$2.9m (~US$2.0m) to -A$6.9m (~-US$4.9m), entirely driven by Australia, where self-imposed VIP compliance cuts took ~A$17m (~US$12m) out of net win and an 8.7% AFL/NRL-season hold in Aug–Sep cost roughly another A$6m (~US$4m). The more important disclosure is below the EBITDA line: corporate cash of A$5.3m (~US$3.7m), A$21m (~US$15m) of a A$23m parent facility drawn, net liabilities of A$34.8m (~US$24.5m) and going-concern language leaning on a MIXI letter of support — the equity story is now a funding story.",
+    "kpis": [
+      {
+        "label": "Revenue (H1 FY27)",
+        "value": "A$112.7m (~US$79.2m)",
+        "delta": "-16% YoY vs PCP A$134.9m; -13% vs Dec-25 half",
+        "dir": "down"
+      },
+      {
+        "label": "Total net win",
+        "value": "A$122.1m (~US$85.8m)",
+        "delta": "-17% YoY (sports -18%, iGaming -1%)",
+        "dir": "down"
+      },
+      {
+        "label": "Normalised EBITDA",
+        "value": "-A$6.9m (~-US$4.9m)",
+        "delta": "vs +A$2.9m PCP (-A$9.8m); margin -6.1% (-830bps)",
+        "dir": "down"
+      },
+      {
+        "label": "Statutory net loss / EPS",
+        "value": "-A$17.3m (~-US$12.2m) / -5.0¢ (~-US$0.035)",
+        "delta": "loss narrowed 22% vs Dec-25 half (-A$22.2m, -6.4¢)",
+        "dir": "up"
+      },
+      {
+        "label": "12m-rolling cash actives",
+        "value": "310,058",
+        "delta": "+6% YoY (Australia +2%, Canada +18%)",
+        "dir": "up"
+      },
+      {
+        "label": "Corporate cash / parent loan drawn",
+        "value": "A$5.3m (~US$3.7m) / A$21.3m (~US$15.0m)",
+        "delta": "net debt ex-leases A$16.0m vs A$1.7m net cash at Mar-26",
+        "dir": "down"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "30 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.94
+  },
+  {
+    "key": "konami|H1 FY27",
+    "attempts": 1,
+    "lastAttempt": "2026-11-16T08:54:43.204Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "9766-T-H1-FY27",
+    "published": "2026-11-16",
+    "company": {
+      "name": "Konami Group",
+      "ticker": "9766.T",
+      "exchange": ""
+    },
+    "period": "H1 FY27",
+    "verdict": "A clean beat on every line and the first mid-year guidance upgrade in 15 years: derived Q2 operating profit of ¥66.0bn (~$418m) was ~32% above the ~¥50bn market expectation and FY3/27 OP guidance moved from ¥143bn to ¥193bn (~$1.22bn), with 100% of the raise coming from Digital Entertainment (eFootball's World Cup window plus Yu-Gi-Oh! card demand). The debate now is durability, not delivery: management's own H2 implies DE business profit falling 25% from H1, Gaming & Systems guidance was left stale, and the equity's ~26x forward multiple rests on one live-service franchise holding a tournament-year cohort into a quadrennial comp.",
+    "kpis": [
+      {
+        "label": "H1 FY3/27 revenue",
+        "value": "¥308.0bn (~$1.95bn)",
+        "delta": "+37.0% YoY; Q2 ¥178.5bn (~$1.13bn) +39.6%",
+        "dir": "up"
+      },
+      {
+        "label": "H1 operating profit (IFRS)",
+        "value": "¥111.3bn (~$705m)",
+        "delta": "+73.1% YoY; margin 36.1% (+750bps)",
+        "dir": "up"
+      },
+      {
+        "label": "Q2 operating profit (derived)",
+        "value": "¥66.0bn (~$418m)",
+        "delta": "+80.6% YoY; ~32% above ~¥50bn consensus",
+        "dir": "up"
+      },
+      {
+        "label": "H1 net profit / EPS",
+        "value": "¥79.2bn (~$502m) / ¥584.54 (~$3.70)",
+        "delta": "+70.5% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "FY3/27 OP guidance",
+        "value": "¥193bn (~$1.22bn)",
+        "delta": "from ¥143bn (+35.0%); all Digital Entertainment",
+        "dir": "up"
+      },
+      {
+        "label": "Net cash / FY DPS",
+        "value": "¥333.7bn (~$2.11bn) / ¥299 (~$1.89)",
+        "delta": "cash +¥46.1bn in H1; DPS from ¥224 (+33%)",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "29 Oct 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 7.18
   }
 ]

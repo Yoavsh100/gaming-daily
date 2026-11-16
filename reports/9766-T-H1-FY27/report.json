@@ -1,0 +1,1580 @@
+{
+  "company": {
+    "name": "Konami Group",
+    "ticker": "9766.T",
+    "exchange": ""
+  },
+  "period": "H1 FY27",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 4316833,
+    "output": 70702,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 70,
+    "cacheRead": 4107101,
+    "cacheWrite": 209662,
+    "turns": 1
+  },
+  "prepared": "16 Nov 2026",
+  "report": {
+    "releaseDate": "29 Oct 2026",
+    "currency": "JPY (tables in ¥ millions; USD equivalents in parentheses at USD/JPY 157.83, 29 Oct 2026 close)",
+    "verdict": "A clean beat on every line and the first mid-year guidance upgrade in 15 years: derived Q2 operating profit of ¥66.0bn (~$418m) was ~32% above the ~¥50bn market expectation and FY3/27 OP guidance moved from ¥143bn to ¥193bn (~$1.22bn), with 100% of the raise coming from Digital Entertainment (eFootball's World Cup window plus Yu-Gi-Oh! card demand). The debate now is durability, not delivery: management's own H2 implies DE business profit falling 25% from H1, Gaming & Systems guidance was left stale, and the equity's ~26x forward multiple rests on one live-service franchise holding a tournament-year cohort into a quadrennial comp.",
+    "kpis": [
+      {
+        "label": "H1 FY3/27 revenue",
+        "value": "¥308.0bn (~$1.95bn)",
+        "delta": "+37.0% YoY; Q2 ¥178.5bn (~$1.13bn) +39.6%",
+        "dir": "up"
+      },
+      {
+        "label": "H1 operating profit (IFRS)",
+        "value": "¥111.3bn (~$705m)",
+        "delta": "+73.1% YoY; margin 36.1% (+750bps)",
+        "dir": "up"
+      },
+      {
+        "label": "Q2 operating profit (derived)",
+        "value": "¥66.0bn (~$418m)",
+        "delta": "+80.6% YoY; ~32% above ~¥50bn consensus",
+        "dir": "up"
+      },
+      {
+        "label": "H1 net profit / EPS",
+        "value": "¥79.2bn (~$502m) / ¥584.54 (~$3.70)",
+        "delta": "+70.5% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "FY3/27 OP guidance",
+        "value": "¥193bn (~$1.22bn)",
+        "delta": "from ¥143bn (+35.0%); all Digital Entertainment",
+        "dir": "up"
+      },
+      {
+        "label": "Net cash / FY DPS",
+        "value": "¥333.7bn (~$2.11bn) / ¥299 (~$1.89)",
+        "delta": "cash +¥46.1bn in H1; DPS from ¥224 (+33%)",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**Beat on every line, record H1.** Revenue ¥308.0bn (~$1.95bn) +37.0%; business profit ¥112.1bn (~$710m) +72.2%; operating profit ¥111.3bn (~$705m) +73.1%; PBT ¥112.9bn (~$715m) +73.1%; net profit attributable ¥79.2bn (~$502m) +70.5%; basic = diluted EPS ¥584.54 (~$3.70) vs ¥342.92. Management flags all-time first-half highs for revenue and every profit line (IFRS, unaudited interim).",
+      "**Q2 (Jul–Sep) was the quarter and it accelerated.** Derived Q2 revenue ¥178.5bn (~$1.13bn), +39.6% YoY and +37.8% QoQ (Q1 was +33.6%); Q2 OP ¥66.0bn (~$418m), +80.6% YoY, a 37.0% margin (+840bps YoY, +200bps QoQ); Q2 net profit ¥46.7bn (~$296m), EPS ¥344.24 (~$2.18). Investing.com puts the pre-results market expectation for Q2 OP at ~¥50bn, so the beat was ~32%.",
+      "**Guidance up 35% at the OP line — first mid-year raise since FY3/12.** FY3/27: revenue ¥505bn → ¥583bn (~$3.69bn, +18.1% YoY); business profit ¥150bn → ¥200bn (~$1.27bn); OP ¥143bn → ¥193bn (~$1.22bn, +42.0% YoY); PBT ¥143bn → ¥193bn; net profit ¥101bn → ¥135bn (~$855m, +35.0%); EPS ¥745.08 → ¥995.90 (~$6.31). Nikkei puts pre-results QUICK consensus net profit at ¥127.5bn, so the new guide sits ~6% above the Street — notable for a company whose May guide (¥101bn) was ~10% below consensus.",
+      "**Every yen of the upgrade is Digital Entertainment.** DE revenue guide ¥372bn → ¥450bn (~$2.85bn, +¥78bn), business profit ¥138bn → ¥188bn (~$1.19bn, +¥50bn), OP ¥131bn → ¥181bn (40% margin vs 35%). Arcade (¥29bn/¥7.5bn), Gaming & Systems (¥46bn/¥6.5bn), Sports (¥52bn/¥4.0bn), Others (¥9bn/¥1.5bn), corporate (−¥7.5bn) and other income/expense (−¥7.0bn) were all left untouched — the Tanshin explicitly attributes the revision to eFootball and Yu-Gi-Oh!.",
+      "**The engine: eFootball's World Cup window plus Yu-Gi-Oh!.** Management credits eFootball campaigns commemorating the international football tournament (June–July 2026) followed by the August major update and a new-season campaign it says is performing well; mobile baseball (PRO SPIRIT A, Pawapuro, MLB PRO SPIRIT); Yu-Gi-Oh! MASTER DUEL's 100m-download campaign; and special-edition Yu-Gi-Oh! OCG products built around past anime protagonists. DE H1 revenue ¥243.5bn (~$1.54bn) +44.3%, Q2 ¥143.4bn (~$909m) +50.3%. Group service & other revenue (live-service/in-game) +42.0% to ¥223.2bn (~$1.41bn) vs product sales +25.3% to ¥84.8bn (~$537m) — the mix confirms in-game spend did the work, not packaged software.",
+      "**Margin structure stepped up ~750bps on operating leverage, not cost cutting.** Group business-profit margin 36.4% (28.9%), OP margin 36.1% (28.6%), gross margin 54.8% (49.4%), SG&A 18.4% of revenue (20.4%). DE BP margin 44.1% (+780bps), Q2 44.3% (+920bps). Incremental group BP on incremental revenue was ~57% (¥47.0bn on ¥83.1bn). There is no cost-transformation programme; the only structural change was the 1 Oct 2025 carve-out of Konami Arcade Games Co. (Arcade now a separate segment, pachinko/pachislot moved to Others; prior-year restated).",
+      "**Gaming & Systems: strongest H1 in years, still a sub-scale margin.** Revenue ¥25.1bn (~$159m) +41.3%, business profit ¥2.4bn (~$15m) +154.4%, margin 9.6% (5.3%), Q2 12.5%. Solstice 49C cabinet drove unit sales; Solstice 27 launched in Q2 and the 75-inch Solstice SuperNova (G2E 2026) ships in Q3; BOMBERMAN led their North American content sales; SYNKROS now connects >150,000 slots incl. Carnival cruise ships, with new property wins in California/Arizona (Q2) and Pennsylvania/Nevada (Q1); Class II expanded in Texas and Washington. Guidance was not refreshed: implied H2 revenue ¥20.9bn would be −17.5% YoY — stale in our view, not a demand call.",
+      "**Arcade and Sports positive but immaterial; Others shrank.** Arcade revenue ¥10.4bn (~$66m) +17.4%, BP ¥2.7bn (~$17m) +50.1% (25.8% margin) on Demon Slayer: Nichirin Battle Slash (first arcade title on the IP, July). Sports revenue ¥25.7bn (~$163m) +3.3%, BP ¥1.9bn (~$12m) +8.9% but Q2 BP −13.4% YoY; Pilates Mirror studios 116 (+31 in H1). Others (pachinko/pachislot) revenue ¥4.6bn (~$29m) −19.2%, BP ¥0.8bn −44.8%.",
+      "**Overseas-booked revenue fell — read it correctly.** By selling-entity location: Japan ¥251.7bn (~$1.59bn) +58.3%; US ¥34.7bn (~$220m) −13.2% (Q2 −23.7%); Europe ¥10.3bn (~$65m) −38.6% (Q2 −41.7%); Asia/Oceania ¥11.3bn (~$71m) +24.3%. Global eFootball/Yu-Gi-Oh! digital revenue is booked in Japan, so this is not a signal on overseas demand for the live-service titles; it is the roll-off of last year's MGS Delta (Aug 2025) and SILENT HILL f (Sep 2025) console launches, and it says this year's console slate (Master Collection Vol.2, Townfall) is lower-ticket.",
+      "**Cash conversion was excellent.** Operating cash flow ¥85.2bn (~$540m) +62.5% (Q2 alone ¥68.9bn); capex ¥16.2bn (~$103m) vs ¥37.7bn; FCF (OCF − capex) ¥69.0bn (~$437m) vs ¥14.7bn. Working capital absorbed ~¥22bn (receivables +¥16.0bn, inventories +¥6.2bn, contract liabilities +¥4.6bn); income taxes paid ¥30.9bn. D&A ¥17.5bn (+15%); no impairments in H1 (¥0.9bn LY); ¥1.5bn loss on PP&E disposal.",
+      "**Balance sheet: net cash ¥333.7bn (~$2.11bn), 53% of equity.** Cash ¥373.6bn (~$2.37bn), +¥46.1bn in H1; bonds and borrowings ¥39.9bn (~$253m), of which ¥20.0bn reclassified to current (matures within 12 months); lease liabilities ~¥22.4bn; equity ratio 76.6% (75.4%); BVPS ¥4,596.76 (~$29.12). No buyback — treasury purchases ¥3m.",
+      "**Dividend raised 33%, mechanically.** Interim ¥112 (~$0.71) vs ¥83; year-end forecast ¥187 (~$1.18); FY ¥299 (~$1.89) vs initial ¥224 and FY26 ¥221.50 — exactly 30.0% of guided EPS under the ≥30% payout policy. ¥18.8bn (~$119m) of dividends paid in H1 (+39%). Payable 19 Nov 2026.",
+      "**Implied H2 is deliberately soft.** H2 revenue ¥275.0bn (~$1.74bn), −10.7% vs H1 and only +2.3% vs H2 FY26; H2 OP ¥81.7bn (~$518m), −26.6% vs H1, +14.1% YoY, 29.7% margin; H2 net profit ¥55.8bn (~$353m). H2 DE business profit ¥80.5bn (~$510m), −25% vs H1 at a 39% margin — i.e. ~¥40bn a quarter vs ¥63.6bn just printed. The −¥7.0bn FY other-income/expense line vs −¥0.8bn actual implies a −¥6.2bn H2 impairment/disposal cushion. Investing.com reports management told the briefing the plan assumes an H2 DE slowdown and that it considers the plan conservative.",
+      "**Pipeline is live-service-heavy, console-light.** DE: Castlevania: Belmont's Curse (Oct 2026, 40th anniversary), Yu-Gi-Oh! TAG FORCE GX (Feb 2027), Rev. NOiR (2027), Suikoden STAR LEAP global rollout, Dice Strikers (soft-launched Canada/Spain), Rhapsody in Scarlet (TBD); eFootball Championship 2027 opens with expanded finals (prior edition 45.21m entrants). Arcade: jubeat U'nit — first new cabinet in 18 years — plus Momotaro Dentetsu 2 and Anima Lotta at AMUSEMENT EXPO (Nov); BLAZING ENCOUNTER (Oct), GHOSTBUSTERS and HOLO CARD STATION for North America. GS: Solstice SuperNova (Q3), VLT/HHR and iGaming content expansion.",
+      "**Esports and IP breadth as retention tools.** eFootball was a medal title at the 20th Asian Games (Aichi-Nagoya); the Yu-Gi-Oh! World Championship 2026 finals were held in Tokyo; BEMANI PRO LEAGUE Season 6 regular stage starts in November. eFootball crossed 1bn cumulative downloads in April 2026 (Nikkei) and MASTER DUEL 100m. No MAU, ARPU, paying-user or title-level revenue is disclosed, so cohort quality cannot be verified from the filings.",
+      "**No M&A, no regulatory items, no management change.** Representative Director, President and Group CEO Kimihiko Higashio; no change in consolidation scope, accounting policy or estimates. Below the line is clean: effective tax 29.8% (28.7%), net finance income ¥0.95bn, equity-method profit ¥0.7bn, NCI nil.",
+      "**Market reaction: +14–15% on a down day.** Shares rose 13.8% to ¥26,110 (~$165) on 30 Oct per Investing.com (Nikkei/Gaming Intelligence cite ~+15% at the close) while the Nikkei 225 fell 2–3% on AI/BoJ jitters; the stock has since moved to ~¥29,180 (~$185). Market cap at ¥26,110 ≈ ¥3.5trn (~$22bn), ~26x the new EPS guide. Brokers lifted targets post-print (JPMorgan ¥35,100, CLSA ¥33,600, Macquarie ¥30,000, Nomura ¥27,000 per Investing.com).",
+      "**Thesis read-through.** This is a high-margin live-service publisher with a casino-equipment option attached, not a diversified conglomerate: DE is 79% of H1 revenue and ~93% of segment business profit. The upgrade is credible and probably still conservative for FY3/27, but it is single-franchise and tournament-timed; the FY3/28 comp against a World Cup year is the real test of whether a 40%+ DE margin is a new base or a peak. GS and Arcade are optionality; Sports is a ROIC drag kept for brand reasons."
+    ],
+    "groupTable": {
+      "note": "¥ millions (USD at ¥157.83/$). Q2 = H1 minus Q1, derived from the two Tanshin",
+      "columns": [
+        "Q2 FY27",
+        "Q2 FY26",
+        "YoY",
+        "QoQ",
+        "H1 FY27",
+        "H1 FY26",
+        "H1 YoY"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by segment (incl. intersegment)",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Digital Entertainment",
+          "indent": true,
+          "cells": [
+            "143,438 (~$909m)",
+            "95,462 (~$605m)",
+            "+50.3%",
+            "+43.3%",
+            "243,521 (~$1.54bn)",
+            "168,777 (~$1.07bn)",
+            "+44.3%"
+          ]
+        },
+        {
+          "label": "Arcade Game",
+          "indent": true,
+          "cells": [
+            "6,044 (~$38m)",
+            "4,840 (~$31m)",
+            "+24.9%",
+            "+40.2%",
+            "10,356 (~$66m)",
+            "8,822 (~$56m)",
+            "+17.4%"
+          ]
+        },
+        {
+          "label": "Gaming & Systems",
+          "indent": true,
+          "cells": [
+            "12,724 (~$81m)",
+            "10,255 (~$65m)",
+            "+24.1%",
+            "+2.7%",
+            "25,112 (~$159m)",
+            "17,768 (~$113m)",
+            "+41.3%"
+          ]
+        },
+        {
+          "label": "Sports",
+          "indent": true,
+          "cells": [
+            "13,008 (~$82m)",
+            "12,825 (~$81m)",
+            "+1.4%",
+            "+2.3%",
+            "25,720 (~$163m)",
+            "24,904 (~$158m)",
+            "+3.3%"
+          ]
+        },
+        {
+          "label": "Others (pachinko/pachislot)",
+          "indent": true,
+          "cells": [
+            "3,881 (~$25m)",
+            "5,072 (~$32m)",
+            "−23.5%",
+            "n/m",
+            "4,559 (~$29m)",
+            "5,644 (~$36m)",
+            "−19.2%"
+          ]
+        },
+        {
+          "label": "Eliminations",
+          "indent": true,
+          "cells": [
+            "(644)",
+            "(579)",
+            "—",
+            "—",
+            "(1,293)",
+            "(1,076)",
+            "—"
+          ]
+        },
+        {
+          "label": "Total revenue",
+          "kind": "emphasis",
+          "cells": [
+            "178,451 (~$1.13bn)",
+            "127,875 (~$810m)",
+            "+39.6%",
+            "+37.8%",
+            "307,975 (~$1.95bn)",
+            "224,839 (~$1.42bn)",
+            "+37.0%"
+          ]
+        },
+        {
+          "label": "Revenue by type",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Product sales (packaged software, cards, cabinets, slots)",
+          "indent": true,
+          "cells": [
+            "54,770 (~$347m)",
+            "42,562 (~$270m)",
+            "+28.7%",
+            "+82.3%",
+            "84,814 (~$537m)",
+            "67,682 (~$429m)",
+            "+25.3%"
+          ]
+        },
+        {
+          "label": "Service & other (in-game, live service, clubs, systems)",
+          "indent": true,
+          "cells": [
+            "123,681 (~$784m)",
+            "85,313 (~$541m)",
+            "+45.0%",
+            "+24.3%",
+            "223,161 (~$1.41bn)",
+            "157,157 (~$996m)",
+            "+42.0%"
+          ]
+        },
+        {
+          "label": "Revenue by geography (external; by selling-entity location)",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Japan",
+          "indent": true,
+          "cells": [
+            "147,986 (~$938m)",
+            "87,791 (~$556m)",
+            "+68.6%",
+            "+42.7%",
+            "251,683 (~$1.59bn)",
+            "159,002 (~$1.01bn)",
+            "+58.3%"
+          ]
+        },
+        {
+          "label": "United States",
+          "indent": true,
+          "cells": [
+            "18,368 (~$116m)",
+            "24,058 (~$152m)",
+            "−23.7%",
+            "+12.5%",
+            "34,702 (~$220m)",
+            "39,962 (~$253m)",
+            "−13.2%"
+          ]
+        },
+        {
+          "label": "Europe",
+          "indent": true,
+          "cells": [
+            "6,392 (~$40m)",
+            "10,961 (~$69m)",
+            "−41.7%",
+            "+62.9%",
+            "10,315 (~$65m)",
+            "16,806 (~$106m)",
+            "−38.6%"
+          ]
+        },
+        {
+          "label": "Asia/Oceania",
+          "indent": true,
+          "cells": [
+            "5,705 (~$36m)",
+            "5,065 (~$32m)",
+            "+12.6%",
+            "+2.4%",
+            "11,275 (~$71m)",
+            "9,069 (~$57m)",
+            "+24.3%"
+          ]
+        },
+        {
+          "label": "Profitability",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Gross profit (margin)",
+          "indent": true,
+          "cells": [
+            "98,656 (~$625m) / 55.3%",
+            "63,084 (~$400m) / 49.3%",
+            "+56.4%",
+            "+40.4%",
+            "168,900 (~$1.07bn) / 54.8%",
+            "111,038 (~$704m) / 49.4%",
+            "+52.1%"
+          ]
+        },
+        {
+          "label": "SG&A (% of revenue)",
+          "indent": true,
+          "cells": [
+            "31,267 (~$198m) / 17.5%",
+            "25,645 (~$162m) / 20.1%",
+            "+21.9%",
+            "+22.4%",
+            "56,812 (~$360m) / 18.4%",
+            "45,952 (~$291m) / 20.4%",
+            "+23.6%"
+          ]
+        },
+        {
+          "label": "Business profit by segment (= segment EBIT before corporate & non-recurring)",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Digital Entertainment",
+          "indent": true,
+          "cells": [
+            "63,613 (~$403m)",
+            "33,510 (~$212m)",
+            "+89.8%",
+            "+45.0%",
+            "107,483 (~$681m)",
+            "61,378 (~$389m)",
+            "+75.1%"
+          ]
+        },
+        {
+          "label": "Arcade Game",
+          "indent": true,
+          "cells": [
+            "1,740 (~$11m)",
+            "1,192 (~$8m)",
+            "+46.0%",
+            "+87.3%",
+            "2,669 (~$17m)",
+            "1,777 (~$11m)",
+            "+50.1%"
+          ]
+        },
+        {
+          "label": "Gaming & Systems",
+          "indent": true,
+          "cells": [
+            "1,587 (~$10m)",
+            "1,115 (~$7m)",
+            "+42.3%",
+            "+91.9%",
+            "2,414 (~$15m)",
+            "949 (~$6m)",
+            "+154.4%"
+          ]
+        },
+        {
+          "label": "Sports",
+          "indent": true,
+          "cells": [
+            "1,167 (~$7m)",
+            "1,347 (~$9m)",
+            "−13.4%",
+            "+52.7%",
+            "1,931 (~$12m)",
+            "1,773 (~$11m)",
+            "+8.9%"
+          ]
+        },
+        {
+          "label": "Others",
+          "indent": true,
+          "cells": [
+            "776 (~$5m)",
+            "1,494 (~$9m)",
+            "−48.1%",
+            "n/m",
+            "803 (~$5m)",
+            "1,456 (~$9m)",
+            "−44.8%"
+          ]
+        },
+        {
+          "label": "Corporate expenses & eliminations",
+          "indent": true,
+          "cells": [
+            "(1,494)",
+            "(1,219)",
+            "—",
+            "—",
+            "(3,212)",
+            "(2,247)",
+            "—"
+          ]
+        },
+        {
+          "label": "Business profit (margin)",
+          "kind": "emphasis",
+          "cells": [
+            "67,389 (~$427m) / 37.8%",
+            "37,439 (~$237m) / 29.3%",
+            "+80.0%",
+            "+50.8%",
+            "112,088 (~$710m) / 36.4%",
+            "65,086 (~$412m) / 28.9%",
+            "+72.2%"
+          ]
+        },
+        {
+          "label": "Other income/(expenses), net",
+          "indent": true,
+          "cells": [
+            "(1,410)",
+            "(903)",
+            "—",
+            "Q1 was +586",
+            "(824)",
+            "(818)",
+            "—"
+          ]
+        },
+        {
+          "label": "Operating profit (margin)",
+          "kind": "emphasis",
+          "cells": [
+            "65,979 (~$418m) / 37.0%",
+            "36,536 (~$231m) / 28.6%",
+            "+80.6%",
+            "+45.7%",
+            "111,264 (~$705m) / 36.1%",
+            "64,268 (~$407m) / 28.6%",
+            "+73.1%"
+          ]
+        },
+        {
+          "label": "Profit before income taxes",
+          "indent": true,
+          "cells": [
+            "66,443 (~$421m)",
+            "37,348 (~$237m)",
+            "+77.9%",
+            "+43.0%",
+            "112,896 (~$715m)",
+            "65,238 (~$413m)",
+            "+73.1%"
+          ]
+        },
+        {
+          "label": "Income taxes (effective rate)",
+          "indent": true,
+          "cells": [
+            "(19,779) / 29.8%",
+            "(10,696) / 28.6%",
+            "—",
+            "—",
+            "(33,658) / 29.8%",
+            "(18,752) / 28.7%",
+            "—"
+          ]
+        },
+        {
+          "label": "Net profit attributable to owners (margin)",
+          "kind": "emphasis",
+          "cells": [
+            "46,664 (~$296m) / 26.1%",
+            "26,652 (~$169m) / 20.8%",
+            "+75.1%",
+            "+43.3%",
+            "79,238 (~$502m) / 25.7%",
+            "46,486 (~$295m) / 20.7%",
+            "+70.5%"
+          ]
+        },
+        {
+          "label": "EPS, basic = diluted (¥)",
+          "indent": true,
+          "cells": [
+            "344.24 (~$2.18)",
+            "196.60 (~$1.25)",
+            "+75.1%",
+            "+43.3%",
+            "584.54 (~$3.70)",
+            "342.92 (~$2.17)",
+            "+70.5%"
+          ],
+          "footnote": "135.56m average shares; no dilutive instruments. Adjusted EPS: company reports none."
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Monthly actives / ARPU / title revenue",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Not disclosed by Konami. Public datapoints only: eFootball >1bn cumulative downloads (Apr 2026), Yu-Gi-Oh! MASTER DUEL >100m, eFootball Championship 2026 45.21m entrants, SYNKROS >150,000 connected slots."
+        },
+        {
+          "label": "Cash flow & balance sheet",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Operating cash flow",
+          "indent": true,
+          "cells": [
+            "68,880 (~$436m)",
+            "41,912 (~$266m)",
+            "+64.3%",
+            "vs 16,343 in Q1",
+            "85,223 (~$540m)",
+            "52,431 (~$332m)",
+            "+62.5%"
+          ]
+        },
+        {
+          "label": "Investing cash flow",
+          "indent": true,
+          "cells": [
+            "(7,723)",
+            "(29,130)",
+            "−73.5%",
+            "—",
+            "(16,105)",
+            "(37,644)",
+            "−57.2%"
+          ]
+        },
+        {
+          "label": "Capital expenditure",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "—",
+            "—",
+            "16,212 (~$103m)",
+            "37,728 (~$239m)",
+            "−57.0%"
+          ]
+        },
+        {
+          "label": "Free cash flow (OCF − capex)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "—",
+            "—",
+            "69,011 (~$437m)",
+            "14,703 (~$93m)",
+            "+369%"
+          ]
+        },
+        {
+          "label": "Dividends paid",
+          "indent": true,
+          "cells": [
+            "≈0 (year-end dividend paid in Q1)",
+            "≈0",
+            "—",
+            "—",
+            "18,759 (~$119m)",
+            "13,476 (~$85m)",
+            "+39.2%"
+          ]
+        },
+        {
+          "label": "Cash & equivalents (period-end)",
+          "indent": true,
+          "cells": [
+            "373,626 (~$2.37bn) Sep-26",
+            "272,394 (~$1.73bn) Sep-25",
+            "+37.2%",
+            "+18.2% vs 316,112 Jun-26",
+            "373,626 (~$2.37bn)",
+            "272,394 (~$1.73bn)",
+            "+37.2%"
+          ]
+        },
+        {
+          "label": "Bonds & borrowings",
+          "indent": true,
+          "cells": [
+            "39,948 (~$253m)",
+            "n/a",
+            "—",
+            "flat",
+            "39,948 (~$253m)",
+            "n/a",
+            "vs 39,936 Mar-26"
+          ],
+          "footnote": "¥20.0bn moved to current liabilities (matures within 12 months). Lease liabilities ~¥22.4bn excluded."
+        },
+        {
+          "label": "Net cash (ex-leases)",
+          "indent": true,
+          "cells": [
+            "333,678 (~$2.11bn)",
+            "n/a",
+            "—",
+            "—",
+            "333,678 (~$2.11bn)",
+            "n/a",
+            "+46,050 vs 287,628 Mar-26"
+          ]
+        },
+        {
+          "label": "Equity ratio (owners of parent)",
+          "indent": true,
+          "cells": [
+            "76.6%",
+            "n/a",
+            "—",
+            "—",
+            "76.6%",
+            "n/a",
+            "vs 75.4% Mar-26"
+          ]
+        },
+        {
+          "label": "Interim DPS (¥)",
+          "indent": true,
+          "cells": [
+            "—",
+            "—",
+            "—",
+            "—",
+            "112.00 (~$0.71)",
+            "83.00 (~$0.53)",
+            "+34.9%"
+          ],
+          "footnote": "FY3/27 DPS forecast ¥299 (interim ¥112 + year-end ¥187) vs initial ¥224 and FY3/26 ¥221.50; 30.0% of guided EPS ¥995.90."
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Digital Entertainment (mobile, console/PC, Yu-Gi-Oh! card game, esports)",
+        "headline": "Q2 revenue +50% and a 44% margin on eFootball's tournament window and Yu-Gi-Oh!; the whole group upgrade sits here, and so does the FY3/28 comp risk.",
+        "narrative": [
+          "Digital Entertainment delivered H1 revenue of ¥243.5bn (~$1.54bn), up 44.3%, with the second quarter alone at ¥143.4bn (~$909m), up 50.3% year-on-year and 43.3% quarter-on-quarter — the largest quarter the division has printed, and 80% of group revenue in the period. They attribute it to eFootball's campaigns commemorating the international football tournament (the June–July 2026 World Cup), followed by the August major update and a new-season campaign that they say has been performing well; to the mobile baseball titles (PROFESSIONAL BASEBALL SPIRITS A, JIKKYOU PAWAFURU PUROYAKYU, eBaseball MLB PRO SPIRIT) where various measures were \"received positively\"; and to Yu-Gi-Oh!, where MASTER DUEL ran a campaign for passing 100 million cumulative downloads and the OCG released special-edition collectible products themed on the protagonists of past anime series. New releases were secondary to the live-service base: METAL GEAR SOLID: MASTER COLLECTION Vol.2 (August, including the first port of MGS4), SILENT HILL: Townfall (September), eBaseball PRO SPIRIT 2026 (July, 200+ territories) and Suikoden STAR LEAP (mobile, Japan, August). They disclose no MAU, ARPU, paying-user or title-level revenue, nor a mobile/console/card split, so the mix must be inferred from the group line: service & other revenue rose 42.0% to ¥223.2bn (~$1.41bn) while product sales rose 25.3% to ¥84.8bn (~$537m), which is consistent with in-game spend rather than packaged software doing the heavy lifting, with Yu-Gi-Oh! physical product the main contributor on the product side.",
+          "Segment business profit rose 75.1% to ¥107.5bn (~$681m), a 44.1% margin against 36.4% a year ago (+780bps), and Q2 came in at ¥63.6bn (~$403m), a 44.3% margin (+920bps YoY, +50bps QoQ). After ¥1.5bn of other expenses (¥0.5bn last year) segment operating profit was ¥106.0bn (~$672m), +74.2%, a 44% margin. The drop-through is the tell: ¥46.1bn of incremental business profit on ¥74.7bn of incremental revenue, roughly 62%, is what live-service monetisation on an installed base looks like, and it is why the group gross margin moved to 54.8% from 49.4% and SG&A fell to 18.4% of revenue from 20.4% without any announced cost programme. It also means the margin is hostage to eFootball's spend curve: the same leverage runs in reverse if tournament-year cohorts churn. The segment is now ~93% of segment-level business profit before corporate costs.",
+          "The geographic split is by location of the selling entity, not the customer, which matters here: Japan-booked revenue (which carries global eFootball and Yu-Gi-Oh! digital sales) rose 58.3% to ¥251.7bn (~$1.59bn) while US-booked revenue fell 13.2% to ¥34.7bn (~$220m) and Europe fell 38.6% to ¥10.3bn (~$65m), with Q2 down 23.7% and 41.7% respectively. The overseas declines are the roll-off of the prior-year console launches — METAL GEAR SOLID Δ (August 2025) and SILENT HILL f (September 2025), both of which cleared a million units at launch and were sold through the overseas subsidiaries — against a lower-ticket console slate this year. It is therefore not evidence of weak overseas demand for the live-service titles, but it does say that Konami's premium console pipeline is thinner in FY3/27 and that the year's growth is almost entirely in-game. Asia/Oceania rose 24.3% to ¥11.3bn (~$71m), helped by Gaming & Systems' Australian business as much as by DE. Esports activity was unusually visible: eFootball was a medal title at the 20th Asian Games in Japan and the Yu-Gi-Oh! World Championship 2026 finals for all four divisions were held in Tokyo — retention tools rather than revenue lines, but they are the mechanism by which management hopes to hold the tournament cohort.",
+          "FY3/27 segment guidance moved from ¥372bn/¥138bn to ¥450bn/¥188bn (revenue/business profit; ~$2.85bn/~$1.19bn) and operating profit from ¥131bn to ¥181bn (~$1.15bn), i.e. a 40% OP margin for the year versus 35% in the initial plan. The implied H2 is ¥206.5bn of revenue (~$1.31bn; −15% vs H1, +2% vs H2 FY3/26) and ¥80.5bn of business profit (~$510m; −25% vs H1, a 39% margin), which is ~¥40bn a quarter against the ¥63.6bn just printed. Investing.com reports management told the briefing that the plan assumes a slowdown in H2 DE profit and that they regard it as conservative; we agree. The H2 slate is Castlevania: Belmont's Curse (October, the 40th-anniversary title), Yu-Gi-Oh! TAG FORCE GX (February 2027, a remake with online multiplayer and ~200 added cards), continued Yu-Gi-Oh! OCG product cadence, Suikoden STAR LEAP's global rollout and the eFootball Championship 2027 with an expanded finals field after 45.21m entrants last time; Rev. NOiR, Dice Strikers (soft-launched in Canada and Spain) and Rhapsody in Scarlet are 2027/TBD. Unless eFootball spend reverts fully to pre-tournament levels within two quarters — which the September season update is designed to prevent — H2 DE business profit of ¥88–92bn looks more plausible than ¥80.5bn (our estimate). The harder question is FY3/28, when the quadrennial comp rolls and there is no equivalent catalyst in the disclosed pipeline."
+        ],
+        "table": {
+          "note": "Digital Entertainment, ¥ millions (USD at ¥157.83/$); Q2 derived as H1 − Q1",
+          "columns": [
+            "Q2 FY27",
+            "Q2 FY26",
+            "YoY",
+            "QoQ",
+            "H1 FY27",
+            "H1 FY26",
+            "H1 YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue (incl. intersegment)",
+              "cells": [
+                "143,438 (~$909m)",
+                "95,462 (~$605m)",
+                "+50.3%",
+                "+43.3%",
+                "243,521 (~$1.54bn)",
+                "168,777 (~$1.07bn)",
+                "+44.3%"
+              ]
+            },
+            {
+              "label": "Share of group revenue",
+              "indent": true,
+              "cells": [
+                "80.4%",
+                "74.7%",
+                "+570bps",
+                "+310bps",
+                "79.1%",
+                "75.1%",
+                "+400bps"
+              ]
+            },
+            {
+              "label": "Business profit",
+              "kind": "emphasis",
+              "cells": [
+                "63,613 (~$403m)",
+                "33,510 (~$212m)",
+                "+89.8%",
+                "+45.0%",
+                "107,483 (~$681m)",
+                "61,378 (~$389m)",
+                "+75.1%"
+              ]
+            },
+            {
+              "label": "Business profit margin",
+              "indent": true,
+              "cells": [
+                "44.3%",
+                "35.1%",
+                "+920bps",
+                "+50bps",
+                "44.1%",
+                "36.4%",
+                "+780bps"
+              ]
+            },
+            {
+              "label": "Operating profit (after other expenses)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "—",
+                "—",
+                "106,000 (~$672m)",
+                "60,800 (~$385m)",
+                "+74.2%"
+              ],
+              "footnote": "Includes other expenses of ¥1.5bn (H1 FY27) and ¥0.5bn (H1 FY26); deck rounds to ¥0.1bn."
+            },
+            {
+              "label": "Share of segment business profit (pre-corporate)",
+              "indent": true,
+              "cells": [
+                "92.3%",
+                "86.7%",
+                "—",
+                "—",
+                "93.2%",
+                "91.2%",
+                "—"
+              ]
+            },
+            {
+              "label": "Guidance & KPIs",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "FY3/27 revenue guide: old → new",
+              "indent": true,
+              "cells": [
+                "372,000 → 450,000",
+                "(~$2.36bn → ~$2.85bn)",
+                "+21.0% vs old",
+                "—",
+                "H1 = 54.1% of new",
+                "—",
+                "+21.3% vs FY26 ¥371.0bn"
+              ]
+            },
+            {
+              "label": "FY3/27 business profit guide: old → new",
+              "indent": true,
+              "cells": [
+                "138,000 → 188,000",
+                "(~$874m → ~$1.19bn)",
+                "+36.2% vs old",
+                "—",
+                "H1 = 57.2% of new",
+                "—",
+                "+38.2% vs FY26 ¥136.0bn"
+              ]
+            },
+            {
+              "label": "FY3/27 operating profit guide: old → new (margin)",
+              "indent": true,
+              "cells": [
+                "131,000 → 181,000",
+                "(~$830m → ~$1.15bn)",
+                "35% → 40%",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Implied H2 revenue / business profit",
+              "indent": true,
+              "cells": [
+                "206,479 (~$1.31bn)",
+                "80,517 (~$510m)",
+                "39.0% margin",
+                "−15% / −25% vs H1",
+                "+2.1% / +7.9% vs H2 FY26",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "MAU / ARPU / paying users / title revenue",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Not disclosed. eFootball >1bn cumulative downloads (Apr 2026, Nikkei); MASTER DUEL >100m downloads; eFootball Championship 2026 entrants 45.21m."
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "H1 revenue",
+            "takeaway": "H1 revenue ¥243.5bn (~$1.54bn), up 44.3%; Q2 ¥143.4bn (~$909m), up 50.3% YoY and 43.3% QoQ, the division's largest quarter.",
+            "points": [
+              "Segment was 80% of group revenue in the period.",
+              "eFootball campaigns commemorating the June–July 2026 World Cup, then the August major update and new-season campaign they say has been performing well.",
+              "Mobile baseball titles (PROFESSIONAL BASEBALL SPIRITS A, JIKKYOU PAWAFURU PUROYAKYU, eBaseball MLB PRO SPIRIT) where various measures were \"received positively\".",
+              "Yu-Gi-Oh!: MASTER DUEL campaign for passing 100 million cumulative downloads; OCG special-edition collectible products themed on past anime protagonists."
+            ],
+            "quote": {
+              "text": "received positively",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "New releases, mix",
+            "takeaway": "New releases were secondary to the live-service base; no MAU, ARPU, paying-user, title-level revenue or mobile/console/card split is disclosed.",
+            "points": [
+              "METAL GEAR SOLID: MASTER COLLECTION Vol.2 (August, first port of MGS4), SILENT HILL: Townfall (September), eBaseball PRO SPIRIT 2026 (July, 200+ territories), Suikoden STAR LEAP (mobile, Japan, August).",
+              "Group service & other revenue rose 42.0% to ¥223.2bn (~$1.41bn); product sales rose 25.3% to ¥84.8bn (~$537m).",
+              "Consistent with in-game spend rather than packaged software doing the heavy lifting; Yu-Gi-Oh! physical product the main contributor on the product side."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Profit and margin",
+            "takeaway": "H1 business profit rose 75.1% to ¥107.5bn (~$681m), a 44.1% margin versus 36.4% (+780bps); Q2 ¥63.6bn (~$403m), 44.3% margin.",
+            "points": [
+              "Q2 margin +920bps YoY, +50bps QoQ. After ¥1.5bn other expenses (¥0.5bn last year), operating profit ¥106.0bn (~$672m), +74.2%, a 44% margin.",
+              "¥46.1bn incremental business profit on ¥74.7bn incremental revenue, roughly 62%, is what live-service monetisation on an installed base looks like.",
+              "Group gross margin moved to 54.8% from 49.4%; SG&A fell to 18.4% of revenue from 20.4% without any announced cost programme.",
+              "Margin is hostage to eFootball's spend curve: leverage runs in reverse if tournament-year cohorts churn.",
+              "Segment is now ~93% of segment-level business profit before corporate costs."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Geographic split",
+            "takeaway": "Split is by selling entity: Japan-booked revenue rose 58.3% to ¥251.7bn (~$1.59bn) while US fell 13.2% and Europe fell 38.6%.",
+            "points": [
+              "Japan carries global eFootball and Yu-Gi-Oh! digital sales. US ¥34.7bn (~$220m), Europe ¥10.3bn (~$65m); Q2 down 23.7% and 41.7% respectively.",
+              "Overseas declines are roll-off of METAL GEAR SOLID Δ (August 2025) and SILENT HILL f (September 2025), both over a million units at launch, sold through overseas subsidiaries.",
+              "Not evidence of weak overseas live-service demand, but the premium console pipeline is thinner in FY3/27 and growth is almost entirely in-game.",
+              "Asia/Oceania rose 24.3% to ¥11.3bn (~$71m), helped by Gaming & Systems' Australian business as much as by DE."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Esports",
+            "takeaway": "Esports activity was unusually visible; retention tools rather than revenue lines, but the mechanism by which management hopes to hold the tournament cohort.",
+            "points": [
+              "eFootball was a medal title at the 20th Asian Games in Japan.",
+              "Yu-Gi-Oh! World Championship 2026 finals for all four divisions were held in Tokyo."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "FY3/27 guidance",
+            "takeaway": "Guidance raised to ¥450bn revenue/¥188bn business profit (~$2.85bn/~$1.19bn) from ¥372bn/¥138bn; operating profit ¥181bn (~$1.15bn) from ¥131bn.",
+            "points": [
+              "Implies a 40% OP margin for the year versus 35% in the initial plan.",
+              "Implied H2 revenue ¥206.5bn (~$1.31bn; −15% vs H1, +2% vs H2 FY3/26); business profit ¥80.5bn (~$510m; −25% vs H1, 39% margin).",
+              "That is ~¥40bn a quarter against the ¥63.6bn just printed.",
+              "Investing.com reports management told the briefing the plan assumes a slowdown in H2 DE profit and they regard it as conservative; we agree.",
+              "Our estimate: H2 DE business profit of ¥88–92bn looks more plausible than ¥80.5bn unless eFootball spend reverts fully to pre-tournament levels within two quarters."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "H2 slate, FY3/28 risk",
+            "takeaway": "H2 slate centres on Castlevania, Yu-Gi-Oh! TAG FORCE GX and eFootball Championship 2027; the harder question is FY3/28 when the quadrennial comp rolls.",
+            "points": [
+              "Castlevania: Belmont's Curse (October, 40th-anniversary title); Yu-Gi-Oh! TAG FORCE GX (February 2027, remake with online multiplayer and ~200 added cards); continued OCG product cadence.",
+              "Suikoden STAR LEAP global rollout; eFootball Championship 2027 with expanded finals field after 45.21m entrants last time; September season update designed to prevent spend reversion.",
+              "Rev. NOiR, Dice Strikers (soft-launched in Canada and Spain) and Rhapsody in Scarlet are 2027/TBD.",
+              "No equivalent catalyst to the tournament in the disclosed pipeline for FY3/28."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Arcade Game (video, music, medal, prize/redemption; separate segment since Q3 FY3/26)",
+        "headline": "Demon Slayer card-dispensing title lifted Q2 revenue 25% and the margin to 29%; H2 is loaded with cabinet launches and guidance was not raised.",
+        "narrative": [
+          "Arcade Game, reported as a standalone segment since the December 2025 quarter after Konami Arcade Games Co. (established 2 June 2025) absorbed the arcade business of Konami Amusement on 1 October 2025, grew H1 revenue 17.4% to ¥10.4bn (~$66m), with Q2 at ¥6.0bn (~$38m), up 24.9% year-on-year and 40.2% on Q1's seasonally thin ¥4.3bn. The driver was Demon Slayer: Nichirin Battle Slash, launched in July as the first arcade title on the IP, whose machines dispense collectible character cards; the second card series (the Mugen Train Arc) followed in September and they describe it as well received. beatmania IIDX 34 ZINRAI, the Shohei Ohtani-fronted PAWAFURU PUROYAKYU KAIMAKU MEDAL SERIES! KIWAMI NITOURYU medal game and the start of North American operation of the TREASURE ROAD conveyor-belt mini prize machine rounded out the half. They characterise the domestic arcade market as performing steadily on the back of the moderate economic recovery.",
+          "Business profit rose 50.1% to ¥2.7bn (~$17m), a 25.8% margin against 20.1% a year ago, with Q2 at ¥1.7bn (~$11m) and a 28.8% margin (+420bps YoY, +730bps QoQ). Card-dispensing formats carry a consumable revenue stream that is structurally higher-margin than cabinet sales, which explains most of the mix-driven lift; there is no segment opex or unit disclosure to decompose it further, and other income/expenses are nil in this segment, so business profit equals operating profit.",
+          "FY3/27 guidance is unchanged at ¥29.0bn of revenue (~$184m) and ¥7.5bn of business profit (~$48m, a 26% margin), which leaves H1 at only 36% of both — the business is H2-weighted by design this year. The November AMUSEMENT EXPO 2026 showcases jubeat U'nit on the first new jubeat cabinet in 18 years (touch panel above the screen, synced visual effects; Japan, Asia and North America, then global), Momotaro Dentetsu 2: Anata no Machi no Medal Game (East and West Japan maps) and Anima Lotta: Anima to Shiawase no Okurimono for the series' 15th anniversary; for North America, BLAZING ENCOUNTER (October 2026), GHOSTBUSTERS and the HOLO CARD STATION card-printing game are in the pipeline. BEMANI PRO LEAGUE Season 6's regular stage begins in November across beatmania IIDX, SOUND VOLTEX and DanceDanceRevolution.",
+          "Delivering the implied H2 of ~¥18.6bn revenue (~$118m; vs ¥17.6bn in H2 FY3/26) and ~¥4.8bn business profit (~$30m; vs ~¥5.0bn) requires the new cabinets to ship on schedule into year-end operator budgets. The segment is 3% of group revenue and 2% of segment profit, so it does not move the group, but it is the one place where guidance is not obviously conservative and where a cabinet slip would show up as a miss."
+        ],
+        "table": {
+          "note": "Arcade Game, ¥ millions (USD at ¥157.83/$); Q2 derived as H1 − Q1",
+          "columns": [
+            "Q2 FY27",
+            "Q2 FY26",
+            "YoY",
+            "QoQ",
+            "H1 FY27",
+            "H1 FY26",
+            "H1 YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue (incl. intersegment)",
+              "cells": [
+                "6,044 (~$38m)",
+                "4,840 (~$31m)",
+                "+24.9%",
+                "+40.2%",
+                "10,356 (~$66m)",
+                "8,822 (~$56m)",
+                "+17.4%"
+              ]
+            },
+            {
+              "label": "Business profit (= operating profit)",
+              "kind": "emphasis",
+              "cells": [
+                "1,740 (~$11m)",
+                "1,192 (~$8m)",
+                "+46.0%",
+                "+87.3%",
+                "2,669 (~$17m)",
+                "1,777 (~$11m)",
+                "+50.1%"
+              ]
+            },
+            {
+              "label": "Business profit margin",
+              "indent": true,
+              "cells": [
+                "28.8%",
+                "24.6%",
+                "+420bps",
+                "+730bps (Q1 21.5%)",
+                "25.8%",
+                "20.1%",
+                "+570bps"
+              ]
+            },
+            {
+              "label": "FY3/27 guidance (unchanged)",
+              "indent": true,
+              "cells": [
+                "Revenue 29,000 (~$184m)",
+                "BP 7,500 (~$48m)",
+                "26% margin",
+                "—",
+                "H1 progress 35.7% / 35.6%",
+                "—",
+                "+9.8% / +10% vs FY26"
+              ]
+            },
+            {
+              "label": "Implied H2 revenue / business profit",
+              "indent": true,
+              "cells": [
+                "~18,600 (~$118m)",
+                "~4,800 (~$30m)",
+                "~26% margin",
+                "—",
+                "vs H2 FY26 ~17,600 / ~5,000",
+                "—",
+                "+6% / −4%"
+              ],
+              "footnote": "FY3/26 segment actuals from the deck are rounded to ¥0.1bn (revenue ¥26.4bn, BP ¥6.8bn)."
+            },
+            {
+              "label": "Units / cabinets shipped / operator count",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Not disclosed."
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and drivers",
+            "takeaway": "H1 revenue grew 17.4% to ¥10.4bn (~$66m); Q2 ¥6.0bn (~$38m), up 24.9% YoY and 40.2% on Q1's seasonally thin ¥4.3bn.",
+            "points": [
+              "Standalone since the December 2025 quarter after Konami Arcade Games Co. (established 2 June 2025) absorbed Konami Amusement's arcade business on 1 October 2025.",
+              "Driver was Demon Slayer: Nichirin Battle Slash, launched July as first arcade title on the IP, with machines dispensing collectible character cards.",
+              "Second card series (Mugen Train Arc) followed in September and is described as well received.",
+              "beatmania IIDX 34 ZINRAI, the Shohei Ohtani-fronted PAWAFURU PUROYAKYU KAIMAKU MEDAL SERIES! KIWAMI NITOURYU medal game and North American start of TREASURE ROAD rounded out the half.",
+              "Domestic arcade market characterised as performing steadily on the back of the moderate economic recovery."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Profit and margin",
+            "takeaway": "Business profit rose 50.1% to ¥2.7bn (~$17m), a 25.8% margin versus 20.1%; Q2 ¥1.7bn (~$11m), a 28.8% margin.",
+            "points": [
+              "Q2 margin +420bps YoY, +730bps QoQ.",
+              "Card-dispensing formats carry a consumable revenue stream structurally higher-margin than cabinet sales, explaining most of the mix-driven lift.",
+              "No segment opex or unit disclosure to decompose further; other income/expenses nil, so business profit equals operating profit."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Guidance and H2 pipeline",
+            "takeaway": "FY3/27 guidance unchanged at ¥29.0bn revenue (~$184m) and ¥7.5bn business profit (~$48m, 26% margin); H1 only 36% of both, H2-weighted by design.",
+            "points": [
+              "November AMUSEMENT EXPO 2026 showcases jubeat U'nit on first new jubeat cabinet in 18 years (touch panel above screen, synced visual effects; Japan, Asia, North America, then global).",
+              "Momotaro Dentetsu 2: Anata no Machi no Medal Game (East and West Japan maps); Anima Lotta: Anima to Shiawase no Okurimono for the series' 15th anniversary.",
+              "North America pipeline: BLAZING ENCOUNTER (October 2026), GHOSTBUSTERS and the HOLO CARD STATION card-printing game.",
+              "BEMANI PRO LEAGUE Season 6 regular stage begins in November across beatmania IIDX, SOUND VOLTEX and DanceDanceRevolution."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "H2 delivery risk",
+            "takeaway": "Implied H2 of ~¥18.6bn revenue (~$118m) and ~¥4.8bn business profit (~$30m) requires new cabinets to ship on schedule into year-end operator budgets.",
+            "points": [
+              "Compares with ¥17.6bn revenue and ~¥5.0bn business profit in H2 FY3/26.",
+              "Segment is 3% of group revenue and 2% of segment profit, so it does not move the group.",
+              "It is the one place where guidance is not obviously conservative and where a cabinet slip would show up as a miss."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Gaming & Systems (Konami Gaming Inc., Las Vegas; Konami Australia)",
+        "headline": "Revenue +41% and profit +154% on the Solstice 49C refresh, SYNKROS cruise/property wins and BOMBERMAN; margin still only 9.6% and the FY guide was left untouched, implying an H2 revenue decline we don't believe.",
+        "narrative": [
+          "Gaming & Systems grew H1 revenue 41.3% to ¥25.1bn (~$159m), with Q2 at ¥12.7bn (~$81m), up 24.1% year-on-year and 2.7% on Q1, after Q1's exceptional +64.9%. They describe both the North American and Australian markets as stable, with new casino openings and replacement demand at existing properties creating placement opportunities amid a steady flow of competitor product launches — a market-share story rather than a market-growth one. The volume driver is the Solstice 49C cabinet, a curved 49-inch UHD format they say has been receiving high praise and which drove the increase in gaming-machine unit sales in both quarters; the lineup was broadened with Solstice 27 (27-inch monitors, launched in Q2) and the 75-inch Solstice SuperNova shown at Global Gaming Expo 2026 for a Q3 launch. On content, the BOMBERMAN series — built on a signature Konami IP and winner of Gaming Intelligence's North America land-based game of the year — led their North American sales, while Dragon Rush and Bull Rush Stampede continue to perform in Australia, where Fortune Hearts is the next series they intend to push.",
+          "The systems and specialty-markets lines are where the recurring-revenue optionality sits. SYNKROS adoption extended across casino properties in California and Arizona in Q2 (Pennsylvania and Nevada in Q1) and aboard Carnival Corporation cruise ships, and they now cite more than 150,000 slot machines connected worldwide, with further cruise installations and multiple property selections in hand. In Specialty Markets they expanded Class II installations in Texas and Washington and flag VLTs and historical horse racing machines as the next formats; in iGaming they are widening distribution of popular content across online platforms. They do not disclose units shipped, average selling price, installed base, participation/recurring revenue share, ship-share or gaming-operations yield, so price cannot be separated from volume and the recurring mix cannot be verified; +41% revenue against a flat market implies meaningful ship-share gain on the Solstice refresh, but the absence of a recurring-revenue disclosure is a real gap for a segment whose peers are valued on it.",
+          "Business profit rose 154.4% to ¥2.4bn (~$15m), a 9.6% margin against 5.3% a year ago (Q1 FY3/26 was a ¥166m loss), with Q2 at ¥1.6bn (~$10m) and a 12.5% margin (+160bps YoY, +580bps QoQ). The absolute margin remains low for a slot supplier — R&D and the fixed cost of the Las Vegas manufacturing and Australian operations are not broken out — and the segment is 8% of group revenue but only 2% of segment business profit, so the group investment case does not turn on it. It does, however, give the group a regulated-market revenue stream that is uncorrelated with eFootball, and the yen translation (USD/JPY ~158 at period-end) is a tailwind that reverses if the BoJ's hawkish turn sticks.",
+          "FY3/27 guidance was left at ¥46.0bn of revenue (~$291m) and ¥6.5bn of business profit (~$41m, a 14% margin) despite H1 already being 55% of the revenue guide. The arithmetic is awkward: implied H2 revenue of ¥20.9bn (~$132m) would be −17.5% year-on-year against H2 FY3/26's ¥25.3bn and −17% versus H1, yet implied H2 business profit of ¥4.1bn (~$26m) would be a 19.6% margin. Either the guide was simply not refreshed (the most likely reading, given the Tanshin frames the revision as DE-only) or they expect Solstice 49C replacement demand to fade in H2 as SuperNova ramps. Group inventories rose ¥4.1bn to ¥23.0bn (~$146m) in the half, consistent with cabinet build ahead of Q3 launches rather than a demand problem. Our estimate is FY revenue nearer ¥50bn and business profit of ¥5.5–6.0bn; a Q3 refresh of the segment guide would be the natural moment for management to concede it."
+        ],
+        "table": {
+          "note": "Gaming & Systems, ¥ millions (USD at ¥157.83/$); Q2 derived as H1 − Q1",
+          "columns": [
+            "Q2 FY27",
+            "Q2 FY26",
+            "YoY",
+            "QoQ",
+            "H1 FY27",
+            "H1 FY26",
+            "H1 YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue (incl. intersegment)",
+              "cells": [
+                "12,724 (~$81m)",
+                "10,255 (~$65m)",
+                "+24.1%",
+                "+2.7%",
+                "25,112 (~$159m)",
+                "17,768 (~$113m)",
+                "+41.3%"
+              ]
+            },
+            {
+              "label": "Q1 reference (for trend)",
+              "indent": true,
+              "cells": [
+                "—",
+                "—",
+                "—",
+                "Q1 FY27 12,388 vs Q1 FY26 7,513 (+64.9%)",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Business profit (= operating profit)",
+              "kind": "emphasis",
+              "cells": [
+                "1,587 (~$10m)",
+                "1,115 (~$7m)",
+                "+42.3%",
+                "+91.9%",
+                "2,414 (~$15m)",
+                "949 (~$6m)",
+                "+154.4%"
+              ]
+            },
+            {
+              "label": "Business profit margin",
+              "indent": true,
+              "cells": [
+                "12.5%",
+                "10.9%",
+                "+160bps",
+                "+580bps (Q1 6.7%)",
+                "9.6%",
+                "5.3%",
+                "+430bps"
+              ]
+            },
+            {
+              "label": "FY3/27 guidance (unchanged)",
+              "indent": true,
+              "cells": [
+                "Revenue 46,000 (~$291m)",
+                "BP 6,500 (~$41m)",
+                "14% margin",
+                "—",
+                "H1 progress 54.6% / 37.1%",
+                "—",
+                "+6.7% / +81% vs FY26 (¥43.1bn / ¥3.6bn)"
+              ]
+            },
+            {
+              "label": "Implied H2 revenue / business profit",
+              "indent": true,
+              "cells": [
+                "20,888 (~$132m)",
+                "4,086 (~$26m)",
+                "19.6% margin",
+                "−17% / +69% vs H1",
+                "vs H2 FY26 25,332 / 2,651",
+                "—",
+                "−17.5% / +54%"
+              ]
+            },
+            {
+              "label": "Units shipped / ASP / installed base / recurring %",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Not disclosed. SYNKROS: >150,000 connected slot machines (Sep 2026); property wins CA/AZ (Q2), PA/NV (Q1); Carnival cruise fleet."
+            },
+            {
+              "label": "Product cadence",
+              "indent": true,
+              "cells": [
+                "Solstice 27 launched",
+                "—",
+                "—",
+                "—",
+                "Solstice 49C driving units",
+                "—",
+                "SuperNova (75\") Q3 FY27"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and cabinets",
+            "takeaway": "H1 revenue grew 41.3% to ¥25.1bn (~$159m); Q2 ¥12.7bn (~$81m), up 24.1% YoY and 2.7% on Q1, after Q1's exceptional +64.9%.",
+            "points": [
+              "North American and Australian markets described as stable; new casino openings and replacement demand create placements amid competitor launches, a market-share story rather than market growth.",
+              "Solstice 49C curved 49-inch UHD cabinet, receiving high praise, drove gaming-machine unit sales in both quarters.",
+              "Lineup broadened with Solstice 27 (27-inch monitors, launched Q2) and 75-inch Solstice SuperNova shown at Global Gaming Expo 2026 for Q3 launch.",
+              "BOMBERMAN series, Gaming Intelligence's North America land-based game of the year, led North American sales; Dragon Rush and Bull Rush Stampede perform in Australia, Fortune Hearts next."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Systems and specialty markets",
+            "takeaway": "SYNKROS and specialty markets hold the recurring-revenue optionality, with more than 150,000 slot machines connected worldwide, but recurring mix cannot be verified.",
+            "points": [
+              "SYNKROS extended to California and Arizona properties in Q2 (Pennsylvania and Nevada in Q1) and Carnival Corporation cruise ships; further cruise installations and property selections in hand.",
+              "Specialty Markets expanded Class II installations in Texas and Washington; VLTs and historical horse racing machines next; iGaming widening content distribution across online platforms.",
+              "No disclosure of units shipped, ASP, installed base, participation/recurring share, ship-share or gaming-operations yield, so price cannot be separated from volume.",
+              "+41% revenue against a flat market implies meaningful ship-share gain; absence of recurring-revenue disclosure is a real gap for a segment whose peers are valued on it."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Profit and margin",
+            "takeaway": "Business profit rose 154.4% to ¥2.4bn (~$15m), a 9.6% margin versus 5.3%; Q2 ¥1.6bn (~$10m), 12.5% margin (+160bps YoY, +580bps QoQ).",
+            "points": [
+              "Q1 FY3/26 was a ¥166m loss.",
+              "Absolute margin remains low for a slot supplier; R&D and fixed costs of Las Vegas manufacturing and Australian operations are not broken out.",
+              "Segment is 8% of group revenue but only 2% of segment business profit, so the group investment case does not turn on it.",
+              "Provides a regulated-market revenue stream uncorrelated with eFootball; yen translation (USD/JPY ~158 at period-end) is a tailwind that reverses if the BoJ's hawkish turn sticks."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Guidance",
+            "takeaway": "FY3/27 guidance left at ¥46.0bn revenue (~$291m) and ¥6.5bn business profit (~$41m, 14% margin) despite H1 already 55% of the revenue guide.",
+            "points": [
+              "Implied H2 revenue ¥20.9bn (~$132m) would be −17.5% YoY against H2 FY3/26's ¥25.3bn and −17% versus H1, yet implied H2 business profit ¥4.1bn (~$26m) is a 19.6% margin.",
+              "Most likely the guide was simply not refreshed (Tanshin frames the revision as DE-only), or they expect Solstice 49C replacement demand to fade as SuperNova ramps.",
+              "Group inventories rose ¥4.1bn to ¥23.0bn (~$146m) in the half, consistent with cabinet build ahead of Q3 launches rather than a demand problem.",
+              "Our estimate: FY revenue nearer ¥50bn and business profit ¥5.5–6.0bn; a Q3 refresh of the segment guide would be the natural moment to concede it."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Sports (Konami Sports Club, Pilates Mirror, Personal 30, outsourced facilities)",
+        "headline": "Revenue +3% on new-format rollouts (Pilates Mirror to 116 studios) but Q2 profit fell 13% on energy and price inflation; H1 OP is flattered by ¥0.5bn of other income.",
+        "narrative": [
+          "Sports grew H1 revenue 3.3% to ¥25.7bn (~$163m); Q2 was ¥13.0bn (~$82m), up 1.4% year-on-year and 2.3% on Q1. The growth is coming from new formats rather than the legacy club estate. Pilates Mirror, the machine-Pilates studio chain with mirrored ceilings, added 31 studios in the half (16 in Q1, 15 in Q2) to reach 116, including first sites in Hokkaido and Chiba, with seven more scheduled to take it to 123; Personal 30, the 30-minute intensive personal-training gym, opened two sites in Setagaya and a sixth at Yutenji in October. The asset-light outsourced-management line began contracts in six municipalities from April (Yuki, Hachioji, Shizuoka, Hyogo Prefecture, Higashihiroshima and Fukuoka), and outsourced school swimming instruction is being expanded nationally in response to demand from schools. In the clubs they ran the UNITED FEEL studio-programme event and introduced a Training Partner on-ramp to personal training in July; Undo Juku (children's sports school) and the Golf Academy's 13th Konami Sports Jr. Cup round out the offer, and the dance school's KONAMI J.B.STAR team won the 2026 World Hip Hop Dance Championship.",
+          "Business profit rose 8.9% to ¥1.9bn (~$12m), a 7.5% margin against 7.1%, but the second quarter was weaker: Q2 business profit fell 13.4% year-on-year to ¥1.2bn (~$7m), a 9.0% margin against 10.5%, with management citing continued increases in goods prices and soaring energy costs against a market that is nonetheless expanding on health consciousness and format diversification. Segment operating profit of ¥2.4bn (~$15m), up 49.2%, is flattered by ¥0.5bn of other income booked in Q1 (versus ¥0.1bn of other expense last year) and should not be read as underlying.",
+          "FY3/27 guidance is unchanged at ¥52.0bn of revenue (~$329m) and ¥4.0bn of business profit (~$25m, an 8% margin); H1 is 49% and 48% of those, so delivery requires H2 business profit of ~¥2.1bn (~$13m), roughly in line with H2 FY3/26's run-rate, at a time when the Q2 exit margin was falling. Membership counts, yield per member and churn are not disclosed, nor is the Pilates Mirror unit economics that would let us judge whether the 31-studio rollout is accretive at maturity.",
+          "At 8% of group revenue and under 2% of segment business profit, Sports is a return-on-capital drag kept for brand and social reasons; it sits on a large share of the group's ¥188bn of property, plant and equipment. Nothing in this print changes that, and the new-format pivot (Pilates, 30-minute gyms, outsourced municipal facilities, school swimming) is at least moving the mix toward lower-capital, higher-frequency revenue. The pachinko/pachislot business, now in Others, is the smaller problem child: revenue −19.2% to ¥4.6bn (~$29m) and business profit −44.8% to ¥0.8bn (~$5m), with an unchanged ¥9.0bn/¥1.5bn FY guide implying an H2 rebound we would not underwrite."
+        ],
+        "table": {
+          "note": "Sports, ¥ millions (USD at ¥157.83/$); Q2 derived as H1 − Q1",
+          "columns": [
+            "Q2 FY27",
+            "Q2 FY26",
+            "YoY",
+            "QoQ",
+            "H1 FY27",
+            "H1 FY26",
+            "H1 YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue (incl. intersegment)",
+              "cells": [
+                "13,008 (~$82m)",
+                "12,825 (~$81m)",
+                "+1.4%",
+                "+2.3%",
+                "25,720 (~$163m)",
+                "24,904 (~$158m)",
+                "+3.3%"
+              ]
+            },
+            {
+              "label": "Business profit",
+              "kind": "emphasis",
+              "cells": [
+                "1,167 (~$7m)",
+                "1,347 (~$9m)",
+                "−13.4%",
+                "+52.7%",
+                "1,931 (~$12m)",
+                "1,773 (~$11m)",
+                "+8.9%"
+              ]
+            },
+            {
+              "label": "Business profit margin",
+              "indent": true,
+              "cells": [
+                "9.0%",
+                "10.5%",
+                "−150bps",
+                "+300bps (Q1 6.0%)",
+                "7.5%",
+                "7.1%",
+                "+40bps"
+              ]
+            },
+            {
+              "label": "Operating profit (incl. other income/expense)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "—",
+                "—",
+                "2,400 (~$15m)",
+                "1,600 (~$10m)",
+                "+49.2%"
+              ],
+              "footnote": "Includes other income of ¥0.5bn (H1 FY27, booked in Q1) vs other expense of ¥0.1bn (H1 FY26)."
+            },
+            {
+              "label": "FY3/27 guidance (unchanged)",
+              "indent": true,
+              "cells": [
+                "Revenue 52,000 (~$329m)",
+                "BP 4,000 (~$25m)",
+                "8% margin",
+                "—",
+                "H1 progress 49.5% / 48.3%",
+                "—",
+                "+5.1% / +18% vs FY26 (¥49.5bn / ¥3.4bn)"
+              ]
+            },
+            {
+              "label": "Implied H2 revenue / business profit",
+              "indent": true,
+              "cells": [
+                "26,280 (~$167m)",
+                "2,069 (~$13m)",
+                "7.9% margin",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Pilates Mirror studios (period-end)",
+              "indent": true,
+              "cells": [
+                "116 (+15 in Q2)",
+                "n/a",
+                "—",
+                "101 at Jun-26",
+                "116 (+31 in H1)",
+                "n/a",
+                "123 planned"
+              ]
+            },
+            {
+              "label": "Personal 30 gyms",
+              "indent": true,
+              "cells": [
+                "5 (+2 Setagaya)",
+                "n/a",
+                "—",
+                "—",
+                "5; 6th (Yutenji) Oct-26",
+                "n/a",
+                "—"
+              ]
+            },
+            {
+              "label": "Members / yield / churn",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Not disclosed."
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and new formats",
+            "takeaway": "H1 revenue grew 3.3% to ¥25.7bn (~$163m); Q2 ¥13.0bn (~$82m), up 1.4% YoY and 2.3% on Q1, driven by new formats not legacy clubs.",
+            "points": [
+              "Pilates Mirror added 31 studios (16 Q1, 15 Q2) to reach 116, including first sites in Hokkaido and Chiba; seven more scheduled to take it to 123.",
+              "Personal 30 opened two sites in Setagaya and a sixth at Yutenji in October.",
+              "Outsourced management began in six municipalities from April (Yuki, Hachioji, Shizuoka, Hyogo Prefecture, Higashihiroshima, Fukuoka); outsourced school swimming instruction expanding nationally on school demand.",
+              "Clubs ran UNITED FEEL event and introduced Training Partner in July; Undo Juku and Golf Academy's 13th Konami Sports Jr. Cup; KONAMI J.B.STAR won 2026 World Hip Hop Dance Championship."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Profit and margin",
+            "takeaway": "H1 business profit rose 8.9% to ¥1.9bn (~$12m), a 7.5% margin versus 7.1%, but Q2 business profit fell 13.4% to ¥1.2bn (~$7m).",
+            "points": [
+              "Q2 margin 9.0% versus 10.5%; management cites continued goods price increases and soaring energy costs, against a market expanding on health consciousness and format diversification.",
+              "Segment operating profit ¥2.4bn (~$15m), up 49.2%, is flattered by ¥0.5bn other income in Q1 (versus ¥0.1bn other expense last year) and is not underlying."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Guidance",
+            "takeaway": "FY3/27 guidance unchanged at ¥52.0bn revenue (~$329m) and ¥4.0bn business profit (~$25m, 8% margin); H1 is 49% and 48% of those.",
+            "points": [
+              "Delivery requires H2 business profit of ~¥2.1bn (~$13m), roughly in line with H2 FY3/26's run-rate, while the Q2 exit margin was falling.",
+              "Membership counts, yield per member, churn and Pilates Mirror unit economics are not disclosed, so accretion of the 31-studio rollout at maturity cannot be judged."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Capital drag, pachinko",
+            "takeaway": "At 8% of group revenue and under 2% of segment business profit, Sports is a return-on-capital drag kept for brand and social reasons.",
+            "points": [
+              "Sits on a large share of the group's ¥188bn property, plant and equipment; nothing in this print changes that.",
+              "New-format pivot (Pilates, 30-minute gyms, outsourced municipal facilities, school swimming) at least moves mix toward lower-capital, higher-frequency revenue.",
+              "Pachinko/pachislot, now in Others, is the smaller problem child: revenue −19.2% to ¥4.6bn (~$29m), business profit −44.8% to ¥0.8bn (~$5m).",
+              "Unchanged ¥9.0bn/¥1.5bn FY guide implies an H2 rebound we would not underwrite."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "**Operating leverage of the live-service model is now visible in the group P&L.** Gross margin 54.8% (+540bps), SG&A 18.4% of revenue (−200bps), group BP margin 36.4% (+750bps); DE BP margin 44.1% (+780bps), Q2 44.3%. Incremental BP/revenue ~57% at group, ~62% in DE. No restructuring, no one-offs — it is mix (in-game and card revenue +42% vs product +25%).",
+        "tag": "structural"
+      },
+      {
+        "text": "**Guidance credibility reset.** The first H1-stage upgrade since FY3/12, taking OP to ¥193bn (~$1.22bn, +35%) and net profit to ¥135bn (~$855m) — ~6% above the pre-results QUICK consensus of ¥127.5bn — from a management that guided FY3/27 ~10% below consensus in May. Even so, the implied H2 (OP ¥81.7bn, DE BP ¥80.5bn, a −¥6.2bn other-expense cushion) leaves room; management reportedly called the plan conservative.",
+        "tag": "one-off"
+      },
+      {
+        "text": "**eFootball + Yu-Gi-Oh! are proving durable franchises, not just a tournament spike.** Q2 DE revenue +50.3% was built on the World Cup window but also on the August major update, a new-season campaign management says is performing well, MASTER DUEL's 100m-download milestone and strong special-edition OCG product; >1bn eFootball downloads and 45.21m esports entrants give a large funnel to re-monetise.",
+        "tag": "mixed"
+      },
+      {
+        "text": "**Gaming & Systems is finally growing at scale.** H1 revenue +41.3% to ¥25.1bn (~$159m), BP +154% to ¥2.4bn (~$15m), Q2 margin 12.5% (+580bps QoQ). Solstice 49C driving units, Solstice 27 launched, SuperNova (75\") in Q3; BOMBERMAN the #1 content line in North America; SYNKROS >150,000 connected machines incl. Carnival's fleet; Class II in Texas/Washington with VLT/HHR next. Stale FY guide (¥46bn) is upside, not risk.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Cash generation and balance sheet.** OCF ¥85.2bn (~$540m) +62.5%, capex halved to ¥16.2bn (~$103m), FCF (OCF−capex) ¥69.0bn (~$437m) vs ¥14.7bn; cash ¥373.6bn (~$2.37bn), net cash ¥333.7bn (~$2.11bn), equity ratio 76.6%. No impairments in H1.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Dividend +33% to ¥299 (~$1.89), interim ¥112 (~$0.71).** Mechanical under the ≥30% payout policy, but it converts the upgrade into cash for holders immediately (payable 19 Nov) and signals confidence in the H2 number.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Arcade margin expansion on the Demon Slayer card format.** Q2 revenue +24.9%, BP +46.0%, margin 28.8% (+420bps); jubeat's first new cabinet in 18 years and three further launches in H2. Small, but a second IP-driven consumables engine in the group.",
+        "tag": "early"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "**Single-franchise, tournament-timed concentration.** 100% of the ¥78bn revenue / ¥50bn BP upgrade is DE; DE is 79% of revenue and ~93% of segment profit. eFootball's World Cup window will not recur until 2030; the implied H2 DE BP of ~¥40bn/quarter vs ¥63.6bn in Q2 is management's own admission of normalisation. FY3/28 faces a quadrennial comp with no disclosed catalyst of similar scale.",
+        "tag": "watch"
+      },
+      {
+        "text": "**Overseas-booked revenue fell sharply and the console slate is thin.** US −13.2% (Q2 −23.7%), Europe −38.6% (Q2 −41.7%) as MGS Δ / SILENT HILL f rolled off; MASTER COLLECTION Vol.2 and Townfall are lower-ticket. Castlevania: Belmont's Curse (Oct) and TAG FORCE GX (Feb) are the only dated H2 premium releases; Rev. NOiR and Rhapsody in Scarlet are undated.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Disclosure is thin for a company now valued on live-service quality.** No MAU, ARPU, paying users, title revenue, mobile/console/card split, GS units/ASP/recurring share, or Sports membership; no English earnings call transcript. The Street cannot verify cohort retention post-tournament from the filings — it can only watch third-party app data.",
+        "tag": "governance"
+      },
+      {
+        "text": "**Gaming & Systems guidance left stale and margin still sub-scale.** Unchanged ¥46bn/¥6.5bn implies H2 revenue −17.5% YoY at a 19.6% margin — internally inconsistent. H1 margin 9.6% remains well below global slot peers; the segment is 8% of revenue, 2% of profit.",
+        "tag": "watch"
+      },
+      {
+        "text": "**Sports profit slipped in Q2 and Others shrank.** Sports Q2 BP −13.4% to ¥1.2bn (~$7m), margin 9.0% (−150bps) on energy and price inflation; H1 OP flattered by ¥0.5bn other income. Others (pachinko/pachislot) revenue −19.2%, BP −44.8%, with an unchanged FY guide implying an H2 rebound.",
+        "tag": "mixed"
+      },
+      {
+        "text": "**Working capital build and an H2 other-expense cushion.** Receivables +¥15.6bn to ¥75.6bn (~$479m) and inventories +¥4.1bn to ¥23.0bn (~$146m) absorbed ~¥22bn; the FY other-income/expense guide of −¥7.0bn vs −¥0.8bn actual implies −¥6.2bn of H2 impairment/disposal charges that are not explained.",
+        "tag": "watch"
+      },
+      {
+        "text": "**Capital allocation remains passive.** Net cash of ¥333.7bn (~$2.11bn) is 53% of equity, the equity ratio is 76.6%, treasury purchases were ¥3m and the payout is pinned at 30%. A ¥20bn bond matures within 12 months. There is no buyback, no stated ROE target in this release, and Sports continues to tie up a large share of ¥188bn of PP&E.",
+        "tag": "governance"
+      }
+    ],
+    "forecast": {
+      "intro": "Konami guided FY3/27 (year to 31 March 2027) in May at revenue ¥505bn / business profit ¥150bn / OP ¥143bn / net profit ¥101bn (EPS ¥745.08), below consensus at the time. With H1 at ¥308.0bn / ¥112.1bn / ¥111.3bn / ¥79.2bn, the 29 Oct revision took revenue to ¥583bn (~$3.69bn, +18.1% YoY), business profit to ¥200bn (~$1.27bn), OP to ¥193bn (~$1.22bn, +42.0% YoY), PBT to ¥193bn and net profit to ¥135bn (~$855m, +35.0%; EPS ¥995.90, ~$6.31). Every yen of the change is Digital Entertainment — revenue ¥372bn → ¥450bn, business profit ¥138bn → ¥188bn, OP ¥131bn → ¥181bn — attributed in the Tanshin to eFootball and Yu-Gi-Oh!. Arcade, Gaming & Systems, Sports, Others, corporate costs (−¥7.5bn) and other income/expense (−¥7.0bn) were not touched. The dividend forecast moved in lockstep to ¥299 (interim ¥112, year-end ¥187) under the ≥30% payout policy. The implied H2 is revenue ¥275.0bn (~$1.74bn, −10.7% vs H1, +2.3% YoY), OP ¥81.7bn (~$518m, −26.6% vs H1, +14.1% YoY, 29.7% margin) and net profit ¥55.8bn (~$353m); H2 DE business profit ¥80.5bn (~$510m, 39% margin) versus ¥107.5bn in H1.",
+      "bridge": [
+        {
+          "title": "FY3/27 OP guidance, May 2026",
+          "value": "¥143.0bn (~$906m)",
+          "change": "Initial plan; +5% YoY, below QUICK consensus"
+        },
+        {
+          "title": "Digital Entertainment (eFootball, Yu-Gi-Oh!)",
+          "value": "+¥50.0bn (~$317m)",
+          "change": "DE OP ¥131bn → ¥181bn; revenue +¥78bn"
+        },
+        {
+          "title": "Arcade / Gaming & Systems / Sports / Others / corporate / other inc.-exp.",
+          "value": "¥0.0bn",
+          "change": "All segment guides unchanged"
+        },
+        {
+          "title": "FY3/27 OP guidance, Oct 2026",
+          "value": "¥193.0bn (~$1.22bn)",
+          "change": "+35.0% vs initial; +42.0% YoY; H1 = 57.6% of FY"
+        }
+      ],
+      "view": "**Our FY3/27 estimate sits 4–6% above the new guide: revenue ~¥595bn (~$3.77bn), OP ~¥200–205bn (~$1.27–1.30bn), net profit ~¥140–143bn (~$890–905m), EPS ~¥1,035–1,055.** The arithmetic: Q3 FY3/26 was ~¥128.2bn revenue / ~¥37.5bn OP (derived from the rounded 9M deck); with the September eFootball season live, Castlevania: Belmont's Curse (Oct), continuing Yu-Gi-Oh! OCG product, the Solstice SuperNova launch and the arcade cabinet cycle, we model Q3 FY3/27 at ~¥145bn revenue (~$919m) and ~¥48bn OP (~$304m), +13%/+28% YoY, and H2 OP of ~¥90–95bn versus the ¥81.7bn implied — i.e. DE business profit nearer ¥88–92bn than ¥80.5bn, and we do not assume the full −¥6.2bn H2 other-expense cushion is used. **Margins:** FY OP margin ~34% (guide 33.1%), with H2 ~32–33% versus H1's 36.1% as eFootball spend normalises off the tournament peak; DE at ~41–42% for the year. **Leverage/cash:** net cash should rise from ¥333.7bn toward ~¥360–370bn (~$2.3bn) by March 2027 after the ¥15.2bn interim dividend (Dec), higher H2 capex (~¥20bn), H2 tax payments and the receivables unwind; the ¥20bn bond maturing within 12 months is a rounding error against cash and is more likely repaid than refinanced. **Swing factors:** (1) eFootball post-tournament retention — each ¥10bn of H2 DE revenue is ~¥6bn of OP at the observed drop-through; (2) Yu-Gi-Oh! OCG product cadence and MASTER DUEL events; (3) yen — USD/JPY ~158 at period-end; a 5% stronger yen takes ~¥1bn off GS revenue and trims overseas DE; (4) Solstice SuperNova timing and whether the GS guide is refreshed in Q3; (5) the unexplained −¥6.2bn H2 other-expense line. The bigger valuation question is FY3/28: on a quadrennial comp with no disclosed catalyst of World Cup scale, we would not extrapolate 40%+ DE margins; a flat-to-down DE profit year is the base case the ~26x forward multiple is already contesting.",
+      "watch": [
+        "eFootball monthly revenue trajectory post-tournament (third-party app-store data) and the September season update's retention — the single variable behind ~¥50bn of guidance.",
+        "Q3 FY3/27 print (late Jan 2027): DE business profit vs the ~¥40bn/quarter implied by guidance — anything above ¥50bn means the FY guide is beaten by >¥10bn.",
+        "Gaming & Systems: Solstice SuperNova shipments, SYNKROS cruise/property wins, Class II/VLT/HHR placements, and whether the ¥46bn/¥6.5bn guide is refreshed; any disclosure of units, ASP or recurring revenue share.",
+        "Working capital: unwind of +¥15.6bn receivables and +¥4.1bn inventories in Q3 OCF; H2 capex versus the ¥16.2bn H1 run-rate.",
+        "Capital allocation: treatment of the ¥20bn bond maturing within 12 months, any buyback against ¥334bn net cash, and whether the 30% payout floor moves.",
+        "Sports exit margin (Q2 9.0%, −150bps) under energy/price inflation and Pilates Mirror unit economics at 123 studios; Others (pachinko/pachislot) H2 rebound assumption.",
+        "FX and rates: BoJ hawkishness (30 Oct) and USD/JPY vs ~158 — translation of GS and overseas DE revenue, and the −¥1.8bn FX hit in OCI already taken in H1."
+      ]
+    },
+    "sharePriceReaction": "Shares rose 13.8% to ¥26,110 (~$165) on Friday 30 Oct 2026 per Investing.com (Nikkei and Gaming Intelligence cite ~+15% at the close), against a Nikkei 225 that fell 2–3% on AI-capex and BoJ concerns; the stock has since extended to ~¥29,180 (~$185) by mid-November, with JPMorgan (¥35,100), CLSA (¥33,600), Macquarie (¥30,000) and Nomura (¥27,000) raising targets post-print.",
+    "confidence": "HIGH",
+    "confidenceNote": "All reported H1 FY3/27 and H1 FY3/26 figures are taken directly from the 29 Oct 2026 Tanshin (IFRS, unaudited interim) and the FY2027 Q2 results deck; Q2 standalone figures are derived as H1 minus Q1 using the 30 Jul 2026 Q1 Tanshin and are not separately reported by the company (segment prior-year figures are on the restated post-Oct-2025 segment basis). FY3/26 segment actuals and Q3 FY3/26 comps come from deck figures rounded to ¥0.1bn. Secondary-only and therefore unverified against a primary source: the ~¥50bn Q2 OP market expectation, the \"first H1 upgrade in 15 years\" and \"plan is conservative\" briefing remarks (Investing.com); the QUICK net-profit consensus of ¥127.5bn (Nikkei); the day-one share move (Investing.com +13.8% to ¥26,110 vs Nikkei/Gaming Intelligence ~+15% close); broker target prices (Investing.com). Konami discloses no MAU/ARPU/paying users, title revenue, GS units/ASP/recurring split, or Sports membership — all marked n/a rather than estimated. No English earnings-call transcript exists; Konami does not host a public call. Q1 FY3/27 capex is not isolated in the Q1 Tanshin, so Q2 capex/FCF are shown as n/a. FX: USD/JPY 157.83 (Yahoo Finance close, 29 Oct 2026); all \"~$\" figures are converted at that rate and prefixed accordingly.",
+    "sources": [
+      {
+        "label": "Konami Group Corporation — Consolidated Financial Results for the Six Months Ended September 30, 2026 (Tanshin, IFRS), 29 Oct 2026",
+        "kind": "primary",
+        "url": "https://img.konami.com/ir/en/ir-data/statements/2026/en1029_ych6cy.pdf"
+      },
+      {
+        "label": "Konami Group Corporation — FY2027 2nd Quarter Financial Results presentation, 29 Oct 2026 (segment guidance revision, dividend revision, segment pages, pipeline)",
+        "kind": "primary",
+        "url": "https://img.konami.com/ir/en/ir-data/meeting/2026/en1029_w265z8.pdf"
+      },
+      {
+        "label": "Konami Group Corporation — Consolidated Financial Results for the Three Months Ended June 30, 2026 (Q1 Tanshin via LSE RNS), 30 Jul 2026 — used to derive Q2 standalone",
+        "kind": "primary",
+        "url": "https://www.rns-pdf.londonstockexchange.com/rns/5404O_1-2026-7-30.pdf"
+      },
+      {
+        "label": "Konami Group Corporation — FY2027 1st Quarter Financial Results presentation, 30 Jul 2026",
+        "kind": "primary",
+        "url": "https://img.konami.com/ir/en/ir-data/meeting/2026/en0730_4e7ugd.pdf"
+      },
+      {
+        "label": "Konami Group Corporation — FY2026 3rd Quarter Financial Results presentation, 29 Jan 2026 (9M FY3/26 rounded figures used for Q3 comps)",
+        "kind": "primary",
+        "url": "https://img.konami.com/ir/en/ir-data/meeting/2026/en0129_w7i2a6.pdf"
+      },
+      {
+        "label": "Gaming Intelligence — \"Konami Group shares surge on strong revenue and profit growth\", 30 Oct 2026 (user-supplied; share reaction, G&S colour)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/238046-konami-group-shares-surge-on-strong-revenue-and-profit-growth/"
+      },
+      {
+        "label": "Investing.com — \"Konami raises full-year profit outlook after strong quarter\", 29 Oct 2026 (Q2 OP vs ~¥50bn expectation; first H1 upgrade in 15 years; briefing remarks)",
+        "kind": "secondary",
+        "url": "https://in.investing.com/news/stock-market-news/konami-raises-fullyear-profit-outlook-after-strong-quarter-93CH-5663845"
+      },
+      {
+        "label": "Investing.com — \"Why is Konami stock surging today?\", 30 Oct 2026 (+13.8% to ¥26,110; market context)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-konami-stock-surging-today-93CH-4985789"
+      },
+      {
+        "label": "Investing.com — Konami Group (9766) quote page (broker target prices, mid-Nov price)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/equities/konami-corp."
+      },
+      {
+        "label": "Nikkei — コナミGの27年3月期、純利益上振れ340億円, 29 Oct 2026 (QUICK consensus ¥127.5bn; +15.06% share move)",
+        "kind": "secondary",
+        "url": "https://www.nikkei.com/article/DGXZQOUB2985E0Z21C26A0000000/"
+      },
+      {
+        "label": "Nikkei — コナミGの27年3月期、純利益1%増, 8 May 2026 (initial guidance vs QUICK consensus ¥112.6bn; eFootball >1bn downloads)",
+        "kind": "secondary",
+        "url": "https://www.nikkei.com/article/DGXZQOUB0860X0Y6A500C2000000/"
+      },
+      {
+        "label": "TipRanks — \"Konami Lifts Forecasts and Dividends on Surge in First-Half Profits\", 29 Oct 2026 (corroboration of headline figures)",
+        "kind": "secondary",
+        "url": "https://www.tipranks.com/news/company-announcements/konami-lifts-forecasts-and-dividends-on-surge-in-first-half-profits"
+      },
+      {
+        "label": "Asia Gaming Brief — \"Konami gaming and systems profit jumps 154% in half year on Solstice sales\", 30 Oct 2026",
+        "kind": "secondary",
+        "url": "https://agbrief.com/news/japan/30/10/2026/konami-gaming-and-systems-profit-jumps-154-in-half-year-on-solstice-sales/"
+      },
+      {
+        "label": "Gaming Intelligence — \"Konami Group delivers record revenue and profit in fiscal first quarter\", Jul 2026 (Q1 context)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/234315-konami-group-delivers-record-revenue-and-profit-in-fiscal-first-quarter/"
+      },
+      {
+        "label": "Yahoo Finance — USD/JPY historical data (29 Oct 2026 close 157.83)",
+        "kind": "secondary",
+        "url": "https://finance.yahoo.com/quote/JPY=X/history/"
+      }
+    ]
+  }
+}
