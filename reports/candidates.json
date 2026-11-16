@@ -1,117 +1,5 @@
 [
   {
-    "key": "philippine amusement and gaming|9M 2026",
-    "type": "company",
-    "company": "Philippine Amusement and Gaming Corporation",
-    "ticker": null,
-    "period": "9M 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238025-pagcor-posts-23-drop-in-revenue-for-9m-2026/",
-      "https://www.yogonet.com/international/news/2026/10/29/127076-pagcor-reports-2341-revenue-decline-as-gaming-earnings-weaken"
-    ],
-    "seen": "2026-10-30"
-  },
-  {
-    "key": "betby|Q3 2026",
-    "type": "company",
-    "company": "BETBY",
-    "ticker": null,
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/10/29/127078-betby-sportsbook-ggr-rises-334-in-q3-amid-major-sporting-events-and-product-innovation",
-      "https://focusgn.com/betby-q3-2026-growth-results"
-    ],
-    "seen": "2026-10-30"
-  },
-  {
-    "key": "betmakers technology|Q1 FY2027",
-    "type": "company",
-    "company": "BetMakers Technology Group",
-    "ticker": "BET.AX",
-    "period": "Q1 FY2027",
-    "urls": [
-      "https://www.thegamblest.com/betmakers-posts-16-3-q1-revenue-growth-in-fy2027/",
-      "https://www.gamingintelligence.com/finance/238001-betmakers-posts-revenue-growth-of-16-in-fiscal-first-quarter/"
-    ],
-    "seen": "2026-10-30"
-  },
-  {
-    "key": "vici properties|Q3 2026",
-    "type": "company",
-    "company": "VICI Properties",
-    "ticker": "VICI",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238013-vici-properties-raises-guidance-after-strong-q3/"
-    ],
-    "seen": "2026-10-30"
-  },
-  {
-    "key": "juris|nevada|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Nevada",
-    "authority": "Nevada Gaming Control Board",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/10/29/127089-nevada-gaming-win-flat-at-128-billion-in-september-visitation-slightly-up",
-      "https://www.gamingintelligence.com/finance/237967-nevada-gaming-revenue-flat-at-1-28-billion-in-september/"
-    ],
-    "seen": "2026-10-30"
-  },
-  {
-    "key": "philippine amusement and gaming pagcor|9M 2026",
-    "type": "company",
-    "company": "Philippine Amusement and Gaming Corporation (PAGCOR)",
-    "ticker": null,
-    "period": "9M 2026",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/10/29/127076-pagcor-reports-2341-revenue-decline-as-gaming-earnings-weaken",
-      "https://www.thegamblest.com/pagcor-reports-revenue-fall-of-23-4-in-2026/",
-      "https://www.gamingintelligence.com/finance/238025-pagcor-posts-23-drop-in-revenue-for-9m-2026/"
-    ],
-    "seen": "2026-10-30"
-  },
-  {
-    "key": "pagcor|9M 2026",
-    "type": "company",
-    "company": "PAGCOR",
-    "ticker": null,
-    "period": "9M 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238025-pagcor-posts-23-drop-in-revenue-for-9m-2026/",
-      "https://www.yogonet.com/international/news/2026/10/29/127076-pagcor-reports-2341-revenue-decline-as-gaming-earnings-weaken",
-      "https://www.thegamblest.com/pagcor-reports-revenue-fall-of-23-4-in-2026/"
-    ],
-    "seen": "2026-10-30"
-  },
-  {
-    "key": "juris|netherlands|2025",
-    "type": "jurisdiction",
-    "market": "Netherlands",
-    "authority": "Ksa",
-    "period": "2025",
-    "urls": [
-      "https://casinobeats.com/2026/10/30/ksa-market-scan-dutch-gambling-market-2025/",
-      "https://europeangaming.eu/portal/latest-news/2026/10/30/217175/dutch-gambling-market-2025-ksa-market-scan/",
-      "https://igamingbusiness.com/legal-compliance/dutch-regulated-gambling-captures-59-market-revenue-player-reach/",
-      "https://focusgn.com/netherlands-gambling-channelisation-youth-play",
-      "https://next.io/news/results/netherlands-regulated-gambling-market-shrinks/",
-      "https://www.thegamblest.com/dutch-gambling-market-falls-to-e4-1-billion/"
-    ],
-    "seen": "2026-10-30"
-  },
-  {
-    "key": "juris|south dakota|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "South Dakota",
-    "authority": null,
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238023-south-dakota-report-11-rise-in-gambling-turnover-for-september/"
-    ],
-    "seen": "2026-10-30"
-  },
-  {
     "key": "pointsbet|H1 FY27",
     "type": "company",
     "company": "PointsBet Holdings",
@@ -1182,7 +1070,8 @@
     "period": "FY 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238568-aristocrat-leisure-grows-profit-to-a1-45-billion-in-fy26/",
-      "https://next.io/news/results/aristocrat-leisure-fy26-results-revenue-earnings/"
+      "https://next.io/news/results/aristocrat-leisure-fy26-results-revenue-earnings/",
+      "https://www.yogonet.com/international/news/2026/11/13/127288-aristocrat-posts-13-earnings-growth-for-20252026-fy-returns-129-billion-to-shareholders"
     ],
     "seen": "2026-11-12"
   },
@@ -1340,5 +1229,62 @@
     "period": "OCTOBER 2026",
     "urls": [],
     "seen": "2026-11-13"
+  },
+  {
+    "key": "bragg gaming|Q3 2026",
+    "type": "company",
+    "company": "Bragg Gaming Group",
+    "ticker": "BRAG",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238664-bragg-gaming-group-revenue-drops-23-in-third-quarter/",
+      "https://next.io/news/results/bragg-gaming-q3-2026-revenue-losses-cost-cuts/",
+      "https://focusgn.com/bragg-gaming-q3-financial-results"
+    ],
+    "seen": "2026-11-16"
+  },
+  {
+    "key": "juris|great britain|2026",
+    "type": "jurisdiction",
+    "market": "Great Britain",
+    "authority": "UKGC",
+    "period": "2026",
+    "urls": [
+      "https://casinobeats.com/2026/11/14/uk-youth-gambling-with-own-money-falls-to-26-as-89-still-recall-gambling-adverts/"
+    ],
+    "seen": "2026-11-16"
+  },
+  {
+    "key": "juris|illinois|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Illinois",
+    "authority": "Illinois Gaming Board",
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238591-illinois-land-based-casinos-post-10-increase-in-october-gaming-revenue/"
+    ],
+    "seen": "2026-11-16"
+  },
+  {
+    "key": "juris|michigan|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Michigan",
+    "authority": "Michigan Gaming Control Board",
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238624-michigan-commercial-casino-revenue-hits-110-million-in-october/"
+    ],
+    "seen": "2026-11-16"
+  },
+  {
+    "key": "juris|florida|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Florida",
+    "authority": null,
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238545-florida-commercial-gaming-revenue-drops-below-70-million-in-september/"
+    ],
+    "seen": "2026-11-16"
   }
 ]
