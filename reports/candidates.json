@@ -1073,7 +1073,9 @@
       "https://next.io/news/results/aristocrat-leisure-fy26-results-revenue-earnings/",
       "https://www.yogonet.com/international/news/2026/11/13/127288-aristocrat-posts-13-earnings-growth-for-20252026-fy-returns-129-billion-to-shareholders"
     ],
-    "seen": "2026-11-12"
+    "seen": "2026-11-12",
+    "sector": "gaming",
+    "africa": false
   },
   {
     "key": "doubledown interactive|Q3 2026",
@@ -1126,9 +1128,12 @@
     "urls": [
       "https://igamingfuture.com/codere-online-q3-2026-revenue-up-31-to-e62-6m/",
       "https://next.io/news/news/codere-online-q3-2026-revenue-mexico-growth/",
-      "https://www.gamingintelligence.com/finance/238598-codere-online-gaming-win-rises-30-in-third-quarter/"
+      "https://www.gamingintelligence.com/finance/238598-codere-online-gaming-win-rises-30-in-third-quarter/",
+      "https://www.yogonet.com/international/news/2026/11/13/127303-codere-online-q3-revenue-rises-31-as-sher-maintains-fy2026-outlook"
     ],
-    "seen": "2026-11-12"
+    "seen": "2026-11-12",
+    "sector": "gaming",
+    "africa": false
   },
   {
     "key": "codere|Q3 2026",
@@ -1208,7 +1213,9 @@
     "urls": [
       "https://www.gamingintelligence.com/finance/238653-danske-spil-sees-revenue-and-profit-climbs-in-9m-2026/"
     ],
-    "seen": "2026-11-13"
+    "seen": "2026-11-13",
+    "sector": "gaming",
+    "africa": false
   },
   {
     "key": "juris|oregon|OCTOBER 2026",
@@ -1239,9 +1246,12 @@
     "urls": [
       "https://www.gamingintelligence.com/finance/238664-bragg-gaming-group-revenue-drops-23-in-third-quarter/",
       "https://next.io/news/results/bragg-gaming-q3-2026-revenue-losses-cost-cuts/",
-      "https://focusgn.com/bragg-gaming-q3-financial-results"
+      "https://focusgn.com/bragg-gaming-q3-financial-results",
+      "https://www.thegamblest.com/bragg-gaming-reports-23-revenue-decline-in-q3-2026/"
     ],
-    "seen": "2026-11-16"
+    "seen": "2026-11-16",
+    "sector": "gaming",
+    "africa": false
   },
   {
     "key": "juris|great britain|2026",
@@ -1284,6 +1294,32 @@
     "period": "SEPTEMBER 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238545-florida-commercial-gaming-revenue-drops-below-70-million-in-september/"
+    ],
+    "seen": "2026-11-16"
+  },
+  {
+    "key": "philweb|Q3 2026",
+    "type": "company",
+    "company": "PhilWeb Corporation",
+    "ticker": "WEB",
+    "period": "Q3 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238695-strong-third-quarter-for-philweb-as-revenue-soars-153/"
+    ],
+    "seen": "2026-11-16"
+  },
+  {
+    "key": "juris|europe|2025",
+    "type": "jurisdiction",
+    "market": "Europe",
+    "authority": "EGBA",
+    "period": "2025",
+    "urls": [
+      "https://casinobeats.com/2026/11/16/egba-cuts-2024-harm-funding-figure-to-e64-8m-from-e148-9m-in-new-sustainability-report/",
+      "https://next.io/news/regulation/egba-sustainability-report-84m-funding-error/",
+      "https://focusgn.com/egba-societal-contribution-sustainability-report"
     ],
     "seen": "2026-11-16"
   }
