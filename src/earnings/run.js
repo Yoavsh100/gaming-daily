@@ -10,7 +10,7 @@ import { writeReport } from '../merlin/publish.js';
 import { restructure } from '../merlin/restructure.js';
 import { renderReportPage } from './page.js';
 import { writeFile } from 'node:fs/promises';
-import { loadIndex, saveIndex, loadCandidates, matchWatchlist, candidateKey } from './queue.js';
+import { loadIndex, saveIndex, loadCandidates, matchWatchlist, candidateKey, priorityTier, TIER_LABEL } from './queue.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 dotenv.config({ path: path.join(root, '.env'), quiet: true });
@@ -18,25 +18,31 @@ dotenv.config({ path: path.join(root, '..', '.env'), quiet: true });
 
 const arg = (name, fallback) => { const i = process.argv.indexOf(`--${name}`); return i > -1 ? process.argv[i + 1] : fallback; };
 const site = path.resolve(arg('site', path.join(root, 'out', 'site')));
-const max = Number(arg('max', 3));
+const max = Number(arg('max', 6));
 const MAX_ATTEMPTS = 2;
 
 const index = await loadIndex(site);
 const entry = (key) => index.find((e) => e.key === key);
 
-// A manual request goes first; then the oldest unanalysed news candidates. A manual request
-// is a company (--company) or a market/jurisdiction (--market), both with --period.
+// A manual request goes first; then news candidates by PRIORITY, newest first within a tier.
+// A manual request is a company (--company) or a market/jurisdiction (--market), both with --period.
+// Priority tiers (queue.js priorityTier): 1 gaming·Africa, 2 gaming·global, 3 payments·Africa,
+// 4 payments·global, 5 the rest. This stops fresh high-value results (e.g. an African operator)
+// being starved behind a long tail of older, lower-priority candidates.
 const queue = [];
 if (arg('company') && arg('period')) queue.push({ type: 'company', company: arg('company'), ticker: null, period: arg('period'), urls: [], manual: true });
 if (arg('market') && arg('period')) queue.push({ type: 'jurisdiction', market: arg('market'), authority: null, period: arg('period'), urls: [], manual: true });
 for (const c of await loadCandidates(site)) queue.push(c);
 
-const label = (c) => c.type === 'jurisdiction' ? `${c.market} ${c.period} [market]` : `${c.company} ${c.period}`;
+const label = (c) => (c.type === 'jurisdiction' ? `${c.market} ${c.period} [market]` : `${c.company} ${c.period}`) + ` {${TIER_LABEL[priorityTier(c)]}}`;
 const pending = queue
   .map((c) => ({ ...c, key: candidateKey(c) }))
   .filter((c, i, all) => all.findIndex((x) => x.key === c.key) === i)
   .filter((c) => c.manual || (entry(c.key)?.status !== 'done' && (entry(c.key)?.attempts ?? 0) < MAX_ATTEMPTS))
-  .sort((a, b) => (b.manual ? 1 : 0) - (a.manual ? 1 : 0) || (a.seen || '').localeCompare(b.seen || ''))
+  .sort((a, b) =>
+    (b.manual ? 1 : 0) - (a.manual ? 1 : 0)            // manual request first
+    || priorityTier(a) - priorityTier(b)               // then by priority tier (1 = highest)
+    || (b.seen || '').localeCompare(a.seen || ''))     // then newest first within the tier
   .slice(0, max);
 
 console.log(pending.length ? `Analysing ${pending.length}: ${pending.map(label).join('; ')}` : 'Nothing new to analyse.');
