@@ -3997,5 +3997,359 @@
     "releaseDate": "29 Oct 2026",
     "model": "claude-fable-5-1",
     "costUsd": 7.18
+  },
+  {
+    "key": "philweb|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-16T22:36:54.306Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "WEB-Q3-2026",
+    "published": "2026-11-16",
+    "company": {
+      "name": "PhilWeb Corporation",
+      "ticker": "WEB",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A clean, if small, print: Q3-26 revenue +152.9% YoY to P443.0m (~$6.9m), EBITDA P68.4m (~$1.1m) at a 15.4% margin and a third straight profitable quarter (net income P64.2m / ~$1.0m vs a P19.2m loss), all driven by the B2B Digital Solutions segment, which grew 40.5% QoQ to P281.3m (~$4.4m) and is now 63.5% of the mix. The balance sheet has been rebuilt by Lance Gokongwei's P2.03bn (~$31.6m) injection (equity swung from a P254.5m deficit to +P1.895bn / ~$29.5m; cash P2.22bn / ~$34.6m), but the P4.23bn (~$65.9m) JKS Tech cross-investment commitment exceeds that cash and the legacy venue business is still shrinking (-7.7% YoY), so this is an early-stage platform story priced on partner-GGR ramp rather than a proven margin structure.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "P443.0m (~$6.9m)",
+        "delta": "+152.9% YoY / +25.7% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "EBITDA (Q3-26)",
+        "value": "P68.4m (~$1.1m), 15.4% margin",
+        "delta": "+32.8% QoQ; +1,430bps margin YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Net income (Q3-26)",
+        "value": "P64.2m (~$1.0m)",
+        "delta": "vs -P19.2m (~-$0.3m) loss in Q3-25; +36.5% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Digital Solutions revenue",
+        "value": "P281.3m (~$4.4m), 63.5% of group",
+        "delta": "+40.5% QoQ; nil in Q3-25",
+        "dir": "up"
+      },
+      {
+        "label": "Venue-based revenue",
+        "value": "P161.6m (~$2.5m)",
+        "delta": "-7.7% YoY / +6.2% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Cash (30 Sep 2026)",
+        "value": "P2.22bn (~$34.6m)",
+        "delta": "vs P63.3m (~$1.0m) at Dec-25",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "13 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.77
+  },
+  {
+    "key": "danske spil a s|9M 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-16T22:46:39.376Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "DANSKE-SPIL-A-S-9M-2026",
+    "published": "2026-11-16",
+    "company": {
+      "name": "Danske Spil A/S",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "9M 2026",
+    "verdict": "A flat nine-month print that hides a softer third quarter: 9M-26 gross gaming revenue (BSI) of DKK 3,841m (~$568m, +0.5% YoY) and net profit of DKK 1,547m (~$229m, +1.5%) look steady, but the derived Q3 standalone shows BSI down 1.4% to DKK 1,255m (~$186m) and net profit down 4.2% to DKK 503m (~$74m) as the Eurojackpot/Lotto jackpot cycle turned against the lottery monopoly. The liberalised Danske Licens Spil unit (Q3 BSI +7.5%, 9M EBIT +24%) and cost take-out are doing the heavy lifting; FY26 guidance (BSI DKK 5.2–5.3bn, net profit DKK 1.95–2.05bn) is held for a third time and the Elite Gaming disposal tidies the portfolio at negligible earnings cost.",
+    "kpis": [
+      {
+        "label": "9M-26 BSI (GGR)",
+        "value": "DKK 3,841m (~$568m)",
+        "delta": "+0.5% YoY (+DKK 21m)",
+        "dir": "up"
+      },
+      {
+        "label": "Q3-26 BSI (derived)",
+        "value": "DKK 1,255m (~$186m)",
+        "delta": "−1.4% YoY / −9.2% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "9M-26 EBIT",
+        "value": "DKK 2,004m (~$296m)",
+        "delta": "+2.2% YoY; margin 52.2% (+90bps)",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 net profit",
+        "value": "DKK 1,547m (~$229m)",
+        "delta": "+1.5% YoY (Q3: −4.2%)",
+        "dir": "up"
+      },
+      {
+        "label": "Cash + securities (30 Sep)",
+        "value": "DKK 2,231m (~$330m)",
+        "delta": "+2.5% YoY; no bank debt",
+        "dir": "up"
+      },
+      {
+        "label": "FY26 guidance",
+        "value": "BSI DKK 5.2–5.3bn / NI DKK 1.95–2.05bn",
+        "delta": "Unchanged (3rd reiteration)",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "12 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 7
+  },
+  {
+    "key": "codere|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-16T23:02:41.133Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "CODERE-GROUP-Q3-2026",
+    "published": "2026-11-16",
+    "company": {
+      "name": "Codere Group",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A profitability quarter, not a growth quarter: group gross win rose just 6% to €344m (~$380m) but adj. EBITDA jumped 39% to €65.4m (~$72m), lifting margin ~450bps to 19.0%, with Retail (+32% to €54.0m on Mexico cost actions, Argentina and Spain) and Online (group-basis €11.3m vs €6.2m) both contributing and LTM retail EBITDA rising for an eighth straight quarter to €210.7m (~$233m). Public disclosure remains thin — no P&L below EBITDA, no net debt, no country split — and the €11.3m \"online\" EBITDA the group books is 2.7x the €4.2m Codere Online reports standalone, a definitional gap any buyer in the reported ~€2bn (~$2.2bn) sale process will price.",
+    "kpis": [
+      {
+        "label": "Gaming revenue (Gross Win)",
+        "value": "€344.0m (~$380m)",
+        "delta": "+6% YoY (+5% cc); −2.4% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA (group)",
+        "value": "€65.4m (~$72.3m)",
+        "delta": "+39% YoY (+35% cc); +13.5% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA margin (% gross win)",
+        "value": "19.0%",
+        "delta": "+~450bps YoY (≈14.5%); +270bps QoQ (16.3%)",
+        "dir": "up"
+      },
+      {
+        "label": "Retail adj. EBITDA",
+        "value": "€54.0m (~$59.7m)",
+        "delta": "+32% YoY; LTM €210.7m (~$233m), +23%",
+        "dir": "up"
+      },
+      {
+        "label": "Online gaming win (Codere Online)",
+        "value": "€67.1m (~$74.1m)",
+        "delta": "+30% YoY; −3.3% QoQ; group-basis adj. EBITDA €11.3m vs €6.2m",
+        "dir": "up"
+      },
+      {
+        "label": "Group cash (30 Sep 2026)",
+        "value": "€136.9m (~$151m)",
+        "delta": "Retail €71.3m / Codere Online €65.6m (+€3.0m QoQ, no debt); group net debt n/a",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "12 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.42
+  },
+  {
+    "key": "angler gaming|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-16T23:15:14.782Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "ANGLER-GAMING-Q3-2026",
+    "published": "2026-11-16",
+    "company": {
+      "name": "Angler Gaming",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A clean, margin-rich quarter — revenue +10.0% to €8.72m (~$9.63m), EBIT +79.6% to €3.04m (~$3.36m) at a 34.9% margin, net profit more than doubled — that the market ignored because the same release announced a second re-cut of the B2B platform deal from 1 Nov 2026: lower fees, affiliate/royalty costs pushed to partners, and a €5.25m (~$5.8m) one-off \"incentive\" to be settled by forgiving partner receivables in exchange for five-year contracts. The P&L is strong; the thesis now lives in the cash line (9M operating cash flow €2.2m against €7.5m net profit) and in a €21.6m receivable book that is 82% of total assets. Shares fell ~26% intraday.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "€8.72m (~$9.63m)",
+        "delta": "+10.0% YoY / +3.2% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "EBIT (reported)",
+        "value": "€3.04m (~$3.36m)",
+        "delta": "+79.6% YoY / +6.3% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "EBIT margin",
+        "value": "34.9%",
+        "delta": "+1,354bps YoY / +101bps QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Net profit (IFRS)",
+        "value": "€2.63m (~$2.90m)",
+        "delta": "+114.8% YoY / +10.2% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "EPS basic = diluted",
+        "value": "€0.0351 (~$0.039)",
+        "delta": "+115% YoY (Q3-25: €0.0163)",
+        "dir": "up"
+      },
+      {
+        "label": "Cash, no debt",
+        "value": "€3.24m (~$3.58m)",
+        "delta": "+€0.65m QoQ; 9M OCF €2.20m vs NP €7.54m",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "12 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 6.76
+  },
+  {
+    "key": "codere online luxembourg s a|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-16T23:26:52.347Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "CDRO-Q3-2026",
+    "published": "2026-11-16",
+    "company": {
+      "name": "Codere Online Luxembourg, S.A.",
+      "ticker": "CDRO",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A flattered beat: Q3-26 revenue +31% to €62.6m (~$68.9m) and Gaming Win +30% to €67.1m (~$73.8m) were helped by a World Cup July, a ~7pt peso tailwind (cc +23%) and a Mexico engine that is growing GW 39% but earning only €1.7m (~$1.9m) of Adj. EBITDA after the IEPS step-up. Guidance (€255-265m GW / €20-25m Adj. EBITDA) was reiterated rather than raised, Q4 was guided to single-digit growth against a €60.7m comp, and the regulatory calendar (Spain deposit limits, Colombia VAT) plus the parent's break-up sale process means the February 2027 outlook, not this print, decides the thesis.",
+    "kpis": [
+      {
+        "label": "Revenue (IFRS)",
+        "value": "€62.6m (~$68.9m)",
+        "delta": "+31% YoY / -2.8% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Gaming Win (KPI)",
+        "value": "€67.1m (~$73.8m)",
+        "delta": "+30% YoY (+23% cc) / -3.3% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA (non-IFRS)",
+        "value": "€4.2m (~$4.6m)",
+        "delta": "+45% YoY; 6.7% of revenue (+60bps)",
+        "dir": "up"
+      },
+      {
+        "label": "Net income (IFRS)",
+        "value": "€5.5m (~$6.1m)",
+        "delta": "vs €1.4m; incl. €3.4m warrant FV gain",
+        "dir": "up"
+      },
+      {
+        "label": "Avg monthly actives",
+        "value": "166.8k",
+        "delta": "+5% YoY / -3.6% QoQ; spend/active €134 (+24%)",
+        "dir": "up"
+      },
+      {
+        "label": "Cash / net debt",
+        "value": "€65.6m (~$72.2m) cash, no debt",
+        "delta": "+€3.0m QoQ; NWC -€24.5m",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "12 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.82
+  },
+  {
+    "key": "genting singapore|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-16T23:41:30.064Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "G13-SI-Q3-2026",
+    "published": "2026-11-16",
+    "company": {
+      "name": "Genting Singapore",
+      "ticker": "G13.SI",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A volume-and-luck double hit: Q3-26 gaming revenue fell 22% YoY to S$315.0m (~$245m) on softer premium play plus a September hold miss that management sizes at ~S$36m (~$28m) of adj. EBITDA, dragging adj. EBITDA -27% to S$161.8m (~$126m) and NPAT -42% to S$54.7m (~$42.5m). Non-gaming (+1% to S$250.9m/~$195m) and the S$2.9bn (~$2.25bn) net cash pile are the cushions, but management has now stretched RWS capacity constraints \"through 2027\", so the Q2 \"recovery\" narrative is dead for at least four more quarters.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "S$566.1m (~$440m)",
+        "delta": "-12.9% YoY / -5.0% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Gaming revenue",
+        "value": "S$315.0m (~$245m)",
+        "delta": "-21.7% YoY / -21.4% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA",
+        "value": "S$161.8m (~$126m)",
+        "delta": "-27.4% YoY; margin 28.6% (-570bps)",
+        "dir": "down"
+      },
+      {
+        "label": "Net profit after tax",
+        "value": "S$54.7m (~$42.5m)",
+        "delta": "-42.2% YoY / -39.8% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Non-gaming revenue",
+        "value": "S$250.9m (~$195m)",
+        "delta": "+1% YoY (co.); +29% QoQ (seasonal)",
+        "dir": "up"
+      },
+      {
+        "label": "Share price (13 Nov)",
+        "value": "S$0.57 (~US$0.44)",
+        "delta": "-6.6% day after release; -16% YTD pre-release",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "12 Nov 2026 (after SGX close)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.05
   }
 ]

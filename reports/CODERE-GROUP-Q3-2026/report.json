@@ -1,0 +1,1253 @@
+{
+  "company": {
+    "name": "Codere Group",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 1936197,
+    "output": 51552,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 70,
+    "cacheRead": 1825285,
+    "cacheWrite": 110842,
+    "turns": 1
+  },
+  "prepared": "16 Nov 2026",
+  "report": {
+    "releaseDate": "12 Nov 2026",
+    "currency": "EUR (tables in € millions; ~USD shown at EUR/USD 1.105)",
+    "verdict": "A profitability quarter, not a growth quarter: group gross win rose just 6% to €344m (~$380m) but adj. EBITDA jumped 39% to €65.4m (~$72m), lifting margin ~450bps to 19.0%, with Retail (+32% to €54.0m on Mexico cost actions, Argentina and Spain) and Online (group-basis €11.3m vs €6.2m) both contributing and LTM retail EBITDA rising for an eighth straight quarter to €210.7m (~$233m). Public disclosure remains thin — no P&L below EBITDA, no net debt, no country split — and the €11.3m \"online\" EBITDA the group books is 2.7x the €4.2m Codere Online reports standalone, a definitional gap any buyer in the reported ~€2bn (~$2.2bn) sale process will price.",
+    "kpis": [
+      {
+        "label": "Gaming revenue (Gross Win)",
+        "value": "€344.0m (~$380m)",
+        "delta": "+6% YoY (+5% cc); −2.4% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA (group)",
+        "value": "€65.4m (~$72.3m)",
+        "delta": "+39% YoY (+35% cc); +13.5% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA margin (% gross win)",
+        "value": "19.0%",
+        "delta": "+~450bps YoY (≈14.5%); +270bps QoQ (16.3%)",
+        "dir": "up"
+      },
+      {
+        "label": "Retail adj. EBITDA",
+        "value": "€54.0m (~$59.7m)",
+        "delta": "+32% YoY; LTM €210.7m (~$233m), +23%",
+        "dir": "up"
+      },
+      {
+        "label": "Online gaming win (Codere Online)",
+        "value": "€67.1m (~$74.1m)",
+        "delta": "+30% YoY; −3.3% QoQ; group-basis adj. EBITDA €11.3m vs €6.2m",
+        "dir": "up"
+      },
+      {
+        "label": "Group cash (30 Sep 2026)",
+        "value": "€136.9m (~$151m)",
+        "delta": "Retail €71.3m / Codere Online €65.6m (+€3.0m QoQ, no debt); group net debt n/a",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**EBITDA-led beat on a modest top line.** Q3-26 gaming revenue (gross win: stakes less prizes, pre-gaming-tax) €344m (~$380m), +6% YoY (+5% constant currency); adj. EBITDA €65.4m (~$72.3m), +39% (+35% cc); margin ~19.0% vs ~14.5% derived for Q3-25 (+~450bps). There is no sell-side consensus (equity is unlisted, audience is bondholders/sale bidders), so the yardstick is the company's own FY26 framework from April (~+5% gross win, >+8% adj. EBITDA) — Q3 ran far ahead on profit.",
+      "**Retail drove ~70% of the increment.** Retail adj. EBITDA +32% to €54.0m (~$59.7m), i.e. ~€13m of the ~€18m YoY group increase; group-basis online adj. EBITDA €11.3m (~$12.5m) vs €6.2m added ~€5m. Management attributes the profit step-up 'principally' to operational improvements implemented in Mexico, plus positive Argentina, Spain and online; no country financials are given in the public release.",
+      "**Retail volume is flat; this is a margin story.** Deriving retail gross win as group less Codere Online (€344.0m − €67.1m = ~€276.9m, ~$306m) implies only ~+1.5% YoY and ~−2% QoQ, so retail margin expanded ~450bps to ~19.5% of gross win — cost-out and mix, not demand.",
+      "**Eight consecutive quarters of LTM retail improvement.** LTM retail adj. EBITDA €210.7m (~$233m), +23% YoY (implies ~€171m a year earlier); the annualised Q3 run-rate (4×€54m = €216m) is still above the LTM figure, so the trend has not yet plateaued.",
+      "**FX helped at the margin, not decisively.** Reported +6%/+39% vs constant-currency +5%/+35%: roughly 1pt of revenue growth and 4pts of EBITDA growth came from currency (MXN strength; ARS under IAS 29 hyperinflation accounting adds noise).",
+      "**Online: 30% gaming-win growth, Mexico +39%.** Codere Online (Nasdaq: CDRO, majority-owned) gaming win €67.1m (~$74.1m): Spain €24.8m (+13%), Mexico €37.2m (+39%; +26% cc), Other €5.2m (+86%); IFRS revenue €62.6m (~$69.2m), +31%; standalone adj. EBITDA €4.2m (~$4.6m), +45%; Q3 net income €5.5m vs €1.4m; 9M net income €11.1m (~$12.3m) vs a €1.7m loss.",
+      "**Online EBITDA definition gap — flag it.** The group books 'online' adj. EBITDA of €11.3m vs CDRO's standalone €4.2m (and €6.2m vs €2.9m in Q3-25). The gap (~€7m) is persistent and most plausibly reflects intercompany fees paid by Codere Online to group entities that eliminate on consolidation (plus codere.it in Italy sitting outside CDRO), but the release does not reconcile it. It matters for CDRO minorities (standalone) and for a group buyer (consolidated).",
+      "**Q3 online was flattered by the World Cup tail and FX.** The CFO said Q3 benefited from the final stages of the World Cup in July and favourable exchange rates, and that against a strong Q4-25 (gaming win €60.7m, +15%) growth 'in the coming months' will be more in line with underlying trends — i.e. single digits.",
+      "**Codere Online guidance reiterated, not raised.** FY26 gaming win €255–265m (~$282–293m) and adj. EBITDA €20–25m (~$22–28m), unchanged since the July raise (from €235–245m / €15–20m). 9M gaming win €201.0m implies Q4 of €54–64m; management points to the upper part of the range, i.e. ~€62–64m (+2–5% YoY). 9M adj. EBITDA €16.1m implies Q4 of €3.9–8.9m vs €6.7m in Q4-25.",
+      "**No formal group guidance update.** The April FY25 release framed FY26 as ~+5% gross win and >+8% adj. EBITDA (>€243m vs €225.1m). With Q2 +14% and Q3 +39%, the group is tracking well above that; the Q1-26 group print was not retrieved for this note [gap].",
+      "**Mexico tax is the structural headwind the cost actions are masking.** CDRO's Mexico adj. EBITDA fell 15% to €1.7m (~$1.9m) despite +39% gaming win, on higher gaming taxes and marketing (timing of provisions). The same fiscal regime applies to the group's 67 Mexican halls and 12,366 machines — the retail 'operational improvements' are offsetting a tax step-up rather than pure margin expansion.",
+      "**Monetisation, not actives, is driving Mexico online.** CDRO Mexico average monthly actives −3% YoY to 85.6k while gaming win +39% → derived ARPU ~€145/month (~$160), +43%. Spain is healthier: actives +5% to 52.8k, spend per active +7%, adj. EBITDA +24% to €7.2m (29% margin).",
+      "**Colombia normalisation is a one-off.** 'Other' online gaming win +86% to €5.2m largely because Colombia's 19% VAT on deposits lapsed; Panama also cited as good. Actives in Other +37% to 28.4k.",
+      "**Liquidity solid, leverage opaque.** Cash €136.9m (~$151m): €71.3m retail, €65.6m at Codere Online (no financial debt; ~€61m available; 9M cash flow €16.4m). The release gives no net debt; the last company marker is ~1.1x adj. EBITDA at FY25 after the late-2024 debt-for-equity restructuring cut debt from ~€1.4bn to under €200m (secondary).",
+      "**Sale process is the real event.** Since March 2026 Jefferies and Macquarie have been mandated with a reported ~€2bn (~$2.2bn) ask; recent trade reports point to a different/piecemeal approach (break-up). On an LTM adj. EBITDA we estimate at ≥€250m (FY25 €225.1m + Q2/Q3 increments; Q1 unknown), €2bn is ~8x — rich for LatAm retail, cheap for online comps; the Q3 print helps the vendor.",
+      "**Market position.** Blask Index places Codere as the 4th-largest online operator in both Spain and Mexico and 40th in Argentina (secondary); in Spain retail the company claims #1 in retail sports betting and #2 in B-type AWP machines. Footprint (FY25): 43,252 gaming terminals, 128 halls, 18,076 bingo seats, 6,252 betting terminals, 7,665 bars, 4 racetracks, 10,302 employees.",
+      "**What management emphasises vs buries.** Emphasised: 39% EBITDA growth, eight-quarter retail streak, cash. Buried/absent: retail gross win by country, Mexico tax impact, net debt, capex, net income, and the group-vs-standalone online EBITDA reconciliation.",
+      "**Capital allocation.** No group dividend or buyback disclosed; equity holders are former creditors with an exit incentive, so cash build and EBITDA momentum are being marshalled for the sale rather than returned.",
+      "**Thesis read-through.** For bondholders and bidders, the quarter de-risks the equity story (margin, cash, no leverage pressure). The bear case is unchanged: low structural retail growth, Argentina macro/FX, Mexico taxation, Italian concession costs, and a 39% EBITDA jump that cannot be audited from the public release."
+    ],
+    "groupTable": {
+      "note": "Grupo Codere, € m (~USD at 1.105)",
+      "columns": [
+        "Q3-26",
+        "Q3-25",
+        "YoY",
+        "Q2-26",
+        "QoQ",
+        "9M-26",
+        "9M YoY"
+      ],
+      "rows": [
+        {
+          "label": "Gaming revenue (Gross Win) by segment",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Group gaming revenue",
+          "kind": "emphasis",
+          "cells": [
+            "344.0 (~$380m)",
+            "~324.5 [derived]",
+            "+6% (+5% cc)",
+            "352.5",
+            "−2.4%",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Q3-25 derived from stated +6%; Q2-26 per iGaming Express (secondary)."
+        },
+        {
+          "label": "Retail (derived = group − Codere Online GW)",
+          "indent": true,
+          "cells": [
+            "~276.9 (~$306m)",
+            "~272.9",
+            "~+1.5%",
+            "~283.1",
+            "~−2.2%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Online (Codere Online gaming win)",
+          "indent": true,
+          "cells": [
+            "67.1 (~$74.1m)",
+            "51.6",
+            "+30%",
+            "69.4",
+            "−3.3%",
+            "201.0 (~$222m)",
+            "+23%"
+          ]
+        },
+        {
+          "label": "Revenue by product",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Sportsbook / casino / other",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Group does not disclose product split; Codere Online casino was ~64% of NGR in FY25."
+        },
+        {
+          "label": "Adj. EBITDA",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Group adj. EBITDA",
+          "kind": "emphasis",
+          "cells": [
+            "65.4 (~$72.3m)",
+            "~47.1 [derived]",
+            "+39% (+35% cc)",
+            "57.6",
+            "+13.5%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Retail adj. EBITDA",
+          "indent": true,
+          "cells": [
+            "54.0 (~$59.7m)",
+            "~40.9 [derived]",
+            "+32%",
+            "n/a",
+            "n/a",
+            "LTM 210.7 (~$233m)",
+            "LTM +23%"
+          ]
+        },
+        {
+          "label": "Online adj. EBITDA (group basis)",
+          "indent": true,
+          "cells": [
+            "11.3 (~$12.5m)",
+            "6.2",
+            "+82%",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Codere Online standalone adj. EBITDA (memo)",
+          "indent": true,
+          "cells": [
+            "4.2 (~$4.6m)",
+            "2.9",
+            "+45%",
+            "5.8",
+            "−28%",
+            "16.1 (~$17.8m)",
+            "vs 7.1"
+          ]
+        },
+        {
+          "label": "Group adj. EBITDA margin (% gross win)",
+          "kind": "emphasis",
+          "cells": [
+            "19.0%",
+            "~14.5%",
+            "+~450bps",
+            "16.3%",
+            "+270bps",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Below EBITDA",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Group net income / (loss)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Not disclosed in the public release."
+        },
+        {
+          "label": "GAAP / adjusted EPS",
+          "indent": true,
+          "cells": [
+            "n/a (unlisted)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Codere Online net income (IFRS, memo)",
+          "indent": true,
+          "cells": [
+            "5.5 (~$6.1m)",
+            "1.4",
+            "n.m.",
+            "~(1.4) [derived]",
+            "n.m.",
+            "11.1 (~$12.3m)",
+            "vs (1.7)"
+          ]
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Codere Online avg monthly actives (000s)",
+          "indent": true,
+          "cells": [
+            "166.8",
+            "159.2",
+            "+5%",
+            "n/a",
+            "n/a",
+            "174.4",
+            "+10%"
+          ]
+        },
+        {
+          "label": "Codere Online ARPU (€/active/month, derived)",
+          "indent": true,
+          "cells": [
+            "~134 (~$148)",
+            "~108 (~$119)",
+            "+24%",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Cash, debt & leverage",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Group cash",
+          "kind": "emphasis",
+          "cells": [
+            "136.9 (~$151m)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "of which Retail / Codere Online",
+          "indent": true,
+          "cells": [
+            "71.3 / 65.6",
+            "n/a",
+            "n/a",
+            "n/a / 62.6",
+            "n/a / +€3.0m",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Net debt / leverage",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "—",
+            "—"
+          ],
+          "footnote": "Not disclosed at Q3; company cited ~1.1x adj. EBITDA at FY25 (gross debt <€200m post-2024 restructuring, secondary). Codere Online has no financial debt."
+        },
+        {
+          "label": "Operating / free cash flow",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a (CDRO 9M cash flow €16.4m)",
+            "n/a"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Retail (land-based: Spain, Italy, Argentina, Mexico, Panama, Colombia, Uruguay)",
+        "headline": "Retail adj. EBITDA +32% to €54.0m (~$59.7m) on roughly flat gross win — Mexico cost actions, Argentina and Spain do the work; country detail is withheld from the public release.",
+        "narrative": [
+          "They reported retail adj. EBITDA of €54.0m (~$59.7m), up 32% from a derived ~€40.9m, on retail gross win we estimate at ~€276.9m (~$306m) — group gross win of €344.0m less Codere Online's €67.1m — which is only ~1.5% higher YoY and ~2% lower than Q2's ~€283m. That puts the retail margin at ~19.5% of gross win against ~15.0% a year ago, roughly +450bps, which is essentially all of the group's margin expansion. The LTM retail figure reached €210.7m (~$233m), +23% YoY and the eighth consecutive quarter of LTM improvement, so the Q3 print sits on a trend rather than being a one-off; the annualised Q3 run-rate of ~€216m is still above the LTM number, suggesting the cost base is still being worked. Management attributes the step-up 'principally' to operational improvements implemented in Mexico, with Argentina and Spain also positive; Italy, Panama, Colombia and Uruguay are not mentioned, which we read as flat-to-down or immaterial.",
+          "Mexico is the swing factor and the least transparent. The group runs 67 gaming halls, 12,366 machines, 302 bingo seats, 357 table seats and 35 sports-betting points plus the Las Américas complex in Mexico City (racetrack, Granja las Américas, Centro Banamex convention centre). The 'operational improvements' are not quantified; the usual levers are hall rationalisation, labour, machine-fleet optimisation and lease renegotiation. Context matters: Mexico's gaming-tax burden stepped up in 2026 — Codere Online explicitly cited higher gaming taxes in Mexico this quarter — so a retail EBITDA improvement in that environment implies the cost actions are more than offsetting the tax, not that the underlying unit economics improved by the full amount. MXN strength contributed to the ~4pt gap between reported (+39%) and constant-currency (+35%) group EBITDA growth, most of it from Mexico. We would want Mexican retail gross win in local currency before crediting the entire improvement to self-help.",
+          "Argentina (13 halls, 6,772 machines, 11,692 bingo seats; the largest private gaming-hall operator in Buenos Aires Province, with online in the City of Buenos Aires via Codere Online) was again cited as positive. Argentina is reported under IAS 29 hyperinflation accounting, which both inflates nominal lines and introduces a monetary-position effect; the group's constant-currency framing shows FX a net tailwind at group level despite the peso. In FY25 Argentina was, with Spain, a 'main value-generation driver', supported by continued investment in gaming floors and equipment; the swing risks into Q4 are the peso crawling band and real-wage dynamics for the hall customer.",
+          "Spain (8,852 machines, 1,064 bingo seats, 5,360 betting terminals across 5,856 bars, 759 arcades, 22 betting shops and 3 halls; #1 in retail sports betting and #2 B-type AWP operator by the company's own description) delivered another positive quarter after FY25's operational efficiencies and fleet optimisation. Italy — 10 halls, 7,660 machines (AWP/VLT), 5,018 bingo seats, 1,809 bars, the Codere Network concession and codere.it launched in 2025 — is not referenced; the Italian concession-renewal and online-licence fee regime remain cost items to watch. Panama (12 halls, 2,214 machines, 480 table seats, Hipódromo Presidente Remón), Colombia (17 halls, 3,226 machines) and Uruguay (6 halls, two racetracks, Hotel Casino Carrasco) are small and unmentioned.",
+          "Retail cash stood at €71.3m (~$78.8m) at 30 September; group net debt is not disclosed in the release and the last marker is ~1.1x adj. EBITDA at FY25. For a bondholder or bidder, retail is the valuation anchor at ~84% of LTM group EBITDA. Our read: the LTM trend is credible and the Q3 margin is good, but the public disclosure does not let us separate tax pass-through, machine mix, volume and cost, so we treat the +32% as a blend of structural cost-out and favourable FX/comparison effects until the gated bondholder report confirms the country split. Retail-specific guidance is not given; the group's FY26 framework (~+5% gross win, >+8% adj. EBITDA) was not updated."
+        ],
+        "table": {
+          "note": "Retail, € m (~USD at 1.105)",
+          "columns": [
+            "Q3-26",
+            "Q3-25",
+            "YoY",
+            "Q2-26",
+            "QoQ",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Gaming revenue (gross win, derived)",
+              "kind": "emphasis",
+              "cells": [
+                "~276.9 (~$306m)",
+                "~272.9",
+                "~+1.5%",
+                "~283.1",
+                "~−2.2%",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Group gross win less Codere Online gaming win; not a company-disclosed figure."
+            },
+            {
+              "label": "Adj. EBITDA",
+              "kind": "emphasis",
+              "cells": [
+                "54.0 (~$59.7m)",
+                "~40.9 [derived]",
+                "+32%",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Adj. EBITDA margin (% gross win, derived)",
+              "cells": [
+                "~19.5%",
+                "~15.0%",
+                "~+450bps",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "LTM adj. EBITDA",
+              "cells": [
+                "210.7 (~$233m)",
+                "~171.3 [derived]",
+                "+23%",
+                "n/a",
+                "n/a",
+                "—",
+                "—"
+              ],
+              "footnote": "Eighth consecutive quarter of LTM growth."
+            },
+            {
+              "label": "Retail cash",
+              "cells": [
+                "71.3 (~$78.8m)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Regional",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Mexico (67 halls, 12,366 machines)",
+              "indent": true,
+              "cells": [
+                "n/a — 'principal driver' (operational improvements)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Argentina (13 halls, 6,772 machines, 11,692 bingo seats)",
+              "indent": true,
+              "cells": [
+                "n/a — 'positive'",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Spain (8,852 machines, 5,360 betting terminals)",
+              "indent": true,
+              "cells": [
+                "n/a — 'positive'",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Italy / Panama / Colombia / Uruguay",
+              "indent": true,
+              "cells": [
+                "n/a — not cited",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Footprint (FY25, company)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Gaming terminals / halls / bingo seats",
+              "indent": true,
+              "cells": [
+                "43,252 / 128 / 18,076",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Betting terminals / bars / arcades / racetracks",
+              "indent": true,
+              "cells": [
+                "6,252 / 7,665 / 839 / 4",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Employees (FY25)",
+              "indent": true,
+              "cells": [
+                "10,302",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Retail EBITDA and margin",
+            "takeaway": "Retail adj. EBITDA rose 32% to €54.0m (~$59.7m) on roughly flat gross win, lifting retail margin ~450bps to ~19.5%.",
+            "points": [
+              "Prior-year base derived at ~€40.9m; retail gross win estimated at ~€276.9m (~$306m), group €344.0m less Codere Online's €67.1m.",
+              "Retail gross win only ~1.5% higher YoY and ~2% lower than Q2's ~€283m.",
+              "Margin ~19.5% of gross win vs ~15.0% a year ago, essentially all of the group's margin expansion.",
+              "LTM retail EBITDA €210.7m (~$233m), +23% YoY, eighth consecutive quarter of LTM improvement; Q3 annualised run-rate ~€216m suggests cost base still being worked.",
+              "Management attributes the step-up 'principally' to Mexico operational improvements, with Argentina and Spain positive; Italy, Panama, Colombia, Uruguay unmentioned, read as flat-to-down or immaterial."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Mexico",
+            "takeaway": "Mexico is the swing factor and the least transparent; cost actions appear to more than offset a 2026 gaming-tax step-up.",
+            "points": [
+              "Footprint: 67 gaming halls, 12,366 machines, 302 bingo seats, 357 table seats, 35 sports-betting points plus the Las Américas complex in Mexico City.",
+              "'Operational improvements' are not quantified; usual levers are hall rationalisation, labour, machine-fleet optimisation and lease renegotiation.",
+              "Mexico's gaming-tax burden stepped up in 2026; Codere Online explicitly cited higher Mexican gaming taxes this quarter, so unit economics did not improve by the full amount.",
+              "MXN strength contributed to the ~4pt gap between reported (+39%) and constant-currency (+35%) group EBITDA growth, mostly from Mexico.",
+              "We would want Mexican retail gross win in local currency before crediting the entire improvement to self-help."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Argentina",
+            "takeaway": "Argentina was again cited as positive, though IAS 29 hyperinflation accounting inflates nominal lines and adds a monetary-position effect.",
+            "points": [
+              "13 halls, 6,772 machines, 11,692 bingo seats; largest private gaming-hall operator in Buenos Aires Province, with online in the City via Codere Online.",
+              "Group constant-currency framing shows FX a net tailwind at group level despite the peso.",
+              "In FY25 Argentina was, with Spain, a 'main value-generation driver', supported by continued investment in gaming floors and equipment.",
+              "Q4 swing risks: the peso crawling band and real-wage dynamics for the hall customer."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Spain, Italy, smaller markets",
+            "takeaway": "Spain delivered another positive quarter; Italy is unreferenced, while Panama, Colombia and Uruguay are small and unmentioned.",
+            "points": [
+              "Spain: 8,852 machines, 1,064 bingo seats, 5,360 betting terminals across 5,856 bars, 759 arcades, 22 betting shops, 3 halls; #1 retail sports betting, #2 B-type AWP operator.",
+              "Spain's positive quarter follows FY25's operational efficiencies and fleet optimisation.",
+              "Italy: 10 halls, 7,660 machines, 5,018 bingo seats, 1,809 bars, Codere Network concession, codere.it launched 2025; concession-renewal and online-licence fees remain cost items to watch.",
+              "Panama (12 halls, 2,214 machines, 480 table seats, Hipódromo Presidente Remón), Colombia (17 halls, 3,226 machines), Uruguay (6 halls, two racetracks, Hotel Casino Carrasco)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Cash, valuation, guidance",
+            "takeaway": "Retail is the valuation anchor at ~84% of LTM group EBITDA, but disclosure cannot separate tax, mix, volume and cost effects.",
+            "points": [
+              "Retail cash €71.3m (~$78.8m) at 30 September; group net debt not disclosed, last marker ~1.1x adj. EBITDA at FY25.",
+              "We treat the +32% as a blend of structural cost-out and favourable FX/comparison effects until the gated bondholder report confirms the country split.",
+              "LTM trend is credible and the Q3 margin is good.",
+              "No retail-specific guidance; group FY26 framework (~+5% gross win, >+8% adj. EBITDA) was not updated."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Online (Codere Online, Nasdaq: CDRO — Spain, Mexico, Colombia, Panama, City of Buenos Aires)",
+        "headline": "Gaming win +30% to €67.1m (~$74m) with Mexico +39% on ARPU rather than actives; standalone adj. EBITDA €4.2m (+45%) versus €11.3m booked by the group; Q4 guided to single-digit growth.",
+        "narrative": [
+          "They delivered gaming win (the metric formerly reported as net gaming revenue) of €67.1m (~$74.1m), +30% YoY — an acceleration from +27% in Q2 and +13% in Q1, though with the World Cup's final stages in July and favourable FX in the base — and IFRS revenue of €62.6m (~$69.2m), +31%, the €4.5m gap being mainly Mexican VAT on entry fees and Colombian partner/affiliate recognition. Sequentially gaming win fell 3.3% from Q2's record €69.4m, with Spain −10% QoQ on post-tournament seasonality and Mexico +3% QoQ. Standalone adj. EBITDA was €4.2m (~$4.6m), +45% from €2.9m, a 6.3% margin on gaming win (+70bps YoY) but down from 8.4% in Q2 and 9.4% in Q1 as Mexican marketing and tax stepped up; reported IFRS EBITDA was €2.9m vs €3.2m, so the adjustments (LTIP, IAS 29) carry the growth. Nine months: gaming win €201.0m (+23%), revenue €187.3m (+22%), adj. EBITDA €16.1m vs €7.1m (margin 8.0% vs 4.3%), net income €11.1m (~$12.3m) vs a €1.7m loss, with a non-cash warrant fair-value gain of €3.4m in Q3 (€2.3m for 9M) flattering the bottom line; Q3 net income €5.5m vs €1.4m. Cash was €65.6m (~$72.5m, ~€61m available) with no financial debt, up €3.0m QoQ, and 9M cash flow was €16.4m.",
+          "Mexico produced gaming win of €37.2m (~$41.1m), +39% reported and +26% in constant currency, and revenue of €32.9m (+37%). Average monthly actives fell 3% to 85.6k, so the growth was entirely spend per active: derived ARPU ~€145/month (~$160) against ~€101 a year ago, +43%. Monetisation-led growth of that magnitude typically combines rising casino share (casino was ~64% of NGR in FY25), VIP concentration and lower promotional intensity — sustainable, but lower quality than active growth and more exposed to a handful of accounts. Adj. EBITDA was €1.7m (~$1.9m), −15% YoY, a 4.6% margin on gaming win versus 7.5%, which management attributed to higher gaming taxes and higher marketing investment including the timing of certain provisions and expenses. The Galilea Montijo brand-ambassador signing (October) and the '99 Royale' launch signal marketing stays elevated into Q4. LTM Mexico revenue was ~€123m with ~€8.7m adj. EBITDA as at Q1-26. Blask ranks Codere #4 in Mexico.",
+          "Spain remains the cash engine: gaming win and revenue both €24.8m (~$27.4m), +13%; actives +5% to 52.8k and spend per active +7% (derived ARPU ~€157/month, ~$173, vs ~€146); adj. EBITDA €7.2m (~$8.0m), +24%, with margin expanding ~260bps to 29.0% of gaming win. The −10% QoQ is the normalisation from Q2's World Cup-inflated €27.6m. Nine-month Spain gaming win was €77.9m (+18%) on actives of 55.4k (+10%). LTM Spain revenue was ~€94m with ~€26m adj. EBITDA as at Q1-26, and Blask ranks the brand #4 in the Spanish online market. Sportsbook handle, net margin, structural margin and promo % of handle are not disclosed by Codere Online — n/a.",
+          "Other markets (Colombia, Panama and the City of Buenos Aires) generated €5.2m (~$5.7m) of gaming win, +86% from €2.8m, mostly because Colombia's 19% VAT on deposits that applied last year has lapsed, with Panama also called out as good; actives rose 37% to 28.4k at a low ~€61/month ARPU. Nine-month Other gaming win was €15.3m (+39%). Backing Spain and Mexico out of the group total gives a derived 'Other markets plus undistributed B2B/HQ opex' line of −€4.7m vs −€4.9m, so the corporate drag is flat in absolute terms and shrinking as a share of gaming win. The Colombian licence was renewed in November 2025 through November 2030.",
+          "Two things for the group reader. First, the reconciliation: Grupo Codere books online adj. EBITDA of €11.3m against CDRO's €4.2m (and €6.2m vs €2.9m in Q3-25), a persistent ~€7m gap most plausibly explained by fees Codere Online pays to group entities (platform, brand/licence, shared services) that are costs at CDRO but eliminate on consolidation, plus codere.it in Italy sitting outside CDRO — none of which the release explains. Standalone is what CDRO minorities own; consolidated is what a buyer of the group gets. Second, guidance: FY26 gaming win €255–265m (~$282–293m) and adj. EBITDA €20–25m (~$22–28m) were reiterated, not raised, with management pointing to the upper part of the gaming-win range but warning that Q4 growth will slow to single digits against a strong Q4-25 (€60.7m, +15%). The arithmetic is Q4 gaming win of €54–64m (upper end ~€62–64m, +2–5% YoY) and Q4 adj. EBITDA of €3.9–8.9m vs €6.7m a year ago. Marketing spend and its % of revenue were not disclosed in the materials we could access — n/a."
+        ],
+        "table": {
+          "note": "Codere Online, € m (~USD at 1.105)",
+          "columns": [
+            "Q3-26",
+            "Q3-25",
+            "YoY",
+            "Q2-26",
+            "QoQ",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Gaming win (formerly NGR)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Total gaming win",
+              "kind": "emphasis",
+              "cells": [
+                "67.1 (~$74.1m)",
+                "51.6",
+                "+30%",
+                "69.4",
+                "−3.3%",
+                "201.0 (~$222m)",
+                "+23%"
+              ]
+            },
+            {
+              "label": "Spain",
+              "indent": true,
+              "cells": [
+                "24.8 (~$27.4m)",
+                "22.0",
+                "+13%",
+                "27.6",
+                "−10.1%",
+                "77.9",
+                "+18%"
+              ]
+            },
+            {
+              "label": "Mexico",
+              "indent": true,
+              "cells": [
+                "37.2 (~$41.1m)",
+                "26.8",
+                "+39% (+26% cc)",
+                "36.1",
+                "+3.0%",
+                "107.8",
+                "+25%"
+              ]
+            },
+            {
+              "label": "Other (Colombia, Panama, CABA)",
+              "indent": true,
+              "cells": [
+                "5.2 (~$5.7m)",
+                "2.8",
+                "+86%",
+                "5.7",
+                "−8.8%",
+                "15.3",
+                "+39%"
+              ]
+            },
+            {
+              "label": "Revenue (IFRS)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Total revenue",
+              "kind": "emphasis",
+              "cells": [
+                "62.6 (~$69.2m)",
+                "47.7",
+                "+31%",
+                "64.4",
+                "−2.8%",
+                "187.3 (~$207m)",
+                "+22%"
+              ]
+            },
+            {
+              "label": "Spain",
+              "indent": true,
+              "cells": [
+                "24.8",
+                "22.0",
+                "+13%",
+                "27.6",
+                "−10%",
+                "77.9",
+                "+18%"
+              ]
+            },
+            {
+              "label": "Mexico",
+              "indent": true,
+              "cells": [
+                "32.9 (~$36.4m)",
+                "24.0",
+                "+37%",
+                "n/a",
+                "n/a",
+                "95.1",
+                "+22%"
+              ]
+            },
+            {
+              "label": "Other",
+              "indent": true,
+              "cells": [
+                "4.9",
+                "1.6",
+                "n.m.",
+                "n/a",
+                "n/a",
+                "14.3",
+                "+52%"
+              ]
+            },
+            {
+              "label": "Profitability",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Adj. EBITDA (standalone)",
+              "kind": "emphasis",
+              "cells": [
+                "4.2 (~$4.6m)",
+                "2.9",
+                "+45%",
+                "5.8",
+                "−28%",
+                "16.1 (~$17.8m)",
+                "vs 7.1"
+              ]
+            },
+            {
+              "label": "Spain adj. EBITDA",
+              "indent": true,
+              "cells": [
+                "7.2 (~$8.0m)",
+                "5.8",
+                "+24%",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Mexico adj. EBITDA",
+              "indent": true,
+              "cells": [
+                "1.7 (~$1.9m)",
+                "2.0",
+                "−15%",
+                "n/a",
+                "n/a",
+                "8.2",
+                "vs 3.6"
+              ]
+            },
+            {
+              "label": "Other markets + B2B/HQ opex (derived)",
+              "indent": true,
+              "cells": [
+                "(4.7)",
+                "(4.9)",
+                "+€0.2m",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Adj. EBITDA margin (% gaming win)",
+              "cells": [
+                "6.3%",
+                "5.6%",
+                "+70bps",
+                "8.4%",
+                "−210bps",
+                "8.0%",
+                "+370bps"
+              ]
+            },
+            {
+              "label": "Spain / Mexico margin (% gaming win)",
+              "indent": true,
+              "cells": [
+                "29.0% / 4.6%",
+                "26.4% / 7.5%",
+                "+260bps / −290bps",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Online adj. EBITDA as booked by Grupo Codere (memo)",
+              "cells": [
+                "11.3 (~$12.5m)",
+                "6.2",
+                "+82%",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Group-basis figure; reconciliation to standalone not published."
+            },
+            {
+              "label": "EBITDA (IFRS, pre-adjustments)",
+              "cells": [
+                "2.9",
+                "3.2",
+                "−€0.3m",
+                "n/a",
+                "n/a",
+                "8.5",
+                "vs 6.5"
+              ]
+            },
+            {
+              "label": "Net income (IFRS)",
+              "cells": [
+                "5.5 (~$6.1m)",
+                "1.4",
+                "n.m.",
+                "~(1.4) [derived]",
+                "n.m.",
+                "11.1 (~$12.3m)",
+                "vs (1.7)"
+              ],
+              "footnote": "Includes non-cash warrant fair-value gain of €3.4m in Q3-26."
+            },
+            {
+              "label": "Customer KPIs",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Avg monthly actives (000s)",
+              "kind": "emphasis",
+              "cells": [
+                "166.8",
+                "159.2",
+                "+5%",
+                "n/a",
+                "n/a",
+                "174.4",
+                "+10%"
+              ]
+            },
+            {
+              "label": "Spain / Mexico / Other actives (000s)",
+              "indent": true,
+              "cells": [
+                "52.8 / 85.6 / 28.4",
+                "50.2 / 88.3 / 20.7",
+                "+5% / −3% / +37%",
+                "n/a",
+                "n/a",
+                "55.4 / 90.7 / 28.4",
+                "+10% / +6% / +26%"
+              ]
+            },
+            {
+              "label": "ARPU (€/active/month, derived)",
+              "cells": [
+                "~134 (~$148)",
+                "~108 (~$119)",
+                "+24%",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Spain / Mexico / Other ARPU (€, derived)",
+              "indent": true,
+              "cells": [
+                "~157 / ~145 / ~61",
+                "~146 / ~101 / ~45",
+                "+7% / +43% / +35%",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Marketing spend / % of revenue",
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Sportsbook handle / net margin / promo % handle",
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Balance sheet & guidance",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Cash (no financial debt)",
+              "cells": [
+                "65.6 (~$72.5m)",
+                "n/a",
+                "n/a",
+                "62.6",
+                "+€3.0m",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "FY26 guidance: gaming win / adj. EBITDA",
+              "cells": [
+                "€255–265m / €20–25m (reiterated)",
+                "—",
+                "—",
+                "raised Jul from €235–245m / €15–20m",
+                "—",
+                "—",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Group online results",
+            "takeaway": "Gaming win rose 30% to €67.1m (~$74.1m) and standalone adj. EBITDA 45% to €4.2m, though margin fell sequentially to 6.3%.",
+            "points": [
+              "Growth accelerated from +27% in Q2 and +13% in Q1, helped by World Cup final stages in July and favourable FX in the base; IFRS revenue €62.6m (~$69.2m), +31%, €4.5m gap mainly Mexican VAT and Colombian partner recognition.",
+              "Sequentially gaming win fell 3.3% from Q2's record €69.4m: Spain −10% QoQ, Mexico +3% QoQ.",
+              "Adj. EBITDA €4.2m (~$4.6m) vs €2.9m, 6.3% margin (+70bps YoY) but down from 8.4% in Q2 and 9.4% in Q1; IFRS EBITDA €2.9m vs €3.2m, so adjustments (LTIP, IAS 29) carry the growth.",
+              "Nine months: gaming win €201.0m (+23%), revenue €187.3m (+22%), adj. EBITDA €16.1m vs €7.1m (margin 8.0% vs 4.3%), net income €11.1m (~$12.3m) vs €1.7m loss; Q3 net income €5.5m vs €1.4m, flattered by €3.4m warrant gain (€2.3m 9M).",
+              "Cash €65.6m (~$72.5m, ~€61m available), no financial debt, up €3.0m QoQ; 9M cash flow €16.4m."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Mexico",
+            "takeaway": "Mexico gaming win grew 39% to €37.2m entirely on ARPU, while adj. EBITDA fell 15% to €1.7m on taxes and marketing.",
+            "points": [
+              "Gaming win €37.2m (~$41.1m), +39% reported, +26% constant currency; revenue €32.9m (+37%).",
+              "Monthly actives fell 3% to 85.6k; derived ARPU ~€145/month (~$160) vs ~€101, +43%.",
+              "Monetisation-led growth likely combines rising casino share (~64% of NGR in FY25), VIP concentration and lower promo intensity — sustainable but lower quality and more exposed to a few accounts.",
+              "Adj. EBITDA €1.7m (~$1.9m), 4.6% margin vs 7.5%, attributed to higher gaming taxes and marketing including timing of certain provisions and expenses.",
+              "Galilea Montijo ambassador signing (October) and '99 Royale' launch signal elevated Q4 marketing; LTM revenue ~€123m, ~€8.7m adj. EBITDA at Q1-26; Blask ranks Codere #4."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Spain",
+            "takeaway": "Spain remains the cash engine: gaming win +13% to €24.8m and adj. EBITDA +24% to €7.2m at a 29.0% margin.",
+            "points": [
+              "Gaming win and revenue both €24.8m (~$27.4m); actives +5% to 52.8k, spend per active +7% (derived ARPU ~€157/month, ~$173, vs ~€146).",
+              "Adj. EBITDA €7.2m (~$8.0m), margin up ~260bps to 29.0% of gaming win.",
+              "−10% QoQ is normalisation from Q2's World Cup-inflated €27.6m.",
+              "Nine-month gaming win €77.9m (+18%) on actives 55.4k (+10%); LTM revenue ~€94m with ~€26m adj. EBITDA at Q1-26; Blask ranks the brand #4.",
+              "Sportsbook handle, net margin, structural margin and promo % of handle not disclosed — n/a."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Other markets",
+            "takeaway": "Other markets gaming win rose 86% to €5.2m, mostly because Colombia's 19% deposit VAT lapsed; corporate drag flat at −€4.7m.",
+            "points": [
+              "Gaming win €5.2m (~$5.7m) vs €2.8m; Panama also called out as good; actives +37% to 28.4k at ~€61/month ARPU.",
+              "Nine-month Other gaming win €15.3m (+39%).",
+              "Derived 'Other markets plus undistributed B2B/HQ opex' line −€4.7m vs −€4.9m, shrinking as a share of gaming win.",
+              "Colombian licence renewed November 2025 through November 2030."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Group reconciliation",
+            "takeaway": "Grupo Codere books online adj. EBITDA of €11.3m against CDRO's €4.2m, a persistent ~€7m gap the release does not explain.",
+            "points": [
+              "Q3-25 comparison: €6.2m group vs €2.9m CDRO.",
+              "Most plausibly intra-group fees (platform, brand/licence, shared services) that eliminate on consolidation, plus codere.it in Italy sitting outside CDRO.",
+              "Standalone is what CDRO minorities own; consolidated is what a buyer of the group gets."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Guidance",
+            "takeaway": "FY26 guidance of €255–265m gaming win and €20–25m adj. EBITDA reiterated, not raised, with Q4 growth slowing to single digits.",
+            "points": [
+              "Gaming win €255–265m (~$282–293m), adj. EBITDA €20–25m (~$22–28m); management points to upper part of gaming-win range.",
+              "Q4 faces a strong Q4-25 base (€60.7m, +15%).",
+              "Implied Q4 gaming win €54–64m (upper end ~€62–64m, +2–5% YoY) and Q4 adj. EBITDA €3.9–8.9m vs €6.7m a year ago.",
+              "Marketing spend and its % of revenue not disclosed in accessible materials — n/a."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Retail LTM adj. EBITDA up for an eighth straight quarter to €210.7m (~$233m), +23% YoY — the Q3 +32% is the continuation of a trend, not a one-off.",
+        "tag": "structural"
+      },
+      {
+        "text": "Group adj. EBITDA margin ~19.0%, +~450bps YoY and +270bps QoQ, on retail gross win that is roughly flat — cost-out in Mexico plus Argentina and Spain efficiency is converting a low-growth top line into 39% profit growth.",
+        "tag": "structural"
+      },
+      {
+        "text": "Constant-currency EBITDA growth of +35% confirms FX contributed only ~4pts; the underlying improvement is real.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Online gaming win +30% with Spain adj. EBITDA +24% to €7.2m (~$8.0m) at a 29% margin; CDRO 9M adj. EBITDA more than doubled to €16.1m (~$17.8m) and 9M net income swung to €11.1m (~$12.3m).",
+        "tag": "structural"
+      },
+      {
+        "text": "Balance sheet: €136.9m (~$151m) group cash, a debt-free Codere Online adding ~€3m of cash per quarter, and FY25 leverage of ~1.1x — the restructured group is funding capex and the sale process from strength.",
+        "tag": "structural"
+      },
+      {
+        "text": "Colombia's 19% deposit VAT lapsing drove Other-markets gaming win +86% and the July World Cup tail lifted Spain/Mexico — helpful, but non-recurring into Q4.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Mexico online ARPU +43% to ~€145/month (~$160): if retention holds, Mexican EBITDA inflects sharply once marketing normalises.",
+        "tag": "early"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Disclosure is minimal: a two-page release with no P&L below EBITDA, no net debt, no capex/FCF and no country split; the detailed quarterly report sits behind the bondholder login. The 39% cannot be audited from public information.",
+        "tag": "governance"
+      },
+      {
+        "text": "Online EBITDA definitional gap: the group books €11.3m vs CDRO's standalone €4.2m (2.7x), persistently and without reconciliation — a valuation issue for the ~€2bn sale and for CDRO minorities.",
+        "tag": "governance"
+      },
+      {
+        "text": "Mexico taxation: CDRO Mexico adj. EBITDA −15% to €1.7m despite +39% gaming win (margin 4.6% vs 7.5%) on higher gaming taxes and marketing; the same regime weighs on 67 retail halls, so part of the retail cost-out is merely offsetting a structural tax step-up.",
+        "tag": "structural"
+      },
+      {
+        "text": "Mexico online actives −3% YoY: growth is entirely monetisation, raising concentration and sustainability questions.",
+        "tag": "watch"
+      },
+      {
+        "text": "Q4 deceleration is pre-announced: CDRO guides to single-digit growth against a strong Q4-25 (€60.7m, +15%) and FX could reverse; implied Q4 adj. EBITDA of €3.9–8.9m straddles last year's €6.7m.",
+        "tag": "watch"
+      },
+      {
+        "text": "Retail volume ~+1.5% derived — the group is a margin story in a structurally low-growth retail estate, with Argentina (IAS 29, peso) adding reporting noise.",
+        "tag": "structural"
+      },
+      {
+        "text": "Sale process overhang: ~€2bn (~$2.2bn) ask, reports of a break-up approach, and an owner base of former creditors with an exit incentive; a failed or piecemeal process would leave the group with a stranded strategy.",
+        "tag": "watch"
+      }
+    ],
+    "forecast": {
+      "intro": "There was no formal group guidance change in the Q3 release. The reference framework remains the April FY25 outlook — FY26 gross win growth of ~5% and adj. EBITDA growth of >8% (i.e. >€243m / ~$269m vs €225.1m). With Q2 +14% and Q3 +39% EBITDA growth, the group is tracking well above that envelope, and the driver is Retail (Mexico cost actions, Argentina, Spain), with Online adding ~€5m YoY in Q3 on the group's basis. The listed subsidiary Codere Online reiterated FY26 gaming win of €255–265m and adj. EBITDA of €20–25m (raised in July from €235–245m / €15–20m) and explicitly flagged a single-digit Q4.",
+      "bridge": [
+        {
+          "title": "Group FY26 adj. EBITDA framework (set Apr-26, not updated)",
+          "value": ">€243m (~$269m)",
+          "change": ">+8% vs FY25 €225.1m; Q2/Q3 actuals running +14% / +39%"
+        },
+        {
+          "title": "Group Q3-26 adj. EBITDA actual",
+          "value": "€65.4m (~$72.3m)",
+          "change": "+39% YoY (+€18.3m): Retail ≈ +€13m, Online ≈ +€5m"
+        },
+        {
+          "title": "Codere Online FY26 gaming-win guide",
+          "value": "€255–265m (~$282–293m)",
+          "change": "Reiterated; Q4 implied €54–64m vs €60.7m Q4-25; management points to upper end"
+        },
+        {
+          "title": "Codere Online FY26 adj. EBITDA guide",
+          "value": "€20–25m (~$22–28m)",
+          "change": "Reiterated; Q4 implied €3.9–8.9m vs €6.7m Q4-25"
+        }
+      ],
+      "view": "Our independent take, all figures **estimates** given the missing Q1-26 group print: FY25 adj. EBITDA of €225.1m plus the Q2/Q3 YoY increments (+€7.1m, +€18.3m) already puts the LTM run-rate at **≥€250m (~$276m)** before Q1-26 and Q4-26. If Q4 holds Q3's ~+35% cc momentum against a seasonally strong Q4-25 base, **FY26 adj. EBITDA lands ~€255–270m (+13–20%)**; even a flat Q4 YoY implies ~€245–250m, i.e. above the >8% framework either way. We model **FY26 gross win ~€1.40–1.42bn (~$1.55–1.57bn), +3–5%**, at the low end of the ~5% framework given flat retail volumes and a single-digit online Q4 — so FY26 group margin should print ~18% vs 16.6% in FY25. **Leverage direction is down**: with €136.9m cash against gross debt last reported under €200m and positive free cash flow, net leverage should finish 2026 well below 1x (we estimate <0.5x), ahead of any sale. For Codere Online we expect Q4 gaming win ~€62–64m (+2–5%) and adj. EBITDA ~€5–7m, landing FY26 at ~€263m / ~€21–23m — within guidance but with margin compressing sequentially on Mexican marketing. Swing factors: MXN/ARS, Mexico's gaming-tax regime, Argentine consumer demand, Italian concession costs, and whether the sale proceeds whole or in parts.",
+      "watch": [
+        "Country split in the bondholder report / FY26 results: Mexico retail gross win in MXN and margin — is the +32% self-help or FX/tax timing?",
+        "Sale-process milestones (binding bids, whole vs break-up) and the implied multiple against ≥€250m LTM adj. EBITDA; any pre-sale refinancing of residual notes and first disclosure of net debt since FY25.",
+        "Codere Online Q4: gaming win ≥€62m needed for the upper end of guidance; Mexico adj. EBITDA margin recovery vs stepped-up marketing (Montijo campaign, 99 Royale) and taxes; Mexico actives turning positive.",
+        "A published reconciliation of group-basis online adj. EBITDA (€11.3m) to CDRO standalone (€4.2m).",
+        "Argentina: IAS 29 effects, peso band and Buenos Aires Province bingo-hall licence terms; Italy: AWP/VLT and bingo concession renewals and codere.it ramp."
+      ]
+    },
+    "sharePriceReaction": "n/a for the group — Codere's equity is unlisted (Codere New Topco S.A., Luxembourg; held by former creditors since the late-2024 debt-for-equity restructuring). The listed subsidiary Codere Online (Nasdaq: CDRO) barely moved on 12 Nov 2026: secondary reports conflict (Investing.com described the stock as edging up; a Motley Fool transcript page shows −1.6%) — [unverified].",
+    "confidence": "MEDIUM",
+    "confidenceNote": "Group headline figures (gross win €344m, adj. EBITDA €65.4m, retail €54.0m, LTM retail €210.7m, online €67.1m / €11.3m, cash €136.9m split €71.3m/€65.6m, cc growth +5%/+35%) verified against Grupo Codere's 12 Nov 2026 press release (web and PDF) and ≥3 secondary outlets. Codere Online figures verified against its GlobeNewswire release / Form 6-K and Q3 presentation; Q3 net income (€5.5m vs €1.4m) from secondary sources only. Q3-25 bases, retail gross win and all margins are DERIVED from stated growth rates (±0.5pt rounding). Q2-26 group gross win/adj. EBITDA (€352.5m / €57.6m) rests on a single secondary source (iGaming Express). NOT available / unverified: group net income, net debt and leverage at 30 Sep 2026, capex/FCF, retail country financials, Q1-26 and 9M-26 group figures, Codere Online marketing spend (detailed quarterly report is behind the bondholder login). FX: EUR/USD ~1.105 as of 12–13 Nov 2026, implied from Yogonet's US$380m conversion of the €344m figure in its results coverage — not independently verified against a central-bank fix.",
+    "sources": [
+      {
+        "label": "Grupo Codere — Q3 2026 results press release, 12 Nov 2026 (Spanish, web)",
+        "kind": "primary",
+        "url": "https://www.grupocodere.com/web/guest/w/codere-eleva-un-39-su-ebitda-ajustado-en-el-tercer-trimestre-y-consolida-la-mejora-sostenida-de-su-rentabilidad"
+      },
+      {
+        "label": "Grupo Codere — Q3 2026 results press release (PDF)",
+        "kind": "primary",
+        "url": "https://www.grupocodere.com/documents/d/guest/ndp-resultados-3t2026-doc"
+      },
+      {
+        "label": "Grupo Codere — corporate site (FY25 footprint, capacity and headline data)",
+        "kind": "primary",
+        "url": "https://www.grupocodere.com/en/"
+      },
+      {
+        "label": "Codere Online — Q3 2026 results release, GlobeNewswire, 12 Nov 2026",
+        "kind": "primary",
+        "url": "https://www.globenewswire.com/news-release/2026/11/12/3401426/0/en/codere-online-reports-third-quarter-2026-results.html"
+      },
+      {
+        "label": "Codere Online — Q3 2026 earnings presentation (PDF)",
+        "kind": "primary",
+        "url": "https://s29.q4cdn.com/160319267/files/content_files/Codere-Online-Q3-2026-Earnings-Presentation.pdf"
+      },
+      {
+        "label": "Codere Online — Form 6-K exhibit 99.1 (SEC EDGAR), Q3 2026",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001866782/000117184326007368/exh_991.htm"
+      },
+      {
+        "label": "Codere Online — Q2 2026 results release and raised outlook, GlobeNewswire, 30 Jul 2026",
+        "kind": "primary",
+        "url": "https://www.globenewswire.com/news-release/2026/07/30/3335923/0/en/Codere-Online-Reports-Second-Quarter-2026-Results-and-Raises-Full-Year-Outlook.html"
+      },
+      {
+        "label": "Codere Online — Q3 2025 results release (base-period data)",
+        "kind": "primary",
+        "url": "https://www.codereonline.com/news/news-details/2025/Codere-Online-Reports-Financial-Results-for-the-Third-Quarter-2025/default.aspx"
+      },
+      {
+        "label": "Motley Fool — Codere Online Q3 2026 earnings call transcript",
+        "kind": "secondary",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/11/13/codere-online-cdro-q3-2026-earnings-call-transcript/"
+      },
+      {
+        "label": "Investing.com — Codere Online Q3 2026 earnings call transcript",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-codere-online-posts-strong-q3-2026-growth-stock-edges-up-93CH-5022389"
+      },
+      {
+        "label": "Yahoo Finance — What Codere Online said on its Q3 earnings call",
+        "kind": "secondary",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/codere-online-luxembourg-cdro-said-171523242.html"
+      },
+      {
+        "label": "SBC News — Do Codere Group's strong Q3 results improve sale chances? (12 Nov 2026)",
+        "kind": "secondary",
+        "url": "https://sbcnews.co.uk/sportsbook/2026/11/12/codere-group-q3-results/"
+      },
+      {
+        "label": "SBC News — Codere FY2025 results / €2bn sale, leverage 1.1x (29 Apr 2026)",
+        "kind": "secondary",
+        "url": "https://sbcnews.co.uk/europe/2026/04/29/codere-ebitda-passes-200m-as-it-eyes-2bn-sale/"
+      },
+      {
+        "label": "iGaming Express — Codere Q2 2026 group revenue and EBITDA",
+        "kind": "secondary",
+        "url": "https://igamingexpress.com/codere-q2-revenue-and-ebitda-up-as-online-hits-record/"
+      },
+      {
+        "label": "Yogonet (ES) — Codere Q3 2026, USD conversion of group figures",
+        "kind": "secondary",
+        "url": "https://www.yogonet.com/latinoamerica/noticias/2026/11/13/111497-codere-reporto-ingresos-por-usd-380-millones-en-el-3t-de-2026-impulsado-por-mexico-argentina-y-el-canal-online"
+      },
+      {
+        "label": "Gaming Intelligence — Codere Online gaming win rises 30% in Q3",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/238598-codere-online-gaming-win-rises-30-in-third-quarter/"
+      },
+      {
+        "label": "StockTitan — Codere Online Q3 2026 (Q3 net income)",
+        "kind": "secondary",
+        "url": "https://www.stocktitan.net/news/CDRO/codere-online-reports-third-quarter-2026-hagkfv8z7kgp.html"
+      },
+      {
+        "label": "Casino Compendium — Codere FY2025 results and FY26 framework",
+        "kind": "secondary",
+        "url": "https://casinocompendium.com/en/codere-consolidates-growth-after-increasing-ebitda-by-26-1-in-2025/"
+      },
+      {
+        "label": "NEXT.io — Codere Online Q3 2026 (break-up reports)",
+        "kind": "secondary",
+        "url": "https://next.io/news/news/codere-online-q3-2026-revenue-mexico-growth/"
+      },
+      {
+        "label": "Demócrata — Codere Q3 2026 coverage (Spanish)",
+        "kind": "secondary",
+        "url": "https://www.democrata.es/economia/codere-impulsa-un-39-su-ebitda-ajustado-en-el-tercer-trimestre-de-2026/"
+      }
+    ]
+  }
+}

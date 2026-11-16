@@ -1,0 +1,252 @@
+# PhilWeb Corporation (WEB) — Q3 2026 Analyst Report
+** · Reporting currency: PHP (Philippine peso); tables in PHP millions with ~USD equivalents at PHP 64.2/USD · Results released 13 Nov 2026**
+**Market reaction:** Shares closed +P0.30 (+2.46%) at P12.50 (~$0.19) on the PSE on Friday 13 Nov 2026, the day the 17-Q was filed (per Manila Times). The close sits 24% below the P16.50 (~$0.26) at which JKS Tech is buying treasury shares and 56% above Lance Gokongwei's P8.00 (~$0.12) subscription price; the stock had jumped >8% to a near-decade high on the Gokongwei announcement in June and was suspended on 8 Sep pending JKS disclosure.
+
+> A clean, if small, print: Q3-26 revenue +152.9% YoY to P443.0m (~$6.9m), EBITDA P68.4m (~$1.1m) at a 15.4% margin and a third straight profitable quarter (net income P64.2m / ~$1.0m vs a P19.2m loss), all driven by the B2B Digital Solutions segment, which grew 40.5% QoQ to P281.3m (~$4.4m) and is now 63.5% of the mix. The balance sheet has been rebuilt by Lance Gokongwei's P2.03bn (~$31.6m) injection (equity swung from a P254.5m deficit to +P1.895bn / ~$29.5m; cash P2.22bn / ~$34.6m), but the P4.23bn (~$65.9m) JKS Tech cross-investment commitment exceeds that cash and the legacy venue business is still shrinking (-7.7% YoY), so this is an early-stage platform story priced on partner-GGR ramp rather than a proven margin structure.
+
+## 1. Executive Summary
+
+- **Headline beat on scale, not on expectations — there is no sell-side consensus for this micro-cap.** Q3-26 (three months to 30 Sep 2026) revenue rose 152.9% YoY to P443.0m (~$6.9m) from P175.2m (~$2.7m) and 25.7% QoQ from P352.4m (~$5.5m); net income was P64.2m (~$1.0m) against a P19.2m (~$0.3m) loss a year ago and P47.0m (~$0.7m) in Q2-26. Figures are per the SEC Form 17-Q as relayed by GGRAsia, Focus Gaming News, Inquirer, Manila Times and Asean Gaming; they reconcile arithmetically with the PSE EDGE Q2-26 and FY25 data.
+- **Digital Solutions (B2B) is the entire growth story.** The segment — hosted online-gaming platforms, systems integration, content aggregation/distribution for PAGCOR-licensed operators — generated P281.3m (~$4.4m), +40.5% QoQ from P200.3m (~$3.1m), from a standing start of nil in Q3-25. Its share of group revenue has gone 34% (Q1) → 57% (Q2) → 63.5% (Q3). 9M-26 Digital revenue is P560.9m (~$8.7m, derived).
+- **Venue-based legacy revenue is in structural decline but stabilised sequentially.** P161.6m (~$2.5m), -7.7% YoY, +6.2% QoQ (derived from Q2's P152.1m); comprising service-provider share income P82.1m (~$1.3m) and operator share income P79.5m (~$1.2m). 9M-26 venue revenue of ~P467.5m (~$7.3m, derived) is -12.4% YoY.
+- **Operating leverage is real but the cost base is high.** Costs and expenses nearly doubled (+99.7%) to P378.9m (~$5.9m), of which opex was P374.5m (~$5.8m), i.e. 84.5% of revenue — consistent with a pass-through content/platform aggregation model. Operating income P64.1m (~$1.0m) vs a P14.5m (~$0.2m) loss; EBITDA P68.4m (~$1.1m) vs P2.0m, margin 15.4% (+80bps QoQ from 14.6%; +1,430bps YoY from 1.1%). D&A fell to ~P4.3m from ~P16.5m (derived), as Q3-25 carried impairments.
+- **Below the line is essentially tax- and interest-free.** Net income (P64.2m) ≈ operating income (P64.1m): the company reported no interest expense in the quarter and is using accumulated losses (FY25 net loss P211.2m / ~$3.3m). The 14.5% net margin therefore overstates a normalised after-tax margin by roughly the 25% Philippine corporate rate — treat as a timing benefit.
+- **9M-26: revenue +92.7% to P1,028.4m (~$16.0m); net income P125.2m (~$1.95m) vs -P61.0m (~-$1.0m); operating income P129.4m (~$2.0m) vs -P46.4m; EBITDA P143.4m (~$2.2m) vs P4.3m (13.9% margin vs 0.8%).** The quarterly cadence (Q1 P13.9m → Q2 P47.0m → Q3 P64.2m net income) is the bull case in one line.
+- **No formal numeric guidance — and none was changed.** Management's only forward markers are qualitative: OKADA PLAY surpassed P100m (~$1.6m) monthly GGR and 100,000 daily active users in October (+~50% MoM in turnover and GGR), and PhilWeb expects 'additional partner platforms' to reach the same P100m monthly-GGR mark before end-2026. The JKS Tech investment is 'in the final stages of closing' and contributed nothing in Q3.
+- **Capital position has been transformed by equity, not operations.** Cash of P2.22bn (~$34.6m) at 30 Sep vs P63.3m (~$1.0m) at Dec-25; shareholders' equity +P1.895bn (~$29.5m) vs a P254.5m (~$4.0m) deficit at Dec-25 and -P193.5m at Jun-26. The bridge is almost entirely Lance Gokongwei's P2.027bn (~$31.6m) subscription (159.53m common + 93.84m redeemable preferred at P8.00 / ~$0.12), with the common tranche (P1.28bn) closed 27 Aug 2026.
+- **The JKS Tech cross-investment is the biggest swing factor and the biggest risk.** PhilWeb (P1.34bn / ~$20.9m) and subsidiary PhilWeb Capital (P2.88bn / ~$44.9m) have subscribed to 10.73m JKS Class B shares at P394 — P4.23bn (~$65.9m) in total, of which ~P1.06bn is payable at first closing and ~P3.17bn thereafter. JKS, the B2B platform behind the PAGCOR-licensed Epic Game brand, in turn bought 81.38m PhilWeb treasury shares at P16.50 (~$0.26) for P1.34bn (~$20.9m) — a 4.85% stake — reportedly completed 30 Oct. The PSE suspended the stock on 8 Sep pending substantial-acquisition disclosure.
+- **Funding gap is explicit.** Even netting the P1.34bn treasury-share proceeds, the JKS commitment implies ~P2.9bn (~$45m) of net cash out versus P2.22bn of cash and ~P140m of 9M EBITDA — further equity, vendor financing or staged settlement is required. Management says it is 'exploring a deeper operational integration and control framework' with JKS, which could mean consolidation rather than equity accounting.
+- **Governance reset is complete and institutional.** Following a management-led buyout from Gregorio Araneta earlier in 2026, Gokongwei (JG Summit President/CEO, investing personally) joined the board in July and was elected Chairman on 27-28 Aug 2026, replacing Crisanto Roy Alcid (who stays as a director). Edgar Brian Ng remains President. The company rebranded as a 'technology and digital infrastructure' group in June.
+- **Regulatory licence is the moat such as it is.** PhilWeb secured PAGCOR accreditation as a gaming affiliate/support-service provider in March 2026 under the regulator's new B2B framework; its platform partners are licensed integrated resorts — Okada Manila (OKADA PLAY, launched May 2026; 4,000+ titles from 20+ providers), Hann Casino Resort and Newport World Resorts — plus exclusive Philippine distribution of Pragmatic Play (Jul 2026) and Games Global content (Aug 2026).
+- **No cost-transformation programme is disclosed;** the restructuring was the exit from the e-Games venue network to a B2B model (completed early 2026). We see no quantified savings target — the margin path depends on revenue scaling against a semi-variable content/platform cost base.
+- **Event/seasonal effects: none quantified.** This is a Philippine iGaming/eGames platform business with no sportsbook, so World Cup / NFL calendar effects do not apply; the relevant 'event' is partner-platform launches (OKADA PLAY May 2026; Pragmatic Play rollout Q3).
+- **Disclosure quality is thin for a platform story.** No segment EBITDA, no EPS in the release coverage (Q2 EPS was P0.03; H1 P0.04), no take-rate, no actives/ARPU at group level, no operating cash flow, no gross-debt figure. We flag these as n/a rather than estimate them.
+- **Shares +2.46% to P12.50 (~$0.19) on release day** — below the P16.50 JKS treasury-share price but 56% above Gokongwei's P8.00 entry; the Gokongwei preferred conversion and JKS stake imply ~15-20% combined dilution to pre-deal holders.
+- **Thesis read-through:** the Q3 print validates that PhilWeb can monetise licensed-operator demand for online platforms at a mid-teens EBITDA margin, with October OKADA PLAY data pointing to further sequential acceleration in Q4. The debate is not about demand but about (i) the sustainability of an 85%-cost-ratio aggregation model, (ii) whether the P4.23bn JKS deal creates or transfers value given the circular share exchange, and (iii) Philippine online-gambling policy risk, which can move abruptly.
+
+## 2. Group Financial Summary
+
+| PHP m (~USD m at 64.2) | Q3-26 | QoQ | YoY | 9M-26 | 9M YoY |
+|---|---|---|---|---|---|
+| **Revenue by segment** | | | | | |
+| Digital Solutions (B2B platform, integration, content) | 281.3 (~$4.4) | +40.5% | n/m (nil in Q3-25) | 560.9 (~$8.7)¹ | n/m |
+| Venue-based operations | 161.6 (~$2.5) | +6.2%¹ | -7.7% | 467.5 (~$7.3)¹ | -12.4%¹ |
+|    of which service-provider share income | 82.1 (~$1.3) | n/a | n/a | n/a | H1: -15.1% |
+|    of which operator share income | 79.5 (~$1.2) | n/a | n/a | n/a | H1: -14.3% |
+| Total revenue | 443.0 (~$6.9) | +25.7% | +152.9% | 1,028.4 (~$16.0) | +92.7% |
+| **Revenue by product** | | | | | |
+| Sportsbook | n/a (not offered) | — | — | — | — |
+| iGaming / eGames platform & content (Digital) | 281.3 (~$4.4) | +40.5% | n/m | 560.9 (~$8.7)¹ | n/m |
+| Other (venue-based share income) | 161.6 (~$2.5) | +6.2% | -7.7% | 467.5 (~$7.3)¹ | -12.4%¹ |
+| **Costs & profitability** | | | | | |
+| Costs and expenses | 378.9 (~$5.9) | +24.0% | +99.7%¹ | 899.0 (~$14.0)¹ | +55.0%¹ |
+|    of which operating & administrative expenses | 374.5 (~$5.8) | n/a | n/a | n/a | n/a |
+| Opex as % of revenue | 84.5% | Q2 total costs 86.7% | Q3-25 total costs 108.3% | 87.4%¹ | 9M-25 108.7%¹ |
+| Operating income / (loss) | 64.1 (~$1.0) | n/a | vs -14.5 (~-$0.2) | 129.4 (~$2.0) | vs -46.4 (~-$0.7) |
+| EBITDA (company-defined) | 68.4 (~$1.1) | +32.8% | vs 2.0 (~$0.03) | 143.4 (~$2.2) | vs 4.3 (~$0.1) |
+| EBITDA margin | 15.4% | +80bps (14.6%) | +1,430bps (1.1%) | 13.9% | +1,310bps (0.8%) |
+|    Digital Solutions EBITDA | n/a (not disclosed) | — | — | n/a | — |
+|    Venue-based EBITDA | n/a (not disclosed) | — | — | n/a | — |
+| D&A and impairment (derived: EBITDA − operating income) | 4.3 (~$0.07)¹ | n/a | vs 16.5¹ | 14.0¹ | vs 50.7¹ |
+| Net income / (loss) attributable | 64.2 (~$1.0) | +36.5% | vs -19.2 (~-$0.3) | 125.2 (~$1.95) | vs -61.0 (~-$1.0) |
+| Net margin | 14.5% | +120bps (13.3%) | +2,550bps (-11.0%) | 12.2% | vs -11.4% |
+| EPS basic/diluted (PHP) | n/a² | Q2: P0.03 (~$0.0005) | Q3-25: ~-P0.01 | n/a² (H1: P0.04) | 9M-25: ~-P0.04 |
+| **Group KPIs** | | | | | |
+| Avg monthly players (group) | n/a (not disclosed) | — | — | — | — |
+| OKADA PLAY monthly GGR (partner platform, Oct-26) | >100 (~$1.6) in Oct | +~50% MoM | launched May-26 | — | — |
+| OKADA PLAY daily active users (Oct-26) | >100,000 | n/a | — | — | — |
+| **Cash flow & balance sheet** | | | | | |
+| Operating cash flow | n/a (not disclosed) | — | — | n/a | — |
+| Free cash flow | n/a (not disclosed) | — | — | n/a | — |
+| Cash & equivalents (period end) | 2,220 (~$34.6) | vs ≤265 at Jun-26³ | vs 63.3 (~$1.0) at Dec-25 | 2,220 (~$34.6) | — |
+| Shareholders' equity (period end) | 1,895 (~$29.5) | vs -193.5 (~-$3.0) at Jun-26 | vs -254.5 (~-$4.0) at Dec-25 | 1,895 (~$29.5) | — |
+| Gross debt / net debt | n/a [unverified]; no interest expense in Q3 → net cash | — | Jun-26 total liabilities 741.9 (~$11.6) | — | — |
+| Leverage (net debt / EBITDA) | n/m (net cash) | — | — | — | — |
+| Committed, unfunded: JKS Tech subscriptions | 4,230 (~$65.9) gross; ~3,170 (~$49.4) deferred | — | — | — | — |
+
+## 3. Segment deep-dive — Digital Solutions (B2B online-gaming platform, systems integration & content distribution)
+
+*P281.3m (~$4.4m), +40.5% QoQ, now 63.5% of group revenue; the only growth engine, with October OKADA PLAY data pointing to further acceleration in Q4.*
+
+### Revenue ramp
+
+**Digital Solutions booked P281.3m (~$4.4m), +40.5% QoQ from P200.3m (~$3.1m), now 63.5% of group revenue and the only growth engine.**
+
+- Segment share rose to 63.5% from 57% in Q2 and 34% in Q1; nothing in Q3-25.
+- Ramp steep and linear: P79.3m Q1 (derived), P200.3m Q2, P281.3m Q3, consistent with revenue-share tracking partner GGR, not one-off fees.
+- Nine-month segment revenue P560.9m (~$8.7m, derived), already 85% of FY25 group revenue (P659.4m / ~$10.3m).
+- Described as hosted platforms, systems integration, digital infrastructure and technology services; no split between platform fees and content distribution, no segment EBITDA.
+
+### OKADA PLAY
+
+**OKADA PLAY generated more than P100m (~$1.6m) GGR in October, roughly +50% MoM, with the monthly run-rate roughly tripling across the quarter.**
+
+- Launched May 2026 on PhilWeb's platform, supplying technology stack, content aggregation (4,000+ titles from 20+ providers), customer service and operational support.
+- Exceeded 100,000 daily active users six months after launch; September GGR was ~P67m on that arithmetic.
+- PhilWeb recognises only its contractual share, which is not disclosed.
+- Management says other partner brands (Hann Casino Resort, Newport World Resorts) could reach P100m monthly GGR before end-2026, the closest thing to guidance.
+
+### Content and margins
+
+**Exclusive content deals drive opex at 84.5% of revenue; we read the 15.4% group EBITDA margin as a ceiling, not a floor.**
+
+- Exclusive Philippine partnership with Pragmatic Play signed 9 Jul 2026 (rollout expected within Q3), followed by Games Global in August.
+- Group opex P374.5m (~$5.8m), 84.5% of revenue in Q3; total costs 86.7% in Q2, as content-provider fees and operator shares flow through PhilWeb's costs.
+- Margin rose 10% → 14.6% → 15.4% over three quarters, but increments are slowing.
+- We would want segment-level margins before capitalising growth at platform multiples.
+
+> “massive operating leverage” — Management
+
+### Disclosure gaps
+
+**No market share, actives, ARPU, take-rate, customer concentration or pipeline is disclosed; OKADA PLAY is almost certainly the majority of segment revenue.**
+
+- PAGCOR does not publish operator-level online GGR.
+- No monthly actives or ARPU at PhilWeb level, no take-rate, no contracted pipeline value.
+
+### JKS Tech
+
+**Pending JKS Tech deal would add a mass-market channel but contributed nothing in Q3; consolidation rather than equity accounting is now possible.**
+
+- JKS is the B2B platform behind the PAGCOR-listed Epic Game brand serving mid-market licensed operators.
+- Management is discussing an 'operational integration and control framework', raising the possibility of consolidating JKS.
+
+### Q4 outlook
+
+**We assume Q4 Digital revenue of roughly P360-400m (~$5.6-6.2m), +28-42% QoQ.**
+
+- Estimate anchored on October OKADA PLAY data and a second platform scaling.
+- November-December holiday seasonality in Philippine online gaming is a tailwind.
+
+| Digital Solutions, PHP m (~USD m at 64.2) | Q3-26 | QoQ | YoY | 9M-26 | 9M YoY |
+|---|---|---|---|---|---|
+| Segment revenue | 281.3 (~$4.4) | +40.5% (200.3) | n/m (nil) | 560.9 (~$8.7)¹ | n/m |
+| Share of group revenue | 63.5% | +670bps (56.8%) | +6,350bps (0%) | 54.5%¹ | n/m |
+| Quarterly cadence Q1 / Q2 / Q3-26 | 79.3¹ / 200.3 / 281.3 | Q2 +152% / Q3 +40.5% | — | — | — |
+| Hosted platform vs content distribution split | n/a (not disclosed) | — | — | n/a | — |
+| Segment EBITDA / margin | n/a (not disclosed) | — | — | n/a | — |
+| **Partner KPIs** | | | | | |
+| OKADA PLAY monthly GGR (Oct-26) | >100 (~$1.6) | +~50% MoM (Sep ~67¹) | launched May-26 | — | — |
+| OKADA PLAY daily active users (Oct-26) | >100,000 | n/a | — | — | — |
+| OKADA PLAY content library | 4,000+ titles / 20+ providers | — | — | — | — |
+| Named operator partners | Okada Manila, Hann Casino Resort, Newport World Resorts | — | — | — | — |
+| Exclusive content partners | Pragmatic Play (Jul-26), Games Global (Aug-26) | — | — | — | — |
+| Monthly actives / ARPU (PhilWeb level) | n/a (not disclosed) | — | — | — | — |
+| Take-rate / revenue share of partner GGR | n/a (not disclosed) | — | — | — | — |
+| Segment outlook (management) | Additional partner platforms to reach P100m (~$1.6m) monthly GGR before YE26; JKS earnings from closing | — | — | — | — |
+
+## 4. Segment deep-dive — Venue-based Operations (legacy service-provider and operator share income)
+
+*P161.6m (~$2.5m), -7.7% YoY but +6.2% QoQ; a shrinking, low-visibility cash tail that still provides 36.5% of revenue.*
+
+### Revenue trend
+
+**Venue-based revenue was P161.6m (~$2.5m), -7.7% YoY but +6.2% QoQ, still 36.5% of revenue.**
+
+- Q3-25 group revenue P175.2m (~$2.7m) was essentially entirely this business; Q2-26 was P152.1m (~$2.4m, derived).
+- Service-provider share income P82.1m (~$1.3m); operator share income P79.5m (~$1.2m).
+- Nine-month segment revenue down 12.4% to ~P467.5m (~$7.3m, derived); H1 service-provider -15.1%, operator share -14.3% YoY.
+- Q3 YoY decline of -7.7% is a meaningful deceleration in the rate of erosion.
+
+### Low visibility
+
+**The QoQ uptick should not be extrapolated given no venue, terminal or GGR-per-site disclosure.**
+
+- Unclear whether improvement reflects seasonality, slower closure cadence or improved win rates.
+- Q3-25 D&A and impairment ~P16.5m (derived) versus ~P4.3m in Q3-26; not stated whether related to venue assets.
+- FY25 total assets just P397.1m (~$6.2m); we assume venue estate largely written down and segment close to pure cash contribution, cost base not separated.
+
+### Strategy and risk
+
+**Segment is managed for cash, not growth, with risk that decline re-accelerates on regulatory shifts.**
+
+- Company frames venues as 'legacy operations' versus Digital Solutions as 'the new core business'; no plan to re-invest in physical venues.
+- Risk from PAGCOR's shift toward regulated online channels and integrated resorts, and lawmakers revisiting restrictions on venue-based eGames and online gambling.
+
+### Q4 outlook
+
+**We model Q4-26 venue revenue at roughly P155-162m (~$2.4-2.5m), flat to -4% QoQ.**
+
+- Implies structural annual decline in the high single digits to low teens.
+- Any upside treated as non-recurring.
+
+| Venue-based operations, PHP m (~USD m at 64.2) | Q3-26 | QoQ | YoY | 9M-26 | 9M YoY |
+|---|---|---|---|---|---|
+| Segment revenue | 161.6 (~$2.5) | +6.2% (152.1¹) | -7.7% (175.2) | 467.5 (~$7.3)¹ | -12.4% (533.8) |
+| Service-provider share income | 82.1 (~$1.3) | n/a | n/a | n/a | H1-26: -15.1% |
+| Operator share income | 79.5 (~$1.2) | n/a | n/a | n/a | H1-26: -14.3% |
+| Share of group revenue | 36.5% | -670bps (43.2%) | -6,350bps (100%) | 45.5%¹ | vs 100% |
+| Quarterly cadence Q1 / Q2 / Q3-26 | 153.7¹ / 152.1¹ / 161.6 | Q2 -1.0% / Q3 +6.2% | — | — | — |
+| Venue / terminal count | n/a (not disclosed) | — | — | — | — |
+| Segment EBITDA / margin | n/a (not disclosed) | — | — | n/a | — |
+| Impairments (group, derived) | within 4.3 D&A¹ | — | Q3-25 D&A+impairment 16.5¹ | — | — |
+| Segment outlook (management) | None given; described as legacy | — | — | — | — |
+
+## 5. Highlights & Lowlights
+
+**Highlights**
+
+- Digital Solutions revenue +40.5% QoQ to P281.3m (~$4.4m) and 63.5% of mix, with a linear three-quarter ramp (P79m → P200m → P281m) that looks like recurring revenue-share, not one-off integration fees. _(structural)_
+- Third consecutive profitable quarter and rising margins: EBITDA P68.4m (~$1.1m) at 15.4% (+80bps QoQ, +1,430bps YoY); net income P64.2m (~$1.0m) vs a P19.2m loss; 9M net income P125.2m (~$1.95m) vs -P61.0m. _(structural)_
+- OKADA PLAY crossed P100m (~$1.6m) monthly GGR and 100,000 DAU in October, ~+50% MoM, six months post-launch — hard evidence the platform model scales at a tier-one licensee. _(early)_
+- Balance sheet rebuilt: equity from -P254.5m (~-$4.0m) at Dec-25 to +P1.895bn (~$29.5m); cash P2.22bn (~$34.6m); no interest expense in the quarter. _(one-off)_
+- Governance upgraded to a credible anchor: Lance Gokongwei (JG Summit) invested P2.03bn (~$31.6m) personally and took the chair on 27-28 Aug 2026; management-led exit from the Araneta era completed. _(structural)_
+- Venue-based revenue stabilised sequentially (+6.2% QoQ to P161.6m / ~$2.5m) and the YoY decline narrowed to -7.7% from ~-15% in H1. _(mixed)_
+
+**Lowlights**
+
+- The P4.23bn (~$65.9m) JKS Tech commitment is nearly 2x cash on hand; net of JKS's P1.34bn (~$20.9m) treasury-share purchase it still implies ~P2.9bn (~$45m) of outflow against 9M EBITDA of P143m — further equity or debt is a near-certainty, and the circular share exchange (JKS buys PhilWeb at P16.50, PhilWeb buys JKS at P394 with no disclosed JKS valuation or ownership %) is poor optics. _(governance)_
+- Cost base is 85% of revenue: costs +99.7% YoY to P378.9m (~$5.9m), opex P374.5m (~$5.8m). This is an aggregation/pass-through model; the 15% EBITDA margin is the realistic ceiling at current scale, not a stepping-stone to software-like margins. _(structural)_
+- Net income ≈ operating income because of nil tax (NOLCO shield) and nil interest; a normalised ~25% tax rate would cut the 14.5% net margin to ~11%. The shield is finite. _(one-off)_
+- Legacy venue revenue still -7.7% YoY and -12.4% over 9M, with no venue count, segment margin or wind-down plan disclosed; it remains 36.5% of revenue. _(structural)_
+- Disclosure gaps for a platform story: no segment EBITDA, no EPS in the release, no take-rate, no customer concentration (OKADA PLAY is likely the majority of Digital revenue), no operating cash flow, no gross-debt figure, no numeric guidance. The 17-Q itself is not retrievable from PSE EDGE's dynamic portal. _(governance)_
+- Dilution and price anchoring: Gokongwei's P8.00 (~$0.12) entry sits 36% below the P12.50 (~$0.19) close, with 93.84m preferred still to convert; JKS's 81.38m shares (4.85%) add to the overhang. The PSE suspended trading on 8 Sep for substantial-acquisition disclosure. _(governance)_
+- Single-jurisdiction regulatory risk: the entire business depends on PAGCOR's B2B accreditation framework and the continued legality of licensed online gaming in the Philippines, where legislative proposals to restrict online gambling and e-wallet access have surfaced repeatedly. _(watch)_
+
+## 6. Forecast & Outlook
+
+There is no formal numeric guidance to bridge — PhilWeb has never issued one, and nothing changed with Q3. The forward markers are all qualitative and all come from the Digital Solutions division: (i) OKADA PLAY passed P100m (~$1.6m) monthly GGR and 100,000 DAU in October (+~50% MoM); (ii) management expects 'additional partner platforms' (Hann, Newport World Resorts are the named agreements) to reach the P100m monthly-GGR mark before end-2026; (iii) the JKS Tech investment is 'in the final stages of closing' and will add equity-accounted (or, if the 'control framework' discussions conclude that way, consolidated) earnings from closing — zero contribution in Q3. The venue segment carries no outlook. The moving parts for Q4 are therefore partner-GGR ramp, content-cost pass-through, the nil tax rate, and the timing/accounting of JKS.
+
+- **Numeric guidance (old → new):** None → None (unchanged; no FY26 revenue/EBITDA targets issued)
+- **Partner-platform milestone:** OKADA PLAY >P100m (~$1.6m) monthly GGR in Oct (new; further platforms targeted at P100m/month by YE26)
+- **JKS Tech earnings contribution:** Nil in Q3-26 (to begin from closing (Q4-26 at earliest); accounting basis TBD)
+- **Our FY26E (estimate):** Revenue ~P1.56bn (~$24m); EBITDA ~P230m (~$3.6m); NI ~P210m (~$3.3m) (vs FY25 revenue P659.4m / NI -P211.2m)
+
+**Q4-26 (our estimate, not guidance):** revenue ~P520-560m (~$8.1-8.7m), +17-26% QoQ, built from Digital ~P360-400m (+28-42% QoQ, anchored on OKADA PLAY's October run-rate and a second platform scaling into the holiday season) plus venue ~P155-162m (flat to -4%). EBITDA margin ~16-17% (P85-95m / ~$1.3-1.5m) as fixed platform costs are absorbed, but we do not model margin expansion beyond the high-teens given the 85% cost ratio. Net income ~P80-95m (~$1.2-1.5m) assuming the NOLCO shield persists. **FY26E:** revenue ~P1.55-1.59bn (~$24-25m), +135-140% YoY; EBITDA ~P228-238m (~$3.6-3.7m), ~15% margin; net income ~P205-220m (~$3.2-3.4m). **FY27 swing factors:** (1) JKS — if consolidated, group revenue could step up materially but with mass-market margins and minority leakage; if equity-accounted, a single below-the-line number with no transparency; (2) tax normalisation toward 25% once losses are exhausted; (3) venue revenue continuing to decline at ~8-12% p.a. **Leverage:** currently net cash (P2.22bn / ~$34.6m), but the ~P3.17bn (~$49m) of deferred JKS subscriptions will turn that negative by 1H27 without new equity — we expect another placement or a rights issue, and would treat any debt-funded structure as a red flag given 9M EBITDA of only P143m. **What would change our view:** disclosure of segment EBITDA and PhilWeb's take-rate on partner GGR (positive if >15% of GGR with margin >25%); a second platform at P100m/month by December (positive); any JKS valuation above ~10x its earnings or a related-party overlap with existing shareholders (negative); a Philippine policy move against licensed online gaming (negative).
+
+**What to watch next quarter:**
+
+- Q4-26 Digital Solutions revenue vs our ~P360-400m (~$5.6-6.2m) estimate and whether a second partner platform (Hann or Newport World Resorts) reaches P100m (~$1.6m) monthly GGR by December as management signalled.
+- JKS Tech closing terms: final ownership %, JKS's implied valuation at P394/share, whether PhilWeb consolidates or equity-accounts, settlement schedule for the ~P3.17bn (~$49m) deferred subscriptions, and how the gap vs P2.22bn (~$34.6m) cash is funded.
+- Margin structure: Q4 EBITDA margin vs 15.4% and any first disclosure of segment EBITDA / take-rate; content-cost pass-through from the Pragmatic Play and Games Global exclusives.
+- Tax line: when the NOLCO shield expires and net income converges to ~75% of pre-tax; FY26 17-A (due ~April 2027) for the audited cash-flow statement and gross-debt figure.
+- Venue-based decline rate (we assume -8 to -12% p.a.) and any impairment of remaining venue assets.
+- Philippine regulatory calendar: PAGCOR B2B framework changes, legislative proposals on online gambling/e-wallet restrictions, and any PSE follow-up on the September substantial-acquisition suspension.
+- Dilution events: conversion of Gokongwei's 93.84m redeemable preferred shares, issuance of the 81.38m treasury shares to JKS, and any new placement to fund JKS.
+
+### Sources
+
+**Data confidence: MEDIUM.** FX: PHP 64.2/USD as of 13 Nov 2026, implied from the identical conversions used by GGRAsia and Focus Gaming News on the release day (P443.0m = US$6.9m; P2.22bn = US$34.6m; P19.2m = US$299,065); a direct BSP reference quote could not be retrieved before the research-tool budget was exhausted, so treat USD figures as approximate (~). All Q3-26 P&L and balance-sheet figures are as reported in the SEC Form 17-Q and were cross-checked across six outlets (GGRAsia, Focus GN, Inquirer, Manila Times, Asean Gaming, iGamingToday) and reconciled to PSE EDGE Q2-26/FY25 data: 9M revenue (P585.4m + P443.0m = P1,028.4m, +92.7%), 9M net income (P61.0m + P64.2m = P125.2m), 9M EBITDA (P75.0m + P68.4m = P143.4m) and the equity bridge (-P193.5m + P64.2m + P2,027m ≈ P1,898m vs P1,895m reported) all tie. The primary 17-Q PDF could not be opened (PSE EDGE disclosures load dynamically) and the user-supplied Gaming Intelligence URL was not fetchable, so the press release wording is relayed via secondary coverage. Figures marked ¹ are derived by subtraction/ratio from reported numbers; ² Q3 EPS was not in any coverage reviewed and is left n/a (Q2 P0.03, H1 P0.04 per PSE EDGE); ³ Jun-26 cash is bounded by current assets of P265.0m. Not verified: gross debt, operating cash flow, segment EBITDA, share count post-issuances, JKS ownership %, and the exact size of the 30 Oct treasury-share completion (one outlet described it as ~US$15m, which does not match the full P1.34bn tranche). Note one source discrepancy: Focus GN cites Q2 EBITDA as P47.0m (that is Q2 net income); the company's Q2 release and Manila Times give P51.5m, which we use.
+
+1. [Primary] PSE EDGE — PhilWeb Corporation Financial Reports page (FY25 audited and Q2-26 17-Q summary data; fiscal year-end 31 Dec) — https://edge.pse.com.ph/companyPage/financial_reports_view.do?cmpy_id=122
+2. [Primary] PhilWeb Corporation — Q2 2026 results press release, PR Newswire, 11 Aug 2026 (Q1/Q2 segment, EBITDA and margin data) — https://www.prnewswire.com/news-releases/philweb-q2-net-income-surges-237-q-q-on-digital-gaming-solutions-growth-and-ai-pilot-302847989.html
+3. [Primary] PhilWeb Corporation — Pragmatic Play exclusive partnership release, PR Newswire, 9 Jul 2026 — https://www.prnewswire.com/news-releases/philweb-secures-exclusive-partnership-with-pragmatic-play-expanding-tech-enabled-gaming-services-in-the-ph-302821625.html
+4. [Secondary] Gaming Intelligence — 'Strong third quarter for PhilWeb as revenue soars 153%', 16 Nov 2026 (user-supplied; not fetchable, headline only) — https://www.gamingintelligence.com/finance/238695-strong-third-quarter-for-philweb-as-revenue-soars-153/
+5. [Secondary] GGRAsia — 'PhilWeb swings to US$1mln profit in 3Q as revenue more than doubles', 13 Nov 2026 (cites the 17-Q) — https://www.ggrasia.com/philweb-swings-to-us1mln-profit-in-3q-as-revenue-more-than-doubles
+6. [Secondary] Focus Gaming News Asia Pacific — 'PhilWeb records 152.9% Q3 revenue growth on digital expansion', 13 Nov 2026 (full P&L, 9M and cash detail) — https://focusgn.com/asia-pacific/philweb-records-152-9-q3-revenue-growth-on-digital-expansion
+7. [Secondary] Philippine Daily Inquirer — 'PhilWeb Q3 profit climbs 36% to P64.2M', 14 Nov 2026 (equity P1.895bn, OKADA PLAY, JKS status) — https://business.inquirer.net/620765/philweb-q3-profit-climbs-36-to-p64-2m
+8. [Secondary] Manila Times via Newswav — 'PhilWeb revenue up 153%; B2B solutions drive growth', 14 Nov 2026 (Q2 EBITDA P51.5m, margins, share price close P12.50 +2.46%, Brian Ng quote) — https://newswav.com/article/philweb-revenue-up-153-b2b-solutions-drive-growth-A2611_OfNqAA
+9. [Secondary] Asean Gaming — 'PhilWeb 3Q26 revenue jumps 153% on digital services growth', 15 Nov 2026 — https://aseangaming.com/news/philippines/15/11/2026/philweb-3q26-revenue-jumps-153-on-digital-services-growth/
+10. [Secondary] iGamingToday — 'PhilWeb Returns to Q3 Profit as Digital Solutions Drive 152.9% Revenue Growth', 15 Nov 2026 (costs P378.9m / opex P374.5m) — https://www.igamingtoday.com/philweb-returns-to-q3-profit-as-digital-solutions-drive-152-9-revenue-growth/
+11. [Secondary] GGRAsia — 'Okada Manila says its Okada Play online platform had US$1.6mln-plus GGR in October', 4 Nov 2026 (joint TRLEI/PhilWeb statement) — https://www.ggrasia.com/okada-manila-says-its-okada-play-online-platform-had-us1-6mln-plus-ggr-in-october-best-month-since-may-launch
+12. [Secondary] Daily Tribune — 'OKADA PLAY achieves 50% growth in October, surpasses P100M monthly revenue', 4 Nov 2026 (4,000+ titles, 20+ providers, YE26 platform outlook) — https://tribune.net.ph/2026/11/04/okada-play-posts-50-growth-in-october
+13. [Secondary] BusinessWorld — 'PhilWeb, unit invest P4.23 billion in Epic Game administrator JKS Tech', 8 Sep 2026 (subscription terms, staged payments) — https://bworldonline.com/corporate/2026/09/08/775207/philweb-unit-invest-p4-23-billion-in-epic-game-administrator-jks-tech/
+14. [Secondary] Manila Times — 'PhilWeb to invest P4.23B in digital infra company', 9 Sep 2026 (treasury share sale 81.38m at P16.50; PhilWeb P335.7m initial payment) — https://www.manilatimes.net/2026/09/09/business/corporate-news/philweb-to-invest-p423b-in-digital-infra-company/2420936
+15. [Secondary] BusinessWorld — 'PhilWeb shares rise after JKS investment disclosure', 14 Sep 2026 (PSE suspension 8 Sep) — https://bworldonline.com/corporate/2026/09/14/776697/philweb-shares-rise-after-jks-investment-disclosure/
+16. [Secondary] Philstar — 'Gokongwei invests P2.02 billion in PhilWeb', 25 Jun 2026 (159.53m common + 93.84m preferred at P8.00) — https://www.philstar.com/business/2026/06/25/2537557/gokongwei-invests-p202-billion-philweb
+17. [Secondary] Inquirer — 'Lance Gokongwei elected PhilWeb chair', 28 Aug 2026 (common tranche closed 27 Aug; 15% stake incl. preferred) — https://business.inquirer.net/608090/lance-gokongwei-elected-philweb-chair
+18. [Secondary] Yogonet — 'PhilWeb appoints Lance Gokongwei chairman', 31 Aug 2026 (Alcid steps down as chair/CEO) — https://www.yogonet.com/international/news/2026/08/31/126162-philweb-appoints-lance-gokongwei-chairman-to-advance-ai-strategy
+19. [Secondary] AGBrief — 'PhilWeb 2Q26 revenue jumps 96% YoY', 11 Aug 2026 (H1 venue share-income declines -15.1% / -14.3%; H1 EBITDA P75.0m vs P2.2m) — https://agbrief.com/intel/11/08/2026/philweb-2q26-revenue-jumps-96-yoy-swings-to-769000-profit/
+20. [Secondary] Focus Gaming News — 'Lance Gokongwei to buy 15% stake in PhilWeb', 24 Jun 2026 (management buyout from Araneta; PAGCOR B2B accreditation; Q1-26 NI P13.9m) — https://focusgn.com/asia-pacific/lance-gokongwei-to-invest-php2-billion-in-philweb-gaming-technology-provider
+
+*Research analysis only — not a rating, price target, or personalised investment advice.*

@@ -1,0 +1,323 @@
+# Codere Online Luxembourg, S.A. (CDRO) — Q3 2026 Analyst Report
+** · Reporting currency: EUR (tables in millions; USD equivalents at EUR/USD ~1.10 shown with "~") · Results released 12 Nov 2026**
+**Market reaction:** Shares opened firmer on the print (+1.4% to $8.80 intraday vs an $8.68 close on 11 Nov) but faded to close around $8.54 (~-1.6%) on 12 Nov and slipped a further ~2% to ~$8.35 on 13 Nov [closing levels taken from secondary quote snapshots (Motley Fool, CNN Markets) — not verified against exchange data]. The stock sits in the upper half of its 52-week range ($5.18-$10.26 per Investing.com).
+
+> A flattered beat: Q3-26 revenue +31% to €62.6m (~$68.9m) and Gaming Win +30% to €67.1m (~$73.8m) were helped by a World Cup July, a ~7pt peso tailwind (cc +23%) and a Mexico engine that is growing GW 39% but earning only €1.7m (~$1.9m) of Adj. EBITDA after the IEPS step-up. Guidance (€255-265m GW / €20-25m Adj. EBITDA) was reiterated rather than raised, Q4 was guided to single-digit growth against a €60.7m comp, and the regulatory calendar (Spain deposit limits, Colombia VAT) plus the parent's break-up sale process means the February 2027 outlook, not this print, decides the thesis.
+
+## 1. Executive Summary
+
+- **Headline beat on growth, modest on profit:** Q3-26 revenue €62.6m (~$68.9m), +31% YoY; Gaming Win (GW) €67.1m (~$73.8m), +30% (+23% constant currency); Adj. EBITDA €4.2m (~$4.6m), +45% (6.7% of revenue, +60bps YoY but -230bps QoQ); IFRS net income €5.5m (~$6.1m) vs €1.4m. The only consensus marker available (Investing.com, ~€61.8m revenue) implies a ~1% revenue beat [consensus basis unverified].
+- **Mexico did the heavy lifting:** Mexico GW +39% to €37.2m (~$40.9m) (+26% cc), now 55% of group GW vs 52% a year ago; Spain +13% to €24.8m (~$27.3m); Other (Colombia/Panama/Buenos Aires) +86% to €5.2m (~$5.7m) on the lapping of Colombia's 2025 19% deposit VAT.
+- **Guidance reiterated, not raised — but 'upper part' flagged:** FY26 GW €255-265m (~$280-292m) and Adj. EBITDA €20-25m (~$22-27.5m), unchanged from the July upgrade (from €235-245m / €15-20m set in February). CFO now points to the upper part of the GW range. Implied Q4 GW €54-64m vs €60.7m (~$66.8m) in Q4-25, i.e. -11% to +5%; management explicitly guided Q4 to 'single-digit' growth. Implied Q4 Adj. EBITDA €3.9-8.9m vs €6.7m.
+- **Three named Q4 headwinds:** (i) no World Cup lift (July was 'exceptional'; Aug/Sep slowed, with the international break), (ii) the peso has 'given back most of this year's gains' against the euro since quarter-end, (iii) transition friction from Spain's new identification/deposit rules. CEO: 'we continue to be conservative.'
+- **World Cup quantified (from Q2 disclosure):** stakes €63m (~$69.3m), +180% vs WC2022; unique users +56% vs 2022 (ex-Colombia); ~40k new customers around the event; NGR >2x 2022 despite a low sports margin. All five Codere Online markets had teams; Spain won. Q3 captured the knockout stages/final (July).
+- **Growth is ARPU-led, not volume-led:** actives 166.8k, +5% YoY but -3.6% QoQ; spend per active €134/month (~$147), +24%. FTDs 91k (+7% on a tough comp) from ~251k registrations (36% conversion); CPA €209 (~$230) in-quarter, LTM ~€196 (~$216), described as stable. Casino 67% / sports 33% of GW. Note: Investing.com's '+50% actives' is an error — the company reports +5%.
+- **Cost base: taxes and marketing outgrew revenue, everything else lagged:** opex +29%; marketing €25.2m (~$27.7m), +37% (40.3% of revenue, +170bps YoY; 37.6% of GW); gaming taxes €13.6m (~$15.0m), +55% (21.7% of revenue, +330bps) on Mexico's IEPS rising from 30% to 50% from January 2026; platform & content +~10%; personnel +13%.
+- **Segment profitability diverges sharply:** Spain Adj. EBITDA €7.2m (~$7.9m), +24%, 29.0% margin (+~260bps); Mexico €1.7m (~$1.9m), -15%, 5.2% margin (-320bps) on tax and marketing timing; B2C Adj. EBITDA €9.6m (~$10.6m), +23% (9M €32.1m, +50%; LTM €43.6m, +59%); unallocated central costs ~-€5.4m (derived) vs ~-€4.9m. Spain is 75% of B2C EBITDA on 37% of GW.
+- **Earnings quality needs a second look:** IFRS EBITDA actually fell to €2.9m (~$3.2m) from €3.2m; the Adj. EBITDA bridge adds back €1.4m of LTIP expense in Q3 and €7.6m (~$8.4m) in 9M (≈47% of 9M Adj. EBITDA of €16.1m). Q3 net income includes a €3.4m (~$3.7m) non-cash gain on the warrant liability and €0.3m net interest income; ex-warrant NI ≈ €2.1m.
+- **Balance sheet is clean and cash converts:** total cash €65.6m (~$72.2m), of which €61.0m (~$67.1m) available (€4.6m reserved); no financial debt; NWC -€24.5m (~-$27.0m), structural; Q3 cash flow €3.0m (~$3.3m), 9M €16.4m (~$18.0m) ≈ 9M Adj. EBITDA €16.1m (~100% conversion). Cash up from €50.0m at Dec-25 and €62.6m at Jun-26. Warrant liability €2.1m; the 6.4m public warrants expire end-November 2026, removing P&L FV noise.
+- **Reporting change forced by the SEC:** following SEC staff review of the 2025 Form 20-F (now completed), 'Net Gaming Revenue' is renamed 'Gaming Win' and presented as a key operating metric rather than a revenue measure; historical amounts unchanged; guidance on the same basis. The SEC correspondence is to be made public — a governance item to read when it lands.
+- **NFL Mexico partnership:** multi-year Official Betting Partner of the NFL in Mexico (announced 10 Sep), including the NFL Mexico City Game on 22 Nov and Super Bowl LXI (Feb-27), with hospitality/VIP activations. Cost is inside guidance; CEO was candid that brand payback takes 'a couple of more seasons' — no near-term revenue effect modelled.
+- **Spain regulatory calendar is the 2027 swing factor:** nominative payment methods apply to new customers from end-October 2026 and to existing customers from April 2027; cross-operator joint deposit limits from March 2027 (Royal Decree 520/2026; defaults €700/day, €1,750/week, €3,300/4 weeks). CEO already sees an AML-driven slowdown in FTD acquisition; management frames limits as adjustable defaults and will 'educate' VIPs, and argues the rules favour scaled incumbents.
+- **Colombia VAT risk is back:** the 19% VAT on deposits that applied in 2025 could be reinstated in 2027, potentially for the full year (Bill 477 talks). CEO would revert to 'cash flow zero', keep the licence, cut investment and accept lower revenue; no exit. Other-segment GW (€15.3m 9M) is the exposure.
+- **Marketing stays heavy:** FY26 marketing to land in the 'high 90s, close to €100m' (~$110m) vs €86m (~$94.6m) in FY25 (of which €3-4m is peso translation); 2027 planned at a similar euro level with a lower % of GW. CEO: 'I'm fighting for marketing money.' This caps 2027 margin expansion to what GW growth delivers.
+- **Corporate overhang — parent break-up:** Codere Group (majority owner) hired Jefferies and Macquarie in March for a >€2bn (~$2.2bn) sale; with limited interest, Expansión (2 Nov) reports owners are exploring separate sales of the European, LatAm and listed online businesses. Grupo Codere Q3: gaming revenue +6% to €344m (~$378m), Adj. EBITDA +39% to €65.4m (~$72m). Change-of-control and minority-treatment risk is live.
+- **Optionality, not yet capital:** prediction markets (US Hispanic angle) 'nothing concrete'; Uruguay online regulation 'getting closer' (the same answer as a year ago); Brazil deliberately passed; board (Moshe Edree) stressed caution on new markets. Nothing here belongs in numbers yet.
+- **Thesis read-through:** the structural story (Spain operating leverage, 100% cash conversion, net cash) is intact, but Q3's +30% overstates the run-rate (cc +23%, World Cup, FX). Mexico's 50% tax means volume growth there is low-margin until marketing/GW falls; 2027 depends on Spain deposit limits and Colombia VAT. At ~$8.5/share the equity is ~€362m market cap / ~€296m EV (~$326m), ≈13x FY26E Adj. EBITDA midpoint and ~1.1x GW [estimates].
+
+## 2. Group Financial Summary
+
+| EUR m (USD ~ at 1.10) | Q3-26 | QoQ | YoY | 9M-26 | 9M YoY |
+|---|---|---|---|---|---|
+| **Revenue (IFRS) by segment** | | | | | |
+| Spain | 24.8 (~$27.3) | -10.1% | +13% | 77.9 (~$85.7) | +18% |
+| Mexico | 32.9 (~$36.2) | +3.5% | +37% | 95.1 (~$104.6) | +22% |
+| Other (Colombia, Panama, Buenos Aires) | 4.9 (~$5.4) | -2.0% | n.m. (vs 1.6) | 14.3 (~$15.7) | +52% |
+| Total revenue | 62.6 (~$68.9) | -2.8% | +31% | 187.3 (~$206.0) | +22% |
+| **Gaming Win (key operating metric, non-IFRS)** | | | | | |
+| Spain | 24.8 (~$27.3) | -10.1% | +13% | 77.9 (~$85.7) | +18% |
+| Mexico | 37.2 (~$40.9) | +3.0% | +39% (+26% cc) | 107.8 (~$118.6) | +25% |
+| Other | 5.2 (~$5.7) | -8.8% | +86% | 15.3 (~$16.8) | +39% |
+| Total Gaming Win | 67.1 (~$73.8) | -3.3% | +30% (+23% cc) | 201.0 (~$221.1) | +23% |
+| Casino (67% of GW) [derived] | ~45.0 (~$49.5) | n/a | n/a | n/a | n/a |
+| Sports betting (33% of GW) [derived] | ~22.1 (~$24.3) | n/a | n/a | n/a | n/a |
+| **Adj. EBITDA (non-IFRS)** | | | | | |
+| Spain | 7.2 (~$7.9) | n/a | +24% (vs ~5.8) | n/a | n/a |
+| Mexico | 1.7 (~$1.9) | n/a | -15% (vs 2.0) | 8.2 (~$9.0) | +128% (vs 3.6) |
+| Other [derived: B2C less Spain, Mexico] | ~0.7 (~$0.8) | n/a | vs ~0.0 | n/a | n/a |
+| B2C Adj. EBITDA | 9.6 (~$10.6) | n/a | +23% | 32.1 (~$35.3) | +50% |
+| Unallocated central costs [derived] | (5.4) (~-$5.9) | n/a | vs (4.9) | (16.0) (~-$17.6) | vs (14.3) |
+| Group Adj. EBITDA | 4.2 (~$4.6) | -27.6% | +45% | 16.1 (~$17.7) | +127% (vs 7.1) |
+| Adj. EBITDA margin (% revenue) | 6.7% | -230bps | +60bps | 8.6% | +400bps |
+| Adj. EBITDA margin (% Gaming Win) | 6.3% | -210bps | +60bps | 8.0% | +370bps |
+| **IFRS P&L** | | | | | |
+| EBITDA (IFRS-derived, pre-LTIP add-back) | 2.9 (~$3.2) | +61% (vs 1.8) | -9% (vs 3.2) | 8.5 (~$9.4) | +31% (vs 6.5) |
+| Employee LTIP expense (added back) | 1.4 (~$1.5) | vs 3.9 | vs (0.2) | 7.6 (~$8.4) | vs (0.5) |
+| Warrant fair-value gain/(loss) | 3.4 (~$3.7) | vs (1.7) | vs 0.4 | 2.3 (~$2.5) | vs (1.5) |
+| Net interest income/(expense) | 0.3 (~$0.3) | vs (0.3) | vs (1.4) | 2.9 (~$3.2) | vs (4.4) |
+| Net income/(loss) | 5.5 (~$6.1) | vs (1.4) | vs 1.4 | 11.1 (~$12.2) | vs (1.7) |
+| Diluted EPS (IFRS) Share count inferred from Investing.com market cap ($397.9m at $8.80); EPS not reported by the company in the release. | n/a — not disclosed in release; est. ~€0.12 (~$0.13) on ~45.2m shares [estimate] | n/a | n/a | est. ~€0.25 (~$0.27) [estimate] | n/a |
+| **Operating costs (management view)** | | | | | |
+| Marketing | 25.2 (~$27.7) | n/a | +37% (vs 18.4) | ~76 (~$83.6) [analyst figure on call, unverified] | n/a |
+| Marketing % revenue / % GW | 40.3% / 37.6% | n/a | +170bps / +190bps | ~40.6% / ~37.8% | n/a |
+| Gaming taxes | 13.6 (~$15.0) | n/a | +55% (vs ~8.8) | n/a | n/a |
+| Gaming taxes % revenue | 21.7% | n/a | +330bps | n/a | n/a |
+| Platform & content / Personnel (growth) | n/a (abs.) | n/a | +~10% / +13% | n/a | n/a |
+| **Group KPIs** | | | | | |
+| Avg monthly active players (000s) | 166.8 | -3.6% | +5% | 174.4 | +10% |
+| Spend per active (€/month) [derived GW/actives] | 134 (~$147) | +0.3% | +24% | 128 (~$141) | +12% |
+| First-time depositors (000s) | 91 | n/a | +7% | n/a | n/a |
+| Registrations (000s) / conversion | ~251 / 36% | n/a | n/a | n/a | n/a |
+| CPA (€) in-quarter / LTM | 209 (~$230) / ~196 (~$216) | n/a | LTM 'stable' | n/a | n/a |
+| **Cash flow & balance sheet** | | | | | |
+| Cash flow from operations | 3.0 (~$3.3) | vs 7.0 | n/a | 16.5 (~$18.2) | n/a |
+| Period cash flow (change in cash) | 3.0 (~$3.3) | vs 6.9 | n/a | 16.4 (~$18.0) | n/a |
+| Total cash | 65.6 (~$72.2) | +4.8% (vs 62.6) | n/a | vs 50.0 at Dec-25 | n/a |
+| Available cash (ex €4.6m reserved) | 61.0 (~$67.1) | n/a | n/a | n/a | n/a |
+| Financial debt / net cash | 0 / net cash 65.6 (~$72.2) | n/a | n/a | n/a | n/a |
+| Net working capital | (24.5) (~-$27.0) | 'in line with recent quarters' | n/a | n/a | n/a |
+| Warrant liability (6.4m public warrants, expire end-Nov-26) | 2.1 (~$2.3) | n/a | n/a | n/a | n/a |
+| Leverage (net debt / Adj. EBITDA) | n/a — net cash | n/a | n/a | n/a | n/a |
+
+## 3. Segment deep-dive — Spain
+
+*The profit engine: +13% GW, Adj. EBITDA +24% to €7.2m at a 29% margin — but Q4/2027 carries the full weight of the new deposit and identification regime.*
+
+### Revenue and Gaming Win
+
+**Spain revenue and GW (identical, no IFRS adjustments) rose 13% to €24.8m (~$27.3m), with actives +5% and spend per active +7%.**
+
+- Average monthly actives up 5% to 52.8k; spend per active up 7% to roughly €157/month (~$172) on our derivation.
+- Sequentially softer: GW fell 10% from the Q2 World Cup record of €27.6m (~$30.4m), actives slipped 3%, spend per active fell 7%.
+- CFO described an 'exceptional' July (Spain won the tournament) followed by an August/September lull and the international break.
+- Nine-month GW up 18% to €77.9m (~$85.7m), actives up 10% to 55.4k; first-half run-rate materially stronger than Q3.
+- Spain's share of group GW slipped to 37% from 43% a year ago purely because Mexico outgrew it.
+
+### Profitability
+
+**Adj. EBITDA was €7.2m (~$7.9m), up 24%, at a 29.0% margin versus ~26.4% a year ago (+~260bps).**
+
+- Implies a Q3-25 base of ~€5.8m.
+- Spain generates 75% of B2C Adj. EBITDA of €9.6m (~$10.6m) on 37% of GW.
+- Spain funds the marketing push in Mexico and the ~€5.4m of unallocated central costs.
+- Market share not disclosed and we would not infer one; regulated Spanish online market GGR was €539m in Q2-26, +31% YoY (DGOJ data cited by CasinoBeats).
+- Codere's +13% in Q3 (and +25% in Q2) is not obviously outgrowing the market. Market share: n/a.
+
+### Regulatory calendar
+
+**New deposit and identification regime is the issue the market will price; we are less sanguine than management given ARPU-led growth.**
+
+- Nominative payment methods and new identification rules apply to new customers from end of October 2026, extending to existing customers in April 2027.
+- Cross-operator joint deposit limits take effect March 2027 under Royal Decree 520/2026: defaults €700/day, €1,750/week and €3,300 per four weeks.
+- CEO reports an AML-related slowdown in FTD acquisition he expects technology to resolve 'in the next few months'.
+- Executives argued limits are defaults customers can raise, players will lift them or migrate, VIP account managers will 'educate' the top tier, and changes favour scaled incumbents.
+- Spain's growth is ARPU-led (spend per active +7%) and the regime targets the high-value cohort; management cited 'transition effects' as one of three reasons Q4 growth slows to single digits.
+
+> “in the next few months” — CEO
+
+### Outlook
+
+**No segment guidance, but implied Q4 message is flat-to-low-single-digit growth against a Q4-25 comp we estimate at ~€24m.**
+
+- Comp derivation: FY25 Spain-plus-Other NGR of €105.0m less 9M-25 €77.1m leaves ~€27.9m for the two combined.
+- For 2027 we would model Spain GW growth in the low single digits with margin holding near 28-30%.
+- April 2027 (existing-customer nominative payments) is the quarter where friction peaks.
+- Reporting relabel matters least here: with no accounting adjustments, IFRS revenue and Gaming Win are the same number.
+
+| Spain — EUR m (USD ~ at 1.10) | Q3-26 | QoQ | YoY | 9M-26 | 9M YoY |
+|---|---|---|---|---|---|
+| Revenue (IFRS) | 24.8 (~$27.3) | -10.1% | +13% | 77.9 (~$85.7) | +18% |
+| Gaming Win | 24.8 (~$27.3) | -10.1% | +13% | 77.9 (~$85.7) | +18% |
+| Avg monthly actives (000s) | 52.8 | -2.9% | +5% | 55.4 | +10% |
+| Spend per active (€/month) [derived] | ~157 (~$172) | -7.4% | +7% | ~156 (~$172) | +7% |
+| Adj. EBITDA | 7.2 (~$7.9) | n/a | +24% (vs ~5.8) | n/a | n/a |
+| Adj. EBITDA margin (% revenue) | 29.0% | n/a | +~260bps | n/a | n/a |
+| Share of group GW | 37% | vs 40% | vs 43% | 39% | vs 40% |
+| Share of B2C Adj. EBITDA | 75% | n/a | vs ~74% | n/a | n/a |
+| Sports handle / net margin / promo % handle | n/a (not disclosed) | n/a | n/a | n/a | n/a |
+
+## 4. Segment deep-dive — Mexico
+
+*Volume and FX engine, not yet a profit engine: GW +39% (+26% cc) to €37.2m with spend per active +43%, but Adj. EBITDA fell 15% to €1.7m as the IEPS step-up to 50% and marketing absorbed the growth.*
+
+### Growth and FX
+
+**Revenue rose 37% to €32.9m (~$36.2m) and GW 39% to €37.2m (~$40.9m); constant-currency GW grew 26%, so the peso added roughly 13 points.**
+
+- Only segment to grow sequentially (GW +3% vs €36.1m in Q2); unbroken climb from €26.8m in Q3-25 through €32.8m, €34.6m, €36.1m to €37.2m.
+- LTM GW €140.6m (~$154.7m), +26%.
+- Actives fell 3% YoY to 85.6k (and 3% QoQ); spend per active rose 43% to ~€145/month (~$159), +6% QoQ.
+- Management calls this a deliberate focus on 'customer quality'; a sceptic would call it rising VIP concentration on a white-label platform.
+- ~€4.3m gap between GW and IFRS revenue is the Mexico-specific accounting adjustment (revenue/GW ratio 88%, broadly stable).
+
+### Profitability and taxes
+
+**Adj. EBITDA fell 15% to €1.7m (~$1.9m) from €2.0m, a 5.2% revenue margin (-320bps) or 4.6% of GW.**
+
+- CFO attributed the decline to higher gaming taxes and higher marketing 'due to timing of certain provisions and expenses'.
+- Group gaming taxes rose 55% to €13.6m (~$15.0m), mainly because Mexico's IEPS rate rose from 30% to 50% from 1 January 2026.
+- Nine-month Adj. EBITDA €8.2m (~$9.0m) vs €3.6m; LTM €12.2m (~$13.4m) vs €2.7m.
+- Mexico contributes just 18% of B2C Adj. EBITDA on 55% of GW.
+- Until the marketing-to-GW ratio falls, each incremental peso of GW is taxed at 50% before marketing, structurally limiting drop-through.
+
+> “the tax increase in Mexico in place since January” — CFO
+
+### Marketing and NFL
+
+**Marketing is being spent for brand, not just CPA, via a multi-year NFL Official Betting Partner deal announced 10 September.**
+
+- Deal includes sponsorship of the NFL Mexico City Game on 22 November (49ers v Vikings) and Super Bowl LXI in February 2027, plus hospitality, VIP experiences, activations and merchandise rights.
+- Spend is inside current guidance; CEO declined to quantify the Q4 versus Q1-27 split.
+- Product cadence continues with a '99 Royale' launch with G Games in October.
+- Market-sizing slide shows Mexican online market at €2,457m in 2025A, €4,267m by 2028E and €5,667m by 2030E; against LTM GW of ~€141m implies mid-single-digit share [derived, indicative only].
+
+> “takes time, maybe this season, the next season” — CEO
+
+### Q4 set-up
+
+**We estimate reported Mexico GW growth of roughly 4-8% in Q4 (~€34-35m), underpinning the group's 'single-digit' message.**
+
+- CFO said the peso 'has already given back most of this year's gains against the euro since the end of the quarter'.
+- Comp is Q4-25 Mexico GW of €32.8m, which itself grew 31%.
+- CFO is 'a little bit more conservative... in terms of FX, in terms of margin, a little bit on sports' for Q4.
+- Our arithmetic: constant-currency growth in the mid-to-high teens with flat-to-negative FX contribution.
+- 2027 questions: whether actives can be re-grown without diluting ARPU, and whether the 50% IEPS rate is the final word.
+
+> “has already given back most of this year's gains against the euro since the end of the quarter” — CFO
+
+| Mexico — EUR m (USD ~ at 1.10) | Q3-26 | QoQ | YoY | 9M-26 | 9M YoY |
+|---|---|---|---|---|---|
+| Revenue (IFRS) | 32.9 (~$36.2) | +3.5% | +37% | 95.1 (~$104.6) | +22% |
+| Gaming Win | 37.2 (~$40.9) | +3.0% | +39% | 107.8 (~$118.6) | +25% |
+| Gaming Win growth, constant currency | +26% | n/a | vs +39% reported | n/a | n/a |
+| Revenue / Gaming Win ratio | 88% | vs 88% | vs 90% | 88% | vs 90% |
+| Avg monthly actives (000s) | 85.6 | -2.9% | -3% | 90.7 | +6% |
+| Spend per active (€/month) [derived] | ~145 (~$159) | +6.2% | +43% | ~132 (~$145) | +17% |
+| Adj. EBITDA | 1.7 (~$1.9) | n/a | -15% (vs 2.0) | 8.2 (~$9.0) | +128% (vs 3.6) |
+| Adj. EBITDA margin (% revenue / % GW) | 5.2% / 4.6% | n/a | -320bps / -290bps | 8.6% / 7.6% | +400bps / +340bps |
+| LTM Gaming Win / LTM Adj. EBITDA | 140.6 (~$154.7) / 12.2 (~$13.4) | n/a | +26% / vs 2.7 | n/a | n/a |
+| Share of group GW | 55% | vs 52% | vs 52% | 54% | vs 53% |
+| Sports handle / net margin / promo % handle | n/a (not disclosed) | n/a | n/a | n/a | n/a |
+
+## 5. Segment deep-dive — Other (Colombia, Panama, City of Buenos Aires)
+
+*Rebound off a tax-depressed base: GW +86% to €5.2m as Colombia's 2025 deposit VAT lapsed and Panama kept compounding — but the VAT may be back for 2027.*
+
+### Rebound off low base
+
+**Revenue of €4.9m (~$5.4m) vs €1.6m and GW of €5.2m (~$5.7m), up 86%, flattered by the lapse of Colombia's 2025 deposit VAT.**
+
+- Actives up 37% to 28.4k; spend per active up 35% to ~€61/month (~$67).
+- In 2025 Colombian customers faced a 19% VAT on deposits, leaving Q3-25 revenue at barely half of GW once levies were netted.
+- With the tax gone earlier in 2026 the company re-invested and, per the CEO, 'bounced back quite nicely'.
+- Sequentially softer: GW -9% vs €5.7m in Q2, actives -7%, partly World Cup roll-off.
+- Nine-month GW €15.3m (~$16.8m), +39%, on 28.4k actives (+26%).
+
+> “bounced back quite nicely” — CEO
+
+### Profitability and markets
+
+**Other Adj. EBITDA is not disclosed but derives to roughly €0.7m (~$0.8m) versus about breakeven a year ago [derived, subject to rounding].**
+
+- Derived by deducting Spain (€7.2m) and Mexico (€1.7m) from B2C Adj. EBITDA of €9.6m.
+- Panama performed 'very well' for several quarters after additional payment methods were added, in a stable regulatory and tax environment; market is small with a cap on share.
+- Buenos Aires results carry IAS 29 hyperinflation adjustments stripped out of Adj. EBITDA.
+- Presentation sizes markets at €488m (Colombia), €29m (Panama) and €820m (Argentina) for 2025A, growing to €695m, €91m and €2,106m by 2030E [company slide, source not stated].
+
+> “I wish we had more Panamas” — CEO
+
+### Colombia VAT risk
+
+**Colombia may reinstate the 19% deposit VAT for 2027, potentially full-year, which would likely remove a few million of GW from 2027.**
+
+- CEO called it 'very unfortunate' given the company had just scaled back up.
+- Playbook: revert to 'cash flow zero', maintain the licence, cut investment, lobby for mitigation, accept 'some decrease in the revenues over there'. Exit is ruled out.
+- Colombia is the bulk of a segment running at ~€20m of annualised GW; full-year reinstatement would likely return the segment toward its 2025 trajectory.
+- EBITDA impact is small in absolute terms but growth optics matter for a company guiding to double-digit GW growth.
+
+> “very unfortunate” — CEO
+
+### Expansion
+
+**Management was consistent and cautious on new markets; none of this belongs in forecasts yet.**
+
+- Uruguay remains 'getting closer' on Codere Group's retail presence and government dialogue, but CEO conceded it is 'the same answer I could give you a year ago'.
+- Board member Moshe Edree said the company deliberately passed on Brazil and wants regulatory and country stability before entering markets such as Peru.
+- Prediction markets (a Spanish-speaking US angle) are being monitored, with 'nothing concrete' and no capital commitment discussed.
+
+> “the same answer I could give you a year ago” — CEO
+
+| Other (CO/PA/AR) — EUR m (USD ~ at 1.10) | Q3-26 | QoQ | YoY | 9M-26 | 9M YoY |
+|---|---|---|---|---|---|
+| Revenue (IFRS) | 4.9 (~$5.4) | -2.0% | n.m. (vs 1.6) | 14.3 (~$15.7) | +52% |
+| Gaming Win | 5.2 (~$5.7) | -8.8% | +86% | 15.3 (~$16.8) | +39% |
+| Avg monthly actives (000s) | 28.4 | -6.6% | +37% | 28.4 | +26% |
+| Spend per active (€/month) [derived] | ~61 (~$67) | -2.3% | +35% | ~60 (~$66) | +11% |
+| Adj. EBITDA [derived: B2C less Spain, Mexico] | ~0.7 (~$0.8) | n/a | vs ~0.0 | n/a | n/a |
+| Share of group GW | 8% | vs 8% | vs 5% | 8% | vs 7% |
+| Colombia 19% deposit VAT | Not in force (removed early 2026) | n/a | In force in Q3-25 | n/a | Reinstatement for 2027 under discussion |
+
+## 6. Highlights & Lowlights
+
+**Highlights**
+
+- **Operating leverage is real below the marketing line:** platform & content +~10% and personnel +13% against revenue +31%; B2C Adj. EBITDA +23% to €9.6m (~$10.6m) in Q3, +50% to €32.1m (~$35.3m) in 9M; 9M group Adj. EBITDA more than doubled to €16.1m (~$17.7m) with period cash flow of €16.4m (~$18.0m) — ~100% cash conversion. _(structural)_
+- **Spain is a high-margin compounder:** Adj. EBITDA €7.2m (~$7.9m), +24%, 29.0% margin (+~260bps) on +13% GW; FTDs +7% group-wide on a World Cup-inflated comp with LTM CPA stable at ~€196 (~$216). _(structural)_
+- **Mexico scale keeps building:** GW +39% (+26% cc) to €37.2m (~$40.9m), six consecutive quarters of sequential growth, LTM Adj. EBITDA €12.2m (~$13.4m) vs €2.7m a year earlier even after the IEPS step-up to 50%. _(mixed)_
+- **Fortress balance sheet for a ~€360m market cap:** €65.6m (~$72.2m) cash, no debt, NWC -€24.5m (~-$27.0m), cash up €15.6m since December; 6.4m public warrants expire end-November, removing the FV swing (€3.4m gain this quarter) from reported earnings. _(structural)_
+- **World Cup execution was strong and quantified:** stakes €63m (~$69.3m), +180% vs 2022; unique users +56%; ~40k new customers; NGR >2x 2022 — evidence the platform can monetise peak events across all five markets. _(one-off)_
+- **Other markets re-accelerated:** GW +86% to €5.2m (~$5.7m) as Colombia normalised and Panama compounded; segment now roughly breakeven-to-positive at the Adj. EBITDA line [derived]. _(early)_
+
+**Lowlights**
+
+- **Headline growth overstates the run-rate:** +30% GW is +23% in constant currency, July was an 'exceptional' World Cup month, GW fell 3% QoQ, and Q4 is guided to single digits against a €60.7m (~$66.8m) comp — the implied Q4 range is €54-64m (-11% to +5%). _(mixed)_
+- **Mexico earns almost nothing on 55% of GW:** Adj. EBITDA -15% to €1.7m (~$1.9m), 5.2% margin (-320bps) as gaming taxes rose 55% (IEPS 30%→50% from Jan-26) and marketing +37%; Mexico is 18% of B2C EBITDA. The tax rate is structural; the marketing 'timing' explanation is not yet evidenced. _(structural)_
+- **Adjusted vs IFRS gap is wide:** IFRS EBITDA fell to €2.9m (~$3.2m) from €3.2m; the LTIP add-back is €7.6m (~$8.4m) in 9M (~47% of Adj. EBITDA); Q3 net income of €5.5m includes a €3.4m non-cash warrant gain (ex-warrant ~€2.1m). _(governance)_
+- **Spain's regulatory wall is dated:** nominative payments for new customers now (CEO already sees an AML-driven FTD slowdown), existing customers April 2027, cross-operator deposit limits March 2027 — all landing on an ARPU-led Spanish business where spend per active, not actives, drives growth. _(watch)_
+- **Colombia VAT reinstatement risk for 2027:** management is already describing a 'cash flow zero' retreat; a full-year 19% deposit VAT would reverse most of the Other segment's 2026 rebound. _(structural)_
+- **Governance/corporate overhang:** the NGR→Gaming Win relabel was the outcome of an SEC staff review of the 2025 20-F (correspondence not yet public), and the majority owner is reportedly exploring a break-up sale that could include Codere Online on its own — change-of-control and minority-protection questions are now live. _(governance)_
+- **Marketing stays at ~€100m (~$110m), ~40% of revenue, into 2027:** CEO is 'fighting for marketing money'; absent a step-down in intensity, 2027 margin expansion is capped at what GW growth delivers, and that growth is guided to slow. _(watch)_
+
+## 7. Forecast & Outlook
+
+The guidance bridge is one of reiteration, not revision. FY26 Gaming Win of €255-265m (~$280-292m) and Adj. EBITDA of €20-25m (~$22-27.5m) were first raised in July (from the February outlook of €235-245m NGR / €15-20m Adj. EBITDA) on the Q2 record and the World Cup; in November management held both ranges but nudged the GW message to the 'upper part'. With 9M GW of €201.0m (~$221.1m) and Adj. EBITDA of €16.1m (~$17.7m), Q4 is implied at €54-64m of GW versus €60.7m in Q4-25 and €3.9-8.9m of Adj. EBITDA versus €6.7m. The division driving the caution is Mexico (peso reversal since quarter-end on top of a 50% IEPS rate and a +31% Q4-25 comp), with Spain contributing regulatory 'transition effects'; Other is a 2027 rather than a Q4 issue. The moving parts for Q4 are the absence of July-style event uplift, a flat-to-negative FX contribution, NFL activation costs already inside the range, and marketing that the CFO expects to total 'high 90s, close to €100m' for the year (implying ~€24m in Q4).
+
+- **FY26 Gaming Win guidance:** €255-265m (~$280-292m) (Unchanged vs July (raised then from €235-245m); 'upper part' now flagged)
+- **FY26 Adj. EBITDA guidance:** €20-25m (~$22-27.5m) (Unchanged vs July (raised then from €15-20m))
+- **Implied Q4-26 Gaming Win:** €54-64m (~$59-70m) (vs €60.7m Q4-25 (-11% to +5%); mgmt: 'single-digit' growth)
+- **Implied Q4-26 Adj. EBITDA:** €3.9-8.9m (~$4.3-9.8m) (vs €6.7m Q4-25; ~€24m Q4 marketing for FY ~€100m)
+
+Our own numbers [estimates]: **Q4-26E GW ~€63m (~$69m), +4% YoY** — Spain ~€24.5m (+~2%, friction from the October identification rules), Mexico ~€34m (+~4% reported, mid-teens cc, FX roughly neutral-to-negative), Other ~€4.8m; **Q4-26E revenue ~€59m and Adj. EBITDA ~€6m (~10% of revenue)**, with marketing ~€24m. That lands **FY26E at revenue ~€246m (~$271m), +~17%; GW ~€264m (~$290m), +~18%; Adj. EBITDA ~€22m (~$24m), ~8.4% of GW, +~60% vs €13.8m in FY25**, i.e. the GW upper half and the EBITDA midpoint. Year-end **net cash ~€70m (~$77m)** with no debt; leverage stays negative and we see no reason for the balance sheet to change absent M&A or a change of control. For 2027 (guidance due with FY results in late February) our base case is **GW growth of ~8-12%**: Mexico mid-teens cc less FX, Spain low single digits through the March/April deposit-limit and nominative-payment steps, and Colombia down if the 19% VAT returns for the full year. With marketing held at ~€100m, marketing/GW falls ~3pts and **Adj. EBITDA of ~€28-32m (~10-11% of GW)** is achievable — but the skew is to the downside because every identified 2027 variable (Spain limits, Colombia VAT, peso, Mexico fiscal appetite) is a headwind and the only tailwinds (NFL brand, prediction markets, Uruguay) are unquantified. On ~45m shares at ~$8.5 the equity is ~€362m market cap / ~€296m EV (~$326m): ~13x FY26E Adj. EBITDA midpoint and ~1.1x GW [estimates]. The swing factors are, in order, Spanish ARPU post-March 2027, the Colombian VAT decision, MXN/EUR, and whether the parent's process produces a standalone bid.
+
+**What to watch next quarter:**
+
+- Q4-26 GW print vs the €60.7m comp — does 'upper part' mean ≥€263m, and does Adj. EBITDA land above the €22.5m midpoint despite ~€24m of Q4 marketing?
+- Spain KPIs through Q1-Q2 2027: actives, spend per active and FTD run-rate as nominative payments extend to existing customers (April 2027) and cross-operator deposit limits start (March 2027, RD 520/2026 defaults €700/day, €1,750/week, €3,300/4 weeks).
+- Colombia: whether Bill 477 reinstates the 19% deposit VAT for 2027 and management's 'cash flow zero' response — size of the Other-segment reversal.
+- MXN/EUR: the peso 'gave back most of this year's gains' after quarter-end; Mexico is 55% of GW and ~€3-4m of FY26 marketing was pure translation.
+- Parent Codere Group's break-up sale process (Jefferies/Macquarie) — any standalone bid for Codere Online, treatment of minorities, and the related-party payables (~€7.4m to Codere Group).
+- February 2027 outlook: 2027 GW/EBITDA ranges, marketing envelope (~€100m flat?), CPA trend, and whether Mexico margin recovers once 'timing' items reverse.
+- FY26 Form 20-F and publication of the SEC comment correspondence behind the NGR→Gaming Win relabel; warrant expiry (30 Nov 2026) removing FV noise.
+- Optionality items with no numbers yet: prediction markets (US Hispanic), Uruguay regulation, NFL activation ROI over the 2026-27 and 2027-28 seasons.
+
+### Sources
+
+**Data confidence: MEDIUM.** FX: EUR/USD ~1.10 as of 12 Nov 2026 (implied by same-day press conversion of €62.6m = $69.2m, i.e. ~1.105; spot 1.0998 on 16 Nov) — all USD figures are approximate conversions marked "~". Headline figures (revenue, Gaming Win, Adj. EBITDA, net income, actives, cash, guidance, reconciliation) are HIGH confidence: taken from the company's GlobeNewswire/IR release and cross-checked against the call transcript, Investing.com, iGB, CasinoBeats and NEXT.io. Spain/Mexico/B2C Adj. EBITDA, balance-sheet and cash-flow detail come from search extracts of the Q3-26 earnings presentation (6-K) — the PDF itself could not be opened because the fetch tool hit its session cap, so these are MEDIUM. Items marked [derived] (Other-segment and central-cost EBITDA, spend per active, casino/sports split in euros, Q3-25 Spain EBITDA, gaming taxes Q3-25) are my arithmetic on disclosed figures. Not verified / not disclosed: diluted EPS (company does not report it in the release; estimate shown), Q2-26 segment EBITDA (hence segment QoQ EBITDA shown n/a), 9M marketing (~€76m is an analyst's figure on the call), sportsbook handle/net margin/promo intensity (not disclosed by the company), market shares, the Nov 12/13 closing prices (secondary snapshots), and the exact Mexican IEPS mechanics (30%→50% per CasinoBeats, confirmed only qualitatively by the CFO). Two user-supplied URLs (European Gaming, Gaming Intelligence) could not be retrieved. Note Investing.com's call summary misstates actives growth as +50% (company: +5%).
+
+1. [Primary] Codere Online — 'Codere Online Reports Third Quarter 2026 Results', GlobeNewswire, 12 Nov 2026 (results press release) — https://www.globenewswire.com/news-release/2026/11/12/3401426/0/en/codere-online-reports-third-quarter-2026-results.html
+2. [Primary] Codere Online IR — Q3 2026 results release (company website mirror) — https://www.codereonline.com/news/news-details/2026/Codere-Online-Reports-Third-Quarter-2026-Results/default.aspx
+3. [Primary] Codere Online — Q3 2026 Earnings Presentation (furnished on Form 6-K, 12 Nov 2026) — read via search extracts only — https://s29.q4cdn.com/160319267/files/content_files/Codere-Online-Q3-2026-Earnings-Presentation.pdf
+4. [Primary] Codere Online — Q2 2026 results, Form 6-K Exhibit 99.1 (SEC EDGAR), 30 Jul 2026 — comparatives and World Cup stats — https://www.sec.gov/Archives/edgar/data/0001866782/000117184326005057/exh_991.htm
+5. [Primary] Codere Online — Q4/FY2025 results press release (FY25 base, Q4-25 comp, original FY26 outlook, buyback) — https://s29.q4cdn.com/160319267/files/doc_financials/2025/q4/Codere-Online-Q4-2025-Press-Release.pdf
+6. [Secondary] Investing.com — Codere Online Q3 2026 earnings call transcript (full text) — https://in.investing.com/news/stock-market-news/earnings-call-transcript-codere-online-posts-strong-q3-2026-growth-stock-edges-up-93CH-5700189
+7. [Secondary] Investing.com — 'Codere Online Q3 2026 slides' (opex detail: marketing €25.2m, gaming taxes €13.6m) — https://www.investing.com/news/company-news/codere-online-q3-2026-slides-gaming-win-surges-30-profitability-gains-93CH-5022443
+8. [Secondary] iGaming Business — 'Codere Online Q3 revenue surges 31% as Sher maintains conservative outlook', 12 Nov 2026 — https://igamingbusiness.com/finance/codere-online-q3-revenue-surges-aviv-sher-conservative-outlook/
+9. [Secondary] CasinoBeats — 'Codere Online lifts gaming win 30% on Mexico but flags single-digit Q4 growth', 13 Nov 2026 (Mexico IEPS, Spain RD 520/2026, DGOJ market data, Expansión report) — https://casinobeats.com/2026/11/13/codere-online-lifts-gaming-win-30-on-mexico-but-flags-single-digit-q4-growth/
+10. [Secondary] NEXT.io — 'Q3 2026: Codere Online revenue jumps 31% as Mexico drives growth', 12 Nov 2026 (parent sale process) — https://next.io/news/news/codere-online-q3-2026-revenue-mexico-growth/
+11. [Secondary] TheGamblest — 'Codere Online Reports Third Quarter 2026 Results', 13 Nov 2026 — https://www.thegamblest.com/codere-online-reports-third-quarter-2026-results/
+12. [Secondary] TipRanks — 'Codere Online Earnings Call Signals Strong Growth, Cautious Outlook' (Spain Adj. EBITDA €7.2m, Mexico €1.7m corroboration) — https://www.tipranks.com/news/company-announcements/codere-online-earnings-call-signals-strong-growth-cautious-outlook
+13. [Secondary] Motley Fool — 'Codere Online: 3 Key Takeaways for Long-Term Investors', 13 Nov 2026 (share price snapshot) — https://www.fool.com/earnings/takeaways/2026/11/13/codere-online-3-key-takeaways-for-long-term-investors/
+14. [Secondary] MarketBeat — CDRO Q3 2026 earnings page (11 Nov 2026 closing price $8.68) — https://www.marketbeat.com/earnings/reports/2026-11-12-codere-online-luxembourg-sa-stock/
+15. [Secondary] CNN Markets — CDRO quote page (13 Nov 2026 close snapshot) — https://www.cnn.com/markets/stocks/CDRO
+
+*Research analysis only — not a rating, price target, or personalised investment advice.*
