@@ -1202,5 +1202,16 @@
       "https://www.gamingintelligence.com/finance/238743-gaming-corps-sees-revenue-soar-130-in-third-quarter/"
     ],
     "seen": "2026-11-17"
+  },
+  {
+    "key": "banijay|9M 2026",
+    "type": "company",
+    "company": "Banijay Group",
+    "ticker": "BNJ",
+    "period": "9M 2026",
+    "sector": "other",
+    "africa": false,
+    "urls": [],
+    "seen": "2026-11-17"
   }
 ]
