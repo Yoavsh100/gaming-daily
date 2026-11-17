@@ -706,7 +706,9 @@
       "https://casinobeats.com/2026/11/11/ballys-intralot-speeds-up-uk-online-growth-under-40-duty-as-evoke-deal-slips-to-2027/",
       "https://next.io/news/investment/cbre-scale-key-ballys-uk-market-consolidation/"
     ],
-    "seen": "2026-11-10"
+    "seen": "2026-11-10",
+    "sector": "gaming",
+    "africa": false
   },
   {
     "key": "piggs peak hotel and casino|Q2 2026/27",
@@ -1183,7 +1185,21 @@
     "sector": "gaming",
     "africa": false,
     "urls": [
-      "https://www.gamingintelligence.com/markets/south-america/238647-brazil-federal-lottery-sales-surpass-r18-billion-in-9m-2026/"
+      "https://www.gamingintelligence.com/markets/south-america/238647-brazil-federal-lottery-sales-surpass-r18-billion-in-9m-2026/",
+      "https://www.gamingintelligence.com/finance/238647-brazil-federal-lottery-sales-surpass-r18-billion-in-9m-2026/"
+    ],
+    "seen": "2026-11-17"
+  },
+  {
+    "key": "gaming corps|Q3 2026",
+    "type": "company",
+    "company": "Gaming Corps AB",
+    "ticker": null,
+    "period": "Q3 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238743-gaming-corps-sees-revenue-soar-130-in-third-quarter/"
     ],
     "seen": "2026-11-17"
   }
