@@ -1,0 +1,809 @@
+{
+  "company": {
+    "name": "High Roller Technologies",
+    "ticker": "ROLR",
+    "exchange": ""
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 3244247,
+    "output": 53813,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 76,
+    "cacheRead": 3095124,
+    "cacheWrite": 149047,
+    "turns": 1
+  },
+  "prepared": "17 Nov 2026",
+  "report": {
+    "releaseDate": "13 Nov 2026",
+    "currency": "USD (company reports in US$; tables in US$ thousands unless stated)",
+    "verdict": "A pre-revenue pivot quarter: the legacy online-casino book is being run for cash and shrank 51% YoY to $2.4m while ROLR launch spend pushed adj. EBITDA to -$2.1m (vs -$0.2m) and the quarter's cash outflow to ~$4.7m. The equity (EV ~$15m) is now an option on Q4-26/2027 prediction-market traction that management has not quantified, and the $13.4m cash pile covers roughly three quarters at the current burn — so the funding question arrives before the proof point.",
+    "kpis": [
+      {
+        "label": "Net revenue (Q3-26)",
+        "value": "$2.4m",
+        "delta": "-51% YoY / -15% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA (non-GAAP)",
+        "value": "-$2.1m",
+        "delta": "vs -$0.2m Q3-25; margin -87%",
+        "dir": "down"
+      },
+      {
+        "label": "Net loss, cont. ops / diluted EPS",
+        "value": "-$2.8m / -$0.25",
+        "delta": "vs +$2.9m / +$0.31 (incl. $3.6m tax benefit)",
+        "dir": "down"
+      },
+      {
+        "label": "Cash & equivalents (no debt)",
+        "value": "$13.4m",
+        "delta": "-$4.6m QoQ from $18.0m",
+        "dir": "down"
+      },
+      {
+        "label": "Unique depositing customers",
+        "value": "4,723",
+        "delta": "-77% YoY / -31% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Revenue per UDC",
+        "value": "$507",
+        "delta": "+109% YoY / +22% QoQ",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**Headline: revenue halved, losses widened, prediction markets still at zero.** Q3-26 net revenue $2.395m (-50.7% YoY from $4.858m; -14.7% QoQ from $2.809m). Loss from operations -$2.7m vs -$0.7m; pre-tax loss -$2.6m vs -$0.8m. GAAP net loss from continuing ops -$2.78m (-$0.25 basic/diluted) vs +$2.88m (+$0.34/+$0.31) a year ago — the prior-year profit was entirely a $3.6m deferred-tax valuation-allowance release at a Maltese subsidiary plus $0.8m of discontinued ops (Casino Room domain). Adj. EBITDA (non-GAAP) -$2.09m vs -$0.16m. ROLR prediction markets contributed $0 revenue in Q3 and 9M.",
+      "**Versus expectations: no meaningful consensus exists; the print tracked the Q2 trajectory.** Q2-26 revenue was already -52% YoY, so the -51% is not new information. What is incrementally negative is the QoQ slide in casino volume (UDCs -31%, actives -43%) and the step-up in burn (adj. EBITDA -$2.1m vs -$1.8m in Q2). Shares fell 15.5% to $2.56 in the first session after the release (16 Nov).",
+      "**Guidance bridge: no numbers, only a framework — and it got worse on the casino side.** Management gives no revenue/EBITDA guidance. The qualitative framework moved from Q2's 'launch planned' to 'launched 21 Oct; Q4-26 is the first quarter with prediction-markets revenue; 2027 is the first full year and the major growth driver'. New since Q2: the New Zealand exit on 1 Dec (22% of Q3 net gaming revenue) means casino revenue 'steps down further from December with full effect from Q1-27'. Runway language unchanged ('at least the next twelve months') despite cash falling $4.6m in the quarter.",
+      "**Casino volume collapse is the division driving the P&L.** Quarterly active users 5,448 (-75% YoY, -43% QoQ); UDCs 4,723 (-77% YoY; 'roughly a quarter' of last year); wagers $53.3m (-64% YoY, -17% QoQ); deposits $8.8m (-63% YoY) and $31.1m for 9M (-56%). First-time depositors down ~95% YoY [per secondary summary of the 10-Q]. Management's preferred metric — revenue per UDC — more than doubled to $507 (from $242) and hold rose to ~4.5% of wagers (~+120bps; 'roughly 35% more on every dollar wagered'), i.e. the book is being harvested, not grown.",
+      "**Geographic concentration is extreme and about to get worse.** Finland $1.62m (67% of NGR, -40% YoY), New Zealand $0.52m (22%, -57%), Canada $0.21m (9%, -65%), Norway nil (exited; $0.27m a year ago), rest of world $47k. With NZ gone from 1 Dec, Finland will be ~85% of a ~$1.6m/quarter casino book — and Finland itself transitions to a licensed regime in 2027 (the company's licensing intent there is not disclosed in the materials reviewed).",
+      "**Cost base: opex -8% YoY to $5.1m, but the mix has flipped toward ROLR.** Direct operating costs -59% to $0.8m (33.7% of revenue vs 40.8%); G&A +8% to $3.05m (127% of revenue vs 58%); advertising & promotions +84% to $1.0m (42% of revenue vs 11%), of which $541k is related-party (Spike Up Media) vs $92k; product & software development +17% to $247k. Revenue less direct costs of $1.6m covers barely half of G&A.",
+      "**Adj. EBITDA reconciliation is clean but the adjustments are modest.** Net loss -$2.78m + SBC $0.42m + D&A $0.10m - net interest income $0.12m + tax $0.18m + FX loss $0.10m = -$2.09m. 9M adj. EBITDA -$5.18m vs -$3.34m; note the Q3 release implies H1-26 adj. EBITDA of -$3.09m vs -$3.11m reported in August (a $19k presentational difference).",
+      "**ROLR milestones delivered on the stated cadence.** Invitation-only beta 15 Sep; public launch 21 Oct for eligible US customers; iOS app 9 Nov; Android via Google Play targeted before year-end; NFA commodity-trading-advisor registration obtained ahead of 'a very powerful new product release' promised before end-November. Structure: ROLR US LLC is a guaranteed introducing broker, accounts carried by Crypto.com FCM; CDNA is the exclusive contract provider through ROLR's US technology for the first 24 months from the April 2026 collaboration agreement.",
+      "**Strategic optionality is being built — but all of it is contingent.** ROLR FCM LLC formed 11 Nov with Connamara Technologies advising on a potential FCM application (not yet filed); ProphetX commercial agreement (12 Nov) only becomes effective six months after FCM registration; management floated DCM/DCO licences longer term. An FCM would sit outside the Crypto.com exclusivity, which is the real point of the exercise. The 13 Aug DeepEther Labs (mrkts.com) source-code licence gives them ownership of the customer-facing app — the first time they have controlled their own product roadmap.",
+      "**Capital position: debt-free but thinning.** Cash & equivalents $13.4m (vs $18.0m at 30 Jun and $2.1m at 31 Dec-25); restricted cash $0.4m; no borrowings; equity $27.3m; 10.99m shares (11.04m at 13 Nov). 9M operating cash outflow -$8.9m (vs -$4.5m), capitalised software/licences -$3.6m (vs -$0.45m), FCF ≈ -$12.5m, funded by $23.5m net equity raised in January ($25.0m registered direct at $13.21 plus $1.0m private placement at $2.80). Q3 alone: ~$4.7m total cash reduction, of which ~$1.7m was capitalised ROLR development.",
+      "**Runway maths does not comfortably support 'twelve months' if marketing ramps as signalled.** CEO: 'we're definitely in growth mode… for the moment, we're looking to get out there and spend.' At the Q3 outflow rate (~$4.7m) the $13.4m lasts ~3 quarters; if Q4 A&P doubles, year-end cash is ~$8–9m [our estimate]. Management's assurance presumably assumes ROLR revenue and/or spend flexibility. We regard an equity raise in H1-27 as more likely than not — and the January placement-agent warrant structure (94,625 warrants at $16.51) shows the toolkit.",
+      "**Restatement and controls are a governance overhang.** On 16 Oct the company amended its Q1 and Q2-26 10-Qs to reclassify ~$1.0m of placement-agent warrant fair value from G&A to APIC: Q1 net loss restated to $2.0m (-$0.19) from $3.0m (-$0.29); H1 to $4.3m (-$0.41) from $5.3m (-$0.50). No effect on cash, equity or adj. EBITDA. The 10-Q discloses unremediated material weaknesses in ICFR [per secondary summary; Item 4 not read directly].",
+      "**Related-party exposure is growing with the pivot.** Spike Up Media (founder-affiliated) received $541k of A&P in Q3 (54% of total A&P; $940k for 9M), plus a $333k related-party prepayment on the balance sheet and $1.6m due to affiliates. A Dawson James analyst explicitly asked whether launch marketing dollars are flowing to shareholder-owned partners (Spike Up, Lines.com, Forever, Leverage); management declined to disclose allocation.",
+      "**What management emphasised vs. buried.** Emphasised: revenue-per-UDC doubling, launch cadence, Bernstein's ~$410bn 2026 / $10tn-by-2035 prediction-market volume estimate (via The Block), new hires (CBO Flip Pidot, SVP Product Ben Sutherland ex-Greentube USA CEO). Buried or absent: any ROLR KPI (funded accounts, volume, net revenue, take rate, CAC), the -95% drop in first-time depositors, wagers -64%, G&A rising on half the revenue, and the economics of the Crypto.com revenue share — 'not something that we've disclosed publicly'. First ROLR data is promised with FY results in March 2027.",
+      "**Regulatory backdrop cuts both ways.** Casino: exits from Norway (2025), NZ (1 Dec 2026, limited-licence regime), and a Finland licensing transition in 2027 leave an Estonian-licensed book with no obvious growth jurisdiction (an Ontario entity, HRON Services, exists but is dormant). Prediction markets: risk factors flag 'the evolving and uncertain federal and state legal and regulatory environment… including litigation and enforcement actions'; management says the state-by-state marketing plan is built with 'eyes wide open about which states are hot'.",
+      "**Market reaction and valuation.** Release hit after the 13 Nov close (regular session -7.1% to $3.03; after-hours -7.3% to $2.81); first full session 16 Nov -15.5% to $2.56. Market cap ~$28m ≈ 1.0x book; EV ~$15m against $13.4m cash. 52-week range $1.16–$33.68 — the stock is ~92% off the January prediction-markets spike at which the $25m raise was priced.",
+      "**Thesis read-through: the casino is no longer the story, and it cannot fund the story either.** Casino gross profit of ~$1.6m/quarter is sub-scale against $3.1m of G&A, so the group is structurally loss-making until ROLR revenue appears. The IB model (ROLR earns a share of exchange/FCM fees on customer trading) is capital-light but thin-margin and dependent on Crypto.com for contracts, custody and clearing for two years. Bulls get a live, regulated, owned-code platform with partners and ~$15m EV; bears get -77% UDCs, no ROLR disclosure, a related-party marketing channel, a restatement and a ~3-quarter runway.",
+      "**Sector read-across.** A micro-cap pivot into US prediction markets lands into a field where scale players (Kalshi, Polymarket, DraftKings, FanDuel/CME, Robinhood, Crypto.com itself — and 'Meta entered the fray' per an analyst on the call) will set CAC and promo intensity. ROLR's differentiation claim is acquisition-marketing competence from its casino years; the test will be Q4 cohort payback, which we will not see until March."
+    ],
+    "groupTable": {
+      "note": "US $k (unless stated)",
+      "columns": [
+        "Q3-26",
+        "QoQ",
+        "YoY",
+        "9M-26",
+        "9M YoY"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by segment",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Online casino — net gaming revenue",
+          "indent": true,
+          "cells": [
+            "2,395",
+            "-14.6%",
+            "-50.8%",
+            "8,564",
+            "-45.9%"
+          ]
+        },
+        {
+          "label": "ROLR prediction markets",
+          "indent": true,
+          "cells": [
+            "0",
+            "n/a",
+            "n/a",
+            "0",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Non-core services net of disc. ops (Sweden / Casino Room)",
+          "indent": true,
+          "cells": [
+            "0",
+            "n/a",
+            "vs (7)",
+            "6",
+            "vs (41)"
+          ]
+        },
+        {
+          "label": "Total net revenue",
+          "kind": "emphasis",
+          "cells": [
+            "2,395",
+            "-14.7%",
+            "-50.7%",
+            "8,570",
+            "-45.8%"
+          ]
+        },
+        {
+          "label": "Revenue by product",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "iGaming (casino) — 100% of revenue",
+          "indent": true,
+          "cells": [
+            "2,395",
+            "-14.7%",
+            "-50.7%",
+            "8,570",
+            "-45.8%"
+          ]
+        },
+        {
+          "label": "Sportsbook",
+          "indent": true,
+          "cells": [
+            "—",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Prediction markets (event contracts, IB commissions)",
+          "indent": true,
+          "cells": [
+            "0",
+            "n/a",
+            "n/a",
+            "0",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Revenue by geography (NGR)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Finland (67% of NGR)",
+          "indent": true,
+          "cells": [
+            "1,618",
+            "-9%*",
+            "-39.8%",
+            "5,543",
+            "-38.7%"
+          ]
+        },
+        {
+          "label": "New Zealand (22%; exit 1 Dec-26)",
+          "indent": true,
+          "cells": [
+            "522",
+            "-19%*",
+            "-57.0%",
+            "1,892",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Canada (9%)",
+          "indent": true,
+          "cells": [
+            "208",
+            "n/a",
+            "-65.0%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Norway (exited 2025)",
+          "indent": true,
+          "cells": [
+            "0",
+            "n/a",
+            "vs 267",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Rest of world",
+          "indent": true,
+          "cells": [
+            "47",
+            "n/a",
+            "-54.8%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Operating costs",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Direct operating costs (% rev)",
+          "indent": true,
+          "cells": [
+            "808 (33.7%)",
+            "-32.1%",
+            "-59.3%",
+            "3,256 (38.0%)",
+            "-55.8%"
+          ]
+        },
+        {
+          "label": "General & administrative (% rev)",
+          "indent": true,
+          "cells": [
+            "3,050 (127%)",
+            "-9.3%",
+            "+8.2%",
+            "9,927 (116%)",
+            "+9.1%"
+          ]
+        },
+        {
+          "label": "Advertising & promotions (% rev)",
+          "indent": true,
+          "cells": [
+            "1,009 (42.1%)",
+            "+93.7%",
+            "+84.1%",
+            "1,878 (21.9%)",
+            "-55.0%"
+          ]
+        },
+        {
+          "label": "  of which related party (Spike Up Media)",
+          "indent": true,
+          "cells": [
+            "541",
+            "+93%",
+            "+488%",
+            "940",
+            "+0.5%"
+          ]
+        },
+        {
+          "label": "Product & software development (expensed)",
+          "indent": true,
+          "cells": [
+            "247",
+            "+18.8%",
+            "+16.5%",
+            "693",
+            "+15.1%"
+          ]
+        },
+        {
+          "label": "Total operating expenses",
+          "indent": true,
+          "cells": [
+            "5,114",
+            "-3.1%",
+            "-8.0%",
+            "15,754",
+            "-25.8%"
+          ]
+        },
+        {
+          "label": "Profitability",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Loss from operations (GAAP)",
+          "indent": true,
+          "cells": [
+            "(2,719)",
+            "vs (2,471)",
+            "vs (703)",
+            "(7,184)",
+            "vs (5,432)"
+          ]
+        },
+        {
+          "label": "Adj. EBITDA (non-GAAP) — group = casino + ROLR costs",
+          "kind": "emphasis",
+          "cells": [
+            "(2,094)",
+            "vs (1,823)",
+            "vs (162)",
+            "(5,180)",
+            "vs (3,337)"
+          ]
+        },
+        {
+          "label": "Adj. EBITDA margin",
+          "indent": true,
+          "cells": [
+            "-87.4%",
+            "-2,250bps",
+            "-8,410bps",
+            "-60.4%",
+            "-3,930bps"
+          ]
+        },
+        {
+          "label": "Net income (loss) from continuing ops (GAAP)",
+          "indent": true,
+          "cells": [
+            "(2,780)",
+            "vs (2,370)",
+            "vs 2,883",
+            "(7,113)",
+            "vs (1,999)"
+          ]
+        },
+        {
+          "label": "Net income (loss) (GAAP, incl. disc. ops)",
+          "indent": true,
+          "cells": [
+            "(2,780)",
+            "vs (2,370)",
+            "vs 3,667",
+            "(7,113)",
+            "vs (201)"
+          ]
+        },
+        {
+          "label": "Diluted EPS — continuing ops (GAAP, $)",
+          "indent": true,
+          "cells": [
+            "(0.25)",
+            "vs (0.22)",
+            "vs 0.31",
+            "(0.66)",
+            "vs (0.24)"
+          ]
+        },
+        {
+          "label": "Diluted EPS — total (GAAP, $)",
+          "indent": true,
+          "cells": [
+            "(0.25)",
+            "vs (0.22)",
+            "vs 0.39",
+            "(0.66)",
+            "vs (0.02)"
+          ]
+        },
+        {
+          "label": "Adjusted EPS",
+          "indent": true,
+          "cells": [
+            "n/a (not reported Q3)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Group KPIs (casino)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Quarterly active users",
+          "indent": true,
+          "cells": [
+            "5,448",
+            "-43.3%",
+            "-75.0%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Unique depositing customers (UDCs)",
+          "indent": true,
+          "cells": [
+            "4,723",
+            "-30.5%",
+            "-76.5%",
+            "~20,047**",
+            "-68.9%"
+          ]
+        },
+        {
+          "label": "Revenue per UDC ($)",
+          "indent": true,
+          "cells": [
+            "507",
+            "+22%",
+            "+109%",
+            "~427**",
+            "+74%"
+          ]
+        },
+        {
+          "label": "Wagers ($m)",
+          "indent": true,
+          "cells": [
+            "53.3",
+            "-17.0%",
+            "~-64%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Deposits ($m)",
+          "indent": true,
+          "cells": [
+            "8.8",
+            "n/a",
+            "-63%",
+            "31.1",
+            "-56%"
+          ]
+        },
+        {
+          "label": "Cash flow",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Operating cash flow",
+          "indent": true,
+          "cells": [
+            "~(3,000)†",
+            "n/a",
+            "n/a",
+            "(8,879)",
+            "vs (4,526)"
+          ]
+        },
+        {
+          "label": "Capitalised software & licences (investing)",
+          "indent": true,
+          "cells": [
+            "~(1,700)",
+            "n/a",
+            "vs ~(200)",
+            "(3,578)",
+            "vs (450)"
+          ]
+        },
+        {
+          "label": "Free cash flow (OCF less investing)",
+          "indent": true,
+          "cells": [
+            "~(4,700)†",
+            "n/a",
+            "n/a",
+            "(12,469)",
+            "vs (5,006)"
+          ]
+        },
+        {
+          "label": "Financing (net equity raised)",
+          "indent": true,
+          "cells": [
+            "11",
+            "n/a",
+            "n/a",
+            "23,827",
+            "vs (90)"
+          ]
+        },
+        {
+          "label": "Balance sheet (30 Sep-26)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Cash & cash equivalents (ex restricted)",
+          "indent": true,
+          "cells": [
+            "13,392",
+            "-25.6% (18,009)",
+            "n/a",
+            "13,392",
+            "vs 2,076 at Dec-25"
+          ]
+        },
+        {
+          "label": "Cash incl. restricted",
+          "indent": true,
+          "cells": [
+            "13,820",
+            "vs 18,540",
+            "vs 3,498",
+            "13,820",
+            "vs 2,665 at Dec-25"
+          ]
+        },
+        {
+          "label": "Borrowings / net debt",
+          "kind": "emphasis",
+          "cells": [
+            "nil / net cash 13,392",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Leverage (net debt / adj. EBITDA)",
+          "indent": true,
+          "cells": [
+            "n/m (net cash, negative EBITDA)",
+            "—",
+            "—",
+            "—",
+            "—"
+          ]
+        },
+        {
+          "label": "Stockholders' equity",
+          "indent": true,
+          "cells": [
+            "27,285",
+            "vs 29,627",
+            "vs 6,579",
+            "27,285",
+            "vs 9,642 at Dec-25"
+          ]
+        },
+        {
+          "label": "Shares outstanding (m)",
+          "indent": true,
+          "cells": [
+            "10.99 (11.04 at 13 Nov)",
+            "+0.0%",
+            "+29.8%",
+            "—",
+            "—"
+          ],
+          "footnote": "* Q2-26 Finland/NZ derived as 9M less Q1 (10-Q Q1-26) less Q3. ** 9M UDCs = sum of quarterly UDCs (8,533 + 6,791 + 4,723), consistent with the company's 9M-25 figure of 64,453; not de-duplicated. † Q3 cash-flow items derived from balance-sheet movement less disclosed Q3 investing (~$1.7m) and financing; includes FX. ~-64% wagers YoY per 10-Q commentary (implies Q3-25 wagers ~$148m)."
+        }
+      ]
+    },
+    "segments": "[{\"name\":\"Online casino (HighRoller.com / Fruta.com / Kassuuu.com — Estonian licence)\",\"headline\":\"A deliberately shrinking, higher-yield book: NGR -51% to $2.4m on -77% depositors, with revenue per UDC doubling to $507 and hold up ~120bps — but NZ (22%) exits 1 Dec and Finland becomes ~85% of what is left.\",\"narrative\":[\"They reported net gaming revenue of $2.395m, down 50.8% from $4.865m and down 14.6% from $2.805m in Q2, with the whole of group revenue now coming from the casino product (the 2025 'non-core services' line, which related to the Sweden-facing Casino Room domain, was swapped out on 31 Dec-25 for the Estonian-licensed Happy Hour Solutions entity and sits in discontinued operations). Management attributed the decline to markets exited during 2025 and 'a revised marketing strategy' — in practice, acquisition spend was switched off: first-time depositors are down roughly 95% year on year per the 10-Q, and the CEO was explicit that the business has been managed 'without any significant customer acquisition efforts to mitigate natural customer attrition'. The 9M picture is the same shape: NGR $8.564m, -45.9%, with Q1 $3.37m, Q2 $2.81m and Q3 $2.40m describing a steady ~15% quarterly decay rate.\",\"Volume metrics describe a book roughly a quarter of its former size. Quarterly active users fell to 5,448 from 21,800 (-75%; -43% versus 9,608 in Q2), unique depositing customers to 4,723 from 20,128 (-77%; -31% QoQ from 6,791), wagers to $53.3m (-64% YoY per the 10-Q, implying ~$148m a year ago; -17% QoQ from $64.3m) and deposits to $8.8m from almost $23.8m (-63%), with 9M deposits $31.1m against $70.9m. The offset management prefers to lead with is yield: revenue per UDC rose to $507 from $242 (+109%; $414 in Q2, $394 in Q1), revenue per active user to ~$440 from ~$223, deposits per UDC to ~$1,860 from ~$1,180, and NGR as a share of wagers to ~4.5% from ~3.3% — the CEO's 'roughly 35% more on every dollar wagered'. We read this as mix (the churned cohort was low-value, promo-sensitive traffic from exited markets) plus lower bonus cost rather than any pricing power; it is the arithmetic of harvesting, and ARPU at this level will not keep rising once the remaining VIP-skewed base attrits.\",\"The cost side is where the run-off strategy is genuinely working. Direct operating costs (payment providers, game-provider royalties, affiliate revenue share) fell 59% to $0.81m — 33.7% of revenue versus 40.8% a year ago and 42.4% in Q2 — so revenue less direct costs held at $1.59m versus $1.62m in Q2 despite a $0.4m revenue decline, lifting that margin to 66.3% from 57.6% QoQ and 59.2% YoY. Casino-specific marketing is minimal: the $1.0m advertising and promotions line is dominated by ROLR launch spend (and $541k of it went to related-party Spike Up Media), so we estimate casino A&P as a % of revenue is in the low single digits. The problem is that $1.6m of quarterly gross profit does not get close to covering $3.05m of G&A, so the casino cannot fund the pivot on its own.\",\"Geographically the exposure is narrow and narrowing. Finland generated $1.618m (67% of NGR; -40% YoY from $2.686m; ~-9% QoQ on our derived Q2 figure of ~$1.78m), New Zealand $0.522m (22%; -57% from $1.213m; ~-19% QoQ), Canada $0.208m (9%; -65% from $0.595m), Norway nil (exited in 2025; $0.267m a year ago) and rest-of-world $47k. For 9M, Finland is $5.543m (65%, -39%) and NZ $1.892m (22%). From 1 Dec New Zealand moves to a limited-licence regime; they have elected not to apply and will cease operations there, so the CFO guided that casino revenue 'steps down further from December with a full effect from the first quarter of 2027'. That leaves a book that is ~85% Finland at a time when Finland is itself moving from a state-monopoly to a licensed model in 2027; whether they intend to apply for a Finnish licence — and what the tax and compliance cost would do to a 66% gross margin — was not addressed in the release, the 10-Q sections we read, or on the call. The Ontario vehicle (HRON Services) remains dormant.\",\"Our read is that the casino is being managed as a declining annuity with roughly a 15% quarterly decay before the NZ step-down, which points to Q4-26 NGR of ~$2.0–2.2m and Q1-27 of ~$1.5–1.7m on our estimates (NZ contributes ~$0.17m/month). That is enough to cover direct costs and some support overhead, but not enough to matter to the equity story, which is why management told listeners that 'if you're focusing on the top line casino numbers as a barometer for the health of this company, you're focusing on the wrong thing'. We agree with the framing but note it also means the casino provides no cushion if ROLR is slow.\"],\"table\":{\"note\":\"Online casino — US $k (unless stated)\",\"columns\":[\"Q3-26\",\"QoQ\",\"YoY\",\"9M-26\",\"9M YoY\"],\"rows\":[{\"label\":\"Net gaming revenue\",\"kind\":\"emphasis\",\"cells\":[\"2,395\",\"-14.6%\",\"-50.8%\",\"8,564\",\"-45.9%\"]},{\"label\":\"Finland\",\"indent\":true,\"cells\":[\"1,618\",\"~-9%*\",\"-39.8%\",\"5,543\",\"-38.7%\"]},{\"label\":\"New Zealand\",\"indent\":true,\"cells\":[\"522\",\"~-19%*\",\"-57.0%\",\"1,892\",\"n/a\"]},{\"label\":\"Canada\",\"indent\":true,\"cells\":[\"208\",\"n/a\",\"-65.0%\",\"n/a\",\"n/a\"]},{\"label\":\"Norway\",\"indent\":true,\"cells\":[\"0\",\"n/a\",\"vs 267\",\"n/a\",\"n/a\"]},{\"label\":\"Rest of world\",\"indent\":true,\"cells\":[\"47\",\"n/a\",\"-54.8%\",\"n/a\",\"n/a\"]},{\"label\":\"Finland share of NGR\",\"indent\":true,\"cells\":[\"67%\",\"+4pp\",\"+11pp\",\"65%\",\"+8pp\"]},{\"label\":\"New Zealand share of NGR\",\"indent\":true,\"cells\":[\"22%\",\"-1pp\",\"-3pp\",\"22%\",\"n/a\"]},{\"label\":\"Customer KPIs\",\"kind\":\"group\",\"cells\":[\"\",\"\",\"\",\"\",\"\"]},{\"label\":\"Quarterly active users\",\"indent\":true,\"cells\":[\"5,448\",\"-43.3%\",\"-75.0%\",\"n/a\",\"n/a\"]},{\"label\":\"Unique depositing customers\",\"indent\":true,\"cells\":[\"4,723\",\"-30.5%\",\"-76.5%\",\"~20,047**\",\"-68.9%\"]},{\"label\":\"First-time depositors\",\"indent\":true,\"cells\":[\"n/a\",\"n/a\",\"~-95%†\",\"n/a\",\"n/a\"]},{\"label\":\"Wagers ($m)\",\"indent\":true,\"cells\":[\"53.3\",\"-17.0%\",\"~-64% (vs ~148)\",\"n/a\",\"n/a\"]},{\"label\":\"Deposits ($m)\",\"indent\":true,\"cells\":[\"8.8\",\"n/a\",\"-63% (vs ~23.8)\",\"31.1\",\"-56% (vs 70.9)\"]},{\"label\":\"Revenue per UDC ($)\",\"indent\":true,\"cells\":[\"507\",\"+22% (414)\",\"+109% (242)\",\"~427**\",\"+74% (246)\"]},{\"label\":\"Revenue per active user ($)\",\"indent\":true,\"cells\":[\"~440\",\"+50% (~292)\",\"+97% (~223)\",\"n/a\",\"n/a\"]},{\"label\":\"Deposits per UDC ($)\",\"indent\":true,\"cells\":[\"~1,863\",\"n/a\",\"+58% (~1,182)\",\"n/a\",\"n/a\"]},{\"label\":\"Hold: NGR / wagers\",\"indent\":true,\"cells\":[\"~4.5%\",\"+13bps (4.36%)\",\"~+120bps (~3.3%)\",\"n/a\",\"n/a\"]},{\"label\":\"NGR / deposits\",\"indent\":true,\"cells\":[\"~27%\",\"n/a\",\"+7pp (~20%)\",\"~28%\",\"+5pp (~22%)\"]},{\"label\":\"Cost of sales\",\"kind\":\"group\",\"cells\":[\"\",\"\",\"\",\"\",\"\"]},{\"label\":\"Direct operating costs\",\"indent\":true,\"cells\":[\"808\",\"-32.1%\",\"-59.3%\",\"3,256\",\"-55.8%\"]},{\"label\":\"  of which related party\",\"indent\":true,\"cells\":[\"97\",\"-33.6%\",\"-62.4%\",\"430\",\"-51.1%\"]},{\"label\":\"Direct costs % of NGR\",\"indent\":true,\"cells\":[\"33.7%\",\"-8.7pp\",\"-7.1pp\",\"38.0%\",\"-8.6pp\"]},{\"label\":\"NGR less direct costs\",\"kind\":\"emphasis\",\"cells\":[\"1,587\",\"-2.0%\",\"-44.8%\",\"5,314\",\"-37.1%\"]},{\"label\":\"  margin\",\"indent\":true,\"cells\":[\"66.3%\",\"+8.7pp\",\"+7.1pp\",\"62.0%\",\"+8.6pp\"]},{\"label\":\"Casino marketing % of revenue\",\"indent\":true,\"cells\":[\"n/a (not split from ROLR launch A&P)\",\"n/a\",\"n/a\",\"n/a\",\"n/a\"],\"footnote\":\"* Q2-26 country figures derived (9M less Q1 less Q3). ** Sum of quarterly UDCs; 9M-25 comparator 64,453 per Q3-25 10-Q. † Per secondary summary of 10-Q MD&A (not read directly). Q3-25 wagers implied from the disclosed ~-64% YoY. Segment EBITDA is not disclosed; the company reports a single operating segment.\"}}},{\"name\":\"ROLR prediction markets (ROLR US LLC — guaranteed introducing broker)\",\"headline\":\"Pre-revenue in Q3 but now live: beta 15 Sep, public launch 21 Oct, iOS 9 Nov; ~$3m of quarterly spend (A&P, dev, capitalised build) with zero disclosed unit economics and 24-month contract exclusivity to Crypto.com's CDNA.\",\"narrative\":[\"They booked no prediction-markets revenue in Q3 or 9M — the quarter ended with ROLR still in the invitation-only beta that opened on 15 September 'with real money, real users and real markets' in a controlled environment. The public launch followed on 21 October for eligible US customers on desktop and mobile web, the iOS app reached the App Store on 9 November, and an Android build is targeted via Google Play before year-end, subject to store approval. The operating structure is a guaranteed introducing broker: ROLR US LLC (NFA licence granted 24 June) solicits customers, builds and runs the front end, and Crypto.com FCM carries the accounts, custody and clearing, with Crypto.com | Derivatives North America (CDNA) the exclusive provider of event contracts through ROLR's US technology for the first 24 months of the two-year collaboration agreement signed 14 April 2026. ROLR therefore holds no customer funds and no market risk; the CFO described the model as 'ROLR earns revenue as our customers trade, so revenue grows with trading activity' — i.e. a commission share, the size of which is undisclosed.\",\"The spend is visible even if the revenue is not. Advertising and promotions rose to $1.01m (42% of group revenue) from $0.52m in Q2 and $0.55m a year ago, with $541k paid to the founder-affiliated Spike Up Media (54% of the line; $940k for 9M) for performance marketing and lead generation; management declined to break out how much of the launch budget flows to shareholder-affiliated partners when asked. Expensed product and software development was $247k (+17% YoY) and G&A rose 8% to $3.05m on hiring, legal and regulatory costs. The larger number sits below the operating line: $1.7m of Q3 investing outflow was 'almost all' ROLR platform development ($3.6m for 9M versus $0.45m a year ago, of which ~$2.78m capitalised internal-use software per the 10-Q footnotes), lifting net intangible assets to $13.9m from $12.3m in June and $10.5m at December. Taken together, cash and P&L outlay attributable to the launch was roughly $3m in the quarter on our estimate, against a casino gross profit of $1.6m. Capitalisation flatters adj. EBITDA; amortisation of the platform will start to weigh on reported numbers from Q4.\",\"Distribution and people are where management wants attention. Named marketing relationships are Lines.com, Forever Network, Leverage Game Media and Spike Up, with 'others in the normal course of business that didn't make it to a press release'; each channel is to be judged on 'conversion, customer quality, retention and revenue relative to cost', and the CEO's pitch is that the company has shown 'a positive return on customer acquisition ad spend' since 2021 and that US lead generation is 'stronger than in the other countries we've historically driven activation'. Flip Pidot (ex-prediction-markets operator, CFA) joined as Chief Business Officer on 13 October and Ben Sutherland (ex-CEO Greentube USA, co-founder Present Creative) as SVP Product and Platform. The 13 August DeepEther Labs (mrkts.com) source-code licence and development agreement gives them ownership of the customer-facing application and 'control [of] our product roadmap' for the first time — historically they rented casino technology. A Kindbridge Behavioral Health partnership (quarterly CS training, a planned Trader Care Fund) and the elections.rolr.com midterm tracker round out the launch collateral.\",\"The strategic agenda beyond the IB licence is explicitly about escaping the Crypto.com exclusivity. ROLR FCM LLC was formed on 11 November with Connamara Technologies engaged to advise on a possible FCM registration with the CFTC/NFA; the company stresses this is 'a preliminary step; it is not an FCM application'. The next day they signed a commercial agreement with ProphetX to widen the event-contract menu, effective only six months after FCM registration is obtained. On the call the CEO confirmed an FCM 'does not fall under the exclusivity provision' and that they could 'run an FCM while still being an introducing broker to Crypto' — and went further, floating DCM/DCO licences 'which could function to expand our control over market-making and financial settlement capabilities'. The NFA commodity-trading-advisor registration precedes 'a very powerful new product release planned before the end of the month', unspecified. All of this is optionality with regulatory gating and capital cost; none of it generates revenue in 2026.\",\"What is missing is any KPI. Asked directly what milestones investors can track — accounts, funded customers, volume — the CEO said they would 'consider what we release and when', and that by the FY print in March they 'hope to have some idea of what our unit economics look like'. Asked whether early CAC is within plan, the answer was 'a little too early to dig into the metrics'. We therefore have no basis to model ROLR revenue beyond noting that Q4 covers ~10 weeks, iOS was only live from 9 November, Android is not yet live, the IB take is a fraction of exchange/FCM fees, and the competitive set (Kalshi, Polymarket, DraftKings, FanDuel/CME, Robinhood, Crypto.com's own app, and 'Meta entered the fray' per a questioner) sets promo intensity. Management cites Bernstein's ~$410bn 2026 volume / $10tn-by-2035 estimate as the prize; the relevant question for a sub-$30m-market-cap IB is share of fee pool per dollar of marketing, and that number will not be visible until March 2027.\"],\"table\":{\"note\":\"ROLR prediction markets — US $k (unless stated)\",\"columns\":[\"Q3-26\",\"QoQ\",\"YoY\",\"9M-26\",\"9M YoY\"],\"rows\":[{\"label\":\"Revenue\",\"kind\":\"emphasis\",\"cells\":[\"0\",\"—\",\"—\",\"0\",\"—\"]},{\"label\":\"Funded accounts / trading volume / take rate / CAC\",\"indent\":true,\"cells\":[\"not disclosed\",\"n/a\",\"n/a\",\"not disclosed\",\"n/a\"]},{\"label\":\"Launch-related P&L spend (group lines)\",\"kind\":\"group\",\"cells\":[\"\",\"\",\"\",\"\",\"\"]},{\"label\":\"Advertising & promotions (group)\",\"indent\":true,\"cells\":[\"1,009\",\"+93.7%\",\"+84.1%\",\"1,878\",\"-55.0%\"]},{\"label\":\"  of which related party (Spike Up Media)\",\"indent\":true,\"cells\":[\"541\",\"+93%\",\"+488% (92)\",\"940\",\"+0.5%\"]},{\"label\":\"A&P % of group revenue\",\"indent\":true,\"cells\":[\"42.1%\",\"+23.6pp\",\"+30.8pp\",\"21.9%\",\"-4.5pp\"]},{\"label\":\"Product & software development (expensed)\",\"indent\":true,\"cells\":[\"247\",\"+18.8%\",\"+16.5%\",\"693\",\"+15.1%\"]},{\"label\":\"General & administrative (group)\",\"indent\":true,\"cells\":[\"3,050\",\"-9.3%\",\"+8.2%\",\"9,927\",\"+9.1%\"]},{\"label\":\"Capitalised build (investing cash flow)\",\"kind\":\"group\",\"cells\":[\"\",\"\",\"\",\"\",\"\"]},{\"label\":\"Investment in capitalised software & licences\",\"indent\":true,\"cells\":[\"~1,700\",\"n/a\",\"vs ~200\",\"3,578\",\"vs 450\"]},{\"label\":\"  of which capitalised internal-use software\",\"indent\":true,\"cells\":[\"n/a\",\"n/a\",\"n/a\",\"~2,780†\",\"vs ~450\"]},{\"label\":\"Intangible assets, net (balance sheet)\",\"indent\":true,\"cells\":[\"13,879\",\"+13.2% (12,264)\",\"n/a\",\"13,879\",\"vs 10,507 at Dec-25\"]},{\"label\":\"Estimated total launch outlay (A&P + dev + capitalised)\",\"indent\":true,\"cells\":[\"~2,950 (est.)\",\"n/a\",\"n/a\",\"~6,150 (est.)\",\"n/a\"]},{\"label\":\"Milestones\",\"kind\":\"group\",\"cells\":[\"\",\"\",\"\",\"\",\"\"]},{\"label\":\"NFA guaranteed-IB licence (ROLR US LLC)\",\"indent\":true,\"cells\":[\"24 Jun-26\",\"\",\"\",\"\",\"\"]},{\"label\":\"DeepEther (mrkts.com) source-code licence\",\"indent\":true,\"cells\":[\"13 Aug-26\",\"\",\"\",\"\",\"\"]},{\"label\":\"Invitation-only beta / public launch\",\"indent\":true,\"cells\":[\"15 Sep-26 / 21 Oct-26\",\"\",\"\",\"\",\"\"]},{\"label\":\"iOS app / Android app\",\"indent\":true,\"cells\":[\"9 Nov-26 / targeted Q4-26\",\"\",\"\",\"\",\"\"]},{\"label\":\"NFA CTA registration; new product\",\"indent\":true,\"cells\":[\"done / before end-Nov-26\",\"\",\"\",\"\",\"\"]},{\"label\":\"ROLR FCM LLC formed; ProphetX agreement\",\"indent\":true,\"cells\":[\"11 Nov-26 / 12 Nov-26 (contingent on FCM)\",\"\",\"\",\"\",\"\"]},{\"label\":\"CDNA exclusivity window\",\"indent\":true,\"cells\":[\"24 months from Apr-26\",\"\",\"\",\"\",\"\"],\"footnote\":\"† Per secondary summary of 10-Q footnotes (not read directly). Segment P&L not disclosed; A&P, dev and G&A are group lines that include residual casino costs. 'Estimated total launch outlay' is our estimate.\"}}}]",
+    "highlights": [
+      {
+        "text": "Casino unit economics have been engineered up: revenue per UDC $507 (+109% YoY, +22% QoQ), hold ~4.5% of wagers (~+120bps), direct costs 33.7% of revenue (vs 40.8%), lifting NGR-less-direct-cost margin to 66% from 59% — gross profit held flat QoQ at $1.6m on 15% lower revenue.",
+        "tag": "structural"
+      },
+      {
+        "text": "ROLR shipped on the stated timeline — beta 15 Sep, public 21 Oct, iOS 9 Nov, Android targeted by year-end — and Q4-26 becomes the first revenue quarter; with the DeepEther source-code licence they own the front end for the first time.",
+        "tag": "early"
+      },
+      {
+        "text": "Balance sheet is debt-free: $13.4m cash, $27.3m equity, $23.5m net equity raised in January; interest income of $115k now offsets part of the loss. EV ~$15m at $2.56.",
+        "tag": "structural"
+      },
+      {
+        "text": "Opex fell 8% YoY to $5.1m even while absorbing launch costs; direct operating costs -59% show the exited-market cost base has genuinely been removed, not just the revenue.",
+        "tag": "structural"
+      },
+      {
+        "text": "Regulatory optionality is being built in the right order: CTA registration done, FCM entity formed with Connamara advising, ProphetX signed for post-FCM contract breadth, DCM/DCO floated — an FCM would sit outside the Crypto.com exclusivity.",
+        "tag": "early"
+      },
+      {
+        "text": "Senior hires are credible for the pivot: Flip Pidot (CBO, prediction-markets veteran) and Ben Sutherland (SVP Product, ex-CEO Greentube USA), plus Kindbridge responsible-trading framework ahead of scale.",
+        "tag": "early"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Casino volume collapse: actives -75% to 5,448, UDCs -77% to 4,723, first-time depositors ~-95%, wagers -64% to $53.3m, deposits -63% to $8.8m; revenue -51% YoY and still -15% QoQ — the decay rate is ~15%/quarter before the NZ exit.",
+        "tag": "structural"
+      },
+      {
+        "text": "Burn stepped up: adj. EBITDA -$2.1m (vs -$0.2m), operating loss -$2.7m, ~$4.7m total cash reduction in the quarter incl. $1.7m capitalised build; 9M FCF -$12.5m against $13.4m cash — 'at least twelve months' of runway looks dependent on ROLR revenue or spend flexibility, and dilution risk in H1-27 is material.",
+        "tag": "structural"
+      },
+      {
+        "text": "New Zealand (22% of NGR) exits on 1 Dec with full effect from Q1-27; Finland then becomes ~85% of a ~$1.6m/quarter book while itself moving to a licensed regime in 2027 — licensing intent and tax impact undisclosed.",
+        "tag": "watch"
+      },
+      {
+        "text": "Q1 and H1-26 10-Qs restated in October (~$1.0m placement-agent warrant cost moved from G&A to APIC) and ICFR material weaknesses remain unremediated — a review failure on a significant transaction at a company about to report a brand-new revenue stream.",
+        "tag": "governance"
+      },
+      {
+        "text": "Related-party marketing: founder-affiliated Spike Up Media took $541k (54% of A&P) vs $92k a year ago, plus a $333k related-party prepayment and $1.6m due to affiliates; management would not disclose the allocation of launch spend to shareholder-affiliated partners when asked on the call.",
+        "tag": "governance"
+      },
+      {
+        "text": "Zero ROLR disclosure — no funded accounts, volume, take rate, CAC or Crypto.com revenue-share terms — with first data promised only at FY results in March 2027; 24-month CDNA exclusivity caps contract breadth until an FCM is (maybe) obtained.",
+        "tag": "watch"
+      },
+      {
+        "text": "G&A rose 8% to $3.05m (127% of revenue) and SBC was $0.42m on a $2.4m revenue base; fixed overhead is roughly 2x casino gross profit, so the group is structurally loss-making until ROLR scales.",
+        "tag": "structural"
+      }
+    ],
+    "forecast": {
+      "intro": "There is no numeric guidance to bridge — High Roller has never issued revenue or EBITDA targets. The qualitative framework moved in three ways versus the August (Q2) framing. First, ROLR went from 'planned launch' to launched (beta 15 Sep, public 21 Oct, iOS 9 Nov), so Q4-26 is confirmed as the first quarter with prediction-markets revenue and 2027 is positioned as 'the major growth driver'. Second, the casino outlook deteriorated: the New Zealand exit on 1 Dec (new since Q2; 22% of Q3 NGR) means casino revenue 'steps down further from December with full effect from Q1-27', on top of a ~15%/quarter organic decay. Third, spend intent firmed up — 'we're definitely in growth mode… looking to get out there and spend' — while the liquidity assurance ('sufficient… for at least the next twelve months') was simply repeated despite cash falling from $18.0m to $13.4m in the quarter. The division driving the near-term P&L is therefore the casino on revenue and ROLR on cost; the only division that can change the trajectory is ROLR, and it has no disclosed KPIs.",
+      "bridge": [
+        {
+          "title": "Casino NGR run-rate",
+          "value": "Q3 $2.40m → Q4-26E ~$2.0–2.2m → Q1-27E ~$1.5–1.7m",
+          "change": "~-15%/qtr organic decay plus NZ exit (~$0.17m/month) from 1 Dec [our estimate]"
+        },
+        {
+          "title": "ROLR revenue",
+          "value": "Q3 $0 → Q4-26E immaterial (~$0.1–0.4m)",
+          "change": "~10 weeks live, iOS from 9 Nov, no Android, IB take rate undisclosed [our estimate, low confidence]"
+        },
+        {
+          "title": "Adj. EBITDA / cash burn",
+          "value": "Q3 -$2.1m / ~-$4.7m cash → Q4-26E -$3m to -$4m / ~-$4.5–5.5m cash",
+          "change": "A&P ramp to ~$1.5–2.5m, G&A ~$3.0–3.3m, capitalised dev ~$1–1.5m [our estimate]"
+        },
+        {
+          "title": "Year-end cash & runway",
+          "value": "$13.4m (30 Sep) → YE-26E ~$8–9m",
+          "change": "~2 quarters of cover at the Q4 run-rate without ROLR revenue → equity raise likely H1-27 [our estimate]"
+        }
+      ],
+      "view": "**Q4-26E: revenue ~$2.2–2.6m (-55% to -60% YoY vs a ~$5.5–6m Q4-25 base we have not verified), adj. EBITDA -$3m to -$4m, margin below -120%.** FY26E revenue ~$10.8–11.2m and adj. EBITDA ~-$8.5m to -$9.5m on our arithmetic (9M actual $8.57m / -$5.18m plus the Q4 range). **Leverage direction: net cash shrinks from $13.4m toward ~$8–9m at year-end and ~$4–5m by mid-2027 absent ROLR revenue or a raise; there is no debt and we would not expect any — the funding route is equity, and the January placement-agent/warrant structure is the template.** For 2027 the casino book is ~$1.5m/quarter and falling, so group revenue is essentially ROLR's commission share of customer trading on CDNA contracts: at an assumed IB take of a few basis points of notional, the platform would need hundreds of millions of dollars of quarterly contract volume to replace even the lost casino revenue — an outcome that is possible in this market but unproven for a sub-scale, single-exchange IB competing against Kalshi, Polymarket, DraftKings, FanDuel/CME and Robinhood for the same CAC. Swing factors, in order of importance: (1) ROLR funded accounts, volume and net revenue per account in the March FY print; (2) the Crypto.com revenue-share and whether an FCM registration is actually pursued (it would change the economics and the capital need); (3) Q4 marketing intensity and the related-party share of it; (4) the Finland licensing decision for 2027; (5) state/federal action on sports event contracts, which is the main exogenous risk to the whole model. Our stance: the quarter was as expected on the casino and uninformative on ROLR; the equity trades as a ~$15m-EV option whose first real datapoint is four months away, and the probability of needing to exercise financing before that datapoint is the key risk to the share count.",
+      "watch": [
+        "ROLR KPIs at the FY26 print (March 2027): funded accounts, contract volume, net revenue per account, CAC payback — and whether management commits to a recurring disclosure set",
+        "Q4 cash burn and year-end cash vs. our ~$8–9m estimate; any S-3/ATM, registered direct or warrant exercise activity (94,625 placement-agent warrants at $16.51 are far out of the money)",
+        "Android app timing (targeted Q4-26) and the late-November CTA-linked product release — what it is and whether it carries incremental regulatory exposure",
+        "FCM decision: whether ROLR FCM LLC actually files with the CFTC/NFA; capital requirements; impact on the Crypto.com/CDNA exclusivity and the ProphetX effective date",
+        "New Zealand exit mechanics from 1 Dec (player-balance run-off, any retained customers) and the resulting Q1-27 casino base; Finland 2027 licensing — application intent, tax rate and compliance cost on 67% of NGR",
+        "Related-party spend trajectory (Spike Up Media A&P, prepayments, due to affiliates) and whether the board provides allocation disclosure after the analyst challenge",
+        "Remediation of the two ICFR material weaknesses and audit scope for FY26 given the restatement and a new revenue stream with third-party-carried accounts",
+        "Regulatory: state litigation/enforcement on sports event contracts and CFTC posture; any state-level geo-blocking that narrows ROLR's addressable US footprint",
+        "Competitive promo intensity in prediction markets (Kalshi, Polymarket, DraftKings, FanDuel/CME, Robinhood, Crypto.com's own app) and its effect on ROLR CAC"
+      ]
+    },
+    "sharePriceReaction": "Release and call came after the 13 Nov close; the regular session was already -7.1% to $3.03 and the stock slipped a further -7.3% to $2.81 after hours. First full session (Mon 16 Nov): -15.5% to $2.56 (market cap ~$28m, ~1.0x book; EV ~$15m). 52-week range $1.16–$33.68 — ~92% below the January spike at which the $25m registered direct was priced at $13.21.",
+    "confidence": "HIGH",
+    "confidenceNote": "Reporting currency USD — no FX conversion required. Headline P&L, balance sheet, cash flow, adj. EBITDA reconciliation, Q3 geographic split and the QAU/UDC/wagers/deposits KPIs are taken directly from the 8-K Ex. 99.1 and 10-Q (SEC) and cross-checked to the call transcript and Investing.com/Gaming.net; Q2-26 comparatives from the Q2 8-K. Items NOT directly verified and labelled as such in the tables: (i) first-time depositors ~-95%, capitalised internal-use software ~$2.78m (9M), 'two material weaknesses' and the Spike Up $0.54m/$0.3m prepayment detail are from Panabee's summary of the 10-Q MD&A/Item 4 (the 10-Q MD&A text was truncated in our fetch); (ii) Q3-25 wagers (~$148m) are implied from the 10-Q's '-64%'; (iii) Q2-26 Finland/NZ revenue is derived (9M less Q1 less Q3); (iv) Q3 operating cash flow (~-$3.0m) and total Q3 cash reduction (~$4.7m) are derived from balance-sheet movement and the CFO's '$1.7m' Q3 investing comment; (v) 9M UDCs (~20,047) is a sum of quarters; (vi) Q4-25 revenue base and all Q4-26/FY26/2027 figures in the forecast are our estimates. The user-supplied Gaming Intelligence URL could not be fetched (access error); only its search snippet (revenue -51% to $2.4m) was used, and it is corroborated by primary sources. Adjusted EPS was not reported for Q3-26.",
+    "sources": [
+      {
+        "label": "High Roller Technologies — Q3 2026 results press release (8-K Exhibit 99.1, 13 Nov 2026): P&L, balance sheet, adj. EBITDA reconciliation, management commentary",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/1947210/000175392626002133/ex991_1.htm"
+      },
+      {
+        "label": "High Roller Technologies — Form 10-Q for the quarter ended 30 Sep 2026 (filed 13 Nov 2026): financial statements, cash flow, Note 3 revenue by geography, restatement note, KPI disclosures (QAU/UDC/wagers/deposits)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001947210/000175392626002131/rolr-20260930.htm"
+      },
+      {
+        "label": "High Roller Technologies — Q2 2026 results press release (8-K Exhibit 99.1, 11 Aug 2026): Q2-26 comparatives",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001947210/000175392626001423/ex991_1.htm"
+      },
+      {
+        "label": "High Roller Technologies — Form 10-Q/A for the quarter ended 30 Jun 2026 (restated; filed 16 Oct 2026)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001947210/000175392626001960/rolr-20260630.htm"
+      },
+      {
+        "label": "High Roller Technologies — Form 10-Q for the quarter ended 31 Mar 2026 (Q1-26 geographic split and KPIs, via indexed excerpts)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001947210/000175392626000822/rolr-20260331.htm"
+      },
+      {
+        "label": "Q3 2026 earnings call transcript (13 Nov 2026) — The Motley Fool",
+        "kind": "secondary",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/11/14/high-roller-rolr-q3-2026-earnings-call-transcript/"
+      },
+      {
+        "label": "Investing.com — 'Earnings call transcript: High Roller Technologies posts wider Q3 2026 loss' (share price on the day; corroboration)",
+        "kind": "secondary",
+        "url": "https://uk.investing.com/news/stock-market-news/earnings-call-transcript-high-roller-technologies-posts-wider-q3-2026-loss-93CH-4982120"
+      },
+      {
+        "label": "Panabee — 'High Roller (ROLR) Q3 2026 Earnings: Net Gaming Revenue Falls 51%' (summary of 10-Q MD&A/footnotes: first-time depositors, capitalised software, material weaknesses, Spike Up detail)",
+        "kind": "secondary",
+        "url": "https://www.panabee.com/news/high-roller-earnings-q3-2026"
+      },
+      {
+        "label": "Gaming.net — 'High Roller Q3 Revenue Falls 51% as ROLR Starts Booking Revenue' (13 Nov 2026; corroboration and release timing)",
+        "kind": "secondary",
+        "url": "https://www.gaming.net/high-roller-q3-revenue-falls-51-as-rolr-starts-booking-revenue/"
+      },
+      {
+        "label": "Gaming Intelligence — 'High Roller Technologies swings to loss in Q3 2026' (user-supplied; page not accessible, search snippet only)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/238716-high-roller-technologies-swings-to-loss-in-q3-2026/"
+      },
+      {
+        "label": "CNN Markets — ROLR quote (16 Nov 2026 close $2.56, -15.51%)",
+        "kind": "secondary",
+        "url": "https://www.cnn.com/markets/stocks/ROLR"
+      },
+      {
+        "label": "Chartmill — ROLR quote/technical page (16 Nov 2026 close corroboration)",
+        "kind": "secondary",
+        "url": "https://www.chartmill.com/stock/quote/ROLR/technical-analysis"
+      },
+      {
+        "label": "StockAnalysis — ROLR overview (13 Nov intraday price, market cap, 52-week range)",
+        "kind": "secondary",
+        "url": "https://stockanalysis.com/stocks/rolr/"
+      },
+      {
+        "label": "Yahoo Finance — ROLR quote (market cap, previous close)",
+        "kind": "secondary",
+        "url": "https://sg.finance.yahoo.com/quote/ROLR/"
+      },
+      {
+        "label": "StockTitan — summary of Q3 2025 10-Q (Q3-25 and 9M-25 UDC comparators: 20,128 / 64,453)",
+        "kind": "secondary",
+        "url": "https://www.stocktitan.net/sec-filings/ROLR/10-q-high-roller-technologies-inc-quarterly-earnings-report-2f990e738ed6.html"
+      }
+    ]
+  }
+}

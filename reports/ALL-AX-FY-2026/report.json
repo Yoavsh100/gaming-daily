@@ -1,0 +1,1973 @@
+{
+  "company": {
+    "name": "Aristocrat Leisure Limited",
+    "ticker": "ALL.AX",
+    "exchange": ""
+  },
+  "period": "FY 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 4389847,
+    "output": 72829,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 94,
+    "cacheRead": 4202017,
+    "cacheWrite": 187736,
+    "turns": 1
+  },
+  "prepared": "17 Nov 2026",
+  "report": {
+    "releaseDate": "12 Nov 2026",
+    "currency": "AUD (A$) — company reporting currency; tables in A$ millions with ~US$ equivalents at AUD/USD 0.6841 (RBA 4pm fix, 12 Nov 2026). Segment KPIs for North America, Product Madness and Interactive are shown in US$ as the company reports them.",
+    "verdict": "A clean, Gaming-led FY26 (year to 30 Sep 2026): normalised NPATA A$1,578.5m (~US$1,080m) +1.8% reported / +9.7% constant currency and EPSA 259.3c (~US$1.77) +13% cc, built on ~6,500 net North American Gaming Operations adds to 81,678 units at a 39% share and A$1.93bn (~US$1.32bn) returned to shareholders. The quality fades into the second half — H2 NPATA A$784.5m (~US$537m) was -4% YoY reported (≈+4% cc, our estimate, vs +16% cc in H1), ~A$45m of Light & Wonder settlement recovery sits inside the \"normalised\" corporate line, Interactive margins fell 280bps and D&D ran ahead of guidance. The ~7% intraday sell-off (close -1.3% at A$65.02 / ~US$44.48) was about CEO Trevor Croker's April-2027 retirement and the unquantified \"NPATA growth in cc\" FY27 outlook, not the numbers.",
+    "kpis": [
+      {
+        "label": "Revenue (normalised)",
+        "value": "A$6,092m (~US$4.17bn)",
+        "delta": "-3.2% reported / +3.8% cc",
+        "dir": "down"
+      },
+      {
+        "label": "NPATA (normalised)",
+        "value": "A$1,578.5m (~US$1,080m)",
+        "delta": "+1.8% reported / +9.7% cc",
+        "dir": "up"
+      },
+      {
+        "label": "EBITA margin",
+        "value": "36.7%",
+        "delta": "+120bps reported (+140bps cc)",
+        "dir": "up"
+      },
+      {
+        "label": "EPSA (diluted, normalised)",
+        "value": "259.3c (~US$1.77)",
+        "delta": "+4.9% reported / +13.0% cc",
+        "dir": "up"
+      },
+      {
+        "label": "Total DPS",
+        "value": "101.0c (~US$0.69)",
+        "delta": "+8.6%; A$1.93bn (~US$1.32bn) returned incl. buyback",
+        "dir": "up"
+      },
+      {
+        "label": "Net debt / Bank EBITDA",
+        "value": "0.4x",
+        "delta": "from 0.2x; net debt A$1,135m (~US$776m) vs A$423m",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**Headline: solid on earnings, soft on reported revenue, no clear beat.** Normalised revenue A$6,092.4m (~US$4,168m) -3.2% reported but +3.8% constant currency (cc); EBITA A$2,236.1m (~US$1,530m) +0.1% / +7.9% cc; NPATA A$1,578.5m (~US$1,080m) +1.8% / +9.7% cc; EPSA 259.3c (~US$1.77) +4.9% / +13.0% cc. A stronger A$ (FY average 0.6933 vs 0.6414) stripped A$441m from revenue and A$123m from NPATA. JP Morgan said Gaming Ops net adds and fee-per-day beat its forecasts; a public consensus NPATA print could not be verified [unverified].",
+      "**Statutory: continuing PAT A$1,364.4m (~US$933m) +15.2%; total profit A$1,371.4m (~US$938m) -16.4%** because FY25 carried A$456.2m from the discontinued Plarium disposal. Statutory diluted EPS 225.3c (~US$1.54) vs 261.5c; continuing diluted EPS 224.1c (~US$1.53) vs 188.7c. Statutory ETR jumped to 35.1% (28.5%) on a A$152.1m deferred-tax charge relating to historical group restructuring (treated as a significant item).",
+      "**Normalisation adds back A$79.0m net after tax, and one more A$45m hides inside 'normalised'.** Significant items: L&W litigation settlement A$138.7m pre-tax (A$100.3m post) as a gain; Big Fish/Plarium gains A$68.9m; acquisition costs (A$62.9m); White Label exit costs (A$29.8m); the DTA charge (A$152.1m). Separately, ~A$45m (US$30m) of the A$184m (~US$126m) total L&W settlement was booked in the normalised corporate line as legal-cost recovery — strip it out and normalised EBITA was -1.9% reported (~+6% cc), not +0.1% / +7.9%. FY27 laps this in H1.",
+      "**Guidance scorecard: FY26 delivered on every stated metric bar D&D; FY27 is directionally identical and unquantified.** May-26 guidance was 'NPATA growth in cc' (delivered +9.7%), NA Gaming Ops net adds at the 'upper end' of 4,000–5,000 (delivered ~6,500), fee-per-day to rise (US$53.93, +1.3%; H2 +3% sequential), UA 18–21% of Product Madness revenue (19%), ETR ~27% (27.4%), D&D mid-single-digit cc growth (missed: +9% cc to A$810.4m / ~US$554m, 'ahead of guidance' on new iLottery contracts and acquisitions). FY27: 'NPATA growth on a constant-currency basis', with Gaming revenue/share growth, PM share gains with rising DTC, and Interactive 'accelerating' toward the FY29 US$1bn revenue target. The call transcript refers to slide 17 as 'EBITA growth'; we treat the ASX release wording (NPATA) as authoritative but flag the inconsistency.",
+      "**Which division drove it: Gaming, unambiguously.** Gaming segment profit A$2,208.2m (~US$1,511m) +2.2% / +9.8% cc at a 54.9% margin (+30bps) is now 70% of segment profit (68% FY25). Product Madness profit A$752.2m (~US$515m) -6.5% / +1.1% cc (FY25 included Big Fish social-casual, sold Oct-25); Interactive profit A$177.6m (~US$121m) -13.2% / -5.8% cc. Total segment profit A$3,138.0m (~US$2,147m) -1.0% / +6.6% cc.",
+      "**H2 decelerated sharply (our derivation, FY26 less HY26).** H2 revenue A$3,064.2m (~US$2,096m) -6.1% YoY (+1.2% HoH); H2 EBITA A$1,118.7m (~US$765m) -5.4% YoY with margin 36.5% vs 36.9% in H1; H2 NPATA A$784.5m (~US$537m) -4.1% YoY and -1.2% HoH. Implied cc growth in H2 was only ≈+1% revenue / ≈+4% NPATA (est.) versus +6% / +16% in H1 — the Big Fish disposal (~US$100m of FY25 revenue), the White Label exit and tougher Gaming comps all land in the second half.",
+      "**North American Gaming Operations is the engine.** Installed base +6,453 units (+8.6%) to 81,678 — Class III premium 51,590 (+13.8%), Class II 30,088 (+0.7%); market share +2.7pts to 39% (Eilers 2Q26); fee-per-day US$53.93 (+1.3% FY, +3% H2 sequential). Adds were back-half weighted (~2,000 H1 / ~4,400 H2), so the exit run-rate (81,678 × US$53.93 × 365 ≈ US$1.61bn annualised vs ≈US$1.53bn on our FY26 average-base estimate) carries ~5% revenue momentum into FY27 before any new placements. Aristocrat held 17 of Eilers' top-25 premium leased games and 1.4x house-average performance.",
+      "**Outright sales were strong in every region.** NA units 26,923 (+8.5%) at ASP US$21,772 (+4.9%), with adjacencies (Georgia COAM, Illinois VGT) 6,762 units (+4.9%, double-digit in both states); ANZ 11,007 units (+13.2%), ASP A$25,649 (~US$17,546) +7.5%, ship share 45% (+2pts); RoW ex-ANZ units -3.0% (LatAm) but ASP US$23,824 +8.0% (Asia mix). Rest of World profit A$379.0m (~US$259m) +10.3%, margin 44.9% (+270bps). Gaming operations revenue A$2,206.2m (~US$1,509m) -0.4% reported (FX-masked ~high-single-digit US$ growth); outright sales & other A$1,814.5m (~US$1,241m) +4.0%.",
+      "**Product Madness: share gains in a shrinking market, but growth stalled in H2.** Social Casino revenue US$1,076.8m +2.2%, bookings US$1,071.3m +1.6%, profit US$521.4m +7.0%, margin 48.4% (+210bps) against a Social Casino Slots market down ~11%; share +2pts to 24% (call: +290bps). DTC reached 27% of revenue (30% in H2; 16% in FY25) and is the margin lever; UA rose to 19% of revenue (17%). DAU -8% to 1.2m, ABPDAU US$2.36 (+8%). H2 social casino revenue was flat YoY in US$ (US$535.1m vs US$536.2m) after +4.7% in H1.",
+      "**Interactive: right mix, wrong margin.** Total revenue (incl. 50% NPI JV share) US$457.2m +3.4%: Content US$108.6m +16.9% (Lightning Link High Stakes/Tiki Fire; iSlots share 8%), iLottery US$179.6m +16.8% (Michigan and Massachusetts live in July; 69% US gross-wager share), Platforms US$169.0m -13.6% (White Label exit, CXS contract timing slipping into FY27, early-stage Awager/Gaming Analytics). Profit US$122.6m -6.2%, margin 26.8% (-280bps); H2 margin 25.7%. Management: ex-White Label, revenue growth was 'almost 10%'. The FY29 US$1bn target now needs a ~22% CAGR.",
+      "**Cost programme: A$100m (~US$68m) of annualised savings 'during FY27'** from the One Aristocrat operating model and AI-enabled productivity; management explicitly said a portion will be reinvested in strategic priorities, so full drop-through should not be modelled. Underlying corporate costs were 'marginally higher' (inflation and redundancy payments offset by productivity savings) once the L&W recovery is excluded.",
+      "**Cash: generous returns, weaker conversion, rising leverage.** Operating cash flow A$1,889.1m (~US$1,292m) -2.3% on a A$265m working-capital build (Gaming receivables, inventory +16% for The Baron/Reign cabinets, payables timing; NWC/revenue 8.6% vs 5.8%). FCF (OCF less net capex A$436.8m) ≈A$1,452m (~US$994m), -3.8%. Returned A$1,930m (~US$1,320m): dividends A$603.4m (~US$413m) plus buyback A$1,326.7m (~US$908m; 24.5m shares at an average A$54.09 / ~US$37.00). Net debt rose A$712m to A$1,134.9m (~US$776m), 0.4x Bank EBITDA (0.2x); cash A$373.7m (~US$256m) -71%; liquidity ~A$1.5bn (~US$1.0bn).",
+      "**Balance sheet reset in April-26**: new unsecured US$850m Term Loan A (Apr-2031, US$845m drawn) and US$1.0bn RCF (Apr-2030, US$206m drawn), ~95% of floating exposure swapped; interest cover 31.5x; ratings BBB (S&P), Baa3 positive (Moody's), BBB (Fitch). Net interest fell A$29m to A$72.7m (~US$50m).",
+      "**Buyback has ~A$0.6bn (~US$410m) of headroom** under the A$2.5bn authorisation running to 12 May 2027 (A$1.9bn completed at 30 Sep); shares on issue -4.0% to 592.3m and WANOS -2.9% explain the gap between NPATA +1.8% and EPSA +4.9% reported. Final DPS 51c (~US$0.35), unfranked, payable 8 Dec; FY DPS 101c (~US$0.69), 38% NPATA payout; DRP suspended.",
+      "**Management transition is the share-price story.** CEO Trevor Croker (since Mar-2017) retires April 2027; Dafne Guisard — Chief Commercial Officer EMEA since Feb-26 and head of Product Madness since May-26, i.e. less than 15 months inside the group — is CEO-elect and relocates from London to Las Vegas, subject to regulatory pre-approvals. The Board called it 'an evolution, not a reset' after an internal and external search. Other changes: Dylan Slaney (CEO Interactive, Nov-25), Bob Serr (CTO, Feb-26), Michael Rumbolz (ex-Everi) joined the Board Aug-26, Pat Ramsey retired Feb-26, Bill Lance became Lead US Director.",
+      "**M&A and legal.** Acquired Awager (live slot streaming) for A$112.4m (~US$77m, Nov-25) and Gaming Analytics (AI player analytics) for A$83.8m (~US$57m, Jan-26) — A$138.7m of goodwill, both early-stage and loss-making, a drag on Interactive 'this year, maybe next year as well'. L&W litigation (Dragon Train) settled Jan-26 for A$184m (~US$126m) cash; a High Court patent win and an Ainsworth licensing agreement were cited on the call; the NeoGames legal provision was released.",
+      "**Regulatory and risk disclosures to note**: social casino scrutiny 'in at least one US state and Australia' (age assurance, consumer protection); prediction markets flagged as a new regulatory/competitive risk to regulated and tribal customers; tariffs and memory/semiconductor pricing on the supply chain; UAE market opening targeted for 2027; withdrawal from selected jurisdictions as part of de-risking.",
+      "**Thesis read-through.** The land-based franchise is compounding (Gaming cc profit +10%, ops base +9%, share 39%) and funds an aggressive buyback, but the two 'growth' engines are not yet pulling their weight — PM is a share-gain story in an -11% market and Interactive margins are going the wrong way while D&D runs ahead of guidance. FY27 is a year of annualising placements and cost-out under a new CEO; the stock de-rated intraday on succession, not on the numbers.",
+      "**Share price**: opened A$65.80, traded as low as A$61.18 (~-7%) as succession overshadowed the result, closed A$65.02 (~US$44.48), -1.3% on the day."
+    ],
+    "groupTable": {
+      "note": "A$m, normalised unless stated (~US$m at 0.6841 in brackets)",
+      "columns": [
+        "H2-26",
+        "HoH",
+        "YoY",
+        "FY26",
+        "FY25",
+        "FY YoY rep.",
+        "FY YoY cc"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by segment",
+          "kind": "group"
+        },
+        {
+          "label": "Aristocrat Gaming",
+          "indent": true,
+          "cells": [
+            "2,060.1 (~$1,409)",
+            "+5.1%",
+            "-1.4%",
+            "4,020.7 (~$2,751)",
+            "3,960.0",
+            "+1.5%",
+            "+8.7%"
+          ]
+        },
+        {
+          "label": "Product Madness",
+          "indent": true,
+          "cells": [
+            "756.5 (~$518)",
+            "-6.1%",
+            "-15.9%",
+            "1,562.1 (~$1,069)",
+            "1,800.3",
+            "-13.2%",
+            "-6.3%"
+          ]
+        },
+        {
+          "label": "Aristocrat Interactive",
+          "indent": true,
+          "cells": [
+            "247.6 (~$169)",
+            "-5.5%",
+            "-9.3%",
+            "509.6 (~$349)",
+            "536.7",
+            "-5.0%",
+            "+0.8%"
+          ]
+        },
+        {
+          "label": "Total revenue",
+          "kind": "emphasis",
+          "cells": [
+            "3,064.2 (~$2,096)",
+            "+1.2%",
+            "-6.1%",
+            "6,092.4 (~$4,168)",
+            "6,297.0",
+            "-3.2%",
+            "+3.8%"
+          ]
+        },
+        {
+          "label": "Revenue by product (statutory note 1-2)",
+          "kind": "group"
+        },
+        {
+          "label": "Gaming operations (recurring lease/participation)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "2,206.2 (~$1,509)",
+            "2,215.5",
+            "-0.4%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Gaming outright sales & other",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "1,814.5 (~$1,241)",
+            "1,744.5",
+            "+4.0%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Social casino / digital (Product Madness)",
+          "indent": true,
+          "cells": [
+            "756.5 (~$518)",
+            "-6.1%",
+            "-15.9%",
+            "1,562.1 (~$1,069)",
+            "1,800.3",
+            "-13.2%",
+            "-6.3%"
+          ]
+        },
+        {
+          "label": "Online RMG (Interactive)",
+          "indent": true,
+          "cells": [
+            "247.6 (~$169)",
+            "-5.5%",
+            "-9.3%",
+            "509.6 (~$349)",
+            "536.7",
+            "-5.0%",
+            "+0.8%"
+          ]
+        },
+        {
+          "label": "Recurring revenue share of group",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "~70%",
+            "~70%",
+            "flat",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Segment profit (pre-D&D, pre-corporate)",
+          "kind": "group"
+        },
+        {
+          "label": "Aristocrat Gaming",
+          "indent": true,
+          "cells": [
+            "1,144.9 (~$783)",
+            "+7.7%",
+            "+1.4%",
+            "2,208.2 (~$1,511)",
+            "2,161.1",
+            "+2.2%",
+            "+9.8%"
+          ]
+        },
+        {
+          "label": "Gaming margin",
+          "indent": true,
+          "cells": [
+            "55.6%",
+            "+140bps",
+            "+160bps",
+            "54.9%",
+            "54.6%",
+            "+30bps",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Product Madness",
+          "indent": true,
+          "cells": [
+            "378.9 (~$259)",
+            "+1.5%",
+            "-9.3%",
+            "752.2 (~$515)",
+            "804.4",
+            "-6.5%",
+            "+1.1%"
+          ]
+        },
+        {
+          "label": "Product Madness margin",
+          "indent": true,
+          "cells": [
+            "50.1%",
+            "+380bps",
+            "+360bps",
+            "48.2%",
+            "44.7%",
+            "+350bps",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Aristocrat Interactive",
+          "indent": true,
+          "cells": [
+            "82.4 (~$56)",
+            "-13.4%",
+            "-9.5%",
+            "177.6 (~$121)",
+            "204.6",
+            "-13.2%",
+            "-5.8%"
+          ]
+        },
+        {
+          "label": "Interactive margin (A$ basis)",
+          "indent": true,
+          "cells": [
+            "33.3%",
+            "-300bps",
+            "flat",
+            "34.9%",
+            "38.1%",
+            "-320bps",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Total segment profit",
+          "kind": "emphasis",
+          "cells": [
+            "1,606.2 (~$1,099)",
+            "+4.9%",
+            "-1.9%",
+            "3,138.0 (~$2,147)",
+            "3,170.1",
+            "-1.0%",
+            "+6.6%"
+          ]
+        },
+        {
+          "label": "Group P&L (normalised)",
+          "kind": "group"
+        },
+        {
+          "label": "Group D&D expense",
+          "indent": true,
+          "cells": [
+            "(403.4) (~$276)",
+            "-0.9%",
+            "+1.6%",
+            "(810.4) (~$554)",
+            "(799.6)",
+            "+1.4%",
+            "+8.7%"
+          ]
+        },
+        {
+          "label": "Corporate, FX & other",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "(91.5) (~$63)",
+            "(136.2)",
+            "-32.8%",
+            "-27.1%"
+          ],
+          "footnote": "FY26 includes ~A$45m (US$30m) Light & Wonder legal-cost recovery; ex this, underlying corporate costs were marginally higher YoY."
+        },
+        {
+          "label": "EBITA",
+          "kind": "emphasis",
+          "cells": [
+            "1,118.7 (~$765)",
+            "+0.1%",
+            "-5.4%",
+            "2,236.1 (~$1,530)",
+            "2,234.3",
+            "+0.1%",
+            "+7.9%"
+          ],
+          "footnote": "H2-25 base (A$1,182m) derived from H1-25 EBITA of A$1,117.4m/1.062; approximate."
+        },
+        {
+          "label": "EBITA margin",
+          "indent": true,
+          "cells": [
+            "36.5%",
+            "-40bps",
+            "n/a",
+            "36.7%",
+            "35.5%",
+            "+120bps",
+            "+140bps"
+          ]
+        },
+        {
+          "label": "EBITDA",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "2,638.7 (~$1,805)",
+            "2,628.9",
+            "+0.4%",
+            "+5.9%"
+          ]
+        },
+        {
+          "label": "EBITDA margin",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "43.3%",
+            "41.7%",
+            "+160bps",
+            "+90bps"
+          ]
+        },
+        {
+          "label": "Amortisation of acquired intangibles",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "(165.0) (~$113)",
+            "(166.8)",
+            "-1.1%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Net interest",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "(72.7) (~$50)",
+            "(101.4)",
+            "-28.3%",
+            "-21.8%"
+          ]
+        },
+        {
+          "label": "Income tax (ETR)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "(548.0) (~$375); 27.4%",
+            "(544.9); 27.7%",
+            "+0.6%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "NPAT (normalised)",
+          "indent": true,
+          "cells": [
+            "725.0 (~$496)",
+            "-0.1%",
+            "-4.1%",
+            "1,450.4 (~$992)",
+            "1,421.2",
+            "+2.1%",
+            "+9.9%"
+          ]
+        },
+        {
+          "label": "NPATA (normalised)",
+          "kind": "emphasis",
+          "cells": [
+            "784.5 (~$537)",
+            "-1.2%",
+            "-4.1%",
+            "1,578.5 (~$1,080)",
+            "1,550.7",
+            "+1.8%",
+            "+9.7%"
+          ]
+        },
+        {
+          "label": "NPATA margin",
+          "indent": true,
+          "cells": [
+            "25.6%",
+            "-60bps",
+            "n/a",
+            "25.9%",
+            "24.6%",
+            "+130bps",
+            "+140bps"
+          ]
+        },
+        {
+          "label": "Statutory PAT — continuing operations",
+          "indent": true,
+          "cells": [
+            "565.9 (~$387)",
+            "-29.1%",
+            "-15.9%",
+            "1,364.4 (~$933)",
+            "1,184.1",
+            "+15.2%",
+            "+24.0%"
+          ]
+        },
+        {
+          "label": "Statutory profit incl. discontinued (Plarium)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "1,371.4 (~$938)",
+            "1,640.3",
+            "-16.4%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Per share",
+          "kind": "group"
+        },
+        {
+          "label": "Normalised diluted EPS",
+          "indent": true,
+          "cells": [
+            "120.4c (~$0.82)",
+            "+2.1%",
+            "≈-0.4%",
+            "238.3c (~$1.63)",
+            "226.5c",
+            "+5.2%",
+            "+13.3%"
+          ]
+        },
+        {
+          "label": "EPSA (diluted, pre-amortisation)",
+          "indent": true,
+          "cells": [
+            "130.3c (~$0.89)",
+            "+1.0%",
+            "≈-0.5%",
+            "259.3c (~$1.77)",
+            "247.2c",
+            "+4.9%",
+            "+13.0%"
+          ]
+        },
+        {
+          "label": "Statutory diluted EPS — total",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "225.3c (~$1.54)",
+            "261.5c",
+            "-13.8%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Statutory diluted EPS — continuing",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "224.1c (~$1.53)",
+            "188.7c",
+            "+18.8%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Dividend per share (unfranked)",
+          "indent": true,
+          "cells": [
+            "51.0c final (~$0.35)",
+            "+2.0% vs 50c interim",
+            "+4.1% vs 49c",
+            "101.0c (~$0.69)",
+            "93.0c",
+            "+8.6%",
+            "+8.6%"
+          ]
+        },
+        {
+          "label": "Shares on issue / WANOS (m)",
+          "indent": true,
+          "cells": [
+            "592.3 / n/a",
+            "n/a",
+            "n/a",
+            "592.3 / 606.3",
+            "616.9 / 624.1",
+            "-4.0% / -2.9%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group"
+        },
+        {
+          "label": "NA Gaming Ops installed base (units)",
+          "indent": true,
+          "cells": [
+            "81,678",
+            "+5.7% (≈+4,400 adds)",
+            "+8.6%",
+            "81,678",
+            "75,225",
+            "+8.6%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "NA Gaming Ops fee per day (US$)",
+          "indent": true,
+          "cells": [
+            "+3% sequential (level n/a)",
+            "+3%",
+            "n/a",
+            "53.93",
+            "53.23",
+            "+1.3%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Social Casino DAU (m, year-end)",
+          "indent": true,
+          "cells": [
+            "1.2",
+            "n/a",
+            "-8%",
+            "1.2",
+            "1.3",
+            "-8%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Social Casino DTC % of revenue",
+          "indent": true,
+          "cells": [
+            "30%",
+            "+6pts vs 24% H1",
+            "n/a",
+            "27%",
+            "16%",
+            "+11pts",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Cash flow & balance sheet",
+          "kind": "group"
+        },
+        {
+          "label": "Operating cash flow",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "1,889.1 (~$1,292)",
+            "1,933.7",
+            "-2.3%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Net capital expenditure",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "(436.8) (~$299)",
+            "(423.5)",
+            "+3.1%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Free cash flow (OCF less net capex, our calc.)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "1,452.3 (~$994)",
+            "1,510.2",
+            "-3.8%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Dividends paid / share buy-back",
+          "indent": true,
+          "cells": [
+            "n/a / ~650 (~$445)",
+            "n/a",
+            "n/a",
+            "603.4 (~$413) / 1,326.7 (~$908)",
+            "538.4 / 853.5",
+            "+12.1% / +55.4%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Acquisitions (net of cash acquired)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "(184.7) (~$126)",
+            "(16.0)",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Cash & equivalents (excl. A$70.1m restricted)",
+          "indent": true,
+          "cells": [
+            "373.7 (~$256)",
+            "-41.7% vs 641.1 (Mar-26)",
+            "-70.8%",
+            "373.7 (~$256)",
+            "1,281.8",
+            "-70.8%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Gross debt",
+          "indent": true,
+          "cells": [
+            "1,508.6 (~$1,032)",
+            "-5.1% vs 1,589.7",
+            "-11.5%",
+            "1,508.6 (~$1,032)",
+            "1,705.1",
+            "-11.5%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Net debt",
+          "indent": true,
+          "cells": [
+            "1,134.9 (~$776)",
+            "+19.6% vs 948.6",
+            "+168%",
+            "1,134.9 (~$776)",
+            "423.3",
+            "+168%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Net debt / Bank EBITDA",
+          "indent": true,
+          "cells": [
+            "0.4x",
+            "+0.1x vs 0.3x",
+            "+0.2x",
+            "0.4x",
+            "0.2x",
+            "+0.2x",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Net working capital / revenue",
+          "indent": true,
+          "cells": [
+            "8.6%",
+            "-10bps vs 8.7%",
+            "+280bps",
+            "8.6%",
+            "5.8%",
+            "+280bps",
+            "n/a"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Aristocrat Gaming (land-based: North America + Rest of World)",
+        "headline": "Gaming Ops base +8.6% to 81,678 units at a 39% share and outright sales up in every region drove profit +10% cc at a 55% margin; H2 cc growth roughly halved versus H1 and FPD growth was only +1.3% for the year.",
+        "narrative": [
+          "Gaming delivered revenue of A$4,020.7m (~US$2,751m), +1.5% reported and +8.7% in constant currency, and segment profit of A$2,208.2m (~US$1,511m), +2.2% / +9.8% cc, at a 54.9% margin (+30bps). The segment is now 66% of group revenue and 70% of segment profit (63% / 68% a year ago). Recurring gaming operations revenue was A$2,206.2m (~US$1,509m), -0.4% reported — translation masks what the unit (+8.6%) and fee-per-day (+1.3%) data imply was high-single-digit growth in US dollars — while outright sales and other revenue rose 4.0% to A$1,814.5m (~US$1,241m). On our derivation the second half contributed revenue of A$2,060.1m (~US$1,409m), +5.1% half-on-half but -1.4% YoY, and profit of A$1,144.9m (~US$783m), +7.7% HoH and +1.4% YoY, with the H2 margin at 55.6% (+160bps YoY) on cost discipline and a richer ops mix. The implied H2 cc revenue growth of roughly 6% compares with about 12% in H1 (estimates), so the comp is getting harder even as the installed base compounds.",
+          "In North America, revenue rose 9.1% to US$2,201.1m and profit 8.7% to US$1,267.1m, with the margin at 57.6%, down 20bps on the higher outright-sales mix that management says was substantially offset by operating leverage. The Gaming Operations installed base grew by 6,453 net units (+8.6%) to 81,678 — Class III premium 51,590 (+13.8%) and Class II 30,088 (+0.7%) — against May guidance of 4,000–5,000 at the 'upper end', with roughly 2,000 added in H1 and 4,400 in H2. Share on Eilers' total-market model rose 2.7pts to 39%. Fee per day was US$53.93, +1.3% for the year, with H2 up 3% sequentially; management framed 3% sequential FPD growth as 'a very good outcome' while installing nearly 6,500 units, which is fair, but for the year the base-weighted dilution from the placement wave is visible. The portfolio held 17 of Eilers' top-25 premium leased games and ran at 1.4x house average, led by MONOPOLY Big Board Bucks (Slot of the Year for an eighth consecutive year), Lightning 10 Year Storm, Spooky Link Grand, Buffalo Mega/Ultimate Stampede, House of the Dragon, Dragon Link and Phoenix Link. Class III premium is now 63% of the base — the right place to be on yield, but also where competitor response (Light & Wonder post-settlement, the IGT/Everi combination) will be aimed.",
+          "North American outright sales units rose 8.5% to 26,923 at an average selling price of US$21,772 (+4.9%), driven by Spooky Link on The Baron Portrait cabinet and the August launch of the Reign Single cabinet; adjacencies contributed 6,762 units (+4.9%) with double-digit growth in Georgia COAM and Illinois VGT. Broker commentary put H1 units at roughly 13,100 with ship share of 31% (+260bps), implying ~13,800 units in H2. Inventory was rebuilt to support Baron/Reign demand (group inventories A$305.7m vs A$264.1m), which — together with higher Gaming receivables and payables timing — explains most of the A$265m working-capital outflow at group level. Management's FY27 message is that it has 'one of the strongest pipelines ever planned', with MONOPOLY High Roller, MONOPOLY Double Wild Jackpots and Dragon Link ('early next year') the named launches; it declined to guide net adds, pointing investors to the exit base and FPD as the starting point for FY27. On our arithmetic the exit base annualises to roughly US$1.61bn of ops revenue versus ≈US$1.53bn on the FY26 average base — about 5% of revenue momentum before any FY27 placements.",
+          "Rest of World revenue grew 3.7% to A$844.2m (~US$578m) and profit 10.3% to A$379.0m (~US$259m), lifting the margin 270bps to 44.9% on volume and ASP. In ANZ, Aristocrat sold more than 11,000 units (11,007, +13.2%) at an ASP of A$25,649 (~US$17,546), +7.5% on cabinet mix, and took ship share to 45% (+2pts) on The Baron Upright, Heaven & Earth, Cash Express Legend, Cash Horns and the August release of Phoenix Link on The Baron Portrait. RoW ex-ANZ units slipped 3.0% to 6,731 on weaker Latin America, but ASP rose 8.0% to US$23,824 on Asian cabinet mix; RoW Class III units rose 6.4% to 17,738. The company is positioning for the UAE market opening in 2027 and picked up supplier-of-the-year awards in APAC and EMEA. Risk disclosures worth weighing against the growth narrative: prediction markets operating outside state and tribal frameworks (a direct threat to tribal customers' economics and therefore capex), tariff and memory/semiconductor cost pressure in the supply chain, and withdrawal from selected jurisdictions.",
+          "Segment guidance for FY27 is qualitative — 'continued revenue and market share growth' — supported by back-half-weighted placements and the product cadence. Our estimate is cc revenue growth of 6–8% with a ~55% margin: ops revenue up high-single-digit on annualisation plus a smaller placement year (we assume 3,500–4,500 net adds, below FY26's 6,500), outright sales flat to +3% against a +8.5% unit comp, and ANZ holding share at 45%. The swing factors are FPD (any dilution from a second big placement wave would show up quickly), the Dragon Link relaunch timing, and whether operator capital budgets stay 'supportive' if prediction markets erode tribal cash flows."
+        ],
+        "table": {
+          "note": "Gaming — A$m unless stated (~US$m at 0.6841)",
+          "columns": [
+            "H2-26",
+            "HoH",
+            "YoY",
+            "FY26",
+            "FY25",
+            "FY YoY"
+          ],
+          "rows": [
+            {
+              "label": "Segment revenue (A$m)",
+              "kind": "emphasis",
+              "cells": [
+                "2,060.1 (~$1,409)",
+                "+5.1%",
+                "-1.4%",
+                "4,020.7 (~$2,751)",
+                "3,960.0",
+                "+1.5% rep. / +8.7% cc"
+              ]
+            },
+            {
+              "label": "Gaming operations revenue (A$m)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "2,206.2 (~$1,509)",
+                "2,215.5",
+                "-0.4% rep."
+              ]
+            },
+            {
+              "label": "Outright sales & other revenue (A$m)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "1,814.5 (~$1,241)",
+                "1,744.5",
+                "+4.0% rep."
+              ]
+            },
+            {
+              "label": "Segment profit (A$m)",
+              "kind": "emphasis",
+              "cells": [
+                "1,144.9 (~$783)",
+                "+7.7%",
+                "+1.4%",
+                "2,208.2 (~$1,511)",
+                "2,161.1",
+                "+2.2% rep. / +9.8% cc"
+              ]
+            },
+            {
+              "label": "Segment margin",
+              "indent": true,
+              "cells": [
+                "55.6%",
+                "+140bps",
+                "+160bps",
+                "54.9%",
+                "54.6%",
+                "+30bps"
+              ]
+            },
+            {
+              "label": "North America (US$)",
+              "kind": "group"
+            },
+            {
+              "label": "NA revenue (US$m)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "2,201.1",
+                "2,017.7",
+                "+9.1%"
+              ]
+            },
+            {
+              "label": "NA profit (US$m)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "1,267.1",
+                "1,165.6",
+                "+8.7%"
+              ]
+            },
+            {
+              "label": "NA margin",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "57.6%",
+                "57.8%",
+                "-20bps"
+              ]
+            },
+            {
+              "label": "Gaming Ops installed base (units)",
+              "indent": true,
+              "cells": [
+                "81,678",
+                "≈+4,400 adds",
+                "+8.6%",
+                "81,678",
+                "75,225",
+                "+6,453 / +8.6%"
+              ]
+            },
+            {
+              "label": "of which Class III premium",
+              "indent": true,
+              "cells": [
+                "51,590",
+                "n/a",
+                "+13.8%",
+                "51,590",
+                "45,333",
+                "+13.8%"
+              ]
+            },
+            {
+              "label": "of which Class II",
+              "indent": true,
+              "cells": [
+                "30,088",
+                "n/a",
+                "+0.7%",
+                "30,088",
+                "29,892",
+                "+0.7%"
+              ]
+            },
+            {
+              "label": "Gaming Ops fee per day (US$)",
+              "indent": true,
+              "cells": [
+                "+3% seq. (level n/a)",
+                "+3%",
+                "n/a",
+                "53.93",
+                "53.23",
+                "+1.3%"
+              ]
+            },
+            {
+              "label": "Gaming Ops market share (Eilers, total market)",
+              "indent": true,
+              "cells": [
+                "39%",
+                "n/a",
+                "+2.7pts",
+                "39%",
+                "36.3%",
+                "+2.7pts"
+              ]
+            },
+            {
+              "label": "Outright sales units",
+              "indent": true,
+              "cells": [
+                "≈13,800",
+                "≈+5% vs ≈13,100 H1",
+                "n/a",
+                "26,923",
+                "24,821",
+                "+8.5%"
+              ],
+              "footnote": "H1 units (~13,118) per broker commentary (FNArena/UBS), not a primary disclosure; H2 derived."
+            },
+            {
+              "label": "of which adjacencies (COAM/VGT etc.)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "6,762",
+                "6,448",
+                "+4.9%"
+              ]
+            },
+            {
+              "label": "Outright ASP (US$/unit)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "21,772",
+                "20,762",
+                "+4.9%"
+              ]
+            },
+            {
+              "label": "Rest of World",
+              "kind": "group"
+            },
+            {
+              "label": "RoW revenue (A$m)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "844.2 (~$578)",
+                "813.7",
+                "+3.7%"
+              ]
+            },
+            {
+              "label": "RoW profit (A$m)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "379.0 (~$259)",
+                "343.5",
+                "+10.3%"
+              ]
+            },
+            {
+              "label": "RoW margin",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "44.9%",
+                "42.2%",
+                "+270bps"
+              ]
+            },
+            {
+              "label": "RoW Class III units (ops)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "17,738",
+                "16,667",
+                "+6.4%"
+              ]
+            },
+            {
+              "label": "ANZ outright units",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "11,007",
+                "9,725",
+                "+13.2%"
+              ]
+            },
+            {
+              "label": "ANZ ASP (A$/unit)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "25,649 (~$17,546)",
+                "23,857",
+                "+7.5%"
+              ]
+            },
+            {
+              "label": "ANZ ship share",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "45%",
+                "43%",
+                "+2pts"
+              ]
+            },
+            {
+              "label": "RoW ex-ANZ outright units",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "6,731",
+                "6,942",
+                "-3.0%"
+              ]
+            },
+            {
+              "label": "RoW ex-ANZ ASP (US$/unit)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "23,824",
+                "22,054",
+                "+8.0%"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Segment results",
+            "takeaway": "Revenue A$4,020.7m (+8.7% cc) and profit A$2,208.2m (+9.8% cc) at a 54.9% margin; H2 cc growth roughly halved versus H1.",
+            "points": [
+              "Revenue A$4,020.7m (~US$2,751m), +1.5% reported, +8.7% cc; profit A$2,208.2m (~US$1,511m), +2.2% / +9.8% cc, margin 54.9% (+30bps).",
+              "Segment is now 66% of group revenue and 70% of segment profit (63% / 68% a year ago).",
+              "Gaming operations revenue A$2,206.2m (~US$1,509m), -0.4% reported; units +8.6% and FPD +1.3% imply high-single-digit US$ growth. Outright sales +4.0% to A$1,814.5m.",
+              "H2 revenue A$2,060.1m (~US$1,409m), +5.1% HoH, -1.4% YoY; H2 profit A$1,144.9m (~US$783m), +7.7% HoH, +1.4% YoY; H2 margin 55.6% (+160bps YoY).",
+              "Implied H2 cc revenue growth roughly 6% versus about 12% in H1 (estimates); the comp is getting harder."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "North America ops",
+            "takeaway": "Installed base +6,453 units (+8.6%) to 81,678 and share up 2.7pts to 39%, but FPD only +1.3% for the year.",
+            "points": [
+              "Revenue +9.1% to US$2,201.1m; profit +8.7% to US$1,267.1m; margin 57.6%, down 20bps on outright-sales mix substantially offset by operating leverage.",
+              "Base: Class III premium 51,590 (+13.8%), Class II 30,088 (+0.7%); versus May guidance of 4,000–5,000 at the 'upper end'; roughly 2,000 added in H1, 4,400 in H2.",
+              "Fee per day US$53.93, +1.3% for the year, H2 up 3% sequentially; base-weighted dilution from the placement wave is visible.",
+              "17 of Eilers' top-25 premium leased games, running 1.4x house average; MONOPOLY Big Board Bucks Slot of the Year for an eighth consecutive year.",
+              "Class III premium is now 63% of the base — right on yield, but where competitor response (Light & Wonder post-settlement, IGT/Everi) will be aimed."
+            ],
+            "quote": {
+              "text": "a very good outcome",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "North America outright sales",
+            "takeaway": "Outright units +8.5% to 26,923 at ASP US$21,772 (+4.9%); exit base annualises to roughly US$1.61bn of ops revenue.",
+            "points": [
+              "Driven by Spooky Link on The Baron Portrait and the August launch of Reign Single; adjacencies 6,762 units (+4.9%) with double-digit growth in Georgia COAM and Illinois VGT.",
+              "Broker commentary: H1 units roughly 13,100 with ship share 31% (+260bps), implying ~13,800 units in H2.",
+              "Group inventories A$305.7m vs A$264.1m, plus Gaming receivables and payables timing, explain most of the A$265m group working-capital outflow.",
+              "FY27 named launches: MONOPOLY High Roller, MONOPOLY Double Wild Jackpots and Dragon Link ('early next year'); management declined to guide net adds.",
+              "Exit base annualises to roughly US$1.61bn versus ≈US$1.53bn on the FY26 average base — about 5% revenue momentum before FY27 placements."
+            ],
+            "quote": {
+              "text": "one of the strongest pipelines ever planned",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Rest of World",
+            "takeaway": "RoW revenue +3.7% to A$844.2m and profit +10.3% to A$379.0m, margin up 270bps to 44.9% on volume and ASP.",
+            "points": [
+              "ANZ sold 11,007 units (+13.2%) at ASP A$25,649 (~US$17,546), +7.5% on cabinet mix; ship share 45% (+2pts).",
+              "RoW ex-ANZ units -3.0% to 6,731 on weaker Latin America; ASP +8.0% to US$23,824 on Asian cabinet mix; RoW Class III units +6.4% to 17,738.",
+              "Positioning for the UAE market opening in 2027; supplier-of-the-year awards in APAC and EMEA.",
+              "Risks: prediction markets outside state and tribal frameworks threatening tribal capex, tariff and memory/semiconductor cost pressure, withdrawal from selected jurisdictions."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "FY27 guidance",
+            "takeaway": "Guidance is qualitative; we estimate cc revenue growth of 6–8% at a ~55% margin with 3,500–4,500 net adds.",
+            "points": [
+              "Management guides 'continued revenue and market share growth' supported by back-half-weighted placements and product cadence.",
+              "Ops revenue up high-single-digit on annualisation plus a smaller placement year (3,500–4,500 net adds vs FY26's 6,500).",
+              "Outright sales flat to +3% against a +8.5% unit comp; ANZ holding share at 45%.",
+              "Swing factors: FPD dilution from a second placement wave, Dragon Link relaunch timing, and operator capital budgets staying 'supportive' if prediction markets erode tribal cash flows."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Product Madness (Social Casino; incl. Big Fish social-casual until Oct-25)",
+        "headline": "Share up 2pts to 24% in a market down ~11%, margin +210bps to 48.4% on DTC reaching 30% of revenue in H2 — but social casino revenue was flat YoY in US$ in the second half and DAU fell 8%.",
+        "narrative": [
+          "The reported segment — which still includes the Big Fish social-casual assets sold in October 2025 for A$20.3m of proceeds and a A$62.9m gain — posted revenue of A$1,562.1m (~US$1,069m), -13.2% reported and -6.3% cc, and profit of A$752.2m (~US$515m), -6.5% reported but +1.1% cc, with the margin up 350bps to 48.2%. Those assets contributed roughly US$100m of revenue in FY25, so the headline decline overstates the underlying move. On our derivation the second half brought revenue of A$756.5m (~US$518m), -15.9% YoY and -6.1% HoH, and profit of A$378.9m (~US$259m), -9.3% YoY but +1.5% HoH, with the H2 margin at 50.1% (+360bps YoY, +380bps HoH) — the DTC effect is clearly compounding.",
+          "On the Social Casino-only basis management prefers, revenue rose 2.2% to US$1,076.8m, bookings 1.6% to US$1,071.3m, profit 7.0% to US$521.4m and the margin 210bps to 48.4%, against a Social Casino Slots market that Sensor Tower data put down about 11%. Share averaged 24% (+2pts; management cited a 290bps gain on the call), retaining the number-one position. The franchise mix is instructive: Lightning Link bookings US$355.4m (+3.6%) and Cashman Casino US$268.4m (+7.9%) carried the portfolio; Heart of Vegas was flat at US$178.5m; the legacy Big Fish Casino (US$134.7m, -15.4%) and Jackpot Magic Slots (US$81.0m, -12.1%) — together a fifth of bookings — are in mid-teens structural decline; 'other' (including the NFL-themed title launched August 2025) rose to US$53.3m from US$31.9m. The second-half picture is less flattering than the full year: social casino revenue was US$535.1m versus US$536.2m a year earlier, i.e. flat, after +4.7% in H1, so growth has stalled even as share rises.",
+          "Customer economics show monetisation doing the work. Year-end DAU fell to 1.2m from 1.3m (-8%), which management attributes to a market-wide decline in active users, while average bookings per DAU rose 8% (US$0.17) to US$2.36. Direct-to-consumer reached 27% of social casino revenue for the year and 30% in H2 (24% in H1 FY26, 16% in FY25, 13% in H1 FY25), bypassing roughly 30% app-store take rates and driving the margin; on our arithmetic each percentage point of DTC mix is worth around 0.3pt of margin before any UA reinvestment. User acquisition rose to 19% of revenue from 17% (20% vs 18% in H1), inside the 18–21% guidance range, and management argues that with competitors cutting UA it can buy traffic efficiently. The counterweights are regulatory: the filing notes continued legal and regulatory scrutiny of social casino 'in at least one US state and Australia', evolving age-assurance expectations, and platform-policy risk around DTC steering.",
+          "Guidance for FY27 is continued market-share growth with an increasing DTC contribution, plus UA in the 18–21% range. Our estimate is social casino revenue flat to +3% in US$ with a margin of 49–50% as DTC passes 30%, which would mean a mid-single-digit profit gain in US$ while the A$ segment line laps the Big Fish disposal in Q1. Note that Dafne Guisard, CEO-elect, has run Product Madness since May 2026 — the Board's choice signals that the DTC/live-ops playbook is viewed as transferable across the group, but it also puts the smallest-growth segment's leader in charge of a company whose equity story depends on Gaming and Interactive."
+        ],
+        "table": {
+          "note": "Product Madness — segment in A$m; Social Casino KPIs in US$ as reported (~US$ at 0.6841 for A$ lines)",
+          "columns": [
+            "H2-26",
+            "HoH",
+            "YoY",
+            "FY26",
+            "FY25",
+            "FY YoY"
+          ],
+          "rows": [
+            {
+              "label": "Segment revenue (A$m, incl. social-casual)",
+              "kind": "emphasis",
+              "cells": [
+                "756.5 (~$518)",
+                "-6.1%",
+                "-15.9%",
+                "1,562.1 (~$1,069)",
+                "1,800.3",
+                "-13.2% rep. / -6.3% cc"
+              ]
+            },
+            {
+              "label": "Segment profit (A$m)",
+              "kind": "emphasis",
+              "cells": [
+                "378.9 (~$259)",
+                "+1.5%",
+                "-9.3%",
+                "752.2 (~$515)",
+                "804.4",
+                "-6.5% rep. / +1.1% cc"
+              ]
+            },
+            {
+              "label": "Segment margin",
+              "indent": true,
+              "cells": [
+                "50.1%",
+                "+380bps",
+                "+360bps",
+                "48.2%",
+                "44.7%",
+                "+350bps"
+              ]
+            },
+            {
+              "label": "Social Casino only (US$)",
+              "kind": "group"
+            },
+            {
+              "label": "Social Casino revenue (US$m)",
+              "indent": true,
+              "cells": [
+                "535.1",
+                "-1.2%",
+                "-0.2%",
+                "1,076.8",
+                "1,053.6",
+                "+2.2%"
+              ]
+            },
+            {
+              "label": "Social Casino bookings (US$m)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "1,071.3",
+                "1,054.0",
+                "+1.6%"
+              ]
+            },
+            {
+              "label": "Social Casino profit (US$m)",
+              "indent": true,
+              "cells": [
+                "≈267 (est.)",
+                "n/a",
+                "n/a",
+                "521.4",
+                "487.4",
+                "+7.0%"
+              ],
+              "footnote": "H2 estimated from the FY26 total less an H1 figure implied by the disclosed ~47% H1 margin."
+            },
+            {
+              "label": "Social Casino margin",
+              "indent": true,
+              "cells": [
+                "≈50% (est.)",
+                "≈+300bps",
+                "n/a",
+                "48.4%",
+                "46.3%",
+                "+210bps"
+              ]
+            },
+            {
+              "label": "DTC % of Social Casino revenue",
+              "indent": true,
+              "cells": [
+                "30%",
+                "+6pts",
+                "n/a",
+                "27%",
+                "16%",
+                "+11pts"
+              ]
+            },
+            {
+              "label": "UA % of Product Madness revenue",
+              "indent": true,
+              "cells": [
+                "≈18% (implied)",
+                "n/a",
+                "n/a",
+                "19%",
+                "17%",
+                "+2pts"
+              ]
+            },
+            {
+              "label": "Social Casino Slots market share",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "24%",
+                "22%",
+                "+2pts (call: +290bps)"
+              ]
+            },
+            {
+              "label": "Social Casino Slots market growth",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "≈-11%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "DAU (m, year-end)",
+              "indent": true,
+              "cells": [
+                "1.2",
+                "n/a",
+                "-8%",
+                "1.2",
+                "1.3",
+                "-8%"
+              ]
+            },
+            {
+              "label": "ABPDAU (US$, full year)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "2.36",
+                "2.19",
+                "+7.8%"
+              ]
+            },
+            {
+              "label": "Bookings by franchise (US$m)",
+              "kind": "group"
+            },
+            {
+              "label": "Lightning Link",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "355.4",
+                "343.2",
+                "+3.6%"
+              ]
+            },
+            {
+              "label": "Cashman Casino",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "268.4",
+                "248.8",
+                "+7.9%"
+              ]
+            },
+            {
+              "label": "Heart of Vegas",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "178.5",
+                "178.7",
+                "-0.1%"
+              ]
+            },
+            {
+              "label": "Big Fish Casino",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "134.7",
+                "159.3",
+                "-15.4%"
+              ]
+            },
+            {
+              "label": "Jackpot Magic Slots",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "81.0",
+                "92.1",
+                "-12.1%"
+              ]
+            },
+            {
+              "label": "Other games (incl. NFL title)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "53.3",
+                "31.9",
+                "+67%"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Reported segment",
+            "takeaway": "Reported revenue A$1,562.1m (-6.3% cc) and profit A$752.2m (+1.1% cc) at 48.2% margin; headline decline overstates the underlying move.",
+            "points": [
+              "Big Fish social-casual assets sold October 2025 for A$20.3m proceeds and a A$62.9m gain; they contributed roughly US$100m of FY25 revenue.",
+              "Revenue A$1,562.1m (~US$1,069m), -13.2% reported, -6.3% cc; profit A$752.2m (~US$515m), -6.5% reported, +1.1% cc; margin +350bps to 48.2%.",
+              "H2 revenue A$756.5m (~US$518m), -15.9% YoY, -6.1% HoH; H2 profit A$378.9m (~US$259m), -9.3% YoY, +1.5% HoH.",
+              "H2 margin 50.1% (+360bps YoY, +380bps HoH) — the DTC effect is clearly compounding."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Social Casino franchises",
+            "takeaway": "Social casino revenue +2.2% to US$1,076.8m and share +2pts to 24% in a market down ~11%, but H2 revenue was flat.",
+            "points": [
+              "Bookings +1.6% to US$1,071.3m; profit +7.0% to US$521.4m; margin +210bps to 48.4%; management cited a 290bps share gain; number-one position retained.",
+              "Lightning Link bookings US$355.4m (+3.6%) and Cashman Casino US$268.4m (+7.9%) carried the portfolio; Heart of Vegas flat at US$178.5m.",
+              "Big Fish Casino (US$134.7m, -15.4%) and Jackpot Magic Slots (US$81.0m, -12.1%) — a fifth of bookings — in mid-teens structural decline.",
+              "'Other' including the NFL-themed title launched August 2025 rose to US$53.3m from US$31.9m.",
+              "H2 social casino revenue US$535.1m versus US$536.2m a year earlier, flat, after +4.7% in H1 — growth has stalled even as share rises."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Customer economics",
+            "takeaway": "DAU fell 8% to 1.2m while bookings per DAU rose 8% to US$2.36; DTC reached 30% of revenue in H2.",
+            "points": [
+              "Management attributes the DAU decline from 1.3m to a market-wide fall in active users; bookings per DAU up US$0.17.",
+              "DTC was 27% of social casino revenue for the year and 30% in H2 (24% in H1 FY26, 16% in FY25, 13% in H1 FY25), bypassing roughly 30% app-store take rates.",
+              "On our arithmetic each percentage point of DTC mix is worth around 0.3pt of margin before UA reinvestment.",
+              "UA rose to 19% of revenue from 17% (20% vs 18% in H1), inside the 18–21% guidance range; management argues it can buy traffic efficiently as competitors cut UA.",
+              "Regulatory counterweights: scrutiny of social casino 'in at least one US state and Australia', age-assurance expectations, platform-policy risk around DTC steering."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "FY27 guidance",
+            "takeaway": "Guidance is continued share growth with rising DTC and UA at 18–21%; we estimate revenue flat to +3% in US$ at 49–50% margin.",
+            "points": [
+              "That implies a mid-single-digit profit gain in US$ while the A$ segment line laps the Big Fish disposal in Q1.",
+              "Dafne Guisard, CEO-elect, has run Product Madness since May 2026; the choice signals the DTC/live-ops playbook is viewed as transferable.",
+              "It also puts the smallest-growth segment's leader in charge of a company whose equity story depends on Gaming and Interactive."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Aristocrat Interactive (regulated online RMG: Content, iLottery, Platforms)",
+        "headline": "Content +17% and iLottery +17% are real, but the White Label exit, soft CXS and loss-making acquisitions cut profit 6% in US$ and the margin 280bps to 26.8%; the FY29 US$1bn target now needs a ~22% CAGR.",
+        "narrative": [
+          "In A$ segment terms Interactive reported revenue of A$509.6m (~US$349m), -5.0% reported and +0.8% cc, and profit of A$177.6m (~US$121m), -13.2% / -5.8% cc, with the A$ margin down 320bps to 34.9%. Our H2 derivation shows revenue of A$247.6m (~US$169m), -9.3% YoY and -5.5% HoH, and profit of A$82.4m (~US$56m), -9.5% YoY and -13.4% HoH, with the H2 margin at 33.3% (flat YoY, -300bps HoH). Management's preferred lens is US$ 'total revenue' including its 50% share of the NeoPollard Interactive (NPI) iLottery JV, which is equity-accounted: total revenue was US$457.2m (+3.4%), comprising reported revenue of US$352.8m (+2.5%) and JV revenue share of US$104.4m (+6.6%). Total segment profit was US$122.6m (-6.2%) — US$63.6m ex-JV (-10.0%) plus US$59.0m JV share (-1.7%) — for a 26.8% margin on total revenue, down 280bps. Second-half total revenue of US$226.9m was up just 0.4% YoY (H1 +6.5%) and H2 profit of US$58.3m was down 0.9% at a 25.7% margin, so the trajectory within the year was flat-to-down, not accelerating.",
+          "Content revenue rose 16.9% to US$108.6m on expanded market access and launches with major operators in the US and Canada; momentum built in H2 with Lightning Link High Stakes entering regulated North American online RMG in July and Lightning Link Tiki Fire in September, alongside land-based ports (Buffalo, Buffalo Gold Collection, the Mo Mummy family). Eilers' iSlots share reached 8% (the slides describe it as more than doubling). iLottery total revenue rose 16.8% to US$179.6m with the July launch of full-service solutions for the Michigan and Massachusetts lotteries and growing contributions in North Carolina and Virginia; including NPI, Aristocrat claims 69% of US iLottery gross wager by platform. New contracts also brought A$70.1m of restricted player-deposit cash onto the balance sheet (excluded from net debt). Platforms revenue fell 13.6% to US$169.0m on the strategic exit from White Label (costs of A$29.8m taken as a significant item), 'softer than expected' Customer Experience Solutions (casino systems) attributed to contract timing that management says shifts into FY27, and the early-stage Awager (live slot streaming, A$112.4m / ~US$77m) and Gaming Analytics (AI player analytics, A$83.8m / ~US$57m) acquisitions. Excluding White Label, management says revenue growth was 'almost 10%'.",
+          "Profit was hit from three directions — the Platforms decline, the roughly US$20m of acquisition-related investment flagged at the February AGM, and the White Label wind-down — only partly offset by the favourable mix of iLottery and Content. The CFO conceded there is 'absolutely scope for improvement' in margin but warned the acquired start-ups carry additional cost 'at least this year, maybe next year as well'. Interactive also absorbed the D&D reclassification announced at the FY25 result and incremental D&D for the acquisitions (~A$12m), which is part of why group D&D grew 9% cc against mid-single-digit guidance. New segment leadership (Dylan Slaney as CEO Interactive from November 2025) and the exit from B2C licensing reduce regulatory exposure, but the business remains sub-scale relative to Light & Wonder's and Evolution's digital arms.",
+          "Guidance is for 'accelerating performance' in FY27 through further scaling of Content and investment in iLottery, toward the reiterated FY29 target of US$1bn total revenue (including the NPI JV share). From US$457m that implies a compound growth rate of about 22% a year versus the 3.4% just delivered — achievable only if Platforms stabilises and iLottery wins additional states. Our FY27 estimate is total revenue of US$500–520m (+10–14%) as the White Label exit annualises in H1 and Michigan/Massachusetts contribute a full year, with the margin recovering to 27–29%; we would not credit the US$1bn target until contract wins are visible. A point of hygiene for modellers: the 34.9% A$ segment margin and the 26.8% US$ 'total revenue' margin are the same profit on different denominators."
+        ],
+        "table": {
+          "note": "Interactive — segment in A$m; operating KPIs in US$ as reported (~US$ at 0.6841 for A$ lines)",
+          "columns": [
+            "H2-26",
+            "HoH",
+            "YoY",
+            "FY26",
+            "FY25",
+            "FY YoY"
+          ],
+          "rows": [
+            {
+              "label": "Segment revenue (A$m)",
+              "kind": "emphasis",
+              "cells": [
+                "247.6 (~$169)",
+                "-5.5%",
+                "-9.3%",
+                "509.6 (~$349)",
+                "536.7",
+                "-5.0% rep. / +0.8% cc"
+              ]
+            },
+            {
+              "label": "Segment profit (A$m)",
+              "kind": "emphasis",
+              "cells": [
+                "82.4 (~$56)",
+                "-13.4%",
+                "-9.5%",
+                "177.6 (~$121)",
+                "204.6",
+                "-13.2% rep. / -5.8% cc"
+              ]
+            },
+            {
+              "label": "Segment margin (A$ basis)",
+              "indent": true,
+              "cells": [
+                "33.3%",
+                "-300bps",
+                "flat",
+                "34.9%",
+                "38.1%",
+                "-320bps"
+              ]
+            },
+            {
+              "label": "US$ view (as reported by company)",
+              "kind": "group"
+            },
+            {
+              "label": "Reported revenue (US$m)",
+              "indent": true,
+              "cells": [
+                "175.0",
+                "-1.6%",
+                "-1.5%",
+                "352.8",
+                "344.3",
+                "+2.5%"
+              ]
+            },
+            {
+              "label": "Share of NPI JV revenue (US$m)",
+              "indent": true,
+              "cells": [
+                "51.9",
+                "-1.1%",
+                "+7.5%",
+                "104.4",
+                "97.9",
+                "+6.6%"
+              ]
+            },
+            {
+              "label": "Total revenue incl. JV share (US$m)",
+              "indent": true,
+              "cells": [
+                "226.9",
+                "-1.5%",
+                "+0.4%",
+                "457.2",
+                "442.2",
+                "+3.4%"
+              ]
+            },
+            {
+              "label": "Segment profit excl. JV (US$m)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "63.6",
+                "70.7",
+                "-10.0%"
+              ]
+            },
+            {
+              "label": "Share of NPI JV profit (US$m)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "59.0",
+                "60.0",
+                "-1.7%"
+              ]
+            },
+            {
+              "label": "Total segment profit (US$m)",
+              "indent": true,
+              "cells": [
+                "58.3",
+                "-9.3%",
+                "-0.9%",
+                "122.6",
+                "130.7",
+                "-6.2%"
+              ]
+            },
+            {
+              "label": "Margin on total revenue",
+              "indent": true,
+              "cells": [
+                "25.7%",
+                "-220bps",
+                "-30bps",
+                "26.8%",
+                "29.6%",
+                "-280bps"
+              ]
+            },
+            {
+              "label": "Revenue by line (US$m)",
+              "kind": "group"
+            },
+            {
+              "label": "Content",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "108.6",
+                "92.9",
+                "+16.9%"
+              ]
+            },
+            {
+              "label": "iLottery (incl. JV share)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "179.6",
+                "153.8",
+                "+16.8%"
+              ]
+            },
+            {
+              "label": "Platforms (CXS, White Label, Awager, Gaming Analytics)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "169.0",
+                "195.5",
+                "-13.6%"
+              ]
+            },
+            {
+              "label": "KPIs",
+              "kind": "group"
+            },
+            {
+              "label": "iSlots market share (Eilers, Sep-26)",
+              "indent": true,
+              "cells": [
+                "8%",
+                "n/a",
+                "n/a",
+                "8%",
+                "n/a (\"more than doubled\")",
+                "n/a"
+              ]
+            },
+            {
+              "label": "US iLottery gross-wager share by platform (incl. NPI)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "69%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Restricted cash — iLottery player deposits (A$m)",
+              "indent": true,
+              "cells": [
+                "70.1 (~$48)",
+                "n/a",
+                "n/a",
+                "70.1 (~$48)",
+                "nil",
+                "new"
+              ]
+            },
+            {
+              "label": "FY29 total revenue target (US$m)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "1,000 (needs ≈22% CAGR)",
+                "n/a",
+                "reiterated"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Segment results",
+            "takeaway": "Total revenue US$457.2m (+3.4%) but total profit US$122.6m (-6.2%) at a 26.8% margin, down 280bps; trajectory flat-to-down within the year.",
+            "points": [
+              "A$ terms: revenue A$509.6m (~US$349m), -5.0% reported, +0.8% cc; profit A$177.6m (~US$121m), -13.2% / -5.8% cc; A$ margin down 320bps to 34.9%.",
+              "H2: revenue A$247.6m (~US$169m), -9.3% YoY, -5.5% HoH; profit A$82.4m (~US$56m), -9.5% YoY, -13.4% HoH; margin 33.3% (flat YoY, -300bps HoH).",
+              "US$ total revenue comprises reported US$352.8m (+2.5%) plus 50% NPI JV share US$104.4m (+6.6%); profit US$63.6m ex-JV (-10.0%) plus US$59.0m JV share (-1.7%).",
+              "H2 total revenue US$226.9m up just 0.4% YoY (H1 +6.5%); H2 profit US$58.3m down 0.9% at a 25.7% margin."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Content and iLottery",
+            "takeaway": "Content revenue +16.9% to US$108.6m and iLottery +16.8% to US$179.6m on market access and new state launches.",
+            "points": [
+              "Lightning Link High Stakes entered regulated North American online RMG in July and Lightning Link Tiki Fire in September, alongside Buffalo, Buffalo Gold Collection and Mo Mummy ports.",
+              "Eilers' iSlots share reached 8% (slides describe it as more than doubling).",
+              "iLottery: July launch of full-service solutions for Michigan and Massachusetts lotteries; growing North Carolina and Virginia; including NPI, 69% of US iLottery gross wager by platform.",
+              "New contracts brought A$70.1m of restricted player-deposit cash onto the balance sheet (excluded from net debt)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Platforms",
+            "takeaway": "Platforms revenue fell 13.6% to US$169.0m on the White Label exit, soft CXS and early-stage acquisitions; ex-White Label growth was 'almost 10%'.",
+            "points": [
+              "White Label exit costs of A$29.8m taken as a significant item.",
+              "Customer Experience Solutions 'softer than expected' on contract timing management says shifts into FY27.",
+              "Acquisitions: Awager live slot streaming (A$112.4m / ~US$77m) and Gaming Analytics AI player analytics (A$83.8m / ~US$57m)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Profit pressures",
+            "takeaway": "Profit was hit by the Platforms decline, roughly US$20m acquisition investment and the White Label wind-down, partly offset by iLottery and Content mix.",
+            "points": [
+              "CFO conceded 'absolutely scope for improvement' in margin but warned acquired start-ups carry additional cost 'at least this year, maybe next year as well'.",
+              "Absorbed the D&D reclassification from the FY25 result plus ~A$12m incremental acquisition D&D, part of why group D&D grew 9% cc against mid-single-digit guidance.",
+              "Dylan Slaney became CEO Interactive from November 2025; exit from B2C licensing reduces regulatory exposure.",
+              "Business remains sub-scale relative to Light & Wonder's and Evolution's digital arms."
+            ],
+            "quote": {
+              "text": "absolutely scope for improvement",
+              "speaker": "CFO"
+            }
+          },
+          {
+            "heading": "FY27 guidance",
+            "takeaway": "The reiterated FY29 US$1bn target now needs ~22% CAGR versus 3.4% delivered; we estimate FY27 total revenue US$500–520m (+10–14%).",
+            "points": [
+              "Guidance is 'accelerating performance' through scaling Content and investing in iLottery; achievable only if Platforms stabilises and iLottery wins additional states.",
+              "FY27 drivers: White Label exit annualises in H1, Michigan/Massachusetts contribute a full year; margin recovering to 27–29%.",
+              "We would not credit the US$1bn target until contract wins are visible.",
+              "Modelling hygiene: the 34.9% A$ segment margin and the 26.8% US$ 'total revenue' margin are the same profit on different denominators."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "NA Gaming Operations added 6,453 net units (+8.6%) to 81,678, well above the 4,000–5,000 guided, taking Eilers share +2.7pts to 39% with fee-per-day still rising (US$53.93, +3% sequentially in H2). Back-half-weighted adds leave ≈5% of ops-revenue run-rate momentum (≈US$1.61bn exit annualisation vs ≈US$1.53bn FY26 average-base, our estimate) before any FY27 placements.",
+        "tag": "structural"
+      },
+      {
+        "text": "Outright sales grew in every region with price: NA units +8.5% at ASP +4.9% (US$21,772), adjacencies +4.9% with double-digit Georgia COAM/Illinois VGT; ANZ units +13.2%, ASP +7.5% (A$25,649 / ~US$17,546), ship share 45% (+2pts); RoW margin +270bps to 44.9%.",
+        "tag": "structural"
+      },
+      {
+        "text": "Product Madness social casino margin +210bps to 48.4% and profit +7% (US$521.4m) on DTC rising to 27% of revenue (30% in H2, from 16% in FY25), while taking ~2pts of share to 24% in a market down ~11%; ABPDAU +8% to US$2.36.",
+        "tag": "structural"
+      },
+      {
+        "text": "Interactive's growth lines are real: Content +16.9% to US$108.6m (iSlots share 8%, Lightning Link brand launched online) and iLottery +16.8% to US$179.6m (Michigan and Massachusetts live, 69% US gross-wager share); ex-White Label, segment revenue grew 'almost 10%'.",
+        "tag": "structural"
+      },
+      {
+        "text": "Capital returns of A$1.93bn (~US$1.32bn): A$1,326.7m (~US$908m) buyback at an average A$54.09 (~US$37.00) — 17% below the A$65.02 close — plus DPS +8.6% to 101c (~US$0.69). WANOS -2.9% converts NPATA +9.7% cc into EPSA +13.0% cc; ~A$0.6bn (~US$410m) of authorisation remains to May 2027.",
+        "tag": "structural"
+      },
+      {
+        "text": "Balance sheet reset: April-26 refinancing into an unsecured US$850m TLA (2031) and US$1.0bn RCF (2030), ~95% of floating exposure hedged, interest cover 31.5x, net interest -A$29m; ratings BBB / Baa3 (positive outlook) / BBB.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Light & Wonder litigation (Dragon Train) settled for A$184m (~US$126m) cash, with a High Court patent win and an Ainsworth licensing agreement cited on the call — the IP moat around link/hold-and-spin mechanics has been validated and monetised.",
+        "tag": "one-off"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "H2 deceleration: H2 NPATA A$784.5m (~US$537m) was -4.1% YoY reported and -1.2% HoH, EBITA -5.4% YoY with margin 36.5% vs 36.9% in H1; implied H2 cc growth ≈+1% revenue / ≈+4% NPATA (est.) versus +6% / +16% in H1. The FY27 'NPATA growth in cc' outlook starts from this lower run-rate.",
+        "tag": "watch"
+      },
+      {
+        "text": "~A$45m (US$30m) of the L&W settlement was booked inside the normalised corporate line as 'legal cost recovery'; excluding it, normalised EBITA fell 1.9% reported (≈+6% cc) rather than +0.1% / +7.9%. It was recognised in H1 FY26, so H1 FY27 laps a ~200bps corporate-line tailwind.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Interactive profit -13% in A$ / -6% in US$ with the total-revenue margin down 280bps to 26.8% (25.7% in H2); Platforms -13.6%, CXS 'softer than expected', acquisitions loss-making 'at least this year, maybe next'. D&D grew 9% cc (A$810.4m / ~US$554m) against mid-single-digit guidance. The FY29 US$1bn target needs a ~22% CAGR versus +3.4% delivered.",
+        "tag": "structural"
+      },
+      {
+        "text": "Social casino growth stalled in H2 — revenue US$535.1m vs US$536.2m, flat YoY after +4.7% in H1 — with DAU -8% to 1.2m and legacy titles (Big Fish Casino -15.4%, Jackpot Magic -12.1%, ~20% of bookings) in structural decline inside a market down ~11%; regulatory scrutiny 'in at least one US state and Australia' is disclosed.",
+        "tag": "structural"
+      },
+      {
+        "text": "Cash conversion weakened: OCF -2.3% to A$1,889.1m (~US$1,292m) on a A$265m working-capital outflow (NWC/revenue 8.6% vs 5.8%; inventories +16%), FCF ≈A$1,452m (~US$994m) -3.8%; net debt +A$712m to A$1,134.9m (~US$776m), cash -71%, leverage 0.4x from 0.2x. Returns are now being funded partly by the balance sheet rather than purely by FCF.",
+        "tag": "mixed"
+      },
+      {
+        "text": "CEO succession: Trevor Croker retires April 2027 after a decade; CEO-elect Dafne Guisard joined in February 2026 and has run Product Madness only since May — less than 15 months of Aristocrat tenure ahead of a year that hinges on Interactive execution and US gaming-ops momentum. The market's ~7% intraday drop priced the uncertainty before the close recovered to -1.3%.",
+        "tag": "governance"
+      },
+      {
+        "text": "FY27 outlook is unquantified ('NPATA growth on a cc basis'), the call referenced 'EBITA growth' for the same slide, and the A$100m cost-out will be partly reinvested; exogenous risks flagged in the filing — prediction markets undermining tribal customers, tariff and memory/semiconductor cost inflation, A$ strength (each US1c = A$25m of NPATA).",
+        "tag": "watch"
+      }
+    ],
+    "forecast": {
+      "intro": "There is no numeric guidance to bridge, only direction. The FY26 outlook set in May 2026 ('NPATA growth on a constant-currency basis', NA Gaming Ops net adds at the upper end of 4,000–5,000, FPD rising, UA 18–21% of PM revenue, ETR ~27%, D&D mid-single-digit cc growth, ~A$100m of annualised cost savings during FY27) was met or beaten on every operating line except D&D (+9% cc, 'ahead of guidance'). The FY27 outlook published on 12 Nov 2026 is the same sentence rolled forward — 'NPATA growth over the full year to 30 September 2027 on a constant currency basis' — with three stated drivers: continued revenue and share growth at Aristocrat Gaming (the division that carried FY26 and that management expects to carry FY27 given back-half-weighted placements and the Dragon Link/MONOPOLY launch slate), continued share growth with rising DTC at Product Madness, and 'accelerating performance' at Interactive toward the FY29 US$1bn total-revenue target. The A$100m (~US$68m) cost programme was reiterated for delivery during FY27 with partial reinvestment; the buyback (A$0.6bn remaining to 12 May 2027) and a ~27–28% ETR were implied rather than restated. Nothing was withdrawn or lowered; nothing was quantified.",
+      "bridge": [
+        {
+          "title": "FY26 NPATA outlook (May-26) → delivered",
+          "value": "'Growth in cc' → +9.7% cc / +1.8% reported (A$1,578.5m, ~US$1,080m)",
+          "change": "Met; FX cost A$123m"
+        },
+        {
+          "title": "NA Gaming Ops net adds / FPD (FY26 guide → actual)",
+          "value": "4,000–5,000 'upper end' → ≈6,500; FPD 'to increase' → US$53.93 (+1.3%; H2 +3% seq.)",
+          "change": "Beat on units"
+        },
+        {
+          "title": "D&D / UA / ETR (FY26 guide → actual)",
+          "value": "Mid-single-digit cc → +9% cc (A$810.4m); UA 18–21% → 19%; ETR ~27% → 27.4%",
+          "change": "D&D above guidance"
+        },
+        {
+          "title": "FY27 outlook (new, 12 Nov 2026)",
+          "value": "NPATA growth in cc; A$100m (~US$68m) annualised savings (part reinvested); Interactive toward US$1bn by FY29",
+          "change": "Unquantified"
+        }
+      ],
+      "view": "**Our FY27 estimates (constant currency).** Gaming revenue +6–8% with a ~55% margin: ops revenue up high-single-digit on annualisation of the 6,453 FY26 adds (exit base 81,678 × US$53.93 × 365 ≈ US$1.61bn vs ≈US$1.53bn on our FY26 average-base estimate, i.e. ≈+5% before placements) plus a smaller placement year (we assume 3,500–4,500 net adds), and outright sales flat to +3% against an +8.5% unit comp, helped by Dragon Link, the MONOPOLY titles and UAE. Product Madness social casino revenue flat to +3% in US$ with a 49–50% margin as DTC passes 30% (≈0.3pt of margin per point of DTC mix, our estimate) and UA stays at 18–21%. Interactive total revenue +10–14% (US$500–520m) as the White Label exit annualises in H1 and Michigan/Massachusetts iLottery contribute a full year, with the margin recovering to 27–29%. Group D&D +mid-to-high single digit cc (A$860–880m); A$100m of savings with roughly half reinvested (est.); net interest A$80–90m on higher average net debt; ETR 27–28%. That yields **normalised NPATA of ≈A$1.69–1.74bn (~US$1.16–1.19bn), +7–10% cc, and EPSA +10–13% cc** on a ~3% lower share count — comfortably 'growth', but H1 FY27 will look pedestrian because it laps the A$45m L&W recovery and H1 FY26's +16% cc NPATA. **Margin:** EBITA margin flat to +50bps (36.7–37.2%) — the corporate-line lap (~-200bps) offsets cost-out and Gaming leverage. **Reported vs cc:** spot AUD/USD 0.684 versus an FY26 average of 0.693 is a ~1% tailwind if sustained (sensitivity A$25m NPATA per US cent), so reported growth should converge with cc after two years of translation drag. **Leverage:** with FCF ≈A$1.5bn, dividends ≈A$0.62bn and the remaining A$0.6bn buyback (we expect renewal at the May-27 expiry), net debt/EBITDA drifts to 0.5–0.7x — immaterial for an investment-grade issuer but a change of direction from the net-cash years. **Next period (H1 FY27, to 31 Mar 2027):** we look for NA Gaming Ops net adds of 1,500–2,500 with FPD flat-to-up, H1 cc revenue growth of 3–5% and NPATA roughly flat-to-+5% cc against the inflated H1 FY26 base; a materially better print would require Dragon Link landing early and Interactive margins already recovering.",
+      "watch": [
+        "H1 FY27 NA Gaming Ops net adds and fee-per-day — whether Dragon Link ('early next year'), MONOPOLY High Roller and MONOPOLY Double Wild Jackpots sustain FPD or dilute it, and the competitive response from Light & Wonder post-settlement and the IGT/Everi combination.",
+        "Social casino bookings after a flat H2 in US$: DAU trend, DTC >30%, UA within 18–21%, and any regulatory action in the flagged US state or Australia (age assurance, platform steering rules).",
+        "Interactive margin recovery toward 30% and Platforms stabilisation (CXS contract timing into FY27, Awager/Gaming Analytics losses); new iLottery state wins and Content distribution as evidence for the US$1bn FY29 target.",
+        "CEO transition in April 2027 — continuity of capital allocation (buyback renewal beyond 12 May 2027), D&D discipline (FY26 ran above guidance), and whether the A$100m savings drop through or are reinvested.",
+        "FX and cash conversion: AUD/USD around 0.68 (each US1c = A$25m NPATA) and normalisation of working capital from 8.6% of revenue toward ~6%; inventory draw-down as Baron/Reign demand is met.",
+        "Exogenous risks disclosed in the filing: prediction markets eroding tribal operators' economics and capex, tariff and memory/semiconductor cost inflation on cabinet margins, UAE market opening timing in 2027 and adjacencies (Georgia COAM, Illinois VGT) growth."
+      ]
+    },
+    "sharePriceReaction": "Shares opened at A$65.80, fell as much as ~7% intraday to A$61.18 (~US$41.85) as the CEO succession announcement overshadowed the result (-6.2% at A$61.78 at 12:08pm AEDT per Capital Brief), then recovered to close at A$65.02 (~US$44.48), -1.3% on the day (12 Nov 2026). The following day JP Morgan raised its FY27 adjusted EBITDA forecast by ~4%.",
+    "confidence": "HIGH",
+    "confidenceNote": "FX: AUD/USD 0.6841 (RBA 4pm fix, 12 Nov 2026) used for all ~US$ conversions; the company's own FY26 average rate was 0.6933 and 30-Sep-26 spot 0.6949, so US$-reported segment KPIs (NA Gaming, Product Madness, Interactive) will not reconcile exactly to converted A$ lines. All FY26/FY25 group and segment figures are taken from the audited FY26 Profit Announcement (Appendix 4E) and cross-checked to the ASX results release (PR Newswire mirror), next.io, Capital Brief, Kalkine and Investing.com — no discrepancies found. H2-26 figures are our derivation (FY26 less HY26) using HY26 figures from the company's 13 May 2026 release as mirrored by PR Newswire/TradingView/Listcorp; the H2 FY25 EBITA base (A$1,182m) is derived from H1 FY25 EBITA of A$1,117.4m/1.062 and is approximate, as are implied H2 cc growth rates and the H2 social-casino profit estimate. H1 FY26 NA outright units (~13,118) and ship share (31%) come from broker commentary (FNArena/TipRanks), not a primary document. Call quotes are from Investing.com transcript extracts rather than a full transcript read; the call's 'EBITA growth' reference for FY27 conflicts with the ASX release's 'NPATA growth' wording and is flagged. FY25 NA Gaming Ops share (36.3%) and ANZ ship share (43%) are back-solved from the disclosed +2.7pt and +2pt moves. The user-supplied Gaming Intelligence and Yogonet URLs were not accessible (fetch blocked) and were not used; the FY26 Investor Presentation PDF could not be fetched directly and is relied on only via Investing.com's slide summary. Sell-side consensus NPATA/EPSA could not be verified [unverified].",
+    "sources": [
+      {
+        "label": "Aristocrat Leisure — 2026 Full Year Profit Announcement incl. Appendix 4E, Operating & Financial Review and audited financial statements (12 Nov 2026)",
+        "kind": "primary",
+        "url": "https://aristocratleisurelimited.gcs-web.com/static-files/97d87795-ef11-4222-98e7-210ed0d02ae8"
+      },
+      {
+        "label": "Aristocrat Leisure — FY26 Results Announcement / media release with FY27 Outlook (ASX release, PR Newswire mirror, 11–12 Nov 2026)",
+        "kind": "primary",
+        "url": "https://www.prnewswire.com/news-releases/aristocrat-delivers-strong-fy26-result-with-13epsa-growth-exceptional-execution-supporting-momentum-into-fy27-302937053.html"
+      },
+      {
+        "label": "Aristocrat Leisure — HY26 Results Announcement (13 May 2026) — source of H1 FY26 figures used for H2 derivation",
+        "kind": "primary",
+        "url": "https://ir.aristocrat.com/static-files/911b3509-6631-4787-831b-a10272b2b083"
+      },
+      {
+        "label": "Aristocrat Leisure — HY26 Results Announcement (PR Newswire mirror, 12 May 2026)",
+        "kind": "primary",
+        "url": "https://www.prnewswire.com/news-releases/aristocrat-delivers-strong-first-half-result-with-19-epsa-constant-currency-growth-and-market-share-gains-in-key-markets-302770247.html"
+      },
+      {
+        "label": "Aristocrat Leisure — 2026 Half Year Profit Announcement (13 May 2026)",
+        "kind": "primary",
+        "url": "https://ir.aristocrat.com/static-files/322ce35b-a053-4705-938f-f8fe7bbbe6c5"
+      },
+      {
+        "label": "Aristocrat Leisure — 2026 AGM CEO address and outlook (FY26 operational guidance: net adds, FPD, UA, acquisition investment)",
+        "kind": "primary",
+        "url": "https://www.listcorp.com/asx/all/aristocrat-leisure-limited/news/2026-agm-ceo-s-address-and-outlook-3316372.html"
+      },
+      {
+        "label": "Aristocrat Leisure — Investor Relations results & presentations page (FY26 Investor Presentation listing)",
+        "kind": "primary",
+        "url": "https://ir.aristocrat.com/company-news-performance/results-presentations"
+      },
+      {
+        "label": "Listcorp — HY26 Results Announcement extract (H1 segment revenue/profit incl. Interactive)",
+        "kind": "secondary",
+        "url": "https://www.listcorp.com/asx/all/aristocrat-leisure-limited/news/hy26-results-announcement-3352162.html"
+      },
+      {
+        "label": "Investing.com — FY26 (H2 2026) earnings call transcript extracts (Croker, Denby, Q&A)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-aristocrat-leisure-falls-on-h2-2026-results-ceo-transition-93CH-5020120"
+      },
+      {
+        "label": "Investing.com — 'Aristocrat FY26 slides: market share gains offset by CEO transition' (investor presentation summary, FY27 pipeline)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/company-news/aristocrat-fy26-slides-market-share-gains-offset-by-ceo-transition-93CH-5020129"
+      },
+      {
+        "label": "Investing.com — 'Why is Aristocrat Leisure stock falling today?' (open A$65.80, intraday moves)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-aristocrat-leisure-stock-falling-today-93CH-5020386"
+      },
+      {
+        "label": "NEXT.io — 'Aristocrat revenue falls 3% in FY26 despite underlying earnings growth' (user-supplied; close A$65.02, low A$61.18)",
+        "kind": "secondary",
+        "url": "https://next.io/news/results/aristocrat-leisure-fy26-results-revenue-earnings/"
+      },
+      {
+        "label": "Capital Brief — 'Aristocrat shares plunge as modest FY profit lift fails to impress' (intraday -6.2%, CEO succession detail)",
+        "kind": "secondary",
+        "url": "https://www.capitalbrief.com/briefing/aristocrat-reports-2-npat-growth-in-fy26-ceo-trevor-croker-to-retire-7ce1ba8b-19fc-43fd-946f-20d43c121382/"
+      },
+      {
+        "label": "GGRAsia — 'JP Morgan raises Aristocrat's 2027 adjusted EBITDA forecast by nearly 4pct' (13 Nov 2026)",
+        "kind": "secondary",
+        "url": "https://www.ggrasia.com/jp-morgan-raises-aristocrats-2027-adjusted-ebitda-forecast-by-nearly-4pct"
+      },
+      {
+        "label": "Kalkine — 'Aristocrat Leisure (ASX:ALL) Delivers FY26 Results with NPATA Growth and Market Share Gains' (corroboration of headline figures and FY27 outlook)",
+        "kind": "secondary",
+        "url": "https://kalkine.com.au/news/consumer/aristocrat-leisure-asxall-delivers-fy26-results-with-npata-growth-and-market-share-gains"
+      },
+      {
+        "label": "FNArena — 'Aristocrat's Ongoing Double-Digit Growth Promise' (H1 FY26 NA outright units and net adds per UBS/Morgans)",
+        "kind": "secondary",
+        "url": "https://fnarena.com/index.php/2026/05/21/aristocrats-ongoing-double-digit-growth-promise/"
+      },
+      {
+        "label": "TipRanks — Aristocrat HY26 earnings call summary (H1 ship share 31%, net adds >2,000)",
+        "kind": "secondary",
+        "url": "https://www.tipranks.com/stocks/de:ac8/earnings/q2-2026-report"
+      },
+      {
+        "label": "OzFinanceHub — RBA 4pm exchange rates, 12 Nov 2026 (AUD/USD 0.6841)",
+        "kind": "secondary",
+        "url": "https://ozfinancehub.com.au/exchange-rates"
+      }
+    ]
+  }
+}

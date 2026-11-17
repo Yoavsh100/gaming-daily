@@ -4351,5 +4351,313 @@
     "releaseDate": "12 Nov 2026 (after SGX close)",
     "model": "claude-fable-5-1",
     "costUsd": 4.05
+  },
+  {
+    "key": "high roller technologies|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-17T21:25:31.912Z",
+    "status": "failed",
+    "error": "seg.narrative is not iterable",
+    "type": "company",
+    "company": {
+      "name": "High Roller Technologies",
+      "ticker": "ROLR"
+    },
+    "period": "Q3 2026"
+  },
+  {
+    "key": "bloomberry resorts|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-17T21:37:51.867Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "BLOOM-Q3-2026",
+    "published": "2026-11-17",
+    "company": {
+      "name": "Bloomberry Resorts Corporation",
+      "ticker": "BLOOM",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A hold-flattered but genuinely cleaner quarter. Consolidated EBITDA rose 64% YoY to P3.15bn (~$49m) on a 22.9% margin (+770bps), but P350m (~$5.5m) of that is VIP hold running at 3.37% against the 2.85% the company itself calls normal; hold-normalised EBITDA was +32% in Q3 and -5% over nine months, mass-table GGR fell 8%, and visitation dropped 4-9% at both Solaire properties. The P77bn (~$1.21bn) net-debt stack at ~6x annualised EBITDA (our estimate), with the P72bn facility's amortisation tripling from year three, remains the thesis constraint — the shares fell 4.8% to P1.79 on a day the PSEi hit a six-year low.",
+    "kpis": [
+      {
+        "label": "Net revenue (Q3)",
+        "value": "P13.75bn (~$215m)",
+        "delta": "+8.6% YoY / -2.4% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Gross gaming revenue (Q3)",
+        "value": "P15.32bn (~$240m)",
+        "delta": "+4.8% YoY / -6.6% QoQ; VIP hold 3.37% vs 2.29%",
+        "dir": "up"
+      },
+      {
+        "label": "EBITDA (Q3)",
+        "value": "P3.15bn (~$49m)",
+        "delta": "+63.7% YoY; margin 22.9% (+770bps); hold-normalised P2.80bn (+32%)",
+        "dir": "up"
+      },
+      {
+        "label": "Net loss (Q3, consolidated)",
+        "value": "P445m (~$7.0m)",
+        "delta": "vs P1.75bn loss 3Q25; vs P345m loss 2Q26",
+        "dir": "up"
+      },
+      {
+        "label": "Basic/diluted LPS (Q3)",
+        "value": "P0.045 (~$0.0007)",
+        "delta": "vs P0.165 loss 3Q25; 9M P0.089 vs +P0.016",
+        "dir": "up"
+      },
+      {
+        "label": "Net debt (30 Sep 26)",
+        "value": "P77.1bn (~$1.21bn)",
+        "delta": "ND/equity 1.71x (1.76x Dec-25); ~6x annualised EBITDA (est.)",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "16 Nov 2026 (board-approved 13 Nov 2026; PSE: BLOOM; FY end 31 Dec)",
+    "model": "claude-fable-5-1",
+    "costUsd": 6.25
+  },
+  {
+    "key": "caixa loterias s a|9M 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-17T21:53:00.222Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "CAIXA-LOTERIAS-S-A-9M-2026",
+    "published": "2026-11-17",
+    "company": {
+      "name": "CAIXA Loterias S.A.",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "9M 2026",
+    "verdict": "A record but visibly decelerating nine months: federal lottery sales of R$18.71bn (~$3.24bn), +3.9% YoY, with Q3 up only +1.3% to R$6.51bn (~$1.13bn) as the July-2025 average ticket repricing (+21.7%) lapped — nominal growth is now below any plausible inflation print, the operating-cost ratio rose 240bps to 21.1% of sales, and the retail network shrank again. Social transfers of R$7.10bn (~$1.23bn, +3.4%) and a 48% public take of R$8.97bn (~$1.55bn) are the structural positives; the parent quietly dropped lotteries from its headline results package this quarter, which tells you how management reads the trend.",
+    "kpis": [
+      {
+        "label": "9M-26 lottery sales (arrecadação)",
+        "value": "R$18,706m (~$3,236m)",
+        "delta": "+3.9% YoY vs R$17,998m",
+        "dir": "up"
+      },
+      {
+        "label": "Q3-26 lottery sales",
+        "value": "R$6,514m (~$1,127m)",
+        "delta": "+1.3% YoY / +4.6% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 transfers to legal beneficiaries",
+        "value": "R$7,096m (~$1,228m)",
+        "delta": "+3.4% YoY; 37.9% of sales",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 income tax on prizes",
+        "value": "R$1,874m (~$324m)",
+        "delta": "+17.4% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Q3-26 custeio & manutenção % of sales",
+        "value": "21.1%",
+        "delta": "+240bps YoY (18.7%); cost line +14.2% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Lottery retail units (lotéricas), Sep-26",
+        "value": "12,917",
+        "delta": "−137 YoY / −21 QoQ",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "12 Nov 2026 (Caixa Econômica Federal 3T26 financial statements / Relatório da Administração; trade-press pick-up 13–17 Nov 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.5
+  },
+  {
+    "key": "gaming corps|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-17T22:12:02.644Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "GAMING-CORPS-AB-Q3-2026",
+    "published": "2026-11-17",
+    "company": {
+      "name": "Gaming Corps AB",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A genuinely strong top line — net sales SEK 29.2m (~$2.90m), +130% YoY and +38% QoQ with cash opex up only 6% QoQ — but the near-breakeven EBITDA is flattered by SEK 5.8m (~$0.58m) of capitalised development and the net loss by a SEK 1.7m (~$0.17m) non-cash FX gain; underlying EBITDA was SEK −6.6m (~$−0.66m) and free cash flow SEK −11.9m (~$−1.18m), roughly 3x the year-ago burn. The quarter closed with SEK 0.36m (~$0.04m) of cash and SEK −27.8m (~$−2.76m) of equity, forcing SEK 45.2m (~$4.50m) of directed issues at SEK 0.65 (32% dilution, ~SEK 23m net cash) — and the CFO resigned three days after the report. Shares +18% on the day; the real test is whether Q4 delivers the positive operating cash flow the board has pointed to.",
+    "kpis": [
+      {
+        "label": "Net sales (Q3-26)",
+        "value": "SEK 29.2m (~$2.90m)",
+        "delta": "+130.4% YoY / +38.4% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "EBITDA (reported, K3)",
+        "value": "SEK −0.8m (~$−0.08m)",
+        "delta": "vs −7.6m YoY; margin −2.7% (+57pp)",
+        "dir": "up"
+      },
+      {
+        "label": "EBITDA ex-capitalised dev (analyst)",
+        "value": "SEK −6.6m (~$−0.66m)",
+        "delta": "vs −9.0m YoY / −12.7m QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Net loss / EPS",
+        "value": "SEK −2.6m (~$−0.25m) / SEK −0.02 (~$−0.002)",
+        "delta": "vs −9.1m / −0.06 YoY; incl. +1.7m FX gain",
+        "dir": "up"
+      },
+      {
+        "label": "Cash / Equity at 30 Sep",
+        "value": "SEK 0.36m (~$0.04m) / SEK −27.8m (~$−2.76m)",
+        "delta": "cash −1.1m QoQ; equity −3.8m QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Live online casinos",
+        "value": "2,540+",
+        "delta": "+27% YoY / +10% QoQ",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "13 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 6.78
+  },
+  {
+    "key": "danske spil|9M 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-17T22:25:42.923Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "DANSKE-SPIL-9M-2026",
+    "published": "2026-11-17",
+    "company": {
+      "name": "Danske Spil",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "9M 2026",
+    "verdict": "A flat nine months that hides a Q3 downturn: 9M-26 BSI (GGR) +0.5% to DKK 3,841m (~$568m) and net profit +1.5% to DKK 1,547m (~$229m) were carried entirely by H1; derived Q3 BSI fell 1.4% to DKK 1,255m (~$186m) and net profit fell 4.2% to DKK 503m (~$74m) as the lottery jackpot cycle turned (Danske Lotteri Spil -5.9%) and only cost cuts and a +7.5% licensed-games segment held EBIT margin flat at 52.7%. FY26 guidance (BSI DKK 5,200–5,300m / net profit DKK 1,950–2,050m) is unchanged and, with an October Eurojackpot max-pool run, remains achievable in the upper half — but the equity story is a monopoly lottery cash-cow with a shrinking retail footprint and a sub-scale, duty-heavy online business that is not out-growing its market.",
+    "kpis": [
+      {
+        "label": "9M-26 BSI (GGR)",
+        "value": "DKK 3,841m (~$568m)",
+        "delta": "+0.5% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 EBIT (IFRS)",
+        "value": "DKK 2,004m (~$296m)",
+        "delta": "+2.2% YoY; margin 52.2% (+87bps)",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 net profit",
+        "value": "DKK 1,547m (~$229m)",
+        "delta": "+1.5% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Q3-26 BSI (derived)",
+        "value": "DKK 1,255m (~$186m)",
+        "delta": "-1.4% YoY / -9.2% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Q3-26 net profit (derived)",
+        "value": "DKK 503m (~$74m)",
+        "delta": "-4.2% YoY / -15.5% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Cash + securities (30 Sep)",
+        "value": "DKK 2,231m (~$330m)",
+        "delta": "+2.5% YoY; no financial debt disclosed",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "12 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.33
+  },
+  {
+    "key": "aristocrat leisure|FY 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-17T22:39:16.318Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "ALL-AX-FY-2026",
+    "published": "2026-11-17",
+    "company": {
+      "name": "Aristocrat Leisure Limited",
+      "ticker": "ALL.AX",
+      "exchange": ""
+    },
+    "period": "FY 2026",
+    "verdict": "A clean, Gaming-led FY26 (year to 30 Sep 2026): normalised NPATA A$1,578.5m (~US$1,080m) +1.8% reported / +9.7% constant currency and EPSA 259.3c (~US$1.77) +13% cc, built on ~6,500 net North American Gaming Operations adds to 81,678 units at a 39% share and A$1.93bn (~US$1.32bn) returned to shareholders. The quality fades into the second half — H2 NPATA A$784.5m (~US$537m) was -4% YoY reported (≈+4% cc, our estimate, vs +16% cc in H1), ~A$45m of Light & Wonder settlement recovery sits inside the \"normalised\" corporate line, Interactive margins fell 280bps and D&D ran ahead of guidance. The ~7% intraday sell-off (close -1.3% at A$65.02 / ~US$44.48) was about CEO Trevor Croker's April-2027 retirement and the unquantified \"NPATA growth in cc\" FY27 outlook, not the numbers.",
+    "kpis": [
+      {
+        "label": "Revenue (normalised)",
+        "value": "A$6,092m (~US$4.17bn)",
+        "delta": "-3.2% reported / +3.8% cc",
+        "dir": "down"
+      },
+      {
+        "label": "NPATA (normalised)",
+        "value": "A$1,578.5m (~US$1,080m)",
+        "delta": "+1.8% reported / +9.7% cc",
+        "dir": "up"
+      },
+      {
+        "label": "EBITA margin",
+        "value": "36.7%",
+        "delta": "+120bps reported (+140bps cc)",
+        "dir": "up"
+      },
+      {
+        "label": "EPSA (diluted, normalised)",
+        "value": "259.3c (~US$1.77)",
+        "delta": "+4.9% reported / +13.0% cc",
+        "dir": "up"
+      },
+      {
+        "label": "Total DPS",
+        "value": "101.0c (~US$0.69)",
+        "delta": "+8.6%; A$1.93bn (~US$1.32bn) returned incl. buyback",
+        "dir": "up"
+      },
+      {
+        "label": "Net debt / Bank EBITDA",
+        "value": "0.4x",
+        "delta": "from 0.2x; net debt A$1,135m (~US$776m) vs A$423m",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "12 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 7.04
   }
 ]
