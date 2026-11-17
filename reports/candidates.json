@@ -1,221 +1,5 @@
 [
   {
-    "key": "pointsbet|H1 FY27",
-    "type": "company",
-    "company": "PointsBet Holdings",
-    "ticker": "PBH.AX",
-    "period": "H1 FY27",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238049-pointsbet-revenue-falls-16-to-a112-7-million-in-h1-fy27/"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "konami|H1 FY27",
-    "type": "company",
-    "company": "Konami Group",
-    "ticker": "9766.T",
-    "period": "H1 FY27",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238046-konami-group-shares-surge-on-strong-revenue-and-profit-growth/"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "coinbase global|Q3 2026",
-    "type": "company",
-    "company": "Coinbase Global",
-    "ticker": "COIN",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/10/30/127095-coinbase-prediction-markets-top-200m-annualized-revenue-while-q3-net-revenue-falls-34-"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "gaming and leisure properties|Q3 2026",
-    "type": "company",
-    "company": "Gaming and Leisure Properties",
-    "ticker": "GLPI",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/10/30/127099-glpi-q3-revenue-rises-95-to-record-4354-million",
-      "https://www.gamingintelligence.com/finance/238042-glpi-delivers-another-record-performance-in-third-quarter/"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "betty canada|Q3 2026",
-    "type": "company",
-    "company": "Betty Canada",
-    "ticker": null,
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238044-betty-canada-hits-record-revenue-of-ca111-million-in-third-quarter/"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "juris|tanzania|2026",
-    "type": "jurisdiction",
-    "market": "Tanzania",
-    "authority": "Gaming Board of Tanzania",
-    "period": "2026",
-    "urls": [
-      "https://igamingbusiness.com/finance/tanzania-gaming-tax-revenue-player-protection/"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "juris|las vegas strip nevada|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Las Vegas Strip, Nevada",
-    "authority": "Nevada Gaming Control Board",
-    "period": "SEPTEMBER 2026",
-    "urls": [],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "juris|delaware|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Delaware",
-    "authority": null,
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238026-delaware-igaming-and-sports-bets-rise-by-20-in-september/"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "pointsbet|H1 FY2027",
-    "type": "company",
-    "company": "PointsBet Holdings",
-    "ticker": "PBH.AX",
-    "period": "H1 FY2027",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238049-pointsbet-revenue-falls-16-to-a112-7-million-in-h1-fy27/",
-      "https://www.thegamblest.com/pointsbet-year-on-year-revenue-falls-16/",
-      "https://next.io/news/results/pointsbet-revenue-falls-amid-australian-decline/",
-      "https://www.yogonet.com/international/news/2026/11/03/127149-pointsbet-posts-16-firsthalf-revenue-decline-as-australian-betting-weakens"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "konami|H1 FY2027",
-    "type": "company",
-    "company": "Konami Group",
-    "ticker": "9766.T",
-    "period": "H1 FY2027",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238046-konami-group-shares-surge-on-strong-revenue-and-profit-growth/"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "juris|united kingdom|2026",
-    "type": "jurisdiction",
-    "market": "United Kingdom",
-    "authority": "UKGC",
-    "period": "2026",
-    "urls": [
-      "https://casinobeats.com/2026/11/01/gambling-commission-payment-data-91-of-repeat-illegal-site-users-still-bet-with-licensed-sites/",
-      "https://focusgn.com/ukgc-illegal-gambling-harm-study",
-      "https://focusgn.com/illegal-gambling-index-gambling-commission",
-      "https://igamingbusiness.com/legal-compliance/illegal-gambling-websites-2-5-of-online-gamblers-in-latest-uk-survey/",
-      "https://igamingfuture.com/ukgc-illegal-gambling-data/",
-      "https://igamingfuture.com/gambling-commission-2/"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "juris|sweden|2026",
-    "type": "jurisdiction",
-    "market": "Sweden",
-    "authority": null,
-    "period": "2026",
-    "urls": [
-      "https://europeangaming.eu/portal/gambling-in-sweden/"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "juris|macau|OCTOBER 2026",
-    "type": "jurisdiction",
-    "market": "Macau",
-    "authority": "DICJ",
-    "period": "OCTOBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238120-macau-casinos-post-10-gaming-revenue-drop-in-october/",
-      "https://www.yogonet.com/international/news/2026/11/02/127117-macau-october-ggr-falls-10-to-268-billion-for-fifth-straight-monthly-decline"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "juris|nevada las vegas strip|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Nevada (Las Vegas Strip)",
-    "authority": "Nevada Gaming Control Board",
-    "period": "SEPTEMBER 2026",
-    "urls": [],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "juris|philippines|9M 2026",
-    "type": "jurisdiction",
-    "market": "Philippines",
-    "authority": "PAGCOR",
-    "period": "9M 2026",
-    "urls": [],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "belle|9M 2026",
-    "type": "company",
-    "company": "Belle Corporation",
-    "ticker": "BEL",
-    "period": "9M 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238140-belle-corporation-grows-revenue-by-11-in-9m-2026/",
-      "https://www.thegamblest.com/belle-corp-year-on-year-gaming-revenue-share-rises-13/"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "juris|tanzania|FY 2026",
-    "type": "jurisdiction",
-    "market": "Tanzania",
-    "authority": "Gaming Board of Tanzania",
-    "period": "FY 2026",
-    "urls": [
-      "https://igamingafrika.com/tanzania-generates-tzs307-8billion-in-gaming-tax-amid-market-expansion/"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "juris|north carolina|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "North Carolina",
-    "authority": "North Carolina Lottery Commission",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238082-north-carolina-sports-wagers-top-700-million-in-september/"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
-    "key": "juris|rhode island|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Rhode Island",
-    "authority": "Rhode Island Lottery",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/sectors/lottery-sectors/238090-rhode-island-lottery-sales-decline-15-in-september/",
-      "https://www.gamingintelligence.com/markets/north-america/238124-rhode-island-sports-and-igaming-wagering-climbs-3-in-september/",
-      "https://www.gamingintelligence.com/finance/238096-rhode-island-gaming-revenue-climbs-to-51-4-million-in-september/"
-    ],
-    "seen": "2026-11-02"
-  },
-  {
     "key": "digiplus interactive|Q3 2026",
     "type": "company",
     "company": "DigiPlus Interactive Corp.",
@@ -258,7 +42,8 @@
     "period": "SEPTEMBER 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238114-ohio-lottery-reports-6-increase-in-september-vlt-revenue/",
-      "https://www.gamingintelligence.com/finance/238118-ohio-casinos-earn-13-increase-in-september-gaming-revenue/"
+      "https://www.gamingintelligence.com/finance/238118-ohio-casinos-earn-13-increase-in-september-gaming-revenue/",
+      "https://www.gamingintelligence.com/finance/238686-ohio-sports-wagers-drop-2-in-september/"
     ],
     "seen": "2026-11-03"
   },
@@ -1362,5 +1147,18 @@
       "https://europeangaming.eu/portal/gambling-in-france/"
     ],
     "seen": "2026-11-16"
+  },
+  {
+    "key": "high roller technologies|Q3 2026",
+    "type": "company",
+    "company": "High Roller Technologies",
+    "ticker": "ROLR",
+    "period": "Q3 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238716-high-roller-technologies-swings-to-loss-in-q3-2026/"
+    ],
+    "seen": "2026-11-17"
   }
 ]
