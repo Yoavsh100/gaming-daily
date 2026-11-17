@@ -1160,5 +1160,31 @@
       "https://www.gamingintelligence.com/finance/238716-high-roller-technologies-swings-to-loss-in-q3-2026/"
     ],
     "seen": "2026-11-17"
+  },
+  {
+    "key": "bloomberry resorts|Q3 2026",
+    "type": "company",
+    "company": "Bloomberry Resorts Corporation",
+    "ticker": "BLOOM",
+    "period": "Q3 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238738-bloomberry-resorts-reduces-net-loss-as-q3-revenue-grows/"
+    ],
+    "seen": "2026-11-17"
+  },
+  {
+    "key": "caixa loterias s a|9M 2026",
+    "type": "company",
+    "company": "CAIXA Loterias S.A.",
+    "ticker": null,
+    "period": "9M 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://www.gamingintelligence.com/markets/south-america/238647-brazil-federal-lottery-sales-surpass-r18-billion-in-9m-2026/"
+    ],
+    "seen": "2026-11-17"
   }
 ]
