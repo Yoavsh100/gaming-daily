@@ -1203,5 +1203,16 @@
       "https://www.gamingintelligence.com/finance/238618-greece-sees-5-growth-in-gambling-revenue-for-9m-2026/"
     ],
     "seen": "2026-11-18"
+  },
+  {
+    "key": "juris|uganda|FY 2026",
+    "type": "jurisdiction",
+    "market": "Uganda",
+    "authority": "National Lotteries and Gaming Regulatory Board (NLGRB)",
+    "period": "FY 2026",
+    "urls": [
+      "https://igamingafrika.com/ugandas-gaming-tax-rises-to-ugx-368bn-in-fy-2025-26/"
+    ],
+    "seen": "2026-11-18"
   }
 ]
