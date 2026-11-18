@@ -1052,7 +1052,8 @@
     "period": "2026",
     "urls": [
       "https://europeangaming.eu/portal/gambling-in-france/",
-      "https://igamingbusiness.com/igaming/france-online-gambling-attracted-young-adults-female-2025/"
+      "https://igamingbusiness.com/igaming/france-online-gambling-attracted-young-adults-female-2025/",
+      "https://europeangaming.eu/portal/latest-news/2026/11/18/218172/france-online-players-2025-anj-young-adults/"
     ],
     "seen": "2026-11-16"
   },
@@ -1120,7 +1121,9 @@
     "urls": [
       "https://focusgn.com/banijay-tipico-revenue-growth-2026",
       "https://igamingbusiness.com/finance/banijays-nine-month-revenue-rises-acquisitions-debt-more-doubles/",
-      "https://www.gamingintelligence.com/finance/238775-banijays-online-betting-and-gaming-revenue-nears-e2-billion-in-9m-2026/"
+      "https://www.gamingintelligence.com/finance/238775-banijays-online-betting-and-gaming-revenue-nears-e2-billion-in-9m-2026/",
+      "https://www.thegamblest.com/banijay-group-revenue-rises-33-9-as-net-profit-falls-45/",
+      "https://europeangaming.eu/portal/latest-news/2026/11/18/218178/banijay-9m-2026-results-betclic-tipico/"
     ],
     "seen": "2026-11-17"
   },
@@ -1165,6 +1168,39 @@
     "period": "OCTOBER 2026",
     "urls": [
       "https://www.yogonet.com/international/news/2026/11/17/127302-macau-gaming-tax-revenue-falls-17-in-october-despite-yeartodate-growth"
+    ],
+    "seen": "2026-11-18"
+  },
+  {
+    "key": "juris|indiana|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Indiana",
+    "authority": "Indiana Gaming Commission",
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238730-indiana-reports-4-decline-in-october-sports-wagering/"
+    ],
+    "seen": "2026-11-18"
+  },
+  {
+    "key": "juris|finland|2026",
+    "type": "jurisdiction",
+    "market": "Finland",
+    "authority": "Blask",
+    "period": "2026",
+    "urls": [
+      "https://www.thegamblest.com/blask-paf-alone-outweighs-all-21-of-finlands-new-igaming-licence-holders-in-offshore-demand/"
+    ],
+    "seen": "2026-11-18"
+  },
+  {
+    "key": "juris|greece|9M 2026",
+    "type": "jurisdiction",
+    "market": "Greece",
+    "authority": null,
+    "period": "9M 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238618-greece-sees-5-growth-in-gambling-revenue-for-9m-2026/"
     ],
     "seen": "2026-11-18"
   }
