@@ -1,102 +1,5 @@
 [
   {
-    "key": "digiplus interactive|Q3 2026",
-    "type": "company",
-    "company": "DigiPlus Interactive Corp.",
-    "ticker": "PLUS",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238198-digiplus-interactive-swings-to-loss-in-q3-2026/",
-      "https://www.thegamblest.com/digiplus-reports-140m-profit-despite-17-drop-in-revenue/"
-    ],
-    "seen": "2026-11-03"
-  },
-  {
-    "key": "juris|zimbabwe|JANUARY-SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Zimbabwe",
-    "authority": "Blask",
-    "period": "JANUARY-SEPTEMBER 2026",
-    "urls": [
-      "https://igamingafrika.com/zimbabwe-betting-tax-demand-more-than-doubled/"
-    ],
-    "seen": "2026-11-03"
-  },
-  {
-    "key": "juris|france|OCTOBER 2026",
-    "type": "jurisdiction",
-    "market": "France",
-    "authority": "Blask",
-    "period": "OCTOBER 2026",
-    "urls": [
-      "https://www.thegamblest.com/blask-offshore-operators-captured-nearly-84-of-french-gambling-demand-amid-october-surge/",
-      "https://europeangaming.eu/portal/latest-news/2026/11/03/217278/french-gambling-search-more-than-doubles-in-october-blask-data-shows/"
-    ],
-    "seen": "2026-11-03"
-  },
-  {
-    "key": "juris|ohio|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Ohio",
-    "authority": "Ohio Lottery",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238114-ohio-lottery-reports-6-increase-in-september-vlt-revenue/",
-      "https://www.gamingintelligence.com/finance/238118-ohio-casinos-earn-13-increase-in-september-gaming-revenue/",
-      "https://www.gamingintelligence.com/finance/238686-ohio-sports-wagers-drop-2-in-september/"
-    ],
-    "seen": "2026-11-03"
-  },
-  {
-    "key": "juris|iowa|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Iowa",
-    "authority": "Iowa Lottery",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238105-iowa-lottery-reports-sales-drop-of-16-in-september/"
-    ],
-    "seen": "2026-11-03"
-  },
-  {
-    "key": "lottomatica|9M 2026",
-    "type": "company",
-    "company": "Lottomatica Group S.p.A.",
-    "ticker": "LTMC",
-    "period": "9M 2026",
-    "urls": [
-      "https://europeangaming.eu/portal/latest-news/2026/11/03/217297/lottomatica-9m-2026-results/",
-      "https://www.gamingintelligence.com/finance/238226-lottomatica-profits-as-revenue-grows-to-e1-72-billion-in-9m-2026/",
-      "https://igamingbusiness.com/finance/lottomatica-strengthens-italian-market-position-9m-earnings/",
-      "https://focusgn.com/lottomatica-online-market-share-growth"
-    ],
-    "seen": "2026-11-03"
-  },
-  {
-    "key": "hacksaw|Q3 2026",
-    "type": "company",
-    "company": "Hacksaw AB",
-    "ticker": "HACK.ST",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238195-hacksaw-ab-sees-third-quarter-profit-rise-to-e45-7-million/",
-      "https://next.io/news/results/q3-2026-hacksaw-shuffles-group-management/"
-    ],
-    "seen": "2026-11-03"
-  },
-  {
-    "key": "juris|colorado|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Colorado",
-    "authority": null,
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238099-colorado-land-based-gaming-revenue-rises-8-in-september/",
-      "https://www.gamingintelligence.com/finance/238494-colorado-reports-10-decline-in-september-sports-handle/"
-    ],
-    "seen": "2026-11-03"
-  },
-  {
     "key": "SRAD|Q3 2026",
     "type": "company",
     "company": "Sportradar Group AG",
@@ -951,7 +854,8 @@
     "authority": null,
     "period": "OCTOBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238550-maryland-casinos-win-159-7-million-in-october-gaming-revenue/"
+      "https://www.gamingintelligence.com/finance/238550-maryland-casinos-win-159-7-million-in-october-gaming-revenue/",
+      "https://www.gamingintelligence.com/finance/238721-maryland-sports-betting-falls-to-710-million-in-october/"
     ],
     "seen": "2026-11-13"
   },
@@ -1098,7 +1002,8 @@
     "sector": "gaming",
     "africa": false,
     "urls": [
-      "https://www.gamingintelligence.com/finance/238695-strong-third-quarter-for-philweb-as-revenue-soars-153/"
+      "https://www.gamingintelligence.com/finance/238695-strong-third-quarter-for-philweb-as-revenue-soars-153/",
+      "https://www.yogonet.com/international/news/2026/11/17/127311-philweb-q3-profit-reaches-1-million-as-revenue-grows-1529-"
     ],
     "seen": "2026-11-16"
   },
@@ -1146,7 +1051,8 @@
     "authority": null,
     "period": "2026",
     "urls": [
-      "https://europeangaming.eu/portal/gambling-in-france/"
+      "https://europeangaming.eu/portal/gambling-in-france/",
+      "https://igamingbusiness.com/igaming/france-online-gambling-attracted-young-adults-female-2025/"
     ],
     "seen": "2026-11-16"
   },
@@ -1211,7 +1117,55 @@
     "period": "9M 2026",
     "sector": "other",
     "africa": false,
-    "urls": [],
+    "urls": [
+      "https://focusgn.com/banijay-tipico-revenue-growth-2026",
+      "https://igamingbusiness.com/finance/banijays-nine-month-revenue-rises-acquisitions-debt-more-doubles/",
+      "https://www.gamingintelligence.com/finance/238775-banijays-online-betting-and-gaming-revenue-nears-e2-billion-in-9m-2026/"
+    ],
     "seen": "2026-11-17"
+  },
+  {
+    "key": "juris|chile|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Chile",
+    "authority": "Blask",
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.thegamblest.com/blask-chiles-igaming-demand-drops-38-7-in-first-full-month-of-dns-blocks/"
+    ],
+    "seen": "2026-11-18"
+  },
+  {
+    "key": "juris|united kingdom|2026",
+    "type": "jurisdiction",
+    "market": "United Kingdom",
+    "authority": "UKGC",
+    "period": "2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/11/17/127323-uk-gambling-commission-reports-drop-in-youth-gambling-participation-to-26-in-2026"
+    ],
+    "seen": "2026-11-18"
+  },
+  {
+    "key": "juris|maine|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Maine",
+    "authority": null,
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238710-maine-sports-betting-grows-2-in-october/"
+    ],
+    "seen": "2026-11-18"
+  },
+  {
+    "key": "juris|macau|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Macau",
+    "authority": "Financial Services Bureau",
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/11/17/127302-macau-gaming-tax-revenue-falls-17-in-october-despite-yeartodate-growth"
+    ],
+    "seen": "2026-11-18"
   }
 ]
