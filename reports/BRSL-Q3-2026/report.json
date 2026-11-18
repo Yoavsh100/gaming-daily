@@ -1,0 +1,1717 @@
+{
+  "company": {
+    "name": "Brightstar Lottery",
+    "ticker": "BRSL",
+    "exchange": ""
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 3208059,
+    "output": 51356,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 90,
+    "cacheRead": 3087729,
+    "cacheWrite": 120240,
+    "turns": 1
+  },
+  "prepared": "18 Nov 2026",
+  "report": {
+    "releaseDate": "10 Nov 2026",
+    "currency": "USD (tables in $ millions unless stated; company reports in USD)",
+    "verdict": "A clean-but-uninspiring print: adj. EBITDA of $289m landed on the number and the 47.5% margin ticked up 80bps, but an $80m (−3%) cut to FY26 revenue guidance — softer US multi-state jackpots, an Italian heat-wave/trucker-strike summer, slower Italy B2C phasing and a weaker euro — plus a $25m EBITDA trim exposed how little organic momentum sits beneath the non-cash Italy Lotto amortization noise. The shares gapped −11% pre-market before closing −4.2% at $9.59; at 3.30x leverage and a ~9.6% dividend yield the market is pricing contract-renewal and consumer risk, not the 5% revenue CAGR management still defends.",
+    "kpis": [
+      {
+        "label": "Revenue (GAAP)",
+        "value": "$607m",
+        "delta": "−4% YoY (−3% cc); +4% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA / margin",
+        "value": "$289m / 47.5%",
+        "delta": "−2% YoY (−1% cc); margin +80bps",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EPS (cont. ops)",
+        "value": "$0.10",
+        "delta": "−73% YoY (incl. $0.23 non-cash SRA)",
+        "dir": "down"
+      },
+      {
+        "label": "GAAP diluted EPS (cont. ops)",
+        "value": "$0.12",
+        "delta": "−60% YoY vs $0.29",
+        "dir": "down"
+      },
+      {
+        "label": "Net debt / leverage",
+        "value": "$3.84bn / 3.30x",
+        "delta": "+$1.1bn vs Dec-25 (Lotto payment); 3.24x at Q2",
+        "dir": "up"
+      },
+      {
+        "label": "FY26 revenue guide",
+        "value": "$2.435–2.455bn",
+        "delta": "cut from $2.50–2.55bn (mid −$80m)",
+        "dir": "down"
+      }
+    ],
+    "summary": [
+      "**Headline revenue missed, profit in line.** Q3-26 revenue of $607m fell 4% YoY (−3% constant currency) against ~$610–612m consensus (Investing.com $612m; Stifel $610m); adj. EBITDA of $289m (−2% YoY, −1% cc) was marginally ahead of Stifel's $287m and 'in line with expectations' per management, with margin up 80bps to 47.5%.",
+      "**Adj. EPS $0.10 vs $0.36 — the EPS 'beat' is a low bar.** Consensus ranged from $0.06 (Investing.com) to $0.09 (FactSet via MarketScreener); the YoY collapse is almost entirely the $0.23/share (net of tax, Brightstar share) of non-cash Italy Lotto service revenue amortization (SRA) vs $0.12 a year ago. GAAP diluted EPS from continuing ops was $0.12 vs $0.29.",
+      "**The $46m amortization headwind is the whole reported-revenue story.** Upfront licence fee amortization rose to $99m from $53m; ex-SRA, constant-currency 'operational' revenue grew ~4% (our estimate: $706m vs $682m, +3.5% reported, ~+4.5% cc), accelerating from ~1% in H1. Management's whole narrative rests on this metric; investors should note it is not a GAAP measure and the cash was paid upfront.",
+      "**Guidance cut: FY26 revenue to $2.435–2.455bn from $2.50–2.55bn (midpoint −$80m / −3.2%); adj. EBITDA to $1.14–1.16bn from $1.16–1.19bn (midpoint −$25m / −2.1%).** Management attributes the revenue cut to three items: (i) H2 same-store sales (Italy heat wave/October trucker strike; lower US multi-state jackpot expectations after the ~$1bn Powerball was hit in early November vs the ~$1.8bn December-2025 comp), (ii) phasing of Italy B2C expansion, (iii) FX (EUR/USD 1.12 for Q4 and 1.15 FY vs 1.17 previously). The EBITDA cut is 'primarily FX' per the release; Stifel estimates FX is ~half, the rest same-store sales and Italy digital delays.",
+      "**Which division drove it: U.S. (jackpots) and Italy (retail disruption + B2C timing).** US & Canada revenue −1% to $301m with total same-store sales −5.5% (multi-state jackpots −30.6% against a +69.2% comp; instants & draw −1.4%); Italy revenue −19% to $208m (−18% cc) almost entirely SRA, with same-store sales −1.2% vs +6.1% a year ago. Rest of World (+42% to $98m) was the only geography growing, on Portugal terminal sales and the Lotterywest contract.",
+      "**Cash guidance held, capex trimmed to the low end.** FY26 net cash used in operations ~$900m including the €1.43bn/$1.67bn final Italy Lotto payment, i.e. ~$750m ex-Lotto (unchanged); capex now ~$450m vs $450–475m on timing shift into 2027 (the $1.6bn 2025–28 capex envelope is unchanged, so 2027 capex steps up).",
+      "**Q4 implied: revenue $657–677m (−2% to +1% vs Q4-25's $668m) and adj. EBITDA $279–299m (−8% to −2% vs $304m).** Management explicitly guided Q4 margin 'down' versus recent quarters on a heavier product-sales mix; implied Q4 margin ~43% at midpoint vs 45.5% a year ago.",
+      "**Underlying margin ex-amortization compressed in Q3 even as reported margin expanded.** Our estimate: adj. EBITDA / revenue-ex-SRA fell ~220bps YoY to 40.9% (from 43.1%) on lower-margin product sales mix, growth investment, the UK contract transition and prior-year one-off expense recoveries; management chose to emphasise the YTD figure (+50bps to ~41.5%), which flatters the trend.",
+      "**OPtiMa cost programme: upgraded to $100m by 2028 (from the prior $80m target); ~$10m incremental benefit built into 2027 and the final ~$20m in 2028; 'minor' residual restructuring charges only.** A new AI/business-process re-engineering programme is being scoped but is 'early innings' with no numbers.",
+      "**Capital returns: >$200m YTD through 9 Nov ($127m dividends + $77m buybacks) ≈ 11% of market cap; quarterly dividend held at $0.23 (annualised $0.92, ~9.6% yield at $9.59).** Management frames adj. EPS ex-SRA at $1.05 YTD for a 65% pro-forma payout; on reported adj. EPS ($0.34 YTD) the dividend ($0.69 YTD) is uncovered — a point bears will keep making.",
+      "**Balance sheet: net debt $3,842m (+$1,119m vs Dec-25 on the Lotto payment; +$51m QoQ), net debt leverage 3.30x (3.24x at Q2), liquidity $1.9bn ($0.5bn cash + $1.3bn undrawn RCF).** September refinancing: €500m 4.875% SSN due 2032 issued; €342m ($393m) of 2.375% 2028s repurchased and €155m ($176m) of RCF repaid. Net interest expense rose to $50m from $36m on lost interest income post-Lotto payment.",
+      "**Q3 cash conversion was weak: CFO $73m, capex $81m, FCF −$8m,** on working-capital timing (accrued interest −$37m, accrued taxes −$29m, other −$53m). YTD CFO ex-Lotto $574m and FCF ex-Lotto ~$261m (our estimate) against $127m dividends and $62m buybacks paid.",
+      "**Italy regulatory: draft budget law contemplates a 15-month Scratch & Win concession extension to 31 Dec 2029 for €188m (~$210m at EUR/USD ~1.12) in two instalments (end-March and end-September 2027), funded pro-rata with consortium partners, plus a new Wednesday Lotto draw** — a sales catalyst if enacted. Management says no significant impact on the leverage trajectory, but it defers rather than removes Scratch & Win rebid risk.",
+      "**US contract renewals remain the binary.** Texas (10-year to 2038, 90% technical/10% price scoring) proposal submitted, no update; New York signed a 2-year extension, the RFP was cancelled and reissued with resubmission due early December. Stifel notes these may push removal of contract uncertainty into 2027 and beyond.",
+      "**Mega Millions relaunch 'has not been all that successful'** — the $2→$5 price/matrix change delivers lower play at equivalent advertised jackpots and only normalises near $1bn; the CEO is calling for the industry to revisit the algorithm. Combined with Powerball luck, multi-state jackpot revenue was $25m vs $36m.",
+      "**Consumer read-across is mixed, not benign.** Management cites 'more selective and intentional' spending, with lower-income players most affected and strength concentrated in $20/$30/$50 price-point instants; US instants were still the second-best Q3 in five years, and LMA states New Jersey and Indiana grew instants +4% in Q3 (low-to-mid single digits YTD). The cannibalisation question (sweeps, prediction markets, iCasino) raised by Stifel went unanswered.",
+      "**Growth engines are real but small.** Global iLottery sales grew double digits; 3 new iLottery platforms launch next year (2 US, 1 international); Italy B2C (MyLotteries PLAY app, Dual Play hybrid instants with ~half of participants migrating to the app, OTTO self-service Lotto terminals from early 2027, 'Sani' proximity payments) is tracking to only '>$10m' of digital revenue by year-end with the run-rate expected to double — and carries a multi-year investment J-curve.",
+      "**Medium-term framework retained but re-mixed.** The 5% revenue CAGR 'North Star' stands, but management now expects more from Italy B2C and iLottery and less from retail same-store growth than when the plan was set; a refreshed outlook comes with Q1-27 results. Brazil (São Paulo JV with Scientific Games; Minas Gerais) is deemed insulated from the federal iCasino/sports-betting restrictions.",
+      "**Share price: −10.8% pre-market, closed −4.2% at $9.59 (from $10.01), +7.2% to $10.28 next day, then a new 52-week low (~$9.0) on 17 Nov.** Stifel cut its target to $18 from $19 but kept Buy/Select List; MarketScreener consensus average target ~$14.6 (9 analysts).",
+      "**Thesis read-through: the lottery annuity is intact but the equity is a leveraged, contract-dated claim on it.** FY26 adj. EBITDA will still grow ~2–3% on FY25's $1,122m, yet reported revenue falls ~3%, GAAP/adj. EPS is halved by ~$0.93/share of non-cash SRA, leverage sits at the upper half of the target range, and 2027 brings higher capex plus the €188m Scratch & Win payment. Until Texas/New York are resolved and Italy B2C shows scale, the 9–10% yield is the thesis."
+    ],
+    "groupTable": {
+      "note": "US $m (GAAP unless noted)",
+      "columns": [
+        "Q3-26",
+        "Q2-26",
+        "Q3-25",
+        "QoQ",
+        "YoY",
+        "9M-26",
+        "9M-25",
+        "9M YoY"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by type",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Instant ticket & draw wager-based",
+          "indent": true,
+          "cells": [
+            "500",
+            "517",
+            "512",
+            "−3%",
+            "−2% (cc −2%)",
+            "n/d",
+            "n/d",
+            "n/d"
+          ]
+        },
+        {
+          "label": "U.S. multi-state jackpot wager-based",
+          "indent": true,
+          "cells": [
+            "25",
+            "17",
+            "36",
+            "+47%",
+            "−30% (cc −30%)",
+            "n/d",
+            "n/d",
+            "n/d"
+          ]
+        },
+        {
+          "label": "Upfront licence fee amortization (SRA, non-cash)",
+          "indent": true,
+          "cells": [
+            "(99)",
+            "(100)",
+            "(53)",
+            "−1%",
+            "+87%",
+            "(300)",
+            "(154)",
+            "+95%"
+          ]
+        },
+        {
+          "label": "Other service (software, maintenance, Italy B2C)",
+          "indent": true,
+          "cells": [
+            "121",
+            "116",
+            "109",
+            "+4%",
+            "+11% (cc +11%)",
+            "n/d",
+            "n/d",
+            "n/d"
+          ]
+        },
+        {
+          "label": "Total service revenue",
+          "kind": "line",
+          "cells": [
+            "547",
+            "550",
+            "604",
+            "−1%",
+            "−9% (cc −9%)",
+            "1,655",
+            "1,750",
+            "−5%"
+          ]
+        },
+        {
+          "label": "Product sales (terminals, software, instant printing)",
+          "cells": [
+            "60",
+            "34",
+            "25",
+            "+76%",
+            "+137% (cc +142%)",
+            "123",
+            "93",
+            "+32%"
+          ]
+        },
+        {
+          "label": "Total revenue",
+          "kind": "emphasis",
+          "cells": [
+            "607",
+            "584",
+            "629",
+            "+4%",
+            "−4% (cc −3%)",
+            "1,778",
+            "1,843",
+            "−4% (cc −3.5%)"
+          ]
+        },
+        {
+          "label": "Revenue ex-SRA (analyst est., non-GAAP)",
+          "indent": true,
+          "cells": [
+            "706",
+            "684",
+            "682",
+            "+3%",
+            "+4%",
+            "2,078",
+            "1,997",
+            "+4%"
+          ],
+          "footnote": "Revenue plus SRA add-back; management's 'operational growth' of ~4% in Q3 (vs ~1% in H1) is this measure at constant currency."
+        },
+        {
+          "label": "Revenue by geography",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "U.S. & Canada",
+          "indent": true,
+          "cells": [
+            "301",
+            "286",
+            "304",
+            "+5%",
+            "−1% (cc −1%)",
+            "n/d",
+            "n/d",
+            "n/d"
+          ]
+        },
+        {
+          "label": "Italy",
+          "indent": true,
+          "cells": [
+            "208",
+            "221",
+            "257",
+            "−6%",
+            "−19% (cc −18%)",
+            "n/d",
+            "n/d",
+            "n/d"
+          ]
+        },
+        {
+          "label": "Rest of world",
+          "indent": true,
+          "cells": [
+            "98",
+            "77",
+            "69",
+            "+27%",
+            "+42% (cc +43%)",
+            "n/d",
+            "n/d",
+            "n/d"
+          ]
+        },
+        {
+          "label": "Profitability",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Adj. EBITDA (non-GAAP)",
+          "kind": "emphasis",
+          "cells": [
+            "289",
+            "286",
+            "294",
+            "+1%",
+            "−2% (cc −1%)",
+            "861",
+            "818",
+            "+5%"
+          ]
+        },
+        {
+          "label": "Adj. EBITDA margin (reported basis)",
+          "indent": true,
+          "cells": [
+            "47.5%",
+            "48.9%",
+            "46.7%",
+            "−140bps",
+            "+80bps",
+            "48.4%",
+            "44.4%",
+            "+400bps"
+          ]
+        },
+        {
+          "label": "Adj. EBITDA margin ex-SRA (analyst est.)",
+          "indent": true,
+          "cells": [
+            "40.9%",
+            "41.8%",
+            "43.1%",
+            "−90bps",
+            "−220bps",
+            "41.4%",
+            "41.0%",
+            "+50bps"
+          ],
+          "footnote": "Adj. EBITDA / (revenue + SRA). Management cited the YTD figure ('about 41.5%, +50bps'); the Q3 figure is our calculation."
+        },
+        {
+          "label": "Adj. EBIT (non-GAAP)",
+          "cells": [
+            "130",
+            "128",
+            "185",
+            "+2%",
+            "−30% (cc −29%)",
+            "391",
+            "500",
+            "−22%"
+          ]
+        },
+        {
+          "label": "Income from continuing operations (GAAP)",
+          "cells": [
+            "45",
+            "56",
+            "95",
+            "−20%",
+            "−53%",
+            "164",
+            "43",
+            "+281%"
+          ]
+        },
+        {
+          "label": "Less: NCI share (cont. ops)",
+          "indent": true,
+          "cells": [
+            "23",
+            "23",
+            "38",
+            "0%",
+            "−39%",
+            "72",
+            "105",
+            "−31%"
+          ]
+        },
+        {
+          "label": "Net income attrib. to BRSL – continuing ops",
+          "cells": [
+            "22",
+            "33",
+            "57",
+            "−33%",
+            "−61%",
+            "91",
+            "(62)",
+            "n/m"
+          ]
+        },
+        {
+          "label": "Net income attrib. to BRSL – total (incl. disc. ops)",
+          "cells": [
+            "22",
+            "33",
+            "117",
+            "−33%",
+            "−81%",
+            "91",
+            "86",
+            "+6%"
+          ],
+          "footnote": "Q3-25 / 9M-25 include $60m / $148m from discontinued Gaming & Digital (sold to Apollo); nil in 2026."
+        },
+        {
+          "label": "Diluted EPS – continuing ops (GAAP)",
+          "cells": [
+            "$0.12",
+            "$0.18",
+            "$0.29",
+            "−33%",
+            "−60%",
+            "$0.49",
+            "$(0.31)",
+            "n/m"
+          ]
+        },
+        {
+          "label": "Adj. EPS – continuing ops (non-GAAP)",
+          "kind": "emphasis",
+          "cells": [
+            "$0.10",
+            "$0.11",
+            "$0.36",
+            "−9%",
+            "−73%",
+            "$0.34",
+            "$0.55",
+            "−38%"
+          ]
+        },
+        {
+          "label": "of which SRA, net of tax, BRSL share (per share)",
+          "indent": true,
+          "cells": [
+            "$0.23",
+            "$0.23",
+            "$0.12",
+            "–",
+            "+92%",
+            "$0.70",
+            "$0.34",
+            "+106%"
+          ]
+        },
+        {
+          "label": "Diluted weighted shares (m)",
+          "cells": [
+            "185",
+            "186",
+            "196",
+            "−1%",
+            "−6%",
+            "186",
+            "200",
+            "−7%"
+          ]
+        },
+        {
+          "label": "Group KPIs – same-store sales (wagers, constant currency)",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Global total SSS",
+          "indent": true,
+          "cells": [
+            "−3.9%",
+            "+1.5%",
+            "+7.9%",
+            "–",
+            "–",
+            "n/d",
+            "n/d",
+            "–"
+          ]
+        },
+        {
+          "label": "Global instant ticket & draw",
+          "indent": true,
+          "cells": [
+            "−1.0%",
+            "+1.1%",
+            "+3.9%",
+            "–",
+            "–",
+            "n/d",
+            "n/d",
+            "–"
+          ]
+        },
+        {
+          "label": "U.S. multi-state jackpots",
+          "indent": true,
+          "cells": [
+            "−30.6%",
+            "+11.1%",
+            "+69.2%",
+            "–",
+            "–",
+            "n/d",
+            "n/d",
+            "–"
+          ]
+        },
+        {
+          "label": "Global same-store revenue incl. contract mix",
+          "indent": true,
+          "cells": [
+            "−2.5%",
+            "+2.6%",
+            "+8.5%",
+            "–",
+            "–",
+            "n/d",
+            "n/d",
+            "–"
+          ]
+        },
+        {
+          "label": "Operational revenue growth (cc, ex-SRA; mgmt)",
+          "indent": true,
+          "cells": [
+            "~+4%",
+            "~+1% (H1)",
+            "n/d",
+            "–",
+            "–",
+            "n/d",
+            "n/d",
+            "–"
+          ]
+        },
+        {
+          "label": "Cash flow & balance sheet",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Cash from operations – continuing ops",
+          "cells": [
+            "73",
+            "(1,340)",
+            "(445)",
+            "n/m",
+            "n/m",
+            "(1,101)",
+            "29",
+            "n/m"
+          ]
+        },
+        {
+          "label": "Italy Lotto licence payment included above",
+          "indent": true,
+          "cells": [
+            "0",
+            "n/d (H1 total 1,675)",
+            "(579)",
+            "–",
+            "–",
+            "(1,675)",
+            "(579)",
+            "–"
+          ]
+        },
+        {
+          "label": "CFO ex-Lotto payment (analyst est.)",
+          "indent": true,
+          "cells": [
+            "73",
+            "n/d",
+            "134",
+            "–",
+            "−46%",
+            "574",
+            "608",
+            "−6%"
+          ]
+        },
+        {
+          "label": "Capital expenditures",
+          "cells": [
+            "(81)",
+            "(121)",
+            "(65)",
+            "−33%",
+            "+25%",
+            "(313)",
+            "(239)",
+            "+31%"
+          ]
+        },
+        {
+          "label": "Free cash flow (non-GAAP)",
+          "cells": [
+            "(8)",
+            "(1,461)",
+            "(509)",
+            "n/m",
+            "n/m",
+            "(1,414)",
+            "(211)",
+            "n/m"
+          ]
+        },
+        {
+          "label": "FCF ex-Lotto payment (analyst est.)",
+          "indent": true,
+          "cells": [
+            "(8)",
+            "n/d",
+            "70",
+            "–",
+            "n/m",
+            "261",
+            "369",
+            "−29%"
+          ]
+        },
+        {
+          "label": "Cash & cash equivalents",
+          "cells": [
+            "538",
+            "558",
+            "1,599",
+            "−4%",
+            "−66%",
+            "538",
+            "1,599",
+            "−66%"
+          ]
+        },
+        {
+          "label": "Net debt (non-GAAP)",
+          "kind": "emphasis",
+          "cells": [
+            "3,842",
+            "3,791",
+            "2,572",
+            "+1%",
+            "+49%",
+            "3,842",
+            "2,572",
+            "+49%"
+          ],
+          "footnote": "Dec-25 net debt $2,723m; the +$1.1bn YTD increase reflects the $1.67bn final Italy Lotto payment, partly offset by $656m NCI capital contributions."
+        },
+        {
+          "label": "Net debt leverage (net debt / LTM adj. EBITDA)",
+          "cells": [
+            "3.30x",
+            "3.24x",
+            "n/d",
+            "+0.06x",
+            "–",
+            "3.30x",
+            "n/d",
+            "–"
+          ]
+        },
+        {
+          "label": "Total liquidity",
+          "cells": [
+            "$1.9bn",
+            "$1.7bn",
+            "n/d",
+            "–",
+            "–",
+            "$1.9bn",
+            "n/d",
+            "–"
+          ]
+        },
+        {
+          "label": "Dividend declared per share",
+          "cells": [
+            "$0.23",
+            "$0.23",
+            "$0.20",
+            "0%",
+            "+15%",
+            "$0.69",
+            "n/d",
+            "–"
+          ],
+          "footnote": "Q3-25 level inferred from the Q4-25 release ('10% increase to $0.22'); Q3-25 cash dividends paid of $647m included the post-Apollo special dividend."
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "U.S. & Canada (c.50% of revenue)",
+        "headline": "Flat-to-down core, jackpot-driven swing: revenue −1% to $301m, same-store sales −5.5% as multi-state jackpots fell 30.6% against a +69.2% comp; instants & draw −1.4%.",
+        "narrative": [
+          "Brightstar reports as a single operating segment, so the geographic split is the closest proxy for divisional performance. U.S. & Canada revenue of $301m was down 1% YoY (−1% constant currency) but up 5% QoQ from $286m, and remains roughly half of the group. Lottery has no handle/hold analogue; the volume metric is same-store sales (wagers) and the 'price' lever is contract mix. On that basis total U.S. same-store sales fell 5.5% against +7.7% a year ago and +1.1% in Q2, with instant & draw games −1.4% (vs +1.6% and +0.4%) and multi-state jackpots −30.6% against a +69.2% comp. Including contract mix, same-store revenue was −4.6% in total but +0.3% for instants & draw, i.e. contract mix contributed roughly 170bps — the New Jersey and Indiana lottery management agreements and newer facilities-management terms are doing some of the lifting that the consumer is not.",
+          "The jackpot cycle is the dominant swing factor and it cut both ways. Q3-25 contained an ~$1.8bn Powerball run; this year's run stalled 'barely above $1bn' and multi-state jackpot wager-based revenue fell to $25m from $36m (+47% QoQ from a very low $17m in Q2). Worse for Q4, that ~$1bn Powerball was hit in New Jersey in early November, so the comparison against the second ~$1.8bn Powerball of December 2025 is now effectively lost — this is explicitly one of the three legs of the guidance cut. Management was unusually candid that the Mega Millions relaunch (price $2→$5 and a new matrix) 'has not been all that successful': play at equivalent advertised jackpots is lower than before and only converges with history as the jackpot approaches $1bn. They want the multi-state consortium to revisit the algorithm; until it does, the second jackpot game is a structural drag rather than the hoped-for tailwind.",
+          "Beneath the jackpot noise the core is holding but not growing. U.S. instant sales were the second-best third quarter in five years, behind only last year's record, and management's consumer work points to 'more selective and intentional' spending concentrated in lower-income cohorts, with continued strength in $20/$30/$50 price-point games. In the two LMA states where Brightstar runs day-to-day operations, instant sales grew 4% in Q3 (low-to-mid single digits YTD) after a couple of hundred additional vending machines and points of sale, higher price-point launches and in-store engagement work — the 'playbook' they intend to roll out more broadly. We note the 1.4% decline in core wagers is a modest deceleration from a flattish first half, and Stifel's question on cannibalisation from other gambling verticals (sweeps, prediction markets, iCasino) was not directly answered.",
+          "Product sales were the U.S. bright spot, with 'several hundred' lottery vending machines delivered to North Carolina and higher instant-ticket printing volumes feeding the group's $60m product line (+137% YoY, 25% gross margin). U.S. iLottery sales 'continue to be strong' within double-digit global iLottery growth; two U.S. iLottery platform launches are planned over the next year, and in Massachusetts, where Brightstar lost the platform, its Lucky Coins eInstants content is performing well as a third-party supplier. Management reads state budget pressure and sports-betting under-delivery as improving the iLottery legalisation backdrop, though no specific states were named.",
+          "The contract portfolio is the equity's binary. The Texas proposal (a 10-year award running to 2038, scored 90% technical/10% price) has been submitted with no status update; in New York a two-year extension has been executed, the original RFP was cancelled and reissued with 'clarifications', and Brightstar resubmits in early December. Both incumbencies are long-standing, and management 'hope and expect' to win, but Stifel's read that uncertainty may persist into 2027 and beyond is the right one. For Q4 we expect U.S. same-store sales to be negative again on the jackpot comp, with product sales and contract mix providing the offset management is relying on for 'mid-single-digit' operational growth."
+        ],
+        "table": {
+          "note": "U.S. & Canada",
+          "columns": [
+            "Q3-26",
+            "Q2-26",
+            "Q3-25",
+            "QoQ",
+            "YoY",
+            "9M-26"
+          ],
+          "rows": [
+            {
+              "label": "Revenue ($m)",
+              "kind": "emphasis",
+              "cells": [
+                "301",
+                "286",
+                "304",
+                "+5%",
+                "−1% (cc −1%)",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Share of group revenue",
+              "cells": [
+                "49.6%",
+                "49.0%",
+                "48.3%",
+                "+60bps",
+                "+130bps",
+                "n/d"
+              ]
+            },
+            {
+              "label": "U.S. multi-state jackpot wager-based revenue ($m)",
+              "cells": [
+                "25",
+                "17",
+                "36",
+                "+47%",
+                "−30%",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Same-store sales – total (wagers, cc)",
+              "cells": [
+                "−5.5%",
+                "+1.1%",
+                "+7.7%",
+                "–",
+                "–",
+                "'down slightly' (mgmt)"
+              ]
+            },
+            {
+              "label": "Same-store sales – instant ticket & draw",
+              "indent": true,
+              "cells": [
+                "−1.4%",
+                "+0.4%",
+                "+1.6%",
+                "–",
+                "–",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Same-store sales – multi-state jackpots",
+              "indent": true,
+              "cells": [
+                "−30.6%",
+                "+11.1%",
+                "+69.2%",
+                "–",
+                "–",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Same-store revenue incl. contract mix – total",
+              "cells": [
+                "−4.6%",
+                "+4.7%",
+                "+10.7%",
+                "–",
+                "–",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Same-store revenue incl. contract mix – instant & draw",
+              "indent": true,
+              "cells": [
+                "+0.3%",
+                "+4.0%",
+                "+3.5%",
+                "–",
+                "–",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Implied contract-mix contribution to I&D (analyst est.)",
+              "indent": true,
+              "cells": [
+                "~+170bps",
+                "~+360bps",
+                "~+190bps",
+                "–",
+                "–",
+                "n/d"
+              ]
+            },
+            {
+              "label": "NJ & IN (LMA states) instant sales growth",
+              "cells": [
+                "+4%",
+                "n/d",
+                "n/d",
+                "–",
+                "–",
+                "low-to-mid single digit"
+              ]
+            },
+            {
+              "label": "Largest Powerball jackpot in period",
+              "cells": [
+                "~$1.0bn (hit early Nov)",
+                "n/d",
+                "~$1.8bn",
+                "–",
+                "–",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Group product sales ($m; NC LVMs a Q3 driver)",
+              "cells": [
+                "60",
+                "34",
+                "25",
+                "+76%",
+                "+137%",
+                "123"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and wagers",
+            "takeaway": "Revenue of $301m fell 1% YoY (−1% constant currency) but rose 5% QoQ from $286m; same-store sales −5.5%.",
+            "points": [
+              "Brightstar reports one operating segment, so the geographic split is the closest proxy for divisional performance; U.S. & Canada remains roughly half of group.",
+              "Total U.S. same-store sales −5.5% against +7.7% a year ago and +1.1% in Q2.",
+              "Instant & draw games −1.4% (vs +1.6% and +0.4%); multi-state jackpots −30.6% against a +69.2% comp.",
+              "Including contract mix, same-store revenue −4.6% in total but +0.3% for instants & draw, so contract mix contributed roughly 170bps.",
+              "New Jersey and Indiana lottery management agreements and newer facilities-management terms are doing some of the lifting the consumer is not."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Jackpot cycle",
+            "takeaway": "Jackpots are the dominant swing factor: multi-state jackpot wager-based revenue fell to $25m from $36m, and the Q4 comp is effectively lost.",
+            "points": [
+              "Q3-25 contained an ~$1.8bn Powerball run; this year's run stalled 'barely above $1bn'. Revenue was +47% QoQ from a very low $17m in Q2.",
+              "The ~$1bn Powerball was hit in New Jersey in early November, so the comparison against December 2025's second ~$1.8bn Powerball is lost.",
+              "This is explicitly one of the three legs of the guidance cut.",
+              "Mega Millions relaunch (price $2→$5, new matrix): play at equivalent advertised jackpots is lower, converging with history only as jackpots approach $1bn.",
+              "Management wants the multi-state consortium to revisit the algorithm; until then the second jackpot game is a structural drag, not a tailwind."
+            ],
+            "quote": {
+              "text": "has not been all that successful",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Core instants",
+            "takeaway": "Beneath the jackpot noise the core is holding but not growing; the 1.4% core wager decline is a modest deceleration from a flattish first half.",
+            "points": [
+              "U.S. instant sales were the second-best third quarter in five years, behind only last year's record.",
+              "Consumer work points to 'more selective and intentional' spending concentrated in lower-income cohorts, with continued strength in $20/$30/$50 price-point games.",
+              "In the two LMA states Brightstar operates, instant sales grew 4% in Q3 (low-to-mid single digits YTD) after added vending machines, points of sale and higher price-point launches.",
+              "This 'playbook' is intended to roll out more broadly.",
+              "Stifel's question on cannibalisation from sweeps, prediction markets and iCasino was not directly answered."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Product sales and iLottery",
+            "takeaway": "Product sales were the U.S. bright spot, feeding the group's $60m product line (+137% YoY, 25% gross margin).",
+            "points": [
+              "'Several hundred' lottery vending machines delivered to North Carolina plus higher instant-ticket printing volumes.",
+              "U.S. iLottery sales 'continue to be strong' within double-digit global iLottery growth; two U.S. iLottery platform launches planned over the next year.",
+              "In Massachusetts, where Brightstar lost the platform, its Lucky Coins eInstants content is performing well as a third-party supplier.",
+              "Management reads state budget pressure and sports-betting under-delivery as improving the iLottery legalisation backdrop, though no states were named."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Contract portfolio and Q4",
+            "takeaway": "The contract portfolio is the equity's binary: Texas and New York rebids are unresolved and uncertainty may persist into 2027 and beyond.",
+            "points": [
+              "Texas proposal (10-year award to 2038, scored 90% technical/10% price) submitted with no status update.",
+              "New York: two-year extension executed, original RFP cancelled and reissued with 'clarifications'; Brightstar resubmits in early December.",
+              "Both incumbencies are long-standing and management 'hope and expect' to win; Stifel's read that uncertainty may persist into 2027 and beyond is right.",
+              "For Q4 we expect U.S. same-store sales negative again on the jackpot comp, with product sales and contract mix offsetting for 'mid-single-digit' operational growth."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Italy (c.34% of revenue)",
+        "headline": "Reported revenue −19% to $208m is almost entirely the +$46m Lotto licence amortization; underlying wagers −1.2% on a +6.1% comp, a record-hot summer and an October trucker strike, while B2C expansion is slower than planned.",
+        "narrative": [
+          "Italy revenue of $208m fell 19% YoY (−18% constant currency) and 6% QoQ. The driver is accounting, not demand: upfront licence fee amortization — relating to the Italian Lotto and Scratch & Win concessions — rose to $99m from $53m as the new nine-year Lotto licence (final €1.43bn/$1.67bn instalment paid earlier in 2026) amortises at the full run-rate. Adding the amortization back, Italian revenue was roughly $307m against ~$310m, i.e. about −1% reported and approximately flat in constant currency (our estimate, assuming all SRA is Italian). Italy's share of group revenue has fallen to 34% from 41% a year ago on this optical effect alone, and it will persist: the company expects ~$175m of incremental Lotto-related SRA in FY26, or roughly $400m a year of non-cash drag going forward.",
+          "Underlying same-store sales for instants and draw games fell 1.2% (−1.4% including contract mix) against a +6.1% comp — a 'very strong' Q3-25 that management had already flagged as a calendarisation issue last quarter. Two exogenous items were layered on: the hottest summer on record cut Italian retail foot traffic by around 2% across formats, and in the second half of October a trucker strike in the centre and south delayed 'a few dozen million dollars' of instant-ticket deliveries, which retailers largely absorbed from in-store inventory. YTD Italy same-store sales are 'just over 1%', and management says Q4-to-date is roughly flat with growth accelerating in the most recent week; the government's settlement with the hauliers (tax credits) should remove the logistics risk, but they are 'vigilant' for the final 60 days. We would treat the flat Q4 read as the base case rather than a recovery.",
+          "Italy B2C is the growth thesis and it is running behind plan — the 'phasing of certain Italy B2C expansion efforts' is the second leg of the revenue cut. The three initiatives are: (1) digital gaming via the MyLotteries PLAY app (eInstants, eDraw, iCasino, sports betting), where the focus has been account activation through thousands of recruited retailers, in-store screens and the Dual Play hybrid instant launched this year, which drove a record month for eInstant wagers in September and is converting roughly half of participating players into app users; (2) OTTO, a self-service Lotto terminal creating a fee-based recurring revenue stream, with deployment now 'early next year'; and (3) Sani, a proximity-services offer (bill payment, phone top-ups, gift cards) leveraging the tobacconist network. The CFO's sizing is sobering: Italian digital revenue is 'small numbers', expected to exit 2026 'north of $10m' with the run-rate then doubling — against a $208m quarterly geography. Management accepts a U.S.-style investment J-curve, with margins lagging revenue until scale, albeit with more control of the cost base than a U.S. B2C operator.",
+          "The regulatory agenda turned incrementally constructive. Rather than the expected tender for the Scratch & Win (Gratta e Vinci) concession expiring at the end of 2027, the draft budget law contemplates a 15-month extension of the existing award to 31 December 2029 for an upfront €188m (~$210m), payable in two instalments at end-March and end-September 2027, with consortium partners contributing pro-rata; the same draft adds a weekly Wednesday Lotto draw, which historically lifts sales. The September €500m 2032 bond freed revolver capacity for this, and management says it will not materially alter the leverage trajectory or capital-return posture. It needs parliamentary approval, and it is a deferral of the rebid rather than a resolution. Non-controlling interests — overwhelmingly the Italian consortium partners — took $23m of continuing income in Q3 (vs $38m) and contributed $656m of capital YTD for the Lotto licence, which is why NCI equity rose to $1,133m from $715m."
+        ],
+        "table": {
+          "note": "Italy",
+          "columns": [
+            "Q3-26",
+            "Q2-26",
+            "Q3-25",
+            "QoQ",
+            "YoY",
+            "9M-26"
+          ],
+          "rows": [
+            {
+              "label": "Revenue ($m)",
+              "kind": "emphasis",
+              "cells": [
+                "208",
+                "221",
+                "257",
+                "−6%",
+                "−19% (cc −18%)",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Upfront licence fee amortization – group ($m; Italian licences)",
+              "cells": [
+                "(99)",
+                "(100)",
+                "(53)",
+                "−1%",
+                "+87%",
+                "(300)"
+              ]
+            },
+            {
+              "label": "Italy revenue ex-SRA ($m, analyst est.)",
+              "indent": true,
+              "cells": [
+                "~307",
+                "~321",
+                "~310",
+                "−4%",
+                "−1% (≈flat cc)",
+                "n/d"
+              ],
+              "footnote": "Assumes all SRA relates to Italian Lotto/Scratch & Win licences."
+            },
+            {
+              "label": "Share of group revenue",
+              "cells": [
+                "34.3%",
+                "37.8%",
+                "40.9%",
+                "−350bps",
+                "−660bps",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Same-store sales – instant ticket & draw (wagers, cc)",
+              "cells": [
+                "−1.2%",
+                "+1.5%",
+                "+6.1%",
+                "–",
+                "–",
+                "'just over +1%' (mgmt)"
+              ]
+            },
+            {
+              "label": "Same-store revenue incl. contract mix – instant & draw",
+              "cells": [
+                "−1.4%",
+                "+1.0%",
+                "+5.9%",
+                "–",
+                "–",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Q4-to-date same-store sales (mgmt)",
+              "cells": [
+                "~flat",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "label": "NCI share of continuing income – group ($m; mainly Italian consortia)",
+              "cells": [
+                "23",
+                "23",
+                "38",
+                "0%",
+                "−39%",
+                "72"
+              ]
+            },
+            {
+              "label": "NCI capital contributions – Lotto licence ($m)",
+              "cells": [
+                "6",
+                "n/d",
+                "0",
+                "–",
+                "–",
+                "656"
+              ]
+            },
+            {
+              "label": "Italy digital/B2C revenue",
+              "cells": [
+                "'small'",
+                "n/d",
+                "n/d",
+                "–",
+                "–",
+                "'>$10m' exit-2026 (mgmt)"
+              ]
+            },
+            {
+              "label": "Scratch & Win extension fee (draft budget law)",
+              "cells": [
+                "€188m (~$210m)",
+                "–",
+                "–",
+                "–",
+                "–",
+                "2 instalments Mar/Sep-27"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and amortization",
+            "takeaway": "Revenue of $208m fell 19% YoY (−18% constant currency) and 6% QoQ, almost entirely due to licence amortization rising to $99m from $53m.",
+            "points": [
+              "Amortization relates to the Lotto and Scratch & Win concessions; the new nine-year Lotto licence (final €1.43bn/$1.67bn instalment paid earlier in 2026) amortises at full run-rate.",
+              "Adding amortization back, Italian revenue was roughly $307m against ~$310m, about −1% reported and approximately flat constant currency (our estimate, assuming all SRA is Italian).",
+              "Italy's share of group revenue fell to 34% from 41% a year ago on this optical effect alone.",
+              "Company expects ~$175m of incremental Lotto-related SRA in FY26, or roughly $400m a year of non-cash drag going forward."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Underlying wagers",
+            "takeaway": "Instants and draw same-store sales fell 1.2% (−1.4% including contract mix) against a +6.1% comp, with heat and a trucker strike layered on.",
+            "points": [
+              "Q3-25 was 'very strong' and management had flagged the calendarisation issue last quarter.",
+              "Hottest summer on record cut Italian retail foot traffic by around 2% across formats.",
+              "Second-half-October trucker strike in the centre and south delayed 'a few dozen million dollars' of instant-ticket deliveries, largely absorbed from in-store inventory.",
+              "YTD Italy same-store sales 'just over 1%'; Q4-to-date roughly flat with growth accelerating in the most recent week.",
+              "Government settlement with hauliers (tax credits) should remove logistics risk; management 'vigilant' for the final 60 days. We treat flat Q4 as base case, not recovery."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "B2C expansion",
+            "takeaway": "Italy B2C is the growth thesis but is running behind plan; the 'phasing of certain Italy B2C expansion efforts' is the second leg of the revenue cut.",
+            "points": [
+              "MyLotteries PLAY app (eInstants, eDraw, iCasino, sports betting): activation via thousands of retailers, in-store screens and Dual Play drove a record eInstant month in September.",
+              "Dual Play is converting roughly half of participating players into app users.",
+              "OTTO self-service Lotto terminal creates fee-based recurring revenue; deployment now 'early next year'. Sani offers bill payment, phone top-ups and gift cards via tobacconists.",
+              "CFO sizing: Italian digital revenue is 'small numbers', expected to exit 2026 'north of $10m' with run-rate then doubling, against a $208m quarterly geography.",
+              "Management accepts a U.S.-style J-curve with margins lagging revenue until scale, albeit with more cost-base control than a U.S. B2C operator."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Regulatory agenda",
+            "takeaway": "Draft budget law contemplates a 15-month Scratch & Win extension to 31 December 2029 for €188m (~$210m) upfront, a deferral rather than resolution.",
+            "points": [
+              "Replaces the expected tender for the Gratta e Vinci concession expiring end-2027; payable in two instalments at end-March and end-September 2027, partners contributing pro-rata.",
+              "Same draft adds a weekly Wednesday Lotto draw, which historically lifts sales.",
+              "September €500m 2032 bond freed revolver capacity; management says no material change to leverage trajectory or capital-return posture.",
+              "Needs parliamentary approval."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Non-controlling interests",
+            "takeaway": "NCI, overwhelmingly Italian consortium partners, took $23m of continuing income in Q3 (vs $38m).",
+            "points": [
+              "Partners contributed $656m of capital YTD for the Lotto licence.",
+              "NCI equity rose to $1,133m from $715m."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Rest of World (c.16% of revenue)",
+        "headline": "The only geography growing: revenue +42% to $98m (+43% cc) on Portugal terminal sales and the Lotterywest contract, but the step-up is lumpy product/implementation revenue, not same-store demand (+3.3%).",
+        "narrative": [
+          "Rest of World revenue rose 42% YoY (43% constant currency) to $98m and 27% QoQ from $77m, lifting its share of group revenue to 16% from 11%. The composition matters: the quarter's growth came predominantly from product sales — a 'significant' retail terminal order in Portugal — and from other service revenue tied to software services on new contracts and extensions, principally the Lotterywest contract in Western Australia, plus system installations and extensions in Central and Eastern Europe and the international iLottery platform. Same-store sales for instants and draw games were +3.3% (vs +14.3% a year ago and +5.2% in Q2), and +1.8% including contract mix, so underlying demand growth is mid-single-digit at best and the headline is implementation-cycle revenue that will not repeat at this level every quarter.",
+          "The UK National Lottery transition to Allwyn's new technology stack is now in its 'final residual' quarter of YoY drag on both revenue and EBITDA, which removes a headwind from 2027 comparisons. Management guides that Rest of World, product sales and Italy B2C are 'a meaningful part' of the mid-single-digit Q4 operational growth expectation, and that non-wager-based service revenue — mostly recurring software and maintenance fees — is where they see the most resilient growth outside the U.S. and Italy. One international iLottery platform launch is scheduled for the coming year alongside the two in the U.S.",
+          "Brazil is the medium-term option. The joint venture with Scientific Games is building a São Paulo state retail network from scratch with a digital product already live, alongside the long-standing Minas Gerais operation. The federal gaming restrictions pursued by the re-elected Lula administration are aimed at iCasino and online sports betting; management's view, resting on the Supreme Court ruling that states may administer their own lotteries, is that state lottery concessions are insulated. That is a reasonable legal reading but political risk in Brazil is not zero, and the JV is a cost centre until the network is at scale. Elsewhere the new-contract pipeline (Australia, Portugal, CEE) is a reminder that Brightstar's B2B business still wins work — which is the counterweight to the Texas/New York narrative."
+        ],
+        "table": {
+          "note": "Rest of World",
+          "columns": [
+            "Q3-26",
+            "Q2-26",
+            "Q3-25",
+            "QoQ",
+            "YoY",
+            "9M-26"
+          ],
+          "rows": [
+            {
+              "label": "Revenue ($m)",
+              "kind": "emphasis",
+              "cells": [
+                "98",
+                "77",
+                "69",
+                "+27%",
+                "+42% (cc +43%)",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Share of group revenue",
+              "cells": [
+                "16.1%",
+                "13.2%",
+                "11.0%",
+                "+290bps",
+                "+510bps",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Same-store sales – instant ticket & draw (wagers, cc)",
+              "cells": [
+                "+3.3%",
+                "+5.2%",
+                "+14.3%",
+                "–",
+                "–",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Same-store revenue incl. contract mix – instant & draw",
+              "cells": [
+                "+1.8%",
+                "+2.5%",
+                "+14.1%",
+                "–",
+                "–",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Group product sales ($m; Portugal terminals the Q3 driver)",
+              "cells": [
+                "60",
+                "34",
+                "25",
+                "+76%",
+                "+137% (cc +142%)",
+                "123 (+32%)"
+              ]
+            },
+            {
+              "label": "Group other service revenue ($m; Lotterywest contribution)",
+              "cells": [
+                "121",
+                "116",
+                "109",
+                "+4%",
+                "+11% (cc +11%)",
+                "n/d"
+              ]
+            },
+            {
+              "label": "UK contract transition drag",
+              "cells": [
+                "'final residual'",
+                "ongoing",
+                "ongoing",
+                "–",
+                "–",
+                "headwind ends FY26"
+              ]
+            },
+            {
+              "label": "International iLottery platform launches planned",
+              "cells": [
+                "1 (next 12 months)",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue composition",
+            "takeaway": "The only growing geography: revenue +42% YoY (+43% constant currency) to $98m, +27% QoQ from $77m, but driven by lumpy product/implementation revenue.",
+            "points": [
+              "Share of group revenue rose to 16% from 11%.",
+              "Growth came predominantly from a 'significant' retail terminal order in Portugal and other service revenue from software services on new contracts and extensions.",
+              "Principally the Lotterywest contract in Western Australia, plus system installations and extensions in Central and Eastern Europe and the international iLottery platform.",
+              "Instants and draw same-store sales +3.3% (vs +14.3% a year ago, +5.2% in Q2), +1.8% including contract mix; underlying demand mid-single-digit at best.",
+              "Headline is implementation-cycle revenue that will not repeat at this level every quarter."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "UK transition and Q4",
+            "takeaway": "The UK National Lottery transition to Allwyn's stack is in its 'final residual' quarter of YoY drag, removing a headwind from 2027 comparisons.",
+            "points": [
+              "Management guides Rest of World, product sales and Italy B2C are 'a meaningful part' of the mid-single-digit Q4 operational growth expectation.",
+              "Non-wager-based service revenue, mostly recurring software and maintenance fees, is seen as the most resilient growth outside the U.S. and Italy.",
+              "One international iLottery platform launch scheduled for the coming year alongside the two in the U.S."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Brazil and pipeline",
+            "takeaway": "Brazil is the medium-term option, but the JV is a cost centre until at scale and political risk is not zero.",
+            "points": [
+              "Joint venture with Scientific Games is building a São Paulo state retail network from scratch with a digital product live, alongside the Minas Gerais operation.",
+              "Federal restrictions under the re-elected Lula administration target iCasino and online sports betting; management, citing the Supreme Court ruling on state lotteries, sees concessions as insulated.",
+              "That is a reasonable legal reading but political risk in Brazil is not zero.",
+              "New-contract pipeline (Australia, Portugal, CEE) shows the B2B business still wins work, the counterweight to the Texas/New York narrative."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Group cost base, cash flow & balance sheet",
+        "headline": "Reported margin up 80bps to 47.5% on cost efficiencies and product mix, but ex-amortization margin fell ~220bps; Q3 FCF was −$8m on working capital; leverage 3.30x after a maturity-extending refinancing.",
+        "narrative": [
+          "Cost of services (ex-D&A) rose 3% to $285m — 44.1% of gross service revenue before amortization versus 42.0% a year ago — reflecting growth investment, the UK transition and the absence of prior-year one-off expense recoveries. Cost of product sales rose to $45m on the higher volume, but product gross margin of 25% (vs 26.5% in Q2 and a negative margin on a $25m base in Q3-25) is the 'improved product sales mix' management credits for the EBITDA resilience. G&A rose 11% to $49m (8.1% of revenue vs 7.0%), R&D +36% to $15m (2.5% of revenue) and sales & marketing +7% to $31m (5.1% of revenue vs 4.6%) — the Italy B2C account-activation push and retailer materials sit here. YTD, G&A is down 13% to $143m on OPtiMa, which is why 9M adj. EBITDA is +5% at $861m with the ex-SRA margin up 50bps to ~41.4–41.5%; the Q3 ex-SRA margin of ~40.9% (−220bps YoY, −90bps QoQ) is the number management did not volunteer.",
+          "Below EBITDA, D&A rose to $59m and non-purchase-accounting amortization to $14m from $8m, so adj. EBIT fell 30% to $130m (21.4% margin vs 29.4%). Net interest expense rose to $50m from $36m, almost entirely lost interest income after the Lotto payment drained cash; interest paid was $87m in the quarter. The reported effective tax rate was 36.0% (adjusted 39.1%, vs 26.7%), and NCI took 51% of continuing income versus 40% a year ago — the Italian partners' share does not fall with the amortization the way Brightstar's does. The result is $22m attributable to shareholders, $0.12 diluted; stripping the $0.23 of after-tax SRA, 'cash' adj. EPS is ~$0.33 versus ~$0.48 a year ago on the same basis — still down ~30%.",
+          "Cash flow was the soft spot. Q3 CFO of $73m (vs −$445m, which included a $579m Lotto instalment) was depressed by working-capital timing — accrued interest −$37m, accrued income taxes −$29m, other assets/liabilities −$53m — and with capex of $81m, FCF was −$8m. YTD CFO of −$1,101m includes the $1,675m Lotto payment; ex-Lotto, CFO is $574m and FCF ~$261m against $127m of dividends and $62m of buybacks paid (buybacks $77m through 9 November). The FY guide of ~$750m CFO ex-Lotto implies ~$176m in Q4 against ~$137m of remaining capex — a thin Q4 FCF of ~$40m before the ~$42m quarterly dividend, so net debt is unlikely to fall before year-end.",
+          "The September refinancing — €500m 4.875% senior secured notes due 2032, used to retire €342m ($393m) of the 2.375% 2028s and repay €155m ($176m) of revolver — extends the maturity ladder at a ~250bps higher coupon on that tranche and leaves $463m drawn on RCF B, $227m of term loan current and total debt of $4,385m. Net debt of $3,842m is 3.30x LTM adj. EBITDA (3.24x at Q2), which management describes as within the targeted range; with FY26 EBITDA guided to ~$1.15bn and the €188m Scratch & Win extension, ~$10m of OPtiMa benefit and higher capex in 2027, we see leverage hovering at 3.3–3.4x rather than trending down, and the sustainability of ~$200m-a-year capital returns depends on EBITDA growth resuming rather than on free cash flow today."
+        ],
+        "table": {
+          "note": "Group P&L lines, cash & debt ($m)",
+          "columns": [
+            "Q3-26",
+            "Q2-26",
+            "Q3-25",
+            "QoQ",
+            "YoY",
+            "9M-26"
+          ],
+          "rows": [
+            {
+              "label": "Cost of services (ex-D&A)",
+              "cells": [
+                "285",
+                "285",
+                "276",
+                "0%",
+                "+3%",
+                "861 (+5%)"
+              ]
+            },
+            {
+              "label": "Cost of services % of service revenue ex-SRA (est.)",
+              "indent": true,
+              "cells": [
+                "44.1%",
+                "43.8%",
+                "42.0%",
+                "+30bps",
+                "+210bps",
+                "n/d"
+              ]
+            },
+            {
+              "label": "Cost of product sales (ex-D&A)",
+              "cells": [
+                "45",
+                "25",
+                "31",
+                "+80%",
+                "+45%",
+                "94 (+9%)"
+              ]
+            },
+            {
+              "label": "Product gross margin",
+              "indent": true,
+              "cells": [
+                "25.0%",
+                "26.5%",
+                "−24.0%",
+                "−150bps",
+                "n/m",
+                "23.6%"
+              ]
+            },
+            {
+              "label": "General & administrative",
+              "cells": [
+                "49",
+                "49",
+                "44",
+                "0%",
+                "+11%",
+                "143 (−13%)"
+              ]
+            },
+            {
+              "label": "G&A % of revenue",
+              "indent": true,
+              "cells": [
+                "8.1%",
+                "8.4%",
+                "7.0%",
+                "−30bps",
+                "+110bps",
+                "8.0%"
+              ]
+            },
+            {
+              "label": "Research & development",
+              "cells": [
+                "15",
+                "14",
+                "11",
+                "+7%",
+                "+36%",
+                "43 (+30%)"
+              ]
+            },
+            {
+              "label": "Sales & marketing",
+              "cells": [
+                "31",
+                "32",
+                "29",
+                "−3%",
+                "+7%",
+                "97 (+5%)"
+              ]
+            },
+            {
+              "label": "S&M % of revenue",
+              "indent": true,
+              "cells": [
+                "5.1%",
+                "5.5%",
+                "4.6%",
+                "−40bps",
+                "+50bps",
+                "5.5%"
+              ]
+            },
+            {
+              "label": "Depreciation & amortization (P&L)",
+              "cells": [
+                "59",
+                "58",
+                "55",
+                "+2%",
+                "+7%",
+                "170 (+4%)"
+              ]
+            },
+            {
+              "label": "Interest expense, net",
+              "cells": [
+                "50",
+                "49",
+                "36",
+                "+2%",
+                "+39%",
+                "143 (+10%)"
+              ]
+            },
+            {
+              "label": "Reported effective tax rate",
+              "cells": [
+                "36.0%",
+                "~11%",
+                "29.6%",
+                "–",
+                "–",
+                "27.2%"
+              ]
+            },
+            {
+              "label": "Adjusted effective tax rate",
+              "cells": [
+                "39.1%",
+                "n/d",
+                "26.7%",
+                "–",
+                "–",
+                "37.8%"
+              ]
+            },
+            {
+              "label": "NCI share of continuing income",
+              "cells": [
+                "51%",
+                "41%",
+                "40%",
+                "–",
+                "–",
+                "44%"
+              ]
+            },
+            {
+              "label": "Cash from operations (cont. ops)",
+              "cells": [
+                "73",
+                "(1,340)",
+                "(445)",
+                "n/m",
+                "n/m",
+                "(1,101)"
+              ]
+            },
+            {
+              "label": "Capex",
+              "cells": [
+                "(81)",
+                "(121)",
+                "(65)",
+                "−33%",
+                "+25%",
+                "(313)"
+              ]
+            },
+            {
+              "label": "Free cash flow",
+              "kind": "emphasis",
+              "cells": [
+                "(8)",
+                "(1,461)",
+                "(509)",
+                "n/m",
+                "n/m",
+                "(1,414)"
+              ]
+            },
+            {
+              "label": "Interest paid / income taxes paid",
+              "cells": [
+                "87 / 63",
+                "n/d",
+                "82 / 87",
+                "–",
+                "–",
+                "155 / 79"
+              ]
+            },
+            {
+              "label": "Share repurchases (cash)",
+              "cells": [
+                "18",
+                "n/d",
+                "251",
+                "–",
+                "−93%",
+                "62 (77 to 9 Nov)"
+              ]
+            },
+            {
+              "label": "Dividends paid (cash)",
+              "cells": [
+                "42",
+                "n/d",
+                "647 (incl. special)",
+                "–",
+                "n/m",
+                "127"
+              ]
+            },
+            {
+              "label": "Total debt",
+              "cells": [
+                "4,385",
+                "n/d",
+                "n/d",
+                "–",
+                "–",
+                "4,385 (Dec-25: 4,178)"
+              ]
+            },
+            {
+              "label": "Net debt",
+              "kind": "emphasis",
+              "cells": [
+                "3,842",
+                "3,791",
+                "2,572",
+                "+1%",
+                "+49%",
+                "3,842 (Dec-25: 2,723)"
+              ]
+            },
+            {
+              "label": "Net debt leverage",
+              "cells": [
+                "3.30x",
+                "3.24x",
+                "n/d",
+                "+0.06x",
+                "–",
+                "3.30x"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Operating costs and margin",
+            "takeaway": "Reported margin up 80bps to 47.5% on cost efficiencies and product mix, but Q3 ex-SRA margin of ~40.9% fell ~220bps YoY, −90bps QoQ.",
+            "points": [
+              "Cost of services (ex-D&A) +3% to $285m, 44.1% of gross service revenue before amortization vs 42.0%, on growth investment, UK transition and absent one-off recoveries.",
+              "Cost of product sales rose to $45m; product gross margin 25% (vs 26.5% in Q2 and negative on a $25m base in Q3-25) is the 'improved product sales mix'.",
+              "G&A +11% to $49m (8.1% of revenue vs 7.0%), R&D +36% to $15m (2.5%), sales & marketing +7% to $31m (5.1% vs 4.6%), including Italy B2C activation push.",
+              "YTD G&A −13% to $143m on OPtiMa; 9M adj. EBITDA +5% at $861m with ex-SRA margin up 50bps to ~41.4–41.5%.",
+              "The Q3 ex-SRA margin is the number management did not volunteer."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Below EBITDA",
+            "takeaway": "Adj. EBIT fell 30% to $130m (21.4% margin vs 29.4%); 'cash' adj. EPS ~$0.33 versus ~$0.48, still down ~30%.",
+            "points": [
+              "D&A rose to $59m and non-purchase-accounting amortization to $14m from $8m.",
+              "Net interest expense $50m vs $36m, almost entirely lost interest income after the Lotto payment drained cash; interest paid $87m in the quarter.",
+              "Reported effective tax rate 36.0% (adjusted 39.1%, vs 26.7%); NCI took 51% of continuing income versus 40% a year ago.",
+              "Italian partners' share does not fall with amortization the way Brightstar's does; $22m attributable to shareholders, $0.12 diluted, with $0.23 after-tax SRA."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Cash flow",
+            "takeaway": "Cash flow was the soft spot: Q3 CFO $73m (vs −$445m including a $579m Lotto instalment), capex $81m, FCF −$8m.",
+            "points": [
+              "Working-capital timing: accrued interest −$37m, accrued income taxes −$29m, other assets/liabilities −$53m.",
+              "YTD CFO −$1,101m includes the $1,675m Lotto payment; ex-Lotto CFO $574m and FCF ~$261m against $127m dividends and $62m buybacks paid ($77m through 9 November).",
+              "FY guide of ~$750m CFO ex-Lotto implies ~$176m in Q4 against ~$137m remaining capex, thin Q4 FCF of ~$40m before the ~$42m quarterly dividend.",
+              "Net debt is unlikely to fall before year-end."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Refinancing and leverage",
+            "takeaway": "Net debt of $3,842m is 3.30x LTM adj. EBITDA (3.24x at Q2); we see leverage hovering at 3.3–3.4x rather than trending down.",
+            "points": [
+              "September refinancing: €500m 4.875% senior secured notes due 2032 retired €342m ($393m) of 2.375% 2028s and repaid €155m ($176m) of revolver.",
+              "Extends maturity ladder at a ~250bps higher coupon on that tranche; $463m drawn on RCF B, $227m term loan current, total debt $4,385m.",
+              "Management describes leverage as within the targeted range; FY26 EBITDA guided to ~$1.15bn.",
+              "With the €188m Scratch & Win extension, ~$10m OPtiMa benefit and higher 2027 capex, ~$200m-a-year capital returns depend on EBITDA growth resuming, not free cash flow today."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Adj. EBITDA of $289m met expectations (Stifel $287m) and the reported margin expanded 80bps to 47.5%; 9M adj. EBITDA +5% to $861m with ex-amortization margin +50bps to ~41.5% — OPtiMa (now $100m by 2028) is delivering, G&A −13% YTD.",
+        "tag": "structural"
+      },
+      {
+        "text": "Operational revenue growth (constant currency, ex-SRA) accelerated to ~4% from ~1% in H1, and management guides to the same rate in Q4; other service revenue +11% to $121m is largely recurring software/maintenance fees.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Product sales +137% to $60m at a 25% gross margin (Portugal terminals, North Carolina vending machines, instant printing) — lumpy, but a reminder the B2B pipeline still wins work; Lotterywest (Western Australia) is now contributing.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Italian draft budget law would extend Scratch & Win by 15 months to Dec-2029 for €188m (~$210m) and add a Wednesday Lotto draw — removes a 2027 tender overhang (for now) and adds a draw-frequency sales catalyst; the September €500m 2032 notes pre-funded the capacity.",
+        "tag": "early"
+      },
+      {
+        "text": "Capital returns of >$200m YTD (~11% of market cap) with the $0.23 quarterly dividend held (~9.6% yield at $9.59); FY cash-from-operations guide (~$750m ex-Lotto) reaffirmed and capex trimmed to ~$450m.",
+        "tag": "structural"
+      },
+      {
+        "text": "Digital engines are compounding: global iLottery sales double-digit again (management cites ~20% recurring growth), three new iLottery platforms launching (2 U.S., 1 international), Dual Play converting ~half of participants into the MyLotteries app, record eInstant wagers in September.",
+        "tag": "early"
+      },
+      {
+        "text": "UK contract transition drag is in its final quarter and NJ/IN LMA states grew instants +4% — evidence the operating playbook works where Brightstar controls retail execution.",
+        "tag": "structural"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "FY26 revenue guidance cut by $80m at the midpoint (−3.2%) to $2.435–2.455bn and adj. EBITDA by $25m (−2.1%) to $1.14–1.16bn — the second consecutive quarter where 'in line' results were accompanied by a lower bar; implied Q4 EBITDA of $279–299m is down 2–8% YoY.",
+        "tag": "watch"
+      },
+      {
+        "text": "Core demand is slipping: global instant & draw same-store sales −1.0% (U.S. −1.4%, Italy −1.2%) versus +3.9% a year ago; management cites comps, heat and strikes, but also a 'more selective' lower-income consumer — and left the cannibalisation question unanswered.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Multi-state jackpots are a structural as well as a cyclical problem: revenue −30% to $25m, the Q4 comp (~$1.8bn Dec-25 Powerball) is already lost after the early-November hit, and management concedes the $5 Mega Millions relaunch 'has not been all that successful'.",
+        "tag": "structural"
+      },
+      {
+        "text": "Ex-amortization adj. EBITDA margin fell ~220bps YoY to ~40.9% in Q3 (our estimate) on product mix, growth investment and lapped one-off expense recoveries — management highlighted only the flattering YTD figure; Q4 margin is guided lower again.",
+        "tag": "watch"
+      },
+      {
+        "text": "Earnings quality: adj. EPS $0.10 (−73%), GAAP diluted EPS $0.12 (−60%), with ~$0.93/share of non-cash SRA expected for FY26; NCI now takes 51% of continuing income; adjusted tax rate 39.1%; the $0.92 annualised dividend is uncovered on reported adj. EPS.",
+        "tag": "structural"
+      },
+      {
+        "text": "Cash and leverage: Q3 FCF −$8m on working capital, net debt $3,842m at 3.30x (up from 3.24x), $463m drawn on the revolver, 2027 brings the €188m Scratch & Win payment, higher capex (timing shift within the $1.6bn 2025–28 envelope) and Italy B2C J-curve costs — deleveraging is not in sight.",
+        "tag": "watch"
+      },
+      {
+        "text": "Italy B2C — the centrepiece of the 5% CAGR — is behind schedule (one of three cited reasons for the cut), with digital revenue only '>$10m' by year-end and OTTO terminals pushed to early 2027; Texas (10-year) and New York (RFP reissued, resubmission early December) renewals remain unresolved into 2027.",
+        "tag": "governance"
+      }
+    ],
+    "forecast": {
+      "intro": "The FY26 bridge is a revenue cut led by the U.S. (multi-state jackpots) and Italy (summer/strike disruption and B2C phasing), with FX doing most of the damage at EBITDA. Revenue moves from $2.50–2.55bn to $2.435–2.455bn (midpoint −$80m / −3.2%; now −2% to −3% YoY on FY25's $2,511m, with ~$175m of incremental Italy Lotto amortization inside that); adj. EBITDA from $1.16–1.19bn to $1.14–1.16bn (midpoint −$25m / −2.1%; still +2–3% on FY25's $1,122m), 'primarily on updated FX' per the release — Stifel's split is roughly half FX, half same-store sales and Italy digital delays. The EUR/USD assumption drops to 1.12 for Q4 and 1.15 for FY from 1.17. Cash from operations (~$900m outflow including the $1.67bn Lotto payment; ~$750m ex-Lotto) is reaffirmed and capex is trimmed to ~$450m from $450–475m on timing. Rest of World and product sales were the offsets; management expects Q4 operational growth to hold at the Q3 ~4% rate, with product sales and Italy B2C 'a meaningful part' of that.",
+      "bridge": [
+        {
+          "title": "FY26 revenue",
+          "value": "$2.435–2.455bn",
+          "change": "from $2.50–2.55bn (mid −$80m / −3.2%); drivers: H2 same-store sales (U.S. jackpots, Italy heat wave/strike), Italy B2C phasing, FX"
+        },
+        {
+          "title": "FY26 adj. EBITDA",
+          "value": "$1.14–1.16bn",
+          "change": "from $1.16–1.19bn (mid −$25m / −2.1%); 'primarily FX' (Stifel: ~half FX); implies Q4 $279–299m vs $304m"
+        },
+        {
+          "title": "FY26 cash from operations / capex",
+          "value": "~−$900m incl. $1.67bn Lotto (~$750m ex-Lotto) / ~$450m",
+          "change": "CFO unchanged; capex from $450–475m (timing shift into 2027; $1.6bn 2025–28 envelope intact)"
+        },
+        {
+          "title": "FX assumption (EUR/USD)",
+          "value": "1.12 Q4 / 1.15 FY",
+          "change": "from 1.17 for both; euro weakened through H2 after a Q1 tailwind"
+        }
+      ]
+    },
+    "confidence": "HIGH",
+    "confidenceNote": "All headline figures (revenue, adj. EBITDA, EPS, net income, cash flow, net debt, guidance) are taken from the company's 10 Nov 2026 results release and cross-checked against the identical SEC Form 6-K text and the earnings-call transcript; Q2-26 and Q4-25 comparatives are from the respective 6-K releases. Items I could not verify or that are my own derivation are labelled: (i) 'revenue ex-SRA', 'margin ex-SRA', Italy revenue ex-SRA, contract-mix contribution and CFO/FCF ex-Lotto are analyst estimates from reported lines; (ii) 9M revenue by geography and by sub-line (instant & draw, MSJ, other) are not disclosed in the Q3 release (shown as n/d); (iii) consensus EPS differs by source (FactSet $0.09 per MarketScreener; Investing.com $0.06; MarketBeat $0.02) — treat the 'beat' with caution; (iv) the Q3-25 dividend of $0.20 is inferred from the Q4-25 release's '10% increase to $0.22'; (v) I could not open the Q3-26 slide deck 6-K or the paywalled Gaming Intelligence article beyond its headline. Company reports in USD; euro amounts are the company's own conversions (€342m=$393m, €155m=$176m, €1.43bn=$1.67bn) except the €188m Scratch & Win fee, converted at EUR/USD ~1.12 as of 10 Nov 2026 (~$210m). FX: EUR/USD 1.12 as of 10 Nov 2026.",
+    "sharePriceReaction": "Shares gapped down ~10.8% in pre-market on the guidance cut, recovered through the session to close −4.2% at $9.59 on 10 Nov (from $10.01; volume 2.7m), rebounded +7.2% to $10.28 on 11 Nov, then slid to a fresh 52-week low (~$9.0) on 17 Nov. Market cap ~$1.7–1.8bn; Stifel cut its target to $18 from $19 (Buy/Select List retained).",
+    "sources": [
+      {
+        "label": "Brightstar Lottery PLC — Q3 2026 results press release, 10 Nov 2026 (company IR/newsroom)",
+        "kind": "primary",
+        "url": "https://www.brightstarlottery.com/news-and-insights/news-releases/2026/brightstar-lottery-plc-reports-third-quarter-2026-results"
+      },
+      {
+        "label": "SEC Form 6-K — Brightstar Lottery PLC Q3 2026 results release (EDGAR)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001619762/000162828026072492/brightstarq326earningspres.htm"
+      },
+      {
+        "label": "SEC Form 6-K — Brightstar Lottery PLC Q2 2026 results release (comparatives, Q2 KPIs, H1 cash flow)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001619762/000162828026052120/brightstarq226earningspres.htm"
+      },
+      {
+        "label": "SEC Form 6-K — Brightstar Lottery PLC Q4/FY 2025 results release (Q4-25 revenue $668m, adj. EBITDA $304m)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026010863/brightstarlotteryq425earni.htm"
+      },
+      {
+        "label": "Brightstar Lottery Q3 2026 earnings call transcript, 10 Nov 2026 (Motley Fool transcription of the official call)",
+        "kind": "secondary",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/11/10/brightstar-lottery-brsl-q3-2026-earnings-call-transcript/"
+      },
+      {
+        "label": "NEXT.io — 'Q3 2026: Brightstar cuts guidance amid pressure on lottery spending' (user-supplied)",
+        "kind": "secondary",
+        "url": "https://next.io/news/results/q326-brightstar-cuts-guidance-pressure-lottery-spending/"
+      },
+      {
+        "label": "Gaming Intelligence — 'Brightstar Lottery posts lower net income as Q3 revenue falls 4%' (user-supplied; paywalled, headline corroboration only)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/238507-brightstar-lottery-posts-lower-net-income-as-q3-revenue-falls-4/"
+      },
+      {
+        "label": "Investing.com — 'Brightstar Lottery stock falls 11% on revenue outlook cut despite Q3 earnings beat' (pre-market move, consensus revenue/EPS)",
+        "kind": "secondary",
+        "url": "https://ca.investing.com/news/stock-market-news/brightstar-lottery-stock-falls-11-on-revenue-outlook-cut-despite-q3-earnings-beat-93CH-4946048"
+      },
+      {
+        "label": "Investing.com — 'Stifel keeps Brightstar Lottery a top pick after Q3 miss, cuts target price to $18' (Stifel estimates, FX attribution, $9.59 close)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/stock-market-news/stifel-keeps-brightstar-lottery-a-top-pick-after-q3-miss-cuts-target-price-to-18-5023344"
+      },
+      {
+        "label": "MarketScreener — BRSL quote page (daily closes 6–12 Nov 2026; FactSet EPS consensus $0.09; consensus target)",
+        "kind": "secondary",
+        "url": "https://www.marketscreener.com/quote/stock/BRIGHTSTAR-LOTTERY-PLC-21479542/"
+      },
+      {
+        "label": "MarketBeat — 'Brightstar Lottery reaches new 12-month low', 17 Nov 2026",
+        "kind": "secondary",
+        "url": "https://www.marketbeat.com/instant-alerts/price-brightstar-lottery-nyse-brsl-reaches-new-12-month-low-whats-next-2026-11-17/"
+      },
+      {
+        "label": "MTFX — EUR/USD historical rates (10 Nov 2026: 1.1164)",
+        "kind": "secondary",
+        "url": "https://www.mtfxgroup.com/tools/historical-currency-exchange-rates/eur-to-usd-rate/"
+      }
+    ]
+  }
+}

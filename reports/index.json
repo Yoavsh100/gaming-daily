@@ -4354,10 +4354,10 @@
   },
   {
     "key": "high roller technologies|Q3 2026",
-    "attempts": 1,
-    "lastAttempt": "2026-11-17T21:25:31.912Z",
+    "attempts": 2,
+    "lastAttempt": "2026-11-18T20:57:29.928Z",
     "status": "failed",
-    "error": "seg.narrative is not iterable",
+    "error": "r.forecast.bridge is not iterable",
     "type": "company",
     "company": {
       "name": "High Roller Technologies",
@@ -4659,5 +4659,254 @@
     "releaseDate": "12 Nov 2026",
     "model": "claude-fable-5-1",
     "costUsd": 7.04
+  },
+  {
+    "key": "doubledown interactive|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-18T21:08:43.638Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "DDI-Q3-2026",
+    "published": "2026-11-18",
+    "company": {
+      "name": "DoubleDown Interactive",
+      "ticker": "DDI",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "Operationally clean: a record 58% direct-to-consumer mix lifted adj. EBITDA 7.2% to $40.2m (42.7% margin, +360bps) on revenue down 1.6% to $94.3m, while reported profit fell 44% on an $8.2m net FX loss and a 37% quarterly tax rate. The number that actually matters is DoubleU Games' $16.25/ADS tender, which values the ex-cash business at roughly 1.7x annualised adj. EBITDA; this quarter is now a datapoint in that negotiation rather than a trading event.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "$94.3m",
+        "delta": "-1.6% YoY / flat QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA (non-IFRS)",
+        "value": "$40.2m",
+        "delta": "+7.2% YoY; margin 42.7% (+360bps)",
+        "dir": "up"
+      },
+      {
+        "label": "Profit attrib. (IFRS)",
+        "value": "$18.4m",
+        "delta": "-43.9% YoY; EPS $7.41/share = $0.37/ADS",
+        "dir": "down"
+      },
+      {
+        "label": "DTC share of social casino rev.",
+        "value": "58.0%",
+        "delta": "+37pp YoY / +5.6pp QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Net cash (30 Sep)",
+        "value": "$545.3m",
+        "delta": "+$24m QoQ / +$90m YTD",
+        "dir": "up"
+      },
+      {
+        "label": "Operating cash flow",
+        "value": "$23.6m",
+        "delta": "-29% YoY (cash taxes +$10m)",
+        "dir": "down"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "11 Nov 2026 (6-K filed 11 Nov; 6-K/A 12 Nov)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.52
+  },
+  {
+    "key": "meridian|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-18T21:23:10.129Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "MERIDIAN-HOLDINGS-Q3-2026",
+    "published": "2026-11-18",
+    "company": {
+      "name": "Meridian Holdings",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A messy, low-quality quarter: Q3-26 revenue fell 3% to $46.0m (11% below the $51.6m consensus) and adj. EBITDA collapsed 93% to $0.4m as the online sports margin dropped to 7.4%, the UK/Australian prize-competition arm shrank 19%, and World Cup marketing plus GMAG bad debt pushed SG&A up 5% on falling revenue; $11.5m of non-cash impairments (Brazil licence write-off, goodwill) turned that into a $13.3m attributable loss and FY26 revenue guidance was cut to $195-198m. The balance sheet (net debt $8.1m, 0.48x) and the online casino engine (+17%) are the only clean positives; the shares fell 24% on the day.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "$46.0m",
+        "delta": "-2.9% YoY / -8.4% QoQ; 11% below consensus",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA (non-GAAP)",
+        "value": "$0.4m (0.8% margin)",
+        "delta": "-93% YoY vs $4.8m recast; margin -940bps",
+        "dir": "down"
+      },
+      {
+        "label": "Net loss attrib. / diluted EPS (GAAP)",
+        "value": "$(13.3)m / $(1.05)",
+        "delta": "vs +$0.6m / +$0.05 in Q3-25; incl. $11.5m impairments",
+        "dir": "down"
+      },
+      {
+        "label": "Online casino revenue",
+        "value": "$17.1m",
+        "delta": "+17% YoY / +18% QoQ; 9M +21%",
+        "dir": "up"
+      },
+      {
+        "label": "Net debt (non-GAAP) / leverage",
+        "value": "$8.1m / 0.48x",
+        "delta": "-65% YoY, -14% QoQ; 7th straight quarter of deleveraging",
+        "dir": "down"
+      },
+      {
+        "label": "FY26 revenue outlook",
+        "value": "$195-198m",
+        "delta": "cut from implied ~$205-207m (prior H2 +8-10% cc)",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "10 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.4
+  },
+  {
+    "key": "codere online|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-18T21:33:46.702Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "CDRO-Q3-2026",
+    "published": "2026-11-18",
+    "company": {
+      "name": "Codere Online",
+      "ticker": "CDRO",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A strong but flattered print: Gaming Win +30% to €67.1m (~$77.2m) was only +23% at constant currency, July's World Cup tail did the heavy lifting, and all of the +45% Adj. EBITDA growth to €4.2m (~$4.8m) comes from adding back a €1.4m LTIP charge — unadjusted EBITDA actually fell 9% YoY. Spain remains the profit engine (29% margin), Mexico is growing on price not volume (actives -3%, spend/active +43%) under a stepped-up gaming tax, and management explicitly guided Q4 to single-digit growth while holding FY26 guidance rather than raising it; the parent's break-up sale process is the overhang nobody on the call asked about.",
+    "kpis": [
+      {
+        "label": "Revenue (IFRS)",
+        "value": "€62.6m (~$72.0m)",
+        "delta": "+31% YoY / -3% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Gaming Win (KPI)",
+        "value": "€67.1m (~$77.2m)",
+        "delta": "+30% YoY (+23% cc) / -3% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA (non-IFRS)",
+        "value": "€4.2m (~$4.8m)",
+        "delta": "+45% YoY; margin 6.7% of revenue (+60bps)",
+        "dir": "up"
+      },
+      {
+        "label": "Net income (IFRS)",
+        "value": "€5.5m (~$6.3m)",
+        "delta": "vs €1.4m; incl. €3.4m warrant FV gain",
+        "dir": "up"
+      },
+      {
+        "label": "Avg monthly actives",
+        "value": "166.8k",
+        "delta": "+5% YoY / -4% QoQ; spend/active €134 (~$154) +24%",
+        "dir": "up"
+      },
+      {
+        "label": "Cash / net debt",
+        "value": "€65.6m (~$75.4m) cash",
+        "delta": "No financial debt; +€2.9m QoQ",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "12 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.96
+  },
+  {
+    "key": "brightstar lottery|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-18T21:46:56.836Z",
+    "status": "failed",
+    "error": "r.forecast.watch is not iterable",
+    "type": "company",
+    "company": {
+      "name": "Brightstar Lottery",
+      "ticker": "BRSL"
+    },
+    "period": "Q3 2026"
+  },
+  {
+    "key": "lotto nz|FY 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-18T21:59:34.679Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "LOTTO-NZ-FY-2026",
+    "published": "2026-11-18",
+    "company": {
+      "name": "Lotto NZ",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "FY 2026",
+    "verdict": "A jackpot year, not a growth year. FY26 gross sales rose ~3% to NZ$1.67bn (~$0.95bn) on the record NZ$55m (~$31m) Must Be Won Powerball draw of November 2025 and three NZ$20m+ (~$11m+) jackpots, beating the original NZ$1,575.7m (~$898m) budget by ~6% but landing roughly NZ$15–25m (~$9–14m) short of management's own June-2026 forecast of NZ$1,693.2m (~$965m). Profit before distribution (company forecast NZ$401.4m / ~$229m; audited figure unverified) is flat-to-down on FY25's NZ$405.1m (~$231m) because prize cost, a 71% step-up in the problem-gambling levy, tripled ticket costs and halved interest income absorbed the volume — margin on sales down ~120bps to ~23.7%. FY27 hinges on the Powerball matrix change (10→14 balls) and the arrival of up to 15 licensed online casinos.",
+    "kpis": [
+      {
+        "label": "FY26 gross sales (incl. GST)",
+        "value": "NZ$1.67bn (~$0.95bn)",
+        "delta": "+3% YoY; ~+6% vs budget; ~NZ$20m below Jun-26 forecast",
+        "dir": "up"
+      },
+      {
+        "label": "H1 FY26 gross sales (to 31 Dec 2025)",
+        "value": "NZ$903.4m (~$515m)",
+        "delta": "+4.5% YoY; +12.0% vs budget",
+        "dir": "up"
+      },
+      {
+        "label": "H1 FY26 profit before LGB distribution",
+        "value": "NZ$227.4m (~$130m)",
+        "delta": "+3.1% YoY; +20.8% vs budget; margin 25.2% (-32bps)",
+        "dir": "up"
+      },
+      {
+        "label": "FY26 profit (co. forecast, Jun-26)",
+        "value": "NZ$401.4m (~$229m)",
+        "delta": "-0.9% vs FY25A; +11.3% vs budget; audited actual [unverified]",
+        "dir": "down"
+      },
+      {
+        "label": "Online (MyLotto) share of ticket sales (H1)",
+        "value": "49%",
+        "delta": "+1pt YoY (FY25: 48%)",
+        "dir": "up"
+      },
+      {
+        "label": "Net cash, 31 Dec 2025 (cash + TDs − leases)",
+        "value": "NZ$256.7m (~$146m)",
+        "delta": "+NZ$35.2m vs Jun-25; zero borrowings",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "c. 11 Nov 2026 (FY26 Integrated Report, year ended 30 June 2026; exact tabling date unverified — Gaming Intelligence coverage dated ~11 Nov 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.74
   }
 ]

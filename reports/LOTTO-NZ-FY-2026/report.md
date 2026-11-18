@@ -1,0 +1,320 @@
+# Lotto NZ () — FY 2026 Analyst Report
+** · Reporting currency: NZD (tables in NZ$ millions; ~USD equivalents in parentheses at NZD/USD 0.57 — see confidence note) · Results released c. 11 Nov 2026 (FY26 Integrated Report, year ended 30 June 2026; exact tabling date unverified — Gaming Intelligence coverage dated ~11 Nov 2026)**
+**Market reaction:** Not applicable — Lotto NZ (the New Zealand Lotteries Commission) is an autonomous Crown entity under the Gambling Act 2003 and Crown Entities Act 2004 with no listed equity or share capital; 100% of profit (less any Minister-approved retentions) is distributed to Te Puna Tahua / NZ Lottery Grants Board.
+
+> A jackpot year, not a growth year. FY26 gross sales rose ~3% to NZ$1.67bn (~$0.95bn) on the record NZ$55m (~$31m) Must Be Won Powerball draw of November 2025 and three NZ$20m+ (~$11m+) jackpots, beating the original NZ$1,575.7m (~$898m) budget by ~6% but landing roughly NZ$15–25m (~$9–14m) short of management's own June-2026 forecast of NZ$1,693.2m (~$965m). Profit before distribution (company forecast NZ$401.4m / ~$229m; audited figure unverified) is flat-to-down on FY25's NZ$405.1m (~$231m) because prize cost, a 71% step-up in the problem-gambling levy, tripled ticket costs and halved interest income absorbed the volume — margin on sales down ~120bps to ~23.7%. FY27 hinges on the Powerball matrix change (10→14 balls) and the arrival of up to 15 licensed online casinos.
+
+## 1. Executive Summary
+
+- **Headline: FY26 gross sales +3% to NZ$1.67bn (~$0.95bn).** Per Gaming Intelligence's coverage of the FY26 Integrated Report, sales (incl. GST) rose ~3% from FY25's NZ$1,626.9m (~$927m), i.e. ~NZ$1,676m (~$955m); that is still ~2% below the FY24 record of NZ$1,710.9m (~$975m) and reverses only part of FY25's 5% decline. The audited report itself could not be accessed — all FY26 full-year figures beyond the headline are management's June-2026 forecast or flagged as unverified.
+- **Beat the budget, missed the forecast.** The SPE FY26 budget (June 2025) assumed a 'normal' jackpot year at NZ$1,575.7m (~$898m) of sales; the June-2026 SPE FY27 raised the FY26 forecast to NZ$1,693.2m (~$965m) (+7.5%). The ~NZ$1.67–1.68bn actual implies a shortfall of NZ$15–25m (~$9–14m) against that forecast, all of it in H2: implied H2 sales ~NZ$767–772m (~$437–440m), roughly +1% on H2 FY25's NZ$762.2m (~$434m) versus the +3.6% management had pencilled in.
+- **Profit: company forecast NZ$401.4m (~$229m), -0.9% on FY25's NZ$405.1m (~$231m) — flat profit on +4% sales.** The original budget was NZ$360.8m (~$206m) with NZ$350.8m (~$200m) payable to the Lottery Grants Board (LGB) after a NZ$10m (~$5.7m) retention; the retention was dropped, so the full NZ$401.4m is distributable (+14.4% vs budgeted distribution). If H2 sales undershot by NZ$15–25m at a ~23–25% contribution, our estimate for audited FY26 profit is ~NZ$395–400m (~$225–228m) [estimate, unverified].
+- **Jackpots did the work — draw games 84.5% of sales.** The NZ$55m (~$31m) Must Be Won Powerball draw in November 2025 was the largest jackpot in Lotto NZ history; Powerball also reached ≥NZ$20m (~$11m) in August 2025, March 2026 and June 2026. H1 Lotto/Powerball/Strike sales rose 4.3% to NZ$763.6m (~$435m), +13.3% vs budget. Management's own SPE states that Powerball jackpot frequency and size is 'the single biggest driver' of any year's result.
+- **H1 FY26 (six months to 31 Dec 2025) was the strong half.** Sales NZ$903.4m (~$515m) +4.5% YoY / +12.0% vs budget; total revenue NZ$856.2m (~$488m) +3.9%; profit before LGB distribution NZ$227.4m (~$130m) +3.1% YoY and +20.8% vs the NZ$188.3m (~$107m) budget; operating cash flow NZ$278.0m (~$158m) +36%.
+- **Margin compression is structural, not just mix.** H1 gross profit rose only 0.9% on +4.5% sales (gross margin 31.8% of total revenue, -96bps); profit margin on gross sales 25.2% (-32bps); FY26F profit margin 23.7% vs 24.9% in FY25 (-120bps). Culprits: problem-gambling levy +77% H1 / +71% FY to NZ$5.5m (~$3.1m); ticket costs +131% H1 / +172% FY to NZ$15.2m (~$8.7m); prizes + prize-reserve contributions 54.1% of sales (+7bps); interest income -49% H1 / -53% FY to NZ$6.4m (~$3.6m) as cash is swept to the LGB and rates fall.
+- **Cost discipline is the offset management emphasises.** H1 opex NZ$45.2m (~$26m), -9.1% YoY and 13.1% below budget (5.0% of sales vs 5.8%); FY26F opex NZ$103.9m (~$59m) = 6.1% of sales vs 6.3% in FY25 and 6.8% budgeted. Part of this is mechanical: D&A fell 61% in H1 as the legacy gaming system rolled off amortisation after Project EDGE went live in September 2025. Employee remuneration still grew 8.0% (H1) / 8.6% (FY26F).
+- **Guidance bridge, FY26: budget NZ$360.8m → forecast NZ$401.4m (+NZ$40.6m / ~$23m).** Sales +NZ$117.5m (~$67m) vs budget contributed ~NZ$38m of gross profit; opex NZ$2.9m (~$1.7m) below budget added the rest. The division driving it is unambiguous — Powerball/draw games; Instant Kiwi retail (-2.1% vs budget), Keno (-2.1%) and Bullseye (-6.0%) all missed budget in H1, only Instant Kiwi Online (+26.7% vs budget) helped.
+- **FY27 budget: sales NZ$1,723.9m (~$983m), profit NZ$424.9m (~$242m), opex NZ$104.4m (~$60m, 6.0% of sales).** That is +1.8% sales / +5.9% profit on the FY26 forecast (≈+3% sales on the FY26 actual), premised on a 'normal' jackpot year plus the Powerball matrix change landing in H1 FY27. Prizes paid & payable rise to 51.1% of sales (from 50.0%) while prize-reserve contributions collapse to NZ$17.9m (~$10m) from NZ$64.7m (~$37m); retailer commission/MyLotto fees step up to 4.3% of sales.
+- **The strategic event: Powerball matrix change 10→14 Powerballs, announced March 2026, live H1 FY27.** Lower odds of a Division 1 win mean more frequent jackpotting, a new prize division and more weekly winners; Lotto and Strike are unchanged. This is the classic lottery 'odds change' playbook to re-engage infrequent players — it front-loads jackpot sequences but raises responsible-gambling scrutiny and makes the FY27 comp against the NZ$55m Must Be Won half even more jackpot-dependent.
+- **Regulatory overhang: up to 15 licensed online casinos from early CY2027.** They cannot offer lottery draw games (~84% of Lotto NZ sales) but will be able to offer instant-win and Keno-style products and to advertise across mainstream media. Management calls the FY27 financial impact non-material given the short window; we see the FY28+ risk concentrated in Instant Kiwi Online (H1 +25.9%, NZ$45.9m / ~$26m) and Keno (H1 -5.0%). All Lotto NZ games move to 18+ during FY27.
+- **Digital mix keeps grinding up.** 49% of H1 ticket sales came via MyLotto (48% in FY25); Instant Kiwi Online now 42.5% of Instant Kiwi sales (36.4% a year ago); MyLotto player funds on deposit NZ$17.4m (~$9.9m), +19% since June. Retail legacy products are shrinking: Instant Kiwi scratch -2.5%, Keno -5.0% in H1. Retailer commission plus MyLotto transaction fees held at 3.9% of sales.
+- **Technology programme: EDGE done, Frontier next.** Project EDGE (new core and interactive gaming systems) was delivered in September 2025 under budget — the most strategically important project in two decades per management — and no further profit retentions are required in FY26 or FY27. Project Frontier (new MyLotto website and apps) is targeted for first-phase delivery end-FY27/early-FY28; intangibles capex NZ$24.3m (~$14m) FY26F and NZ$21.7m (~$12m) FY27B, up from NZ$18.1m (~$10m) in FY25.
+- **Capital position: unlevered, cash-rich but cash-sweeping.** Zero borrowings (lease liabilities NZ$5.0m / ~$2.8m only); cash + term deposits NZ$261.7m (~$149m) at 31 Dec 2025, of which NZ$139.9m (~$80m) is restricted (unpaid prizes NZ$122.5m / ~$70m + player funds); unrestricted ~NZ$121.8m (~$69m). Equity peaked at NZ$131.6m (~$75m) at December and is forecast back to NZ$79.6m (~$45m) at June 2026 as H1 profit is paid out; FY26F cash payments to the LGB NZ$464.7m (~$265m), +9.5%, include the FY25 catch-up.
+- **Where every NZ$1 goes (FY25, confirmed by H1 FY26 ratios):** 54c prizes, 24–25c to the LGB, 12c taxes (GST, 5.5% lottery duty, problem-gambling levy), 6c operating costs, 4c retailer commission and MyLotto fees. Management's stated KPI is to hold community returns at ~25c per dollar — FY26F at 23.7c is below that bar.
+- **Five-year plan (SOI 2025–29): revenue NZ$1.82bn (~$1.04bn) and >NZ$400m (~$228m) of annual profit by FY29.** FY26 reached the profit marker two years early, but only because of jackpots — management's own 'normal year' profit was NZ$360.8m (~$206m). Sustaining >NZ$400m without abnormal jackpot runs is the real test, and it depends on the matrix change working.
+- **Governance and people.** Board Chair Mark Todd is listed as outgoing; Deputy Chair Kim Gordon signed the H1 accounts (20 April 2026) and the SPE with CEO Jason Delamore and Audit & Risk Chair Angela Dixon; CFO is Jeff Hayward. Chair succession lands in the same window as the matrix change, Frontier delivery and online-casino licensing. WLA Level 4 responsible-gambling recertification outcome due early FY27; Ministry of Health harm citations 0.7 per 10,000 players (FY25) vs <1.0 target.
+- **Management emphasis vs what's buried.** Emphasised: record jackpot, budget beat, costs 13% below forecast, EDGE under budget. Buried: profit below FY25 on higher sales, the H2 slowdown versus June forecast, the 71% levy increase and tripled ticket costs, declining Keno and retail scratch, and interest income shrinking to NZ$3.9m (~$2.2m) in FY27B from NZ$13.5m (~$7.7m) in FY25.
+- **Read-through for listed peers (The Lottery Corporation, Lottery.com-type digital, Scientific Games/IGT instant suppliers):** the NZ data confirm (i) jackpot dependency with a ~25% drop-through on incremental sales, (ii) digital at ~50% of lottery sales with instants migrating fastest, and (iii) online-casino liberalisation as the new competitive variable for instants and Keno. The matrix change is the same lever TLC pulled on Australian Powerball — watch whether NZ repeats that first-year uplift.
+- **Data gap, flagged explicitly:** the FY26 audited annual report was not retrievable (website is JS-rendered; article body paywalled). FY26 full-year profit, LGB transfer, product mix, full-year online share and year-end cash are shown as company forecast (SPE FY27, June 2026) or 'n/d', not as actuals.
+
+## 2. Group Financial Summary
+
+| NZ$m (~US$m at 0.57) | H1 FY26A | H1 YoY | vs Bud | FY26F (co., Jun-26)* | FY25A | FY26F vs FY25 |
+|---|---|---|---|---|---|---|
+| **Sales by game (incl. GST)** | | | | | | |
+| Lotto, Powerball & Strike | 763.6 (~$435) | +4.3% | +13.3% | n/d | 1,367.7 (~$780) | n/d |
+| Instant Kiwi (retail scratch) | 62.1 (~$35) | -2.5% | -2.1% | n/d | 120.7 (~$69) | n/d |
+| Instant Kiwi Online | 45.9 (~$26) | +25.9% | +26.7% | n/d | 73.2 (~$42) | n/d |
+| Keno | 24.7 (~$14) | -5.0% | -2.1% | n/d | 51.1 (~$29) | n/d |
+| Bullseye | 7.1 (~$4.1) | +6.8% | -6.0% | n/d | 14.3 (~$8.1) | n/d |
+| Total gross sales incl. GST | 903.4 (~$515) | +4.5% | +12.0% | 1,693.2 (~$965) | 1,626.9 (~$927) | +4.1% |
+| FY26 actual gross sales (Gaming Intelligence; unaudited) Single secondary source; FY26 Integrated Report not accessible. ~6% above the NZ$1,575.7m (~$898m) budget; ~NZ$15–25m below the June-26 forecast. | — | — | — | ~1,670–1,676 (~$952–955) | 1,626.9 (~$927) | +3% |
+| Less GST | (54.1) (~$31) | +4.3% | +11.3% | (100.0) (~$57) | (97.6) (~$56) | +2.4% |
+| Sales excl. GST | 849.3 (~$484) | +4.5% | +12.1% | 1,593.2 (~$908) | 1,529.3 (~$872) | +4.2% |
+| Retailer cost-recovery & establishment fees | 2.8 (~$1.6) | -2.0% | +18.6% | 4.3 (~$2.4) | 5.3 (~$3.0) | -19.0% |
+| Revenue from contracts | 852.0 (~$486) | +4.5% | +12.1% | 1,597.5 (~$911) | 1,534.6 (~$875) | +4.1% |
+| Interest & other income | 4.2 (~$2.4) | -49.0% | +124% | 6.3 (~$3.6) | 13.6 (~$7.8) | -53.7% |
+| Total revenue | 856.2 (~$488) | +3.9% | +12.4% | 1,603.8 (~$914) | 1,548.2 (~$883) | +3.6% |
+| **Cost of sales** | | | | | | |
+| Prizes paid & payable | 451.8 (~$258) | +4.9% | +12.0% | 847.4 (~$483) | 810.8 (~$462) | +4.5% |
+| Prize reserve account contributions (incl. interest) | 36.9 (~$21) | +0.5% | +21.1% | 67.7 (~$39) | 67.7 (~$39) | 0.0% |
+| Lottery duty (5.5% of gross sales) | 49.7 (~$28) | +4.5% | +12.0% | 93.1 (~$53) | 89.5 (~$51) | +4.1% |
+| Problem gambling levy | 3.0 (~$1.7) | +77.2% | +35.6% | 5.5 (~$3.1) | 3.2 (~$1.8) | +71.2% |
+| Retailer commission & MyLotto transaction fees | 35.5 (~$20) | +4.1% | +0.9% | 69.6 (~$40) | 63.3 (~$36) | +10.0% |
+| Ticket costs & goods sold to retailers | 6.7 (~$3.8) | +117% | +9.8% | 15.2 (~$8.7) | 5.8 (~$3.3) | +163% |
+| Total cost of sales | 583.6 (~$333) | +5.4% | +11.9% | 1,098.5 (~$626) | 1,040.3 (~$593) | +5.6% |
+| Gross profit | 272.6 (~$155) | +0.9% | +13.4% | 505.3 (~$288) | 507.9 (~$290) | -0.5% |
+| Gross margin (% total revenue) | 31.8% | -96bps | +30bps | 31.5% | 32.8% | -130bps |
+| **Operating expenses** | | | | | | |
+| Employee remuneration | 15.9 (~$9.1) | +8.0% | -0.5% | 32.3 (~$18) | 29.7 (~$17) | +8.6% |
+| Promotion & retail support (marketing) | 10.6 (~$6.1) | +7.0% | -10.2% | 25.2 (~$14) | 23.4 (~$13) | +7.6% |
+| IT/telecoms & gaming-system expenses | 13.2 (~$7.5) | -15.1% | -26.0% | 32.0 (~$18) | 31.2 (~$18) | +2.7% |
+| Depreciation & amortisation | 2.8 (~$1.6) | -60.8% | -8.5% | 6.9 (~$3.9) | 13.3 (~$7.6) | -48.3% |
+| Other expenses & finance costs | 2.7 (~$1.5) | +10.1% | -18.9% | 7.5 (~$4.3) | 5.2 (~$2.9) | +46.1% |
+| Total operating expenses | 45.2 (~$26) | -9.1% | -13.1% | 103.9 (~$59) | 102.8 (~$59) | +1.1% |
+| Opex % gross sales | 5.0% | -75bps | -144bps | 6.1% | 6.3% | -18bps |
+| Profit before LGB distribution (≈EBIT; income-tax exempt) | 227.4 (~$130) | +3.1% | +20.8% | 401.4 (~$229) | 405.1 (~$231) | -0.9% |
+| Profit margin (% gross sales) | 25.2% | -32bps | +181bps | 23.7% | 24.9% | -120bps |
+| Distribution to NZ Lottery Grants Board | 175.4 (~$100) | +5.7% | 0.0% | 401.4 (~$229) | 395.1 (~$225) | +1.6% |
+| Profit for the period after distribution (retained) | 52.0 (~$30) | -4.7% | +303% | 0.0 | 10.0 (~$5.7) | n/m |
+| EPS (GAAP / adjusted) Autonomous Crown entity under the Gambling Act 2003 / Crown Entities Act 2004; no share capital, not listed; exempt from income tax (s.264). | n/a | n/a | n/a | n/a | n/a | n/a |
+| **Group KPIs** | | | | | | |
+| Online (MyLotto) share of ticket sales | 49% | +1pt | n/d | n/d | 48% | n/d |
+| Draw games (Lotto/Powerball/Strike) share of sales | 84.5% | -11bps | +94bps | n/d | 84.1% | n/d |
+| Monthly actives / ARPU Not disclosed in the half-year financials or SPE; 'digitally enabled players' (MyLotto account holders) targeted +10% in FY26 vs +3.4% achieved in FY25. | n/d | n/d | n/d | n/d | n/d | n/d |
+| **Cash flow & balance sheet** | | | | | | |
+| Net cash from operating activities | 278.0 (~$158) | +36.1% | n/d | 405.2 (~$231) | 363.3 (~$207) | +11.5% |
+| Capex (PP&E + intangibles) | 7.8 (~$4.4) | -7.8% | n/d | 25.3 (~$14) | 19.5 (~$11) | +29.8% |
+| Cash paid to NZ Lottery Grants Board | 238.7 (~$136) | -7.6% | n/d | 464.7 (~$265) | 424.2 (~$242) | +9.5% |
+| Cash & equivalents + term deposits (period end) | 261.7 (~$149) | +9.2% | n/d | 147.3 (~$84) | 226.6 (~$129) | -35.0% |
+| of which restricted (unpaid prizes + MyLotto player funds) | 139.9 (~$80) | +11.3% | n/d | n/d | 104.1 (~$59) | n/d |
+| Borrowings (lease liabilities only) | 5.0 (~$2.8) | -10.1% | n/d | 4.8 (~$2.7) | 5.1 (~$2.9) | -5.9% |
+| Net cash (cash + TDs − leases); leverage n/a | 256.7 (~$146) | +9.6% | n/d | 142.6 (~$81) | 221.5 (~$126) | -35.6% |
+| Equity (retained earnings) *FY26F = management forecast published in the SPE for FY ending 30 June 2027 (June 2026), not audited actuals. H1 comparatives are six months to 31 Dec 2024; 'vs Bud' is against the SPE FY26 budget. YoY for balance-sheet lines is vs 31 Dec 2024; FY26F vs FY25 balance-sheet lines compare Jun-26F with Jun-25A. | 131.6 (~$75) | +6.0% | +42.3% | 79.6 (~$45) | 79.6 (~$45) | 0.0% |
+
+## 3. Segment deep-dive — Draw games — Lotto, Powerball & Strike (~84% of sales)
+
+*Record NZ$55m Must Be Won draw powered a 4.3% H1 lift to NZ$763.6m (~$435m); H2 flattened as the jackpot cadence normalised, and FY27 now rests on the 10→14-ball Powerball matrix change.*
+
+### H1 sales performance
+
+**Draw family sales rose 4.3% YoY to NZ$763.6m (~$435m) in H1, 13.3% ahead of the NZ$674.0m (~$384m) budget.**
+
+- Monopoly provider of draw-based lottery in New Zealand; 84.5% share of group sales (84.6% a year earlier, 84.1% for FY25 at NZ$1,367.7m / ~$780m).
+- Two events made the year: a Powerball jackpot of NZ$20m-plus (~$11m+) in August 2025 and the NZ$55m (~$31m) Must Be Won draw in November 2025.
+- Management describes the NZ$55m draw as the largest jackpot in Lotto NZ history.
+- Powerball jackpot frequency and size is the single biggest driver of any year's result; the entire budget beat is attributable to this line.
+
+### Prize economics
+
+**Prize economics moved modestly against them, with all-in prize cost at 54.1% of sales (+7bps).**
+
+- Prizes paid and payable were 50.0% of group gross sales (49.8% a year earlier); prize-reserve contributions including interest transferred were NZ$36.9m (~$21m).
+- Prize reserve balance rose NZ$22.2m (~$13m) over the half to NZ$87.6m (~$50m); unpaid prizes climbed to NZ$122.5m (~$70m) from NZ$89.5m (~$51m) at June.
+- These balances are restricted cash and should not be read as surplus.
+- Lottery duty at 5.5% of gross sales was NZ$49.7m (~$28m); problem-gambling levy jumped 77% to NZ$3.0m (~$1.7m), consistent with new levy-rate period from 1 July 2025 [rate change not verified].
+- Promotion and retail support was NZ$10.6m (~$6.1m), 1.2% of sales (+7.0% YoY but 10.2% under budget) — jackpots advertise themselves.
+
+### H2 softening
+
+**Full-year outcome of ~NZ$1.67–1.68bn implies H2 sales of ~NZ$767–772m (~$437–440m), roughly +1% YoY, a NZ$15–25m (~$9–14m) miss versus management's forecast.**
+
+- June-2026 SPE forecast implied H2 group sales of NZ$789.8m (~$450m), +3.6% on H2 FY25, helped by Powerball reaching NZ$20m-plus in March and June 2026.
+- The forecast was less than five months old when missed.
+- Shortfall cannot yet be split by game (H2 product data n/d), but given 84% weighting and Instant Kiwi Online running ahead of budget, the draw family is the only plausible source.
+- Lesson for FY27 modelling: a NZ$20m jackpot in June does not carry the same sales elasticity as a Must Be Won in November.
+
+### Powerball matrix change
+
+**From H1 FY27 the Powerball pool expands from 10 to 14 balls, underpinning a FY27 group sales budget of NZ$1,723.9m (~$983m).**
+
+- Announced March 2026; lowers Division 1 odds so jackpots roll more often and higher, with a new prize division and more weekly winners; Lotto and Strike untouched.
+- FY27 budget is only +1.8% on the FY26 forecast but ~+3% on the FY26 actual.
+- Prizes paid and payable rise to 51.1% of sales; prize-reserve contributions collapse to NZ$17.9m (~$10m) from NZ$64.7m (~$37m), indicating the reserve is already funded for the launch.
+- Our judgement: FY27 sales achievable if the change lands on time and the first big run arrives before Christmas; a YoY decline in H1 FY27 is a live possibility given the NZ$55m comparison.
+- Responsible-gambling optics: MoH harm citations 0.7 per 10,000 players in FY25 (<1.0 target); WLA Level 4 recertification pending; longer jackpot runs will be watched by the regulator.
+
+### Regulation
+
+**Regulation is otherwise benign: online-casino licensees are barred from lottery draw games, so the draw family is protected product.**
+
+- Online-casino licensing regime arrives early calendar 2027 with up to 15 operators.
+- Move of all Lotto NZ products to an 18+ age limit in FY27 expected to have negligible revenue effect given few under-18s buy draw tickets.
+- Competitive exposure sits in instants and Keno.
+
+| NZ$m (~US$m at 0.57) | H1 FY26A | H1 FY25A | YoY | vs Bud | FY25A (12m) |
+|---|---|---|---|---|---|
+| Gross sales incl. GST — Lotto, Powerball & Strike | 763.6 (~$435) | 732.0 (~$417) | +4.3% | +13.3% | 1,367.7 (~$780) |
+| SPE budget for the period | 674.0 (~$384) | — | — | — | n/d |
+| Share of group gross sales | 84.5% | 84.6% | -11bps | +94bps | 84.1% |
+| Powerball jackpots ≥NZ$20m (~$11m) in period | Aug-25; Nov-25 NZ$55m (~$31m) Must Be Won (record) | n/d | — | — | n/d |
+| H2 FY26 jackpots ≥NZ$20m (~$11m) | Mar-26; Jun-26 (per SPE FY27) | — | — | — | — |
+| Group prizes paid & payable % gross sales | 50.0% | 49.8% | +23bps | n/d | 49.8% |
+| Group all-in prize cost incl. PRA % gross sales | 54.1% | 54.0% | +7bps | n/d | 54.0% |
+| Prize reserve account balance (period end) | 87.6 (~$50) | 77.8 (~$44) | +12.6% | n/d | 65.4 (~$37) |
+| Unpaid prizes (period end, restricted cash) | 122.5 (~$70) | 110.4 (~$63) | +11.0% | n/d | 89.5 (~$51) |
+| Promotion & retail support (group) % gross sales | 1.2% | 1.2% | +3bps | -10.2% (NZ$) | 1.4% |
+| Implied H2 FY26 group sales (FY26A − H1A) [est.] Estimate derived from Gaming Intelligence's ~NZ$1.67bn FY26 sales headline less audited H1; product split of H2 not disclosed. | ~767–772 (~$437–440) | 762.2 (~$434) | ~+1% | vs Jun-26F 789.8: -NZ$15–25m | — |
+
+## 4. Segment deep-dive — Instant Kiwi — retail scratch & Instant Kiwi Online (~12% of sales)
+
+*Instants +7.8% to NZ$107.9m (~$62m) in H1 entirely on digital (+25.9%); retail scratch -2.5%. Online instants are the product most exposed when licensed online casinos start advertising in early CY2027.*
+
+### Sales and mix
+
+**Instants rose 7.8% to NZ$107.9m (~$62m), 8.4% ahead of budget, entirely driven by online (+25.9%) while retail scratch fell 2.5%.**
+
+- Category share of group sales lifted to 11.9% from 11.6%.
+- Retail scratch fell 2.5% to NZ$62.1m (~$35m), 2.1% below budget; Instant Kiwi Online rose 25.9% to NZ$45.9m (~$26m), 26.7% ahead of budget.
+- Online share of instants reached 42.5% from 36.4% a year earlier and 37.7% for FY25 (retail NZ$120.7m / ~$69m; online NZ$73.2m / ~$42m).
+- Already an 18+ product, so FY27 age harmonisation changes nothing; growth driven by the MyLotto funnel, with player funds on deposit up 19% since June to NZ$17.4m (~$9.9m).
+
+### Ticket cost inflation
+
+**Ticket costs rose 131% to NZ$6.6m (~$3.8m) in H1 and at ~0.9% of sales are a visible drag on gross margin.**
+
+- Forecast NZ$15.2m (~$8.7m) for FY26 (+172%) and NZ$17.2m (~$9.8m) in FY27, versus NZ$5.6m (~$3.3m) in FY25.
+- Filings do not break the line down by product; it plausibly includes terminal ticket stock for the new EDGE retail estate, so attribution is unverified.
+- Drag sits alongside the levy.
+
+### Online casino risk
+
+**Instant Kiwi Online is the product most exposed when up to 15 licensed online casinos start advertising in early calendar 2027.**
+
+- Licensees will be allowed to offer instant-win games and advertise across mainstream media, something Lotto NZ has never faced domestically.
+- Management's view that FY27 impact is non-material due to the short operating window is reasonable; our concern is FY28.
+- By FY28 Instant Kiwi Online could be ~NZ$100m (~$57m) of annual sales growing 20%+, facing operators with far higher payout ratios.
+- Project Frontier (new MyLotto web and apps, first phase end-FY27/early-FY28) is the defensive investment and its timing now looks tight.
+- Gross-margin profile of online instants versus retail scratch is not disclosed — a gap we would press management on.
+
+| NZ$m (~US$m at 0.57) | H1 FY26A | H1 FY25A | YoY | vs Bud | FY25A (12m) |
+|---|---|---|---|---|---|
+| Instant Kiwi (retail scratch) | 62.1 (~$35) | 63.7 (~$36) | -2.5% | -2.1% | 120.7 (~$69) |
+| Instant Kiwi Online | 45.9 (~$26) | 36.5 (~$21) | +25.9% | +26.7% | 73.2 (~$42) |
+| Total Instant Kiwi gross sales | 107.9 (~$62) | 100.1 (~$57) | +7.8% | +8.4% | 193.9 (~$111) |
+| Online share of Instant Kiwi sales | 42.5% | 36.4% | +610bps | n/d | 37.7% |
+| Share of group gross sales | 11.9% | 11.6% | +37bps | n/d | 11.9% |
+| Group ticket costs (printed stock; attribution unverified) | 6.6 (~$3.8) | 2.9 (~$1.6) | +131% | +11.4% | 5.6 (~$3.2) |
+| MyLotto player funds on deposit (period end) | 17.4 (~$9.9) | 15.3 (~$8.7) | +13.6% | n/d | 14.5 (~$8.3) (Jun-25) |
+| Minimum age | 18+ | 18+ | — | — | 18+ |
+
+## 5. Segment deep-dive — Keno & Bullseye — daily numbers games (~3.5% of sales)
+
+*Combined NZ$31.8m (~$18m), -2.6% YoY and 3.0% below budget; Keno -5.0% is the weakest product in the portfolio and the one online casinos can replicate most directly.*
+
+### H1 performance
+
+**Combined sales of NZ$31.8m (~$18m) fell 2.6% YoY and were 3.0% below budget; Keno -5.0% is the weakest product in the portfolio.**
+
+- Category share of group sales slipped to 3.5% from 3.8% (4.0% for FY25, when Keno did NZ$51.1m / ~$29m and Bullseye NZ$14.3m / ~$8.1m).
+- Keno fell 5.0% to NZ$24.7m (~$14m), missing budget by 2.1%; Bullseye grew 6.8% to NZ$7.1m (~$4.1m) but was 6.0% under budget.
+- Neither game benefits from jackpot cycles, making them the cleanest read on underlying player engagement — and that read is negative.
+
+### Competitive exposure
+
+**These products have the least protection; a 5–10% annual decline is now the base case in our model.**
+
+- The SPE flags that incoming online-casino licensees will likely offer Keno-style games alongside instants and can advertise them.
+- FY27 roadmap is 'omnichannel enhancements' rather than a Keno relaunch; innovation budget is pointed at the Powerball matrix change and Project Frontier, so no turnaround expected.
+- At ~NZ$65m (~$37m) a year the category is too small to move the group.
+- FY27 budget of a 'normal year' implicitly assumes stabilisation that H1 did not deliver.
+
+| NZ$m (~US$m at 0.57) | H1 FY26A | H1 FY25A | YoY | vs Bud | FY25A (12m) |
+|---|---|---|---|---|---|
+| Keno | 24.7 (~$14) | 26.0 (~$15) | -5.0% | -2.1% | 51.1 (~$29) |
+| Bullseye | 7.1 (~$4.1) | 6.7 (~$3.8) | +6.8% | -6.0% | 14.3 (~$8.1) |
+| Total Keno & Bullseye gross sales | 31.8 (~$18) | 32.6 (~$19) | -2.6% | -3.0% | 65.4 (~$37) |
+| Share of group gross sales | 3.5% | 3.8% | -25bps | n/d | 4.0% |
+| Exposure to licensed online casinos (from early CY2027) | High (Keno-style games permitted) | — | — | — | — |
+
+## 6. Segment deep-dive — Channels — MyLotto digital vs retail network
+
+*Digital reached 49% of ticket sales in H1 (48% FY25); EDGE refreshed the retail estate in September 2025, Frontier rebuilds the digital front-end by FY28; channel costs held at 3.9% of sales.*
+
+### Digital mix and channel costs
+
+**Digital reached 49% of H1 ticket sales (48% FY25) while channel costs held at NZ$35.5m (~$20m), 3.9% of sales.**
+
+- Digital crossover to a majority-online lottery is now a FY27–28 event.
+- Retailer commission plus MyLotto fees flat as a ratio YoY, so the online shift is not yet yielding a cost-to-serve benefit.
+- FY26 forecast has the line rising 10% to NZ$69.6m (~$40m), 4.1% of sales; FY27 budget NZ$74.0m (~$42m), 4.3%, which we read as retail incentives around the Powerball matrix launch.
+- Retailer cost-recovery revenue shrinking: NZ$2.5m (~$1.5m) in H1, -2.8%; NZ$3.9m (~$2.2m) forecast FY26 against NZ$4.9m (~$2.8m) in FY25, as EDGE changed the terminal cost model.
+
+### EDGE and service KPIs
+
+**Project EDGE, delivered September 2025 under budget, replaced core and interactive gaming systems with 100% FY25 availability across all channels.**
+
+- FY26–27 availability targets of 99.95%/99.97%/99.95% for retail network, core gaming system and MyLotto.
+- Channel experience scores (customers rating 8–10) were 87% digital and 88% retail in FY25 against 80% targets; FY26 forecasts 86% and 85%.
+- 'Digitally enabled players' (redefined in FY26 as MyLotto account holders) grew only 3.4% in FY25 against a +10% target retained for FY26 and FY27.
+- This is the KPI to track once Frontier launches; monthly actives and ARPU are not reported.
+
+### Project Frontier
+
+**Frontier rebuilds the MyLotto front-end by end-FY27/early-FY28; any slippage is a direct revenue risk, not an IT footnote.**
+
+- Funded from NZ$24.3m (~$14m) FY26F and NZ$21.7m (~$12m) FY27B intangibles capex with no profit retentions required.
+- Intangible assets rose to NZ$32.4m (~$18m) at December 2025 from NZ$27.6m (~$16m) at June.
+- With licensed online casinos able to advertise from early 2027, MyLotto experience quality becomes the moat for instants and Keno.
+
+| NZ$m (~US$m at 0.57) unless stated | H1 FY26A | H1 FY25A | YoY | FY25A (12m) | FY26F / target |
+|---|---|---|---|---|---|
+| Online (MyLotto) share of ticket sales | 49% | 48% | +1pt | 48% (52% retail) | n/d |
+| MyLotto player funds on deposit (period end) | 17.4 (~$9.9) | 15.3 (~$8.7) | +13.6% | 14.5 (~$8.3) (Jun-25) | n/d |
+| Retailer commission & MyLotto transaction fees | 35.5 (~$20) | 34.1 (~$19) | +4.1% | 63.3 (~$36) | 69.6 (~$40) FY26F; 74.0 (~$42) FY27B |
+| — % of gross sales | 3.9% | 3.9% | -2bps | 3.9% | 4.1% FY26F; 4.3% FY27B |
+| Promotion & retail support | 10.6 (~$6.1) | 9.9 (~$5.7) | +7.0% | 23.4 (~$13) | 25.2 (~$14) FY26F; 27.4 (~$16) FY27B |
+| — % of gross sales | 1.2% | 1.2% | +3bps | 1.4% | 1.5% FY26F |
+| Retailer telecoms/terminal cost-recovery revenue | 2.5 (~$1.5) | 2.6 (~$1.5) | -2.8% | 4.9 (~$2.8) | 3.9 (~$2.2) FY26F |
+| Channel experience — digital (% rating 8–10) | n/d | n/d | — | 87% | 86% FY26F; 85% FY27 target |
+| Channel experience — retail (% rating 8–10) | n/d | n/d | — | 88% | 85% FY26F; 85% FY27 target |
+| Digitally enabled players (MyLotto accounts) growth | n/d | n/d | — | +3.4% (old definition) | +10% target FY26 & FY27 |
+| Platform availability (retail / core / MyLotto) | n/d | n/d | — | 100% / 100% / 100% | 99.95% / 99.97% / 99.95% targets |
+| Intangible assets (period end) | 32.4 (~$18) | 26.6 (~$15) | +21.7% | 27.6 (~$16) (Jun-25) | 47.5 (~$27) Jun-26F |
+
+## 7. Highlights & Lowlights
+
+**Highlights**
+
+- Sales +3% to NZ$1.67bn (~$0.95bn), ~6% above the NZ$1,575.7m (~$898m) budget, and H1 profit before distribution NZ$227.4m (~$130m) +20.8% vs budget — the record NZ$55m (~$31m) Must Be Won draw delivered exactly the kind of upside a lottery's option value promises. _(one-off)_
+- Opex control is real: H1 opex -9.1% YoY and 13.1% under budget at 5.0% of sales; FY26F opex NZ$103.9m (~$59m) = 6.1% of sales vs 6.8% budgeted; FY27B 6.0%. Roughly half of the H1 saving is EDGE-related D&A roll-off (-61%), the rest is IT/gaming-system cost (-15%). _(mixed)_
+- Digital engine: 49% of ticket sales online; Instant Kiwi Online +25.9% to NZ$45.9m (~$26m), 26.7% ahead of budget; MyLotto player funds +19% since June to NZ$17.4m (~$9.9m). _(structural)_
+- Project EDGE (new core + interactive gaming systems) delivered September 2025 under budget; no further profit retentions required in FY26 or FY27, so 100% of profit (NZ$401.4m / ~$229m forecast) flows to the Lottery Grants Board versus NZ$350.8m (~$200m) budgeted. _(structural)_
+- Balance sheet is debt-free: cash + term deposits NZ$261.7m (~$149m) at Dec-25, net cash NZ$256.7m (~$146m); operating cash flow +36% to NZ$278.0m (~$158m) in H1; FY26F operating cash flow NZ$405.2m (~$231m), +11.5%. _(structural)_
+- FY27 budget steps profit up 5.9% to NZ$424.9m (~$242m) on the Powerball 10→14-ball matrix change — the same odds-change playbook that has historically re-rated jackpot frequency for peers — with prize-reserve contributions already pre-funded (FY27B NZ$17.9m / ~$10m vs NZ$64.7m / ~$37m). _(early)_
+- Responsible-gambling metrics remain best-in-class: MoH harm citations 0.7 per 10,000 players (FY25) vs <1.0 target; WLA Level 4 held since 2016 with recertification pending; Toitū net carbon zero maintained. _(structural)_
+
+**Lowlights**
+
+- Profit went backwards on higher sales: FY26F NZ$401.4m (~$229m) is -0.9% vs FY25's NZ$405.1m (~$231m) on +4.1% sales; profit margin -120bps to 23.7% of gross sales, below management's own ~25c-per-dollar community-return benchmark. Audited actual likely lower still (our est. NZ$395–400m / ~$225–228m) given the H2 sales shortfall. _(structural)_
+- H2 FY26 undershot the June forecast by ~NZ$15–25m (~$9–14m) of sales (implied H2 ~NZ$767–772m vs NZ$789.8m forecast, ~+1% YoY vs +3.6% planned) despite NZ$20m+ Powerball jackpots in March and June — jackpot elasticity is not linear, and the forecast was five months old. _(watch)_
+- Cost-of-sales inflation outside prizes: problem-gambling levy +71% to NZ$5.5m (~$3.1m) FY26F; ticket costs +172% to NZ$15.2m (~$8.7m) and rising again to NZ$17.2m (~$9.8m) in FY27B; retailer commission/MyLotto fees +10% to 4.1% of sales and 4.3% budgeted for FY27. _(structural)_
+- Interest income is evaporating as cash is swept to the LGB and rates fall: NZ$13.5m (~$7.7m) FY25 → NZ$6.4m (~$3.6m) FY26F → NZ$3.9m (~$2.2m) FY27B; cash + TDs forecast to fall from NZ$226.6m (~$129m) at Jun-25 to NZ$147.3m (~$84m) at Jun-26 and NZ$134.2m (~$77m) at Jun-27. _(structural)_
+- Licensed online casinos (up to 15) arrive early CY2027 with the right to advertise and to offer instant-win and Keno-style games — direct competition for Instant Kiwi Online (NZ$45.9m / ~$26m H1, +26%) and Keno (NZ$24.7m / ~$14m, -5%); Project Frontier's digital rebuild is not due until end-FY27/early-FY28. _(watch)_
+- Retail legacy products are in decline: Instant Kiwi scratch -2.5%, Keno -5.0%, and Bullseye 6.0% under budget in H1; the non-jackpot portfolio (~15% of sales) missed budget across the board. _(structural)_
+- Governance and disclosure: Chair Mark Todd is outgoing with the Deputy Chair signing the accounts during the matrix-change/Frontier/online-casino window; employee remuneration +8.0% H1 / +8.6% FY26F against a 1.1% total-opex rise; and the FY26 Integrated Report is not retrievable from the JS-only website, leaving full-year profit, LGB transfer and product mix unverified. _(governance)_
+
+## 8. Forecast & Outlook
+
+Lotto NZ does not give market guidance; its budget (SPE, June 2025) and updated forecast (SPE FY27, June 2026) serve the same function. The FY26 bridge runs from a 'normal-year' budget of NZ$1,575.7m (~$898m) sales / NZ$360.8m (~$206m) profit / NZ$350.8m (~$200m) to the LGB, to a June-2026 forecast of NZ$1,693.2m (~$965m) / NZ$401.4m (~$229m) / NZ$401.4m — every dollar of the uplift from the draw-games division (Powerball: NZ$55m Must Be Won in Nov-25 plus three NZ$20m+ jackpots), with opex NZ$2.9m (~$1.7m) under budget and the NZ$10m (~$5.7m) retention dropped. The actual landed at ~NZ$1.67–1.68bn of sales (Gaming Intelligence), so the realised profit should sit slightly below the forecast [audited figure unverified]. For FY27 management budgets sales NZ$1,723.9m (~$983m), opex NZ$104.4m (~$60m, 6.0%) and profit NZ$424.9m (~$242m), +5.9% on the FY26 forecast, predicated on a normal jackpot year plus the Powerball matrix change in H1 FY27, a non-material impact from online casinos, no change to lottery duty (5.5%) or the levy, and no major system outages.
+
+- **FY26 budget profit (SPE, Jun-25; 'normal' jackpot year):** NZ$360.8m (~$206m) (sales budget NZ$1,575.7m (~$898m); NZ$10m retention)
+- **Jackpot-led sales beat + opex underspend:** +NZ$40.6m (~$23m) (sales +NZ$117.5m (~$67m) vs budget; opex -NZ$2.9m (~$1.7m); retention dropped)
+- **FY26 forecast profit (SPE FY27, Jun-26):** NZ$401.4m (~$229m) (-0.9% vs FY25A NZ$405.1m; actual sales ~NZ$20m short → est. NZ$395–400m)
+- **FY27 budget profit:** NZ$424.9m (~$242m) (+5.9%; Powerball 14-ball matrix change, sales NZ$1,723.9m (~$983m))
+
+**Our FY26 close-out (estimate):** sales ~NZ$1,676m (~$955m), +3%; profit before distribution NZ$395–400m (~$225–228m), -1% to -2.5% YoY, margin ~23.6–23.9% of gross sales; full amount to the LGB; year-end cash + TDs ~NZ$140–150m (~$80–86m), no debt. **FY27 (year to June 2027):** we model sales of NZ$1.65–1.75bn (~$0.94–1.00bn) with a central case ~NZ$1.70bn (~$969m), i.e. +1–2% rather than the budgeted +3%, because H1 FY27 laps the NZ$55m Must Be Won half and the matrix change will not be live for the full period — a YoY decline in H1 FY27 (we pencil NZ$850–900m / ~$485–513m vs NZ$903.4m) is more likely than not unless the new odds trigger a NZ$40m+ run before Christmas. On a ~24% profit margin (prizes 51% of sales, GST ~5.9%, duty 5.5%, levy ~0.3%, commission ~4.3%, opex ~6.1%) that gives **profit of NZ$385–430m (~$219–245m), central ~NZ$410m (~$234m)** versus the NZ$424.9m budget; the matrix change is worth, on our arithmetic, roughly NZ$8–10m (~$5–6m) of profit for every 2% of incremental draw-game sales it generates. **Leverage** stays at zero; cash drifts down toward the budgeted NZ$134m (~$77m) at June 2027 as the balance sheet is run leaner, and interest income becomes immaterial. **Swing factors:** (1) jackpot sequencing — a single Must Be Won draw is worth ~NZ$10–15m of profit; (2) matrix-change go-live date and any regulator-driven delay; (3) first online-casino licence timing (early CY2027) and advertising intensity against Instant Kiwi Online/Keno — we haircut FY28 instants growth, not FY27; (4) levy and duty settings post the 2026 general election; (5) Frontier capex NZ$21.7m (~$12m) and delivery slippage. The thesis for LGB beneficiaries (Sport NZ, Creative NZ, NZ Film Commission, community grants) is that the >NZ$400m run-rate is now jackpot-and-matrix dependent rather than organically secured.
+
+**What to watch next quarter:**
+
+- Powerball 14-ball matrix go-live date in H1 FY27 and the size/duration of the first jackpot sequence — the entire FY27 budget uplift rests on it.
+- H1 FY27 results (due ~April 2027): sales vs the NZ$903.4m (~$515m) comp, opex vs the NZ$104.4m (~$60m) annual budget, problem-gambling levy and ticket-cost run-rates.
+- Timing of the first online-casino licences (expected early CY2027), their advertising launch and any sequential slowdown in Instant Kiwi Online (+25.9%) and Keno (-5.0%).
+- Release of the FY26 Integrated Report details: audited profit, LGB transfer, full-year online share, product mix and year-end cash — reconcile to the NZ$401.4m (~$229m) forecast.
+- Project Frontier milestones (first phase end-FY27/early-FY28) and intangibles capex vs NZ$21.7m (~$12m) budget; any further profit-retention request would signal overrun.
+- WLA Level 4 recertification outcome (early FY27), harm-citation trend post matrix change, and Board Chair succession.
+
+### Sources
+
+**Data confidence: MEDIUM.** Split confidence. HIGH for H1 FY26 (six months to 31 Dec 2025), FY25 actuals, the FY26 original budget, the FY26 management forecast and the FY27 budget — all taken from Lotto NZ's own published financials (Half Year Financials 2026; SPE FY27; SPE FY26; SOI 2025–29). LOW for FY26 full-year actuals: the only accessible datapoint is Gaming Intelligence's headline of sales +3% to NZ$1.67bn; the FY26 Integrated Report itself was not retrievable (mylotto.co.nz is JS-rendered and the article body is paywalled), so FY26 audited profit, LGB transfer, product mix, full-year online share and year-end cash are shown as company forecast or 'n/d' and our FY26 profit figure (NZ$395–400m) is an estimate. Ticket-cost attribution to Instant Kiwi and the problem-gambling levy rate change are flagged as unverified. No earnings call exists (Crown entity). Share price reaction: not applicable (unlisted). FX: NZD/USD 0.57 assumed — approximate late-2025 spot; the rate on the November-2026 release date could not be verified because the web-tool quota was exhausted mid-research, so treat all ~US$ figures as indicative.
+
+1. [Primary] Lotto New Zealand — Half Year Financials 2026 (six months to 31 December 2025; approved by the Board 20 April 2026) — statement of comprehensive income, financial position, cash flows, sales by game — https://assets.mylotto.co.nz/assets/uploads/5d7c3c08-52fb-11f1-9065-461517176844.pdf
+2. [Primary] Lotto New Zealand — Statement of Performance Expectations for the financial year ending 30 June 2027 (June 2026): FY26 forecast, FY25 actuals, FY27 budget, Powerball matrix change, online-casino regulation, EDGE/Frontier — https://assets.mylotto.co.nz/assets/uploads/ec771b66-734a-11f1-a0be-7abfcbe40900.pdf
+3. [Primary] Lotto New Zealand — Statement of Performance Expectations for the financial year ending 30 June 2026 (June 2025): FY26 budget (sales NZ$1,575.7m, profit NZ$360.8m, LGB NZ$350.8m) [search extract only] — https://assets.mylotto.co.nz/assets/uploads/0271a7dc-56ec-11f0-bde1-5e65005f4bae.pdf
+4. [Primary] Lotto New Zealand — Statement of Intent 2025–2029 (FY29 revenue NZ$1.82bn, >NZ$400m profit) [search extract only] — https://assets.mylotto.co.nz/assets/uploads/59514870-a9fb-11f0-ada7-3ad4acd14bcf.pdf
+5. [Primary] Lotto NZ — Reports and statements index (annual, half-year, SPE/SOI) — https://mylotto.co.nz/about-us/reports-and-statements
+6. [Secondary] Gaming Intelligence — 'Lotto NZ reports 3% sales growth in FY2026' (c. 11 Nov 2026): FY26 sales NZ$1.67bn, +3% [headline only; body not accessible] — https://www.gamingintelligence.com/finance/238360-lotto-nz-reports-3-sales-growth-in-fy2026/
+7. [Secondary] Gaming Intelligence — Lotto New Zealand tag page: FY2025 sales -5% to NZ$1.63bn; FY2024 record NZ$1.71bn (+13%) — https://www.gamingintelligence.com/tag/lotto-new-zealand/
+8. [Secondary] NZ Herald (Media Insider, mid-2026) — FY25 revenue by product (Lotto/Powerball/Strike NZ$1.368bn; Instant Kiwi ~NZ$194m; Keno NZ$51.1m; Bullseye NZ$14.3m), corroborating the half-year financials' FY25 column — https://www.nzherald.co.nz/business/media-insider/hundreds-of-kiwis-block-themselves-from-lotto-instant-kiwi-and-other-lotto-nz-games/premium/ODRWKF7KDJFMDKRAN2K23DT47Q/
+
+*Research analysis only — not a rating, price target, or personalised investment advice.*

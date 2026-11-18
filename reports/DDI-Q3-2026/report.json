@@ -1,0 +1,1455 @@
+{
+  "company": {
+    "name": "DoubleDown Interactive",
+    "ticker": "DDI",
+    "exchange": ""
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 2209604,
+    "output": 51689,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 78,
+    "cacheRead": 2096865,
+    "cacheWrite": 112661,
+    "turns": 1
+  },
+  "prepared": "18 Nov 2026",
+  "report": {
+    "releaseDate": "11 Nov 2026 (6-K filed 11 Nov; 6-K/A 12 Nov)",
+    "currency": "USD (company reports in US$; tables in US$ millions unless stated)",
+    "verdict": "Operationally clean: a record 58% direct-to-consumer mix lifted adj. EBITDA 7.2% to $40.2m (42.7% margin, +360bps) on revenue down 1.6% to $94.3m, while reported profit fell 44% on an $8.2m net FX loss and a 37% quarterly tax rate. The number that actually matters is DoubleU Games' $16.25/ADS tender, which values the ex-cash business at roughly 1.7x annualised adj. EBITDA; this quarter is now a datapoint in that negotiation rather than a trading event.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "$94.3m",
+        "delta": "-1.6% YoY / flat QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA (non-IFRS)",
+        "value": "$40.2m",
+        "delta": "+7.2% YoY; margin 42.7% (+360bps)",
+        "dir": "up"
+      },
+      {
+        "label": "Profit attrib. (IFRS)",
+        "value": "$18.4m",
+        "delta": "-43.9% YoY; EPS $7.41/share = $0.37/ADS",
+        "dir": "down"
+      },
+      {
+        "label": "DTC share of social casino rev.",
+        "value": "58.0%",
+        "delta": "+37pp YoY / +5.6pp QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Net cash (30 Sep)",
+        "value": "$545.3m",
+        "delta": "+$24m QoQ / +$90m YTD",
+        "dir": "up"
+      },
+      {
+        "label": "Operating cash flow",
+        "value": "$23.6m",
+        "delta": "-29% YoY (cash taxes +$10m)",
+        "dir": "down"
+      }
+    ],
+    "summary": [
+      "**Beat on revenue and adj. EBITDA, miss on EPS.** Q3-26 revenue of $94.3m (-1.6% YoY, flat QoQ) came in ahead of the ~$92.6m consensus cited by Investing.com, and management explicitly claims a beat on revenue and adj. EBITDA ($40.2m, +7.2%). Per-ADS EPS of $0.37 was well short of the ~$0.59 forecast, entirely because of below-the-line FX losses and a one-quarter tax-rate spike; operating profit actually rose 7.2% to $37.5m.",
+      "**Mix: social casino shrank, iGaming grew.** Social casino/free-to-play revenue fell 3.5% YoY to $76.8m (-0.6% QoQ), attributed to lower revenue from the legacy DoubleDown titles ex-WHOW; SuprNation iGaming rose 7.4% to $17.4m (+2.6% QoQ), led by the Los Vegas brand. 9M revenue is +7.0% to $282.7m, but that is almost entirely WHOW Games (acquired 14 Jul 2025) annualising.",
+      "**DTC is the whole margin story.** Direct-to-consumer revenue hit $44.6m (58.0% of social casino, from 20.9% in Q3-25 and 52.4% in Q2-26) while third-party platform revenue nearly halved to $32.2m (-48.8% YoY). Cost of revenue dropped 20.5% to $22.2m, or 23.5% of revenue (-560bps YoY), despite higher UK gaming duty in iGaming. CFO Sigrist: DTC was below 5% at the start of 2024; gains from here get harder and he would not give a ceiling.",
+      "**Margin expansion is real and still compounding.** Adj. EBITDA margin of 42.7% is +360bps YoY and +110bps QoQ; operating margin 39.8% (+330bps). 9M adj. EBITDA is $117.7m (+15.6%) at 41.6%. On our derivation (group adj. EBITDA less the iGaming segment's PBT+D&A), social casino runs at ~$40.1m / ~52% margin, up ~290bps YoY.",
+      "**Below the line swamped the operating beat.** Net finance result swung to -$8.2m (finance cost $10.0m vs a $1.6m credit a year ago; finance income $1.8m vs $4.5m), a $14.3m YoY swing, driven by realised and unrealised FX losses on USD-denominated financial assets re-measured at the KRW-functional parent. A $7.8m translation gain in OCI partly offsets economically. Q3 ETR was 37.3% (vs 20.3%) under the annual-ETR method; the 9M rate of 25.4% is the better guide. Attributable profit fell 43.9% to $18.4m.",
+      "**Core decay is tracking the market, not beating it.** US social casino revenue (the cleanest proxy for legacy DoubleDown Casino) fell 6.5% YoY to $57.0m and 2.5% QoQ; 9M -5.2%. The CEO cited Eilers & Krejcik's forecast of a ~7% global social casino decline in 2026 and claimed outperformance, but the outperformance lives in International (+6.4% YoY to $19.8m, WHOW-driven), not in the core.",
+      "**Customer economics reshaped by WHOW, flat underneath.** Avg MAU 1.23m (+10% YoY incl. WHOW, -1.6% QoQ), DAU 575k (+3.6% YoY, -3.7% QoQ), payer conversion 9.5% (7.8%), ARPDAU $1.44 ($1.39), avg monthly revenue per payer $216 ($272). Implied monthly payers (MAU x conversion) are ~117k, essentially flat on Q2-26's ~118k; DAU/MAU engagement slipped to 46.7% from 49.6%. Note Q3-25 KPIs exclude WHOW, so the YoY moves are mostly perimeter.",
+      "**Marketing re-allocated, not cut.** Group S&M was $15.1m (16.0% of revenue vs 16.4%; +$1.2m QoQ). Within that, social casino advertising rose 26% YoY to $8.5m (11.0% of segment revenue, +260bps) to push DTC promotion, while iGaming advertising was slashed 41% to $3.9m (22.3% of segment revenue vs 40.6%) to absorb the UK duty increase.",
+      "**iGaming reached breakeven by cutting UA.** SuprNation segment PBT narrowed to -$0.8m (from -$2.6m); PBT + D&A is ~+$0.1m, the first positive quarter on our derivation (9M: +$0.7m vs -$3.2m). Management says product changes, marketing adjustments and expense control mitigated 'much' of the higher UK gambling tax; brands five and six are planned to diversify. A 41% UA cut buys this quarter's P&L at the expense of future cohorts.",
+      "**Cost lines to watch: G&A up, R&D down.** G&A rose 26.5% YoY to $16.5m (17.5% of revenue vs 13.6%); the release does not itemise it, but special-committee/advisory costs tied to the DUG process and the full WHOW cost base are the obvious candidates. R&D fell 27% to $3.1m (3.2% of revenue), the lowest in recent quarters, for a business that says it ships new slot content weekly.",
+      "**Cash generation fine, timing noisy.** OCF of $23.6m was -29% YoY purely on cash taxes ($17.2m paid in Q3-26 vs $7.2m); 9M OCF $94.7m (+0.5%) and derived FCF (OCF less $0.2m capex and $1.4m leases) of $93.0m is 79% of adj. EBITDA. No buyback, no dividend, no M&A cash out in 2026.",
+      "**Balance sheet: $582.1m cash + short-term investments, $36.8m related-party loan, net cash $545.3m** (+$24m vs $521m at Q2; +$90m vs $455m at Dec-25), i.e. ~$11.00 per ADS. The 4.60% DoubleU Games loan was extended from May 2026 to May 2028 and reclassified to long-term. Gross debt is ~0.2x annualised adj. EBITDA.",
+      "**The tender offer: $16.25/ADS ($325/common share) in cash from DoubleU Games (67.05% owner)**, agreed 9 Nov and commenced 10 Nov, replacing the 29 Apr non-binding $11.25 proposal (+44%). Conditions: minimum tender taking DUG to 95% (reducible to 90% with DDI consent), a non-waivable majority-of-the-minority (>50% of unaffiliated ADSs), and an unrevoked board recommendation; no financing condition; second-step squeeze-out under the Korean Commercial Act at the same price. Kroll (Duff & Phelps) gave the fairness opinion.",
+      "**Tender valuation arithmetic (ours).** 49.55m ADS-equivalents x $16.25 = ~$805m equity value; less $545m net cash = ~$260m EV, or ~1.7x 9M-annualised adj. EBITDA (~$157m) and ~2.1x annualised FCF (~$124m). Minority cash-out is ~$265m. Net cash alone is ~$11/ADS, so the offer ascribes ~$5.25/ADS to a business producing ~$2.50/ADS of FCF a year. The special committee extracted a 44% bump; the majority-of-the-minority condition is the minorities' only remaining lever.",
+      "**Governance read: management shut the door.** The company refused all questions on the offer on the call, and the agreement imposes 'certain constraints' on ordinary-course operations even as the CEO repeated that M&A in casual gaming, online gambling and mobile entertainment 'remains a strategic priority'. Roth/MKM downgraded on 12 Nov citing the likely tender; MarketBeat shows a consensus 'Hold'.",
+      "**Product and AI: lots of narrative, no quantification.** Weekly slot launches, a new link-jackpot system and a simplified mobile lobby in development; AI framed around three pillars (content velocity, monetisation via behavioural predictive models tuning in-game economies and offers, UA targeting/ROAS). Asked for a measured ARPDAU lift from AI, the CEO gave none.",
+      "**No guidance, none expected.** DDI does not issue numerical guidance and introduced none; the only steers were that DTC gains get harder from ~60%, the social casino market is contracting ~7%, and SuprNation will add brands. Our FY26E: revenue ~$377m, adj. EBITDA ~$158m (~42%), year-end net cash ~$565-570m.",
+      "**Thesis read-through.** The DTC conversion has delivered ~400-500bps of structural margin in two years and is not finished, but the legacy title is ex-growth at -6% and from here the DTC tailwind (~$1m/qtr per +5pp of mix on our maths) no longer fully offsets core decay (~$1.7m/qtr of EBITDA at a 50% drop-through). That makes FY27 adj. EBITDA a plateau-to-erosion story absent M&A, which is exactly the window in which the controlling shareholder has chosen to take out minorities at ~1.7x EBITDA."
+    ],
+    "groupTable": {
+      "note": "US$m (IFRS unless stated)",
+      "columns": [
+        "Q3-26",
+        "Q3-25",
+        "YoY",
+        "Q2-26",
+        "QoQ",
+        "9M-26",
+        "9M YoY"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by segment",
+          "kind": "group"
+        },
+        {
+          "label": "Social casino / free-to-play",
+          "indent": true,
+          "cells": [
+            "76.8",
+            "79.6",
+            "-3.5%",
+            "77.3",
+            "-0.6%",
+            "231.1",
+            "+5.4%"
+          ]
+        },
+        {
+          "label": "iGaming (SuprNation)",
+          "indent": true,
+          "cells": [
+            "17.4",
+            "16.2",
+            "+7.4%",
+            "17.0",
+            "+2.6%",
+            "51.6",
+            "+14.9%"
+          ]
+        },
+        {
+          "label": "Total revenue",
+          "kind": "emphasis",
+          "cells": [
+            "94.3",
+            "95.8",
+            "-1.6%",
+            "94.3",
+            "0.0%",
+            "282.7",
+            "+7.0%"
+          ]
+        },
+        {
+          "label": "Social casino revenue by channel",
+          "kind": "group"
+        },
+        {
+          "label": "Direct-to-consumer (DTC)",
+          "indent": true,
+          "cells": [
+            "44.6",
+            "16.6",
+            "+168.7%",
+            "40.5",
+            "+10.1%",
+            "119.1",
+            "+228.5%"
+          ]
+        },
+        {
+          "label": "Third-party platforms (Apple/Google/Facebook)",
+          "indent": true,
+          "cells": [
+            "32.2",
+            "63.0",
+            "-48.8%",
+            "36.8",
+            "-12.4%",
+            "112.0",
+            "-38.8%"
+          ]
+        },
+        {
+          "label": "DTC % of social casino revenue",
+          "indent": true,
+          "cells": [
+            "58.0%",
+            "20.9%",
+            "+37.1pp",
+            "52.4%",
+            "+5.6pp",
+            "51.5%",
+            "+35.0pp"
+          ]
+        },
+        {
+          "label": "Social casino revenue by geography",
+          "kind": "group"
+        },
+        {
+          "label": "United States",
+          "indent": true,
+          "cells": [
+            "57.0",
+            "61.0",
+            "-6.5%",
+            "58.5",
+            "-2.5%",
+            "173.0",
+            "-5.2%"
+          ],
+          "footnote": "Q2-26 derived as 9M less Q1 less Q3."
+        },
+        {
+          "label": "International (incl. Canada $4.7m)",
+          "indent": true,
+          "cells": [
+            "19.8",
+            "18.6",
+            "+6.4%",
+            "18.8",
+            "+5.2%",
+            "58.1",
+            "+58.2%"
+          ]
+        },
+        {
+          "label": "Operating costs",
+          "kind": "group"
+        },
+        {
+          "label": "Cost of revenue",
+          "indent": true,
+          "cells": [
+            "22.2",
+            "27.9",
+            "-20.5%",
+            "23.1",
+            "-3.9%",
+            "69.6",
+            "-8.0%"
+          ]
+        },
+        {
+          "label": "Cost of revenue % revenue",
+          "indent": true,
+          "cells": [
+            "23.5%",
+            "29.1%",
+            "-560bps",
+            "24.5%",
+            "-100bps",
+            "24.6%",
+            "-410bps"
+          ]
+        },
+        {
+          "label": "Sales & marketing",
+          "indent": true,
+          "cells": [
+            "15.1",
+            "15.7",
+            "-4.3%",
+            "13.9",
+            "+8.7%",
+            "46.3",
+            "+7.8%"
+          ]
+        },
+        {
+          "label": "S&M % revenue",
+          "indent": true,
+          "cells": [
+            "16.0%",
+            "16.4%",
+            "-40bps",
+            "14.7%",
+            "+130bps",
+            "16.4%",
+            "+10bps"
+          ]
+        },
+        {
+          "label": "Research & development",
+          "indent": true,
+          "cells": [
+            "3.1",
+            "4.2",
+            "-27.2%",
+            "3.8",
+            "-20.2%",
+            "10.6",
+            "+7.2%"
+          ]
+        },
+        {
+          "label": "General & administrative",
+          "indent": true,
+          "cells": [
+            "16.5",
+            "13.0",
+            "+26.5%",
+            "17.0",
+            "-3.3%",
+            "46.6",
+            "+20.5%"
+          ]
+        },
+        {
+          "label": "Total operating expenses",
+          "indent": true,
+          "cells": [
+            "56.8",
+            "60.9",
+            "-6.7%",
+            "57.8",
+            "-1.7%",
+            "173.3",
+            "+3.7%"
+          ]
+        },
+        {
+          "label": "Profitability",
+          "kind": "group"
+        },
+        {
+          "label": "Operating profit (IFRS)",
+          "cells": [
+            "37.5",
+            "35.0",
+            "+7.2%",
+            "36.5",
+            "+2.7%",
+            "109.4",
+            "+12.8%"
+          ]
+        },
+        {
+          "label": "Operating margin",
+          "indent": true,
+          "cells": [
+            "39.8%",
+            "36.5%",
+            "+330bps",
+            "38.7%",
+            "+110bps",
+            "38.7%",
+            "+200bps"
+          ]
+        },
+        {
+          "label": "Adj. EBITDA (non-IFRS, company)",
+          "kind": "emphasis",
+          "cells": [
+            "40.2",
+            "37.5",
+            "+7.2%",
+            "39.3",
+            "+2.3%",
+            "117.7",
+            "+15.6%"
+          ]
+        },
+        {
+          "label": "Adj. EBITDA margin",
+          "indent": true,
+          "cells": [
+            "42.7%",
+            "39.1%",
+            "+360bps",
+            "41.6%",
+            "+110bps",
+            "41.6%",
+            "+310bps"
+          ]
+        },
+        {
+          "label": "Social casino adj. EBITDA (analyst-derived)",
+          "indent": true,
+          "cells": [
+            "~40.1",
+            "~39.2",
+            "+2.3%",
+            "~39.4",
+            "+1.8%",
+            "~117.0",
+            "+11.4%"
+          ],
+          "footnote": "Group adj. EBITDA less iGaming segment (PBT + D&A + interest). Company does not disclose segment EBITDA."
+        },
+        {
+          "label": "iGaming adj. EBITDA (analyst-derived)",
+          "indent": true,
+          "cells": [
+            "~0.1",
+            "~(1.7)",
+            "n/m",
+            "~(0.1)",
+            "n/m",
+            "~0.7",
+            "n/m"
+          ]
+        },
+        {
+          "label": "Net finance income/(cost) incl. FX",
+          "cells": [
+            "(8.2)",
+            "6.1",
+            "n/m",
+            "5.8",
+            "n/m",
+            "6.7",
+            "-10.6%"
+          ]
+        },
+        {
+          "label": "Profit before tax",
+          "cells": [
+            "29.3",
+            "41.1",
+            "-28.8%",
+            "42.3",
+            "-30.8%",
+            "116.1",
+            "+11.1%"
+          ]
+        },
+        {
+          "label": "Income tax expense",
+          "indent": true,
+          "cells": [
+            "10.9",
+            "8.4",
+            "+30.7%",
+            "9.5",
+            "+15.5%",
+            "29.5",
+            "+13.5%"
+          ]
+        },
+        {
+          "label": "Effective tax rate",
+          "indent": true,
+          "cells": [
+            "37.3%",
+            "20.3%",
+            "+17.0pp",
+            "22.4%",
+            "+14.9pp",
+            "25.4%",
+            "+0.5pp"
+          ]
+        },
+        {
+          "label": "Profit attributable to DDI (IFRS)",
+          "kind": "emphasis",
+          "cells": [
+            "18.4",
+            "32.7",
+            "-43.9%",
+            "32.9",
+            "-44.2%",
+            "86.6",
+            "+10.5%"
+          ]
+        },
+        {
+          "label": "Net margin",
+          "indent": true,
+          "cells": [
+            "19.5%",
+            "34.1%",
+            "-1,460bps",
+            "34.9%",
+            "-1,540bps",
+            "30.6%",
+            "+90bps"
+          ]
+        },
+        {
+          "label": "EPS, diluted, per common share (IFRS)",
+          "cells": [
+            "$7.41",
+            "$13.21",
+            "-43.9%",
+            "$13.27",
+            "-44.2%",
+            "$34.96",
+            "+10.5%"
+          ]
+        },
+        {
+          "label": "EPS per ADS (1 ADS = 1/20 share)",
+          "indent": true,
+          "cells": [
+            "$0.37",
+            "$0.66",
+            "-43.9%",
+            "$0.66",
+            "-44.2%",
+            "$1.75",
+            "+10.5%"
+          ]
+        },
+        {
+          "label": "Adjusted EPS",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "",
+            "n/a",
+            "",
+            "n/a",
+            ""
+          ],
+          "footnote": "Company does not report an adjusted EPS."
+        },
+        {
+          "label": "Diluted shares (common)",
+          "indent": true,
+          "cells": [
+            "2,477,672",
+            "2,477,672",
+            "0%",
+            "2,477,672",
+            "0%",
+            "2,477,672",
+            "0%"
+          ]
+        },
+        {
+          "label": "Group KPIs (social casino only)",
+          "kind": "group"
+        },
+        {
+          "label": "Avg monthly active users (000)",
+          "indent": true,
+          "cells": [
+            "1,232",
+            "1,118",
+            "+10.2%",
+            "1,252",
+            "-1.6%",
+            "1,284",
+            "+9.5%"
+          ],
+          "footnote": "2025 KPIs exclude WHOW Games (acquired 14 Jul 2025); 2026 KPIs include it."
+        },
+        {
+          "label": "Avg daily active users (000)",
+          "indent": true,
+          "cells": [
+            "575",
+            "555",
+            "+3.6%",
+            "597",
+            "-3.7%",
+            "601",
+            "+3.6%"
+          ]
+        },
+        {
+          "label": "ARPDAU",
+          "indent": true,
+          "cells": [
+            "$1.44",
+            "$1.39",
+            "+3.6%",
+            "$1.42",
+            "+1.4%",
+            "$1.40",
+            "+4.5%"
+          ]
+        },
+        {
+          "label": "Payer conversion",
+          "indent": true,
+          "cells": [
+            "9.5%",
+            "7.8%",
+            "+170bps",
+            "9.4%",
+            "+10bps",
+            "9.3%",
+            "+210bps"
+          ]
+        },
+        {
+          "label": "Avg monthly revenue per payer",
+          "indent": true,
+          "cells": [
+            "$216",
+            "$272",
+            "-20.6%",
+            "$218",
+            "-0.9%",
+            "$213",
+            "-23.4%"
+          ]
+        },
+        {
+          "label": "Cash flow & balance sheet",
+          "kind": "group"
+        },
+        {
+          "label": "Net cash from operating activities",
+          "cells": [
+            "23.6",
+            "33.4",
+            "-29.3%",
+            "24.6",
+            "-4.1%",
+            "94.7",
+            "+0.5%"
+          ]
+        },
+        {
+          "label": "Income taxes paid",
+          "indent": true,
+          "cells": [
+            "17.2",
+            "7.2",
+            "+138%",
+            "n/a",
+            "",
+            "25.0",
+            "+11.0%"
+          ]
+        },
+        {
+          "label": "Free cash flow (OCF - capex - lease payments, derived)",
+          "indent": true,
+          "cells": [
+            "~23.1",
+            "~33.0",
+            "-30%",
+            "~24.0",
+            "-4%",
+            "93.0",
+            "+0.0%"
+          ]
+        },
+        {
+          "label": "Cash + short-term investments (period end)",
+          "cells": [
+            "582.1",
+            "n/a",
+            "",
+            "~557",
+            "",
+            "582.1 (Dec-25: 490.0)",
+            "+$92m YTD"
+          ]
+        },
+        {
+          "label": "Borrowings from DoubleU Games (4.60%, due May-28)",
+          "indent": true,
+          "cells": [
+            "36.8",
+            "n/a",
+            "",
+            "~36",
+            "",
+            "36.8 (Dec-25: 34.8)",
+            ""
+          ]
+        },
+        {
+          "label": "Net cash",
+          "kind": "emphasis",
+          "cells": [
+            "545.3",
+            "n/a",
+            "",
+            "521 (co.)",
+            "+$24m",
+            "545.3 (Dec-25: 455.2)",
+            "+$90m YTD"
+          ]
+        },
+        {
+          "label": "Gross debt / annualised adj. EBITDA",
+          "indent": true,
+          "cells": [
+            "~0.2x",
+            "",
+            "",
+            "~0.2x",
+            "",
+            "~0.2x",
+            ""
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Social Casino (DoubleDown Casino + WHOW Games)",
+        "headline": "Record 58% DTC mix drives ~52% segment EBITDA margin, but the US core is shrinking at -6.5% YoY, in line with the market it claims to be beating.",
+        "narrative": [
+          "Social casino/free-to-play revenue fell 3.5% YoY to $76.8m and 0.6% QoQ, which management attributed to lower revenue from the legacy DoubleDown titles excluding WHOW Games. This is the first clean year-on-year comparison since the WHOW acquisition (closed 14 July 2025, so Q3-25 already carried eleven of thirteen weeks of WHOW), and it confirms what the geographic split shows: US revenue, which is overwhelmingly the flagship DoubleDown Casino app, declined 6.5% YoY to $57.0m and 2.5% QoQ (9M -5.2% to $173.0m), while International rose 6.4% to $19.8m (9M +58% to $58.1m on WHOW's German-language portfolio), with Canada flat-to-down at $4.7m. The CEO cited Eilers & Krejcik's forecast of an almost 7% contraction in the global social casino market in 2026 and said the focus is on outperforming it; on the US line, they are tracking it, not beating it. The outperformance is a perimeter effect. The segment is still 81% of group revenue and, on our derivation, essentially all of group EBITDA.",
+          "The channel shift is the story. Direct-to-consumer revenue reached $44.6m, 58.0% of segment revenue, from 20.9% in Q3-25, 44.2% in Q1-26 and 52.4% in Q2-26, while third-party platform revenue (Apple, Google, Facebook) fell 48.8% YoY to $32.2m. The removal of roughly $30.8m of store-fee-bearing revenue YoY, at a ~30% take rate, explains the bulk of the $5.7m (20.5%) fall in group cost of revenue to 23.5% of revenue, even after absorbing higher UK gaming duties in the other segment. Sigrist noted DTC was below 5% at the start of 2024, said he does not know of anyone else in the industry approaching this level, and declined to give a ceiling, conceding only that gains become harder from here; the 52% to 58% step in a single quarter suggests the product-side incentives (messaging, promotion, storefront bonusing in the DoubleDown Casino app) still have traction. We would note the flip side that does not get discussed: DTC storefront pricing is typically more generous than in-app, so part of the social casino revenue decline is almost certainly the cost of buying the mix shift, which is rational at a ~25-30% net fee saving but means reported top-line decay overstates player attrition slightly.",
+          "Customer economics are now a blend of two very different businesses, and management was careful to say so. Average MAU rose 10.2% YoY to 1.23m and DAU 3.6% to 575k, but these comparisons include WHOW in 2026 and exclude it in 2025; sequentially both fell (MAU -1.6%, DAU -3.7%) and DAU/MAU engagement slipped to 46.7% from 47.7% in Q2 and 49.6% a year ago. Payer conversion rose to 9.5% from 7.8% because WHOW converts more players, average monthly revenue per payer fell to $216 from $272 because WHOW's payers spend less, and ARPDAU nudged up to $1.44 from $1.39 ($1.42 in Q2) as the higher conversion outweighed the lower spend per payer. Multiplying MAU by conversion gives roughly 117k monthly payers, flat on Q2-26's ~118k, and 117k x $216 x 3 reconciles to within $1m of reported segment revenue, so the KPI set is internally consistent. Sigrist was candid that the company has fewer players than it used to and that the job is to monetise and retain the ones it has for as long as it can; that is an accurate description of a harvest strategy, however well executed.",
+          "Marketing was leaned into rather than cut: segment advertising rose 26% YoY to $8.5m, 11.0% of segment revenue against 8.4% a year ago and 10.8% in Q2, consistent with spending to migrate payers to the web storefront and to defend the cohort. Even so, segment profitability expanded. The company does not disclose segment EBITDA, only segment profit before tax, which fell 31% to $30.1m because the ~$8m net FX loss and the parent's interest income both sit in this segment. Stripping the iGaming segment (PBT plus D&A) out of group adj. EBITDA implies social casino adj. EBITDA of roughly $40.1m, a ~52% margin, up from ~49% a year ago and ~51% in Q2; segment D&A of $1.8m is up 12% YoY (9M +146%) on WHOW intangible amortisation. On product, the CEO described weekly slot launches, a new link-jackpot system and a simplified mobile lobby under development because layered meta content has made the UX complex; AI was framed as three pillars (content-pipeline velocity, behavioural models tuning in-game economies and offers, and UA creative/spend automation) but when Texas Capital asked for a measured ARPDAU lift from AI, none was given.",
+          "No segment guidance was offered. Our read is that the DTC lever has perhaps 5-10pp left at diminishing incremental benefit, which on a ~$77m quarterly base is worth roughly $1m of quarterly EBITDA per 5pp of mix, whereas a 6% annual decline on the $57m US base removes ~$3.4m of quarterly revenue, or ~$1.7m of EBITDA at a 50% drop-through. The arithmetic turns against the segment in FY27 unless the decay rate improves or WHOW grows faster than its German market; this is the fundamental backdrop against which the controlling shareholder has priced its tender."
+        ],
+        "table": {
+          "note": "Social casino, US$m",
+          "columns": [
+            "Q3-26",
+            "Q3-25",
+            "YoY",
+            "Q2-26",
+            "QoQ",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Segment revenue",
+              "kind": "emphasis",
+              "cells": [
+                "76.8",
+                "79.6",
+                "-3.5%",
+                "77.3",
+                "-0.6%",
+                "231.1",
+                "+5.4%"
+              ]
+            },
+            {
+              "label": "% of group revenue",
+              "indent": true,
+              "cells": [
+                "81.5%",
+                "83.1%",
+                "-160bps",
+                "82.0%",
+                "-50bps",
+                "81.7%",
+                "-130bps"
+              ]
+            },
+            {
+              "label": "Revenue by channel",
+              "kind": "group"
+            },
+            {
+              "label": "Direct-to-consumer",
+              "indent": true,
+              "cells": [
+                "44.6",
+                "16.6",
+                "+168.7%",
+                "40.5",
+                "+10.1%",
+                "119.1",
+                "+228.5%"
+              ]
+            },
+            {
+              "label": "Third-party platforms",
+              "indent": true,
+              "cells": [
+                "32.2",
+                "63.0",
+                "-48.8%",
+                "36.8",
+                "-12.4%",
+                "112.0",
+                "-38.8%"
+              ]
+            },
+            {
+              "label": "DTC % of segment revenue",
+              "indent": true,
+              "cells": [
+                "58.0%",
+                "20.9%",
+                "+37.1pp",
+                "52.4%",
+                "+5.6pp",
+                "51.5%",
+                "+35.0pp"
+              ]
+            },
+            {
+              "label": "Revenue by geography",
+              "kind": "group"
+            },
+            {
+              "label": "United States",
+              "indent": true,
+              "cells": [
+                "57.0",
+                "61.0",
+                "-6.5%",
+                "58.5",
+                "-2.5%",
+                "173.0",
+                "-5.2%"
+              ],
+              "footnote": "Q2-26 US/International derived as 9M less Q1-26 less Q3-26 (Q1-26: US $57.5m, Intl $19.5m)."
+            },
+            {
+              "label": "International (incl. Canada)",
+              "indent": true,
+              "cells": [
+                "19.8",
+                "18.6",
+                "+6.4%",
+                "18.8",
+                "+5.2%",
+                "58.1",
+                "+58.2%"
+              ]
+            },
+            {
+              "label": "of which Canada",
+              "indent": true,
+              "cells": [
+                "4.7",
+                "4.8",
+                "-1.7%",
+                "n/a",
+                "",
+                "13.9",
+                "-1.0%"
+              ]
+            },
+            {
+              "label": "US % of segment revenue",
+              "indent": true,
+              "cells": [
+                "74.2%",
+                "76.6%",
+                "-240bps",
+                "75.6%",
+                "-140bps",
+                "74.8%",
+                "-840bps"
+              ]
+            },
+            {
+              "label": "Costs & profit",
+              "kind": "group"
+            },
+            {
+              "label": "Advertising expense (segment note)",
+              "indent": true,
+              "cells": [
+                "8.5",
+                "6.7",
+                "+26.0%",
+                "8.4",
+                "+1.3%",
+                "26.0",
+                "+30.1%"
+              ]
+            },
+            {
+              "label": "Advertising % segment revenue",
+              "indent": true,
+              "cells": [
+                "11.0%",
+                "8.4%",
+                "+260bps",
+                "10.8%",
+                "+20bps",
+                "11.2%",
+                "+210bps"
+              ]
+            },
+            {
+              "label": "Depreciation & amortisation",
+              "indent": true,
+              "cells": [
+                "1.8",
+                "1.6",
+                "+11.8%",
+                "1.9",
+                "-2.9%",
+                "5.5",
+                "+146%"
+              ]
+            },
+            {
+              "label": "Interest income (segment)",
+              "indent": true,
+              "cells": [
+                "4.8",
+                "4.2",
+                "+12.8%",
+                "4.4",
+                "+6.9%",
+                "13.4",
+                "+10.7%"
+              ]
+            },
+            {
+              "label": "Segment profit before tax (IFRS; incl. FX & interest)",
+              "cells": [
+                "30.1",
+                "43.7",
+                "-31.2%",
+                "43.3",
+                "-30.5%",
+                "118.1",
+                "+7.1%"
+              ]
+            },
+            {
+              "label": "Segment adj. EBITDA (analyst-derived)",
+              "kind": "emphasis",
+              "cells": [
+                "~40.1",
+                "~39.2",
+                "+2.3%",
+                "~39.4",
+                "+1.8%",
+                "~117.0",
+                "+11.4%"
+              ],
+              "footnote": "Group adj. EBITDA less iGaming (PBT + D&A + interest expense). Estimate; company does not disclose."
+            },
+            {
+              "label": "Derived adj. EBITDA margin",
+              "indent": true,
+              "cells": [
+                "~52.2%",
+                "~49.3%",
+                "+290bps",
+                "~50.9%",
+                "+130bps",
+                "~50.6%",
+                "+270bps"
+              ]
+            },
+            {
+              "label": "KPIs",
+              "kind": "group"
+            },
+            {
+              "label": "Avg MAU (000)",
+              "indent": true,
+              "cells": [
+                "1,232",
+                "1,118",
+                "+10.2%",
+                "1,252",
+                "-1.6%",
+                "1,284",
+                "+9.5%"
+              ],
+              "footnote": "2025 comparatives exclude WHOW Games; 2026 includes it."
+            },
+            {
+              "label": "Avg DAU (000)",
+              "indent": true,
+              "cells": [
+                "575",
+                "555",
+                "+3.6%",
+                "597",
+                "-3.7%",
+                "601",
+                "+3.6%"
+              ]
+            },
+            {
+              "label": "DAU / MAU",
+              "indent": true,
+              "cells": [
+                "46.7%",
+                "49.6%",
+                "-290bps",
+                "47.7%",
+                "-100bps",
+                "46.8%",
+                "-260bps"
+              ]
+            },
+            {
+              "label": "ARPDAU",
+              "indent": true,
+              "cells": [
+                "$1.44",
+                "$1.39",
+                "+3.6%",
+                "$1.42",
+                "+1.4%",
+                "$1.40",
+                "+4.5%"
+              ]
+            },
+            {
+              "label": "Payer conversion",
+              "indent": true,
+              "cells": [
+                "9.5%",
+                "7.8%",
+                "+170bps",
+                "9.4%",
+                "+10bps",
+                "9.3%",
+                "+210bps"
+              ]
+            },
+            {
+              "label": "Avg monthly revenue per payer",
+              "indent": true,
+              "cells": [
+                "$216",
+                "$272",
+                "-20.6%",
+                "$218",
+                "-0.9%",
+                "$213",
+                "-23.4%"
+              ]
+            },
+            {
+              "label": "Implied monthly payers (000; MAU x conversion)",
+              "indent": true,
+              "cells": [
+                "~117",
+                "~87",
+                "+34%",
+                "~118",
+                "-0.6%",
+                "~119",
+                "+41%"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and geography",
+            "takeaway": "Segment revenue fell 3.5% YoY to $76.8m; US core declined 6.5% YoY to $57.0m, tracking the market rather than beating it.",
+            "points": [
+              "Revenue -3.5% YoY to $76.8m and -0.6% QoQ, attributed to lower revenue from legacy DoubleDown titles excluding WHOW Games.",
+              "First clean YoY comparison since WHOW (closed 14 July 2025; Q3-25 carried eleven of thirteen weeks of WHOW).",
+              "US -6.5% YoY to $57.0m, -2.5% QoQ (9M -5.2% to $173.0m); International +6.4% to $19.8m (9M +58% to $58.1m); Canada flat-to-down at $4.7m.",
+              "CEO cited Eilers & Krejcik's forecast of almost 7% contraction in the 2026 global social casino market; outperformance is a perimeter effect.",
+              "Segment is 81% of group revenue and, on our derivation, essentially all of group EBITDA."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "DTC channel shift",
+            "takeaway": "DTC revenue reached $44.6m, 58.0% of segment revenue, up from 20.9% in Q3-25, driving the bulk of the $5.7m fall in group cost of revenue.",
+            "points": [
+              "DTC mix: 20.9% in Q3-25, 44.2% in Q1-26, 52.4% in Q2-26, 58.0% now; third-party platform revenue fell 48.8% YoY to $32.2m.",
+              "Removal of roughly $30.8m of store-fee-bearing revenue at ~30% take rate explains most of the 20.5% fall in group cost of revenue to 23.5% of revenue.",
+              "Sigrist said DTC was below 5% at start of 2024, knows no one else approaching this level, gave no ceiling, conceded gains become harder.",
+              "Product-side incentives (messaging, promotion, storefront bonusing) still have traction given the 52% to 58% step in one quarter.",
+              "DTC storefront pricing is typically more generous, so part of the revenue decline is the cost of buying the mix shift; top-line decay slightly overstates attrition."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Customer economics",
+            "takeaway": "KPIs blend two different businesses: payer conversion rose to 9.5% from 7.8% while revenue per payer fell to $216 from $272; ARPDAU $1.44.",
+            "points": [
+              "Average MAU +10.2% YoY to 1.23m, DAU +3.6% to 575k, but comparisons include WHOW in 2026 and exclude it in 2025.",
+              "Sequentially MAU -1.6%, DAU -3.7%; DAU/MAU engagement 46.7% vs 47.7% in Q2 and 49.6% a year ago.",
+              "ARPDAU $1.44 from $1.39 ($1.42 in Q2) as higher conversion outweighed lower spend per payer.",
+              "Roughly 117k monthly payers, flat on Q2-26's ~118k; 117k x $216 x 3 reconciles within $1m of segment revenue, so KPIs are internally consistent.",
+              "Sigrist was candid the company has fewer players and the job is to monetise and retain them; an accurate description of a harvest strategy."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Marketing and profitability",
+            "takeaway": "Advertising rose 26% YoY to $8.5m yet derived segment adj. EBITDA is roughly $40.1m, a ~52% margin, up from ~49% a year ago.",
+            "points": [
+              "Advertising 11.0% of segment revenue vs 8.4% a year ago and 10.8% in Q2, consistent with migrating payers to web storefront.",
+              "Segment profit before tax fell 31% to $30.1m because the ~$8m net FX loss and parent interest income sit in this segment.",
+              "Derived adj. EBITDA ~$40.1m, ~52% margin vs ~49% a year ago and ~51% in Q2; D&A $1.8m, +12% YoY (9M +146%) on WHOW amortisation.",
+              "Product: weekly slot launches, new link-jackpot system, simplified mobile lobby under development because layered meta content made UX complex.",
+              "AI framed as three pillars (content velocity, behavioural models, UA automation); no measured ARPDAU lift given when Texas Capital asked."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Outlook",
+            "takeaway": "No segment guidance; the arithmetic turns against the segment in FY27 unless the decay rate improves or WHOW outgrows its German market.",
+            "points": [
+              "DTC lever has perhaps 5-10pp left at diminishing benefit, worth roughly $1m quarterly EBITDA per 5pp of mix on a ~$77m base.",
+              "A 6% annual decline on the $57m US base removes ~$3.4m quarterly revenue, or ~$1.7m EBITDA at 50% drop-through.",
+              "This is the fundamental backdrop against which the controlling shareholder has priced its tender."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "iGaming (SuprNation)",
+        "headline": "Revenue +7.4% to $17.4m and the first breakeven quarter on our derivation, achieved by cutting advertising 41% to offset the UK duty step-up; the next test is whether growth survives the lower UA budget.",
+        "narrative": [
+          "SuprNation, which operates four real-money iGaming sites in Western Europe, grew revenue 7.4% YoY to $17.4m and 2.6% QoQ, taking 9M revenue to $51.6m (+14.9%). Management credited the continued success of the newest brand, Los Vegas, which the CEO said was designed for broader appeal by blending traditional casino nostalgia with a modern user experience, in contrast to the richer-themed first three brands; he also pointed to real-time data analytics being used to optimise acquisition cost and retention. Asked by Macquarie whether Los Vegas is a funnel for incremental players or attracting higher spenders, the answer was framed around design and UA efficiency rather than cohort metrics; the segment discloses no actives, deposits, NGR margin or market shares, so the quality of the growth cannot be tested from the outside. The segment is 18.5% of group revenue, up from 16.9% a year ago.",
+          "The quarter was managed around the higher UK gambling tax rate (the Remote Gaming Duty increase announced in the UK's November 2025 Budget, effective April 2026, is not quantified in DDI's filings, and the UK is not explicitly disclosed as SuprNation's largest market, though the call treats it as the relevant regime). Management said a combination of product changes, marketing adjustment and expense control allowed the business to mitigate much of the tax impact. The mechanism is visible in the segment note: iGaming advertising fell 40.9% YoY to $3.9m, or 22.3% of segment revenue against 40.6% a year ago (19.9% in Q2-26; 9M 25.7% vs 38.6%), while the higher duty flowed through group cost of revenue. In a bonus-and-UA-driven European casino market, a cut of that depth typically shows up in first-time-depositor cohorts two to four quarters later, and the sequential uptick in spend (+15% QoQ) suggests they know it.",
+          "Profitability improved accordingly. Segment profit before tax narrowed to -$0.8m from -$2.6m (Q2-26: -$1.0m), and adding back $0.9m of D&A gives roughly +$0.1m, the first positive quarter on our derivation versus -$1.7m a year ago; the 9M figure is ~+$0.7m against -$3.2m in 9M-25. On a ~0.5% margin this is breakeven rather than a profit engine, and the segment carries no interest income or FX, so the derivation is relatively clean. Management's strategy is portfolio expansion to dilute regulatory and tax risk in any single market: a fifth and sixth brand are planned, with no timing or market given. No segment guidance was provided beyond that.",
+          "Our read is that SuprNation has reached the point where it no longer dilutes group margin, which matters for the DTC-led margin narrative, but it is a sub-scale operator (annualised ~$70m revenue) in a market where tax, affordability and advertising rules in the UK and Western Europe are moving against small brands. Growth of 7% on a 41% lower UA budget is a good quarter of yield management; it is not yet evidence of a durable second leg, and the real-money optionality that justified the 2023 acquisition remains unproven at the scale DDI needs to offset social casino decay."
+        ],
+        "table": {
+          "note": "iGaming (SuprNation), US$m",
+          "columns": [
+            "Q3-26",
+            "Q3-25",
+            "YoY",
+            "Q2-26",
+            "QoQ",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Segment revenue",
+              "kind": "emphasis",
+              "cells": [
+                "17.4",
+                "16.2",
+                "+7.4%",
+                "17.0",
+                "+2.6%",
+                "51.6",
+                "+14.9%"
+              ]
+            },
+            {
+              "label": "% of group revenue",
+              "indent": true,
+              "cells": [
+                "18.5%",
+                "16.9%",
+                "+160bps",
+                "18.0%",
+                "+50bps",
+                "18.3%",
+                "+130bps"
+              ]
+            },
+            {
+              "label": "Brands live (real-money sites)",
+              "indent": true,
+              "cells": [
+                "4",
+                "4",
+                "",
+                "4",
+                "",
+                "4",
+                ""
+              ]
+            },
+            {
+              "label": "Costs & profit",
+              "kind": "group"
+            },
+            {
+              "label": "Advertising expense (segment note)",
+              "indent": true,
+              "cells": [
+                "3.9",
+                "6.6",
+                "-40.9%",
+                "3.4",
+                "+15.1%",
+                "13.2",
+                "-23.6%"
+              ]
+            },
+            {
+              "label": "Advertising % segment revenue",
+              "indent": true,
+              "cells": [
+                "22.3%",
+                "40.6%",
+                "-1,830bps",
+                "19.9%",
+                "+240bps",
+                "25.7%",
+                "-1,290bps"
+              ]
+            },
+            {
+              "label": "Depreciation & amortisation",
+              "indent": true,
+              "cells": [
+                "0.9",
+                "0.9",
+                "+0.4%",
+                "0.9",
+                "+0.9%",
+                "2.7",
+                "+4.5%"
+              ]
+            },
+            {
+              "label": "Segment profit/(loss) before tax (IFRS)",
+              "cells": [
+                "(0.8)",
+                "(2.6)",
+                "n/m",
+                "(1.0)",
+                "n/m",
+                "(2.0)",
+                "n/m"
+              ]
+            },
+            {
+              "label": "Segment adj. EBITDA (analyst-derived: PBT + D&A + interest)",
+              "kind": "emphasis",
+              "cells": [
+                "~0.1",
+                "~(1.7)",
+                "n/m",
+                "~(0.1)",
+                "n/m",
+                "~0.7",
+                "n/m"
+              ],
+              "footnote": "Estimate; company discloses segment PBT and D&A only."
+            },
+            {
+              "label": "Derived adj. EBITDA margin",
+              "indent": true,
+              "cells": [
+                "~0.5%",
+                "~-10.6%",
+                "+1,110bps",
+                "~-0.5%",
+                "+100bps",
+                "~1.3%",
+                "+840bps"
+              ]
+            },
+            {
+              "label": "Operating KPIs (actives, deposits, NGR margin, market share)",
+              "cells": [
+                "n/a",
+                "n/a",
+                "",
+                "n/a",
+                "",
+                "n/a",
+                ""
+              ],
+              "footnote": "Not disclosed by the company."
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue growth",
+            "takeaway": "Revenue grew 7.4% YoY to $17.4m and 2.6% QoQ, credited to the newest brand Los Vegas; quality of growth cannot be tested externally.",
+            "points": [
+              "9M revenue $51.6m (+14.9%); segment is 18.5% of group revenue, up from 16.9% a year ago.",
+              "Los Vegas designed for broader appeal, blending casino nostalgia with modern UX, unlike the richer-themed first three brands; real-time analytics optimise acquisition and retention.",
+              "Macquarie's question on whether Los Vegas brings incremental players or higher spenders was answered on design and UA efficiency, not cohort metrics.",
+              "No actives, deposits, NGR margin or market shares disclosed."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "UK duty and marketing",
+            "takeaway": "Advertising was cut 40.9% YoY to $3.9m to mitigate the higher UK Remote Gaming Duty, a cut that typically hits depositor cohorts two to four quarters later.",
+            "points": [
+              "RGD increase announced in November 2025 Budget, effective April 2026, is not quantified in DDI's filings; UK not explicitly disclosed as largest market.",
+              "Management said product changes, marketing adjustment and expense control mitigated much of the tax impact; higher duty flowed through group cost of revenue.",
+              "Advertising 22.3% of segment revenue vs 40.6% a year ago (19.9% in Q2-26; 9M 25.7% vs 38.6%).",
+              "Sequential spend uptick of +15% QoQ suggests management knows the cohort risk."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Profitability",
+            "takeaway": "Segment PBT narrowed to -$0.8m from -$2.6m, implying roughly +$0.1m adj. EBITDA, the first positive quarter on our derivation.",
+            "points": [
+              "Q2-26 PBT was -$1.0m; adding back $0.9m D&A gives ~+$0.1m vs -$1.7m a year ago; 9M ~+$0.7m vs -$3.2m in 9M-25.",
+              "On a ~0.5% margin this is breakeven rather than a profit engine; no interest income or FX, so derivation is clean.",
+              "Strategy is portfolio expansion to dilute regulatory and tax risk; fifth and sixth brands planned with no timing or market given.",
+              "No segment guidance provided."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Our read",
+            "takeaway": "SuprNation no longer dilutes group margin, but remains sub-scale (~$70m annualised) in a market moving against small brands.",
+            "points": [
+              "Tax, affordability and advertising rules in the UK and Western Europe are moving against small brands.",
+              "7% growth on a 41% lower UA budget is good yield management, not yet evidence of a durable second leg.",
+              "Real-money optionality behind the 2023 acquisition remains unproven at the scale DDI needs to offset social casino decay."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "DTC mix hit a record 58.0% of social casino revenue (+5.6pp QoQ, +37pp YoY); third-party platform revenue -48.8% YoY to $32.2m, cost of revenue -560bps to 23.5% of revenue. Two years ago this was under 5%.",
+        "tag": "structural"
+      },
+      {
+        "text": "Adj. EBITDA +7.2% to $40.2m on revenue -1.6%; margin 42.7% (+360bps YoY, +110bps QoQ) and operating margin 39.8% (+330bps). 9M adj. EBITDA +15.6% to $117.7m.",
+        "tag": "structural"
+      },
+      {
+        "text": "Net cash $545.3m (~$11.00/ADS), +$24m QoQ and +$90m YTD; 9M derived FCF $93.0m = 79% of adj. EBITDA with negligible capex and zero M&A cash out in 2026.",
+        "tag": "structural"
+      },
+      {
+        "text": "iGaming reached breakeven (derived EBITDA ~+$0.1m vs -$1.7m) while still growing revenue 7.4% to $17.4m; UK duty increase 'largely' mitigated per management.",
+        "tag": "mixed"
+      },
+      {
+        "text": "International social casino +6.4% YoY to $19.8m (9M +58%) on WHOW Games, now 26% of segment revenue, diluting dependence on the US core (74%, from 83% in 9M-25).",
+        "tag": "mixed"
+      },
+      {
+        "text": "The special committee extracted a 44% bump from DUG's April $11.25 proposal to $16.25/ADS, with a non-waivable majority-of-the-minority condition and a Kroll/Duff & Phelps fairness opinion.",
+        "tag": "one-off"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "US social casino revenue (the legacy DoubleDown Casino proxy) -6.5% YoY to $57.0m and -2.5% QoQ (9M -5.2%), i.e. tracking the ~7% market decline management says it is outperforming; DAU/MAU engagement down to 46.7% from 49.6%.",
+        "tag": "structural"
+      },
+      {
+        "text": "Attributable profit -43.9% to $18.4m ($0.37/ADS vs ~$0.59 consensus): net finance result swung $14.3m YoY to -$8.2m on FX losses on USD-denominated assets at the KRW parent, and Q3 ETR spiked to 37.3% under the annual-rate method.",
+        "tag": "one-off"
+      },
+      {
+        "text": "OCF -29% YoY to $23.6m as cash taxes paid rose to $17.2m from $7.2m; the OCF/adj. EBITDA conversion fell to 59% in the quarter (80% for 9M).",
+        "tag": "one-off"
+      },
+      {
+        "text": "The tender values the ex-cash business at ~$260m EV, ~1.7x annualised adj. EBITDA and ~2.1x annualised FCF; management refused all questions on it, and the agreement constrains ordinary-course operations while the CEO still talks up M&A.",
+        "tag": "governance"
+      },
+      {
+        "text": "G&A +26.5% YoY to $16.5m (17.5% of revenue) is not itemised; R&D -27% to $3.1m (3.2% of revenue) sits awkwardly with a weekly-content narrative.",
+        "tag": "watch"
+      },
+      {
+        "text": "iGaming's breakeven was bought with a 41% cut in advertising (22% of segment revenue vs 41%); in a UA-driven European casino market that tends to show up in cohorts 2-4 quarters out. No actives, deposits or NGR-margin disclosure to monitor it.",
+        "tag": "watch"
+      },
+      {
+        "text": "Average monthly revenue per payer -20.6% YoY to $216 and implied payers flat QoQ at ~117k; the KPI set is now a blend of two very different businesses and the clean core trend is only visible in the geographic split.",
+        "tag": "mixed"
+      }
+    ],
+    "forecast": {
+      "intro": "DoubleDown does not issue numerical guidance and introduced none; there is therefore no company bridge to reconcile. The directional steers were (i) the global social casino market contracting ~7% in 2026 (Eilers & Krejcik, cited by the CEO), (ii) DTC gains becoming harder from ~58-60% with no stated ceiling, (iii) SuprNation adding a fifth and sixth brand to diversify away from UK tax exposure, and (iv) M&A remaining a 'strategic priority' subject to the constraints of the tender agreement. The bridge below is therefore our own estimate: the 9M actuals plus a Q4-26 built from a US core still declining ~6%, International roughly flat-to-up on WHOW, iGaming ~$17.5-18m, and a DTC mix around 60% holding cost of revenue near 23-24% of sales.",
+      "bridge": [
+        {
+          "title": "9M-26 adj. EBITDA (actual)",
+          "value": "$117.7m",
+          "change": "+15.6% YoY; 41.6% margin"
+        },
+        {
+          "title": "Q4-26E adj. EBITDA (our est.)",
+          "value": "~$40-41m",
+          "change": "on ~$94-96m revenue; 42-43% margin"
+        },
+        {
+          "title": "FY26E adj. EBITDA (our est.)",
+          "value": "~$158m",
+          "change": "~42% margin on ~$377m revenue"
+        },
+        {
+          "title": "YE-26 net cash (our est.)",
+          "value": "~$565-570m",
+          "change": "+$20-25m QoQ; ~$11.4/ADS"
+        }
+      ],
+      "view": "**Q4-26:** we model revenue of ~$94-96m (social casino ~$76-78m, with US down ~6% YoY offset by WHOW/International; iGaming ~$17.5-18m), adj. EBITDA ~$40-41m at a 42-43% margin as DTC edges toward 60%, and reported profit highly sensitive to KRW/USD given ~$580m of largely USD-denominated financial assets at a KRW-functional parent. **FY26E:** revenue ~$377m, adj. EBITDA ~$158m (~42%), 9M-annualised FCF ~$124m, year-end net cash ~$565-570m with gross debt limited to the $36.8m DUG loan (now due May 2028). **FY27 is the issue.** On our arithmetic each further +5pp of DTC mix adds only ~$1m of quarterly EBITDA, while a 6% decline on the $57m US base removes ~$1.7m of quarterly EBITDA at a 50% drop-through; the DTC tailwind therefore stops fully offsetting core decay next year, and adj. EBITDA moves from compounding to plateau-to-erosion (we would pencil FY27E adj. EBITDA flat-to-down low-single-digits, ~$150-158m) unless WHOW accelerates, SuprNation's brands five and six scale, or capital is deployed. **Leverage** is irrelevant (net cash ~3.5x annualised EBITDA); the capital question is entirely who owns the cash. **Swing factors:** the tender outcome (majority-of-the-minority), FX, the DTC ceiling, the pace of US decay, UK duty/affordability on SuprNation, and whether R&D at 3% of sales is enough to hold the DoubleDown Casino cohort.",
+      "watch": [
+        "Tender offer mechanics: expiry date/extensions, the non-waivable majority-of-the-minority tally (>50% of unaffiliated ADSs), whether DUG consents to drop the minimum from 95% to 90%, any competing/bumped price, and the Schedule 14D-9 valuation ranges from Kroll vs our ~1.7x EV/EBITDA.",
+        "DTC mix in Q4-26: whether it clears 60% and whether cost of revenue holds at 23-24% of revenue; watch for any Apple/Google policy or litigation changes on external payment links that could widen or close the channel.",
+        "US social casino revenue (the legacy-title proxy): a decline worse than ~-6% YoY, or DAU/MAU below ~46%, would signal cohort erosion beyond market rate; implied payers (MAU x conversion) below ~115k.",
+        "Below-the-line noise: FX on USD-denominated assets (finance income/cost), the Q4 effective tax rate normalising toward ~25%, and cash taxes paid vs the $25.0m 9M run-rate.",
+        "iGaming cohort health after the 41% UA cut: Q4/Q1 revenue growth and advertising % of segment revenue (22% in Q3); timing and markets for brands five and six; any UK affordability-check or advertising-rule tightening.",
+        "Cost discipline: G&A (17.5% of revenue, not itemised; deal/committee costs likely) and R&D (3.2% of revenue) trajectory into FY27, and WHOW intangible amortisation.",
+        "Capital deployment: whether the stated M&A pipeline (casual gaming, online gambling, mobile entertainment) is real or shelved under the tender agreement's ordinary-course constraints; the $36.8m DUG related-party loan."
+      ]
+    },
+    "sharePriceReaction": "Shares were little changed on the day (Investing.com described regular-session trading as \"little changed\"); the stock is pinned to the $16.25 tender price, with the Motley Fool quote page showing DDI at $15.70 (-0.1%), ~3.5% below the offer, in the days after the print. Exact 11/12 Nov closing levels could not be verified from a primary source. Roth/MKM downgraded on 12 Nov citing the likely tender.",
+    "confidence": "HIGH",
+    "confidenceNote": "FX: not applicable — DoubleDown reports in US$ (ADSs on Nasdaq; Korean-domiciled parent). All group P&L, balance sheet, cash flow, KPI and segment-revenue figures are taken directly from the 6-K/A exhibits (Ex-99.1 release, Ex-99.2 condensed interim statements incl. Notes 10 and 15) and cross-checked to the GlobeNewswire release and call transcript; segment revenue, advertising, D&A and PBT are from the 6-K segment note. Caveats: (1) segment adj. EBITDA is analyst-derived (company discloses segment PBT and D&A only) and labelled '~'; (2) Q2-26 US/International social casino revenue is derived as 9M less Q1 less Q3; (3) Q2-26 gross cash and the Q3-25 cash balance are approximations around the company's stated $521m Q2 net cash; (4) consensus (revenue ~$92.6m, EPS ~$0.59/ADS) is from a single secondary source (Investing.com); (5) the exact 11/12 Nov share-price close is [unverified]; (6) the UK Remote Gaming Duty increase is background context from the Nov-2025 UK Budget, not from DDI's filings; (7) the user-supplied Gaming Intelligence URL was not accessible and was not used; (8) FY25 full-year totals were not retrieved, so FY26E YoY growth is not stated.",
+    "sources": [
+      {
+        "label": "DoubleDown Interactive — Q3 2026 results press release, Form 6-K/A Exhibit 99.1 (SEC EDGAR, filed 12 Nov 2026) — PRIMARY",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001799567/000162828026073164/ddi-2026x11x11x6kaxexx991.htm"
+      },
+      {
+        "label": "DoubleDown Interactive — Q3 2026 results press release, Form 6-K Exhibit 99.1 (SEC EDGAR, filed 11 Nov 2026) — PRIMARY",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001799567/000162828026072885/ddi-2026x11x11x6kxexx991.htm"
+      },
+      {
+        "label": "DoubleDown Interactive — Condensed consolidated interim financial statements, 6-K Exhibit 99.2 (Notes 10 revenue disaggregation, 15 segment information, 16 subsequent events) — PRIMARY",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001799567/000162828026072885/ddi-20260930_d2.htm"
+      },
+      {
+        "label": "DoubleDown Interactive — Q2 2026 results press release, 6-K Exhibit 99.1 (11 Aug 2026) — PRIMARY (QoQ comparatives)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001799567/000162828026055705/ddi-2026x08x11x6kxexx991.htm"
+      },
+      {
+        "label": "DoubleDown Interactive — Q2 2026 interim financial statements, 6-K Exhibit 99.2 (segment note) — PRIMARY",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001799567/000162828026055705/ddi-20260630_d2.htm"
+      },
+      {
+        "label": "DoubleDown Interactive — Q1 2026 interim financial statements, 6-K Exhibit 99.2 (segment/geographic note) — PRIMARY",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001799567/000162828026034088/ddi-20260331_d2.htm"
+      },
+      {
+        "label": "DoubleU Games / DoubleDown — Tender Offer and Post-Offer Cooperation Agreement announcement, 6-K Exhibit 99.2 (9 Nov 2026) — PRIMARY",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001799567/000119312526453838/d112557dex992.htm"
+      },
+      {
+        "label": "DoubleDown — Schedule 14D-9 Exhibit (a)(5)(B): tender offer commencement release (10 Nov 2026) — PRIMARY",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001799567/000119312526455755/d153031dex99a5b.htm"
+      },
+      {
+        "label": "DoubleDown (DDI) Q3 2026 earnings call transcript — The Motley Fool (11 Nov 2026) — SECONDARY (transcript)",
+        "kind": "secondary",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/11/11/doubledown-ddi-q3-2026-earnings-call-transcript/"
+      },
+      {
+        "label": "GlobeNewswire — DoubleDown Q3 2026 results release (corroboration) — SECONDARY",
+        "kind": "secondary",
+        "url": "https://www.globenewswire.com/news-release/2026/11/11/3401144/0/en/doubledown-interactive-reports-third-quarter-2026-revenue-of-94-3-million-and-earnings-per-fully-diluted-common-share-of-7-41.html"
+      },
+      {
+        "label": "Investing.com — Earnings call transcript/summary with consensus figures (revenue ~$92.63m, EPS forecast ~$0.59) — SECONDARY",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-doubledown-interactive-tops-q3-2026-forecasts-93CH-5019955"
+      },
+      {
+        "label": "Investing.com — Roth/MKM downgrades DoubleDown on likely tender offer (12 Nov 2026) — SECONDARY",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/analyst-ratings/rothmkm-downgrades-doubledown-stock-on-likely-tender-offer-93CH-5020410"
+      },
+      {
+        "label": "Investing.com — DoubleU Games launches tender offer for DoubleDown at $16.25/ADS (9 Nov 2026) — SECONDARY",
+        "kind": "secondary",
+        "url": "https://ng.investing.com/news/stock-market-news/doubleu-games-launches-tender-offer-for-doubledown-at-1625ads-93CH-2793494"
+      },
+      {
+        "label": "Gaming Intelligence — 'DoubleDown Interactive posts Q3 revenue decline' (user-supplied; URL not accessible at time of research, not used)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/238576-doubledown-interactive-posts-q3-revenue-decline/"
+      }
+    ]
+  }
+}
