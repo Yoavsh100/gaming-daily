@@ -991,7 +991,8 @@
       "https://igamingbusiness.com/finance/banijays-nine-month-revenue-rises-acquisitions-debt-more-doubles/",
       "https://www.gamingintelligence.com/finance/238775-banijays-online-betting-and-gaming-revenue-nears-e2-billion-in-9m-2026/",
       "https://www.thegamblest.com/banijay-group-revenue-rises-33-9-as-net-profit-falls-45/",
-      "https://europeangaming.eu/portal/latest-news/2026/11/18/218178/banijay-9m-2026-results-betclic-tipico/"
+      "https://europeangaming.eu/portal/latest-news/2026/11/18/218178/banijay-9m-2026-results-betclic-tipico/",
+      "https://www.yogonet.com/international/news/2026/11/18/127345-banijay-group-revenue-rises-339-to-475-billion-in-9m-2026"
     ],
     "seen": "2026-11-17"
   },
@@ -1080,7 +1081,8 @@
     "authority": "National Lotteries and Gaming Regulatory Board (NLGRB)",
     "period": "FY 2026",
     "urls": [
-      "https://igamingafrika.com/ugandas-gaming-tax-rises-to-ugx-368bn-in-fy-2025-26/"
+      "https://igamingafrika.com/ugandas-gaming-tax-rises-to-ugx-368bn-in-fy-2025-26/",
+      "https://findmoreafrica.com/uganda-gambling-industry-gaming-tax-growth/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=uganda-gambling-industry-gaming-tax-growth"
     ],
     "seen": "2026-11-18"
   },
@@ -1166,6 +1168,32 @@
     "period": "OCTOBER 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238675-missouri-land-based-casino-revenue-tops-172-million-in-october/"
+    ],
+    "seen": "2026-11-19"
+  },
+  {
+    "key": "better collective a s|Q3 2026",
+    "type": "company",
+    "company": "Better Collective A/S",
+    "ticker": "BETCO",
+    "period": "Q3 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://www.thegamblest.com/better-collective-q3-revenue-rises-6-as-north-america-margin-reaches-39/",
+      "https://europeangaming.eu/portal/latest-news/2026/11/19/218259/better-collective-q3-2026-results/",
+      "https://igamingfuture.com/better-collective-q3-revenue-rises-as-ceo-structure-changes/"
+    ],
+    "seen": "2026-11-19"
+  },
+  {
+    "key": "juris|connecticut|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Connecticut",
+    "authority": null,
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/markets/north-america/238849-connecticut-igaming-wagers-top-2-billion-in-october/"
     ],
     "seen": "2026-11-19"
   }
