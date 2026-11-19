@@ -1182,7 +1182,8 @@
     "urls": [
       "https://www.thegamblest.com/better-collective-q3-revenue-rises-6-as-north-america-margin-reaches-39/",
       "https://europeangaming.eu/portal/latest-news/2026/11/19/218259/better-collective-q3-2026-results/",
-      "https://igamingfuture.com/better-collective-q3-revenue-rises-as-ceo-structure-changes/"
+      "https://igamingfuture.com/better-collective-q3-revenue-rises-as-ceo-structure-changes/",
+      "https://www.gamingintelligence.com/finance/238855-north-america-drives-better-collective-revenue-growth-in-q3-2026/"
     ],
     "seen": "2026-11-19"
   },
@@ -1193,7 +1194,33 @@
     "authority": null,
     "period": "OCTOBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/markets/north-america/238849-connecticut-igaming-wagers-top-2-billion-in-october/"
+      "https://www.gamingintelligence.com/markets/north-america/238849-connecticut-igaming-wagers-top-2-billion-in-october/",
+      "https://www.gamingintelligence.com/finance/238849-connecticut-igaming-wagers-top-2-billion-in-october/"
+    ],
+    "seen": "2026-11-19"
+  },
+  {
+    "key": "allwyn international|Q3 2026",
+    "type": "company",
+    "company": "Allwyn International",
+    "ticker": null,
+    "period": "Q3 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://igamingfuture.com/allwyn-q3-revenue-rises-19-as-igaming-grows-26/",
+      "https://next.io/news/results/q326-allwyn-cfo-margin-compression-misleading/"
+    ],
+    "seen": "2026-11-19"
+  },
+  {
+    "key": "juris|uganda|2026",
+    "type": "jurisdiction",
+    "market": "Uganda",
+    "authority": "NLGRB",
+    "period": "2026",
+    "urls": [
+      "https://findmoreafrica.com/uganda-gambling-industry-gaming-tax-growth/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=uganda-gambling-industry-gaming-tax-growth"
     ],
     "seen": "2026-11-19"
   }
