@@ -1,137 +1,5 @@
 [
   {
-    "key": "SRAD|Q3 2026",
-    "type": "company",
-    "company": "Sportradar Group AG",
-    "ticker": "SRAD",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamblinginsider.com/news/201610/sportradar-q3-2026-prediction-markets-growth",
-      "https://www.gamingintelligence.com/finance/238230-sportradar-delivers-strong-revenue-and-profit-growth-in-q3-2026/",
-      "https://next.io/news/results/q3-2026-betting-growth-drives-revenue-up-24-at-sportradar/",
-      "https://europeangaming.eu/portal/latest-news/2026/11/04/217372/sportradar-q3-2026-results-revenue-363m/",
-      "https://www.thegamblest.com/sportradar-revenue-jumps-to-24-in-q3-2026/",
-      "https://igamingbusiness.com/finance/sportradar-growth-in-q3-prediction-markets-gain-ground/"
-    ],
-    "seen": "2026-11-04"
-  },
-  {
-    "key": "kambi|Q3 2026",
-    "type": "company",
-    "company": "Kambi Group plc",
-    "ticker": "KAMBI",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238260-kambi-group-sees-profit-surge-in-q3/",
-      "https://next.io/news/results/q3-2026-kambi-delivers-revenue-rise-world-cup-boost/",
-      "https://igamingfuture.com/kambi-q3-2026/",
-      "https://focusgn.com/kambi-q3-results-revenue-ebita",
-      "https://www.thegamblest.com/kambi-revenue-rises-23-in-q3-as-adjusted-ebita-jumps-161/",
-      "https://next.io/news/technology/kambi-expects-18-million-additional-bets-ai-trading/"
-    ],
-    "seen": "2026-11-04"
-  },
-  {
-    "key": "lottomatica|Q3 2026",
-    "type": "company",
-    "company": "Lottomatica Group",
-    "ticker": "LTMC",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.thegamblest.com/lottomatica-q3-revenue-rises-5-since-cirsa-acquisition/",
-      "https://www.gamingintelligence.com/finance/238226-lottomatica-profits-as-revenue-grows-to-e1-72-billion-in-9m-2026/",
-      "https://europeangaming.eu/portal/latest-news/2026/11/03/217297/lottomatica-9m-2026-results/",
-      "https://igamingbusiness.com/finance/lottomatica-strengthens-italian-market-position-9m-earnings/",
-      "https://next.io/news/results/lottomatica-confirms-q227-closing-date-cirsa-deal/",
-      "https://focusgn.com/lottomatica-online-market-share-growth"
-    ],
-    "seen": "2026-11-04"
-  },
-  {
-    "key": "juris|tanzania|2025/26",
-    "type": "jurisdiction",
-    "market": "Tanzania",
-    "authority": "Gaming Board of Tanzania",
-    "period": "2025/26",
-    "urls": [
-      "https://findmoreafrica.com/tanzania-gambling-dg-reports-tzs-307-8-billion-generated-in-tax/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tanzania-gambling-dg-reports-tzs-307-8-billion-generated-in-tax"
-    ],
-    "seen": "2026-11-04"
-  },
-  {
-    "key": "SGHC|Q3 2026",
-    "type": "company",
-    "company": "Super Group (SGHC) Limited",
-    "ticker": "SGHC",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238258-online-casino-drives-super-groups-third-quarter-revenue-growth/",
-      "https://next.io/news/results/q326-super-group-downgrade-full-year-guidance/",
-      "https://igamingfuture.com/super-group-q3-2026/",
-      "https://www.yogonet.com/international/news/2026/11/04/127170-super-group-lowers-2026-revenue-outlook-as-africa-growth-offsets-sports-weakness",
-      "https://www.thegamblest.com/super-group-revenue-falls-11-in-q3-despite-year-on-year-growth/",
-      "https://europeangaming.eu/portal/latest-news/2026/11/05/217524/super-group-rules-out-prediction-markets-as-africa-leads-q3-growth/"
-    ],
-    "seen": "2026-11-04"
-  },
-  {
-    "key": "zeal network|9M 2026",
-    "type": "company",
-    "company": "ZEAL Network SE",
-    "ticker": "TIMA",
-    "period": "9M 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238274-zeal-network-lauds-diversification-as-9m-revenue-nears-e200-million/",
-      "https://igamingbusiness.com/finance/zeal-reports-22-revenue-growth-sevencanyon-acquisition/"
-    ],
-    "seen": "2026-11-04"
-  },
-  {
-    "key": "red rock resorts|Q3 2026",
-    "type": "company",
-    "company": "Red Rock Resorts",
-    "ticker": "RRR",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238267-red-rock-resorts-swings-to-loss-in-q3-after-employee-share-award/",
-      "https://www.yogonet.com/international/news/2026/11/04/127157-red-rock-raises-durango-expansion-budget-to-430m-as-las-vegas-revenue-hits-q3-record"
-    ],
-    "seen": "2026-11-04"
-  },
-  {
-    "key": "accel entertainment|Q3 2026",
-    "type": "company",
-    "company": "Accel Entertainment",
-    "ticker": "ACEL",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238262-accel-entertainment-grows-profit-as-q3-revenue-hits-364-million/"
-    ],
-    "seen": "2026-11-04"
-  },
-  {
-    "key": "juris|zimbabwe|JAN-SEP 2026",
-    "type": "jurisdiction",
-    "market": "Zimbabwe",
-    "authority": "Blask",
-    "period": "JAN-SEP 2026",
-    "urls": [
-      "https://igamingafrika.com/zimbabwe-betting-tax-demand-more-than-doubled/"
-    ],
-    "seen": "2026-11-04"
-  },
-  {
-    "key": "juris|arkansas|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Arkansas",
-    "authority": null,
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238160-arkansas-casinos-win-8-rise-in-revenue-for-september/"
-    ],
-    "seen": "2026-11-04"
-  },
-  {
     "key": "FLUT|Q3 2026",
     "type": "company",
     "company": "Flutter Entertainment plc",
@@ -1156,7 +1024,8 @@
     "authority": null,
     "period": "OCTOBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238710-maine-sports-betting-grows-2-in-october/"
+      "https://www.gamingintelligence.com/finance/238710-maine-sports-betting-grows-2-in-october/",
+      "https://www.gamingintelligence.com/finance/238662-maine-land-based-casinos-win-4-rise-in-october-gaming-revenue/"
     ],
     "seen": "2026-11-18"
   },
@@ -1225,5 +1094,79 @@
       "https://www.yogonet.com/international/news/2026/11/17/127302-macau-gaming-tax-revenue-falls-17-in-october-despite-yeartodate-growth"
     ],
     "seen": "2026-11-18"
+  },
+  {
+    "key": "banijay n v|9M 2026",
+    "type": "company",
+    "company": "Banijay Group N.V.",
+    "ticker": "BNJ",
+    "period": "9M 2026",
+    "sector": "other",
+    "africa": false,
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/11/18/127345-banijay-group-revenue-rises-339-to-475-billion-in-9m-2026",
+      "https://europeangaming.eu/portal/latest-news/2026/11/18/218178/banijay-9m-2026-results-betclic-tipico/",
+      "https://www.thegamblest.com/banijay-group-revenue-rises-33-9-as-net-profit-falls-45/"
+    ],
+    "seen": "2026-11-19"
+  },
+  {
+    "key": "century casinos|Q3 2026",
+    "type": "company",
+    "company": "Century Casinos, Inc.",
+    "ticker": "CNTY",
+    "period": "Q3 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/11/18/127355-century-casinos-reports-higher-q3-revenue-but-must-revise-financial-statements-dating-back-to-2024"
+    ],
+    "seen": "2026-11-19"
+  },
+  {
+    "key": "juris|france|2025",
+    "type": "jurisdiction",
+    "market": "France",
+    "authority": "ANJ",
+    "period": "2025",
+    "urls": [
+      "https://focusgn.com/france-online-gambling-player-growth",
+      "https://europeangaming.eu/portal/latest-news/2026/11/18/218172/france-online-players-2025-anj-young-adults/"
+    ],
+    "seen": "2026-11-19"
+  },
+  {
+    "key": "juris|pennsylvania|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Pennsylvania",
+    "authority": null,
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238831-pennsylvania-posts-record-gambling-revenue-in-october/"
+    ],
+    "seen": "2026-11-19"
+  },
+  {
+    "key": "juris|new jersey|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "New Jersey",
+    "authority": "New Jersey Division of Gaming Enforcement",
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/11/18/127358-new-jersey-igaming-revenue-hits-record-2874m-in-october-as-atlantic-city-casinos-grow",
+      "https://www.gamingintelligence.com/finance/238820-new-jersey-sets-igaming-revenue-record-in-october/"
+    ],
+    "seen": "2026-11-19"
+  },
+  {
+    "key": "juris|missouri|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Missouri",
+    "authority": null,
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238675-missouri-land-based-casino-revenue-tops-172-million-in-october/"
+    ],
+    "seen": "2026-11-19"
   }
 ]
