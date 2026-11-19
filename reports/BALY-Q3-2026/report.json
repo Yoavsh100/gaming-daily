@@ -1,0 +1,1604 @@
+{
+  "company": {
+    "name": "Bally's Corporation",
+    "ticker": "BALY",
+    "exchange": ""
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 2443625,
+    "output": 56648,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 66,
+    "cacheRead": 2303230,
+    "cacheWrite": 140329,
+    "turns": 1
+  },
+  "prepared": "19 Nov 2026",
+  "report": {
+    "releaseDate": "16 Nov 2026 (full results, 8-K/10-Q; preliminary revenue/EBITDAR released 9 Nov 2026)",
+    "currency": "USD (tables in $ millions unless stated; Bally's Intralot figures in EUR with ~USD at 1.10)",
+    "verdict": "Top line fine, balance sheet not. Q3-26 revenue of $807.6m (+21.7% YoY) was in line with consensus, but Segment Adj. EBITDAR of $179.6m (+2.2% YoY, margin -425bps to 22.2%) missed the Street by ~5%, the GAAP net loss widened to $117.0m (-$1.47/share), and the 10-Q disclosed a breached revolver minimum-liquidity covenant at 30 Sep (waived 1 Oct), a \"probable\" repeat breach at 31 Dec and an unresolved going-concern qualification. The 17 Nov $560m second-lien/GLPI commitment buys runway, not a fix: on our estimates annualised post-rent EBITDA (~$456m) does not cover annualised interest (~$505m), so the equity remains an option on refinancing and asset sales rather than on operations.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "$807.6m",
+        "delta": "+21.7% YoY / +1.9% QoQ; in line with ~$807.9m consensus",
+        "dir": "up"
+      },
+      {
+        "label": "Segment Adj. EBITDAR",
+        "value": "$179.6m",
+        "delta": "+2.2% YoY / -4.2% QoQ; margin 22.2% (-425bps YoY); ~5% below Street (Truist)",
+        "dir": "down"
+      },
+      {
+        "label": "Net loss (GAAP, consolidated)",
+        "value": "-$117.0m",
+        "delta": "vs -$106.2m Q3-25; attributable -$91.0m vs -$102.9m",
+        "dir": "down"
+      },
+      {
+        "label": "Diluted EPS (GAAP)",
+        "value": "-$1.47",
+        "delta": "vs -$1.70 Q3-25; consensus -$1.30 (MarketBeat) / -$1.48 (GuruFocus) — sources disagree",
+        "dir": "up"
+      },
+      {
+        "label": "Net debt (carrying) / cash",
+        "value": "$4.35bn / $497m",
+        "delta": "gross debt +$336m QoQ to $4.84bn; ~6.0x annualised 9M EBITDAR (est.)",
+        "dir": "down"
+      },
+      {
+        "label": "Operating cash flow (9M-26)",
+        "value": "-$399.6m",
+        "delta": "vs -$29.8m (successor 8 Feb–30 Sep 2025); FCF (calc.) -$555.8m",
+        "dir": "down"
+      }
+    ],
+    "summary": [
+      "**Revenue in line, EBITDAR light.** Q3-26 consolidated revenue $807.6m (+21.7% YoY, +1.9% QoQ) vs TipRanks consensus ~$807.9m. Sum-of-segments Adj. EBITDAR $179.6m (+2.2% YoY, -4.2% QoQ); Truist flagged a 2% miss vs its own estimate and ~5% vs Street, attributing the shortfall to Casinos & Resorts and Intralot B2B. Group EBITDAR margin 22.2%, -425bps YoY and -143bps QoQ.",
+      "**Growth is acquired, not organic.** Bally's Intralot B2B + B2C delivered $334.0m, 41% of group revenue; B2B alone added ~$71m YoY from the Intralot consolidation (Oct 2025) and B2C includes Turkey sports betting that was not in the Q3-25 base. Strip those plus Sam's Town Shreveport (closed Aug 2026) and underlying growth is low-double-digit at best [our estimate]; Casinos & Resorts grew 3.2% largely on landside moves and M&A.",
+      "**The UK duty is the margin story.** The RGD step-up (21%→40% from 1 Apr 2026) cost ~$39m of B2C Segment EBITDAR in Q3 (≈15pts of B2C revenue), in line with Q2. Management says ~55% was offset YoY through top-line growth, marketing efficiency and cost control — down from the 'close to 65%' claimed at Q2. B2C EBITDAR fell 10.9% to $77.0m (margin 29.9%, -1,130bps YoY) despite revenue +22.8%.",
+      "**GAAP loss widened on D&A and G&A.** Loss from operations -$69.9m vs +$1.0m: D&A jumped 70% to $133.4m (vs ~$95m/qtr H1 run-rate — not explained in the release [unverified cause]) and G&A +17.7% to $344.1m. Net interest expense +19.3% to $126.3m. Other non-operating income swung to +$85.4m (from -$42.6m) and flattered the pre-tax line; composition not disclosed in the release. Net loss $117.0m (attributable $91.0m; -$1.47/share vs -$1.70). 9M net loss $441.8m (-$6.55/share).",
+      "**Going concern is unresolved — and the covenant was actually breached.** The 10-Q discloses Bally's failed the Revolving Credit Facility minimum-liquidity requirement as of 30 Sep 2026; lenders granted a conditional waiver on 1 Oct, but management says another breach at 31 Dec is probable absent a further waiver/amendment. The RCF ($498.3m drawn) is reclassified as current (ASC 470-10-55); management concluded its plans 'do not alleviate substantial doubt' even after including the Bronx financing. No default exists under the term loan or senior notes, and Intralot's debt is ring-fenced.",
+      "**$560m lifeline, 17 Nov.** Commitment letter from affiliates of existing term-loan lenders for $500m net proceeds of new Second Lien Term Loans (for repayment of certain debt — we assume the RCF — and general corporate purposes), plus $60m additional GLPI capital for Chicago (total GLPI commitment $1.0bn; subject to regulatory approval). These are commitments, not closed deals; the company says it is 'confident' it can meet cash-flow requirements for the coming year. Terms (rate, OID, maturity) undisclosed.",
+      "**Cash burn and debt build.** 9M-26 net cash used in operating activities -$399.6m (working-capital outflow -$269.3m); capex + capitalised software $156.2m; NY licence fee $503.1m and $115m golf-course contingent payment, funded by $685m Lincoln sale-leaseback proceeds and net borrowing. Cash $497.3m (Dec-25: $798.4m). Gross carrying debt rose $336m QoQ to $4.84bn ($5.24bn face): RCF drawings +$195m to $498.3m and a new $207.8m 2026 Intralot British term loan.",
+      "**Leverage and coverage (our estimates).** Net debt (carrying) $4.35bn ≈ 6.0x annualised 9M Segment EBITDAR ($728m); ~9.2x on a lease-adjusted basis (debt + $2.38bn lease liabilities − cash). Annualised triple-net rent ~$272m (9M cash rent $204.0m, +59% YoY post-Lincoln) leaves post-rent EBITDA ~$456m against annualised net interest ~$505m — coverage <1.0x. Truist cites $7.2bn total debt vs a ~$0.5bn market cap.",
+      "**UK online is the one structural positive.** UK online revenue +12.2% in constant currency (Q2 +11.6%, Q1 +10.5%), with Bally's Intralot reporting record NGR for a third straight quarter and share gains as smaller operators cut marketing. Spain +18.9% cc to a record €13.3m (~$14.6m). CBRE's read (via NEXT.io): scale lets Bally's hold bonusing longer than sub-scale rivals as the market consolidates.",
+      "**Intralot B2B is under-earning.** Revenue $76.6m (-3.7% QoQ), Segment EBITDAR $12.2m (-44% QoQ; margin 15.9% vs 27.6% in Q2), including ~$11m of negative IFRS→US GAAP adjustments (Q2: ~$7m). At the Athens-listed level, legacy B2B 9M revenue -8.1% to €191m (~$210m) with US lottery -11% to €119.6m (~$132m) on post-jackpot normalisation and lower equipment sales; ex-BII adj. EBITDA -13.4% 9M. New contracts (OLG Ontario, Victoria EGM monitoring, Chile, Hellenic Lotteries) are in the investment phase.",
+      "**North America Interactive: growth, not yet profit.** Revenue $62.7m (+25.6% YoY, -5.2% QoQ), Segment EBITDAR -$3.2m (+$2.8m YoY) but a reversal from +$3.0m in Q2 as NFL-season promotional spend returned. Annualised run-rate ~$251m; Bally Bet live in 16 North American jurisdictions. No handle, hold, actives or ARPU disclosed.",
+      "**Casinos & Resorts is flat-lining.** Revenue $408.6m (+3.2%) on Baton Rouge (landside Dec-25), Marquette (landside Feb-26), Chicago temporary and Sam's Town Shreveport ($30m, ~750 slots/14 tables); Segment EBITDAR flat at $107.8m, margin 26.4% (-87bps YoY, -96bps QoQ). 9M EBITDAR $313.6m vs $314.5m pro forma 2025 — zero growth across a 21-property, 11-state portfolio (17,700 slots, 630 tables, 3,950 rooms).",
+      "**Development pipeline keeps slipping and keeps calling for capital.** Chicago permanent casino now 'spring 2027' (Q2: 'early 2027'; original: Sept 2026) after a 12-month temporary-licence extension; non-gaming construction paused in Aug after the City legalised VGTs (~12% of the project under review); $1.34bn minimum capital commitment reaffirmed. Bronx ($4.0bn, open by 2030): $560m WhiteHawk term loan closed 1 Oct ($400m funded, $160m delayed-draw) funds pre-construction only. Las Vegas ($1.19bn, adjacent to the A's stadium): little progress; GLPI's $200–250m is conditional and the A's are contingency-planning.",
+      "**The Star (Australia).** AUSTRAC penalty of A$260m (~US$178.5m) for historic AML failures; Star Sydney licence suspension extended to 30 Jun 2027. Management says Star returned to positive EBITDA in September, Sydney + Gold Coast revenue grew YoY for the first time since quarterly reporting began, and FY27 should be the first positive operating-cash-flow year (pre one-offs) in over two years.",
+      "**evoke slips to 2027.** Bally's Intralot's takeover of evoke (0.537 BYLOT shares per evoke share; ~£243.1m equity value [USD n/a]; ~£180m pre-tax cost and capex savings targeted by end of year two post-close) has both shareholder approvals and several competition clearances, but remaining gaming approvals and the Gibraltar court sanction are now expected by Q1-27. Bally's Intralot Q3: revenue €286.1m (~$315m), adj. EBITDA €88.9m (~$98m), +5% QoQ.",
+      "**Corporate cost take-out is real.** Corporate & Other Segment EBITDAR -$14.1m vs -$18.0m (Q3-25) and -$38.2m 9M vs -$53.2m pro forma — a ~$15m YTD saving, partly reallocation of shared-service costs into C&R (~$1.6m/qtr flagged at Q2).",
+      "**Reporting hygiene is deteriorating.** Third consecutive 12b-25 late 10-Q; the 9 Nov preliminary release contained only revenue and Segment EBITDAR, with the net loss, covenant breach and going-concern language only surfacing in the 16 Nov 10-Q. No earnings call was held; management commentary is confined to the release.",
+      "**Share reaction confirms it is a credit story.** -4% to $11.47 on 10 Nov (prelim), -11.7% to $9.55 on 17 Nov (full 10-Q; -23% on the week), +11.5% to $10.65 on 18 Nov on the $560m commitments. Truist cut its PT to $9 (Hold) on the EBITDA miss; TipRanks cites a $12 target elsewhere. 52-week range $8.44–19.45.",
+      "**Thesis read-through.** Operationally: one structural winner (UK iGaming), one break-even digital business (NAI), one ex-growth cash cow burdened by rent (C&R) and one under-earning lottery supplier (Intralot B2B). Financially: FCF-negative through at least 2027 given Chicago/Bronx capex, interest and rent, so the equity value hinges on the second-lien close, asset monetisation (management lists asset sales and an equity sale among options), and GLPI's continued willingness to fund."
+    ],
+    "groupTable": {
+      "note": "US $m (Q3 = three months to 30 Sep 2026; 9M YoY vs pro forma Bally's+Queen 2025 unless noted; S = Successor 8 Feb–30 Sep 2025, P = Predecessor 1 Jan–7 Feb 2025)",
+      "columns": [
+        "Q3-26",
+        "QoQ",
+        "YoY",
+        "9M-26",
+        "9M YoY"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by segment",
+          "kind": "group"
+        },
+        {
+          "label": "Casinos & Resorts",
+          "indent": true,
+          "cells": [
+            "408.6",
+            "+1.9%",
+            "+3.2%",
+            "1,189.3",
+            "+2.5%"
+          ]
+        },
+        {
+          "label": "Bally's Intralot B2B",
+          "indent": true,
+          "cells": [
+            "76.6",
+            "-3.7%",
+            "n.m.",
+            "230.0",
+            "n.m."
+          ],
+          "footnote": "Q3-25/9M-25 comparatives ($5.5m/$21.1m) are a royalty stream from a divested business; Intralot consolidated from Oct 2025"
+        },
+        {
+          "label": "Bally's Intralot B2C",
+          "indent": true,
+          "cells": [
+            "257.5",
+            "+5.7%",
+            "+22.8%",
+            "740.9",
+            "+25.2%"
+          ]
+        },
+        {
+          "label": "North America Interactive",
+          "indent": true,
+          "cells": [
+            "62.7",
+            "-5.2%",
+            "+25.6%",
+            "189.2",
+            "+23.7%"
+          ]
+        },
+        {
+          "label": "Corporate & Other",
+          "indent": true,
+          "cells": [
+            "2.3",
+            "+5.5%",
+            "-13.5%",
+            "6.1",
+            "+0.4%"
+          ]
+        },
+        {
+          "label": "Total revenue",
+          "kind": "emphasis",
+          "cells": [
+            "807.6",
+            "+1.9%",
+            "+21.7%",
+            "2,355.5",
+            "+21.9%"
+          ]
+        },
+        {
+          "label": "Revenue by type (GAAP)",
+          "kind": "group"
+        },
+        {
+          "label": "Gaming",
+          "indent": true,
+          "cells": [
+            "620.2",
+            "n/a",
+            "+13.9%",
+            "1,819.1",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Non-gaming",
+          "indent": true,
+          "cells": [
+            "187.3",
+            "n/a",
+            "+57.1%",
+            "536.4",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Online sportsbook / iGaming split",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Not disclosed by Bally's"
+        },
+        {
+          "label": "Segment Adjusted EBITDAR",
+          "kind": "group"
+        },
+        {
+          "label": "Casinos & Resorts",
+          "indent": true,
+          "cells": [
+            "107.8",
+            "-1.7%",
+            "-0.2%",
+            "313.6",
+            "-0.3%"
+          ]
+        },
+        {
+          "label": "Bally's Intralot B2B",
+          "indent": true,
+          "cells": [
+            "12.2",
+            "-44.4%",
+            "n.m.",
+            "49.2",
+            "n.m."
+          ]
+        },
+        {
+          "label": "Bally's Intralot B2C",
+          "indent": true,
+          "cells": [
+            "77.0",
+            "+18.9%",
+            "-10.9%",
+            "228.8",
+            "-0.5%"
+          ]
+        },
+        {
+          "label": "North America Interactive",
+          "indent": true,
+          "cells": [
+            "(3.2)",
+            "vs +3.0",
+            "vs (6.0)",
+            "(7.3)",
+            "vs (10.1)"
+          ]
+        },
+        {
+          "label": "Corporate & Other",
+          "indent": true,
+          "cells": [
+            "(14.1)",
+            "vs (11.8)",
+            "vs (18.0)",
+            "(38.2)",
+            "vs (53.2)"
+          ]
+        },
+        {
+          "label": "Total Segment Adj. EBITDAR (sum of segments)",
+          "kind": "emphasis",
+          "cells": [
+            "179.6",
+            "-4.2%",
+            "+2.2%",
+            "546.1",
+            "+8.7%"
+          ]
+        },
+        {
+          "label": "EBITDAR margin",
+          "indent": true,
+          "cells": [
+            "22.2%",
+            "-143bps",
+            "-425bps",
+            "23.2%",
+            "-281bps"
+          ]
+        },
+        {
+          "label": "GAAP P&L",
+          "kind": "group"
+        },
+        {
+          "label": "(Loss) income from operations",
+          "indent": true,
+          "cells": [
+            "(69.9)",
+            "n/a",
+            "vs +1.0",
+            "(12.3)",
+            "vs (3.3) S / (20.8) P"
+          ]
+        },
+        {
+          "label": "Depreciation & amortisation",
+          "indent": true,
+          "cells": [
+            "133.4",
+            "vs ~94.6 H1 avg",
+            "+70.2%",
+            "322.6",
+            "vs 197.6 S / 22.3 P"
+          ]
+        },
+        {
+          "label": "Interest expense, net",
+          "indent": true,
+          "cells": [
+            "(126.3)",
+            "n/a",
+            "+19.3%",
+            "(355.2)",
+            "vs (255.1) S / (27.2) P"
+          ]
+        },
+        {
+          "label": "Other non-operating income/(expense)",
+          "indent": true,
+          "cells": [
+            "85.4",
+            "n/a",
+            "vs (42.6)",
+            "(85.0)",
+            "vs +5.3 S / (2.4) P"
+          ]
+        },
+        {
+          "label": "Net loss (consolidated)",
+          "kind": "emphasis",
+          "cells": [
+            "(117.0)",
+            "vs (146.1)*",
+            "vs (106.2)",
+            "(441.8)",
+            "vs (300.1) S / (51.0) P"
+          ],
+          "footnote": "*Q2-26 net loss from CNN/aggregator data [secondary, unverified against the Q2 10-Q]"
+        },
+        {
+          "label": "Net loss attributable to Bally's",
+          "indent": true,
+          "cells": [
+            "(91.0)",
+            "n/a",
+            "vs (102.9)",
+            "(398.9)",
+            "vs (296.8) S / (51.0) P"
+          ]
+        },
+        {
+          "label": "Diluted EPS (GAAP)",
+          "indent": true,
+          "cells": [
+            "$(1.47)",
+            "vs $(2.41)*",
+            "vs $(1.70)",
+            "$(6.55)",
+            "vs $(4.90) S / $(1.05) P"
+          ]
+        },
+        {
+          "label": "Adjusted EPS",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Not reported by the company"
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group"
+        },
+        {
+          "label": "Average monthly players",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Not disclosed"
+        },
+        {
+          "label": "UK online revenue growth (constant currency)",
+          "indent": true,
+          "cells": [
+            "+12.2%",
+            "+11.6% in Q2",
+            "n/a",
+            "+11.4% (Intralot 9M)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "UK RGD gross hit to B2C EBITDAR",
+          "indent": true,
+          "cells": [
+            "~(39)",
+            "~(39) in Q2",
+            "n/a (pre-RGD)",
+            "~(75) [€68m]",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Cash flow (9M-26)",
+          "kind": "group"
+        },
+        {
+          "label": "Net cash used in operating activities",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "(399.6)",
+            "vs (29.8) S / (80.2) P"
+          ]
+        },
+        {
+          "label": "Capex + capitalised software",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "(156.2)",
+            "vs (156.2) S / (18.7) P"
+          ]
+        },
+        {
+          "label": "Free cash flow (OCF − capex − software; calc.)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "(555.8)",
+            "vs (186.1) S"
+          ]
+        },
+        {
+          "label": "Acquisition of gaming licences (NY)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "(503.1)",
+            "vs (2.0) S"
+          ]
+        },
+        {
+          "label": "Sale-leaseback proceeds (Lincoln)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "685.0",
+            "—"
+          ]
+        },
+        {
+          "label": "Triple-net lease cash payments",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "204.0",
+            "+59.2%"
+          ]
+        },
+        {
+          "label": "Balance sheet (30 Sep 2026)",
+          "kind": "group"
+        },
+        {
+          "label": "Cash & equivalents (excl. $101.5m restricted)",
+          "indent": true,
+          "cells": [
+            "497.3",
+            "vs ~488**",
+            "n/a",
+            "497.3",
+            "vs 798.4 at Dec-25"
+          ],
+          "footnote": "**Q2-26 cash per public.com [secondary]"
+        },
+        {
+          "label": "Total debt, carrying (incl. current)",
+          "indent": true,
+          "cells": [
+            "4,843.0",
+            "+336.3",
+            "n/a",
+            "4,843.0",
+            "vs 4,500.7 at Dec-25"
+          ]
+        },
+        {
+          "label": "Total debt, face (pre-OID/FV adj.)",
+          "indent": true,
+          "cells": [
+            "5,237.2",
+            "n/a",
+            "n/a",
+            "5,237.2",
+            "n/a"
+          ]
+        },
+        {
+          "label": "of which RCF drawn (now current)",
+          "indent": true,
+          "cells": [
+            "498.3",
+            "vs 303.8",
+            "n/a",
+            "498.3",
+            "vs nil at Dec-25"
+          ]
+        },
+        {
+          "label": "Lease liabilities",
+          "indent": true,
+          "cells": [
+            "2,375.3",
+            "n/a",
+            "n/a",
+            "2,375.3",
+            "vs 1,933.8 at Dec-25"
+          ]
+        },
+        {
+          "label": "Net debt, carrying",
+          "kind": "emphasis",
+          "cells": [
+            "4,345.7",
+            "~+327 (est.)",
+            "n/a",
+            "4,345.7",
+            "vs 3,702.2 at Dec-25"
+          ]
+        },
+        {
+          "label": "Net debt / annualised 9M EBITDAR (est.)",
+          "indent": true,
+          "cells": [
+            "~6.0x",
+            "n/a",
+            "n/a",
+            "~6.0x",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Lease-adj. (debt + leases − cash) / EBITDAR (est.)",
+          "indent": true,
+          "cells": [
+            "~9.2x",
+            "n/a",
+            "n/a",
+            "~9.2x",
+            "n/a"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Casinos & Resorts (21 US casinos, 11 states + Newcastle UK)",
+        "headline": "Revenue +3.2% on landside moves and Sam's Town; EBITDAR flat at $107.8m with margin -87bps — the portfolio is ex-growth once rent is deducted.",
+        "narrative": [
+          "Casinos & Resorts revenue rose 3.2% to $408.6m (+1.9% QoQ), with management attributing the growth to Bally's Baton Rouge (landside since December 2025), Marquette (landside since February 2026), continued growth at the Chicago temporary casino at Medinah Temple (now three years old) and the inclusion of Sam's Town Shreveport, acquired from Boyd for $30m and closed on 1–3 August, adding roughly 750 slots and 14 tables next door to the existing Bally's Shreveport. Segment Adjusted EBITDAR was 'relatively flat' at $107.8m (-0.2% YoY, -1.7% QoQ), which puts the margin at 26.4%, 87bps below Q3-25 and 96bps below Q2-26. On nine months the picture is no better: revenue $1,189.3m (+2.5% vs pro forma 2025 including Queen) and EBITDAR $313.6m against $314.5m pro forma, i.e. no profit growth from the enlarged estate.",
+          "They did not update the operating KPIs this quarter — no same-store revenue, rated visitation (Q2 was +4.3%), slot handle or table drop — and there is no property-level disclosure, so the drivers of the margin slippage are inferred rather than reported. At Q2 management had flagged elevated competition in Atlantic City and East St. Louis and a ~$1.6m/quarter reallocation of shared-service costs from Corporate into the segment; both presumably persisted. Truist singled out Casinos & Resorts (alongside B2B) as the source of the ~5% consensus EBITDAR miss, which is consistent with a regional-gaming peer set that is at best flat and a Chicago temporary facility that will cannibalise itself once the permanent property opens.",
+          "The number that matters for the equity is EBITDAR after rent. Group cash payments on triple-net leases were $204.0m for the nine months (+59% YoY after the February Lincoln sale-leaseback to GLPI for $700m, the Chicago master lease at $20m initial rent plus 8.5% on GLPI's development advances, and the Queen leases). Nearly all of that rent sits against this segment, so on our arithmetic C&R generated only ~$110m of post-rent EBITDA in nine months (~$40m a quarter) [estimate] — before maintenance capex. Every incremental GLPI advance to Chicago (now up to $1.0bn after the 17 Nov $60m top-up) adds rent at 8.5%, so the segment's post-rent earnings will be compressed further until the permanent casino ramps.",
+          "On the pipeline, the Chicago permanent casino (minimum $1.34bn capital commitment, which management says it will 'meet and likely exceed') is now guided to open in spring 2027, versus 'early 2027' at Q2 and the original September 2026; Illinois granted a 12-month extension to the temporary licence. Non-gaming construction was paused in August after the City Council legalised video gaming terminals, with around 12% of the project under re-evaluation, although the casino, event centre, required F&B and 100 hotel rooms are said to be on schedule. The 17 Nov amendment to the GLPI development agreement authorises additional developments phased through 2027. Las Vegas (the $1.19bn Tropicana site beside the A's stadium) remains in 'advanced negotiations with potential partners' for retail, entertainment and dining; GLPI has said its $200–250m is conditional on commercial items being settled with the A's, who are now contingency-planning. No segment guidance was given.",
+          "Our read: this is a stable but structurally low-growth regional portfolio whose reported EBITDAR flatters the economics because the real estate has been progressively sold. The segment cannot self-fund Chicago, Las Vegas and the Bronx; it is a rent-paying operator whose landlord (GLPI) is now also its largest development financier, which aligns GLPI's interests with completion but not necessarily with Bally's equity."
+        ],
+        "table": {
+          "note": "Casinos & Resorts, US $m",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY (PF)"
+          ],
+          "rows": [
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "408.6",
+                "+1.9%",
+                "+3.2%",
+                "1,189.3",
+                "+2.5%"
+              ]
+            },
+            {
+              "label": "Segment Adj. EBITDAR",
+              "kind": "emphasis",
+              "cells": [
+                "107.8",
+                "-1.7%",
+                "-0.2%",
+                "313.6",
+                "-0.3%"
+              ]
+            },
+            {
+              "label": "EBITDAR margin",
+              "indent": true,
+              "cells": [
+                "26.4%",
+                "-96bps",
+                "-87bps",
+                "26.4%",
+                "-73bps"
+              ]
+            },
+            {
+              "label": "Triple-net lease cash payments (group, mostly C&R)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "204.0",
+                "+59.2%"
+              ]
+            },
+            {
+              "label": "EBITDAR less cash rent (est.)",
+              "indent": true,
+              "cells": [
+                "~40",
+                "n/a",
+                "n/a",
+                "~110",
+                "n/a"
+              ],
+              "footnote": "Analyst estimate: 9M EBITDAR less 9M group triple-net cash rent"
+            },
+            {
+              "label": "Rated visitation growth",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "+4.3% in Q2",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Same-store revenue growth",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Not disclosed"
+            },
+            {
+              "label": "Sam's Town Shreveport (acquired Aug-26)",
+              "indent": true,
+              "cells": [
+                "$30m price; ~750 slots / 14 tables",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Portfolio: casinos / slots / tables / rooms",
+              "indent": true,
+              "cells": [
+                "21 (+1 UK) / ~17,700 / ~630 / ~3,950",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Chicago permanent opening",
+              "indent": true,
+              "cells": [
+                "Spring 2027",
+                "was 'early 2027' at Q2",
+                "orig. Sep-26",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "GLPI Chicago commitment",
+              "indent": true,
+              "cells": [
+                "$1.0bn (post 17 Nov +$60m)",
+                "$940m at Q2",
+                "—",
+                "—",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and EBITDAR",
+            "takeaway": "Revenue rose 3.2% to $408.6m but EBITDAR was flat at $107.8m with margin 26.4%, -87bps YoY; the portfolio is ex-growth once rent is deducted.",
+            "points": [
+              "Revenue +3.2% to $408.6m (+1.9% QoQ), driven by Baton Rouge (landside since December 2025), Marquette (landside since February 2026), Chicago temporary casino and Sam's Town Shreveport.",
+              "Sam's Town Shreveport acquired from Boyd for $30m, closed 1–3 August, adding roughly 750 slots and 14 tables next to Bally's Shreveport.",
+              "Segment Adjusted EBITDAR 'relatively flat' at $107.8m (-0.2% YoY, -1.7% QoQ); margin 26.4%, 87bps below Q3-25 and 96bps below Q2-26.",
+              "Nine months: revenue $1,189.3m (+2.5% vs pro forma 2025 including Queen); EBITDAR $313.6m vs $314.5m pro forma, no profit growth from the enlarged estate."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "KPIs and margin drivers",
+            "takeaway": "No operating KPIs or property-level disclosure were updated, so margin slippage drivers are inferred; Truist flagged C&R as a source of the ~5% consensus EBITDAR miss.",
+            "points": [
+              "No same-store revenue, rated visitation (Q2 was +4.3%), slot handle or table drop disclosed this quarter.",
+              "At Q2 management flagged elevated competition in Atlantic City and East St. Louis and a ~$1.6m/quarter shared-service cost reallocation from Corporate; both presumably persisted.",
+              "Truist singled out Casinos & Resorts (alongside B2B) for the ~5% consensus EBITDAR miss, consistent with a flat regional-gaming peer set.",
+              "The Chicago temporary facility will cannibalise itself once the permanent property opens."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Rent burden",
+            "takeaway": "Group triple-net lease cash payments were $204.0m for nine months (+59% YoY); C&R post-rent EBITDA was only ~$110m for nine months on our estimate.",
+            "points": [
+              "Rent rose after the February Lincoln sale-leaseback to GLPI for $700m, the Chicago master lease at $20m initial rent plus 8.5% on GLPI development advances, and the Queen leases.",
+              "Nearly all rent sits against this segment: ~$110m post-rent EBITDA in nine months (~$40m a quarter) [estimate], before maintenance capex.",
+              "GLPI advances to Chicago now up to $1.0bn after the 17 Nov $60m top-up; each adds rent at 8.5%, compressing post-rent earnings until the permanent casino ramps."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Chicago and Las Vegas pipeline",
+            "takeaway": "Chicago permanent casino (minimum $1.34bn commitment) now guided to open spring 2027, versus 'early 2027' at Q2 and the original September 2026.",
+            "points": [
+              "Management says it will 'meet and likely exceed' the $1.34bn commitment; Illinois granted a 12-month extension to the temporary licence.",
+              "Non-gaming construction paused in August after the City Council legalised video gaming terminals; around 12% of the project under re-evaluation, though casino, event centre, required F&B and 100 hotel rooms are on schedule.",
+              "The 17 Nov amendment to the GLPI development agreement authorises additional developments phased through 2027.",
+              "Las Vegas ($1.19bn Tropicana site beside the A's stadium) remains in 'advanced negotiations with potential partners'; GLPI's $200–250m is conditional on commercial items settled with the A's, who are contingency-planning.",
+              "No segment guidance was given."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Our read",
+            "takeaway": "A stable but structurally low-growth regional portfolio whose reported EBITDAR flatters the economics because the real estate has been progressively sold.",
+            "points": [
+              "The segment cannot self-fund Chicago, Las Vegas and the Bronx.",
+              "It is a rent-paying operator whose landlord GLPI is also its largest development financier, aligning GLPI with completion but not necessarily with Bally's equity."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Bally's Intralot B2C (International Interactive: UK, Spain, Turkey)",
+        "headline": "UK online +12.2% cc and record NGR, but the 40% RGD took ~$39m: EBITDAR -10.9% to $77.0m (margin 29.9%, -1,130bps) and the offset ratio slipped to 55% from ~65%.",
+        "narrative": [
+          "Bally's Intralot B2C revenue grew 22.8% to $257.5m (+5.7% QoQ), driven by what management calls 'continued strength in our U.K. operations' and the inclusion of Intralot's legacy B2C sports-betting business in Turkey from Q4-25. UK online revenue rose 12.2% year-over-year in constant currency, accelerating from 11.6% in Q2 and 10.5% in Q1, and — management stresses — 'despite lower marketing investment'. Bally's Intralot's own release describes UK NGR at an all-time high for a third sequential quarter, with the nine-month UK revenue up 11.4%. Spain delivered 18.9% constant-currency growth to a record €13.3m (~$14.6m) on a larger active player base. The UK is roughly 64% of Bally's International Interactive (BII) revenue, so this is overwhelmingly a Gamesys story — Jackpotjoy, Virgin Games, Monopoly Casino — i.e. iGaming and bingo rather than sportsbook; no handle, net margin or promo-to-handle metrics apply and none are disclosed.",
+          "Profitability went the other way. Segment Adjusted EBITDAR fell 10.9% to $77.0m, taking the margin to 29.9% from 41.2% a year ago (-1,130bps), although it recovered 331bps sequentially from the 26.6% trough in Q2, the first quarter under the new duty. The RGD increase from 21% to 40% (effective 1 April 2026) had a gross negative impact of approximately $39m on segment EBITDAR, in line with Q2 and equal to ~15 percentage points of segment revenue; at the Intralot level the figure is €34m (~$37m) for the quarter and ~€68m (~$75m) for the nine months. Management says approximately 55% of the hit was offset year-over-year through top-line growth, marketing efficiency and disciplined cost management, and that it remains 'on track against the margin commitments previously disclosed to investors'. We note the offset ratio at Q2 was 'close to 65%' with marketing cuts 'still to begin as planned into the second half'; the fact that the ratio fell to 55% once those cuts started suggests either that the comparison base shifted or that part of the Q2 offset was timing. The nine-month segment EBITDAR of $228.8m is 0.5% below the $230.1m of 9M-25 despite revenue +25%, which is the cleanest measure of what the duty has cost. The figure also carries ~$2m of negative IFRS-to-US GAAP lease adjustments (Q2: ~$5m).",
+          "At the Athens-listed level, BII revenue was €201.6m (~$222m) in Q3, +4% QoQ, and €579.2m (~$637m) for nine months; legacy Intralot B2C (Turkey) grew 7.1% to €60.1m (~$66m) over nine months. Bally's Intralot group revenue was €286.1m (~$315m), +249% YoY on consolidation and +3.6% QoQ, with adjusted EBITDA €88.9m (~$98m) versus €84.6m in Q2 and €29.9m a year ago; nine-month adjusted EBITDA €273.6m (~$301m). Reconciling to Bally's US GAAP presentation, B2C + B2B Segment EBITDAR of $89.2m plus ~$13m of IFRS-to-GAAP adjustments is broadly consistent with the Intralot figure at Q3 average rates [our reconciliation].",
+          "Strategically, management is leaning on consolidation. At Q2 they conceded UK consolidation had 'not moved quite as quickly as we originally expected' but framed it as opportunity, with smaller operators expected to come under pressure post-World Cup and into the autumn tax season; CBRE's Colin Mansfield told NEXT.io that Bally's 'went into the tax increases from a position of strength' and is gaining share as sub-scale players retreat. The evoke acquisition (0.537 new Bally's Intralot shares per evoke share, ~£243.1m equity value, ~£180m of targeted pre-tax cost and capex savings by the end of year two) has both sets of shareholder approvals and several competition clearances, but remaining gaming-regulatory approvals and the Gibraltar court sanction have pushed completion to Q1-27, which also pushes the synergy timetable back. Evoke has flagged 'material uncertainties' about its own going concern pending the deal, and Reeves has ruled out an immediate break-up. No numeric segment guidance was given; the implicit commitment is to hold the margin trajectory while absorbing a full year of 40% duty from Q2-27.",
+          "Our read: the UK organic growth is genuine and better than peers, and lower marketing with accelerating revenue is a strong cohort signal. But the segment is now earning ~30% margins on a structurally higher tax base, the duty hit is permanent, and absorbing evoke (a lower-margin, sportsbook-heavy, William Hill retail estate) will dilute the segment's quality before synergies arrive in 2028–29."
+        ],
+        "table": {
+          "note": "Bally's Intralot B2C, US $m (Intralot IFRS figures in EUR, ~USD at 1.10)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "257.5",
+                "+5.7%",
+                "+22.8%",
+                "740.9",
+                "+25.2%"
+              ]
+            },
+            {
+              "label": "Segment Adj. EBITDAR",
+              "kind": "emphasis",
+              "cells": [
+                "77.0",
+                "+18.9%",
+                "-10.9%",
+                "228.8",
+                "-0.5%"
+              ]
+            },
+            {
+              "label": "EBITDAR margin",
+              "indent": true,
+              "cells": [
+                "29.9%",
+                "+331bps",
+                "-1,130bps",
+                "30.9%",
+                "-799bps"
+              ]
+            },
+            {
+              "label": "Negative IFRS→US GAAP adj. included",
+              "indent": true,
+              "cells": [
+                "~(2)",
+                "~(5) in Q2",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "UK online revenue growth (cc)",
+              "indent": true,
+              "cells": [
+                "+12.2%",
+                "+11.6% in Q2",
+                "n/a",
+                "+11.4% (Intralot)",
+                "n/a"
+              ]
+            },
+            {
+              "label": "UK NGR",
+              "indent": true,
+              "cells": [
+                "Record; 3rd sequential qtr of growth",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Spain revenue (cc growth)",
+              "indent": true,
+              "cells": [
+                "€13.3m (~$14.6m); +18.9%",
+                "+15.1% in Q2",
+                "+18.9%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "UK RGD gross EBITDAR impact",
+              "indent": true,
+              "cells": [
+                "~$(39)m / €(34)m",
+                "~$(39)m in Q2",
+                "n/a (pre-RGD)",
+                "~€(68)m (~$75m)",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Share of RGD impact offset (YoY)",
+              "indent": true,
+              "cells": [
+                "~55%",
+                "~65% in Q2",
+                "n/a",
+                "'almost half' (Intralot)",
+                "n/a"
+              ]
+            },
+            {
+              "label": "BII revenue (Intralot IFRS)",
+              "indent": true,
+              "cells": [
+                "€201.6m (~$222m)",
+                "+4.0%",
+                "n/a",
+                "€579.2m (~$637m)",
+                "n/a"
+              ]
+            },
+            {
+              "label": "UK share of BII revenue",
+              "indent": true,
+              "cells": [
+                "~64%",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Legacy Intralot B2C (Turkey) revenue",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "€60.1m (~$66m)",
+                "+7.1%"
+              ]
+            },
+            {
+              "label": "Monthly actives / ARPU / marketing % revenue",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Not disclosed; management states marketing was lower YoY"
+            },
+            {
+              "label": "evoke completion",
+              "indent": true,
+              "cells": [
+                "Q1-27",
+                "was 2026",
+                "—",
+                "—",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue growth",
+            "takeaway": "Revenue grew 22.8% to $257.5m with UK online +12.2% constant currency and record NGR; Spain +18.9% cc to a record €13.3m.",
+            "points": [
+              "Revenue +22.8% to $257.5m (+5.7% QoQ), driven by 'continued strength in our U.K. operations' and inclusion of Intralot's legacy Turkey B2C sports-betting business from Q4-25.",
+              "UK online +12.2% YoY cc, accelerating from 11.6% in Q2 and 10.5% in Q1, 'despite lower marketing investment'; UK NGR at an all-time high for a third sequential quarter; nine-month UK revenue +11.4%.",
+              "Spain delivered 18.9% cc growth to a record €13.3m (~$14.6m) on a larger active player base.",
+              "UK is roughly 64% of BII revenue, so this is a Gamesys iGaming and bingo story (Jackpotjoy, Virgin Games, Monopoly Casino); no handle or margin metrics apply or are disclosed."
+            ],
+            "quote": {
+              "text": "continued strength in our U.K. operations",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "RGD impact on profitability",
+            "takeaway": "EBITDAR fell 10.9% to $77.0m, margin 29.9% (-1,130bps), as the 40% RGD took ~$39m; the offset ratio slipped to 55% from ~65%.",
+            "points": [
+              "Margin 29.9% vs 41.2% a year ago, but up 331bps sequentially from the 26.6% Q2 trough, the first quarter under the new duty.",
+              "RGD rise from 21% to 40% (effective 1 April 2026) cost approximately $39m, ~15 percentage points of segment revenue; at Intralot level €34m (~$37m) for the quarter and ~€68m (~$75m) for nine months.",
+              "Management says approximately 55% was offset through top-line growth, marketing efficiency and cost management; at Q2 the ratio was 'close to 65%' with marketing cuts yet to begin, suggesting a shifted base or timing in Q2 offset.",
+              "Nine-month EBITDAR $228.8m is 0.5% below $230.1m of 9M-25 despite revenue +25%, the cleanest measure of the duty's cost; includes ~$2m negative IFRS-to-US GAAP lease adjustments (Q2: ~$5m)."
+            ],
+            "quote": {
+              "text": "on track against the margin commitments previously disclosed to investors",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Athens-listed figures",
+            "takeaway": "BII revenue was €201.6m (~$222m) in Q3, +4% QoQ; Bally's Intralot group adjusted EBITDA €88.9m (~$98m) versus €84.6m in Q2.",
+            "points": [
+              "BII nine-month revenue €579.2m (~$637m); legacy Intralot B2C (Turkey) +7.1% to €60.1m (~$66m) over nine months.",
+              "Group revenue €286.1m (~$315m), +249% YoY on consolidation and +3.6% QoQ; adjusted EBITDA €88.9m vs €29.9m a year ago; nine-month adjusted EBITDA €273.6m (~$301m).",
+              "B2C + B2B Segment EBITDAR of $89.2m plus ~$13m IFRS-to-GAAP adjustments broadly reconciles to the Intralot figure at Q3 average rates [our reconciliation]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Consolidation and evoke",
+            "takeaway": "Management is leaning on UK consolidation; the evoke acquisition completion has slipped to Q1-27, pushing back the ~£180m synergy timetable.",
+            "points": [
+              "At Q2 management conceded UK consolidation had 'not moved quite as quickly as we originally expected' but expects smaller operators under pressure post-World Cup and into the autumn tax season.",
+              "CBRE's Colin Mansfield told NEXT.io that Bally's 'went into the tax increases from a position of strength' and is gaining share as sub-scale players retreat.",
+              "evoke deal: 0.537 new Bally's Intralot shares per evoke share, ~£243.1m equity value, ~£180m targeted pre-tax cost and capex savings by end of year two; shareholder approvals and several competition clearances obtained.",
+              "Remaining gaming-regulatory approvals and Gibraltar court sanction pushed completion to Q1-27; evoke flagged 'material uncertainties' about going concern; Reeves ruled out an immediate break-up.",
+              "No numeric segment guidance; implicit commitment is to hold margin trajectory while absorbing a full year of 40% duty from Q2-27."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Our read",
+            "takeaway": "UK organic growth is genuine and better than peers, but the duty hit is permanent and absorbing evoke will dilute segment quality before synergies arrive in 2028–29.",
+            "points": [
+              "Lower marketing with accelerating revenue is a strong cohort signal.",
+              "The segment now earns ~30% margins on a structurally higher tax base.",
+              "evoke is a lower-margin, sportsbook-heavy, William Hill retail estate."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Bally's Intralot B2B (lottery technology / B2G, 39 jurisdictions)",
+        "headline": "Revenue $76.6m (-3.7% QoQ) but EBITDAR nearly halved QoQ to $12.2m (margin 15.9%) on US lottery softness, contract investment and $11m of GAAP adjustments.",
+        "narrative": [
+          "The B2B segment comprises Intralot's legacy lottery technology and B2G operations consolidated from the fourth quarter of 2025; the prior-year $5.5m of 'revenue' and EBITDAR was merely a royalty cash-flow stream from a divested business, so year-over-year comparisons are not meaningful. Revenue of $76.6m fell 3.7% sequentially from $79.5m, and Segment Adjusted EBITDAR dropped to $12.2m from $21.9m in Q2 (-44%), taking the margin from 27.6% to 15.9%. Management discloses that the US GAAP figure includes approximately $11m of negative IFRS-to-US GAAP adjustments, chiefly software development cost capitalisation and leases, up from ~$7m in Q2 — so even on an IFRS-like basis EBITDAR fell from ~$29m to ~$23m [our arithmetic]. Nine-month segment revenue was $230.0m and EBITDAR $49.2m, a 21.4% margin.",
+          "Bally's offers no commentary on the segment beyond the accounting note; the colour comes from Bally's Intralot's Athens release. There, legacy B2B revenue fell 8.1% to €191m (~$210m) over nine months, with the US — the largest B2B market — down 11% to €119.6m (~$132m) on lower lottery revenue after record prior-year jackpots and reduced equipment sales. Excluding BII, Bally's Intralot's revenue was down 4.9% and adjusted EBITDA down 13.4% for the nine months. Truist named B2B as one of the two segments behind the consensus EBITDAR miss.",
+          "Against that, the contract pipeline is the best it has been in years: a 15-year electronic gaming machine monitoring licence in Victoria, Australia; a contract of up to 12 years with the State Lottery of Chile; a new Hellenic Lotteries contract in Greece; and selection by Ontario Lottery and Gaming as its new lottery technology provider (all announced in Q2). Management framed these as 'deliberate investments as we win and renew contracts, several of which are landing together at the same time', bringing in leadership and technology capability from the legacy Gamesys business. The implication is that B2B margins are in an investment trough through 2027 before the new contracts go live; management has not quantified the capex or the ramp.",
+          "Our read: this is the segment where the Intralot merger thesis is least proven. Lottery technology is a decent-quality annuity business, but it is small (under 10% of group revenue), its reported profitability is being depressed by the US jackpot cycle and the accounting conversion, and it is currently a consumer rather than a generator of cash. Note that Intralot's debt (€-denominated term loans, 6.75% senior secured notes and floating-rate notes due 2031, the Greek retail bond) is ring-fenced from Bally's revolver covenant issues, which cuts both ways: the parent cannot easily upstream Intralot cash either."
+        ],
+        "table": {
+          "note": "Bally's Intralot B2B, US $m (Intralot IFRS figures in EUR, ~USD at 1.10)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "76.6",
+                "-3.7%",
+                "n.m.",
+                "230.0",
+                "n.m."
+              ],
+              "footnote": "Prior-year comparatives are a divested-business royalty stream ($5.5m Q3-25; $21.1m 9M-25)"
+            },
+            {
+              "label": "Segment Adj. EBITDAR",
+              "kind": "emphasis",
+              "cells": [
+                "12.2",
+                "-44.4%",
+                "n.m.",
+                "49.2",
+                "n.m."
+              ]
+            },
+            {
+              "label": "EBITDAR margin",
+              "indent": true,
+              "cells": [
+                "15.9%",
+                "-1,167bps",
+                "n.m.",
+                "21.4%",
+                "n.m."
+              ]
+            },
+            {
+              "label": "Negative IFRS→US GAAP adj. included",
+              "indent": true,
+              "cells": [
+                "~(11)",
+                "~(7) in Q2",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "EBITDAR before GAAP adjustments (est.)",
+              "indent": true,
+              "cells": [
+                "~23",
+                "~29 in Q2",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Analyst arithmetic: Segment EBITDAR plus disclosed IFRS→GAAP adjustment"
+            },
+            {
+              "label": "Legacy Intralot B2B revenue (IFRS)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "€191m (~$210m)",
+                "-8.1%"
+              ]
+            },
+            {
+              "label": "of which US lottery revenue",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "€119.6m (~$132m)",
+                "-11%"
+              ]
+            },
+            {
+              "label": "Intralot ex-BII adj. EBITDA growth",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "-13.4%",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Jurisdictions served",
+              "indent": true,
+              "cells": [
+                "39",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "New contracts (2026)",
+              "indent": true,
+              "cells": [
+                "OLG Ontario; Victoria EGM monitoring (15y); Chile (≤12y); Hellenic Lotteries",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and EBITDAR",
+            "takeaway": "Revenue $76.6m (-3.7% QoQ) but EBITDAR nearly halved QoQ to $12.2m (margin 15.9%) including ~$11m of negative GAAP adjustments.",
+            "points": [
+              "Segment consolidated from Q4-25; prior-year $5.5m was a royalty stream from a divested business, so YoY comparisons are not meaningful.",
+              "Revenue fell to $76.6m from $79.5m; EBITDAR dropped to $12.2m from $21.9m in Q2 (-44%); margin 15.9% from 27.6%.",
+              "~$11m negative IFRS-to-US GAAP adjustments (software development cost capitalisation and leases), up from ~$7m in Q2; on an IFRS-like basis EBITDAR fell from ~$29m to ~$23m [our arithmetic].",
+              "Nine-month revenue $230.0m and EBITDAR $49.2m, a 21.4% margin."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "US lottery softness",
+            "takeaway": "Legacy B2B revenue fell 8.1% to €191m (~$210m) over nine months, with the US down 11% to €119.6m (~$132m); Truist named B2B behind the consensus miss.",
+            "points": [
+              "Bally's offers no commentary beyond the accounting note; colour comes from the Athens release.",
+              "US decline reflects lower lottery revenue after record prior-year jackpots and reduced equipment sales.",
+              "Excluding BII, Bally's Intralot revenue down 4.9% and adjusted EBITDA down 13.4% for nine months.",
+              "Truist named B2B as one of two segments behind the consensus EBITDAR miss."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Contract pipeline",
+            "takeaway": "The contract pipeline is the best in years, but margins are in an investment trough through 2027 with capex and ramp unquantified.",
+            "points": [
+              "Wins announced in Q2: 15-year EGM monitoring licence in Victoria, Australia; up to 12 years with the State Lottery of Chile; new Hellenic Lotteries contract in Greece; Ontario Lottery and Gaming technology provider.",
+              "Management is bringing in leadership and technology capability from the legacy Gamesys business.",
+              "Management has not quantified the capex or the ramp."
+            ],
+            "quote": {
+              "text": "deliberate investments as we win and renew contracts, several of which are landing together at the same time",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Our read",
+            "takeaway": "This is the segment where the Intralot merger thesis is least proven; it is currently a consumer rather than a generator of cash.",
+            "points": [
+              "Lottery technology is a decent-quality annuity business but small (under 10% of group revenue), with profitability depressed by the US jackpot cycle and accounting conversion.",
+              "Intralot's debt (€-denominated term loans, 6.75% senior secured notes, floating-rate notes due 2031, Greek retail bond) is ring-fenced from Bally's revolver covenant issues.",
+              "Ring-fencing cuts both ways: the parent cannot easily upstream Intralot cash."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "North America Interactive (Bally Bet / Bally Casino; 16 jurisdictions)",
+        "headline": "Revenue +25.6% to $62.7m and the loss narrowed YoY to -$3.2m, but the segment slipped back from Q2's +$3.0m as NFL promo spend returned; still sub-scale at ~$251m annualised.",
+        "narrative": [
+          "North America Interactive revenue rose 25.6% year-over-year to $62.7m, which management attributes to 'healthy wagering revenue growth across all verticals' with 'strong momentum across the U.S. and Canada'. Sequentially revenue fell 5.2% from $66.1m, a normal Q3 pattern given the summer sports lull and the start of the NFL season in September. Segment Adjusted EBITDAR was -$3.2m, a $2.8m improvement on the -$6.0m of Q3-25, but a reversal from the +$3.0m posted in Q2 — the first positive quarter — as promotional and acquisition spend around the NFL kick-off returned. Nine-month revenue is $189.2m (+23.7% vs pro forma 2025) and EBITDAR -$7.3m versus -$10.1m pro forma. Management describes the business as 'pacing toward positive Adjusted EBITDAR' and, on a Q3 run-rate, 'approximately $251 million of annualized revenue and contributing positively at the segment level' — a phrase we would challenge given the quarter's negative print; the positive contribution claim is really a comment on contribution margin before fixed costs.",
+          "Disclosure remains thin for a digital business of this size. There is no handle, net or structural sportsbook margin, promotional spend as a percentage of handle, monthly actives, ARPU, or iGaming-versus-sportsbook split, so the quality of the 25.6% growth — how much is iGaming in the handful of regulated states where Bally Casino operates versus lower-margin sportsbook, and how much is rate versus volume — cannot be assessed from the filings. Bally Bet is licensed in 16 North American jurisdictions. Management credits 'customer-focused and automation initiatives' implemented over the past year under Sina Miri and says it is 'starting to observe benefits from technology investments, and expect to realize economies of scale near-term'. Q1 revenue growth was 35.9% ($60.5m) with EBITDAR of -$7.1m, so the trajectory over 2026 is decelerating growth with improving losses: +36%/-$7.1m, +17%/+$3.0m, +26%/-$3.2m.",
+          "Our read: this is a credible but small operator with no realistic path to top-tier share in US OSB, where Bally's is a low-single-digit player, and where prediction-market competition is the industry's new cost headwind. Its strategic value is as a cross-sell channel for the 21-property database and, eventually, an iGaming engine in New York (post-Bronx) and Illinois if those markets legalise online casino. The sensible financial expectation is roughly break-even EBITDAR for FY26 with a seasonally better Q4, not a profit contributor that moves group leverage. No segment guidance beyond the qualitative 'pacing toward positive'."
+        ],
+        "table": {
+          "note": "North America Interactive, US $m",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY (PF)"
+          ],
+          "rows": [
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "62.7",
+                "-5.2%",
+                "+25.6%",
+                "189.2",
+                "+23.7%"
+              ]
+            },
+            {
+              "label": "Segment Adj. EBITDAR",
+              "kind": "emphasis",
+              "cells": [
+                "(3.2)",
+                "vs +3.0",
+                "vs (6.0)",
+                "(7.3)",
+                "vs (10.1)"
+              ]
+            },
+            {
+              "label": "EBITDAR margin",
+              "indent": true,
+              "cells": [
+                "-5.1%",
+                "vs +4.5%",
+                "vs -12.0%",
+                "-3.9%",
+                "vs -6.6%"
+              ]
+            },
+            {
+              "label": "Annualised revenue run-rate",
+              "indent": true,
+              "cells": [
+                "~251",
+                "~264 in Q2",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Q1-26 reference",
+              "indent": true,
+              "cells": [
+                "rev $60.5m (+35.9%); EBITDAR $(7.1)m",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Jurisdictions live",
+              "indent": true,
+              "cells": [
+                "16",
+                "—",
+                "—",
+                "—",
+                "—"
+              ]
+            },
+            {
+              "label": "Handle / net margin / structural margin / promo % handle",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Not disclosed"
+            },
+            {
+              "label": "Monthly actives / ARPU / sportsbook vs iGaming split",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Not disclosed"
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and EBITDAR",
+            "takeaway": "Revenue +25.6% to $62.7m and loss narrowed to -$3.2m YoY, but slipped from Q2's +$3.0m as NFL promo spend returned.",
+            "points": [
+              "Growth attributed to 'healthy wagering revenue growth across all verticals' with 'strong momentum across the U.S. and Canada'; revenue -5.2% QoQ from $66.1m on normal Q3 seasonality.",
+              "EBITDAR -$3.2m, a $2.8m improvement on -$6.0m in Q3-25, reversing Q2's +$3.0m, the first positive quarter.",
+              "Nine-month revenue $189.2m (+23.7% vs pro forma 2025); EBITDAR -$7.3m vs -$10.1m pro forma.",
+              "Management cites 'approximately $251 million of annualized revenue and contributing positively at the segment level'; we challenge this given the negative print, as it refers to contribution margin before fixed costs."
+            ],
+            "quote": {
+              "text": "pacing toward positive Adjusted EBITDAR",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Disclosure and trajectory",
+            "takeaway": "Disclosure is thin, so the quality of 25.6% growth cannot be assessed; 2026 trajectory is decelerating growth with improving losses.",
+            "points": [
+              "No handle, net or structural sportsbook margin, promo spend as % of handle, monthly actives, ARPU, or iGaming-versus-sportsbook split disclosed.",
+              "Bally Bet is licensed in 16 North American jurisdictions; management credits 'customer-focused and automation initiatives' under Sina Miri.",
+              "Management is 'starting to observe benefits from technology investments, and expect to realize economies of scale near-term'.",
+              "Q1 revenue growth 35.9% ($60.5m) with EBITDAR -$7.1m; quarterly path: +36%/-$7.1m, +17%/+$3.0m, +26%/-$3.2m."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Our read",
+            "takeaway": "A credible but small operator with no realistic path to top-tier US OSB share; expect roughly break-even EBITDAR for FY26 with a seasonally better Q4.",
+            "points": [
+              "Bally's is a low-single-digit player in US OSB, where prediction-market competition is the industry's new cost headwind.",
+              "Strategic value is as a cross-sell channel for the 21-property database and eventually an iGaming engine in New York (post-Bronx) and Illinois if online casino legalises.",
+              "Not a profit contributor that moves group leverage; no segment guidance beyond the qualitative 'pacing toward positive'."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "UK online revenue +12.2% cc, accelerating for a third straight quarter (10.5% → 11.6% → 12.2%) with record NGR and lower marketing — evidence of share gain under the 40% RGD as sub-scale operators retreat; Spain +18.9% to a record €13.3m (~$14.6m).",
+        "tag": "structural"
+      },
+      {
+        "text": "North America Interactive revenue +25.6% to $62.7m with EBITDAR loss narrowed $2.8m YoY to -$3.2m; ~$251m annualised run-rate and 9M EBITDAR -$7.3m vs -$10.1m pro forma — the segment is close to break-even for the year.",
+        "tag": "early"
+      },
+      {
+        "text": "Corporate & Other costs cut to -$14.1m from -$18.0m (Q3-25); 9M -$38.2m vs -$53.2m pro forma, ~$15m YTD saving (part reallocation).",
+        "tag": "structural"
+      },
+      {
+        "text": "Liquidity bridge assembled: $560m Bronx term loan closed 1 Oct ($400m funded, $160m DDTL) and, on 17 Nov, commitments for $500m net second-lien term loans plus $60m extra GLPI capital (Chicago commitment to $1.0bn). Shares +11.5% on the news.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Bally's Intralot adjusted EBITDA €88.9m (~$98m), +5% QoQ and +3.6% revenue QoQ; the UK duty offset (55%) and record UK/Spain revenue show the Gamesys engine is still compounding.",
+        "tag": "mixed"
+      },
+      {
+        "text": "The Star returned to positive EBITDA in September; Sydney + Gold Coast revenue grew YoY for the first time since quarterly reporting began; FY27 guided as first positive operating-cash-flow year in >2 years. AUSTRAC exposure now quantified at A$260m (~US$178.5m).",
+        "tag": "early"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Going concern maintained and the covenant was actually tripped: minimum-liquidity requirement under the RCF failed at 30 Sep, waived 1 Oct; management calls a further breach at 31 Dec 'probable' absent waiver/amendment; RCF ($498.3m) reclassified current; 'management's plans do not alleviate substantial doubt' even including the Bronx loan.",
+        "tag": "governance"
+      },
+      {
+        "text": "Segment EBITDAR $179.6m missed Street by ~5% (Truist) despite in-line revenue; group margin 22.2%, -425bps YoY / -143bps QoQ. Weakness in C&R and Intralot B2B.",
+        "tag": "mixed"
+      },
+      {
+        "text": "B2C EBITDAR -10.9% to $77.0m (margin -1,130bps to 29.9%); ~$39m RGD hit only 55% offset vs 'close to 65%' claimed at Q2; 9M B2C EBITDAR flat ($228.8m vs $230.1m) on +25% revenue.",
+        "tag": "structural"
+      },
+      {
+        "text": "Cash burn: 9M operating cash flow -$399.6m (working capital -$269m); FCF (calc.) -$555.8m; gross debt +$336m QoQ ($195m RCF draw + $208m new Intralot UK term loan) while cash was flat at ~$497m. Post-rent EBITDA ~$456m annualised vs ~$505m interest — coverage <1x (est.).",
+        "tag": "structural"
+      },
+      {
+        "text": "Casinos & Resorts EBITDAR flat at $107.8m with margin -87bps; 9M EBITDAR $313.6m vs $314.5m pro forma — no growth from 21 properties while triple-net rent is up 59% to $204m YTD.",
+        "tag": "structural"
+      },
+      {
+        "text": "Intralot B2B EBITDAR -44% QoQ to $12.2m (margin 15.9%) incl. ~$11m GAAP adjustments; US lottery revenue -11% 9M; ex-BII Intralot adj. EBITDA -13.4%. The lottery leg of the merger thesis is under-earning while new contracts absorb investment.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Execution slippage across the pipeline: Chicago permanent now 'spring 2027' (was 'early 2027'; original Sep-26) with non-gaming construction paused post-VGT legalisation; evoke completion pushed to Q1-27; Las Vegas stalled with GLPI funding conditional and the A's contingency-planning. Third consecutive late 10-Q and no earnings call.",
+        "tag": "governance"
+      },
+      {
+        "text": "P&L opacity: D&A +70% YoY to $133.4m (vs ~$95m/qtr in H1) is unexplained in the release, and a +$85.4m swing in other non-operating income flattered pre-tax; neither is reconciled in the 8-K.",
+        "tag": "watch"
+      }
+    ],
+    "forecast": {
+      "intro": "Bally's issues no numerical guidance, so the 'bridge' is the set of qualitative markers management moved between Q2 (14 Aug) and Q3 (16 Nov). All four moved the wrong way or sideways: the Chicago permanent opening slipped from 'early 2027' to 'spring 2027'; evoke completion slipped from 2026 to Q1-27; the share of the ~$39m/quarter UK RGD hit being offset fell from 'close to 65%' to 'approximately 55%' (both driven by the Bally's Intralot B2C segment); and the liquidity position moved from a projected covenant shortfall to an actual 30 Sep breach, waived, with another 'probable' at 31 Dec. The offsetting change is on financing: the $560m Bronx term loan closed (1 Oct) and $560m of further commitments ($500m second-lien net proceeds + $60m GLPI) were announced on 17 Nov, which the company says gives it confidence in meeting cash-flow requirements for the coming year. North America Interactive's 'pacing toward positive EBITDAR' is unchanged.",
+      "bridge": [
+        {
+          "title": "Chicago permanent opening",
+          "value": "Spring 2027",
+          "change": "from 'early 2027' at Q2 (original Sep-2026); non-gaming scope ~12% under review post-VGT"
+        },
+        {
+          "title": "UK RGD offset ratio (B2C)",
+          "value": "~55% of ~$39m/qtr",
+          "change": "from 'close to 65%' at Q2; 9M B2C EBITDAR flat YoY"
+        },
+        {
+          "title": "evoke completion",
+          "value": "Q1-2027",
+          "change": "from 2026; ~£180m synergy clock starts later"
+        },
+        {
+          "title": "Liquidity / covenants",
+          "value": "$560m closed (Bronx) + $560m committed (2L + GLPI)",
+          "change": "vs 30 Sep min-liquidity breach (waived 1 Oct); 31 Dec breach 'probable' pre-financing; going concern unchanged"
+        },
+        {
+          "title": "Chicago permanent opening",
+          "value": "Spring 2027",
+          "change": "from 'early 2027' at Q2 (original Sep-2026); non-gaming scope ~12% under review post-VGT"
+        }
+      ],
+      "view": "**Q4-26 (our estimates):** revenue ~$800–820m — C&R ~$395–405m (seasonally softer regional quarter, first full quarter of Sam's Town), B2C ~$255–265m (UK +11–13% cc, Turkey), B2B ~$75–80m, NAI ~$65–70m (NFL/NBA seasonality, Q4 is typically the strongest digital quarter). Segment EBITDAR ~$170–190m: C&R ~$100–105m, B2C ~$75–80m (a full quarter of marketing cuts vs. the ~$39m duty drag), B2B ~$12–18m, NAI around break-even, Corporate ~-$13m. That implies **FY26 revenue ~$3.16–3.18bn and Segment EBITDAR ~$715–735m**, i.e. roughly flat-to-up low-single-digits on a pro forma basis, with a group margin of ~22.5–23% versus ~26% pro forma in 2025. **Below EBITDAR**, annualised triple-net rent of ~$270m and net interest of ~$500m+ (rising once the second-lien is drawn — we assume a double-digit all-in coupon [assumption]) leave post-rent EBITDA short of interest, so GAAP losses of $100m+ per quarter continue and **FY26 net loss is likely to exceed $550m** before any impairment. **Leverage direction: up.** Net debt (carrying) was $4.35bn at 30 Sep; the second-lien is partly a refinancing of the RCF but Chicago (balance of the $1.34bn+), Bronx pre-construction and Las Vegas will all consume cash in 2027, so we expect net debt/EBITDAR to drift above 6x on our basis and lease-adjusted leverage to stay around 9x unless assets are sold. **Swing factors for 2027:** (1) the Chicago permanent ramp (positive, but with 8.5% rent on GLPI's $1.0bn advances); (2) a full year of 40% RGD lapping from Q2-27 — UK growth of 11–13% should allow B2C EBITDAR to return to modest YoY growth from Q2-27; (3) evoke consolidation into Bally's Intralot from Q1-27 (revenue-accretive, margin-dilutive, synergies back-end loaded); (4) US lottery jackpot cycle for B2B; (5) any Star recapitalisation or AUSTRAC payment timing. The investment case remains a credit case: watch whether the second-lien actually closes on the committed terms, whether the 31 Dec liquidity test is met or re-waived, and whether management executes the 'asset monetization' and 'equity sale' options it lists in the 10-Q.",
+      "watch": [
+        "Closing of the $500m second-lien term loans and the $60m GLPI top-up (regulatory approval): terms, coupon, OID, maturity and any equity-linked features; use of proceeds vs the $498.3m RCF.",
+        "31 Dec 2026 RCF minimum-liquidity test and the status of the consolidated net leverage covenant waiver (runs to the Q1-27 compliance certificate); any 8-K on waivers/amendments; going-concern language in the FY26 10-K.",
+        "Q4-26 B2C EBITDAR: does the RGD offset ratio recover toward 65% once H2 marketing cuts fully land? UK cc growth vs. the 11–13% run-rate; Spain and Turkey contribution.",
+        "Chicago: hard-cost spend vs the $1.34bn minimum, resolution of the ~12% non-gaming scope paused after VGT legalisation, and the spring-2027 opening date; incremental GLPI rent at 8.5% of advances.",
+        "Cash flow reconciliation in the 10-K: the -$269m 9M working-capital outflow, the Q3 D&A step-up to $133.4m and the +$85.4m other non-operating income — all unexplained in the 8-K.",
+        "evoke: remaining gaming approvals and Gibraltar court sanction (Q1-27 target); evoke's own going-concern status; integration plan for William Hill retail.",
+        "Asset monetisation / equity sale: any announced sale of properties, the Las Vegas land, or a Bally's Intralot stake sale; Las Vegas partner and GLPI's $200–250m conditions with the A's.",
+        "Star: A$260m AUSTRAC penalty payment timing and funding, Sydney licence (suspended to 30 Jun 2027), FY27 operating cash flow."
+      ]
+    },
+    "sharePriceReaction": "Preliminary print (9 Nov, after close): shares -4% to $11.47 on 10 Nov (YTD -31%). Full results and 10-Q with the covenant breach/going-concern language (16 Nov, after close): -11.7% to $9.55 on 17 Nov, taking the one-week fall to ~23%; Truist cut its PT to $9 (Hold). +11.5% to $10.65 on 18 Nov after the $560m second-lien/GLPI financing commitments. 52-week range $8.44–19.45; market cap ~$0.5–0.6bn.",
+    "confidence": "MEDIUM",
+    "confidenceNote": "Revenue, Segment EBITDAR, GAAP P&L, EPS, balance sheet, cash flow and debt schedule are verified against the 16 Nov 8-K Ex. 99.1 and the Q3-26 10-Q (and match the 9 Nov preliminary release). Covenant/going-concern language is from 10-Q excerpts retrieved via search (the full 10-Q text fetch truncated) and corroborated by Gambling Insider, Intergame and Earnings+More. Unverified/secondary: Q2-26 net loss (-$146.1m) and EPS (-$2.41) from CNN aggregator data; Q2-26 cash (~$488m) from public.com; EPS consensus differs by source (-$1.30 MarketBeat vs -$1.48 GuruFocus); Street EBITDAR consensus is inferred from Truist's '5% miss' comment; the cause of the Q3 D&A step-up and the composition of the +$85.4m other non-operating income are not disclosed in the release; the NEXT.io CBRE and SBC/Intergame/gaming.net Bally's Intralot figures are secondary reports of the Athens release (not read directly). Leverage, post-rent EBITDA, interest coverage, Q4/FY26 figures and the pre-GAAP-adjustment B2B EBITDAR are analyst estimates and labelled as such. No earnings call was held/located. Bally's reports in USD; Bally's Intralot EUR figures converted at EUR/USD ~1.10 (ECB reference 1.1052 on 16 Nov 2026); GBP figures (evoke £243.1m, £180m synergies) left unconverted as GBP/USD on 16 Nov 2026 was not verified; A$260m ≈ US$178.5m per iGB. The user-supplied Gaming Intelligence (prelim) and Gambling Insider (10-Q delayed) and Yogonet URLs were not directly accessible; their content was used only via search snippets.",
+    "sources": [
+      {
+        "label": "Bally's Corporation Reports Third Quarter 2026 Results — 8-K Exhibit 99.1, 16 Nov 2026 (primary: revenue, Segment EBITDAR, pro forma, debt schedule, management commentary)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001747079/000174707926000106/ex991q32026earningsrelease.htm"
+      },
+      {
+        "label": "Bally's Corporation Form 10-Q for the quarter ended 30 Sep 2026 (primary: P&L, EPS, balance sheet, cash flow, going-concern and covenant notes)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001747079/000174707926000108/baly-20260930.htm"
+      },
+      {
+        "label": "Bally's Corporation Preliminary Q3 2026 Results, 9 Nov 2026 (primary PDF)",
+        "kind": "primary",
+        "url": "https://s29.q4cdn.com/580102441/files/doc_news/2026/Nov/09/BALY-3Q26-Preliminary-FINAL-11-9-26.pdf"
+      },
+      {
+        "label": "Bally's Corporation Reports Second Quarter 2026 Results — 8-K Exhibit 99.1, 14 Aug 2026 (primary: Q2 comparatives, Q2 debt schedule, Q2 commentary)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001747079/000174707926000082/ex991q22026earningsrelease.htm"
+      },
+      {
+        "label": "Bally's Corporation Secures $560 Million of Additional Financing — 8-K Exhibit 99.1, 17 Nov 2026 (primary)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001747079/000174707926000112/ex991-financingpressreleas.htm"
+      },
+      {
+        "label": "Bally's Corporation Q1 2026 Results — 8-K Exhibit 99.1 (primary: Q1 NAI and UK growth references)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001747079/000174707926000044/ex991q12026earningsrelease.htm"
+      },
+      {
+        "label": "Bally's Corporation Form 10-Q for the quarter ended 30 Jun 2026 (primary: May 2026 covenant waiver terms)",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001747079/000174707926000084/baly-20260630.htm"
+      },
+      {
+        "label": "Bally's 12b-25 notification of late filing, 10 Nov 2026 (via TipRanks)",
+        "kind": "secondary",
+        "url": "https://www.tipranks.com/news/company-announcements/ballys-corporation-reports-delay-in-quarterly-filing"
+      },
+      {
+        "label": "iGB — Bally's juggling several developments as Q3 revenue surges on Intralot growth (11 Nov 2026; share price 10 Nov, Star/AUSTRAC, Chicago VGT, Las Vegas, Bronx)",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/finance/ballys-q3-results/"
+      },
+      {
+        "label": "CasinoBeats — Bally's Intralot speeds up UK online growth under 40% duty as evoke deal slips to 2027 (11 Nov 2026)",
+        "kind": "secondary",
+        "url": "https://casinobeats.com/2026/11/11/ballys-intralot-speeds-up-uk-online-growth-under-40-duty-as-evoke-deal-slips-to-2027/"
+      },
+      {
+        "label": "NEXT.io — CBRE: 'Scale is key' for Bally's as UK market prepares for consolidation (11 Nov 2026)",
+        "kind": "secondary",
+        "url": "https://next.io/news/investment/cbre-scale-key-ballys-uk-market-consolidation/"
+      },
+      {
+        "label": "Yogonet — Bally's revenue rises 21% in Q3 as debt, casino projects and regulatory pressures persist (11 Nov 2026; snippet only)",
+        "kind": "secondary",
+        "url": "https://www.yogonet.com/international/news/2026/11/11/127250-ballys-revenue-rises-21-in-q3-as-debt-casino-projects-and-regulatory-pressures-persist"
+      },
+      {
+        "label": "SBC News — Bally's Intralot has the latest on evoke deal in Q3 update as revenue rises 250% (10 Nov 2026)",
+        "kind": "secondary",
+        "url": "https://sbcnews.co.uk/sportsbook/2026/11/10/ballys-intralot-q3-results/"
+      },
+      {
+        "label": "Intergame — Bally's Intralot posts igaming revenue records in UK, Spain (Nov 2026)",
+        "kind": "secondary",
+        "url": "https://www.intergameonline.com/igaming/news/ballys-intralot-igaming-revenue-records-spain-uk-q3"
+      },
+      {
+        "label": "gaming.net — Bally's Intralot Q3 Revenue Rises 249% With Takeover Approvals Due in 2027",
+        "kind": "secondary",
+        "url": "https://www.gaming.net/ballys-intralot-q3-revenue-rises-249-with-takeover-approvals-due-in-2027/"
+      },
+      {
+        "label": "Gambling Insider — Bally's Reveals Q3 Liquidity Shortfall, Secures $560M in Financing Commitments (17 Nov 2026)",
+        "kind": "secondary",
+        "url": "https://www.gamblinginsider.com/news/204079/ballys-q3-2026-results-missed-liquidity-requirement"
+      },
+      {
+        "label": "Gambling Insider — Bally's Q3 2026 Revenue Jumps 21.7% as 10-Q Delayed Again (user-supplied; snippet only)",
+        "kind": "secondary",
+        "url": "https://www.gamblinginsider.com/news/203004/ballys-q3-2026-results-revenue-21-7-10-q-delayed"
+      },
+      {
+        "label": "Gaming Intelligence — Bally's Corp. posts loss of $117 million for Q3 2026 (17 Nov 2026)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/238740-ballys-corp-posts-loss-of-117-million-for-q3-2026/"
+      },
+      {
+        "label": "Gaming Intelligence — Bally's Corp posts strong preliminary results for Q3 (user-supplied; not accessible)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/238451-ballys-corp-posts-strong-preliminary-results-for-q3/"
+      },
+      {
+        "label": "Earnings+More — 'Amped' (18 Nov 2026; 10-Q covenant breach summary)",
+        "kind": "secondary",
+        "url": "https://earningsandmore.substack.com/p/amped"
+      },
+      {
+        "label": "Investing.com — Bally's stock price target cut to $9 by Truist on EBITDA miss (18 Nov 2026; EBITDAR vs consensus, $9.55 close, $7.2bn debt)",
+        "kind": "secondary",
+        "url": "https://za.investing.com/news/stock-market-news/ballys-stock-price-target-cut-to-9-by-truist-on-ebitda-miss-93CH-4583642"
+      },
+      {
+        "label": "Morningstar — BALY quote (17–18 Nov 2026 prices, 52-week range)",
+        "kind": "secondary",
+        "url": "https://www.morningstar.com/stocks/xnys/baly/quote"
+      },
+      {
+        "label": "MarketBeat — Bally's Q3 2026 Earnings Results (EPS consensus -$1.30)",
+        "kind": "secondary",
+        "url": "https://www.marketbeat.com/earnings/reports/2026-11-16-ballys-co-stock/"
+      },
+      {
+        "label": "GuruFocus — Bally's Corp Reports Q3 Revenue of $807.6 Million, Meeting EPS Estimate of -$1.48",
+        "kind": "secondary",
+        "url": "https://www.gurufocus.com/news/9186954/ballys-corp-reports-q3-revenue-of-8076-million-meeting-eps-estimate-of-148"
+      },
+      {
+        "label": "CNN Markets — BALY (revenue consensus $807.85m via TipRanks; Q2 net loss/EPS aggregator data)",
+        "kind": "secondary",
+        "url": "https://www.cnn.com/markets/stocks/BALY"
+      },
+      {
+        "label": "Yogonet — Bally's shares fall 26% as operator raises 'substantial doubt' over liquidity (19 Aug 2026; Q2 context)",
+        "kind": "secondary",
+        "url": "https://www.yogonet.com/international/news/2026/08/19/125965-ballys-shares-fall-26-as-operator-raises-34substantial-doubt-34-over-liquidity"
+      },
+      {
+        "label": "CDC Gaming — Bally's completes acquisition of Sam's Town Shreveport from Boyd ($30m; property stats)",
+        "kind": "secondary",
+        "url": "https://cdcgaming.com/louisiana-ballys-completes-acquisition-of-sams-town-shreveport-from-boyd-gaming/"
+      },
+      {
+        "label": "iGB — Bally's secures $560 million in financing commitments with $60 million headed to Chicago (19 Nov 2026)",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/finance/ballys-secures-560-million-in-financing-commitments/"
+      },
+      {
+        "label": "ECB reference rates via EuroCambi — EUR/USD 1.1052 on 16 Nov 2026 (FX)",
+        "kind": "secondary",
+        "url": "https://eurocambi.com/en/euro-us-dollar-rate"
+      }
+    ]
+  }
+}

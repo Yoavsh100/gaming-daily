@@ -4839,16 +4839,62 @@
   },
   {
     "key": "brightstar lottery|Q3 2026",
-    "attempts": 1,
-    "lastAttempt": "2026-11-18T21:46:56.836Z",
-    "status": "failed",
-    "error": "r.forecast.watch is not iterable",
+    "attempts": 2,
+    "lastAttempt": "2026-11-19T21:52:45.270Z",
+    "status": "done",
+    "error": null,
     "type": "company",
     "company": {
       "name": "Brightstar Lottery",
-      "ticker": "BRSL"
+      "ticker": "BRSL",
+      "exchange": ""
     },
-    "period": "Q3 2026"
+    "period": "Q3 2026",
+    "slug": "BRSL-Q3-2026",
+    "published": "2026-11-19",
+    "verdict": "Profit held (adj. EBITDA $289m, -2% YoY, in line; adj. EPS $0.10 vs $0.06 consensus) but the growth story slipped: FY26 revenue guidance was cut ~3% at the midpoint to $2.435-2.455bn on weaker U.S. multi-state jackpots, a soft Italian summer and FX, with the earlier \">5% organic growth\" framing quietly re-based to roughly 2.5-3%. Ex-amortization revenue did accelerate to +4% (from ~1% in H1), but on lumpy product sales rather than wagers, leverage is now 3.30x, and nine days later the CEO announced his retirement — a lot for a 9%-yielding \"pure-play lottery\" thesis to digest.",
+    "kpis": [
+      {
+        "label": "Revenue (GAAP)",
+        "value": "$607m",
+        "delta": "-4% YoY (-3% cc); +3.9% QoQ; vs $612m consensus",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA",
+        "value": "$289m",
+        "delta": "-2% YoY (-1% cc); +1.0% QoQ; in line",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA margin",
+        "value": "47.5%",
+        "delta": "+80bps YoY (flattered by SRA); ex-SRA 40.9%, -220bps",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EPS (cont. ops)",
+        "value": "$0.10",
+        "delta": "-73% YoY; incl. $0.23/sh non-cash SRA; beat $0.06 consensus",
+        "dir": "down"
+      },
+      {
+        "label": "Net debt / leverage",
+        "value": "$3.84bn / 3.30x",
+        "delta": "vs 3.24x Q2-26 and 2.4x at Dec-25",
+        "dir": "up"
+      },
+      {
+        "label": "FY26 revenue guide (mid)",
+        "value": "$2.445bn",
+        "delta": "-$80m / -3.2% vs prior $2.525bn; adj. EBITDA mid -$25m to $1.15bn",
+        "dir": "down"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "10 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.19
   },
   {
     "key": "lotto nz|FY 2026",
@@ -4908,5 +4954,254 @@
     "releaseDate": "c. 11 Nov 2026 (FY26 Integrated Report, year ended 30 June 2026; exact tabling date unverified — Gaming Intelligence coverage dated ~11 Nov 2026)",
     "model": "claude-fable-5-1",
     "costUsd": 4.74
+  },
+  {
+    "key": "century casinos|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-19T21:03:44.109Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "CNTY-Q3-2026",
+    "published": "2026-11-19",
+    "company": {
+      "name": "Century Casinos, Inc.",
+      "ticker": "CNTY",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "Operationally, Q3-26 was fine — preliminary net operating revenue +3.1% YoY to $158.4m and earnings from operations +21% to $20.7m (margin +~195bps to 13.1%). But the numbers are unaudited, unreviewed and explicitly pre-restatement: the Audit Committee has pulled reliance on FY24, FY25 and Q1/Q2-26 over the Marnell put on the Nugget real-estate VIE, the 10-Q is late, the call was cancelled, and the equity (~$6.75m market cap, $0.24/share) is now trading as an option on a $336m debt stack and a Nasdaq listing.",
+    "kpis": [
+      {
+        "label": "Net operating revenue (prelim)",
+        "value": "$158.4m",
+        "delta": "+3.1% YoY / +4.2% QoQ; vs cons. ~$159.3–159.5m",
+        "dir": "up"
+      },
+      {
+        "label": "Earnings from operations (prelim, GAAP)",
+        "value": "$20.7m",
+        "delta": "+21.1% YoY vs $17.1m; +20% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Operating margin (prelim)",
+        "value": "13.1%",
+        "delta": "+~195bps YoY (11.1%); +~175bps QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Cash & equivalents (30 Sep)",
+        "value": "$60.2m",
+        "delta": "vs $68.9m Dec-25; flat vs $60.2m Jun-26 (ex $3.4m held for sale)",
+        "dir": "down"
+      },
+      {
+        "label": "Net debt / EBITDA (mgmt, Jun-26)",
+        "value": "6.5x",
+        "delta": "Q3 not disclosed; target 'well below 6x' by YE26",
+        "dir": "flat"
+      },
+      {
+        "label": "Share price / mkt cap",
+        "value": "$0.24 / ~$6.75m",
+        "delta": "-24% intraday 17 Nov, -7.7% 18 Nov; >70% off in a month",
+        "dir": "down"
+      }
+    ],
+    "confidence": "LOW",
+    "releaseDate": "17 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.57
+  },
+  {
+    "key": "better collective a s|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-19T21:22:11.671Z",
+    "status": "failed",
+    "error": "r.forecast.watch is not iterable",
+    "type": "company",
+    "company": {
+      "name": "Better Collective A/S",
+      "ticker": "BETCO"
+    },
+    "period": "Q3 2026"
+  },
+  {
+    "key": "allwyn international|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-19T21:36:21.583Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "ALLWYN-INTERNATIONAL-Q3-2026",
+    "published": "2026-11-19",
+    "company": {
+      "name": "Allwyn International",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "Diversification carried the top line, mix ate the margin: Q3-26 net revenue +19% to €1,220m (~$1.34bn) but only +4% on a comparable basis, adj. EBITDA €396m (~$436m) +6% reported / +2% comparable, and margin -410bps to 32.5% as an 18%-margin PrizePicks, €9m of LottoItalia amortisation and a €12m jump in corporate costs diluted a record-jackpot comp. The real news is in the guidance wording — the \"~37%\" FY adj. EBITDA margin target of Q1/Q2 has quietly become \"within consensus\" (€1,769–1,891m / ~$1.95–2.08bn, i.e. ~35.6% at the midpoint) — while Brazil's closure, a UK National Lottery still shrinking online and 3.5x leverage leave the shares at a 52-week low despite a reaffirmed €1.00/share (~$1.10) distribution floor.",
+    "kpis": [
+      {
+        "label": "Net revenue",
+        "value": "€1,220m (~$1.34bn)",
+        "delta": "+19% YoY reported; +4% comparable; -2.1% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA",
+        "value": "€396m (~$436m)",
+        "delta": "+6% YoY reported; +2% comparable; -13.5% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA margin",
+        "value": "32.5%",
+        "delta": "-410bps YoY (36.6%); -430bps QoQ (36.8%)",
+        "dir": "down"
+      },
+      {
+        "label": "Online share of NGR",
+        "value": "47%",
+        "delta": "+10pp YoY (37%; 45% comparable); online NGR €530m (~$583m) +55%",
+        "dir": "up"
+      },
+      {
+        "label": "Free cash flow",
+        "value": "€84m (~$92m)",
+        "delta": "-61% YoY (€215m); working capital +€45m vs +€152m",
+        "dir": "down"
+      },
+      {
+        "label": "Net debt incl. leases / leverage",
+        "value": "€6,641m (~$7.3bn); 3.5x",
+        "delta": "vs €3,546m Q3-25 (pre-PrizePicks/OPAP); 'above target' per CFO",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "19 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 7.25
+  },
+  {
+    "key": "PTEC.L|FY 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-19T22:06:00.757Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "PTEC-L-FY-2026",
+    "published": "2026-11-19",
+    "company": {
+      "name": "Playtech plc",
+      "ticker": "PTEC.L",
+      "exchange": "LSE"
+    },
+    "period": "FY 2026",
+    "verdict": "Playtech's third guidance upgrade of 2026 lifts FY26 adj. EBITDA to \">€300m\" (~$336m) — +52% on FY25 and 7.5% above the €279m consensus — on the back of a Hard Rock Digital/PMR windfall in Florida that management itself says is already being competed away. The quality of 2026 is unarguable (H1 FCF €101.0m, net cash, 10% of shares retired in a year), but the same RNS effectively pre-announces a down year: FY27 consensus of €266m sits 11% below the FY26 floor, with PMR wallet-share loss, a Brazilian market shutdown and a full year of 40% UK RGD all landing at once. The shares' intraday +4.5% fading to −1.0% at the close is the right read: peak-year earnings, not a re-rating.",
+    "kpis": [
+      {
+        "label": "FY26 adj. EBITDA guide",
+        "value": ">€300m (~$336m)",
+        "delta": "vs ≥€270m prior; +52% vs FY25 €197.0m",
+        "dir": "up"
+      },
+      {
+        "label": "H1-26 revenue",
+        "value": "€425.1m (~$477m)",
+        "delta": "+10% YoY; +13% HoH",
+        "dir": "up"
+      },
+      {
+        "label": "H1-26 adj. EBITDA",
+        "value": "€162.5m (~$182m)",
+        "delta": "+77% YoY; margin 38% (+14.5pp)",
+        "dir": "up"
+      },
+      {
+        "label": "H1-26 free cash flow",
+        "value": "€101.0m (~$113m)",
+        "delta": "vs €6.6m H1-25; FY25 €29.5m",
+        "dir": "up"
+      },
+      {
+        "label": "Net cash (30 Jun 26)",
+        "value": "€39.2m (~$44.0m)",
+        "delta": "vs €28.5m Dec-25, after €24.6m buyback",
+        "dir": "up"
+      },
+      {
+        "label": "FY27 consensus adj. EBITDA",
+        "value": "€266m (~$298m)",
+        "delta": "−11% vs FY26 floor; mgmt flags headwinds",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "10 Nov 2026 (FY26 trading update, 1 Jul–31 Oct); financial base: H1 2026 results, 10 Sep 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.66
+  },
+  {
+    "key": "bally s|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-19T22:19:05.577Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "BALY-Q3-2026",
+    "published": "2026-11-19",
+    "company": {
+      "name": "Bally's Corporation",
+      "ticker": "BALY",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "Top line fine, balance sheet not. Q3-26 revenue of $807.6m (+21.7% YoY) was in line with consensus, but Segment Adj. EBITDAR of $179.6m (+2.2% YoY, margin -425bps to 22.2%) missed the Street by ~5%, the GAAP net loss widened to $117.0m (-$1.47/share), and the 10-Q disclosed a breached revolver minimum-liquidity covenant at 30 Sep (waived 1 Oct), a \"probable\" repeat breach at 31 Dec and an unresolved going-concern qualification. The 17 Nov $560m second-lien/GLPI commitment buys runway, not a fix: on our estimates annualised post-rent EBITDA (~$456m) does not cover annualised interest (~$505m), so the equity remains an option on refinancing and asset sales rather than on operations.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "$807.6m",
+        "delta": "+21.7% YoY / +1.9% QoQ; in line with ~$807.9m consensus",
+        "dir": "up"
+      },
+      {
+        "label": "Segment Adj. EBITDAR",
+        "value": "$179.6m",
+        "delta": "+2.2% YoY / -4.2% QoQ; margin 22.2% (-425bps YoY); ~5% below Street (Truist)",
+        "dir": "down"
+      },
+      {
+        "label": "Net loss (GAAP, consolidated)",
+        "value": "-$117.0m",
+        "delta": "vs -$106.2m Q3-25; attributable -$91.0m vs -$102.9m",
+        "dir": "down"
+      },
+      {
+        "label": "Diluted EPS (GAAP)",
+        "value": "-$1.47",
+        "delta": "vs -$1.70 Q3-25; consensus -$1.30 (MarketBeat) / -$1.48 (GuruFocus) — sources disagree",
+        "dir": "up"
+      },
+      {
+        "label": "Net debt (carrying) / cash",
+        "value": "$4.35bn / $497m",
+        "delta": "gross debt +$336m QoQ to $4.84bn; ~6.0x annualised 9M EBITDAR (est.)",
+        "dir": "down"
+      },
+      {
+        "label": "Operating cash flow (9M-26)",
+        "value": "-$399.6m",
+        "delta": "vs -$29.8m (successor 8 Feb–30 Sep 2025); FCF (calc.) -$555.8m",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "16 Nov 2026 (full results, 8-K/10-Q; preliminary revenue/EBITDAR released 9 Nov 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.16
   }
 ]

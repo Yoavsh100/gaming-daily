@@ -1,0 +1,1985 @@
+{
+  "company": {
+    "name": "Better Collective A/S",
+    "ticker": "BETCO",
+    "exchange": ""
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 2302998,
+    "output": 63825,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 64,
+    "cacheRead": 2172569,
+    "cacheWrite": 130365,
+    "turns": 1
+  },
+  "prepared": "19 Nov 2026",
+  "report": {
+    "releaseDate": "18 Nov 2026 (after CET close); webcast 19 Nov 2026 10:00 CET",
+    "currency": "EUR (tables in € millions; ~$ equivalents at an ASSUMED EUR/USD 1.15 — see confidence note)",
+    "verdict": "A respectable operating quarter hiding a weakening core: record Q3 revenue of €83.1m (~$95.6m, +6% organic, +5% cc) and a 39% North American EBITDA margin, but recurring revenue fell 7% (56% of mix vs 64%), Europe & RoW EBITDA dropped a third, net profit was just €1.2m (~$1.4m, EPS €0.02) and a €50-70m (~$58-81m) non-cash Brazil impairment hangs over Q4. September's cut guidance is simply held; the growth engine has rotated to lower-visibility US sponsorship and prediction-market CPA while the balance sheet stops buying back stock.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "€83.1m (~$95.6m)",
+        "delta": "+6.2% YoY / +6% organic / +5% cc; -6.7% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "EBITDA before special items",
+        "value": "€21.9m (~$25.2m)",
+        "delta": "+6.1% YoY; margin 26.3% (flat YoY, -392bps QoQ)",
+        "dir": "up"
+      },
+      {
+        "label": "North America revenue / margin",
+        "value": "€26.6m (~$30.6m) / 38.9%",
+        "delta": "+27.6% YoY; margin +2,287bps YoY, +1,302bps QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Net profit (IFRS) / diluted EPS",
+        "value": "€1.2m (~$1.4m) / €0.02 (~$0.02)",
+        "delta": "-25.2% YoY; vs €0.03 in Q3-25 and €0.14 in Q2-26",
+        "dir": "down"
+      },
+      {
+        "label": "Value of Deposits (rev-share KPI)",
+        "value": "€794m (~$913m)",
+        "delta": "+9.4% YoY; -5.0% QoQ; 9M +14.3%",
+        "dir": "up"
+      },
+      {
+        "label": "Net interest-bearing debt / leverage",
+        "value": "€253.5m (~$291.5m) / 2.29x",
+        "delta": "vs 2.51x Q3-25, 2.31x Q2-26; target <3x; buyback suspended",
+        "dir": "down"
+      }
+    ],
+    "summary": [
+      "**Record Q3 revenue, but no beat to speak of:** revenue €83.1m (~$95.6m), +6.2% reported, +6% organic, +5% in constant currency (≈€1m FX tailwind), versus €78.3m (~$90.0m) in Q3-25 and €89.1m (~$102.5m) in Q2-26 (-6.7% QoQ, normal seasonality). EBITDA before special items (bsi) €21.9m (~$25.2m), +6.1%, margin 26.3% flat YoY. No consensus print was available to us; the September profit warning (-32% share day) had already reset the bar.",
+      "**Guidance held exactly where it was cut on 27 Sep (regulatory release 85/2026):** FY26 organic revenue growth 3-8% (was 7-12%) and EBITDA bsi growth -7% to +3% (was +8% to +18%), both constant currency; net debt/EBITDA <3x unchanged. The entire downgrade is Brazil: Provisional Measure 1,394/2026 of 25 Sep banned fixed-odds betting, online casino and related marketing from 6 Oct; Brazil was trending to ~€45m (~$51.7m) FY26 revenue (12% of consensus group revenue) and is now expected at ~€30m (~$34.5m), i.e. ~€15m (~$17.2m) removed from Q4, against an annual Brazilian cost base of ~€10m (~$11.5m).",
+      "**Q3 Brazil impact was small (≈€1m, ~$1.1m) plus softer NDC intake — the hit lands in Q4 and 2027.** Brazil revenue peaked at >€70m (~$80m) in 2024 and fell to €49m (~$56m) in 2025 after the new tax regime; 2026 brought welcome-bonus restrictions, further tax rises and now the ban. Management plans on zero Brazil betting/casino revenue; 'our planning does not depend on a regulatory reversal'.",
+      "**€50-70m (~$58-81m) non-cash impairment is live but not yet booked (Note 7):** Brazil-related domains and customer accounts are carried at an estimated €50-70m. Congress has 120 days from 25 Sep (i.e. to roughly late January 2027) to convert, amend or reject the MP; if converted and management concludes the market will not reopen, the full range hits the income statement. Group goodwill (€342m, ~$393m) and domains (€529m, ~$609m) passed the 30-Sep value-in-use test at WACC 10.2-11.4% and 2.5% terminal growth; a +1pt WACC does not trigger impairment.",
+      "**North America is now the P&L:** revenue €26.6m (~$30.6m), +27.6% YoY and +9.8% QoQ, 32% of group revenue (27% a year ago); EBITDA bsi €10.3m (~$11.9m), more than 3x the €3.3m (~$3.8m) of Q3-25, margin 38.9% (16.0%) — 47% of group EBITDA versus 16%. Drivers: sponsorship +112% to €9.2m (~$10.5m) on talent-led media (Playmaker HQ), prediction-market CPA (+39% to €5.5m, ~$6.4m) and costs -7%. Note NA revenue share fell 18% to €5.8m (~$6.7m) against a prior-year comp flattered by hybrid deals with upfront CPA components.",
+      "**Europe & RoW is where the damage sits, and it is under-discussed:** revenue €56.5m (~$65.0m), -1.5% YoY and -12.9% QoQ; costs +12.1% to €45.0m (~$51.7m); EBITDA bsi €11.6m (~$13.3m), -33.2% YoY and -44.2% QoQ; margin 20.4% (-969bps YoY, -1,146bps QoQ). The UK Remote Gaming Duty step-up (21%→40% from 1 Apr 2026) cost ~€2m (~$2.3m) in the quarter and Brazil ~€1m; 9M E&RoW EBITDA is -12.7% on +0.7% revenue.",
+      "**Mix is shifting from recurring to transactional:** revenue share -7.5% to €35.5m (~$40.9m, 43% of revenue vs 49%); recurring revenue (rev share + subscription + CPM) -7.3% to €46.3m (~$53.2m), 56% of the mix vs 64%. Offsetting: sponsorship +66% to €15.9m (~$18.2m), CPA +10% to €20.4m (~$23.5m), subscription +12% to €4.4m (~$5.0m). Sponsorship + CPM (to be merged into a single 'Advertising' line in the FY26 annual report) grew 30% to €22.2m (~$25.6m) as direct sales cannibalise programmatic (CPM -16%).",
+      "**Sports win margin: a €6.5m (~$7.5m) 'would-have-been' that is YoY-neutral.** Operator hold was unusually low in Q3-26, in line with an equally low Q3-25, so there is no growth effect; management nonetheless headlines that revenue and EBITDA would have been €6.5m higher at normal margin. For an affiliate paid on NGR, low hold is the direct analogue of an operator's net-margin miss — worth watching for Q4 (NFL-heavy).",
+      "**Group event stats — World Cup tail, not a surge:** the 2026 FIFA World Cup gave a 'small boost' to NDC intake in Q3, smaller than Q2. NDCs 272k, -2.5% YoY and -27% QoQ (Q2: 373k), 70% on revenue-share terms; the CPA share rose on US prediction markets, which are CPA-structured. Value of Deposits €794m (~$913m), +9.4% YoY (-5.0% QoQ vs €836m), 9M €2.43bn (~$2.79bn) +14%; management flags VoD will show a negative Brazil effect in coming quarters.",
+      "**Cost base: headcount is the lever, but no quantified programme.** Average FTEs 1,277, -15.6% YoY and -16.8% QoQ (1,535 in Q2) after July efficiency measures; further post-Q3 cuts in Brazil. Staff costs only -3.2% to €24.1m (~$27.7m) as the cuts landed mid-quarter; direct costs +15.6% to €29.3m (~$33.7m, 35.2% of revenue vs 32.4%) on World Cup activity, talent-led media and Paid Media campaigns; other external +6% to €7.8m (~$9.0m). Total costs €61.2m (~$70.4m), +6.3% YoY, -€1m QoQ. Restructuring special items €2.0m (~$2.3m) in Q3, €5.2m (~$6.0m) 9M. No savings target or target year has been disclosed — a gap.",
+      "**Earnings quality below EBITDA is deteriorating:** D&A €13.2m (~$15.1m) vs €9.6m, with amortisation +54% to €11.6m (~$13.4m) on talent-led and development projects; EBIT bsi €8.7m (~$10.0m), -24%; net financials -€4.0m (~$4.6m); ETR 54.5% on unrecognised tax losses; net profit €1.2m (~$1.4m), -25%; basic/diluted EPS €0.02 (~$0.02). 9M net profit €16.8m (~$19.3m), +59%, diluted EPS €0.27 (~$0.31).",
+      "**Cash: conversion fine, free cash flow thin.** Cash flow from operations bsi €26.4m (~$30.4m), -24% YoY (working-capital inflow €4.0m vs €13.8m), 119% cash conversion; cash from operating activities after interest and tax €19.6m (~$22.5m), +4%. Investment in intangibles jumped to €11.2m (~$12.8m) from €4.8m (talent-led media/development, 'other investments'), so analyst-derived FCF (operating cash flow less tangible and intangible capex) was €8.1m (~$9.4m) vs €13.9m (~$16.0m); 9M €29.9m (~$34.4m) vs €23.2m.",
+      "**Capital position: leverage 2.29x and a longer runway, but buybacks are gone.** NIBD €253.5m (~$291.5m) vs €252.7m at Q2 and €258.4m at FY25; LTM EBITDA bsi €110.9m (~$127.5m). €319m (~$367m) Nordea/Nykredit club facility extended in August to end-October 2029 (accordion +€80m, ~$92m); €267m (~$307m) drawn, €55m (~$63m) undrawn, cash €23.2m (~$26.7m), capital reserves €78m (~$90m). Two DKK 550m swaps extended to Oct 2029 at 2.64%/2.66% (from 2.29%/2.31%). Buybacks €9.1m (~$10.4m) in Q3, €23.5m (~$27.0m) 9M, now discontinued; 3.2m treasury shares (5.2%) cancelled 9 Jan; 58.75m shares in issue.",
+      "**Management reshuffle announced with the results — three ELT changes at once:** co-founder Jesper Søgaard becomes sole CEO; co-founder Christian Kirk Rasmussen steps down as co-CEO (stays on the Senior Leadership Team, focusing on affiliation and performance-marketing projects); Flemming Pedersen moves from CFO to COO; Dan Bjerregaard (SVP Finance & Global Shared Services) becomes CFO. The interim report itself is still signed by the outgoing co-CEO/CFO structure. Ending a 20-year co-CEO model during a regulatory shock is a governance event, not a footnote.",
+      "**Product/strategy: the pivot to US prediction markets and talent media is real and fast.** Playbook (AI platform) integrated Kalshi and then Novig; Prediction Pro launched 19 Oct 2026 (Kalshi and Polymarket pricing, 2026 US Midterms hub, standalone or Action Pro add-on); Yahoo Sports partnership; Playmaker HQ's Roommates Show sold >10,000 tickets in NYC; FUTBIN became an official EA SPORTS FC 27 partner; HLTV posted record traffic at the Esports World Cup and launched HLTV Brain. Management (per next.io) is explicitly targeting a bigger share of partners' total marketing budgets, not just affiliation.",
+      "**Segment read: Publishing carries the group, Paid Media is leaking, Esports is a margin outlier.** Publishing revenue €53.9m (~$62.0m), +16.5%, EBITDA bsi €13.4m (~$15.4m), +19%, margin 24.8%. Paid Media revenue €24.2m (~$27.9m), -12.2%, EBITDA bsi €4.9m (~$5.6m), -31%, margin 20.1% (-558bps). Esports revenue €5.0m (~$5.7m), +14%, EBITDA bsi €3.7m (~$4.2m), +58%, margin 73.4% — partly Counter-Strike event-cost timing.",
+      "**2027-28 financial targets withdrawn; capital-allocation policy unchanged on paper** (deleverage above 3x, organic investment and selective M&A, then buybacks/dividends). Reinstatement of both targets and buybacks is now hostage to the Brazilian Congress.",
+      "**Thesis read-through for the sector:** (1) affiliates are fully exposed to operator hold and to tax pass-through — the UK RGD increase is already costing BETCO ~€2m a quarter via lower operator payouts; (2) US prediction markets (Kalshi, Novig, Polymarket) have become a material CPA acquisition channel for sports media — bullish for US-facing affiliates, but with its own regulatory tail; (3) Brazil shows that a 'regulated' LatAm market can be switched off by decree — relevant to every operator and supplier with Brazilian exposure; (4) the recurring-revenue share of an affiliate's mix is the number to watch as the industry migrates to media/advertising economics."
+    ],
+    "groupTable": {
+      "note": "€m (~$m at assumed EUR/USD 1.15)",
+      "columns": [
+        "Q3-26",
+        "QoQ",
+        "YoY",
+        "9M-26",
+        "9M YoY"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by geography",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "North America",
+          "indent": true,
+          "cells": [
+            "26.6 (~$30.6)",
+            "+9.8%",
+            "+27.6%",
+            "76.7 (~$88.2)",
+            "+24.0%"
+          ]
+        },
+        {
+          "label": "Europe & Rest of World",
+          "indent": true,
+          "cells": [
+            "56.5 (~$65.0)",
+            "-12.9%",
+            "-1.5%",
+            "181.9 (~$209.2)",
+            "+0.7%"
+          ]
+        },
+        {
+          "label": "Revenue by business segment",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Publishing",
+          "indent": true,
+          "cells": [
+            "53.9 (~$62.0)",
+            "-6.3%",
+            "+16.5%",
+            "165.4 (~$190.3)",
+            "+9.1%"
+          ]
+        },
+        {
+          "label": "Paid Media",
+          "indent": true,
+          "cells": [
+            "24.2 (~$27.9)",
+            "-8.6%",
+            "-12.2%",
+            "78.4 (~$90.1)",
+            "+1.4%"
+          ]
+        },
+        {
+          "label": "Esports",
+          "indent": true,
+          "cells": [
+            "5.0 (~$5.7)",
+            "-1.6%",
+            "+13.8%",
+            "14.8 (~$17.0)",
+            "+10.0%"
+          ]
+        },
+        {
+          "label": "Group revenue",
+          "kind": "emphasis",
+          "cells": [
+            "83.1 (~$95.6)",
+            "-6.7%",
+            "+6.2%",
+            "258.6 (~$297.4)",
+            "+6.7%"
+          ]
+        },
+        {
+          "label": "Organic growth / in constant currency",
+          "indent": true,
+          "cells": [
+            "+6% / +5%",
+            "Q2: +9% / +9%",
+            "Q3-25: -4% / -1%",
+            "+7% / +8%",
+            "9M-25: -14% / -10%"
+          ]
+        },
+        {
+          "label": "Revenue by type",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Revenue share",
+          "indent": true,
+          "cells": [
+            "35.5 (~$40.9)",
+            "-18.5%",
+            "-7.5%",
+            "118.7 (~$136.5)",
+            "+1.6%"
+          ]
+        },
+        {
+          "label": "CPA",
+          "indent": true,
+          "cells": [
+            "20.4 (~$23.5)",
+            "+4.6%",
+            "+10.3%",
+            "61.3 (~$70.5)",
+            "+6.5%"
+          ]
+        },
+        {
+          "label": "Sponsorships",
+          "indent": true,
+          "cells": [
+            "15.9 (~$18.2)",
+            "+1.3%",
+            "+66.3%",
+            "45.7 (~$52.6)",
+            "+40.3%"
+          ]
+        },
+        {
+          "label": "CPM (programmatic advertising)",
+          "indent": true,
+          "cells": [
+            "6.4 (~$7.4)",
+            "+13.4%",
+            "-16.2%",
+            "18.3 (~$21.1)",
+            "-15.2%"
+          ]
+        },
+        {
+          "label": "Subscription",
+          "indent": true,
+          "cells": [
+            "4.4 (~$5.0)",
+            "+3.2%",
+            "+12.2%",
+            "12.9 (~$14.8)",
+            "-1.4%"
+          ]
+        },
+        {
+          "label": "Recurring revenue (rev share + subs + CPM), % of total",
+          "indent": true,
+          "cells": [
+            "46.3 (~$53.2) / 56%",
+            "Q2: 60%",
+            "Q3-25: 64%",
+            "149.9 (~$172.4) / 58%",
+            "9M-25: 62%"
+          ]
+        },
+        {
+          "label": "Costs",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Direct costs related to revenue (% of revenue)",
+          "indent": true,
+          "cells": [
+            "29.3 (~$33.7) / 35.2%",
+            "n/a",
+            "+15.6% (32.4%)",
+            "83.6 (~$96.2) / 32.3%",
+            "+13.0%"
+          ]
+        },
+        {
+          "label": "Staff costs (% of revenue)",
+          "indent": true,
+          "cells": [
+            "24.1 (~$27.7) / 29.0%",
+            "n/a",
+            "-3.2% (31.8%)",
+            "76.2 (~$87.6) / 29.5%",
+            "-3.7%"
+          ]
+        },
+        {
+          "label": "Other external expenses",
+          "indent": true,
+          "cells": [
+            "7.8 (~$9.0)",
+            "n/a",
+            "+6.2%",
+            "24.8 (~$28.5)",
+            "+2.6%"
+          ]
+        },
+        {
+          "label": "Total costs",
+          "indent": true,
+          "cells": [
+            "61.2 (~$70.4)",
+            "-1.5%",
+            "+6.3%",
+            "184.6 (~$212.3)",
+            "+4.2%"
+          ]
+        },
+        {
+          "label": "EBITDA before special items (group)",
+          "kind": "emphasis",
+          "cells": [
+            "21.9 (~$25.2)",
+            "-18.8%",
+            "+6.1%",
+            "74.0 (~$85.1)",
+            "+13.5% (+9% cc)"
+          ]
+        },
+        {
+          "label": "EBITDA bsi margin",
+          "indent": true,
+          "cells": [
+            "26.3%",
+            "-392bps",
+            "-3bps",
+            "28.6%",
+            "+172bps"
+          ]
+        },
+        {
+          "label": "North America EBITDA bsi (margin)",
+          "indent": true,
+          "cells": [
+            "10.3 (~$11.9) / 38.9%",
+            "+65.1%",
+            "+209.5%",
+            "24.6 (~$28.2) / 32.0%",
+            "+187.5%"
+          ]
+        },
+        {
+          "label": "Europe & RoW EBITDA bsi (margin)",
+          "indent": true,
+          "cells": [
+            "11.6 (~$13.3) / 20.4%",
+            "-44.2%",
+            "-33.2%",
+            "49.4 (~$56.8) / 27.2%",
+            "-12.7%"
+          ]
+        },
+        {
+          "label": "Publishing EBITDA bsi (margin)",
+          "indent": true,
+          "cells": [
+            "13.4 (~$15.4) / 24.8%",
+            "-20.7%",
+            "+18.9%",
+            "45.6 (~$52.5) / 27.6%",
+            "+22.4%"
+          ]
+        },
+        {
+          "label": "Paid Media EBITDA bsi (margin)",
+          "indent": true,
+          "cells": [
+            "4.9 (~$5.6) / 20.1%",
+            "-29.9%",
+            "-31.3%",
+            "18.6 (~$21.4) / 23.7%",
+            "-2.6%"
+          ]
+        },
+        {
+          "label": "Esports EBITDA bsi (margin)",
+          "indent": true,
+          "cells": [
+            "3.7 (~$4.2) / 73.4%",
+            "+15.4%",
+            "+58.1%",
+            "9.8 (~$11.2) / 66.0%",
+            "+10.6%"
+          ]
+        },
+        {
+          "label": "Special items, net (restructuring, M&A)",
+          "cells": [
+            "-2.1 (~$-2.4)",
+            "Q2: -1.5",
+            "Q3-25: -3.4",
+            "-5.4 (~$-6.2)",
+            "9M-25: -7.1"
+          ]
+        },
+        {
+          "label": "EBITDA (IFRS, after special items)",
+          "cells": [
+            "19.9 (~$22.8)",
+            "-21.9%",
+            "+15.4%",
+            "68.6 (~$78.8)",
+            "+18.0%"
+          ]
+        },
+        {
+          "label": "Depreciation, amortisation & impairment",
+          "cells": [
+            "13.2 (~$15.1)",
+            "Q2: 11.2",
+            "+36.7%",
+            "34.7 (~$39.9)",
+            "+16.0%"
+          ]
+        },
+        {
+          "label": "EBIT before special items",
+          "cells": [
+            "8.7 (~$10.0)",
+            "-44.5%",
+            "-23.9%",
+            "39.3 (~$45.2)",
+            "+9.9%"
+          ]
+        },
+        {
+          "label": "Operating profit (EBIT, IFRS)",
+          "cells": [
+            "6.7 (~$7.7)",
+            "Q2: 14.2",
+            "-16.9%",
+            "33.9 (~$38.9)",
+            "+18.2%"
+          ]
+        },
+        {
+          "label": "Net financial items",
+          "cells": [
+            "-4.0 (~$-4.6)",
+            "Q2: -3.3",
+            "Q3-25: -4.5",
+            "-9.8 (~$-11.3)",
+            "9M-25: -16.8"
+          ]
+        },
+        {
+          "label": "Profit before tax",
+          "cells": [
+            "2.7 (~$3.1)",
+            "Q2: 10.9",
+            "-24.7%",
+            "24.1 (~$27.7)",
+            "+103%"
+          ]
+        },
+        {
+          "label": "Tax (effective rate)",
+          "cells": [
+            "1.5 (~$1.7) / 54.5%",
+            "Q2: 2.7",
+            "Q3-25: 1.9 / 54.1%",
+            "7.3 (~$8.4) / 30.2%",
+            "9M-25: 1.3 / 10.8%"
+          ]
+        },
+        {
+          "label": "Net profit (IFRS)",
+          "kind": "emphasis",
+          "cells": [
+            "1.2 (~$1.4)",
+            "-85.1%",
+            "-25.2%",
+            "16.8 (~$19.3)",
+            "+58.9%"
+          ]
+        },
+        {
+          "label": "EPS basic (€ / ~$)",
+          "indent": true,
+          "cells": [
+            "0.02 (~$0.02)",
+            "Q2: 0.15",
+            "Q3-25: 0.03",
+            "0.28 (~$0.32)",
+            "9M-25: 0.17"
+          ]
+        },
+        {
+          "label": "EPS diluted (€ / ~$)",
+          "indent": true,
+          "cells": [
+            "0.02 (~$0.02)",
+            "Q2: 0.14",
+            "Q3-25: 0.03",
+            "0.27 (~$0.31)",
+            "9M-25: 0.16"
+          ]
+        },
+        {
+          "label": "Adjusted EPS",
+          "indent": true,
+          "cells": [
+            "n/a (not disclosed)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "New Depositing Customers (k)",
+          "indent": true,
+          "cells": [
+            "272",
+            "-27.1%",
+            "-2.5%",
+            "953",
+            "+6.5%"
+          ]
+        },
+        {
+          "label": "Value of Deposits (rev-share users)",
+          "indent": true,
+          "cells": [
+            "794 (~$913)",
+            "-5.0%",
+            "+9.4%",
+            "2,429 (~$2,793)",
+            "+14.3%"
+          ]
+        },
+        {
+          "label": "Average FTEs",
+          "indent": true,
+          "cells": [
+            "1,277",
+            "-16.8%",
+            "-15.6%",
+            "1,465",
+            "-10.0%"
+          ]
+        },
+        {
+          "label": "Audience (monthly uniques / sessions / pageviews)",
+          "indent": true,
+          "cells": [
+            ">112m / >450m / 2.7bn",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Cash flow",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Cash flow from operations before special items",
+          "indent": true,
+          "cells": [
+            "26.4 (~$30.4)",
+            "-11.7%",
+            "-24.0%",
+            "81.6 (~$93.9)",
+            "+10.1%"
+          ]
+        },
+        {
+          "label": "Cash conversion before special items",
+          "indent": true,
+          "cells": [
+            "119%",
+            "Q2: 111%",
+            "Q3-25: 168%",
+            "110%",
+            "9M-25: 113%"
+          ]
+        },
+        {
+          "label": "Cash from operating activities (after interest & tax)",
+          "indent": true,
+          "cells": [
+            "19.6 (~$22.5)",
+            "n/a",
+            "+3.8%",
+            "60.0 (~$69.0)",
+            "+56.9%"
+          ]
+        },
+        {
+          "label": "Capex: intangible + tangible",
+          "indent": true,
+          "cells": [
+            "11.4 (~$13.1)",
+            "n/a",
+            "+130.8%",
+            "30.2 (~$34.7)",
+            "+100.6%"
+          ]
+        },
+        {
+          "label": "Free cash flow (analyst-derived: op. activities less capex)",
+          "indent": true,
+          "cells": [
+            "8.1 (~$9.4)",
+            "n/a",
+            "-41.4%",
+            "29.9 (~$34.4)",
+            "+28.6%"
+          ],
+          "footnote": "Analyst calculation from the cash-flow statement; the company does not report FCF."
+        },
+        {
+          "label": "Share buybacks",
+          "indent": true,
+          "cells": [
+            "9.1 (~$10.4)",
+            "n/a",
+            "Q3-25: 11.4",
+            "23.5 (~$27.0)",
+            "9M-25: 24.9"
+          ]
+        },
+        {
+          "label": "Balance sheet",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Cash",
+          "indent": true,
+          "cells": [
+            "23.2 (~$26.7)",
+            "Q2: 25.1",
+            "Q3-25: 23.4",
+            "FY25: 13.5",
+            ""
+          ]
+        },
+        {
+          "label": "Net interest-bearing debt",
+          "indent": true,
+          "cells": [
+            "253.5 (~$291.5)",
+            "+0.3%",
+            "+2.2%",
+            "FY25: 258.4 (~$297.2)",
+            ""
+          ]
+        },
+        {
+          "label": "NIBD / LTM EBITDA bsi (target <3x)",
+          "indent": true,
+          "cells": [
+            "2.29x",
+            "Q2: 2.31x",
+            "Q3-25: 2.51x",
+            "FY25: 2.53x",
+            ""
+          ]
+        },
+        {
+          "label": "Equity",
+          "indent": true,
+          "cells": [
+            "639.8 (~$735.8)",
+            "Q2: 645.0",
+            "Q3-25: 627.3",
+            "FY25: 631.0",
+            ""
+          ]
+        },
+        {
+          "label": "Brazil-related assets at risk of impairment (Note 7)",
+          "indent": true,
+          "cells": [
+            "50-70 (~$58-81)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "North America (geographic segment)",
+        "headline": "The growth and margin engine: revenue +28% to €26.6m (~$30.6m), EBITDA bsi more than tripled to €10.3m (~$11.9m) at a 39% margin — but built on sponsorship and prediction-market CPA while revenue share fell 18%.",
+        "narrative": [
+          "They delivered another step-change quarter in North America, with revenue up 27.6% YoY and 9.8% QoQ to €26.6m (~$30.6m), taking the region to 32% of group revenue from 27% a year ago (9M: €76.7m, ~$88.2m, +24%). EBITDA before special items rose to €10.3m (~$11.9m) from €3.3m (~$3.8m), a 38.9% margin against 16.0% in Q3-25 and 25.9% in Q2-26 — 47% of group EBITDA bsi versus 16% a year ago. The margin expansion was as much a cost story as a revenue one: segment costs fell 7.2% YoY and 9.5% QoQ to €16.2m (~$18.7m), which management attributes to 'growing pure revenue share income, prediction markets and talent-led media' but which also reflects the July headcount reduction and lower upfront CPA-related direct costs. Market-share and ranking data are not disclosed for the affiliate business; Action Network, VegasInsider and Playmaker HQ are the brands that matter, and the group's House of Brands claims >112m monthly uniques globally.",
+          "The revenue mix tells the real story. Sponsorship more than doubled (+111.9%) to €9.2m (~$10.5m) and CPM rose 28% to €2.9m (~$3.3m), so advertising-type revenue (the future 'Advertising' line) was €12.0m (~$13.9m), +83% YoY and 45% of the region, driven by Playmaker HQ's talent-led formats (the Roommates Show sold >10,000 tickets for a live NYC podcast event), HLTV and Playbook. CPA rose 38.6% to €5.5m (~$6.4m) on prediction-market partners — Kalshi and subsequently Novig were integrated into Playbook, and Prediction Pro (Kalshi and Polymarket pricing, a US Midterms hub) launched on 19 October — and these agreements are structured almost entirely on a CPA basis, which is why the group's CPA share of NDCs rose. Against that, revenue share fell 17.7% to €5.8m (~$6.7m) and subscription fell 9.2% to €2.9m (~$3.3m); management attributes the revenue-share decline to an 'elevated prior-year comparison' that benefited from hybrid agreements with upfront CPA components now transitioning to pure revenue share, and notes a September subscription rebound with the NFL kick-off. Deferred revenue on the group balance sheet halving to €6.5m (~$7.5m) from €13.5m at FY25 is consistent with those upfront components unwinding.",
+          "Our read is that the quality of North American growth is improving on the cost line and deteriorating on the revenue line. The US is now the group's largest profit pool at a 39% margin, the 9M margin is 32% versus 14% a year ago, and the NFL-heavy Q4 (Q4-25 regional revenue was €31.3m, ~$36.0m, at a 56% EBITDA bsi margin by our arithmetic from the FY25 and 9M-25 disclosures) should keep the absolute numbers rising. But two-thirds of the YoY revenue increase came from sponsorship and prediction-market CPA — revenue that is contracted, campaign-based and exposed to US regulatory challenges to sports event contracts — while the recurring revenue-share base is shrinking. Sports win margin cut both ways: low hold hits revenue share, and it was unusually low in Q3 (a €6.5m, ~$7.5m group-level shortfall versus normal, though YoY-neutral). Value of Deposits growth was described as broad-based across all businesses, which implies the US rev-share cohorts are still maturing even as reported revenue-share income falls — a divergence that needs explaining in Q4. No separate segment guidance is given; the group guide implicitly leans on North America to offset the Brazilian hole."
+        ],
+        "table": {
+          "note": "North America, €m (~$m at assumed 1.15)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue by type",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Revenue share",
+              "indent": true,
+              "cells": [
+                "5.8 (~$6.7)",
+                "-7.1%",
+                "-17.7%",
+                "17.7 (~$20.3)",
+                "+16.9%"
+              ]
+            },
+            {
+              "label": "CPA (incl. prediction markets)",
+              "indent": true,
+              "cells": [
+                "5.5 (~$6.4)",
+                "+7.8%",
+                "+38.6%",
+                "15.9 (~$18.3)",
+                "+14.6%"
+              ]
+            },
+            {
+              "label": "Subscription (Action Pro etc.)",
+              "indent": true,
+              "cells": [
+                "2.9 (~$3.3)",
+                "+1.4%",
+                "-9.2%",
+                "8.8 (~$10.1)",
+                "-18.4%"
+              ]
+            },
+            {
+              "label": "Sponsorships",
+              "indent": true,
+              "cells": [
+                "9.2 (~$10.5)",
+                "+4.7%",
+                "+111.9%",
+                "26.5 (~$30.5)",
+                "+65.8%"
+              ]
+            },
+            {
+              "label": "CPM",
+              "indent": true,
+              "cells": [
+                "2.9 (~$3.3)",
+                "+173.0%",
+                "+28.3%",
+                "7.0 (~$8.1)",
+                "+19.4%"
+              ]
+            },
+            {
+              "label": "Other",
+              "indent": true,
+              "cells": [
+                "0.3 (~$0.4)",
+                "+86%",
+                "n.m.",
+                "0.7 (~$0.9)",
+                "n.m."
+              ]
+            },
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "26.6 (~$30.6)",
+                "+9.8%",
+                "+27.6%",
+                "76.7 (~$88.2)",
+                "+24.0%"
+              ]
+            },
+            {
+              "label": "Share of group revenue",
+              "indent": true,
+              "cells": [
+                "32.0%",
+                "Q2: 27.2%",
+                "Q3-25: 26.6%",
+                "29.6%",
+                "9M-25: 25.5%"
+              ]
+            },
+            {
+              "label": "Advertising (sponsorship + CPM)",
+              "indent": true,
+              "cells": [
+                "12.0 (~$13.9)",
+                "+22.9%",
+                "+83.3%",
+                "33.5 (~$38.6)",
+                "+53.3%"
+              ]
+            },
+            {
+              "label": "Costs",
+              "cells": [
+                "16.2 (~$18.7)",
+                "-9.5%",
+                "-7.2%",
+                "52.1 (~$59.9)",
+                "-2.2%"
+              ]
+            },
+            {
+              "label": "EBITDA before special items",
+              "kind": "emphasis",
+              "cells": [
+                "10.3 (~$11.9)",
+                "+65.1%",
+                "+209.5%",
+                "24.6 (~$28.2)",
+                "+187.5%"
+              ]
+            },
+            {
+              "label": "EBITDA bsi margin",
+              "indent": true,
+              "cells": [
+                "38.9%",
+                "+1,302bps",
+                "+2,287bps",
+                "32.0%",
+                "+1,822bps"
+              ]
+            },
+            {
+              "label": "Share of group EBITDA bsi",
+              "indent": true,
+              "cells": [
+                "47.2%",
+                "Q2: 23.2%",
+                "Q3-25: 16.2%",
+                "33.2%",
+                "9M-25: 13.1%"
+              ]
+            },
+            {
+              "label": "Special items",
+              "cells": [
+                "-0.1 (~$-0.1)",
+                "Q2: -0.2",
+                "Q3-25: -0.6",
+                "-0.8 (~$-0.9)",
+                "9M-25: -2.1"
+              ]
+            },
+            {
+              "label": "EBITDA (IFRS)",
+              "cells": [
+                "10.3 (~$11.8)",
+                "+69.8%",
+                "+275%",
+                "23.7 (~$27.3)",
+                "+266%"
+              ]
+            },
+            {
+              "label": "EBITA margin",
+              "cells": [
+                "38%",
+                "Q2: 23%",
+                "Q3-25: 15%",
+                "30%",
+                "9M-25: 9%"
+              ]
+            },
+            {
+              "label": "Handle / net margin / promo % handle / actives / ARPU",
+              "cells": [
+                "n/a (affiliate; not disclosed)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and EBITDA",
+            "takeaway": "Revenue rose 27.6% YoY and 9.8% QoQ to €26.6m (~$30.6m); EBITDA bsi more than tripled to €10.3m (~$11.9m) at a 38.9% margin.",
+            "points": [
+              "Region now 32% of group revenue from 27% a year ago; 9M revenue €76.7m (~$88.2m), +24%.",
+              "EBITDA bsi rose from €3.3m (~$3.8m); margin 38.9% versus 16.0% in Q3-25 and 25.9% in Q2-26.",
+              "Region is 47% of group EBITDA bsi versus 16% a year ago.",
+              "Market-share and ranking data not disclosed; Action Network, VegasInsider and Playmaker HQ are the brands that matter; House of Brands claims >112m monthly uniques globally."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Segment costs",
+            "takeaway": "Margin expansion was as much a cost story as a revenue one: segment costs fell 7.2% YoY and 9.5% QoQ to €16.2m (~$18.7m).",
+            "points": [
+              "Management attributes the fall to growing pure revenue share income, prediction markets and talent-led media.",
+              "It also reflects the July headcount reduction and lower upfront CPA-related direct costs."
+            ],
+            "quote": {
+              "text": "growing pure revenue share income, prediction markets and talent-led media",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Revenue mix",
+            "takeaway": "Sponsorship more than doubled and CPA rose 38.6%, but revenue share fell 17.7% and subscription fell 9.2%.",
+            "points": [
+              "Sponsorship +111.9% to €9.2m (~$10.5m); CPM +28% to €2.9m (~$3.3m); advertising-type revenue €12.0m (~$13.9m), +83% YoY, 45% of region.",
+              "Driven by Playmaker HQ talent-led formats (Roommates Show sold >10,000 tickets for live NYC podcast event), HLTV and Playbook.",
+              "CPA +38.6% to €5.5m (~$6.4m) on prediction-market partners; Kalshi then Novig integrated into Playbook; Prediction Pro launched 19 October.",
+              "Prediction-market agreements structured almost entirely on CPA basis, lifting the group's CPA share of NDCs.",
+              "Revenue share -17.7% to €5.8m (~$6.7m) on an 'elevated prior-year comparison'; subscription -9.2% to €2.9m (~$3.3m) with September NFL rebound.",
+              "Group deferred revenue halving to €6.5m (~$7.5m) from €13.5m at FY25 is consistent with upfront CPA components unwinding."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Quality of growth",
+            "takeaway": "Growth quality is improving on the cost line and deteriorating on the revenue line; two-thirds of YoY revenue increase came from sponsorship and prediction-market CPA.",
+            "points": [
+              "US is now the group's largest profit pool at 39% margin; 9M margin 32% versus 14% a year ago.",
+              "NFL-heavy Q4 should keep absolute numbers rising: Q4-25 regional revenue was €31.3m (~$36.0m) at a 56% EBITDA bsi margin by our arithmetic.",
+              "Sponsorship and prediction-market CPA revenue is contracted, campaign-based and exposed to US regulatory challenges to sports event contracts; recurring revenue-share base is shrinking.",
+              "Sports win margin was unusually low in Q3 (€6.5m, ~$7.5m group-level shortfall versus normal, though YoY-neutral).",
+              "Value of Deposits growth broad-based, implying US rev-share cohorts still maturing while reported revenue share falls — a divergence needing explanation in Q4."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Guidance",
+            "takeaway": "No separate segment guidance; the group guide implicitly leans on North America to offset the Brazilian hole.",
+            "points": [
+              "No segment-level guidance is given.",
+              "Group guidance relies on North America to offset Brazil."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Europe & Rest of World (geographic segment, incl. UK, Nordics, Southern Europe, Brazil/LatAm)",
+        "headline": "Revenue -1.5% to €56.5m (~$65.0m) but EBITDA bsi -33% to €11.6m (~$13.3m) as costs rose 12%: UK duty, Brazil and Paid Media pressure compressed the margin by ~970bps to 20%.",
+        "narrative": [
+          "They reported Europe & RoW revenue of €56.5m (~$65.0m), down 1.5% YoY and 12.9% QoQ (Q2 had the World Cup group stage), still 68% of group revenue but down from 73%. Revenue share, the region's backbone, fell 5.2% to €29.7m (~$34.2m) and CPM dropped 34.9% to €3.5m (~$4.0m), partly offset by CPA +2.4% to €14.9m (~$17.1m), sponsorship +28.5% to €6.7m (~$7.7m) and subscription more than doubling to €1.5m (~$1.7m) on Mindway AI's continued growth. Regional sub-disclosure (UK & Ireland, Southern Europe, Nordics, Brazil) is not provided, but management quantified the two regulatory headwinds: ~€2m (~$2.3m) from the UK Remote Gaming Duty rising from 21% to 40% on 1 April 2026 — which flows to an affiliate through lower operator revenue-share payouts and tighter CPA budgets — and ~€1m (~$1.1m) from Brazil, where the 25 September Provisional Measure forced licensed operators to cease by 6 October, after welcome-bonus restrictions and further tax increases earlier in the year.",
+          "The cost line is the problem. Segment costs rose 12.1% YoY and 1.8% QoQ to €45.0m (~$51.7m) on a revenue base that shrank, so EBITDA before special items fell 33.2% YoY and 44.2% QoQ to €11.6m (~$13.3m) and the margin dropped to 20.4% from 30.1% a year ago and 31.9% in Q2. For 9M the region is +0.7% on revenue and -12.7% on EBITDA at a 27.2% margin (-420bps). Part of this is allocation — the majority of group support-function costs sit in Publishing and, by extension, in this region — and part is the direct-cost increase (group direct costs +€4m) tied to World Cup activity and Paid Media campaign spend. But the asymmetry is stark: North American costs fell €1.3m YoY while Europe & RoW costs rose €4.9m, and management has not reconciled that split, which we would press on.",
+          "Looking forward, this is the segment that absorbs Brazil. Of the ~€45m (~$51.7m) Brazil was expected to contribute in FY26, roughly €29-30m has already been booked through 9M; the ~€15m (~$17.2m) that is now lost sits in Q4, and the ~€10m (~$11.5m) annual Brazilian cost base is being cut (post-Q3 'operational adjustments', with restructuring in special items). Brazil revenue peaked above €70m (~$80m) in 2024, so the region has already lost ~€40m of annual revenue since then. Value of Deposits will carry a visible Brazil drag in the coming quarters. Separately, the FY26 UK RGD plus Brazil EBITDA headwind was guided at ~€8m (~$9.2m). The regional business ex-Brazil is described as delivering an 8-10% revenue CAGR 2022-26, which is the management framing for why the asset base is not impaired; the €50-70m (~$58-81m) Brazil-specific impairment risk is, in substance, a Europe & RoW item."
+        ],
+        "table": {
+          "note": "Europe & Rest of World, €m (~$m at assumed 1.15)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue by type",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Revenue share",
+              "indent": true,
+              "cells": [
+                "29.7 (~$34.2)",
+                "-20.4%",
+                "-5.2%",
+                "101.0 (~$116.2)",
+                "-0.7%"
+              ]
+            },
+            {
+              "label": "CPA",
+              "indent": true,
+              "cells": [
+                "14.9 (~$17.1)",
+                "+3.5%",
+                "+2.4%",
+                "45.4 (~$52.2)",
+                "+3.9%"
+              ]
+            },
+            {
+              "label": "Subscription (incl. Mindway AI)",
+              "indent": true,
+              "cells": [
+                "1.5 (~$1.7)",
+                "+6.8%",
+                "+108.8%",
+                "4.1 (~$4.7)",
+                "+79.2%"
+              ]
+            },
+            {
+              "label": "Sponsorships",
+              "indent": true,
+              "cells": [
+                "6.7 (~$7.7)",
+                "-3.0%",
+                "+28.5%",
+                "19.2 (~$22.1)",
+                "+15.9%"
+              ]
+            },
+            {
+              "label": "CPM",
+              "indent": true,
+              "cells": [
+                "3.5 (~$4.0)",
+                "-23.5%",
+                "-34.9%",
+                "11.3 (~$13.0)",
+                "-28.2%"
+              ]
+            },
+            {
+              "label": "Other",
+              "indent": true,
+              "cells": [
+                "0.3 (~$0.3)",
+                "-18%",
+                "+16%",
+                "0.9 (~$1.1)",
+                "+45%"
+              ]
+            },
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "56.5 (~$65.0)",
+                "-12.9%",
+                "-1.5%",
+                "181.9 (~$209.2)",
+                "+0.7%"
+              ]
+            },
+            {
+              "label": "Share of group revenue",
+              "indent": true,
+              "cells": [
+                "68.0%",
+                "Q2: 72.8%",
+                "Q3-25: 73.4%",
+                "70.4%",
+                "9M-25: 74.5%"
+              ]
+            },
+            {
+              "label": "Costs",
+              "cells": [
+                "45.0 (~$51.7)",
+                "+1.8%",
+                "+12.1%",
+                "132.5 (~$152.4)",
+                "+6.9%"
+              ]
+            },
+            {
+              "label": "EBITDA before special items",
+              "kind": "emphasis",
+              "cells": [
+                "11.6 (~$13.3)",
+                "-44.2%",
+                "-33.2%",
+                "49.4 (~$56.8)",
+                "-12.7%"
+              ]
+            },
+            {
+              "label": "EBITDA bsi margin",
+              "indent": true,
+              "cells": [
+                "20.4%",
+                "-1,146bps",
+                "-969bps",
+                "27.2%",
+                "-420bps"
+              ]
+            },
+            {
+              "label": "Share of group EBITDA bsi",
+              "indent": true,
+              "cells": [
+                "52.8%",
+                "Q2: 76.8%",
+                "Q3-25: 83.8%",
+                "66.8%",
+                "9M-25: 86.9%"
+              ]
+            },
+            {
+              "label": "Special items",
+              "cells": [
+                "-2.0 (~$-2.2)",
+                "Q2: -1.3",
+                "Q3-25: -2.8",
+                "-4.6 (~$-5.3)",
+                "9M-25: -5.0"
+              ]
+            },
+            {
+              "label": "EBITDA (IFRS)",
+              "cells": [
+                "9.6 (~$11.0)",
+                "-50.5%",
+                "-33.6%",
+                "44.8 (~$51.6)",
+                "-13.2%"
+              ]
+            },
+            {
+              "label": "EBITA margin",
+              "cells": [
+                "14%",
+                "Q2: 29%",
+                "Q3-25: 22%",
+                "23%",
+                "9M-25: 26%"
+              ]
+            },
+            {
+              "label": "Regulatory headwinds quantified by mgmt",
+              "cells": [
+                "UK RGD ~-2.0 (~$-2.3); Brazil ~-1.0 (~$-1.1)",
+                "Q2: UK RGD ~-2.0 + Brazil",
+                "n/a",
+                "FY26 EBITDA: ~-8 (~$-9.2) UK+Brazil",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Brazil revenue (mgmt disclosure)",
+              "cells": [
+                "n/a (Q3 impact ~-1)",
+                "n/a",
+                "n/a",
+                "FY26E ~30 (~$34.5) vs ~45 pre-ban; FY25 49; FY24 >70",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Regional split (UK&I / Southern Europe / Nordics / LatAm)",
+              "cells": [
+                "n/a (not disclosed)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and mix",
+            "takeaway": "Revenue fell 1.5% YoY and 12.9% QoQ to €56.5m (~$65.0m), 68% of group revenue, down from 73%.",
+            "points": [
+              "Q2 comparison included the World Cup group stage.",
+              "Revenue share -5.2% to €29.7m (~$34.2m); CPM -34.9% to €3.5m (~$4.0m).",
+              "CPA +2.4% to €14.9m (~$17.1m); sponsorship +28.5% to €6.7m (~$7.7m); subscription more than doubled to €1.5m (~$1.7m) on Mindway AI.",
+              "Regional sub-disclosure (UK & Ireland, Southern Europe, Nordics, Brazil) is not provided."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Regulatory headwinds",
+            "takeaway": "Management quantified ~€2m (~$2.3m) from UK Remote Gaming Duty and ~€1m (~$1.1m) from Brazil in the quarter.",
+            "points": [
+              "UK RGD rises from 21% to 40% on 1 April 2026, flowing through lower operator revenue-share payouts and tighter CPA budgets.",
+              "Brazil's 25 September Provisional Measure forced licensed operators to cease by 6 October, after welcome-bonus restrictions and tax increases earlier in the year."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Costs and margin",
+            "takeaway": "Segment costs rose 12.1% YoY to €45.0m (~$51.7m) on a shrinking revenue base, so EBITDA bsi fell 33.2% to €11.6m (~$13.3m).",
+            "points": [
+              "Costs +1.8% QoQ; EBITDA bsi -44.2% QoQ; margin 20.4% versus 30.1% a year ago and 31.9% in Q2.",
+              "9M: revenue +0.7%, EBITDA -12.7% at a 27.2% margin (-420bps).",
+              "Part is allocation (majority of group support-function costs sit in Publishing and this region); part is direct costs (group +€4m) from World Cup and Paid Media campaigns.",
+              "Asymmetry is stark: North American costs fell €1.3m YoY while Europe & RoW costs rose €4.9m; management has not reconciled that split, which we would press on."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Brazil exposure",
+            "takeaway": "This segment absorbs Brazil: of ~€45m (~$51.7m) expected in FY26, ~€29-30m is booked through 9M and ~€15m (~$17.2m) is lost in Q4.",
+            "points": [
+              "~€10m (~$11.5m) annual Brazilian cost base is being cut via post-Q3 'operational adjustments', with restructuring in special items.",
+              "Brazil revenue peaked above €70m (~$80m) in 2024; region has lost ~€40m of annual revenue since.",
+              "Value of Deposits will carry a visible Brazil drag in coming quarters.",
+              "FY26 UK RGD plus Brazil EBITDA headwind guided at ~€8m (~$9.2m)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Impairment risk",
+            "takeaway": "The €50-70m (~$58-81m) Brazil-specific impairment risk is, in substance, a Europe & RoW item.",
+            "points": [
+              "Regional business ex-Brazil is described as delivering an 8-10% revenue CAGR 2022-26.",
+              "That CAGR is management's framing for why the asset base is not impaired."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Publishing (business segment)",
+        "headline": "Revenue +16.5% to €53.9m (~$62.0m) on sponsorship (+79%) and prediction-market CPA (+93%); EBITDA bsi +19% to €13.4m (~$15.4m) at 24.8% — carries group support costs, hence the modest margin.",
+        "narrative": [
+          "They grew Publishing — the owned-and-operated sports media network monetised through direct traffic and organic search — by 16.5% organically to €53.9m (~$62.0m), 65% of group revenue (59% a year ago), continuing Q2's +11%. Sponsorship rose 79.5% to €12.3m (~$14.2m) on Playmaker HQ momentum and advertiser demand for talent-led formats, and CPA nearly doubled (+93.4%) to €7.0m (~$8.0m) on North American prediction-market acquisition demand; subscription rose 12.2% to €4.4m (~$5.0m) on Mindway AI and a September NFL rebound in US sports assets. Revenue share slipped 4.8% (~€1m) to €24.3m (~$27.9m), which management attributes to hybrid commercial agreements migrating to pure revenue-share models, and CPM fell 12.3% to €5.4m (~$6.2m) as direct sales displace programmatic. The flat YoY sports win margin was a slight positive for Publishing (and a negative for Paid Media), while UK tax and Brazil's closure were headwinds. Playbook, the AI-driven product, is credited with balanced contributions across revenue share, CPA and sponsorship, and won an Affiliate Product Innovation award in the quarter.",
+          "Costs rose 15.7% to €40.5m (~$46.6m), in line with revenue and 'entirely' from higher direct costs tied to North American expansion — i.e. talent costs and content production — so EBITDA bsi rose 18.9% to €13.4m (~$15.4m) and the margin edged up 51bps to 24.8%; sequentially the margin fell 449bps from Q2's 29.3% on lower seasonal revenue and a flat cost base. Note that Publishing carries the majority of group support-function costs, which understates its standalone margin and overstates Paid Media's and Esports'. For 9M, revenue is +9.1% to €165.4m (~$190.3m) and EBITDA bsi +22.4% to €45.6m (~$52.5m) at 27.6% (+301bps).",
+          "The judgement call here is durability. Publishing's growth is now sponsorship- and CPA-led — the two least recurring revenue types — while the recurring revenue-share base is flat-to-down and the group is capitalising an increasing amount of talent-led media and development spend (€11.2m, ~$12.8m of intangible additions in Q3 versus €4.8m a year ago), with amortisation of those projects rising 54% to €11.6m (~$13.4m). EBITDA bsi therefore flatters the economics of talent deals relative to EBITA. On the positive side, the Yahoo Sports partnership, FUTBIN's official FC 27 status and the consolidation of content-management systems onto a shared technology stack should lower unit content costs over time. The pending reclassification of sponsorship and CPM into a single 'Advertising' line in the FY26 annual report will make the segment look more like a media company — which is the strategic intent — but will also make it harder to track the programmatic cannibalisation."
+        ],
+        "table": {
+          "note": "Publishing, €m (~$m at assumed 1.15)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue share",
+              "indent": true,
+              "cells": [
+                "24.3 (~$27.9)",
+                "-21.3%",
+                "-4.8%",
+                "82.6 (~$95.0)",
+                "+1.0%"
+              ]
+            },
+            {
+              "label": "CPA",
+              "indent": true,
+              "cells": [
+                "7.0 (~$8.0)",
+                "+30.8%",
+                "+93.4%",
+                "17.7 (~$20.3)",
+                "+22.2%"
+              ]
+            },
+            {
+              "label": "Subscription",
+              "indent": true,
+              "cells": [
+                "4.4 (~$5.0)",
+                "+3.2%",
+                "+12.2%",
+                "12.9 (~$14.8)",
+                "-1.4%"
+              ]
+            },
+            {
+              "label": "Sponsorships",
+              "indent": true,
+              "cells": [
+                "12.3 (~$14.2)",
+                "+1.1%",
+                "+79.5%",
+                "35.7 (~$41.1)",
+                "+44.2%"
+              ]
+            },
+            {
+              "label": "CPM",
+              "indent": true,
+              "cells": [
+                "5.4 (~$6.2)",
+                "+21.6%",
+                "-12.3%",
+                "14.9 (~$17.1)",
+                "-11.5%"
+              ]
+            },
+            {
+              "label": "Other",
+              "indent": true,
+              "cells": [
+                "0.6 (~$0.7)",
+                "+16.3%",
+                "+114.9%",
+                "1.7 (~$1.9)",
+                "+106%"
+              ]
+            },
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "53.9 (~$62.0)",
+                "-6.3%",
+                "+16.5%",
+                "165.4 (~$190.3)",
+                "+9.1%"
+              ]
+            },
+            {
+              "label": "Organic growth",
+              "indent": true,
+              "cells": [
+                "+16%",
+                "Q2: +11%",
+                "Q3-25: -11%",
+                "+9%",
+                "9M-25: -19%"
+              ]
+            },
+            {
+              "label": "Share of group revenue",
+              "indent": true,
+              "cells": [
+                "65%",
+                "Q2: 65%",
+                "Q3-25: 59%",
+                "64%",
+                "9M-25: 63%"
+              ]
+            },
+            {
+              "label": "Costs (incl. majority of group support functions)",
+              "cells": [
+                "40.5 (~$46.6)",
+                "-0.3%",
+                "+15.7%",
+                "119.8 (~$137.8)",
+                "+4.7%"
+              ]
+            },
+            {
+              "label": "EBITDA before special items",
+              "kind": "emphasis",
+              "cells": [
+                "13.4 (~$15.4)",
+                "-20.7%",
+                "+18.9%",
+                "45.6 (~$52.5)",
+                "+22.4%"
+              ]
+            },
+            {
+              "label": "EBITDA bsi margin",
+              "indent": true,
+              "cells": [
+                "24.8%",
+                "-449bps",
+                "+51bps",
+                "27.6%",
+                "+301bps"
+              ]
+            },
+            {
+              "label": "Share of group EBITDA bsi",
+              "indent": true,
+              "cells": [
+                "61%",
+                "Q2: 63%",
+                "Q3-25: 54%",
+                "62%",
+                "9M-25: 57%"
+              ]
+            },
+            {
+              "label": "Special items",
+              "cells": [
+                "-1.7 (~$-2.0)",
+                "Q2: -1.2",
+                "Q3-25: -3.0",
+                "-4.4 (~$-5.0)",
+                "9M-25: -5.9"
+              ]
+            },
+            {
+              "label": "EBITDA (IFRS)",
+              "cells": [
+                "11.6 (~$13.4)",
+                "-25.7%",
+                "+41.4%",
+                "41.3 (~$47.5)",
+                "+31.7%"
+              ]
+            },
+            {
+              "label": "EBITDA (IFRS) margin",
+              "indent": true,
+              "cells": [
+                "22%",
+                "Q2: 27%",
+                "Q3-25: 18%",
+                "25%",
+                "9M-25: 21%"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue growth",
+            "takeaway": "Publishing grew 16.5% organically to €53.9m (~$62.0m), 65% of group revenue versus 59% a year ago, after Q2's +11%.",
+            "points": [
+              "Owned-and-operated sports media network monetised through direct traffic and organic search.",
+              "Sponsorship +79.5% to €12.3m (~$14.2m) on Playmaker HQ momentum and advertiser demand for talent-led formats.",
+              "CPA +93.4% to €7.0m (~$8.0m) on North American prediction-market acquisition demand.",
+              "Subscription +12.2% to €4.4m (~$5.0m) on Mindway AI and a September NFL rebound in US sports assets."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Revenue share and CPM",
+            "takeaway": "Revenue share slipped 4.8% (~€1m) to €24.3m (~$27.9m) and CPM fell 12.3% to €5.4m (~$6.2m).",
+            "points": [
+              "Management attributes revenue-share decline to hybrid commercial agreements migrating to pure revenue-share models.",
+              "CPM fell as direct sales displace programmatic.",
+              "Flat YoY sports win margin was a slight positive for Publishing; UK tax and Brazil's closure were headwinds.",
+              "Playbook, the AI-driven product, delivered balanced contributions across revenue share, CPA and sponsorship and won an Affiliate Product Innovation award."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Costs and margin",
+            "takeaway": "Costs rose 15.7% to €40.5m (~$46.6m), so EBITDA bsi rose 18.9% to €13.4m (~$15.4m) and margin edged up 51bps to 24.8%.",
+            "points": [
+              "Cost increase was 'entirely' from higher direct costs tied to North American expansion, i.e. talent costs and content production.",
+              "Sequentially margin fell 449bps from Q2's 29.3% on lower seasonal revenue and a flat cost base.",
+              "Publishing carries the majority of group support-function costs, understating its standalone margin and overstating Paid Media's and Esports'.",
+              "9M: revenue +9.1% to €165.4m (~$190.3m); EBITDA bsi +22.4% to €45.6m (~$52.5m) at 27.6% (+301bps)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Durability of growth",
+            "takeaway": "Growth is sponsorship- and CPA-led, the two least recurring revenue types, while recurring revenue share is flat-to-down and capitalised spend is rising.",
+            "points": [
+              "Intangible additions €11.2m (~$12.8m) in Q3 versus €4.8m a year ago; amortisation of those projects +54% to €11.6m (~$13.4m).",
+              "EBITDA bsi therefore flatters the economics of talent deals relative to EBITA.",
+              "Positives: Yahoo Sports partnership, FUTBIN's official FC 27 status and consolidation of content-management systems should lower unit content costs over time.",
+              "Pending reclassification of sponsorship and CPM into a single 'Advertising' line in FY26 will look more like a media company but obscure programmatic cannibalisation."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Paid Media (business segment)",
+        "headline": "Revenue -12.2% to €24.2m (~$27.9m) and EBITDA bsi -31% to €4.9m (~$5.6m) at a 20.1% margin (-558bps): the UK duty and Brazil hit the 'asset-light flex' model hardest.",
+        "narrative": [
+          "They reported Paid Media revenue of €24.2m (~$27.9m), down 12.2% YoY and 8.6% QoQ, reversing Q2's +6%, with the segment's share of group revenue falling to 29% from 35%. CPA fell 9.8% to €13.4m (~$15.4m) and revenue share fell 14.9% to €10.8m (~$12.4m). Management cites the UK casino tax increase (RGD to 40%, which squeezes operator CPA budgets and net revenue shares on paid-search and social acquisition), Brazilian regulatory developments late in the quarter, and the low sports win margin, which was a negative for this segment specifically. The model buys advertising on search engines, social media and third-party sports media, so it carries structurally lower gross margins but minimal balance-sheet investment; 9M revenue is still +1.4% at €78.4m (~$90.1m).",
+          "Costs were cut 5.6% to €19.4m (~$22.3m) — 'disciplined campaign management, stringent ROI requirements and active optimisation' — but not fast enough to protect profit: EBITDA bsi fell 31.3% YoY and 29.9% QoQ to €4.9m (~$5.6m), the margin dropping to 20.1% from 25.7% a year ago and 26.2% in Q2, and the segment's share of group EBITDA fell to 22% from 34%. Cost as a percentage of revenue rose to 79.9% from 74.3%, which is the opposite of what a variable-cost model should do in a downturn and suggests committed campaign spend around the World Cup and investment into revenue-share NDC cohorts (which pays back later) rather than immediate ROI. 9M EBITDA bsi is -2.6% at €18.6m (~$21.4m), 23.7% margin.",
+          "The segment is being positioned as a 'scalable platform' with an AI-first operating system in preparation, and the group notes it continues to expand in selected emerging geographies for diversification. Our concern is that Paid Media is the most exposed line to operator marketing budgets in markets where tax is rising (UK) or being switched off (Brazil), and that 'disciplined' spend cuts, if sustained, lower future revenue-share income. The group-level Q3 revenue bridge shows FX +€1m, UK RGD -€2m and Brazil -€1m; most of that regulatory drag sits here. No segment guidance is provided; the relevant watch items are Q4 CPA budgets from UK operators post-RGD and whether the segment can hold a mid-20s margin ex-Brazil."
+        ],
+        "table": {
+          "note": "Paid Media, €m (~$m at assumed 1.15)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue share",
+              "indent": true,
+              "cells": [
+                "10.8 (~$12.4)",
+                "-12.6%",
+                "-14.9%",
+                "34.8 (~$40.0)",
+                "+1.6%"
+              ]
+            },
+            {
+              "label": "CPA",
+              "indent": true,
+              "cells": [
+                "13.4 (~$15.4)",
+                "-5.1%",
+                "-9.8%",
+                "43.6 (~$50.1)",
+                "+1.2%"
+              ]
+            },
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "24.2 (~$27.9)",
+                "-8.6%",
+                "-12.2%",
+                "78.4 (~$90.1)",
+                "+1.4%"
+              ]
+            },
+            {
+              "label": "Organic growth",
+              "indent": true,
+              "cells": [
+                "-12%",
+                "Q2: +6%",
+                "Q3-25: +11%",
+                "+1%",
+                "9M-25: -5%"
+              ]
+            },
+            {
+              "label": "Share of group revenue",
+              "indent": true,
+              "cells": [
+                "29%",
+                "Q2: 30%",
+                "Q3-25: 35%",
+                "30%",
+                "9M-25: 32%"
+              ]
+            },
+            {
+              "label": "Costs (media buying + opex)",
+              "cells": [
+                "19.4 (~$22.3)",
+                "-1.0%",
+                "-5.6%",
+                "59.8 (~$68.7)",
+                "+2.7%"
+              ]
+            },
+            {
+              "label": "Costs as % of revenue",
+              "indent": true,
+              "cells": [
+                "79.9%",
+                "Q2: 73.8%",
+                "Q3-25: 74.3%",
+                "76.3%",
+                "9M-25: 75.3%"
+              ]
+            },
+            {
+              "label": "EBITDA before special items",
+              "kind": "emphasis",
+              "cells": [
+                "4.9 (~$5.6)",
+                "-29.9%",
+                "-31.3%",
+                "18.6 (~$21.4)",
+                "-2.6%"
+              ]
+            },
+            {
+              "label": "EBITDA bsi margin",
+              "indent": true,
+              "cells": [
+                "20.1%",
+                "-611bps",
+                "-558bps",
+                "23.7%",
+                "-97bps"
+              ]
+            },
+            {
+              "label": "Share of group EBITDA bsi",
+              "indent": true,
+              "cells": [
+                "22%",
+                "Q2: 26%",
+                "Q3-25: 34%",
+                "25%",
+                "9M-25: 29%"
+              ]
+            },
+            {
+              "label": "Special items",
+              "cells": [
+                "-0.3 (~$-0.4)",
+                "Q2: -0.4",
+                "Q3-25: -0.4",
+                "-1.0 (~$-1.2)",
+                "9M-25: -1.1"
+              ]
+            },
+            {
+              "label": "EBITDA (IFRS)",
+              "cells": [
+                "4.5 (~$5.2)",
+                "-30.9%",
+                "-31.7%",
+                "17.5 (~$20.2)",
+                "-2.3%"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue decline",
+            "takeaway": "Revenue fell 12.2% YoY and 8.6% QoQ to €24.2m (~$27.9m), reversing Q2's +6%; share of group revenue fell to 29% from 35%.",
+            "points": [
+              "CPA -9.8% to €13.4m (~$15.4m); revenue share -14.9% to €10.8m (~$12.4m).",
+              "Management cites UK casino tax increase (RGD to 40%), Brazilian regulatory developments late in the quarter, and low sports win margin, a negative for this segment specifically.",
+              "Model buys advertising on search engines, social media and third-party sports media: structurally lower gross margins, minimal balance-sheet investment.",
+              "9M revenue still +1.4% at €78.4m (~$90.1m)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Costs and margin",
+            "takeaway": "Costs were cut 5.6% to €19.4m (~$22.3m) but EBITDA bsi still fell 31.3% YoY to €4.9m (~$5.6m) at a 20.1% margin.",
+            "points": [
+              "EBITDA bsi -29.9% QoQ; margin down from 25.7% a year ago and 26.2% in Q2; share of group EBITDA fell to 22% from 34%.",
+              "Cost as a percentage of revenue rose to 79.9% from 74.3%, the opposite of what a variable-cost model should do in a downturn.",
+              "Suggests committed World Cup campaign spend and investment into revenue-share NDC cohorts (which pays back later) rather than immediate ROI.",
+              "9M EBITDA bsi -2.6% at €18.6m (~$21.4m), 23.7% margin."
+            ],
+            "quote": {
+              "text": "disciplined campaign management, stringent ROI requirements and active optimisation",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Outlook and risks",
+            "takeaway": "Paid Media is the most exposed line to operator marketing budgets where tax is rising (UK) or being switched off (Brazil).",
+            "points": [
+              "Positioned as a 'scalable platform' with an AI-first operating system in preparation; expanding in selected emerging geographies for diversification.",
+              "'Disciplined' spend cuts, if sustained, lower future revenue-share income.",
+              "Group Q3 revenue bridge: FX +€1m, UK RGD -€2m, Brazil -€1m; most of that regulatory drag sits here.",
+              "No segment guidance; watch Q4 CPA budgets from UK operators post-RGD and whether a mid-20s margin ex-Brazil can hold."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Esports (HLTV, FUTBIN)",
+        "headline": "Revenue +14% to €5.0m (~$5.7m) and EBITDA bsi +58% to €3.7m (~$4.2m) at a 73% margin — sponsorship strength plus Counter-Strike event-cost timing; FUTBIN CPM weak ahead of FC 27.",
+        "narrative": [
+          "They grew Esports revenue 13.8% to €5.0m (~$5.7m) (6% of group), led by a 32.2% increase in sponsorship to €3.5m (~$4.0m) on partner demand for HLTV's Counter-Strike audience, which hit record traffic during the Esports World Cup and launched HLTV Brain; revenue share doubled off a tiny base to €0.5m. CPM contracted 32.6% to €1.0m (~$1.2m) on engagement and monetisation headwinds at FUTBIN ahead of the EA SPORTS FC 27 cycle — the same issue flagged in Q2 (-21%) — mitigated by FUTBIN securing official FC 27 partner status. Sequentially revenue was -1.6% versus Q2's €5.1m (~$5.8m).",
+          "Costs fell 35.8% YoY and 30.0% QoQ to €1.3m (~$1.5m), which management attributes primarily to the timing of promotional expenses across quarters given variations in the Counter-Strike event calendar. That lifted EBITDA bsi 58.1% to €3.7m (~$4.2m) and the margin to 73.4% from 52.8% a year ago and 62.6% in Q2; Esports now contributes 17% of group EBITDA bsi versus 11%. For 9M, revenue is +10.0% to €14.8m (~$17.0m) and EBITDA bsi +10.6% to €9.8m (~$11.2m) at a 66.0% margin, flat YoY — which is the better guide to run-rate profitability than the Q3 print. The segment carries no special items and no allocated support costs, so its reported margin is overstated relative to a standalone basis.",
+          "We treat the Q3 margin as partly one-off: the 9M margin of 66% implies a Q4 cost catch-up if event spend is merely shifted. The structural positives are real — HLTV is the dominant Counter-Strike community and sponsorship demand is proving sticky — but FUTBIN's monetisation is hostage to EA's annual title quality, and programmatic yields are falling across the group. Premium data products remain an 'emerging' layer with no disclosed revenue."
+        ],
+        "table": {
+          "note": "Esports, €m (~$m at assumed 1.15)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue share",
+              "indent": true,
+              "cells": [
+                "0.5 (~$0.5)",
+                "+15.0%",
+                "+99.1%",
+                "1.3 (~$1.5)",
+                "+62.3%"
+              ]
+            },
+            {
+              "label": "Sponsorships",
+              "indent": true,
+              "cells": [
+                "3.5 (~$4.0)",
+                "+2.1%",
+                "+32.2%",
+                "10.0 (~$11.5)",
+                "+28.3%"
+              ]
+            },
+            {
+              "label": "CPM",
+              "indent": true,
+              "cells": [
+                "1.0 (~$1.2)",
+                "-16.8%",
+                "-32.6%",
+                "3.5 (~$4.0)",
+                "-28.3%"
+              ]
+            },
+            {
+              "label": "CPA",
+              "indent": true,
+              "cells": [
+                "0.01",
+                "n.m.",
+                "n.m.",
+                "0.04",
+                "+18%"
+              ]
+            },
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "5.0 (~$5.7)",
+                "-1.6%",
+                "+13.8%",
+                "14.8 (~$17.0)",
+                "+10.0%"
+              ]
+            },
+            {
+              "label": "Organic growth",
+              "indent": true,
+              "cells": [
+                "+14%",
+                "Q2: +9%",
+                "Q3-25: -3%",
+                "+9%",
+                "9M-25: -3%"
+              ]
+            },
+            {
+              "label": "Costs",
+              "cells": [
+                "1.3 (~$1.5)",
+                "-30.0%",
+                "-35.8%",
+                "5.0 (~$5.8)",
+                "+8.9%"
+              ]
+            },
+            {
+              "label": "EBITDA before special items",
+              "kind": "emphasis",
+              "cells": [
+                "3.7 (~$4.2)",
+                "+15.4%",
+                "+58.1%",
+                "9.8 (~$11.2)",
+                "+10.6%"
+              ]
+            },
+            {
+              "label": "EBITDA bsi margin",
+              "indent": true,
+              "cells": [
+                "73.4%",
+                "+1,081bps",
+                "+2,058bps",
+                "66.0%",
+                "+35bps"
+              ]
+            },
+            {
+              "label": "Share of group EBITDA bsi",
+              "indent": true,
+              "cells": [
+                "17%",
+                "Q2: 12%",
+                "Q3-25: 11%",
+                "13%",
+                "9M-25: 14%"
+              ]
+            },
+            {
+              "label": "Special items / allocated support costs",
+              "cells": [
+                "nil / nil",
+                "nil",
+                "nil",
+                "nil",
+                "nil"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue growth",
+            "takeaway": "Esports revenue grew 13.8% to €5.0m (~$5.7m), 6% of group, led by sponsorship up 32.2% to €3.5m (~$4.0m).",
+            "points": [
+              "Sponsorship driven by partner demand for HLTV's Counter-Strike audience, which hit record traffic during the Esports World Cup and launched HLTV Brain.",
+              "Revenue share doubled off a tiny base to €0.5m.",
+              "CPM -32.6% to €1.0m (~$1.2m) on FUTBIN engagement and monetisation headwinds ahead of EA SPORTS FC 27, same issue as Q2 (-21%), mitigated by official FC 27 partner status.",
+              "Sequentially revenue -1.6% versus Q2's €5.1m (~$5.8m)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Costs and margin",
+            "takeaway": "Costs fell 35.8% YoY and 30.0% QoQ to €1.3m (~$1.5m), lifting EBITDA bsi 58.1% to €3.7m (~$4.2m) at a 73.4% margin.",
+            "points": [
+              "Management attributes cost decline primarily to timing of promotional expenses across quarters given the Counter-Strike event calendar.",
+              "Margin 73.4% versus 52.8% a year ago and 62.6% in Q2; Esports is 17% of group EBITDA bsi versus 11%.",
+              "9M: revenue +10.0% to €14.8m (~$17.0m); EBITDA bsi +10.6% to €9.8m (~$11.2m) at 66.0%, flat YoY — the better run-rate guide.",
+              "No special items and no allocated support costs, so reported margin is overstated versus standalone."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Our view",
+            "takeaway": "We treat the Q3 margin as partly one-off; the 9M margin of 66% implies a Q4 cost catch-up if event spend is merely shifted.",
+            "points": [
+              "HLTV is the dominant Counter-Strike community and sponsorship demand is proving sticky.",
+              "FUTBIN's monetisation is hostage to EA's annual title quality, and programmatic yields are falling across the group.",
+              "Premium data products remain an 'emerging' layer with no disclosed revenue."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "North America EBITDA bsi €10.3m (~$11.9m), >3x YoY, at a 38.9% margin (+2,287bps YoY, +1,302bps QoQ); 9M margin 32% vs 14%. The region is now 47% of group EBITDA and enters its seasonally strongest NFL quarter with costs down 7% YoY.",
+        "tag": "structural"
+      },
+      {
+        "text": "Advertising diversification is working: sponsorship +66% to €15.9m (~$18.2m) and sponsorship+CPM combined +30% to €22.2m (~$25.6m); CPA +10% to €20.4m (~$23.5m) on prediction markets (Kalshi, Novig, Polymarket via Playbook/Prediction Pro). Non-recurring revenue types are now 43% of the mix and growing ~30%.",
+        "tag": "structural"
+      },
+      {
+        "text": "Value of Deposits +9.4% YoY to €794m (~$913m), 9M +14% to €2.43bn (~$2.79bn), described as broad-based — rev-share cohorts are still maturing despite Brazil and UK tax, which underpins future revenue-share income.",
+        "tag": "structural"
+      },
+      {
+        "text": "Record Q3 revenue of €83.1m (~$95.6m) was delivered through ~€3m (~$3.5m) of quantified regulatory headwinds (UK RGD -€2m, Brazil -€1m) and an unusually low sports win margin (€6.5m, ~$7.5m below normal, YoY-neutral); underlying growth ex-headwinds was ~€8m (~$9m) incl. ~€1m FX.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Cost discipline is visible: average FTEs 1,277, -16% YoY and -17% QoQ; staff costs -3%; total costs -€1m QoQ; the €319m (~$367m) facility was extended to Oct 2029 with an €80m accordion, and leverage is 2.29x (vs 2.51x) with €78m (~$90m) of capital reserves.",
+        "tag": "structural"
+      },
+      {
+        "text": "Esports EBITDA bsi +58% to €3.7m (~$4.2m) at a 73% margin on HLTV sponsorship demand (+32%) and record Esports World Cup traffic — but ~half of the margin step-up is Counter-Strike event-cost timing (9M margin flat at 66%).",
+        "tag": "one-off"
+      },
+      {
+        "text": "Product cadence is high: Playbook won an Affiliate Product Innovation award and integrated Kalshi/Novig; Prediction Pro launched 19 Oct; Yahoo Sports partnership; FUTBIN official FC 27 partner; HLTV Brain; Mindway AI driving subscription growth (+12%).",
+        "tag": "early"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Recurring revenue fell 7.3% to €46.3m (~$53.2m), 56% of the mix vs 64%; revenue share -7.5% to €35.5m (~$40.9m) with North America -18% and Europe & RoW -5%. The company's most valuable revenue stream is shrinking while growth comes from campaign-based sponsorship and CPA.",
+        "tag": "structural"
+      },
+      {
+        "text": "Europe & RoW EBITDA bsi -33% to €11.6m (~$13.3m), margin 20.4% (-969bps YoY, -1,146bps QoQ) with costs +12% on revenue -1.5%; 9M EBITDA -13%. Management does not reconcile why regional costs rose €4.9m while North American costs fell €1.3m.",
+        "tag": "structural"
+      },
+      {
+        "text": "Paid Media revenue -12% to €24.2m (~$27.9m) and EBITDA bsi -31% to €4.9m (~$5.6m) at 20.1% (-558bps); cost/revenue rose to 80%. The UK RGD step-up to 40% is squeezing operator CPA budgets and the 'asset-light flex' is flexing the wrong way.",
+        "tag": "structural"
+      },
+      {
+        "text": "Brazil: FY26 revenue now ~€30m (~$34.5m) vs ~€45m pre-ban and >€70m in 2024; ~€15m (~$17m) lost in Q4; a €50-70m (~$58-81m) non-cash impairment if Congress converts MP 1,394/2026 (120-day window to ~late Jan 2027); 2027-28 targets withdrawn and buybacks discontinued after €23.5m (~$27m) 9M.",
+        "tag": "watch"
+      },
+      {
+        "text": "Earnings quality: net profit -25% to €1.2m (~$1.4m), EPS €0.02; EBIT bsi -24% as amortisation jumped 54% to €11.6m (~$13.4m) on capitalised talent-led/development projects (€11.2m, ~$12.8m of intangible additions in Q3, +130%); ETR 54.5%; analyst-derived FCF €8.1m (~$9.4m) vs €13.9m.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Volume signals softened: NDCs 272k, -3% YoY and -27% QoQ; VoD -5% QoQ with a Brazil drag still to come; cash flow from operations bsi -24% to €26.4m (~$30.4m) on a smaller working-capital inflow (€4.0m vs €13.8m).",
+        "tag": "watch"
+      },
+      {
+        "text": "Three Executive Leadership Team changes announced simultaneously during a regulatory crisis — co-CEO structure ended (Rasmussen out of the ELT), CFO Pedersen to COO, new CFO Bjerregaard — with no quantified cost-savings programme or target year disclosed to anchor the 'operational adjustments'.",
+        "tag": "governance"
+      }
+    ],
+    "forecast": {
+      "intro": "There is no new guidance move this quarter: FY26 guidance stands exactly as cut in regulatory release 85/2026 on 27 September — organic revenue growth 3-8% (previously 7-12%) and EBITDA before special items growth -7% to +3% (previously +8% to +18%), both constant currency, with net debt/EBITDA <3x unchanged, buybacks suspended and 2027-28 targets withdrawn. The downgrade is 100% Europe & RoW/Brazil: ~€45m (~$51.7m) of expected FY26 Brazilian revenue becomes ~€30m (~$34.5m), with ~€15m (~$17.2m) removed from Q4 on a ~€10m (~$11.5m) annual cost base; separately UK RGD plus Brazil regulatory changes were already expected to cost ~€8m (~$9.2m) of FY26 EBITDA. Our arithmetic on the guidance: FY25 revenue €336.7m (~$387.2m) implies FY26 €346.8-363.6m (~$399-418m) and Q4 revenue of €88.2-105.0m (~$101-121m) vs Q4-25's €94.3m (~$108.4m); FY25 EBITDA bsi €102.1m (~$117.4m) implies FY26 €94.9-105.1m (~$109-121m) and Q4 EBITDA of €20.9-31.1m (~$24-36m) vs Q4-25's €36.9m (~$42.4m) — i.e. the guidance already embeds a 16-43% Q4 EBITDA decline (estimates).",
+      "bridge": [
+        {
+          "title": "FY26 organic revenue growth (cc)",
+          "value": "3-8% (held)",
+          "change": "cut from 7-12% on 27 Sep; Brazil ban removes ~€15m (~$17m) from Q4"
+        },
+        {
+          "title": "FY26 EBITDA bsi growth (cc)",
+          "value": "-7% to +3% (held)",
+          "change": "cut from +8% to +18%; implies Q4 EBITDA €20.9-31.1m (~$24-36m) vs €36.9m Q4-25 (est.)"
+        },
+        {
+          "title": "Brazil FY26 revenue",
+          "value": "~€30m (~$34.5m)",
+          "change": "from ~€45m (~$51.7m) pre-ban; FY25 €49m, FY24 >€70m; impairment risk €50-70m (~$58-81m)"
+        },
+        {
+          "title": "Net debt/EBITDA, capital returns, 2027-28 targets",
+          "value": "<3x (2.29x actual); buyback suspended; targets withdrawn",
+          "change": "leverage target unchanged; €23.5m (~$27m) bought back 9M before suspension"
+        }
+      ]
+    },
+    "confidence": "MEDIUM",
+    "confidenceNote": "All financial figures are taken directly from the Q3-26 interim report (18 Nov 2026) and the Q2-26 interim report (for QoQ), cross-checked against the TheGamblest summary and investing.com transcript excerpts; guidance old/new is from regulatory release 85/2026 as reproduced by MFN/TradingView/Investegate. FX: EUR/USD 1.15 is an ASSUMED placeholder — the research-tool quota was exhausted before the 18 Nov 2026 rate could be looked up; every '~$' figure should be rebased to the actual rate (a 0.05 move shifts all USD figures ~4%). Not verified: (1) the 19 Nov share-price move; (2) the previous 2027-28 target numbers; (3) full earnings-call Q&A (only transcript excerpts read); (4) three of the four user-supplied secondary URLs (European Gaming, iGamingFuture, Gaming Intelligence) returned fetch errors and were not used. FCF, LTM EBITDA, Q4-25 segment figures and all 'implied Q4' arithmetic are analyst derivations from reported data, labelled as estimates.",
+    "sharePriceReaction": "[unverified] Results were released 18 Nov after the CET close. The research-tool quota was exhausted before a 19 Nov close could be sourced; a uk.investing.com quote page captured on 19 Nov showed BETCO at 63.00 (currency not confirmed — likely SEK on Nasdaq Stockholm) with no day-move visible. For context, the shares fell ~32% to DKK 47.65 on the session following the 27 Sep Brazil guidance cut (MFN quote panel).",
+    "sources": [
+      {
+        "label": "Better Collective A/S — Interim Report Q3 2026 (PDF, 18 Nov 2026) — PRIMARY: all P&L, segment, cash-flow, balance-sheet, KPI, guidance and Note 7 (Brazil impairment) figures",
+        "kind": "primary",
+        "url": "https://storage.mfn.se/dd724800-c586-4635-ab10-402a504e7632/q3-2026-report-better-collective.pdf"
+      },
+      {
+        "label": "Better Collective A/S — Interim Report Q2 2026 (PDF, 20 Aug 2026) — PRIMARY: Q2-26 comparatives for QoQ columns",
+        "kind": "primary",
+        "url": "https://storage.mfn.se/d3052701-758d-43b5-abba-eb1bb5295c94/q2-2026-report-better-collective.pdf"
+      },
+      {
+        "label": "Better Collective — 'Better Collective updates following regulatory developments in Brazil', regulatory release 85/2026 (27 Sep 2026) — PRIMARY (read via MFN/TradingView/Investegate reproductions): old vs new FY26 guidance, Brazil €45m/€15m/€10m disclosures, buyback suspension",
+        "kind": "primary",
+        "url": "https://mfn.se/all/a/better-collective/better-collective-updates-following-regulatory-developments-in-brazil"
+      },
+      {
+        "label": "Better Collective — 'Better Collective reports Q3 2026' press release (MFN, 18 Nov 2026) — PRIMARY distribution",
+        "kind": "primary",
+        "url": "https://mfn.se/all/a/better-collective/better-collective-reports-q3-2026"
+      },
+      {
+        "label": "Better Collective — Investor Relations page (Q3 2026 report, webcast presentation links)",
+        "kind": "primary",
+        "url": "https://bettercollective.com/investors/"
+      },
+      {
+        "label": "Better Collective — 'Better Collective announces changes to its Executive Leadership Team' (18 Nov 2026, via TradingView/Modular Finance) — headline only; detail taken from the interim report",
+        "kind": "primary",
+        "url": "https://www.tradingview.com/news/modular_finance:6c9f2a45ca524:0-better-collective-announces-changes-to-its-executive-leadership-team/"
+      },
+      {
+        "label": "Investing.com — 'Earnings call transcript: Better Collective's Q3 2026 growth overshadowed by Brazil shock' (19 Nov 2026) — SECONDARY; excerpts only (speaker roles, €5m revenue-growth contribution to earnings, 27 Sep revision date, Brazil resource cuts)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-better-collectives-q3-2026-growth-overshadowed-by-brazil-shock-93CH-5038227"
+      },
+      {
+        "label": "TheGamblest — 'Better Collective Q3 revenue rises 6% as North America margin reaches 39%' (19 Nov 2026) — SECONDARY, user-supplied; corroborates headline numbers (note: its E&RoW margin direction is misstated)",
+        "kind": "secondary",
+        "url": "https://www.thegamblest.com/better-collective-q3-revenue-rises-6-as-north-america-margin-reaches-39/"
+      },
+      {
+        "label": "iGamingFuture — 'Better Collective Brazil: Guidance Cut After Betting Ban' (Sep 2026) — SECONDARY; corroborates guidance old/new",
+        "kind": "secondary",
+        "url": "https://igamingfuture.com/better-collective-brazil/"
+      },
+      {
+        "label": "next.io — 'Better Collective targets bigger share of partners' marketing spend' (19 Nov 2026) — SECONDARY; headline only (strategy colour)",
+        "kind": "secondary",
+        "url": "https://next.io/news/results/better-collective-targets-bigger-share-of-partners-marketing-spend/"
+      },
+      {
+        "label": "uk.investing.com — Better Collective (BETCO) quote page (19 Nov 2026) — SECONDARY; share price level only, move not verified",
+        "kind": "secondary",
+        "url": "https://uk.investing.com/equities/better-collective"
+      },
+      {
+        "label": "European Gaming — 'Better Collective Q3 2026 results' — user-supplied; NOT RETRIEVABLE (fetch error), not used",
+        "kind": "secondary",
+        "url": "https://europeangaming.eu/portal/latest-news/2026/11/19/218259/better-collective-q3-2026-results/"
+      },
+      {
+        "label": "iGamingFuture — 'Better Collective Q3 Revenue Rises as CEO Structure Changes' — user-supplied; NOT RETRIEVABLE (fetch error), not used",
+        "kind": "secondary",
+        "url": "https://igamingfuture.com/better-collective-q3-revenue-rises-as-ceo-structure-changes/"
+      },
+      {
+        "label": "Gaming Intelligence — 'North America drives Better Collective revenue growth in Q3 2026' — user-supplied; NOT RETRIEVABLE (fetch error), not used",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/238855-north-america-drives-better-collective-revenue-growth-in-q3-2026/"
+      }
+    ]
+  }
+}

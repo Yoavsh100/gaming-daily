@@ -1,0 +1,308 @@
+# Century Casinos, Inc. (CNTY) — Q3 2026 Analyst Report
+** · Reporting currency: USD (tables in millions unless stated) · Results released 17 Nov 2026**
+**Market reaction:** Shares fell ~24% intraday on 17 Nov on roughly 3x average volume (casino.org), closing at ~$0.26 (Morningstar), then slid a further 7.7% to $0.24 on 18 Nov (day range $0.24–0.31; 52-week range $0.23–1.72). Market cap ~$6.75m on 28.14m shares — down more than 70% over the past month and ~83% over 12 months; the stock was $1.45 when the S-3 shelf was filed in June and $0.76 when the Nasdaq MVLS notice was disclosed on 23 Oct. [17 Nov prior close not independently verified.]
+
+> Operationally, Q3-26 was fine — preliminary net operating revenue +3.1% YoY to $158.4m and earnings from operations +21% to $20.7m (margin +~195bps to 13.1%). But the numbers are unaudited, unreviewed and explicitly pre-restatement: the Audit Committee has pulled reliance on FY24, FY25 and Q1/Q2-26 over the Marnell put on the Nugget real-estate VIE, the 10-Q is late, the call was cancelled, and the equity (~$6.75m market cap, $0.24/share) is now trading as an option on a $336m debt stack and a Nasdaq listing.
+
+## 1. Executive Summary
+
+- **Headline: a preliminary print, not a result.** On 17 Nov the company furnished (8-K Item 2.02) only three Q3-26 numbers — net operating revenue ~$158.4m, GAAP earnings from operations ~$20.7m and cash ~$60.2m — all unaudited, not reviewed by EY, and prepared 'on the same basis as previously reported results, before any restatement adjustments'. No Adjusted EBITDAR, net loss, EPS, segment or debt data were given.
+- **Revenue +3.1% YoY, slight miss vs consensus.** $158.4m vs $153.7m in Q3-25 and $152.0m in Q2-26 (+4.2% QoQ); Street was ~$159.3–159.5m (Benzinga/Seeking Alpha), so a ~0.6% miss. Q3 is seasonally the group's strongest quarter and 9M-26 revenue (sum of reported quarters) is $447.6m, +2.9% vs $435.0m.
+- **Operating leverage is real.** Earnings from operations +21% to $20.7m on +$4.7m revenue — ~77% incremental flow-through — lifting operating margin to 13.1% from 11.1% (and 11.3% in Q2-26). Caveat: D&A and one-offs are undisclosed, so we cannot bridge to Adjusted EBITDAR; applying Q2-26/Q3-25 add-backs (~$14–14.5m) implies ~$34–35m, +~10–12% YoY — our estimate only.
+- **Restatement is the story.** On 13 Nov the Audit Committee (with EY and predecessor auditor Grant Thornton) concluded FY24, FY25 and all quarters including Q1/Q2-26 should no longer be relied upon. The error: Marnell Gaming's 50% interest in Smooth Bourbon LLC (the consolidated VIE owning the Nugget real estate) carries a put — Marnell can require Century to buy it out if a sale is initiated and not completed within 18 months — so it should never have been classified as (permanent-equity) noncontrolling interest.
+- **Why that matters beyond presentation.** A redeemable NCI typically moves to temporary equity at redemption value and reduces Century shareholders' equity; more importantly it is a contingent cash obligation. Century paid ~$95m for its own 50% of Smooth Bourbon in April 2022 [from prior filings, not re-verified here] — the implied scale of the Marnell put dwarfs a ~$6.75m market cap and sits inside a 6.5x-levered balance sheet.
+- **Second non-reliance event in twelve months.** The 6 Nov 2025 8-K also carried an Item 4.02, and the Q3-25 release referenced a prior correction to FY24 net loss (no Adjusted EBITDAR impact). The company now expects 'at least one additional material weakness' — i.e. control deficiencies are compounding, not being remediated. [Details of the 2025 event not re-verified here.]
+- **Filings and disclosure cadence have broken.** The Q3 earnings call (promised for 'early November' on the Q2 call) was delayed on 12 Nov, the Q3 10-Q is late, and amendments to the FY25 10-K and Q1/Q2-26 10-Qs will be filed 'as soon as practicable' — no dates. The release itself lists Nasdaq late-filing consequences, debt-agreement consequences, regulatory inquiry and litigation as risks.
+- **Nasdaq listing is in play.** On 19 Oct 2026 Nasdaq notified the company that market value of listed securities had been below the $35m minimum (Rule 5550(b)(2)) for 30 consecutive business days; the cure deadline is 19 Apr 2027. At $0.24 the stock is also far below the $1 bid-price floor and a late 10-Q is a further listing-rule breach — three separate compliance threads [bid-price notice not verified].
+- **Share price: capitulation.** Shares fell ~24% intraday on 17 Nov on ~3x average volume (casino.org), closing ~$0.26 (Morningstar), and slid another 7.7% to $0.24 on 18 Nov (day range $0.24–0.31; 52-week range $0.23–1.72). Market cap ~$6.75m on 28.1m shares; down >70% in a month and ~83% over 12 months. In June the S-3 shelf was priced off a $1.45 stock — baby-shelf capacity (one-third of public float) is now ~$2m, so equity funding is effectively closed.
+- **Balance sheet (last verified at 30 Jun-26).** Cash $60.2m; total debt $336.5m (Goldman term loan $331.6m, Casinos Poland $0.9m loan + $3.9m revolver); net debt $276.3m; management net debt/EBITDA 6.5x (ex the one-time deferred rent paid in H1). No maturities until Q2-29. The 5.50x Consolidated First Lien Net Leverage covenant is already exceeded but only springs if >$10.5m is drawn on the $30m Goldman revolver — so the revolver is, in practice, unavailable and liquidity = cash on hand.
+- **Q3 cash: flat, in the seasonally strongest quarter.** $60.2m at 30 Sep excluding $3.4m reclassified to held-for-sale in Canada, versus $60.2m at 30 Jun — i.e. ~+$3.4m like-for-like after interest, ~$0.9m term-loan amortisation and capex. Management had called Q3 'our strongest cash flow quarter'; the delivery is modest. Debt at 30 Sep is not disclosed; we estimate net debt ~$272–275m [estimate].
+- **Canada racino sale is the one piece of new, verifiable capital news.** On 28 Sep the company agreed to sell Century Mile (100%-owned) and Century Downs (75%-owned) racing/gaming operations to Highfield Investment Group for ~$16.4m (CAD 23.2m at 0.7074), 6.1x FY25 EBITDA (implying ~$2.7m EBITDA — derived); VICI will remove both from the Master Lease, cutting annual rent by ~$7.5m (CAD 10.7m). Proceeds to debt reduction; close Q4-26/Q1-27 subject to approvals. Pro forma net debt ~$258m [estimate].
+- **Strategy: become 'fully U.S.-centric'.** On the Q2 call management said it is monetising both international units: two groups were in due diligence on Casinos Poland (complicated by regional geopolitics), and Canada was being explored — the racino sale is step one, with Edmonton/St Albert still owned. Management also said it was talking to lenders about 'more flexibility' and would wait for sale clarity before meaningful paydown.
+- **Operating momentum entering Q3 was good (Q2 data).** Q2-26 was an all-time Q2 record: revenue $152.0m (+1%), Adjusted EBITDAR $31.7m (+5%, 21% margin); U.S. revenue +5% to $111.6m with EBITDAR +12% to $28.9m (margin 26% vs 24%); Canada EBITDAR +11% to $6.2m (30% margin); Poland ~$0.1m. July was described as 'another month with double-digit EBITDA growth', with Poland earning almost as much in July as in all of H1.
+- **Nugget (US West) is the turnaround proof-point and, ironically, the restatement epicentre.** Q2-26 revenue +16% to $23.4m and Adjusted EBITDAR +93% to $4.5m (margin 19% vs 12%), the third straight quarter of YoY EBITDAR growth, on entertainment (Brooks & Dunn 7,800 tickets; Keith Urban >$0.25m incremental profit) and +300% transient corporate room nights. The real estate beneath it is the Smooth Bourbon VIE at issue.
+- **Poland remains the drag.** Q2-26 revenue -19% to $19.9m, Adjusted EBITDAR ~$0.1m (H1 -78% YoY) after the Hilton Warsaw closure, Wrocław (opened Feb-26, Hotel Corona) start-up losses and low June table hold. Q3-25 comp is easy (EBITDAR -$0.4m). The open question from Q2 — can Poland get back to ~$10m annual EBITDAR — is now subordinate to whether it can be sold.
+- **No formal guidance exists; soft targets are unchanged and unaddressed.** The only numeric framing from the Q2 call — FY26 capex ~$15m (H2 ~$9.5m) and net debt/EBITDA 'well below 6x' by YE26 — was not updated on 17 Nov. With the restatement possibly altering the NCI line and the EBITDA definition used by lenders, the leverage target itself is now harder to interpret.
+- **Cost side: no formal transformation programme.** Management frames 2026 as 'execution and harvesting' — gaming-floor optimisation, corporate overhead reduction, declining capex — rather than a quantified cost-out plan with target years; nothing to bridge here.
+- **Thesis read-through.** The operating business (U.S. regional casinos ~73% of revenue, ~90% of EBITDAR with Canada) is growing EBITDAR double-digit, but the equity is now priced for a restructuring or delisting outcome: ~$336m debt + a VICI financing obligation + a potential Marnell put against ~$111m LTM Adjusted EBITDAR [LTM to Jun-26, derived]. Until restated financials, the Q3 10-Q and a lender position are public, the stock is a governance/credit event, not a fundamentals call.
+- **What management is emphasising vs burying.** The release leads with 'strong operational performance' and the Canada sale; the restatement mechanics, the material weakness, the absence of EBITDAR/EPS and the listing-compliance clock are in the back half. Sell-side consensus EPS of -$0.22 cannot be assessed because no net loss figure was given.
+
+## 2. Group Financial Summary
+
+| US $m (GAAP unless noted) | Q3-26 prelim | Q2-26 | Q3-25 | QoQ | YoY | H1-26 | H1 YoY |
+|---|---|---|---|---|---|---|---|
+| **Net operating revenue by segment** | | | | | | | |
+| US East (Mountaineer WV, Rocky Gap MD) | n/a | 43.6 | n/a¹ | n/a | n/a | ~83.0² | +1.0% |
+| US Midwest (Cape Girardeau, Caruthersville MO; Cripple Creek, Central City CO) | n/a | 44.7 | n/a¹ | n/a | n/a | 86.5 | +6.6% |
+| US West (Nugget, Reno-Sparks NV) | n/a | 23.4 | n/a¹ | n/a | n/a | 40.4 | +10.6% |
+| United States total | n/a | 111.6 | 115.0 | n/a | n/a | ~209.9² | +5.0% |
+| Canada (Edmonton, St Albert, Century Mile, Century Downs) | n/a | 20.4 | 20.6 | n/a | n/a | ~38.3² | +6.1% |
+| Poland (Casinos Poland, 6 casinos) | n/a | 19.9 | 18.1 | n/a | n/a | 41.0 | -9.5% |
+| Net operating revenue — group | 158.4 | 152.0 | 153.7 | +4.2% | +3.1% | 289.2 | +2.8% |
+| Net operating revenue — 9M (sum of reported quarters) 9M-26 = Q1 $137.2m + Q2 $152.0m + Q3 prelim $158.4m; Q1/Q2 subject to restatement (NCI presentation). | 447.6 (9M-26) | — | 435.0 (9M-25) | — | +2.9% | — | — |
+| Revenue by product (gaming / pari-mutuel-sports-iGaming / hotel / F&B / other) Not disclosed in the preliminary release; land-based casino operator — no online sportsbook/iGaming segment. | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Earnings from operations (GAAP) | 20.7 | 17.2 | 17.1 | +20.3% | +21.1% | n/a | n/a |
+| Operating margin | 13.1% | 11.3% | 11.1% | +~175bps | +~195bps | n/a | n/a |
+| Adjusted EBITDAR (non-GAAP) — group | n/a (not disclosed) | 31.7 | 31.1 | n/a | n/a | 56.6 | +12.2% |
+| US | n/a | 28.9 | 29.1 | n/a | n/a | ~51.1² | +~16% |
+| Canada | n/a | 6.2 | 5.4 | n/a | n/a | n/a | n/a |
+| Poland | n/a | ~0.1 | (0.4) | n/a | n/a | ~0.6² | -78% |
+| Corporate & other | n/a | ~(3.7)² | (3.1) | n/a | n/a | n/a | n/a |
+| Adjusted EBITDAR margin | n/a | 20.8% | 20.2% | n/a | n/a | 19.6% | +~170bps |
+| Net loss attributable to CNTY shareholders (GAAP) | n/a (not disclosed) | (10.9) | (10.5) | n/a | n/a | (27.4) | n/a |
+| Net loss per share (GAAP, basic) | n/a; cons. $(0.22) | (0.39) | (0.35) | n/a | n/a | (0.97) | n/a |
+| Adjusted EPS Company does not report an adjusted EPS measure. | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Group KPI — monthly actives / ARPU Not a disclosed metric for a land-based operator. | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Capex FY26 capex guided ~$15m (H2 ~$9.5m) on the Q2 call. | n/a | 3.1 | n/a | n/a | n/a | 5.7 | n/a |
+| Operating / free cash flow Cash-flow statement not provided in the preliminary release. | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Cash & equivalents (period end) | 60.2 (+3.4 held for sale) | 60.2 | n/a | ~flat | n/a | 60.2 | vs 68.9 at Dec-25 |
+| Total debt (period end) Jun-26: Goldman term loan $331.6m; CPL loan $0.9m; CPL revolver $3.9m. $30m Goldman revolver undrawn. Excludes VICI Master Lease financing obligation. | n/a | 336.5 | n/a | n/a | n/a | 336.5 | vs 337.7 at Dec-25 |
+| Net debt (company basis) | ~272–275 [est.] | 276.3 | n/a | n/a | n/a | 276.3 | n/a |
+| Net debt / EBITDA (mgmt basis) | n/a | 6.5x | n/a | n/a | n/a | 6.5x | target <6x by YE26 |
+| Consolidated First Lien Net Leverage (covenant 5.50x, springing) | n/a | >5.50x | n/a | n/a | n/a | >5.50x | not triggered (revolver undrawn) |
+
+## 3. Segment deep-dive — United States (US East / US Midwest / US West)
+
+*The engine — ~73% of revenue and, with Canada, ~90% of EBITDAR; Q3 split undisclosed, but Q2 showed US EBITDAR +12% on +5% revenue, and the Nugget VIE is where the restatement lives.*
+
+### Q3 triangulation
+
+**No Q3-26 segment data; U.S. almost certainly carried the quarter given Q2-26 EBITDAR +12% on +5% revenue, unverifiable until the 10-Q.**
+
+- Comparable base: Q3-25 U.S. net operating revenue $115.0m, Adjusted EBITDAR $29.1m (25% margin) on old three-segment basis.
+- Q2-26 U.S. revenue $111.6m (+5% YoY), Adjusted EBITDAR $28.9m (+12%); property margins up from 24% to 26%.
+- H1-26 U.S. revenue ~+5% to ~$209.9m; Adjusted EBITDAR nearly +16% to ~$51.1m (derived from segment disclosures).
+- Q3 group print of +3.1% revenue and +21% earnings from operations; Poland roughly break-even and Canada a ~$20m-revenue unit.
+
+> “EBITDAR grew more than twice as fast as revenue” — Management
+
+### US Midwest
+
+**Midwest is the profit centre: Q2-26 revenue $44.7m (+8.0% YoY), Adjusted EBITDAR $16.7m (~37% margin), 47% of group EBITDAR.**
+
+- Adjusted EBITDAR $16.7m versus $15.5m; H1-26 revenue $86.5m (+6.6%).
+- Missouri pair (Cape Girardeau, Caruthersville) delivered seventh consecutive quarter of YoY EBITDAR growth; Caruthersville record GGR, net revenue, coin-in and slot win.
+- Management credits Missouri's crackdown on illegal skill games as a tailwind.
+- Colorado: Central City EBITDAR rose more than 32%; Cripple Creek revenue +2%.
+- Watch item: Governor Polis has floated higher tax rates on some Colorado casinos (casino.org) — unquantified, unverified; Colorado is a meaningful share of Midwest profit.
+
+### US West (Nugget)
+
+**Nugget turnaround: Q2-26 revenue +16% to $23.4m, Adjusted EBITDAR +93% to $4.5m, margin 19% from 12%, third straight quarter of growth.**
+
+- H1-26: revenue $40.4m vs $36.6m; margin 15% vs 8%.
+- Levers: stronger entertainment calendar (Brooks & Dunn 7,800+ tickets; Keith Urban >$0.25m incremental profit), ~300% increase in transient corporate room nights.
+- Gaming-floor optimisation and hotel/convention integration still to come.
+- Real estate under the Nugget (Smooth Bourbon LLC, 50% Century / 50% Marnell Gaming, VIE since April 2023 acquisition) is the subject of the restatement.
+- Marnell put exercisable if an initiated sale fails to close within 18 months makes the stake redeemable, not classic NCI; EBITDAR unchanged but crystallises a contingent obligation.
+
+### US East
+
+**East is the steady, lower-margin leg: Q2-26 revenue $43.6m (-2.2% YoY), Adjusted EBITDAR ~$7.9m at 18% margin, 22% of group.**
+
+- H1-26 revenue ~$83.0m (+1.0%); Adjusted EBITDAR +7%.
+- Rocky Gap revenue down slightly less than 1%; Mountaineer managed for cost; no Q3 colour.
+- Q2 slide figures (East $7.9m, Midwest $16.7m, West $4.5m) sum to $29.1m versus $28.9m stated U.S. total — a $0.2m rounding gap unreconciled.
+
+### Outlook
+
+**No formal guidance; we assume Q4-26 U.S. revenue grows low-single-digits YoY against a $138.0m group Q4-25 base with slower margin expansion.**
+
+- Q2 commentary: Nugget has further floor and convention upside; FY26 capex of ~$15m is primarily gaming equipment.
+- U.S. is being harvested for cash to service a $336m debt stack and the VICI Master Lease rather than reinvested.
+- Margin expansion expected to continue but slower as entertainment comps toughen at the Nugget — an estimate, not a company figure.
+
+> “another month with double-digit EBITDA growth” — Management
+
+| US $m | Q3-26 prelim | Q2-26 | Q3-25 | QoQ | YoY | H1-26 | H1 YoY |
+|---|---|---|---|---|---|---|---|
+| **Net operating revenue** | | | | | | | |
+| US East | n/a | 43.6 | n/a | n/a | n/a | ~83.0 | +1.0% |
+| US Midwest | n/a | 44.7 | n/a | n/a | n/a | 86.5 | +6.6% |
+| US West (Nugget) | n/a | 23.4 | n/a | n/a | n/a | 40.4 | +10.6% |
+| United States total | n/a | 111.6 | 115.0 | n/a | n/a | ~209.9 | +5.0% |
+| **Adjusted EBITDAR (non-GAAP)** | | | | | | | |
+| US East | n/a | ~7.9 | n/a | n/a | n/a | n/a | +7% |
+| US Midwest | n/a | 16.7 | n/a | n/a | n/a | n/a | n/a |
+| US West (Nugget) | n/a | 4.5 | n/a | n/a | +93% (Q2 YoY) | ~6.1 | vs ~2.9 |
+| United States total | n/a | 28.9 | 29.1 | n/a | n/a | ~51.1 | +~16% |
+| **Adjusted EBITDAR margin** | | | | | | | |
+| US East | n/a | 18% | n/a | n/a | n/a | 16% | +~100bps |
+| US Midwest | n/a | 37% | n/a | n/a | n/a | 37% | +~100bps |
+| US West (Nugget) | n/a | 19% | n/a | n/a | n/a | 15% | +~700bps |
+| United States total | n/a | 26% | 25% | n/a | n/a | ~24% | +~230bps |
+| Share of group Adj. EBITDAR (Q2-26) | n/a | Midwest 47% / East 22% / West ~14% | n/a | n/a | n/a | n/a | n/a |
+| Share of group revenue (Q2-26) | n/a | East 29% / Midwest 29% / West 15% | n/a | n/a | n/a | n/a | n/a |
+| Market share / #1 positions Not disclosed by the company. | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+
+## 4. Segment deep-dive — Canada (Alberta)
+
+*Solid Q2 (EBITDAR +11%, 30% margin) and now partly for sale: the two racinos go to Highfield for $16.4m with ~$7.5m of VICI rent leaving with them.*
+
+### Q2 performance
+
+**Canada delivered Q2-26 revenue $20.4m (+2.2% YoY) and Adjusted EBITDAR $6.2m (+11%), margin up from 28% to 30%.**
+
+- No Q3-26 Canadian figures beyond $3.4m of cash reclassified to held-for-sale.
+- Comparable base: Q3-25 net operating revenue $20.6m, Adjusted EBITDAR $5.4m (26% margin).
+- H1-26 revenue +6.1% to ~$38.3m.
+- Improvement attributed to capital investment and operational changes across Edmonton, St Albert, Century Mile and Century Downs.
+- Revenue is CAD-denominated; constant-currency growth not disclosed.
+
+### Racino sale
+
+**28 Sep agreement to sell Century Mile and Century Downs to Highfield for ~$16.4m (CAD 23.2m), 6.1x FY25 EBITDA, cutting rent ~$7.5m.**
+
+- Century Mile 100%-owned; Century Downs 75%-owned with 25% held by noncontrolling partners; CAD conversion at 0.7074.
+- Implies roughly $2.7m of post-rent EBITDA (derived).
+- VICI owns the real estate; Master Lease amended at closing, Highfield becomes tenant, Century's annual rent falls ~$7.5m (CAD 10.7m).
+- Proceeds earmarked for debt reduction; lease-adjusted net leverage expected to fall pro forma.
+- Closing guided to Q4-26 or Q1-27, subject to Alberta gaming/racing consents and VICI's lease amendment.
+
+### Deal economics
+
+**Sensible rather than transformational: sheds $7.5m fixed rent and the lowest-margin racing book; retained casinos likely ~$10m annual Adjusted EBITDAR [estimate].**
+
+- Selling ~$2.7m of EBITDA for $16.4m reduces lease-adjusted leverage and removes the most capital-hungry (racing) part of the Canadian book.
+- Retained Edmonton and St Albert casinos are the higher-margin core but are also on the block under the 'fully U.S.-centric' end-state.
+- Management will wait for clarity on sale processes before any meaningful debt paydown.
+- Post-sale segment reduced to two casinos with FX exposure.
+
+### Outlook
+
+**No Canadian guidance; we assume flat-to-low-single-digit revenue growth for retained casinos and deconsolidation more likely in Q1-27.**
+
+- Q4-26 deconsolidation only if the regulatory timetable allows.
+- The ~$7.5m rent saving is therefore a 2027 event, not a 2026 one.
+
+| US $m | Q3-26 prelim | Q2-26 | Q3-25 | QoQ | YoY | H1-26 | H1 YoY |
+|---|---|---|---|---|---|---|---|
+| Net operating revenue | n/a | 20.4 | 20.6 | n/a | n/a | ~38.3 | +6.1% |
+| Adjusted EBITDAR (non-GAAP) | n/a | 6.2 | 5.4 | n/a | n/a | n/a | n/a |
+| Adjusted EBITDAR margin | n/a | 30% | 26% | n/a | n/a | n/a | n/a |
+| Share of group revenue / Adj. EBITDAR (Q2-26) | n/a | 13% / 18% | n/a | n/a | n/a | n/a | n/a |
+| Cash held for sale (racinos) | 3.4 | — | — | n/a | n/a | — | — |
+| Racino disposal — price 6.1x FY25 EBITDA → implied ~$2.7m EBITDA (derived). Close Q4-26/Q1-27. | $16.4m (CAD 23.2m) | — | — | — | — | — | — |
+| Racino disposal — annual rent removed from Master Lease | ~$7.5m (CAD 10.7m) | — | — | — | — | — | — |
+| Constant-currency growth Not disclosed. | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+
+## 5. Segment deep-dive — Poland (Casinos Poland)
+
+*Break-even and in transition — Warsaw Hilton closed, Wrocław ramping, two bidders in due diligence; the easy Q3-25 comp (-$0.4m EBITDAR) should have helped the group print.*
+
+### Q2 results and comp
+
+**Poland is break-even and in transition: Q2-26 revenue -19% to $19.9m, Adjusted EBITDAR ~$0.1m, against a soft Q3-25 comp of -$0.4m.**
+
+- Nothing disclosed on Poland for Q3-26.
+- Q3-25 net operating revenue $18.1m, Adjusted EBITDAR -$0.4m (-2% margin); 9M-25 EBITDAR $2.1m on $63.5m revenue.
+- H1-26 revenue -9.5% to $41.0m; EBITDAR down ~78% YoY to ~$0.6m (derived).
+- Hilton Warsaw casino closed; new Wrocław casino opened February 2026 in Hotel Corona on the Market Square, carrying start-up losses; June table hold unusually low.
+- Revenue PLN-denominated; no constant-currency figure given.
+
+> “less meaningful” — Management
+
+### Recovery signals
+
+**Management signalled the worst is behind them; a modest positive Q3-26 versus -$0.4m base would be a multi-million-dollar YoY swing at group level.**
+
+- Management hoped the second Wrocław licence would ramp to full capacity.
+- Analysts pushed on whether Poland can return to roughly $10m of annual EBITDAR; management did not commit.
+- A plausible contributor to the +21% earnings-from-operations print that we cannot yet attribute.
+
+> “almost as much EBITDA in the month as it did in the entire first half” — Management
+
+### Disposal process
+
+**Poland is a disposal candidate with two groups in due diligence; value lies in removing volatility rather than proceeds.**
+
+- Process described as 'complicated by regional geopolitical tensions'.
+- Casinos Poland carries a $0.9m loan and $3.9m revolver at 30 Jun-26.
+- Operates six casinos under concession-based licences that periodically expire and must be re-tendered; historically ~0–5% margins.
+- We would not model meaningful proceeds until a signed agreement exists.
+
+### Outlook
+
+**We assume Q4-26 Poland contributes small positive EBITDAR (low single-digit $m at best) with revenue roughly flat YoY — an estimate.**
+
+- Wrocław expected to offset Warsaw closure.
+- The real swing factor for the equity is binary (sold or not), not quarterly hold.
+
+| US $m | Q3-26 prelim | Q2-26 | Q3-25 | QoQ | YoY | H1-26 | H1 YoY |
+|---|---|---|---|---|---|---|---|
+| Net operating revenue | n/a | 19.9 | 18.1 | n/a | n/a | 41.0 | -9.5% |
+| Adjusted EBITDAR (non-GAAP) | n/a | ~0.1 | (0.4) | n/a | n/a | ~0.6 | -78% |
+| Adjusted EBITDAR margin | n/a | ~0% | (2%) | n/a | n/a | ~1% | n/a |
+| Share of group revenue / Adj. EBITDAR (Q2-26) | n/a | 13% / 0% | n/a | n/a | n/a | n/a | n/a |
+| Casinos operated | 6 | 6 | n/a | — | — | 6 | — |
+| CPL debt (loan + revolver) | n/a | 0.9 + 3.9 | n/a | n/a | n/a | 4.8 | n/a |
+| Constant-currency growth Not disclosed. | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+
+## 6. Highlights & Lowlights
+
+**Highlights**
+
+- Preliminary Q3-26 revenue +3.1% YoY to $158.4m and +4.2% QoQ — a third straight quarter of YoY growth after a -1% FY25; 9M-26 revenue +2.9% to $447.6m. _(structural)_
+- GAAP earnings from operations +21% to $20.7m with ~77% incremental flow-through; operating margin +~195bps YoY to 13.1% — operating leverage from gaming-floor optimisation and cost discipline is visible even before EBITDAR is disclosed. _(structural)_
+- Canada racino sale: $16.4m for ~$2.7m of EBITDA (6.1x) while removing ~$7.5m of annual VICI rent — accretive to lease-adjusted leverage and consistent with the US-centric pivot. _(structural)_
+- Nugget turnaround (Q2: revenue +16%, Adjusted EBITDAR +93%, margin 19% vs 12%; three consecutive quarters of YoY growth) and Missouri's seven straight quarters of EBITDAR growth give the U.S. portfolio genuine momentum into the seasonally strongest quarter. _(early)_
+- Cash was held at $60.2m (+$3.4m held-for-sale) through Q3 after interest, amortisation and capex, with no revolver drawn and no maturities until Q2-29 — the near-term liquidity position is not the immediate problem. _(mixed)_
+- Poland's Q3-25 comp (Adjusted EBITDAR -$0.4m) was easy and July was described as nearly matching all of H1 EBITDA — a likely but unverified contributor to the Q3 operating-profit jump. _(one-off)_
+
+**Lowlights**
+
+- Restatement of FY24, FY25 and Q1/Q2-26 over the Marnell put on the Smooth Bourbon (Nugget real estate) VIE; previously issued statements should no longer be relied upon and at least one additional material weakness is expected — the second Item 4.02 event in 12 months. _(governance)_
+- The Marnell put converts a presentational error into a contingent cash obligation: Century paid ~$95m for its own 50% of Smooth Bourbon [unverified from prior filings] — an order of magnitude larger than the ~$6.75m market cap and on top of $336m of debt plus the VICI financing obligation. _(structural)_
+- Q3 financials are preliminary, unaudited, unreviewed by EY and pre-restatement; no Adjusted EBITDAR, net loss, EPS, segment or debt data; the 10-Q is late, the earnings call was cancelled and no filing dates were given. _(governance)_
+- Nasdaq compliance: MVLS below $35m notice (19 Oct 2026, cure by 19 Apr 2027), stock at $0.24 versus the $1 bid-price floor, and a late 10-Q — three overlapping delisting threads; the June S-3 shelf is now effectively unusable (baby-shelf capacity ~$2m). _(structural)_
+- Leverage: net debt/EBITDA 6.5x (mgmt, Jun-26), first-lien net leverage already above the 5.50x springing covenant, so the $30m revolver is practically off-limits; management is 'talking with lenders about more flexibility' — a restatement may also trigger reporting-covenant issues under the Goldman agreement. _(watch)_
+- Revenue missed consensus modestly ($158.4m vs ~$159.3–159.5m); Poland remains ~break-even (Q2 EBITDAR ~$0.1m, H1 -78%) with its sale process complicated by regional geopolitics; Colorado tax-rate proposals (secondary reports, unquantified) add a fiscal overhang to the Midwest profit centre. _(mixed)_
+- Deleveraging target of 'well below 6x' by YE26 was neither reaffirmed nor withdrawn, and the EBITDA/NCI definitions underlying it may change with the restatement. _(watch)_
+
+## 7. Forecast & Outlook
+
+Century does not issue formal numeric guidance, so the 'bridge' is between the soft framing on the 7 Aug Q2 call and what was (not) said on 17 Nov. Old: FY26 capex ~$15m (H2 ~$9.5m), net debt/EBITDA to fall 'well below 6x' by YE26, July double-digit EBITDA growth, Poland improving in H2, international monetisation under way. New: none of this was updated — the only incremental items are the 28 Sep Canada racino sale ($16.4m proceeds, -$7.5m rent, close Q4-26/Q1-27) and a filing timetable of 'as soon as practicable' for the 10-K/A, two 10-Q/As and the Q3 10-Q. The division driving the operating beat is almost certainly the U.S. (Midwest and the Nugget) with an easy Poland comp; the division driving the equity collapse is US West's real-estate VIE.
+
+- **Net debt / EBITDA (mgmt basis):** 6.5x at Jun-26 → 'well below 6x' by YE26 (Not reaffirmed on 17 Nov; definitions may move with restatement)
+- **FY26 capex:** ~$15m (H1 $5.7m; H2 ~$9.5m) (Unchanged (Q2 call); Q3 actual not disclosed)
+- **Canada racino sale:** $16.4m proceeds; ~$7.5m annual rent removed; ~$2.7m EBITDA sold (New since Q2; close Q4-26/Q1-27 pending approvals)
+- **Restated & delayed filings:** 10-K/A FY25 (incl. FY24 + all quarters), 10-Q/A Q1 & Q2-26, Q3-26 10-Q ('As soon as practicable' — no dates; 12b-25 extension expected)
+
+**Revenue:** we pencil Q4-26 at ~$141–143m (+2–3% YoY on the $138.0m Q4-25 base — the seasonally weakest quarter) for **FY26 ~$589–591m, +~3%** [estimate]. **EBITDAR/margin:** applying Q2-26/Q3-25 add-backs of ~$14–14.5m to the $20.7m Q3 operating profit implies Q3 Adjusted EBITDAR of ~$34–35m (+~10–12% YoY); with Q4 at ~$25–26m (vs $23.9m) that yields **FY26 Adjusted EBITDAR ~$116–118m (+10–12%), margin ~19.7–20.0% vs 18.4%** — all our arithmetic, none of it company-guided, and all exposed to whatever the restatement does to the NCI line. **Leverage:** net debt ~$272–275m at Sep-30 [estimate]; the Canada proceeds would take it to ~$258m pro forma, and the ~$7.5m rent saving helps lease-adjusted metrics from 2027. Whether YE26 lands 'well below 6x' on management's basis depends on a definition we cannot verify post-restatement; directionally leverage **drifts lower, slowly**. **The swing factors are not operational:** (1) the restated balance sheet — where the Marnell interest lands (temporary equity vs liability) and at what value; (2) lender reaction under the Goldman agreement; (3) Nasdaq — MVLS, bid-price and late-filing rules simultaneously; (4) whether a Poland or wider Canada sale lands at a multiple that moves net debt. With a ~$6.75m market cap against ~$111m of LTM Adjusted EBITDAR and ~$336m of funded debt, the equity is pricing in a recapitalisation or delisting scenario; the operating trend, while genuinely positive, is a second-order input until the filings are current.
+
+**What to watch next quarter:**
+
+- Timing and content of the Q3-26 10-Q, the FY25 10-K/A and Q1/Q2-26 10-Q/As — specifically the reclassification of Marnell's Smooth Bourbon interest (temporary equity vs liability), its carrying/redemption value, and the number and nature of material weaknesses disclosed.
+- Nasdaq: the 19 Apr 2027 MVLS cure deadline, any $1 bid-price deficiency notice, and the late-filing (Rule 5250(c)(1)) notice that normally follows a missed 10-Q; any reverse-split or hearing-panel request.
+- Goldman credit agreement: any waiver/amendment on reporting covenants or the restatement, revolver availability, and whether the 5.50x first-lien springing test ever gets triggered; cash at 31 Dec vs the $60.2m Sep-30 level.
+- Closing of the Century Mile/Century Downs sale (regulatory and VICI consents) and application of the $16.4m to the term loan; progress on the Poland sale (two bidders in diligence at Q2) and any decision on Edmonton/St Albert.
+- Q4 trading: Nugget entertainment calendar comps, Missouri skill-game enforcement benefit, Colorado tax-rate proposals (unquantified), and Poland/Wrocław ramp versus the Q4-25 $23.9m Adjusted EBITDAR base.
+- Any regulatory inquiry or shareholder litigation tied to the restatement (both flagged as risks in the company's own release).
+
+### Sources
+
+**Data confidence: LOW.** Reporting currency is USD — no FX conversion required (the Canada sale was struck at CAD/USD 0.7074 on 27 Sep 2026 per the company). Headline Q3-26 figures (revenue $158.4m, earnings from operations $20.7m, cash $60.2m) are company-reported in the 17 Nov 8-K Ex-99.1 and corroborated by Seeking Alpha, Yogonet, Intergame and PR Newswire — but they are preliminary, unaudited, not reviewed by EY, and explicitly pre-restatement; prior-period comparatives (Q3-25, Q2-26, H1-26) come from financial statements the Audit Committee says should no longer be relied upon. Adjusted EBITDAR, net loss, EPS, segment results, debt and cash flow for Q3-26 were not disclosed and are shown as n/a; any Q3/FY26 EBITDAR, net-debt and leverage figures in the forecast are our estimates and labelled as such. Items flagged [unverified]: the ~$95m cost of Century's 50% Smooth Bourbon stake (from prior filings, not re-read), the subject of the 6 Nov 2025 Item 4.02 8-K, the 17 Nov prior-day close, any Nasdaq bid-price notice, and the Colorado tax proposal (secondary source only). Q2-26 sub-segment EBITDAR (East $7.9m / Midwest $16.7m / West $4.5m) sums to $29.1m vs the $28.9m U.S. total stated on the call — unreconciled $0.2m. H1-26 US East revenue, Canada H1 revenue, US H1 EBITDAR, Poland H1 EBITDAR and Corporate Q2 EBITDAR are derived from disclosed growth rates/totals, not stated directly. Web-tool budget was exhausted before the 12 Nov call-delay release, the NT 10-Q and the 23 Oct Nasdaq 8-K could be read directly; those are sourced via secondary coverage.
+
+1. [Primary] Century Casinos 8-K Ex-99.1, 17 Nov 2026 — Restatement and Preliminary Q3 2026 Results (primary) — https://www.sec.gov/Archives/edgar/data/911147/000091114726000057/cnty-20261117xex99_1.htm
+2. [Primary] Century Casinos 8-K, 17 Nov 2026 — Items 2.02/7.01/9.01 cover (primary) — https://www.sec.gov/Archives/edgar/data/0000911147/000091114726000057/cnty-20261117x8k.htm
+3. [Primary] Century Casinos 8-K, 13 Nov 2026 (filed 16 Nov) — Item 4.02 Non-Reliance on Previously Issued Financial Statements (primary) — https://www.sec.gov/Archives/edgar/data/911147/000091114726000055/cnty-20261113x8k.htm
+4. [Primary] Century Casinos 8-K Ex-99.1, 28 Sep 2026 — Definitive Agreement to Sell Century Mile and Century Downs (primary) — https://www.sec.gov/Archives/edgar/data/0000911147/000091114726000047/cnty-20260924xex99_1.htm
+5. [Primary] Century Casinos 8-K Ex-99.1, 7 Aug 2026 — Q2 2026 Results (primary) — https://www.sec.gov/Archives/edgar/data/911147/000091114726000042/cnty-20260806xex99_1.htm
+6. [Primary] Century Casinos 10-Q, quarter ended 30 Jun 2026 (primary) — https://www.sec.gov/Archives/edgar/data/0000911147/000091114726000039/cnty-20260630x10q.htm
+7. [Primary] Century Casinos 8-K Ex-99.1, 8 May 2026 — Q1 2026 Results (primary) — https://www.sec.gov/Archives/edgar/data/0000911147/000091114726000024/cnty-20260507xex99_1.htm
+8. [Primary] Century Casinos 8-K Ex-99.1, 13 Mar 2026 — Q4/FY2025 Results (primary) — https://www.sec.gov/Archives/edgar/data/911147/000091114726000006/cnty-20260312xex99_1.htm
+9. [Primary] Century Casinos 8-K Ex-99.1, 10 Nov 2025 — Q3 2025 Results (primary; now subject to non-reliance) — https://www.sec.gov/Archives/edgar/data/911147/000091114725000048/cnty-20251110xex99_1.htm
+10. [Primary] Century Casinos Form S-3 shelf, June 2026 (primary) — https://www.sec.gov/Archives/edgar/data/0000911147/000114036126024930/ny20075183x1_s3.htm
+11. [Primary] PR Newswire mirror of 17 Nov 2026 release (primary mirror) — https://www.prnewswire.com/news-releases/century-casinos-inc-announces-restatement-of-previously-issued-financial-statements-and-preliminary-third-quarter-2026-financial-results-302942209.html
+12. [Secondary] Q2 2026 earnings call transcript — Motley Fool (secondary) — https://www.fool.com/earnings/call-transcripts/2026/08/07/century-casinos-cnty-q2-2026-earnings-call-transcript/
+13. [Secondary] Q2 2026 earnings call transcript/summary — Yahoo Finance (secondary) — https://finance.yahoo.com/quote/CNTY/earnings/CNTY-Q2-2026-earnings_call-553956.html
+14. [Secondary] Q2 2026 investor slides summary — Investing.com (secondary) — https://www.investing.com/news/company-news/century-casinos-q2-2026-slides-record-results-93-west-region-growth-93CH-4847062
+15. [Secondary] Q2 2026 call summary incl. strategic-sale status — Yahoo Finance (secondary) — https://finance.yahoo.com/markets/stocks/articles/century-casinos-inc-q2-2026-212402444.html
+16. [Secondary] Seeking Alpha news, 17 Nov 2026 — preliminary results and consensus (secondary) — https://seekingalpha.com/news/4673834-century-casinos-announces-financial-restatement-preliminary-q3-results
+17. [Secondary] Yogonet, 18 Nov 2026 — user-supplied coverage (secondary) — https://www.yogonet.com/international/news/2026/11/18/127355-century-casinos-reports-higher-q3-revenue-but-must-revise-financial-statements-dating-back-to-2024
+18. [Secondary] Casino.org, 17 Nov 2026 — share-price reaction (secondary) — https://www.casino.org/news/century-casinos-extends-slide-as-company-says-it-will-restate-some-results/
+19. [Secondary] TradingView/Investing.com, 23 Oct 2026 — Nasdaq MVLS deficiency notice (secondary; underlying 8-K not read directly) — https://www.tradingview.com/news/tradingview:43be8f7e325c1:0-century-casinos-disclosed-failure-to-satisfy-a-continued-listing-rule-or-standard/
+20. [Secondary] Morningstar CNTY quote, 18 Nov 2026 — price, shares, market cap (secondary) — https://www.morningstar.com/stocks/xnas/cnty/quote
+21. [Secondary] Intergame, Nov 2026 — corroboration of preliminary figures (secondary) — https://www.intergameonline.com/land-based-gaming/news/century-casinos-to-restate-h1-financial-reports
+
+*Research analysis only — not a rating, price target, or personalised investment advice.*
