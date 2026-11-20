@@ -5016,16 +5016,62 @@
   },
   {
     "key": "better collective a s|Q3 2026",
-    "attempts": 1,
-    "lastAttempt": "2026-11-19T21:22:11.671Z",
-    "status": "failed",
-    "error": "r.forecast.watch is not iterable",
+    "attempts": 2,
+    "lastAttempt": "2026-11-20T21:15:54.656Z",
+    "status": "done",
+    "error": null,
     "type": "company",
     "company": {
       "name": "Better Collective A/S",
-      "ticker": "BETCO"
+      "ticker": "BETCO",
+      "exchange": ""
     },
-    "period": "Q3 2026"
+    "period": "Q3 2026",
+    "slug": "BETCO-Q3-2026",
+    "published": "2026-11-20",
+    "verdict": "A record Q3 top line (€83.1m / ~$91.2m, +6% organic) and a 39% North American EBITDA margin are genuine, but they were earned while absorbing a €6.5m (~$7.1m) sports-win-margin shortfall, a one-third collapse in Europe & RoW EBITDA, and a Brazilian ban that removes ~€30m (~$33m) of annual revenue from Q4 onward with no 2027 framework to replace it. Guidance was \"maintained\" only because it was already cut in September; the shares fell 9% to SEK 57.90, a fresh 52-week low.",
+    "kpis": [
+      {
+        "label": "Revenue",
+        "value": "€83.1m (~$91.2m)",
+        "delta": "+6.2% YoY (+6% organic, +5% cc); -6.7% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "EBITDA before special items",
+        "value": "€21.9m (~$24.0m)",
+        "delta": "+6.1% YoY; margin 26.3% (flat YoY, -390bps QoQ)",
+        "dir": "up"
+      },
+      {
+        "label": "Net profit (IFRS) / diluted EPS",
+        "value": "€1.2m (~$1.3m) / €0.02 (~$0.02)",
+        "delta": "-25% YoY; EPS vs €0.03; ETR 54.5%",
+        "dir": "down"
+      },
+      {
+        "label": "Net debt / EBITDA bsi",
+        "value": "€253.5m (~$278m) / 2.29x",
+        "delta": "vs 2.51x Q3-25, 2.31x Q2-26; target <3x",
+        "dir": "down"
+      },
+      {
+        "label": "Value of Deposits (rev-share base)",
+        "value": "€794m (~$871m)",
+        "delta": "+9.4% YoY; -5.0% QoQ (Brazil drag from Q4)",
+        "dir": "up"
+      },
+      {
+        "label": "New Depositing Customers",
+        "value": "272k",
+        "delta": "-2.5% YoY; -27% QoQ post-World Cup; 70% on rev share",
+        "dir": "down"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "18 Nov 2026 (after market close CET; regulatory release 87/2026) — call 19 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.43
   },
   {
     "key": "allwyn international|Q3 2026",
@@ -5203,5 +5249,300 @@
     "releaseDate": "16 Nov 2026 (full results, 8-K/10-Q; preliminary revenue/EBITDAR released 9 Nov 2026)",
     "model": "claude-fable-5-1",
     "costUsd": 5.16
+  },
+  {
+    "key": "grandstand|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-20T20:49:41.347Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "GRANDSTAND-Q3-2026",
+    "published": "2026-11-20",
+    "company": {
+      "name": "Grandstand",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "Q3-26 was a sequential improvement (revenue +7% QoQ to $40.3m, adj. EBITDA +31% QoQ to $10.0m, margin 20%→25%) that still missed the Street by ~3–4% on revenue and fell well short of the company's own plan, forcing a FY26 guidance cut to ~$157m / ~$37m from $165–170m / $45–50m — the entire shortfall sits in consumer-facing brands (international SEO/casino affiliate and OddsJam subscriptions) while B2B (OpticOdds >50%, Grandstand Partners) grows. With $120.1m of bank debt due 2028, $27.0m of OddsJam deferred consideration due April 2027, $8.1m of cash and a post-print market cap of ~$16m, the Jefferies-led \"strategic review\" is first and foremost a refinancing; the equity is now a levered option on that outcome rather than on operating recovery.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "$40.3m",
+        "delta": "+3% YoY (+5% cc) / +7% QoQ; ~3–4% below consensus",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA (non-IFRS)",
+        "value": "$10.0m",
+        "delta": "-23% YoY / +31% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA margin",
+        "value": "24.9%",
+        "delta": "-850bps YoY / +460bps QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. FCF (non-IFRS)",
+        "value": "$8.0m",
+        "delta": "-17% YoY; 80% conversion of adj. EBITDA",
+        "dir": "down"
+      },
+      {
+        "label": "Net debt ex-deferred consid.",
+        "value": "$112.0m",
+        "delta": "~2.7x LTM adj. EBITDA; $139.1m / 3.3x incl. $27.1m deferred (our calc)",
+        "dir": "flat"
+      },
+      {
+        "label": "FY26 guidance",
+        "value": "~$157m rev / ~$37m adj. EBITDA",
+        "delta": "Cut from $165–170m / $45–50m (-6% / -22% vs midpoints)",
+        "dir": "down"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "19 Nov 2026 (after US close; call 4:30pm ET)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.47
+  },
+  {
+    "key": "better collective|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-20T21:02:03.191Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "BETCO-Q3-2026",
+    "published": "2026-11-20",
+    "company": {
+      "name": "Better Collective",
+      "ticker": "BETCO",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A record Q3 top line (€83.1m, ~$91.2m, +6%) and a genuine North American inflection (revenue +28%, EBITDA margin 39% vs 16%) were overshadowed by what sits underneath: Europe & RoW EBITDA fell 33% to a 20% margin, Paid Media revenue dropped 12%, and the September Brazil ban removes ~€15m (~$16m) of Q4 revenue on a ~€10m cost base with a €50–70m (~$55–77m) impairment hanging over the balance sheet. Guidance was held at the cut level (organic revenue +3–8%, EBITDA bsi −7% to +3%), buybacks stay suspended, 2027–28 targets stay withdrawn, and the co-CEO structure was unwound after a year; the shares fell 9% to within 1% of their 52-week low.",
+    "kpis": [
+      {
+        "label": "Revenue",
+        "value": "€83.1m (~$91.2m)",
+        "delta": "+6% YoY (organic cc +5%); −7% QoQ; record Q3",
+        "dir": "up"
+      },
+      {
+        "label": "EBITDA before special items",
+        "value": "€21.9m (~$24.0m)",
+        "delta": "+6% YoY; margin 26.3% flat YoY, −390bp QoQ; ~€6.5m sports-margin drag",
+        "dir": "up"
+      },
+      {
+        "label": "North America revenue",
+        "value": "€26.6m (~$29.2m)",
+        "delta": "+28% YoY (cc +26%); EBITDA bsi €10.3m (~$11.4m), margin 39% vs 16%",
+        "dir": "up"
+      },
+      {
+        "label": "Net profit / diluted EPS",
+        "value": "€1.2m (~$1.3m) / €0.02 (~$0.02)",
+        "delta": "−25% YoY; D&A +44%, ETR 55%",
+        "dir": "down"
+      },
+      {
+        "label": "Value of Deposits (rev-share base)",
+        "value": "€794m (~$871m)",
+        "delta": "+9% YoY (Q3 record); NDCs 272k, −3% YoY / −27% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Net interest-bearing debt / leverage",
+        "value": "€253.5m (~$278m); 2.29x",
+        "delta": "vs 2.51x YoY, 2.31x QoQ; buybacks suspended",
+        "dir": "down"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "18 Nov 2026 (after market close CET; webcast 19 Nov 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 7.78
+  },
+  {
+    "key": "piggs peak hotel and casino|Q2 2026/27",
+    "attempts": 1,
+    "lastAttempt": "2026-11-20T21:29:47.141Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "PIGGS-PEAK-HOTEL-AND-CASINO-Q2-2026-27",
+    "published": "2026-11-20",
+    "company": {
+      "name": "Piggs Peak Hotel and Casino",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q2 2026/27",
+    "verdict": "A real but event-assisted swing back to profit: Q2 FY26/27 (Jul–Sep 2026) PBT of E1.261m (~$77k) on total income of E10.093m (~$614k), 28% ahead of a conservative internal budget and reversing Q1's E978k (~$60k) loss. The ~70% incremental margin shows the property's operating leverage, but a 20% cost overrun versus budget, a 1.7% H1 PBT margin and zero disclosure on gaming-vs-lodging mix, balance sheet or year-on-year comparatives make this a thin, unaudited datapoint from a state-owned, unlisted asset rather than an established trend.",
+    "kpis": [
+      {
+        "label": "Q2 total income",
+        "value": "E10.093m (~$614k)",
+        "delta": "+28.2% vs budget E7.873m; +45.9% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Q2 profit before tax",
+        "value": "E1.261m (~$77k)",
+        "delta": "+134.8% vs budget E537k; Q1 was a E978k loss",
+        "dir": "up"
+      },
+      {
+        "label": "Q2 PBT margin",
+        "value": "12.5%",
+        "delta": "+2,660bps QoQ (Q1 −14.1%); +570bps vs budget 6.8%",
+        "dir": "up"
+      },
+      {
+        "label": "Implied Q2 cost base",
+        "value": "E8.832m (~$537k)",
+        "delta": "+20.4% vs budget E7.336m; +11.9% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "H1 total income",
+        "value": "E17.010m (~$1.03m)",
+        "delta": "YoY n/a (not disclosed); Q1 implied E6.917m",
+        "dir": "flat"
+      },
+      {
+        "label": "H1 profit before tax",
+        "value": "E0.282m (~$17k)",
+        "delta": "1.7% margin; Q1 loss absorbed 78% of Q2 profit",
+        "dir": "up"
+      }
+    ],
+    "confidence": "LOW",
+    "releaseDate": "4 Nov 2026 (Ministry of Tourism & Environmental Affairs Q2 performance report to the House of Assembly Portfolio Committee; trade-press coverage 9 Nov 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 2.39
+  },
+  {
+    "key": "PTEC.L|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-20T21:37:09.954Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "PTEC-L-Q3-2026",
+    "published": "2026-11-20",
+    "company": {
+      "name": "Playtech plc",
+      "ticker": "PTEC.L",
+      "exchange": "LSE"
+    },
+    "period": "Q3 2026",
+    "verdict": "An 11% upgrade to FY26 adj. EBITDA (>€300m / ~$336m, 7.5% above the €279m consensus) that the market refused to pay for, because management simultaneously told it 2026 is the peak: PMR wallet share at Hard Rock Bet erodes in 2027, Brazil is dark, and the UK's 40% RGD annualises. The beat is high quality (cash-generative, Americas-led, cost-disciplined) but its durability — one product, one partner, one state — is the entire debate, and FY27 consensus (€266m) already sits 11% below the new 2026 floor.",
+    "kpis": [
+      {
+        "label": "FY26 adj. EBITDA guidance",
+        "value": ">€300m (~$336m)",
+        "delta": "vs >€270m prior (10 Sep); cons. €279m; FY25A €197.0m",
+        "dir": "up"
+      },
+      {
+        "label": "H1-26 revenue (continuing)",
+        "value": "€425.1m (~$476m)",
+        "delta": "+10% YoY (+13% ex-Caliente fee); +13% HoH",
+        "dir": "up"
+      },
+      {
+        "label": "H1-26 adj. EBITDA",
+        "value": "€162.5m (~$182m)",
+        "delta": "+77% YoY; margin 38.2% (+1,450bps)",
+        "dir": "up"
+      },
+      {
+        "label": "H1-26 free cash flow",
+        "value": "€101.0m (~$113m)",
+        "delta": "vs €6.6m H1-25; above €70–100m MT range",
+        "dir": "up"
+      },
+      {
+        "label": "Net cash (30 Jun 26)",
+        "value": "€39.2m (~$44m)",
+        "delta": "vs €28.5m Dec-25, after €24.6m buyback; no bonds",
+        "dir": "up"
+      },
+      {
+        "label": "FY27 consensus adj. EBITDA",
+        "value": "€266m (~$298m)",
+        "delta": "−11% vs FY26 guide floor; mgmt flags 3 headwinds",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "10 Nov 2026 (trading update covering 1 Jul–31 Oct 2026; H1-26 results published 10 Sep 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.79
+  },
+  {
+    "key": "bally s intralot|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-20T21:49:16.248Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "INLOT-Q3-2026",
+    "published": "2026-11-20",
+    "company": {
+      "name": "Bally's Intralot",
+      "ticker": "INLOT",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "Operationally a clean quarter inside a stretched balance sheet: UK online NGR grew 12.2% cc through the first full quarters of 40% RGD, group AEBITDA edged up 5% QoQ to €88.9m (~$98m) at a 31.1% margin, and the legacy lottery business stabilised QoQ. But pro-forma net leverage climbed to 4.33x (vs 3.5x at Dec-25 and a 4.75x covenant) because the LTM denominator is shrinking, the evoke close has slipped into 2027, and the group still reported a €23.8m (~$26m) Q3 net loss after €40.1m (~$44m) of finance costs and €13.7m (~$15m) of deal fees. Deleveraging now depends on Q4 seasonality and a US jackpot cycle, neither of which management controls.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "€286.1m (~$315m)",
+        "delta": "+3.6% QoQ / +249% YoY (BII consolidated from Q4-25)",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA (Q3-26)",
+        "value": "€88.9m (~$98m)",
+        "delta": "+5.1% QoQ; margin 31.1% (+50bps QoQ, -540bps YoY)",
+        "dir": "up"
+      },
+      {
+        "label": "Net loss after tax (Q3-26)",
+        "value": "€(23.8)m (~$(26)m)",
+        "delta": "vs €(1.7)m Q3-25; 9M €(36.4)m",
+        "dir": "down"
+      },
+      {
+        "label": "UK online revenue growth (cc)",
+        "value": "+12.2% YoY",
+        "delta": "vs +11.6% Q2, +10.5% Q1; record NGR",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. net debt / PF leverage",
+        "value": "€1,629.9m (~$1.79bn) / 4.33x",
+        "delta": "vs €1,618.9m / 4.05x at Jun-26; 3.5x Dec-25",
+        "dir": "down"
+      },
+      {
+        "label": "Total liquidity",
+        "value": "€472.4m (~$520m)",
+        "delta": "vs €287.3m Jun-26 (new £157.1m term loan tranche)",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "10 Nov 2026 (preliminary Q3/9M announcement, Euronext Athens) / 20 Nov 2026 (full 9M 2026 press release, slides and call)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.33
   }
 ]
