@@ -1098,7 +1098,8 @@
       "https://igamingfuture.com/allwyn-q3-revenue-rises-19-as-igaming-grows-26/",
       "https://next.io/news/results/q326-allwyn-cfo-margin-compression-misleading/",
       "https://igamingbusiness.com/finance/allwyn-reports-19-revenue-growth-q3/",
-      "https://igamingbusiness.com/finance/allwyn-confident-betano-brazil-shutdown/"
+      "https://igamingbusiness.com/finance/allwyn-confident-betano-brazil-shutdown/",
+      "https://focusgn.com/allwyn-q3-results-revenue-ebitda"
     ],
     "seen": "2026-11-19"
   },
@@ -1109,7 +1110,8 @@
     "authority": "NLGRB",
     "period": "2026",
     "urls": [
-      "https://findmoreafrica.com/uganda-gambling-industry-gaming-tax-growth/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=uganda-gambling-industry-gaming-tax-growth"
+      "https://findmoreafrica.com/uganda-gambling-industry-gaming-tax-growth/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=uganda-gambling-industry-gaming-tax-growth",
+      "https://ibetafrica.com/2026/11/20/uganda-seizes-886-illegal-gaming-machines-as-regulator-reports-98-licenses-issued/"
     ],
     "seen": "2026-11-19"
   },
@@ -1121,6 +1123,32 @@
     "period": "OCTOBER 2026",
     "urls": [
       "https://www.yogonet.com/international/news/2026/11/19/127386-argentina-igaming-tax-revenue-rose-47-in-october-but-75-of-the-market-remains-illegal"
+    ],
+    "seen": "2026-11-20"
+  },
+  {
+    "key": "grandstand|Q3 2026",
+    "type": "company",
+    "company": "Grandstand",
+    "ticker": null,
+    "period": "Q3 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238898-grandstand-posts-3-revenue-growth-for-q3-and-launches-strategic-review/"
+    ],
+    "seen": "2026-11-20"
+  },
+  {
+    "key": "better collective|Q3 2026",
+    "type": "company",
+    "company": "Better Collective",
+    "ticker": "BETCO",
+    "period": "Q3 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238855-north-america-drives-better-collective-revenue-growth-in-q3-2026/"
     ],
     "seen": "2026-11-20"
   }
