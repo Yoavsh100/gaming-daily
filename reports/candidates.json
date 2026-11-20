@@ -1151,5 +1151,60 @@
       "https://www.gamingintelligence.com/finance/238855-north-america-drives-better-collective-revenue-growth-in-q3-2026/"
     ],
     "seen": "2026-11-20"
+  },
+  {
+    "key": "juris|montana|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Montana",
+    "authority": "Montana Lottery",
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238750-montana-sports-wagers-fall-14-in-october/"
+    ],
+    "seen": "2026-11-20"
+  },
+  {
+    "key": "juris|vermont|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Vermont",
+    "authority": null,
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238787-vermont-sports-betting-down-20-in-october/"
+    ],
+    "seen": "2026-11-20"
+  },
+  {
+    "key": "juris|virginia|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Virginia",
+    "authority": "Virginia Lottery",
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238790-virginia-land-based-gaming-revenue-up-22-in-october/"
+    ],
+    "seen": "2026-11-20"
+  },
+  {
+    "key": "juris|kansas|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Kansas",
+    "authority": null,
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238827-kansas-land-based-casinos-win-36-4-million-in-october-revenue/"
+    ],
+    "seen": "2026-11-20"
+  },
+  {
+    "key": "juris|macau|Q3 2026",
+    "type": "jurisdiction",
+    "market": "Macau",
+    "authority": "DSEC",
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/11/19/127342-macau-gaming-workforce-shrinks-again-while-resident-unemployment-eases-to-23-"
+    ],
+    "seen": "2026-11-20"
   }
 ]
