@@ -1,118 +1,5 @@
 [
   {
-    "key": "FLUT|Q3 2026",
-    "type": "company",
-    "company": "Flutter Entertainment plc",
-    "ticker": "FLUT",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamblinginsider.com/news/201816/flutter-q3-2026-results-fanduel-ebitda-falls-guidance-cut",
-      "https://www.gamingintelligence.com/finance/238301-flutter-entertainment-posts-1-15-billion-loss-for-q3/",
-      "https://igamingbusiness.com/finance/flutter-cuts-fy26-guidance-brazil-exit-sports-results-hit-q3-earnings/",
-      "https://next.io/news/results/q326-flutter-cuts-outlook/",
-      "https://europeangaming.eu/portal/latest-news/2026/11/05/217450/flutter-q3-2026-results-guidance-cut-cost-savings/",
-      "https://casinobeats.com/2026/11/05/flutters-uk-casino-revenue-grows-12-but-40-duty-pulls-international-ebitda-down-14/"
-    ],
-    "seen": "2026-11-05",
-    "sector": "gaming",
-    "africa": false
-  },
-  {
-    "key": "cirsa|Q3 2026",
-    "type": "company",
-    "company": "CIRSA",
-    "ticker": "CIRSA",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238300-online-drives-cirsa-revenue-growth-in-third-quarter/",
-      "https://www.yogonet.com/international/news/2026/11/05/127191-cirsa-39s-ninemonth-profit-jumps-359-ahead-of-lottomatica-merger-vote",
-      "https://igamingbusiness.com/finance/cirsa-targets-upper-end-2026-guidance-lottomatica-merger/"
-    ],
-    "seen": "2026-11-05"
-  },
-  {
-    "key": "juris|greece|2026",
-    "type": "jurisdiction",
-    "market": "Greece",
-    "authority": "Hellenic Gaming Commission",
-    "period": "2026",
-    "urls": [
-      "https://europeangaming.eu/portal/latest-news/2026/11/04/217351/greece-online-winnings-tax-july-august-hgc-data/"
-    ],
-    "seen": "2026-11-05"
-  },
-  {
-    "key": "juris|west virginia|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "West Virginia",
-    "authority": "West Virginia Lottery",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238144-west-virginia-sports-and-igaming-wagers-rise-21-in-september/"
-    ],
-    "seen": "2026-11-05"
-  },
-  {
-    "key": "melco resorts and entertainment|Q3 2026",
-    "type": "company",
-    "company": "Melco Resorts & Entertainment",
-    "ticker": "MLCO",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238316-melco-resort-entertainment-revenue-falls-10-in-third-quarter/",
-      "https://www.yogonet.com/international/news/2026/11/05/127176-melco-q3-revenue-falls-104-to-117-billion-amid-macau-slowdown",
-      "https://casinobeats.com/2026/11/08/melcos-cyprus-resort-posts-record-quarter-as-weak-macau-and-poor-vip-luck-hit-group-profit/"
-    ],
-    "seen": "2026-11-05"
-  },
-  {
-    "key": "LNW|Q3 2026",
-    "type": "company",
-    "company": "Light & Wonder",
-    "ticker": "LNW",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238319-light-wonder-widens-q3-profit-despite-slight-revenue-decline/",
-      "https://next.io/news/casino/light-wonder-flags-igaming-growth-beyond-flagship/",
-      "https://next.io/news/results/q3-2026-light-wonder-social-casino-softness/",
-      "https://www.thegamblest.com/light-wonder-revenue-falls-2-in-q3-2026/"
-    ],
-    "seen": "2026-11-05"
-  },
-  {
-    "key": "juris|greece|JAN-AUG 2026",
-    "type": "jurisdiction",
-    "market": "Greece",
-    "authority": null,
-    "period": "JAN-AUG 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238172-greece-gambling-revenue-tops-e2-billion-for-first-8-months-of-2026/"
-    ],
-    "seen": "2026-11-05"
-  },
-  {
-    "key": "juris|missouri|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Missouri",
-    "authority": null,
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238296-missouri-sports-wagers-hit-325-million-in-september/"
-    ],
-    "seen": "2026-11-05"
-  },
-  {
-    "key": "juris|greece|JANUARY-AUGUST 2026",
-    "type": "jurisdiction",
-    "market": "Greece",
-    "authority": null,
-    "period": "JANUARY-AUGUST 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238172-greece-gambling-revenue-tops-e2-billion-for-first-8-months-of-2026/"
-    ],
-    "seen": "2026-11-05"
-  },
-  {
     "key": "DKNG|Q3 2026",
     "type": "company",
     "company": "DraftKings Inc.",
@@ -1209,7 +1096,9 @@
     "africa": false,
     "urls": [
       "https://igamingfuture.com/allwyn-q3-revenue-rises-19-as-igaming-grows-26/",
-      "https://next.io/news/results/q326-allwyn-cfo-margin-compression-misleading/"
+      "https://next.io/news/results/q326-allwyn-cfo-margin-compression-misleading/",
+      "https://igamingbusiness.com/finance/allwyn-reports-19-revenue-growth-q3/",
+      "https://igamingbusiness.com/finance/allwyn-confident-betano-brazil-shutdown/"
     ],
     "seen": "2026-11-19"
   },
@@ -1223,5 +1112,16 @@
       "https://findmoreafrica.com/uganda-gambling-industry-gaming-tax-growth/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=uganda-gambling-industry-gaming-tax-growth"
     ],
     "seen": "2026-11-19"
+  },
+  {
+    "key": "juris|argentina|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Argentina",
+    "authority": "ARCA",
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.yogonet.com/international/news/2026/11/19/127386-argentina-igaming-tax-revenue-rose-47-in-october-but-75-of-the-market-remains-illegal"
+    ],
+    "seen": "2026-11-20"
   }
 ]
