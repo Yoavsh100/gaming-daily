@@ -1094,5 +1094,16 @@
       "https://www.gamingintelligence.com/finance/238956-louisiana-sports-handle-surpasses-450-million-in-october/"
     ],
     "seen": "2026-11-23"
+  },
+  {
+    "key": "juris|ghana|2026",
+    "type": "jurisdiction",
+    "market": "Ghana",
+    "authority": "Gaming Commission of Ghana",
+    "period": "2026",
+    "urls": [
+      "https://focusgn.com/africa/ghana-gaming-commission-employment"
+    ],
+    "seen": "2026-11-23"
   }
 ]
