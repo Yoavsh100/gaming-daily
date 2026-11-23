@@ -927,7 +927,8 @@
       "https://next.io/news/results/q326-allwyn-cfo-margin-compression-misleading/",
       "https://igamingbusiness.com/finance/allwyn-reports-19-revenue-growth-q3/",
       "https://igamingbusiness.com/finance/allwyn-confident-betano-brazil-shutdown/",
-      "https://focusgn.com/allwyn-q3-results-revenue-ebitda"
+      "https://focusgn.com/allwyn-q3-results-revenue-ebitda",
+      "https://casinobeats.com/2026/11/23/allwyns-19-q3-revenue-rise-leans-on-prizepicks-as-margin-slips-to-32-5/"
     ],
     "seen": "2026-11-19"
   },
@@ -1069,6 +1070,28 @@
     "period": "OCTOBER 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238894-wyoming-sports-betting-fall-by-7-in-october/"
+    ],
+    "seen": "2026-11-23"
+  },
+  {
+    "key": "juris|south africa|FY 2026",
+    "type": "jurisdiction",
+    "market": "South Africa",
+    "authority": "National Gambling Board",
+    "period": "FY 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238908-south-africa-reports-record-gambling-revenue-for-fy26/"
+    ],
+    "seen": "2026-11-23"
+  },
+  {
+    "key": "juris|louisiana|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Louisiana",
+    "authority": null,
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238956-louisiana-sports-handle-surpasses-450-million-in-october/"
     ],
     "seen": "2026-11-23"
   }
