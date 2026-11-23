@@ -1,181 +1,5 @@
 [
   {
-    "key": "DKNG|Q3 2026",
-    "type": "company",
-    "company": "DraftKings Inc.",
-    "ticker": "DKNG",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.covers.com/industry/draftkings-sports-predictions-success-fuels-q3-revenue-growth-nov-5-2026",
-      "https://www.gamingintelligence.com/finance/238388-draftkings-widens-net-loss-to-468-7-million-in-q3-2026/",
-      "https://next.io/news/results/draftkings-slashes-2026-profit-forecast/",
-      "https://www.yogonet.com/international/news/2026/11/06/127212-draftkings-cuts-2026-earnings-forecast-by-up-to-625-million-as-quarterly-losses-nearly-double",
-      "https://igamingbusiness.com/sports-betting/draftkings-2026-q3-earnings/",
-      "https://www.gamblinginsider.com/news/202507/draftkings-prediction-markets-investment-supreme-court-risk"
-    ],
-    "seen": "2026-11-06"
-  },
-  {
-    "key": "GENI|Q3 2026",
-    "type": "company",
-    "company": "Genius Sports Limited",
-    "ticker": "GENI",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238353-genius-sports-grows-third-quarter-revenue-by-62/",
-      "https://europeangaming.eu/portal/latest-news/2026/11/06/217539/genius-sports-q3-2026-results/",
-      "https://next.io/news/results/q3-2026-genius-ups-fy-guidance-after-operating-profit/"
-    ],
-    "seen": "2026-11-06"
-  },
-  {
-    "key": "penn entertainment|Q3 2026",
-    "type": "company",
-    "company": "PENN Entertainment",
-    "ticker": "PENN",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238362-penn-entertainments-q3-revenue-tops-1-84-billion/",
-      "https://www.gamblinginsider.com/news/202501/penn-q3-2026-earnings-texas-igaming-expansion",
-      "https://www.yogonet.com/international/news/2026/11/06/127210-penn-entertainment-39s-q3-revenue-rises-to-184-billion-as-it-returns-to-profit",
-      "https://igamingfuture.com/penn-entertainment-q3/"
-    ],
-    "seen": "2026-11-06"
-  },
-  {
-    "key": "raketech|Q3 2026",
-    "type": "company",
-    "company": "Raketech Group",
-    "ticker": "RAKE.ST",
-    "period": "Q3 2026",
-    "urls": [],
-    "seen": "2026-11-06"
-  },
-  {
-    "key": "juris|united kingdom|APRIL 2025-APRIL 2026",
-    "type": "jurisdiction",
-    "market": "United Kingdom",
-    "authority": "UKGC",
-    "period": "APRIL 2025-APRIL 2026",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/11/05/127180-gambling-commission-finds-4-of-online-gamblers-used-illegal-websites-in-great-britain"
-    ],
-    "seen": "2026-11-06"
-  },
-  {
-    "key": "juris|ireland|2026",
-    "type": "jurisdiction",
-    "market": "Ireland",
-    "authority": "ESRI",
-    "period": "2026",
-    "urls": [
-      "https://focusgn.com/online-bettors-gambling-expansion-ireland",
-      "https://europeangaming.eu/portal/latest-news/2026/11/05/217515/esri-grai-study-irish-gamblers-multiple-accounts/",
-      "https://igamingbusiness.com/legal-compliance/one-seven-irish-gamblers-prompted-bet-operator-messages-ads/"
-    ],
-    "seen": "2026-11-06"
-  },
-  {
-    "key": "cirsa enterprises|9M 2026",
-    "type": "company",
-    "company": "Cirsa Enterprises",
-    "ticker": null,
-    "period": "9M 2026",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/11/05/127191-cirsa-39s-ninemonth-profit-jumps-359-ahead-of-lottomatica-merger-vote",
-      "https://igamingbusiness.com/finance/cirsa-targets-upper-end-2026-guidance-lottomatica-merger/"
-    ],
-    "seen": "2026-11-06"
-  },
-  {
-    "key": "wynn resorts|Q3 2026",
-    "type": "company",
-    "company": "Wynn Resorts",
-    "ticker": "WYNN",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238381-wynn-resorts-revenue-falls-8-to-1-69-billion-in-third-quarter/",
-      "https://casinobeats.com/2026/11/06/wynn-q3-profit-slides-to-17-3m-as-las-vegas-hold-and-macau-weigh-uae-spending-continues/",
-      "https://next.io/news/results/q326-wynn-backs-macau-expansion-earnings-decline/",
-      "https://www.yogonet.com/international/news/2026/11/06/127204-wynn-resorts-reports-lower-q3-revenue-net-income-as-results-decline-across-all-four-operating-segments",
-      "https://igamingbusiness.com/finance/wynn-resorts-lifts-uae-investment-to-1-12-billion-as-quarterly-profit-falls-80/"
-    ],
-    "seen": "2026-11-06"
-  },
-  {
-    "key": "juris|great britain|APRIL 2025–APRIL 2026",
-    "type": "jurisdiction",
-    "market": "Great Britain",
-    "authority": "UKGC",
-    "period": "APRIL 2025–APRIL 2026",
-    "urls": [
-      "https://www.thegamblest.com/uk-gambling-commission-introduces-index-for-illegal-gambling/",
-      "https://www.yogonet.com/international/news/2026/11/05/127180-gambling-commission-finds-4-of-online-gamblers-used-illegal-websites-in-great-britain",
-      "https://next.io/news/regulation/ukgc-index-low-stable-prevalence-illegal-gambling/"
-    ],
-    "seen": "2026-11-06"
-  },
-  {
-    "key": "cirsa|9M 2026",
-    "type": "company",
-    "company": "Cirsa",
-    "ticker": null,
-    "period": "9M 2026",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/11/05/127191-cirsa-39s-ninemonth-profit-jumps-359-ahead-of-lottomatica-merger-vote"
-    ],
-    "seen": "2026-11-06"
-  },
-  {
-    "key": "juris|kentucky|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Kentucky",
-    "authority": null,
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238187-kentucky-sports-wagers-fall-1-in-september/"
-    ],
-    "seen": "2026-11-06"
-  },
-  {
-    "key": "juris|great britain|APRIL 2025 - APRIL 2026",
-    "type": "jurisdiction",
-    "market": "Great Britain",
-    "authority": "UKGC",
-    "period": "APRIL 2025 - APRIL 2026",
-    "urls": [
-      "https://www.thegamblest.com/uk-gambling-commission-introduces-index-for-illegal-gambling/",
-      "https://www.yogonet.com/international/news/2026/11/05/127180-gambling-commission-finds-4-of-online-gamblers-used-illegal-websites-in-great-britain",
-      "https://next.io/news/regulation/ukgc-index-low-stable-prevalence-illegal-gambling/"
-    ],
-    "seen": "2026-11-06"
-  },
-  {
-    "key": "bet at home com|9M 2026",
-    "type": "company",
-    "company": "bet-at-home.com AG",
-    "ticker": "ACX",
-    "period": "9M 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238402-bet-at-home-posts-marginal-revenue-decline-in-9m-2026/"
-    ],
-    "seen": "2026-11-06"
-  },
-  {
-    "key": "juris|great britain|2025/26",
-    "type": "jurisdiction",
-    "market": "Great Britain",
-    "authority": "UKGC",
-    "period": "2025/26",
-    "urls": [
-      "https://www.yogonet.com/international/news/2026/11/05/127180-gambling-commission-finds-4-of-online-gamblers-used-illegal-websites-in-great-britain",
-      "https://igamingbusiness.com/legal-compliance/illegal-gambling-websites-2-5-of-online-gamblers-in-latest-uk-survey/",
-      "https://www.thegamblest.com/uk-gambling-commission-introduces-index-for-illegal-gambling/",
-      "https://next.io/news/regulation/ukgc-index-low-stable-prevalence-illegal-gambling/"
-    ],
-    "seen": "2026-11-06"
-  },
-  {
     "key": "loterie nationale du b nin|9M 2026",
     "type": "company",
     "company": "Loterie Nationale du Bénin",
@@ -722,7 +546,8 @@
     "authority": "Illinois Gaming Board",
     "period": "OCTOBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238591-illinois-land-based-casinos-post-10-increase-in-october-gaming-revenue/"
+      "https://www.gamingintelligence.com/finance/238591-illinois-land-based-casinos-post-10-increase-in-october-gaming-revenue/",
+      "https://www.gamingintelligence.com/finance/238885-illinois-gaming-machine-wagers-nears-3-2-billion-in-october/"
     ],
     "seen": "2026-11-16"
   },
@@ -795,7 +620,9 @@
     "authority": null,
     "period": "Q3 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238658-germany-gambling-stakes-increase-16-in-third-quarter/"
+      "https://www.gamingintelligence.com/finance/238658-germany-gambling-stakes-increase-16-in-third-quarter/",
+      "https://casinobeats.com/2026/11/21/german-virtual-slot-stakes-rise-28-6-in-first-quarter-since-ggl-eased-e1-cap/",
+      "https://europeangaming.eu/portal/latest-news/2026/11/20/218400/germany-q3-2026-gambling-stakes-ggl/"
     ],
     "seen": "2026-11-16"
   },
@@ -1031,7 +858,8 @@
     "authority": null,
     "period": "OCTOBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238831-pennsylvania-posts-record-gambling-revenue-in-october/"
+      "https://www.gamingintelligence.com/finance/238831-pennsylvania-posts-record-gambling-revenue-in-october/",
+      "https://focusgn.com/pennsylvania-gaming-revenue-record"
     ],
     "seen": "2026-11-19"
   },
@@ -1193,7 +1021,8 @@
     "authority": null,
     "period": "OCTOBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238827-kansas-land-based-casinos-win-36-4-million-in-october-revenue/"
+      "https://www.gamingintelligence.com/finance/238827-kansas-land-based-casinos-win-36-4-million-in-october-revenue/",
+      "https://www.gamingintelligence.com/finance/238823-kansas-lottery-reports-22-jump-in-sales-for-october/"
     ],
     "seen": "2026-11-20"
   },
@@ -1207,5 +1036,40 @@
       "https://www.yogonet.com/international/news/2026/11/19/127342-macau-gaming-workforce-shrinks-again-while-resident-unemployment-eases-to-23-"
     ],
     "seen": "2026-11-20"
+  },
+  {
+    "key": "bally s intralot s a|9M 2026",
+    "type": "company",
+    "company": "Bally's Intralot S.A.",
+    "ticker": "INLOT",
+    "period": "9M 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://igamingbusiness.com/finance/ballys-intralot-reports-830m-revenue-uk-growth-gambling-duty/"
+    ],
+    "seen": "2026-11-23"
+  },
+  {
+    "key": "juris|arizona|SEPTEMBER 2026",
+    "type": "jurisdiction",
+    "market": "Arizona",
+    "authority": "Arizona Department of Gaming",
+    "period": "SEPTEMBER 2026",
+    "urls": [
+      "https://igamingbusiness.com/finance/arizona-sports-betting-handle-slips-fanduel-leads-september-wagering/"
+    ],
+    "seen": "2026-11-23"
+  },
+  {
+    "key": "juris|wyoming|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Wyoming",
+    "authority": "Wyoming Gaming Commission",
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238894-wyoming-sports-betting-fall-by-7-in-october/"
+    ],
+    "seen": "2026-11-23"
   }
 ]
