@@ -1029,5 +1029,16 @@
       "https://europeangaming.eu/portal/latest-news/2026/11/24/218640/lithuania-gambling-revenue-9m-2026/"
     ],
     "seen": "2026-11-24"
+  },
+  {
+    "key": "juris|european union|2023-2025",
+    "type": "jurisdiction",
+    "market": "European Union",
+    "authority": "GCI / European Casino Association",
+    "period": "2023-2025",
+    "urls": [
+      "https://next.io/news/regulation/eu-deprived-of-e56bn-in-tax-by-illegal-online-gambling-new-report-claims/"
+    ],
+    "seen": "2026-11-24"
   }
 ]
