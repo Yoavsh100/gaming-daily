@@ -898,7 +898,8 @@
     "period": "OCTOBER 2026",
     "urls": [
       "https://www.gamingintelligence.com/finance/238827-kansas-land-based-casinos-win-36-4-million-in-october-revenue/",
-      "https://www.gamingintelligence.com/finance/238823-kansas-lottery-reports-22-jump-in-sales-for-october/"
+      "https://www.gamingintelligence.com/finance/238823-kansas-lottery-reports-22-jump-in-sales-for-october/",
+      "https://www.gamingintelligence.com/finance/238937-kansas-sports-handle-drops-12-in-october-to-270-million/"
     ],
     "seen": "2026-11-20"
   },
@@ -966,7 +967,8 @@
     "authority": null,
     "period": "OCTOBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238956-louisiana-sports-handle-surpasses-450-million-in-october/"
+      "https://www.gamingintelligence.com/finance/238956-louisiana-sports-handle-surpasses-450-million-in-october/",
+      "https://www.gamingintelligence.com/finance/238959-louisiana-gaming-revenue-grows-to-188-1-million-in-october/"
     ],
     "seen": "2026-11-23"
   },
@@ -980,5 +982,52 @@
       "https://focusgn.com/africa/ghana-gaming-commission-employment"
     ],
     "seen": "2026-11-23"
+  },
+  {
+    "key": "emb mission bound|Q3 2026",
+    "type": "company",
+    "company": "EMB Mission Bound",
+    "ticker": null,
+    "period": "Q3 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://www.gamingintelligence.com/finance/239029-emb-mission-bound-sees-third-quarter-revenue-grow-28/"
+    ],
+    "seen": "2026-11-24"
+  },
+  {
+    "key": "juris|chile|2026",
+    "type": "jurisdiction",
+    "market": "Chile",
+    "authority": "GR8_TECH",
+    "period": "2026",
+    "urls": [
+      "https://focusgn.com/chile-igaming-market-report-gr8tech",
+      "https://igamingfuture.com/gr8_techs-chile-igaming-report-reveals-where-operators-can-win-and-what-mistakes-to-avoid/"
+    ],
+    "seen": "2026-11-24"
+  },
+  {
+    "key": "juris|mississippi|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Mississippi",
+    "authority": null,
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/238890-mississippi-casinos-win-almost-200-million-in-october/"
+    ],
+    "seen": "2026-11-24"
+  },
+  {
+    "key": "juris|lithuania|2026",
+    "type": "jurisdiction",
+    "market": "Lithuania",
+    "authority": null,
+    "period": "2026",
+    "urls": [
+      "https://europeangaming.eu/portal/latest-news/2026/11/24/218640/lithuania-gambling-revenue-9m-2026/"
+    ],
+    "seen": "2026-11-24"
   }
 ]
