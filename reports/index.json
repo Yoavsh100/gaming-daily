@@ -5544,5 +5544,83 @@
     "releaseDate": "10 Nov 2026 (preliminary Q3/9M announcement, Euronext Athens) / 20 Nov 2026 (full 9M 2026 press release, slides and call)",
     "model": "claude-fable-5-1",
     "costUsd": 4.33
+  },
+  {
+    "key": "bally s intralot s a|9M 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-24T00:27:53.442Z",
+    "status": "failed",
+    "error": "{\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011ChLogwWWbuiUTzinZUkrr\"}",
+    "type": "company",
+    "company": {
+      "name": "Bally's Intralot S.A.",
+      "ticker": "INLOT"
+    },
+    "period": "9M 2026"
+  },
+  {
+    "key": "galaxy gaming|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-24T00:30:12.518Z",
+    "status": "failed",
+    "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011ChLosBn3B62dmLKAaoKyx\"}",
+    "type": "company",
+    "company": {
+      "name": "Galaxy Gaming",
+      "ticker": "GLXZ"
+    },
+    "period": "Q3 2026"
+  },
+  {
+    "key": "loterie nationale du b nin|9M 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-24T00:30:12.722Z",
+    "status": "failed",
+    "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011ChLosCYAYYGub1Udrs4ZU\"}",
+    "type": "company",
+    "company": {
+      "name": "Loterie Nationale du Bénin",
+      "ticker": ""
+    },
+    "period": "9M 2026"
+  },
+  {
+    "key": "inspired entertainment|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-24T00:30:12.865Z",
+    "status": "failed",
+    "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011ChLosD98TksbfMMm6G7tz\"}",
+    "type": "company",
+    "company": {
+      "name": "Inspired Entertainment",
+      "ticker": "INSE"
+    },
+    "period": "Q3 2026"
+  },
+  {
+    "key": "galaxy entertainment|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-24T00:30:13.008Z",
+    "status": "failed",
+    "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011ChLosDirdp14NsZELzrmq\"}",
+    "type": "company",
+    "company": {
+      "name": "Galaxy Entertainment Group",
+      "ticker": "0027.HK"
+    },
+    "period": "Q3 2026"
+  },
+  {
+    "key": "full house resorts|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-24T00:30:13.144Z",
+    "status": "failed",
+    "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011ChLosELKJ1ycfUUC3CdCV\"}",
+    "type": "company",
+    "company": {
+      "name": "Full House Resorts",
+      "ticker": "FLL"
+    },
+    "period": "Q3 2026"
   }
 ]
