@@ -906,7 +906,8 @@
     "period": "2023-2025",
     "urls": [
       "https://next.io/news/regulation/eu-deprived-of-e56bn-in-tax-by-illegal-online-gambling-new-report-claims/",
-      "https://igamingbusiness.com/offshore-gaming/illegal-online-gambling-europe-report/"
+      "https://igamingbusiness.com/offshore-gaming/illegal-online-gambling-europe-report/",
+      "https://www.thegamblest.com/eu-black-market-generated-e224-8bn-in-three-years/"
     ],
     "seen": "2026-11-24"
   },
@@ -918,6 +919,54 @@
     "period": "2025/26",
     "urls": [
       "https://focusgn.com/uk-gambling-inspections-enforcement-rise"
+    ],
+    "seen": "2026-11-25"
+  },
+  {
+    "key": "gentoo media|Q3 2026",
+    "type": "company",
+    "company": "Gentoo Media",
+    "ticker": "G2M",
+    "period": "Q3 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://next.io/news/results/gentoo-media-slashes-full-year-guidance/",
+      "https://www.gamingintelligence.com/finance/239091-gentoo-media-posts-9-revenue-drop-in-third-quarter/",
+      "https://next.io/news/results/gentoo-media-disconnect-player-activity-and-revenue/"
+    ],
+    "seen": "2026-11-25"
+  },
+  {
+    "key": "juris|massachusetts|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Massachusetts",
+    "authority": "Massachusetts Gaming Commission",
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/239017-massachusetts-online-sports-wagers-drop-1-per-cent-in-october/"
+    ],
+    "seen": "2026-11-25"
+  },
+  {
+    "key": "juris|washington dc|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Washington DC",
+    "authority": null,
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/239005-washington-dc-sports-wagers-top-95-million-in-october/"
+    ],
+    "seen": "2026-11-25"
+  },
+  {
+    "key": "juris|arizona|9M 2026",
+    "type": "jurisdiction",
+    "market": "Arizona",
+    "authority": "Arizona Department of Gaming",
+    "period": "9M 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/239013-arizona-sports-wagering-surpasses-6-5-billion-in-9m-2026/"
     ],
     "seen": "2026-11-25"
   }
