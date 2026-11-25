@@ -1,0 +1,1204 @@
+{
+  "company": {
+    "name": "Gentoo Media",
+    "ticker": "G2M",
+    "exchange": ""
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 2347209,
+    "output": 46452,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 60,
+    "cacheRead": 2212002,
+    "cacheWrite": 135147,
+    "turns": 1
+  },
+  "prepared": "25 Nov 2026",
+  "report": {
+    "releaseDate": "25 Nov 2026",
+    "currency": "EUR (tables in millions; ~USD at EUR/USD 1.096)",
+    "verdict": "A third guidance cut in four months confirms Gentoo's problem is monetisation, not volume: deposits rose 4% to €202m (~$221m) yet revenue fell 9% to €20.8m (~$22.7m) as the revenue/deposit take-rate compressed ~130bps to 10.3%. Cost discipline held the EBITDA-before-special-items margin at 41% and the Juroszek-backed €100m (~$110m) refinancing removes the 18 December bond cliff, but at the cost of 40.6% dilution and a shift to majority control. The equity now rests on whether the January 2027 partner re-allocation can lift revenue off an implied Q4 run-rate of ~€19–20m (~$21–22m) — the lowest quarterly print since the GiG demerger.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "€20.8m (~$22.7m)",
+        "delta": "-9% YoY / -9% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "EBITDA before special items",
+        "value": "€8.5m (~$9.3m), 40.9% margin",
+        "delta": "-9% YoY; margin -20bps YoY, +200bps QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Value of deposits",
+        "value": "€202m (~$221m)",
+        "delta": "+4% YoY / -2% QoQ; 4th qtr >€200m",
+        "dir": "up"
+      },
+      {
+        "label": "First-time depositors",
+        "value": "92,256",
+        "delta": "-15% YoY / -9% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Operating cash flow",
+        "value": "€6.3m (~$6.9m), 75% conversion",
+        "delta": "-27% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "NIBD / leverage",
+        "value": "€109.5m (~$120m), 2.57x LTM",
+        "delta": "vs 3.34x Q3-25; pro forma ~1.6x post-refi",
+        "dir": "down"
+      }
+    ],
+    "summary": [
+      "**Revenue missed management's own expectations again.** Q3-26 revenue €20.8m (~$22.7m), -9% YoY (Q3-25 €22.7m, as published, not restated) and -9% QoQ (Q2-26 €22.9m) — the seventh consecutive quarter of YoY decline and the lowest print since the 2024 demerger. The company had already warned on 1 October that Q3 was tracking below plan; the final number landed below even that trajectory. 9M revenue €67.7m (~$74.2m), -7% vs restated €73.1m.",
+      "**Third guidance cut of 2026, and the first not blamed on an external shock.** FY26 revenue now €87–88m (~$95–96m) vs €92m on 1 Oct, €97–100m in August and €105–115m at the start of the year; EBITDA before special items €35–36m (~$38–39m) vs €40m / €44–47m / €49–54m; operating cash flow €24m (~$26m) vs €30m / €32–36m / €37–41m. At the midpoints revenue is ~20% and EBITDA ~31% below the original plan. The 1 Oct cut was Brazil plus weak sports margins; the 25 Nov cut is explicitly the delayed commercial-optimisation programme and a 'little setback in November'.",
+      "**Which division drove it: both, for different reasons.** Paid Media (16% of revenue) fell 21% YoY to €3.4m (~$3.7m) as World-Cup cohorts under-monetised on weak sports margins and Brazil was closed on 25 September. Publishing (84%) fell 6% YoY to €17.3m (~$19.0m) despite FTDs +3% — i.e. the flagship owned-media estate is converting players at ~9% lower revenue per FTD. The latest cut is mostly a Publishing/commercial-terms story; the October cut was mostly a Paid/Brazil story.",
+      "**Volume vs price: this is a take-rate problem.** Value of deposits €202m (~$221m), +4% YoY, the fourth straight quarter above €200m; yet revenue/deposits fell to 10.3% from 11.6% in Q3-25 and 11.1% in Q2-26. By commission type: revenue share -14% YoY to ~€12.5m (~$13.7m, 60% of revenue), CPA -21% to ~€2.3m (~$2.5m, 11%), listing fees/other +13% to ~€6.0m (~$6.6m, 29%). Management attributes the gap to weaker sports margins (late Q3), bonus-heavy operator terms and legacy deals it chose to honour.",
+      "**Implied Q4 is a sequential decline in the seasonally strongest quarter.** Guidance implies Q4 revenue of €19.3–20.3m (~$21.2–22.3m), -2% to -7% QoQ and -20% to -24% vs Q4-25's €25.6m; EBITDA before special items €7.2–8.2m (~$7.9–9.0m, 37–40% margin); and operating cash flow of only ~€3.8m (~$4.2m) vs €14.0m in Q4-25. Management also flagged a deliberate migration of deals from listing fees to revenue share/CPA that will depress Q4 revenue for longer-term cohort value.",
+      "**Margin defended by cost, not revenue.** EBITDA before special items €8.5m (~$9.3m), -9% YoY, margin 40.9% (Q2-26 38.9%, Q3-25 41.1%). Total opex €12.3m (~$13.4m), -€1.1m YoY: marketing €5.1m (~$5.6m), -14% YoY and -25% QoQ post World Cup, 24.8% of revenue (26.3%); personnel and other opex €7.1m (~$7.8m), -4% YoY. 9M opex is €6.7m (~$7.3m) lower YoY; the €8–10m annualised savings programme announced in early 2025 was declared achieved at Q2, with further AI-driven reductions flagged for 2027.",
+      "**9M is profitable and cash-generative on a lower base.** 9M EBITDA before special items €27.8m (~$30.5m), +5%, margin 41.1% (36.3%); EBIT €14.3m (~$15.7m), +67% (domains no longer amortised since Q2-25); net profit €4.0m (~$4.4m) vs a €2.3m loss; EPS €0.03 (~$0.03) vs -€0.02. Q3 net profit €1.1m (~$1.2m), +8%, EPS €0.01, with a 54% effective tax rate (Malta timing effects) absorbing most of the 248% rise in PBT to €2.4m (~$2.7m).",
+      "**Cash conversion slipped.** Q3 operating cash flow €6.3m (~$6.9m), -27% YoY; conversion 75% of EBITDA before special items (92%). 9M OCF €20.2m (~$22.1m), broadly flat. Our FCF estimate (OCF less capex and lease principal) is €4.5m (~$4.9m) for Q3 and €14.3m (~$15.7m) for 9M. Capitalised development €1.4m (~$1.5m); deferred consideration paid €0.9m. Cash €2.1m (~$2.3m).",
+      "**Refinancing done — the December bond cliff is removed.** €100m (~$110m) package from the Juroszek family: a €50m (~$55m) senior secured loan (3M EURIBOR +7.50%, 2.00% floor, matures 18 Dec 2029, €10m amortising on each of the first two anniversaries, prepayable without penalty, no warrants) plus a €50m (~$55m) directed issue of 91.9m unlisted Class Z shares at SEK 6.1633 (€0.5439 / ~$0.60), the 12-month VWAP and a 58% premium to the SEK 3.90 close on 30 Sep. Proceeds redeem the €91.0m (~$99.7m) bond on 18 Dec 2026, repay the €2m unsecured facility and €6.5m of the €14m shareholder facility. Borrowings fall from €107.0m (~$117m) to ~€57.5m (~$63m); leverage from 2.57x to ~1.6x at year-end; annual interest saving ~€5m (~$5.5m).",
+      "**Control has changed hands and minorities were diluted 40.6%.** Shares in issue rise from 134.7m to 226.6m; the two Juroszek foundations hold ~56.5% of shares and votes (company figure; press reports 59.3% for the wider family, up from 26.8%). The loan and underwriting are related-party transactions: affiliated directors recused, an independent Refinancing Committee ran the process (>100 providers approached, several firm offers), Deloitte Malta gave a fairness opinion. Class Z stock is unlisted, carries equal votes/dividends and converts 1:1 into common after 12 months.",
+      "**Balance sheet remains thin even after the fix.** Equity -€15.7m (~-$17.2m); current liabilities exceed current assets by €126.2m pre-refi; current income tax liabilities €41.7m (~$45.7m) against a €36.4m (~$39.9m) deferred tax asset (Maltese timing), net tax liability €11.8m. Intangibles €91.7m (goodwill €42.2m, domains €38.7m) sit on €154.0m of total assets. Deferred consideration has been cut to €0.8m (~$0.9m) from €34.1m (~$37m) at the start of 2025 — a genuine cash-flow release. All covenants complied with.",
+      "**Brazil: a small revenue line, a bigger investment write-off.** The 25 Sep Provisional Measure bans fixed-odds betting and online gaming (still subject to Congress). Gentoo ceased Brazilian activity immediately and redirected budgets. Brazil generated ~€4.1m (~$4.5m) net revenue in 9M-26 (~6% of group; €3.8m Jan–Aug), with proportionately lower EBITDA/cash contribution; Q3 impact limited, full impact lands in Q4; guidance assumes zero further Brazil revenue. Note: next.io reported the €4.1m as a Q3 figure — the company's report states it is a nine-month figure.",
+      "**Commercial optimisation programme: the whole thesis now hangs on it.** Scope: renegotiate terms, re-allocate traffic by operator performance at market/asset/placement level, consolidate from 'hundreds' of partners to fewer, deeper relationships, and shift deals from listing fees to revenue share/CPA. Some operators responded 'more negatively than anticipated' to mid-contract changes; management says it will have 'full flexibility' on who it promotes from January 2027, with benefits building progressively through 2027. Ambition is a double-digit revenue uplift; no quantified target or timeline was given.",
+      "**Regional mix: Europe 60% (-7% YoY, Nordics up, rest of Europe down); Americas 17% (-20%, North America -29% on a strong CPA-campaign comp); Rest of World/global 23% (+3%).** Approximate revenue: Europe ~€12.5m (~$13.7m), Americas ~€3.5m (~$3.9m), RoW ~€4.8m (~$5.2m). Management is deliberately pivoting Paid toward LatAm ex-Brazil, Africa and Asia, while calling Europe the 'strong base'.",
+      "**Product and traffic signals are the one genuinely positive data set.** Casinomeister migrated to the proprietary platform in July (largest migration to date): organic clicks +85% QoQ and >4x YoY, clicks-out >3x QoQ, FTDs >2x QoQ, with intake holding into October. AskGamblers integrated 17 years of complaints data (~40k disputes, >$93m recovered) and launched a Complaints Intelligence Dashboard post-quarter. The World-Cup AI football prediction tool is now evergreen across 30 leagues/8 languages; a 'smart offers engine' for sports is in development. Traffic from AI-driven discovery remains 'very, very minimal'; a Google core update has just completed, impact unassessed.",
+      "**Special items and accounting hygiene.** Q3 special items €1.4m (~$1.5m): €0.9m refinancing advisory fees, €0.5m redundancy/Board-adviser costs; 9M €3.8m (~$4.2m). Management guides to a normalisation after the bond redemption. H1-25 comparatives were restated for material errors found in Q3-25 (revenue +€1.2m, EBITDA +€1.5m, €1.4m of unrecognised domain amortisation); the Q3-25 comparative is presented as originally published. Going concern: no material uncertainty post-refinancing.",
+      "**Capital allocation is now a board (i.e. majority-owner) decision.** The CFO described deleveraging as 'planned out' via the loan amortisation schedule, running in parallel with growth investment; both CEO and CFO raised dividends/buybacks as 2027 discussion items 'after a couple of demanding years'. With 56–59% in one family's hands, minorities should assume the owner's preferences dominate.",
+      "**Share price and valuation read-through.** Shares -2.8% to SEK 3.985 (~$0.39) at 17:14 CET on Nasdaq Stockholm (Investing.com cites -3.8% to SEK 3.95), ~35% below the SEK 6.16 subscription price and ~54% below the 52-week high of SEK 8.66. On 226.6m post-issue shares the market cap is ~SEK 0.9bn (~€80m / ~$87m); with pro forma net debt ~€55m the EV is ~€135m (~$148m), ~3.8x FY26E EBITDA before special items of €35.5m (our estimate).",
+      "**Thesis read-through.** Gentoo is now a ~41%-margin, ~€35m EBITDA affiliate with ~1.6x leverage and a controlling owner — the financial-risk discount should compress, but the growth discount has widened. Every 100bps of take-rate on ~€800m annualised deposits is ~€8m of revenue at a very high incremental margin, so the operating leverage to a monetisation fix is large; the problem is that management has now missed three times on the timing of that fix, and Q4 guidance embeds a further step down before any January 2027 benefit."
+    ],
+    "groupTable": {
+      "note": "EUR m (~USD m at 1.096)",
+      "columns": [
+        "Q3-26",
+        "QoQ",
+        "YoY",
+        "9M-26",
+        "9M YoY"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by segment",
+          "kind": "group"
+        },
+        {
+          "label": "Group revenue",
+          "kind": "emphasis",
+          "cells": [
+            "20.8 (~$22.7)",
+            "-9%",
+            "-9%",
+            "67.7 (~$74.2)",
+            "-7%"
+          ]
+        },
+        {
+          "label": "Publishing",
+          "indent": true,
+          "cells": [
+            "17.3 (~$19.0)",
+            "-6%",
+            "-6%",
+            "55.0 (~$60.3)",
+            "-8%"
+          ]
+        },
+        {
+          "label": "Paid Media",
+          "indent": true,
+          "cells": [
+            "3.4 (~$3.7)",
+            "-23%",
+            "-21%",
+            "12.6 (~$13.8)",
+            "-7%"
+          ]
+        },
+        {
+          "label": "Revenue by commission type",
+          "kind": "group"
+        },
+        {
+          "label": "Revenue share (60%)",
+          "indent": true,
+          "cells": [
+            "~12.5 (~$13.7)",
+            "n/a",
+            "-14%",
+            "40.6 (~$44.5)",
+            "-9%"
+          ],
+          "footnote": "Q3 category values derived from company-stated mix and investing.com slide figures; 9M from Note 3"
+        },
+        {
+          "label": "CPA (11%)",
+          "indent": true,
+          "cells": [
+            "~2.3 (~$2.5)",
+            "n/a",
+            "-21%",
+            "8.3 (~$9.1)",
+            "-12%"
+          ]
+        },
+        {
+          "label": "Listing fees / other (29%)",
+          "indent": true,
+          "cells": [
+            "~6.0 (~$6.6)",
+            "n/a",
+            "+13%",
+            "18.8 (~$20.6)",
+            "-1%"
+          ]
+        },
+        {
+          "label": "Revenue by region (mgmt call)",
+          "kind": "group"
+        },
+        {
+          "label": "Europe (60%)",
+          "indent": true,
+          "cells": [
+            "~12.5 (~$13.7)",
+            "n/a",
+            "-7%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Americas (17%)",
+          "indent": true,
+          "cells": [
+            "~3.5 (~$3.9)",
+            "n/a",
+            "-20%",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "North America -29% YoY per Q&A; Brazil closed 25 Sep"
+        },
+        {
+          "label": "Rest of World / global (23%)",
+          "indent": true,
+          "cells": [
+            "~4.8 (~$5.2)",
+            "n/a",
+            "+3%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Costs",
+          "kind": "group"
+        },
+        {
+          "label": "Marketing expenses",
+          "indent": true,
+          "cells": [
+            "5.1 (~$5.6)",
+            "-25%",
+            "-14%",
+            "17.4 (~$19.1)",
+            "-18%"
+          ]
+        },
+        {
+          "label": "Marketing % of revenue",
+          "indent": true,
+          "cells": [
+            "24.8%",
+            "-490bps",
+            "-150bps",
+            "25.8%",
+            "-320bps"
+          ]
+        },
+        {
+          "label": "Personnel + other opex",
+          "indent": true,
+          "cells": [
+            "7.1 (~$7.8)",
+            "-1%",
+            "-4%",
+            "22.4 (~$24.5)",
+            "-12%"
+          ]
+        },
+        {
+          "label": "Total operating expenses",
+          "indent": true,
+          "cells": [
+            "12.3 (~$13.4)",
+            "-13%",
+            "-8%",
+            "39.8 (~$43.7)",
+            "-14%"
+          ]
+        },
+        {
+          "label": "Profitability",
+          "kind": "group"
+        },
+        {
+          "label": "EBITDA before special items",
+          "kind": "emphasis",
+          "cells": [
+            "8.5 (~$9.3)",
+            "-5%",
+            "-9%",
+            "27.8 (~$30.5)",
+            "+5%"
+          ]
+        },
+        {
+          "label": "Margin",
+          "indent": true,
+          "cells": [
+            "40.9%",
+            "+200bps",
+            "-20bps",
+            "41.1%",
+            "+480bps"
+          ]
+        },
+        {
+          "label": "Publishing EBITDA bef. SI (margin)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "30.2 (~$33.1), 54.8%",
+            "+7% / +750bps"
+          ]
+        },
+        {
+          "label": "Paid Media EBITDA bef. SI (margin)",
+          "indent": true,
+          "cells": [
+            "n/a",
+            "n/a",
+            "n/a",
+            "-2.3 (~-$2.6), -18.6%",
+            "loss widened from -1.6"
+          ]
+        },
+        {
+          "label": "Special items",
+          "indent": true,
+          "cells": [
+            "-1.4 (~-$1.5)",
+            "n/a",
+            "+11%",
+            "-3.8 (~-$4.2)",
+            "-1%"
+          ]
+        },
+        {
+          "label": "EBITDA (reported)",
+          "indent": true,
+          "cells": [
+            "7.1 (~$7.8)",
+            "n/a",
+            "-12%",
+            "24.0 (~$26.3)",
+            "+6%"
+          ]
+        },
+        {
+          "label": "D&A and impairment",
+          "indent": true,
+          "cells": [
+            "-2.3 (~-$2.5)",
+            "n/a",
+            "-29%",
+            "-9.7 (~-$10.6)",
+            "-31%"
+          ]
+        },
+        {
+          "label": "EBIT",
+          "indent": true,
+          "cells": [
+            "4.9 (~$5.4)",
+            "-16%",
+            "+14%",
+            "14.3 (~$15.7)",
+            "+67%"
+          ]
+        },
+        {
+          "label": "Net financial items (incl. bond FX)",
+          "indent": true,
+          "cells": [
+            "-2.5 (~-$2.7)",
+            "n/a",
+            "-32%",
+            "-8.3 (~-$9.1)",
+            "-26%"
+          ]
+        },
+        {
+          "label": "Profit before tax",
+          "indent": true,
+          "cells": [
+            "2.4 (~$2.7)",
+            "n/a",
+            "+248%",
+            "6.0 (~$6.6)",
+            "vs -2.6"
+          ]
+        },
+        {
+          "label": "Income tax (ETR)",
+          "indent": true,
+          "cells": [
+            "-1.3 (54%)",
+            "n/a",
+            "vs +0.3 credit",
+            "-2.0 (33%)",
+            "vs +0.2 credit"
+          ]
+        },
+        {
+          "label": "Net profit (IFRS)",
+          "kind": "emphasis",
+          "cells": [
+            "1.1 (~$1.2)",
+            "-58%",
+            "+8%",
+            "4.0 (~$4.4)",
+            "vs -2.3"
+          ]
+        },
+        {
+          "label": "EPS basic & diluted (IFRS)",
+          "indent": true,
+          "cells": [
+            "€0.01 (~$0.01)",
+            "vs €0.02",
+            "flat",
+            "€0.03 (~$0.03)",
+            "vs -€0.02"
+          ],
+          "footnote": "No adjusted EPS disclosed. Basic shares 134.7m; 226.6m post 2 Nov issue"
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group"
+        },
+        {
+          "label": "First-time depositors ('000)",
+          "indent": true,
+          "cells": [
+            "92.3",
+            "-9%",
+            "-15%",
+            "275.6",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Value of deposits",
+          "indent": true,
+          "cells": [
+            "202 (~$221)",
+            "-2%",
+            "+4%",
+            "611 (~$670)",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Revenue / value of deposits",
+          "indent": true,
+          "cells": [
+            "10.3%",
+            "-80bps",
+            "-130bps",
+            "11.1%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Revenue per FTD (€)",
+          "indent": true,
+          "cells": [
+            "~225 (~$247)",
+            "flat",
+            "+8%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Cash flow & balance sheet",
+          "kind": "group"
+        },
+        {
+          "label": "Operating cash flow",
+          "indent": true,
+          "cells": [
+            "6.3 (~$6.9)",
+            "-1%",
+            "-27%",
+            "20.2 (~$22.1)",
+            "-2%"
+          ]
+        },
+        {
+          "label": "Cash conversion (OCF / EBITDA bef. SI)",
+          "indent": true,
+          "cells": [
+            "75%",
+            "vs 72%",
+            "vs 92%",
+            "73%",
+            "vs 78%"
+          ]
+        },
+        {
+          "label": "Capex (intangibles + PPE)",
+          "indent": true,
+          "cells": [
+            "-1.4 (~-$1.6)",
+            "n/a",
+            "-13%",
+            "-4.7 (~-$5.1)",
+            "-15%"
+          ]
+        },
+        {
+          "label": "FCF (est.: OCF − capex − lease principal)",
+          "indent": true,
+          "cells": [
+            "4.5 (~$4.9)",
+            "n/a",
+            "-31%",
+            "14.3 (~$15.7)",
+            "+2%"
+          ],
+          "footnote": "Analyst estimate; company does not define FCF this way"
+        },
+        {
+          "label": "Cash",
+          "indent": true,
+          "cells": [
+            "2.1 (~$2.3)",
+            "+3%",
+            "-40%",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Gross borrowings",
+          "indent": true,
+          "cells": [
+            "107.0 (~$117)",
+            "n/a",
+            "-6%",
+            "",
+            ""
+          ],
+          "footnote": "Bond €91.0m (current) + shareholder facility €16.0m; pro forma ~€57.5m (~$63m) post 18 Dec redemption"
+        },
+        {
+          "label": "Net interest-bearing debt",
+          "indent": true,
+          "cells": [
+            "109.5 (~$120)",
+            "-2%",
+            "-11%",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Leverage (NIBD / LTM EBITDA bef. SI €42.6m)",
+          "kind": "emphasis",
+          "cells": [
+            "2.57x",
+            "vs 2.58x",
+            "vs 3.34x",
+            "",
+            "pro forma ~1.6x YE26"
+          ]
+        },
+        {
+          "label": "Total equity",
+          "indent": true,
+          "cells": [
+            "-15.7 (~-$17.2)",
+            "n/a",
+            "vs -17.1",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Publishing (owned affiliate sites — AskGamblers, Casinomeister, Time2Play, CasinoTopsOnline, WSN; ~84% of revenue)",
+        "headline": "Player intake is finally growing again (+3% FTDs) but revenue fell 6% — the flagship estate is converting at ~9% lower revenue per FTD, and that gap is the whole equity story.",
+        "narrative": [
+          "They reported Publishing revenue of €17.3m (~$19.0m) for the quarter, down 6% both year-on-year and sequentially, which on our derivation puts the Q3-25 and Q2-26 bases at roughly €18.4m each. For the nine months the segment generated €55.0m (~$60.3m), down 8% from a restated €59.6m, with revenue share of €31.0m (~$34.0m, -10%), CPA of €6.0m (~$6.6m, -15%) and listing fees/other of €18.0m (~$19.7m, +1%). The mix tells the story: the recurring, cohort-driven revenue-share line is shrinking while the fixed-fee listing line is flat, which is the opposite of what a healthy affiliate wants to see and is precisely why management now intends to push deals back towards revenue share and CPA even at the cost of Q4 listing income.",
+          "The volume data points the other way, which is what makes the quarter frustrating rather than simply bad. Publishing first-time depositors rose 3% year-on-year and 3% quarter-on-quarter to 53,900 — the second consecutive quarter of growth after the 2025 portfolio pruning (Norwich/Atlas SEO closure, €2.5m of Q1-26 impairments) had pushed intake down to 47,300 in Q1. Group deposits of €202m (~$221m) less Paid Media's €80.2m imply Publishing deposits of roughly €122m (~$133m). Yet revenue per Publishing FTD fell to roughly €321 (~$352) from ~€353 a year ago, a ~9% decline, and the CEO was candid that 'we don't see increased player activity translate into increased revenue'. He cited weaker sports margins in the back half of the quarter as a partial explanation, but the more structural issue is commercial: bonus-heavy operator terms, legacy arrangements the company chose to honour through Q4, and a partner base so wide ('hundreds of partners' on some sites) that traffic is not being concentrated where the terms are best.",
+          "Segment profitability is only disclosed on a nine-month basis: EBITDA before special items of €30.2m (~$33.1m), up 7%, at a 54.8% margin versus 47.3% a year earlier (+750bps), with segment special items of €3.0m (~$3.3m) and reported EBITDA of €27.1m (~$29.7m) at 49%. The margin expansion is entirely cost-driven — segment costs fell to €24.9m from €31.4m, a 21% reduction — and underlines that Publishing is funding everything else in the group: it generates all of the group's EBITDA, carries the loss-making Paid Media segment and services the debt. Any recovery in take-rate here drops through at a very high incremental margin, which is the bull case in one line.",
+          "Operationally the quarter was genuinely productive. Casinomeister completed its migration to the proprietary WordPress-based platform in July, the group's largest migration to date; organic search clicks rose 85% quarter-on-quarter and were more than four times the Q3-25 level, clicks to operators more than tripled and FTDs more than doubled, with intake holding at Q3 levels into October. Dedicated sales resources were assigned in August to monetise that traffic. AskGamblers, the largest asset, embedded its 17-year complaints dataset (~40,000 disputes, >$93m recovered) into reviews, operator pages, the Certificate of Trust and new responsible-gambling and regulator pages, and launched a public Complaints Intelligence Dashboard after quarter-end. The AI football prediction product built for the World Cup has become an evergreen asset across 30 leagues and eight languages, and a 'smart offers engine' for event-specific sports offers is in early development. Management's framing — that these build returning direct traffic and a moat against top-list-only competitors — is reasonable, but none of it has yet shown up in revenue.",
+          "On channels and regulation, the CEO said traffic from AI-driven discovery remains 'very, very minimal' despite the sites being cited in LLM answers, and a Google core update has just completed with no conclusions drawn — both remain open risks for a business that is ~84% organic-search-led. Regionally, Europe (60% of group revenue) fell 7% with Nordic growth offset by the rest of Europe, North America fell 29% against a strong CPA-campaign comp, and rest-of-world rose 3%; management pointedly described Europe as the 'strong base' with under-exploited stable markets, and is experimenting with US prediction markets and sweepstakes without committing capital.",
+          "For the segment outlook, management did not guide Publishing separately but the group guidance implies Q4 revenue of €19.3–20.3m (~$21.2–22.3m), and with Paid Media guided to be 'impacted in Q4' by Brazil, Publishing is unlikely to grow sequentially either; the stated plan to migrate listing-fee deals to revenue share is an explicit near-term revenue headwind. The real test is January 2027, when management says it gains 'full flexibility' to re-allocate placements; we would want to see the group take-rate move back above 11% of deposits by H1-27 as evidence the programme works."
+        ],
+        "table": {
+          "note": "Publishing — EUR m (~USD m at 1.096)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "17.3 (~$19.0)",
+                "-6%",
+                "-6%",
+                "55.0 (~$60.3)",
+                "-8%"
+              ]
+            },
+            {
+              "label": "Revenue share",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "31.0 (~$34.0)",
+                "-10%"
+              ]
+            },
+            {
+              "label": "CPA",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "6.0 (~$6.6)",
+                "-15%"
+              ]
+            },
+            {
+              "label": "Listing fees / other",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "18.0 (~$19.7)",
+                "+1%"
+              ]
+            },
+            {
+              "label": "Share of group revenue",
+              "indent": true,
+              "cells": [
+                "~83%",
+                "+300bps",
+                "+250bps",
+                "81%",
+                "flat"
+              ]
+            },
+            {
+              "label": "Segment costs",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "-24.9 (~-$27.3)",
+                "-21%"
+              ]
+            },
+            {
+              "label": "EBITDA before special items",
+              "kind": "emphasis",
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "30.2 (~$33.1)",
+                "+7%"
+              ]
+            },
+            {
+              "label": "Margin",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "54.8%",
+                "+750bps"
+              ]
+            },
+            {
+              "label": "Special items",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "-3.0 (~-$3.3)",
+                "+7%"
+              ]
+            },
+            {
+              "label": "EBITDA (reported) / margin",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "27.1 (~$29.7) / 49%",
+                "+7% / +600bps"
+              ]
+            },
+            {
+              "label": "First-time depositors ('000)",
+              "indent": true,
+              "cells": [
+                "53.9",
+                "+3%",
+                "+3%",
+                "153.7",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Value of deposits (est.: group less Paid)",
+              "indent": true,
+              "cells": [
+                "~122 (~$133)",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Analyst derivation; company discloses Paid Media deposits only"
+            },
+            {
+              "label": "Revenue per FTD (€)",
+              "indent": true,
+              "cells": [
+                "~321 (~$352)",
+                "-8%",
+                "-9%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Casinomeister organic clicks",
+              "indent": true,
+              "cells": [
+                "n/d",
+                "+85%",
+                ">4x",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Casinomeister FTDs",
+              "indent": true,
+              "cells": [
+                "n/d",
+                ">2x",
+                "n/a",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and mix",
+            "takeaway": "Publishing revenue fell 6% to €17.3m (~$19.0m) as recurring revenue share shrank while fixed listing fees stayed flat.",
+            "points": [
+              "Quarter revenue of €17.3m (~$19.0m) was down 6% year-on-year and sequentially, implying Q3-25 and Q2-26 bases of roughly €18.4m each.",
+              "Nine-month revenue was €55.0m (~$60.3m), down 8% from a restated €59.6m.",
+              "9M revenue share €31.0m (~$34.0m, -10%), CPA €6.0m (~$6.6m, -15%), listing fees/other €18.0m (~$19.7m, +1%).",
+              "Shrinking revenue share against flat listing fees is the opposite of what a healthy affiliate wants to see.",
+              "Management now intends to push deals back towards revenue share and CPA even at the cost of Q4 listing income."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Volumes and take-rate",
+            "takeaway": "FTDs rose 3% to 53,900 but revenue per FTD fell ~9% to roughly €321, the gap that is the whole equity story.",
+            "points": [
+              "Publishing FTDs rose 3% year-on-year and 3% quarter-on-quarter to 53,900, the second consecutive quarter of growth after intake fell to 47,300 in Q1.",
+              "2025 pruning included the Norwich/Atlas SEO closure and €2.5m of Q1-26 impairments.",
+              "Group deposits of €202m (~$221m) less Paid Media's €80.2m imply Publishing deposits of roughly €122m (~$133m).",
+              "Revenue per Publishing FTD fell to roughly €321 (~$352) from ~€353 a year ago, a ~9% decline.",
+              "CEO cited weaker sports margins late in the quarter; structural issues are bonus-heavy operator terms, legacy arrangements honoured through Q4, and a too-wide partner base."
+            ],
+            "quote": {
+              "text": "we don't see increased player activity translate into increased revenue",
+              "speaker": "CEO"
+            }
+          },
+          {
+            "heading": "Segment profitability",
+            "takeaway": "9M EBITDA before special items rose 7% to €30.2m at a 54.8% margin, entirely from a 21% cost reduction.",
+            "points": [
+              "9M EBITDA before special items of €30.2m (~$33.1m), up 7%, margin 54.8% versus 47.3% a year earlier (+750bps).",
+              "Segment special items of €3.0m (~$3.3m); reported EBITDA €27.1m (~$29.7m) at 49%.",
+              "Segment costs fell to €24.9m from €31.4m, a 21% reduction.",
+              "Publishing generates all of the group's EBITDA, carries the loss-making Paid Media segment and services the debt.",
+              "Any recovery in take-rate drops through at a very high incremental margin, which is the bull case in one line."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Operational progress",
+            "takeaway": "Casinomeister migration drove organic clicks up 85% quarter-on-quarter and FTDs more than doubled, but none of it has yet shown up in revenue.",
+            "points": [
+              "Casinomeister completed migration to the proprietary WordPress-based platform in July, the group's largest migration to date; intake held at Q3 levels into October.",
+              "Organic search clicks were more than four times the Q3-25 level, clicks to operators more than tripled and FTDs more than doubled; dedicated sales resources assigned in August.",
+              "AskGamblers embedded its 17-year complaints dataset (~40,000 disputes, >$93m recovered) across reviews and pages, and launched a Complaints Intelligence Dashboard after quarter-end.",
+              "AI football prediction product is now an evergreen asset across 30 leagues and eight languages; a 'smart offers engine' is in early development.",
+              "Management's framing of returning direct traffic and a moat against top-list-only competitors is reasonable."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Channels and regions",
+            "takeaway": "AI-driven discovery traffic remains 'very, very minimal' and a Google core update is an open risk; Europe (60% of group revenue) fell 7%.",
+            "points": [
+              "Sites are cited in LLM answers but AI-driven traffic is minimal; a Google core update has just completed with no conclusions drawn.",
+              "Both remain open risks for a business that is ~84% organic-search-led.",
+              "Europe fell 7% with Nordic growth offset by the rest of Europe; North America fell 29% against a strong CPA-campaign comp; rest-of-world rose 3%.",
+              "Management described Europe as the 'strong base' with under-exploited stable markets, and is experimenting with US prediction markets and sweepstakes without committing capital."
+            ],
+            "quote": {
+              "text": "very, very minimal",
+              "speaker": "CEO"
+            }
+          },
+          {
+            "heading": "Outlook",
+            "takeaway": "Group guidance implies Q4 revenue of €19.3–20.3m; Publishing is unlikely to grow sequentially and listing-fee migration is a near-term headwind.",
+            "points": [
+              "Management did not guide Publishing separately; group guidance implies Q4 revenue of €19.3–20.3m (~$21.2–22.3m).",
+              "Paid Media is guided to be 'impacted in Q4' by Brazil, so Publishing is unlikely to grow sequentially either.",
+              "The plan to migrate listing-fee deals to revenue share is an explicit near-term revenue headwind.",
+              "The real test is January 2027, when management says it gains 'full flexibility' to re-allocate placements.",
+              "We would want the group take-rate back above 11% of deposits by H1-27 as evidence the programme works."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Paid Media (performance marketing — SEM, social, programmatic; ~16% of revenue)",
+        "headline": "Revenue -21% YoY and -23% QoQ to €3.4m, 9M EBITDA loss widened to -€2.3m, and the Brazil player base built through 2026 has been written off by regulation — the segment must now be rebuilt market by market.",
+        "narrative": [
+          "They reported Paid Media revenue of €3.4m (~$3.7m), down 23% quarter-on-quarter and 21% year-on-year, implying Q2-26 and Q3-25 bases of roughly €4.4m and €4.3m respectively. Nine-month revenue was €12.6m (~$13.8m), down 7%, comprising revenue share of €9.6m (~$10.5m, -6%), CPA of €2.3m (~$2.5m, flat) and listing/other of €0.8m (~$0.9m, -26%). The quarter was a hangover from the World Cup: management pushed acquisition hard in Q2 (Paid FTDs +46% QoQ to 49,700, marketing +25% QoQ), notably in Brazil, and the cohorts then under-monetised because sports margins were weak — revenue-share income from World-Cup players 'didn't translate into revenue', in the CEO's words.",
+          "Acquisition was pulled back sharply. Paid first-time depositors fell 23% quarter-on-quarter to 38,400 and roughly 32% year-on-year from ~56,600, while deposits held at €80.2m (~$87.9m), down only 2% sequentially — so the installed player base is still active, it is the new-player funnel that was throttled. Revenue per Paid FTD of roughly €89 (~$97) compares with ~€76 a year ago, consistent with a deliberate shift to 'value and profitability over volume'. Group marketing of €5.1m (~$5.6m) fell 25% sequentially and is 24.8% of group revenue; the segment's own cost line was €14.9m (~$16.4m) for the nine months against €12.6m of revenue, giving an EBITDA loss before special items of €2.3m (~-$2.6m), a -18.6% margin versus -12.1% a year earlier. Management attributed the structural loss to higher operator bonuses and acquisition incentives reducing initial revenue contribution; the economics of a revenue-share-led paid model depend on cohorts maturing, and the Brazil cohort will now never mature.",
+          "Brazil is the discrete blow. The 25 September Provisional Measure banned fixed-odds betting and online gaming with immediate effect; Gentoo stopped campaigns the same week and redirected budgets. Brazil had been an 'investment market' since regulation in 2025 with a proportionately higher share of revenue and FTDs than of EBITDA or cash — ~€4.1m (~$4.5m) of 9M net revenue, ~6% of group — and management had expected Q4 growth there on seasonal tailwinds. The Q3 impact was limited (a few days of lost revenue); the full quarterly impact lands in Q4 and the guidance assumes zero Brazil revenue. On the call the CEO was notably lukewarm about returning even if Congress reverses the measure, pointing to poor margins and the market having been top-line- rather than cash-generative; he would 'heavily weigh' whether it could ever produce earnings.",
+          "The rebuild plan is to redeploy into LatAm ex-Brazil and to test markets in Africa and Asia, with improved partner economics and automated campaign monitoring, traffic-quality controls and conversion analytics to enforce profitability campaign by campaign. The CEO acknowledged the obvious tension between 'be very careful with marketing spend' and 'build up a player base', and said the constraint is speed: new player bases take several quarters to establish, so Paid revenue 'will be impacted in the coming quarters'. We read that as Paid revenue staying at or below the Q3 level through at least H1-27, with the segment remaining EBITDA-negative until cohorts in replacement markets season. The one mitigating factor is that lower Paid volume mechanically lifts the group margin, which is why the 41% group margin held despite the revenue decline — but it is margin by shrinkage, not by leverage."
+        ],
+        "table": {
+          "note": "Paid Media — EUR m (~USD m at 1.096)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue",
+              "kind": "emphasis",
+              "cells": [
+                "3.4 (~$3.7)",
+                "-23%",
+                "-21%",
+                "12.6 (~$13.8)",
+                "-7%"
+              ]
+            },
+            {
+              "label": "Revenue share",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "9.6 (~$10.5)",
+                "-6%"
+              ]
+            },
+            {
+              "label": "CPA",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "2.3 (~$2.5)",
+                "flat"
+              ]
+            },
+            {
+              "label": "Listing fees / other",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "0.8 (~$0.9)",
+                "-26%"
+              ]
+            },
+            {
+              "label": "Share of group revenue",
+              "indent": true,
+              "cells": [
+                "~16%",
+                "-300bps",
+                "-250bps",
+                "19%",
+                "flat"
+              ]
+            },
+            {
+              "label": "Segment costs",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "-14.9 (~-$16.4)",
+                "-1%"
+              ]
+            },
+            {
+              "label": "EBITDA before special items",
+              "kind": "emphasis",
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "-2.3 (~-$2.6)",
+                "loss +43%"
+              ]
+            },
+            {
+              "label": "Margin",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "-18.6%",
+                "-640bps"
+              ]
+            },
+            {
+              "label": "Special items",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "-0.8 (~-$0.8)",
+                "-24%"
+              ]
+            },
+            {
+              "label": "EBITDA (reported) / margin",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "-3.1 (~-$3.4) / -25%",
+                "loss +17%"
+              ]
+            },
+            {
+              "label": "First-time depositors ('000)",
+              "indent": true,
+              "cells": [
+                "38.4",
+                "-23%",
+                "~-32%",
+                "122.2",
+                "n/a"
+              ],
+              "footnote": "Q3-25 base ~56.6k read from company chart"
+            },
+            {
+              "label": "Value of deposits",
+              "indent": true,
+              "cells": [
+                "80.2 (~$87.9)",
+                "-2%",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Revenue / value of deposits",
+              "indent": true,
+              "cells": [
+                "4.2%",
+                "-120bps",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Revenue per FTD (€)",
+              "indent": true,
+              "cells": [
+                "~89 (~$97)",
+                "flat",
+                "+17%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Brazil net revenue (9M)",
+              "indent": true,
+              "cells": [
+                "limited Q3 impact",
+                "",
+                "",
+                "~4.1 (~$4.5), ~6% of group",
+                "n/a"
+              ],
+              "footnote": "Jan–Aug €3.8m per 1 Oct release; zero assumed from Q4"
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Revenue and World Cup hangover",
+            "takeaway": "Revenue fell 21% YoY and 23% QoQ to €3.4m as World Cup cohorts acquired in Q2 under-monetised on weak sports margins.",
+            "points": [
+              "Revenue of €3.4m (~$3.7m), down 23% quarter-on-quarter and 21% year-on-year, implying Q2-26 and Q3-25 bases of roughly €4.4m and €4.3m.",
+              "Nine-month revenue €12.6m (~$13.8m), down 7%: revenue share €9.6m (~$10.5m, -6%), CPA €2.3m (~$2.5m, flat), listing/other €0.8m (~$0.9m, -26%).",
+              "Management pushed acquisition hard in Q2 (Paid FTDs +46% QoQ to 49,700, marketing +25% QoQ), notably in Brazil."
+            ],
+            "quote": {
+              "text": "didn't translate into revenue",
+              "speaker": "CEO"
+            }
+          },
+          {
+            "heading": "Acquisition and profitability",
+            "takeaway": "Paid FTDs fell 23% QoQ to 38,400 and 9M EBITDA loss widened to €2.3m, a -18.6% margin versus -12.1%.",
+            "points": [
+              "Paid FTDs down roughly 32% year-on-year from ~56,600; deposits held at €80.2m (~$87.9m), down only 2% sequentially, so the installed base is still active.",
+              "Revenue per Paid FTD of roughly €89 (~$97) versus ~€76 a year ago, consistent with a shift to 'value and profitability over volume'.",
+              "Group marketing of €5.1m (~$5.6m) fell 25% sequentially and is 24.8% of group revenue.",
+              "9M segment costs €14.9m (~$16.4m) against €12.6m revenue; EBITDA loss before special items €2.3m (~-$2.6m).",
+              "Management attributed the structural loss to higher operator bonuses and acquisition incentives; the Brazil cohort will now never mature."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Brazil",
+            "takeaway": "The 25 September Provisional Measure banned betting and online gaming immediately, wiping out ~€4.1m of 9M revenue (~6% of group) from Q4.",
+            "points": [
+              "Gentoo stopped campaigns the same week and redirected budgets.",
+              "Brazil was an 'investment market' since 2025 regulation with a higher share of revenue and FTDs than of EBITDA or cash; management had expected Q4 growth there.",
+              "Q3 impact was limited to a few days of lost revenue; the full impact lands in Q4 and guidance assumes zero Brazil revenue.",
+              "The CEO was lukewarm about returning even if Congress reverses the measure, citing poor margins and a top-line- rather than cash-generative market."
+            ],
+            "quote": {
+              "text": "heavily weigh",
+              "speaker": "CEO"
+            }
+          },
+          {
+            "heading": "Rebuild plan and outlook",
+            "takeaway": "Redeployment into LatAm ex-Brazil, Africa and Asia will take several quarters; we expect Paid revenue at or below Q3 through at least H1-27.",
+            "points": [
+              "Plan includes improved partner economics, automated campaign monitoring, traffic-quality controls and conversion analytics to enforce profitability campaign by campaign.",
+              "CEO acknowledged tension between 'be very careful with marketing spend' and 'build up a player base'; new player bases take several quarters.",
+              "We expect the segment to remain EBITDA-negative until cohorts in replacement markets season.",
+              "Lower Paid volume mechanically lifted the group margin, which is why the 41% group margin held — margin by shrinkage, not by leverage."
+            ],
+            "quote": {
+              "text": "will be impacted in the coming quarters",
+              "speaker": "CEO"
+            }
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "**Cost base is structurally lower and the margin held.** Q3 opex -€1.1m (~$1.2m) YoY and 9M opex -€6.7m (~$7.3m); marketing 24.8% of revenue vs 29.7% in Q2; EBITDA before special items margin 40.9% (Q2 38.9%), 9M 41.1% vs 36.3%. The €8–10m annualised savings target from early 2025 has been delivered and further AI-led cuts are flagged for 2027.",
+        "tag": "structural"
+      },
+      {
+        "text": "**The December bond cliff is gone.** €100m (~$110m) secured on 2 Nov: €91.0m (~$99.7m) bond redeemed 18 Dec; borrowings fall to ~€57.5m (~$63m), leverage from 2.57x to ~1.6x, interest costs down ~€5m (~$5.5m) a year, no arrangement fee, no warrants, prepayable at par. Going-concern language is now clean.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Player activity is real.** Deposits €202m (~$221m), +4% YoY, fourth straight quarter above €200m; Publishing FTDs +3% YoY/QoQ to 53,900 for a second consecutive quarter of growth after the 2025 portfolio pruning. The monetisation fix is at least being applied to a growing base.",
+        "tag": "mixed"
+      },
+      {
+        "text": "**Casinomeister migration is working on traffic.** Organic clicks +85% QoQ and >4x YoY, clicks-out >3x, FTDs >2x, intake sustained into October — the first hard evidence that the proprietary platform strategy lifts organic performance.",
+        "tag": "early"
+      },
+      {
+        "text": "**Legacy M&A liabilities are largely cleared.** Deferred consideration down to €0.8m (~$0.9m) from €34.1m (~$37m) at the start of 2025; 9M investing outflow €8.6m vs €35.5m a year earlier. Combined with lower interest, this frees roughly €30m+ of annual cash versus 2025.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Equity was priced at a 58% premium.** The 91.9m new shares were issued at SEK 6.1633 (€0.5439 / ~$0.60), the 12-month VWAP, versus a SEK 3.90 spot — minorities were diluted at a price above where they could sell, which is unusual for a rescue-style related-party raise.",
+        "tag": "one-off"
+      },
+      {
+        "text": "**9M earnings turned positive.** EBIT €14.3m (~$15.7m), +67%; net profit €4.0m (~$4.4m) vs a €2.3m loss; EPS €0.03 vs -€0.02, helped by domains no longer being amortised and a €1.5m FX gain on the SEK bond.",
+        "tag": "mixed"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "**Third guidance cut of the year.** FY26 revenue €87–88m (~$95–96m) vs €105–115m originally (-20% at midpoint); EBITDA before special items €35–36m (~$38–39m) vs €49–54m (-31%); OCF €24m (~$26m) vs €37–41m. The 1 Oct cut had an external excuse (Brazil); the 25 Nov cut is execution.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Take-rate compression is the core problem.** Revenue/deposits 10.3% vs 11.6% in Q3-25 and 11.1% in Q2-26; revenue share -14%, CPA -21%. Publishing revenue per FTD ~€321 (~$352), -9% YoY. Management's own diagnosis — bonus-heavy terms, legacy deals, too many partners — is a commercial-model problem, not a cyclical one.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Implied Q4 is the weakest quarter yet.** Revenue €19.3–20.3m (~$21.2–22.3m), -20% to -24% YoY in the seasonally strongest quarter; EBITDA before special items €7.2–8.2m (~$7.9–9.0m); implied Q4 OCF only ~€3.8m (~$4.2m) vs €14.0m in Q4-25. 'Pretty okay' October, 'a little setback in November', and a deliberate listing-fee-to-rev-share migration that depresses near-term revenue.",
+        "tag": "watch"
+      },
+      {
+        "text": "**Paid Media is loss-making and its growth market is gone.** 9M EBITDA before special items -€2.3m (~-$2.6m), -18.6% margin and widening; Q3 revenue -21% YoY; Brazil (~€4.1m/~$4.5m of 9M revenue) closed by decree with the full hit in Q4; replacement markets will take 'a few quarters' to build.",
+        "tag": "mixed"
+      },
+      {
+        "text": "**40.6% dilution and a change of control via a related-party deal.** Juroszek foundations now ~56.5% (family ~59.3%); the €50m loan carries EURIBOR +7.50% with a 2% floor (~9.7% all-in); Class Z shares are unlisted and convert after 12 months. Process safeguards (recusals, independent committee, Deloitte fairness opinion) were in place, but minorities are now passengers on capital allocation.",
+        "tag": "governance"
+      },
+      {
+        "text": "**The balance sheet is still fragile beneath the refinancing.** Equity -€15.7m (~-$17.2m); current tax liabilities €41.7m (~$45.7m) against a €36.4m DTA (net €11.8m liability, Malta timing); cash €2.1m (~$2.3m); Q3 effective tax rate 54%; €91.7m of intangibles on €154m of assets. H1-25 comparatives were restated for material errors found a year ago.",
+        "tag": "watch"
+      },
+      {
+        "text": "**Commercial optimisation keeps slipping.** Promised at Q1, Q2 and again now; operators pushed back on mid-contract changes; 'full flexibility' only from January 2027 with benefits building 'progressively' through the year; no quantified target beyond a 'double-digit' ambition. Cash conversion also slipped to 75% from 92%.",
+        "tag": "watch"
+      }
+    ],
+    "forecast": "{\"intro\":\"Guidance has now been cut three times in 2026. Original (Feb): revenue €105–115m (~$115–126m), EBITDA before special items €49–54m, OCF €37–41m. After Q2 (26 Aug): €97–100m / €44–47m / €32–36m, citing weak H1, delayed commercial initiatives and lower World-Cup earnings. On 1 Oct: ~€92m / ~€40m / ~€30m, citing the Brazil ban (Paid Media) and weak sports margins hitting revenue-share income. On 25 Nov: €87–88m (~$95–96m) / €35–36m (~$38–39m) / ~€24m (~$26m), citing the slower-than-expected commercial optimisation programme — predominantly a Publishing monetisation issue — plus the full-quarter Brazil hit in Paid Media and a soft November. The latest cut removes ~€4.5m of revenue and ~€4.5m of EBITDA, i.e. the shortfall drops through at ~100%, which tells you the cost base is already at its floor for this revenue level. With 9M revenue at €67.7m and EBITDA before special items at €27.8m, the guidance implies Q4 revenue of €19.3–20.3m (~$21.2–22.3m), EBITDA before special items of €7.2–8.2m (~$7.9–9.0m, 37–40% margin) and OCF of only ~€3.8m (~$4.2m), the latter likely reflecting refinancing-related cash costs, tax timing and working capital rather than underlying deterioration — but it is unexplained and should be asked about.\",\"bridge\":[{\"title\":\"FY26 revenue guidance\",\"value\":\"€87–88m (~$95–96m)\",\"change\":\"from €92m (1 Oct); €97–100m (Aug); €105–115m (Feb)\"},{\"title\":\"FY26 EBITDA before special items\",\"value\":\"€35–36m (~$38–39m)\",\"change\":\"from €40m; €44–47m; €49–54m\"},{\"title\":\"FY26 operating cash flow\",\"value\":\"~€24m (~$26m)\",\"change\":\"from €30m; €32–36m; €37–41m\"},{\"title\":\"Implied Q4-26 revenue / EBITDA bef. SI\",\"value\":\"€19.3–20.3m / €7.2–8.2m\",\"change\":\"-2% to -7% QoQ; -20% to -24% YoY on revenue\"}]},\"view\":\"Our estimates (all analyst estimates, not company figures): we model **FY26 revenue of ~€87.5m (~$96m), -11% YoY, and EBITDA before special items of ~€35.5m (~$39m), a 40.6% margin**, i.e. the midpoint of guidance — management has been conservative in tone and the range is narrow. For **Q4-26 we assume revenue ~€19.8m (~$21.7m) and EBITDA before special items ~€7.7m (~$8.4m)**, with special items of €0.5–1.0m as refinancing fees roll off. For **2027 our base case is revenue of €82–86m (~$90–94m)**: the Q4 exit rate annualises to ~€79m, Brazil removes a further ~€1–2m of 2026 revenue not yet lapped, Paid Media is flat-to-down in H1-27 while replacement markets season, and we credit the commercial optimisation programme with only a low-single-digit uplift building through H2-27 rather than the double-digit ambition — the company has missed on timing three times and listing-fee migration is a near-term headwind. **Margin should hold at 39–41%** (EBITDA before special items ~€33–35m / ~$36–38m) given the fixed cost base and the promise of further AI-led savings; the risk is that any top-line miss drops through at ~100% as it did this quarter. **Leverage falls regardless of operations**: pro forma net debt of ~€55m (~$60m) at YE26 and our ~€14–17m of 2027 free cash flow after ~€5.5m of interest, ~€4–5m of cash tax and ~€6m of capex, plus the first €10m loan amortisation in Dec 2027, take NIBD toward ~€40m (~$44m) and leverage to ~1.2–1.3x by end-2027 — which is when the buyback/dividend conversation the board has trailed becomes real, subject to the controlling shareholder's preferences. **Swing factors**: (1) take-rate — every 100bps of revenue/deposits on ~€800m of annual deposits is ~€8m of revenue at near-full drop-through, so a recovery to 11% would alone add ~€6m; (2) sports margins in Q4/Q1 (sportsbook-heavy revenue share); (3) Google core-update outcomes on an ~84% organic-led estate; (4) Brazil Congress reversing the Provisional Measure; (5) the Maltese tax timing unwind (€41.7m current liability vs €36.4m DTA) and its cash-tax profile. On our numbers the shares trade at ~3.8x FY26E EV/EBITDA before special items (market cap ~€80m/~$87m on 226.6m shares at SEK 3.985 plus ~€55m pro forma net debt) — the market is pricing continued revenue decline, and the stock is now a binary on the January 2027 partner re-allocation showing up in Q1-27 revenue.\",\"watch\":[\"Q4-26 report (26 Feb 2027): revenue vs the €19.3–20.3m implied range, December seasonality, the size of the listing-fee step-down as deals migrate to revenue share, and why implied Q4 OCF is only ~€3.8m.\",\"Take-rate: group revenue / value of deposits back above 11% (from 10.3%) by H1-27 as the first hard evidence the commercial optimisation programme works; Publishing revenue per FTD stabilising above ~€320.\",\"January 2027 partner re-allocation: number of partners consolidated, share of traffic on renegotiated terms, and any disclosure of a quantified revenue uplift target.\",\"Paid Media: segment EBITDA trajectory toward breakeven, FTD recovery in LatAm ex-Brazil/Africa/Asia, and Brazil's Congress decision on the Provisional Measure.\",\"Execution of the 18 Dec 2026 bond redemption and the €6.5m shareholder-facility paydown; pro forma leverage ~1.6x confirmed in the Q4 balance sheet.\",\"Organic search risk: impact of the just-completed Google core update on AskGamblers/Casinomeister traffic; any measurable traffic from AI-driven discovery.\",\"Governance under majority ownership: capital-allocation decisions (buybacks/dividends vs debt paydown), Class Z conversion after 12 months, and any further related-party financing.\",\"Maltese tax timing: cash tax outflows against the €41.7m current liability and whether the €36.4m DTA is realised on the expected schedule.\"]}",
+    "sharePriceReaction": "Shares -2.8% to SEK 3.985 (~$0.39) on Nasdaq Stockholm at 17:14 CET on 25 Nov 2026 (StockAnalysis delayed quote); Investing.com cites -3.8% to SEK 3.95. The stock is ~35% below the SEK 6.1633 subscription price of the 2 Nov directed issue and ~54% below its 52-week high of SEK 8.66; it had fallen 26% on the Q2 results in August. Closing price not independently verified.",
+    "confidence": "MEDIUM",
+    "confidenceNote": "FX: EUR/USD 1.096 (Investing.com close 1.0957) as of 25 Nov 2026; SEK conversions via ECB EUR/SEK 11.331 (30 Sep 2026) — USD share-price figure is approximate. Headline group P&L, cash flow, balance sheet, 9M segment data, guidance and refinancing terms are taken directly from the Q3 2026 Interim Report and 1 Oct 2026 release (HIGH confidence). Quarterly segment revenue for Q2-26/Q3-25 (Publishing ~€18.4m, Paid ~€4.3–4.4m), Q3 revenue by commission type, regional revenue in EUR, Publishing deposits, revenue-per-FTD, FCF and all 2027 figures are analyst derivations from company-stated percentages and are labelled as such (MEDIUM). Quarterly segment EBITDA is not disclosed (n/a). Original Feb-2026 guidance range (€105–115m) is sourced from a Quartr/GuruFocus call summary; next.io cites €100–115m — unresolved. Juroszek holding: company states ~56.5% for the two foundations; press reports 59.3% for the wider family. Share-price move is an intraday delayed quote, not a verified close. The gamingintelligence.com article supplied by the user could not be accessed. Note next.io's statement that Brazil generated €4.1m in Q3 conflicts with the company report, which gives €4.1m for the nine months.",
+    "sources": [
+      {
+        "label": "Gentoo Media Q3 2026 Interim Report (25 Nov 2026) — full 37-page PDF incl. CEO letter, financial/operational review, IFRS statements, Notes 3 (segments), 5–7 (borrowings, refinancing, going concern), 9 (special items)",
+        "kind": "primary",
+        "url": "https://www.gentoomedia.com/wp-content/uploads/2026/11/Gentoo_Media_Q3_2026.pdf"
+      },
+      {
+        "label": "Gentoo Media release via Cision, 1 Oct 2026 — 'Gentoo Media lowers guidance following regulatory change in Brazil and current trading'",
+        "kind": "primary",
+        "url": "https://news.cision.com/gentoo-media-inc/r/gentoo-media-lowers-guidance-following-regulatory-change-in-brazil-and-current-trading,c4403137"
+      },
+      {
+        "label": "Q3 2026 earnings call transcript (CEO Jonas Warrer, CFO Måns Svalborn; Q&A hosted by Redeye), 25 Nov 2026 — via StockAnalysis/Quartr",
+        "kind": "primary",
+        "url": "https://stockanalysis.com/quote/sto/G2M/transcripts/682643-q3-2026/"
+      },
+      {
+        "label": "Gentoo Media Inc: publishes Q3 2026 Interim Report and revises full-year guidance — regulatory release via Inderes, 25 Nov 2026",
+        "kind": "primary",
+        "url": "https://www.inderes.fi/en/releases/gentoo-media-inc-gentoo-media-publishes-q3-2026-interim-report-and-revises-full-year-guidance"
+      },
+      {
+        "label": "Gentoo Media — continued listing on Nasdaq Stockholm, delisting from Euronext Oslo Børs from 25 July 2025 (Cision)",
+        "kind": "primary",
+        "url": "https://news.cision.com/gentoo-media-inc/r/gentoo-media---continued-listing-on-nasdaq-stockholm--delisting-from-euronext-oslo-bors-from-25-july,c4145121"
+      },
+      {
+        "label": "NEXT.io — 'Gentoo Media slashes full-year guidance twice in two months', 25 Nov 2026 (user-supplied)",
+        "kind": "secondary",
+        "url": "https://next.io/news/results/gentoo-media-slashes-full-year-guidance/"
+      },
+      {
+        "label": "NEXT.io — 'Gentoo Media seeks to fix disconnect between player activity and revenue', 25 Nov 2026 (user-supplied)",
+        "kind": "secondary",
+        "url": "https://next.io/news/results/gentoo-media-disconnect-player-activity-and-revenue/"
+      },
+      {
+        "label": "Gaming Intelligence — 'Gentoo Media posts 9% revenue drop in third quarter' (user-supplied; URL not accessible, not read)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/239091-gentoo-media-posts-9-revenue-drop-in-third-quarter/"
+      },
+      {
+        "label": "NEXT.io — 'Q2 2026: Gentoo Media shares drop 26% on disappointing quarter', 26 Aug 2026 (Q2 base figures and August guidance cut)",
+        "kind": "secondary",
+        "url": "https://next.io/news/results/q226-gentoo-media-shares-drop-26pc/"
+      },
+      {
+        "label": "Investing.com — 'Gentoo Media Q3 2026 slides: revenue falls 9%, guidance cut' (Q3 commission-type figures, share move)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/news/company-news/gentoo-media-q3-2026-slides-revenue-falls-9-guidance-cut-93CH-5050133"
+      },
+      {
+        "label": "NEXT.io — 'Juroszek family takes majority control of Gentoo Media', 10 Nov 2026",
+        "kind": "secondary",
+        "url": "https://next.io/news/investment/juroszek-family-majority-control-gentoo-media/"
+      },
+      {
+        "label": "GuruFocus/Investing.com — Gentoo Media Q2 2026 earnings call highlights (original FY26 guidance reference)",
+        "kind": "secondary",
+        "url": "https://ca.investing.com/news/company-news/gentoo-media-inc-fragi11-q2-2026-earnings-call-highlights-revenue-dip-masks-record--4825133"
+      },
+      {
+        "label": "Investing.com — EUR/USD historical data (25 Nov 2026 close 1.0957)",
+        "kind": "secondary",
+        "url": "https://www.investing.com/currencies/eur-usd-historical-data"
+      }
+    ]
+  }
+}

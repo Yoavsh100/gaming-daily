@@ -5950,5 +5950,313 @@
     "releaseDate": "23 Nov 2026",
     "model": "claude-fable-5-1",
     "costUsd": 5.85
+  },
+  {
+    "key": "gentoo media|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-25T22:02:08.751Z",
+    "status": "failed",
+    "error": "r.forecast.bridge is not iterable",
+    "type": "company",
+    "company": {
+      "name": "Gentoo Media",
+      "ticker": "G2M"
+    },
+    "period": "Q3 2026"
+  },
+  {
+    "key": "juris|great britain|2025/26",
+    "attempts": 1,
+    "lastAttempt": "2026-11-25T22:12:47.549Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "GREAT-BRITAIN-2025-26",
+    "published": "2026-11-25",
+    "company": {
+      "name": "Great Britain",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "2025/26",
+    "verdict": "Great Britain remains the largest fully-regulated online gambling market in Europe and is still growing — FY2025/26 GGY £17.5bn (~$23.4bn), +4.4%, with online casino (+£736m, ~$986m) delivering effectively all of the growth while online betting and betting shops went backwards. But the state is now taking a far larger share: Remote Gaming Duty doubled to 40% of GGY from 1 April 2026, remote betting duty rises from 15% to 25% in April 2027, a statutory levy (~1.1% of online GGY) started in April 2025, and enforcement — local inspections +29%, £26m of new anti-illegal-gambling funding, FATF-driven AML focus — is visibly tightening. For B2Tech the market offers scale, legal certainty and mature payments, but post-tax online casino economics now favour only the largest, most efficient operators, and the regulatory direction of travel is unambiguously restrictive.",
+    "kpis": [
+      {
+        "label": "Total GGY FY25/26 (incl. lotteries)",
+        "value": "£17.5bn (~$23.4bn)",
+        "delta": "+4.4% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Online (RCBB) GGY",
+        "value": "£8.3bn (~$11.1bn)",
+        "delta": "+6.9% YoY; 63% of ex-lottery GGY",
+        "dir": "up"
+      },
+      {
+        "label": "Online casino GGY",
+        "value": "£5.7bn (~$7.6bn)",
+        "delta": "+£736m (≈+15% implied)",
+        "dir": "up"
+      },
+      {
+        "label": "Land-based GGY",
+        "value": "£4.9bn (~$6.6bn)",
+        "delta": "+1.1% YoY; betting shops −3.3%",
+        "dir": "up"
+      },
+      {
+        "label": "HMRC betting & gaming duty receipts FY25/26",
+        "value": "£3.83bn (~$5.1bn)",
+        "delta": "+5.9% YoY; RGD 21%→40% from Apr-26",
+        "dir": "up"
+      },
+      {
+        "label": "Licensed premises / betting shops",
+        "value": "8,081 / 5,617",
+        "delta": "−2.0% / −3.6% YoY",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "17 Sep 2026 (Industry Statistics FY2025/26); 19 Nov 2026 (Gambling Commission speech on LA inspections / enforcement)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.27
+  },
+  {
+    "key": "juris|massachusetts|OCTOBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-25T22:27:39.498Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "MASSACHUSETTS-OCTOBER-2026",
+    "published": "2026-11-25",
+    "company": {
+      "name": "Massachusetts",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "OCTOBER 2026",
+    "verdict": "Massachusetts is a mature, two-operator-dominated online sportsbook market (DraftKings + FanDuel = 74% of handle, 82% of taxable revenue) where volume has stalled (October handle $874.1m, -2.0% YoY; YTD +1.5%) but hold expansion keeps revenue and tax creeping higher (taxable SWR $73.6m, +3.3%; YTD $685.1m, +5.7%). The land-based base is shrinking (casino GGR $90.3m, -6.8%, strike-hit Encore -11.7%), iGaming is parked until 2027, and the live regulatory risk is binary: a Senate bill proposing a 51% online tax plus prop/in-play bans sits in Ways & Means, while the SJC has yet to rule on whether Kalshi's sports contracts are unlicensed wagering.",
+    "kpis": [
+      {
+        "label": "Sports handle (Oct-26)",
+        "value": "$874.1m",
+        "delta": "-2.0% YoY / +13.1% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "Taxable sports wagering revenue",
+        "value": "$73.6m",
+        "delta": "+3.3% YoY; hold 8.67%",
+        "dir": "up"
+      },
+      {
+        "label": "Sports wagering tax collected",
+        "value": "$14.7m",
+        "delta": "+3.3% YoY (20% online / 15% retail)",
+        "dir": "up"
+      },
+      {
+        "label": "Casino GGR (3 properties)",
+        "value": "$90.3m",
+        "delta": "-6.8% YoY; Encore -11.7%",
+        "dir": "down"
+      },
+      {
+        "label": "Total taxable gaming revenue",
+        "value": "$163.9m",
+        "delta": "-2.5% YoY; taxes $41.1m (-2.2%)",
+        "dir": "down"
+      },
+      {
+        "label": "Online share of sports handle",
+        "value": "99.2%",
+        "delta": "+0.6pp YoY; retail handle -42%",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "20 Nov 2026 (MGC October 2026 Revenue Report; revenue page updated 11.20.2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.09
+  },
+  {
+    "key": "juris|washington dc|OCTOBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-25T22:42:20.106Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "WASHINGTON-DC-OCTOBER-2026",
+    "published": "2026-11-25",
+    "company": {
+      "name": "Washington DC",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "OCTOBER 2026",
+    "verdict": "October 2026 was the District's largest month on record by handle ($95.76m) but growth has stalled at +0.9% YoY, hold is flat at 8.8%, and tax take fell 1.7% as volume shifted toward the 20%-taxed venue books. The bigger story is regulatory: B26-0656 (online casino at 25% GGR plus 4% of assessments, sweepstakes folded into licensing, gambling age to 21) cleared committee 3-1 on 18 Nov and must survive two full-Council readings before the Council period closes in mid-December. For a would-be entrant, DC is a ~$90m-GGR, seven-brand, FanDuel-dominated market where the 30% Class C tax and $2m licence make a mobile-only sportsbook entry marginal; the credible angles are B2B supply or an iGaming licence if the bill lands.",
+    "kpis": [
+      {
+        "label": "Handle (Oct-26)",
+        "value": "$95.76m",
+        "delta": "+0.9% YoY / +19.3% MoM — record month",
+        "dir": "up"
+      },
+      {
+        "label": "GGR (Oct-26)",
+        "value": "$8.46m",
+        "delta": "+1.1% YoY / +51.8% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "Hold (GGR/handle)",
+        "value": "8.83%",
+        "delta": "Oct-25: 8.81%; Sep-26: 6.94%",
+        "dir": "flat"
+      },
+      {
+        "label": "Tax take (Oct-26)",
+        "value": "$1.94m",
+        "delta": "−1.7% YoY; blended 22.9% of GGR",
+        "dir": "down"
+      },
+      {
+        "label": "CY26 YTD handle (Jan–Oct)",
+        "value": "$724.0m",
+        "delta": "+3.8% YoY; GGR $70.2m at 9.7% hold",
+        "dir": "up"
+      },
+      {
+        "label": "Live brands",
+        "value": "7",
+        "delta": "3 Class A, 1 Class B, 3 Class C; bet365 in, PENN out",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "20 Nov 2026 (OLG October 2026 unaudited sports wagering financials); trade coverage 25 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.69
+  },
+  {
+    "key": "juris|arizona|9M 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-25T22:56:20.366Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "ARIZONA-9M-2026",
+    "published": "2026-11-25",
+    "company": {
+      "name": "Arizona",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "9M 2026",
+    "verdict": "Arizona is a ~$9bn-handle, mobile-only-in-practice sports-betting market growing at low single digits (9M-26 handle $6.54bn, +3% YoY) with the cheapest fiscal terms of any large US state — 10% on receipts net of promos, an effective ~6–7% of gross win. The two things that matter for an entrant are (i) access, because the 20-licence cap means you need a tribal or pro-team partner, and (ii) tax risk, because the Governor's 45% large-operator proposal is unenacted but not dead. No online casino, and none coming without a compact rewrite.",
+    "kpis": [
+      {
+        "label": "9M-26 handle (stakes)",
+        "value": "$6.54bn",
+        "delta": "+3% YoY (GI); sum of ADG monthly releases ≈$6.58bn",
+        "dir": "up"
+      },
+      {
+        "label": "Sep-26 handle",
+        "value": "$836.7m",
+        "delta": "-1.7% YoY vs $851.3m; +43.6% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "Sep-26 taxable AGR (net of promos)",
+        "value": "$33.0m",
+        "delta": "Gross win $65.2m; promo deductions $32.2m (49% of gross); taxable hold 3.9%",
+        "dir": "down"
+      },
+      {
+        "label": "Mobile share of handle",
+        "value": "99.7%",
+        "delta": "Sep-26: $833.9m mobile vs $2.8m retail",
+        "dir": "flat"
+      },
+      {
+        "label": "Privilege fee rate / FY26 take",
+        "value": "10% mobile, 8% retail",
+        "delta": "FY26 (Jul-25–Jun-26) EW fees $57.8m on $9.08bn handle; 45% proposal unenacted",
+        "dir": "flat"
+      },
+      {
+        "label": "Cumulative since Sep-21",
+        "value": "$38bn handle",
+        "delta": "$205.4m privilege fees (0.54% of handle)",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "19 Nov 2026 (ADG September 2026 Event Wagering & Fantasy Sports figures; 9M-26 roll-up published 25 Nov 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.64
+  },
+  {
+    "key": "juris|european union|2023-2025",
+    "attempts": 1,
+    "lastAttempt": "2026-11-25T23:07:18.071Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "EUROPEAN-UNION-2023-2025",
+    "published": "2026-11-25",
+    "company": {
+      "name": "European Union",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "2023-2025",
+    "verdict": "The ECA-commissioned GCI study sizes the EU27 online betting-and-gaming marketplace at €128.0bn (~$140.2bn) GGR in 2025, of which only €36.5bn (~$40.0bn, 28%) sits with locally licensed operators and €91.6bn (~$100.3bn, 72%) with operators lacking the national licence required — a cumulative €224.8bn (~$246.2bn) \"illegal\" take and €56.3bn (~$61.6bn) of forgone tax over 2023–25. The regulated base is corroborated by EGBA/H2 (EU27+UK online €47.9bn in 2024, implying ~€36–37bn ex-UK) and is growing high-single digits, but the black-market figure is 5–8x the competing Euromat/Regulus (€12bn net, ~25%) and H2 (~€18bn, ~27%) estimates and should be treated as an upper bound. For an operator the EU remains 27 separate, expensive (avg €1.1m initial fee, 24% avg GGR tax) national regimes with no passporting; the actionable opportunities are the markets re-regulating in 2026–28 (Finland, Austria, Ireland) and the better-channelised Nordic and Southern European markets, not an \"EU-wide\" play.",
+    "kpis": [
+      {
+        "label": "EU27 online GGR 2025 (GCI, reg.+illegal)",
+        "value": "€128.0bn (~$140.2bn)",
+        "delta": "+12.0% YoY; +63% vs 2023",
+        "dir": "up"
+      },
+      {
+        "label": "Regulated online GGR 2025",
+        "value": "€36.5bn (~$40.0bn)",
+        "delta": "+8.6% YoY; +41% vs 2023",
+        "dir": "up"
+      },
+      {
+        "label": "Illegal online GGR 2025",
+        "value": "€91.6bn (~$100.3bn)",
+        "delta": "+13.6% YoY; +74% vs 2023",
+        "dir": "up"
+      },
+      {
+        "label": "Regulated share of online GGR",
+        "value": "28%",
+        "delta": "−1pp YoY; −5pp vs 2023 (33%)",
+        "dir": "down"
+      },
+      {
+        "label": "Gaming tax forgone 2025 (ECA est.)",
+        "value": "€22.9bn (~$25.1bn)",
+        "delta": "3-yr €56.3bn (~$61.6bn)",
+        "dir": "up"
+      },
+      {
+        "label": "Illegal operator destinations targeting EU27",
+        "value": "6,238",
+        "delta": "+0.3% YoY; +27% vs 2023 (4,921)",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "24 Nov 2026 (ECA/GCI \"Online Gaming 2023–2025: Illegal Gambling in EU27 Europe\"; wire release 25 Nov 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.4
   }
 ]

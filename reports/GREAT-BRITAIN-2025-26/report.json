@@ -1,0 +1,2001 @@
+{
+  "company": {
+    "name": "Great Britain",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "2025/26",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 1894383,
+    "output": 54236,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 84,
+    "cacheRead": 1806055,
+    "cacheWrite": 88244,
+    "turns": 1
+  },
+  "prepared": "25 Nov 2026",
+  "report": {
+    "releaseDate": "17 Sep 2026 (Industry Statistics FY2025/26); 19 Nov 2026 (Gambling Commission speech on LA inspections / enforcement)",
+    "currency": "GBP (tables in £ millions unless stated; ~USD alongside at GBP/USD 1.34 — see confidence note)",
+    "verdict": "Great Britain remains the largest fully-regulated online gambling market in Europe and is still growing — FY2025/26 GGY £17.5bn (~$23.4bn), +4.4%, with online casino (+£736m, ~$986m) delivering effectively all of the growth while online betting and betting shops went backwards. But the state is now taking a far larger share: Remote Gaming Duty doubled to 40% of GGY from 1 April 2026, remote betting duty rises from 15% to 25% in April 2027, a statutory levy (~1.1% of online GGY) started in April 2025, and enforcement — local inspections +29%, £26m of new anti-illegal-gambling funding, FATF-driven AML focus — is visibly tightening. For B2Tech the market offers scale, legal certainty and mature payments, but post-tax online casino economics now favour only the largest, most efficient operators, and the regulatory direction of travel is unambiguously restrictive.",
+    "kpis": [
+      {
+        "label": "Total GGY FY25/26 (incl. lotteries)",
+        "value": "£17.5bn (~$23.4bn)",
+        "delta": "+4.4% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Online (RCBB) GGY",
+        "value": "£8.3bn (~$11.1bn)",
+        "delta": "+6.9% YoY; 63% of ex-lottery GGY",
+        "dir": "up"
+      },
+      {
+        "label": "Online casino GGY",
+        "value": "£5.7bn (~$7.6bn)",
+        "delta": "+£736m (≈+15% implied)",
+        "dir": "up"
+      },
+      {
+        "label": "Land-based GGY",
+        "value": "£4.9bn (~$6.6bn)",
+        "delta": "+1.1% YoY; betting shops −3.3%",
+        "dir": "up"
+      },
+      {
+        "label": "HMRC betting & gaming duty receipts FY25/26",
+        "value": "£3.83bn (~$5.1bn)",
+        "delta": "+5.9% YoY; RGD 21%→40% from Apr-26",
+        "dir": "up"
+      },
+      {
+        "label": "Licensed premises / betting shops",
+        "value": "8,081 / 5,617",
+        "delta": "−2.0% / −3.6% YoY",
+        "dir": "down"
+      }
+    ],
+    "summary": [
+      "**Market size and growth: GB is a £17.5bn (~$23.4bn) GGY market, +4.4% YoY in FY2025/26 (April 2025–March 2026).** Excluding the National Lottery and society lotteries, licensed GGY was £13.2bn (~$17.7bn), +4.7%. Source: Gambling Commission Industry Statistics (official statistics, published 17 Sep 2026). GGY = stakes less prizes/winnings, before duty, levy and bonus costs — i.e. a gross, not net, measure.",
+      "**Growth is almost entirely online casino.** Online casino GGY rose £736m (~$986m) to £5.7bn (~$7.6bn) — ≈+15% implied — against a £728m (~$976m) rise for the whole licensed market. Slots alone were £4.8bn (~$6.4bn), i.e. 84% of online casino and 27% of all licensed GGY. The regulator itself (Director of Policy Ian Angus, 19 Nov 2026) says online casino is “basically driving the entire headline figure for growth.”",
+      "**Online penetration: the remote casino, betting and bingo (RCBB) sector made £8.3bn (~$11.1bn), +6.9%, equal to 47% of total GGY and 63% of GGY excluding lotteries.** Land-based sectors (arcades, betting, bingo, casino) made £4.9bn (~$6.6bn), +1.1%; lotteries account for the ~£4.3bn (~$5.8bn) balance (implied).",
+      "**Online betting is shrinking in GGY terms.** Remote betting GGY was £2.4bn (~$3.2bn) — football £1.2bn (~$1.6bn), horse racing £769.3m (~$1.0bn). With RCBB up only ~£536m while casino rose £736m, remote betting plus bingo fell by roughly £0.2bn (c.−7%, implied, rounding-sensitive). Remote bingo was £147.8m (~$198m).",
+      "**Retail is a two-speed estate.** Betting-shop GGY fell 3.3% to £2.4bn (~$3.2bn) (machines £1.2bn, −0.9%, = 49.4% of shop GGY) and the shop count fell for a 12th consecutive period to 5,617 (−208, −3.6%). Adult gaming centres grew 11.3% to £761.4m (~$1.0bn) and their premises rose from 1,417 to 1,449; retail bingo +8.2% to £703.8m (~$943m); casinos flat (+0.4%) at £933.9m (~$1.3bn). Total premises 8,081 (−2.0%).",
+      "**Gaming machines are a £2.7bn (~$3.6bn) product (+4.3%) across all venues, but still ~£100m (~$134m) below the pre-2019 B2 stake-cut level** per the Commission — a reminder that stake caps have permanent, not transitory, revenue effects.",
+      "**Regulator and legal framework: the Gambling Act 2005 (as amended), with the Gambling Commission licensing operators, personal licence-holders and the National Lottery, and 300+ local licensing authorities licensing premises** under a statutory co-regulatory model. The Commission licensed 2,154 operators (−1.1%) holding 3,097 licensed activities (+0.4%) at 31 March 2026.",
+      "**Tax regime — the big change.** Autumn Budget 2025 (26 Nov 2025, enacted via Finance Act 2026 ss.86–88) raised Remote Gaming Duty on online casino/bingo/slots GGY from 21% to 40% from 1 April 2026; created a 25% remote-betting rate within General Betting Duty (vs 15%) from 1 April 2027, with remote bets on UK horseracing excluded; and abolished the 10% Bingo Duty on retail bingo from 1 April 2026. Tax base throughout is GGY/profit, not turnover (Lottery Duty is the exception at 12% of ticket sales).",
+      "**Tax take: HMRC collected a record £3.83bn (~$5.1bn) of betting and gaming duties in FY2025/26, +5.9% (+£215m)** — 22% of total GGY on a blended basis. The OBR projects ~£5bn (~$6.7bn) in 2026/27 and ~£6bn (~$8.0bn) by 2030/31 (secondary citation of OBR Nov-2025 forecast). Early FY26/27 data: April–July 2026 receipts £1.933bn (~$2.6bn), +19%, with RGD alone now 50% of the total (July RGD ≈£590m vs £283m a year earlier).",
+      "**No early sign of volume leakage after the RGD hike.** July’s ~£590m (~$791m) RGD receipt (the first quarter paid at 40%) implies quarterly remote-gaming GGY of ~£1.5bn — an annualised ~£5.9bn, in line with FY25/26’s £5.85bn of online casino + bingo (our estimate). The industry’s black-market argument is, so far, not visible in the Exchequer data.",
+      "**Statutory levy replaced voluntary RET contributions from 6 April 2025** — 1.1% of GGY for remote operators, lower bands (0.5%/0.2%/0.1%) for land-based and lotteries (rates from the Gambling Levy Regulations 2025; not re-verified in this pass). On FY25/26 GGY that is ~£110m (~$147m) p.a. (our estimate), on top of duty. Effective fiscal take on online casino GGY from April 2026 is therefore ~41% before licence fees.",
+      "**Operator landscape: concentrated at the top, long tail below.** Leaders are Flutter (Sky Bet, Paddy Power, Betfair, tombola), Entain (Ladbrokes, Coral), bet365, Evoke (William Hill, 888), Betfred, Rank (Grosvenor, Mecca), FDJ United (Unibet/32Red) and Allwyn (National Lottery). The Commission does not publish market shares — n/a. Smaller books are already exiting: BresBet and Bet St George surrendered licences on 4 Sep 2026 (secondary).",
+      "**Customer base: 25.7m active online accounts at end-March 2026, 32.4m new registrations in the year (−3.0%), customer funds held £886.6m (~$1.2bn), −13.9%** — the first signs of a plateau in acquisition even as GGY grows, consistent with tighter affordability checks and the £150/month financial-vulnerability trigger.",
+      "**Participation is stable: 47% of adults gambled in the past four weeks in 2025 (GSGB), but only 27% once lottery-only players are excluded; in-person participation 28% (17% ex-lottery).**",
+      "**Payments: card-based, bank-transfer and e-wallet market; credit cards banned for gambling since April 2020; no mobile-money layer.** Operators must prompt deposit-limit setting at registration (from Oct 2025) and run light-touch financial vulnerability checks at £150 (~$201) net deposits/month (standing rules, not re-verified this pass).",
+      "**Responsible-gambling rules tightened materially in FY25/26:** online slot stake caps of £5 (~$7) per spin for 25+ and £2 (~$3) for 18–24s (from April/May 2025); bonus wagering requirements capped at 10x and mixed-product promotions banned (Dec 2025); product/channel-level marketing opt-in (Jan 2026); new category-B machine rules (sessional data, design restrictions) with the bulk effective June 2027.",
+      "**Advertising: CAP/BCAP ‘strong appeal’ rules and the industry whistle-to-whistle code apply; Premier League clubs’ voluntary front-of-shirt ban starts in 2026/27.** The Commission’s new remit also targets advertising and payments that support unlicensed sites (Sue Young, Nov 2026).",
+      "**Enforcement is rising, not falling.** Local authority inspections of premises +29% in FY25/26 (“unprecedented”); the Commission ran 160+ investigations, processed 2,000 intelligence reports and imposed £19.6m (~$26m) of penalty packages over the year (Commission enforcement report via CMS); headline cases include Platinum Gaming £10m, Evolution Malta £4.75m (supplying unlicensed sites), Spreadex £2.0m. A £26m (~$35m) three-year Budget allocation funds illegal-gambling work, £7m drawn in year one; joint police raids in Manchester, Doncaster, Birmingham, Bristol and Sheffield.",
+      "**Political direction: further tightening at local level.** Gambling Impact Assessments came into force in November 2026 (councils may weigh crime, deprivation, public-health data and premises clustering); MHCLG’s 2 Nov 2026 High Street paper flags a review of the Act’s ‘aim to permit’ principle and a DCMS consultation is expected; the Commission’s next five-year Corporate Strategy (April 2027) prioritises crime prevention and AML ahead of the UK’s FATF evaluation.",
+      "**Read-through for B2Tech: GB is a scale, not a margin, market.** Legal certainty, deep payments rails and a £5.7bn online casino pool are real, but a 40% RGD + 1.1% levy + tiered licence fees + affordability friction means a new entrant needs either a differentiated product/brand or a B2B (platform/content) angle rather than a me-too B2C casino. The sports-betting pool is contracting in GGY and faces a 10-point duty rise in April 2027; retail betting is in structural decline; AGC/bingo are the only growing land-based niches and are now in the political cross-hairs."
+    ],
+    "groupTable": {
+      "note": "GB market summary (£m unless stated; FY = April–March)",
+      "columns": [
+        "FY2025/26",
+        "YoY",
+        "Mix / basis / note"
+      ],
+      "rows": [
+        {
+          "label": "Market size — Gross Gambling Yield (Gambling Commission official statistics)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Total GGY incl. lotteries",
+          "kind": "emphasis",
+          "cells": [
+            "£17,500 (~$23.4bn)",
+            "+4.4%",
+            "100%; growth +£728m"
+          ]
+        },
+        {
+          "label": "GGY excluding all lotteries",
+          "kind": "line",
+          "cells": [
+            "£13,200 (~$17.7bn)",
+            "+4.7%",
+            "75% of total"
+          ]
+        },
+        {
+          "label": "Remote casino, betting & bingo (RCBB)",
+          "kind": "emphasis",
+          "cells": [
+            "£8,300 (~$11.1bn)",
+            "+6.9%",
+            "47% of total; 63% of ex-lottery"
+          ]
+        },
+        {
+          "label": "Online casino (of which slots £4,800 / ~$6.4bn)",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "£5,700 (~$7.6bn)",
+            "≈+15% (implied from +£736m)",
+            "69% of RCBB; slots 84% of casino"
+          ]
+        },
+        {
+          "label": "Online betting (football £1,200; horse racing £769)",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "£2,400 (~$3.2bn)",
+            "n/a (implied c.−7% with bingo)",
+            "29% of RCBB"
+          ]
+        },
+        {
+          "label": "Online bingo",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "£148 (~$198m)",
+            "n/a",
+            "2% of RCBB"
+          ]
+        },
+        {
+          "label": "Land-based (arcades, betting, bingo, casino)",
+          "kind": "emphasis",
+          "cells": [
+            "£4,900 (~$6.6bn)",
+            "+1.1%",
+            "28% of total"
+          ]
+        },
+        {
+          "label": "Betting shops (machines £1,200, 49.4% of shop GGY)",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "£2,400 (~$3.2bn)",
+            "−3.3%",
+            "machines −0.9%"
+          ]
+        },
+        {
+          "label": "Land-based casinos (games £695; machines £239)",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "£934 (~$1.3bn)",
+            "+0.4%",
+            ""
+          ]
+        },
+        {
+          "label": "Retail bingo (games £242; machines £462)",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "£704 (~$943m)",
+            "+8.2%",
+            ""
+          ]
+        },
+        {
+          "label": "Arcades (AGC £761, +11.3%; FEC £39, −0.5%)",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "£800 (~$1.1bn)",
+            "+10.7%",
+            "excl. permit-only FECs"
+          ]
+        },
+        {
+          "label": "Gaming machines, all venues",
+          "kind": "line",
+          "cells": [
+            "£2,700 (~$3.6bn)",
+            "+4.3%",
+            "~£100m below pre-2019 B2 cut"
+          ]
+        },
+        {
+          "label": "Lotteries GGY (implied: total less ex-lottery)",
+          "kind": "line",
+          "cells": [
+            "~£4,300 (~$5.8bn)",
+            "n/a",
+            "NL sales £7,900 (+0.9%); society £1,200 (+5.7%)"
+          ]
+        },
+        {
+          "label": "Structure & customers",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Online penetration (RCBB / ex-lottery GGY)",
+          "kind": "line",
+          "cells": [
+            "63%",
+            "n/a",
+            "47% of total incl. lotteries"
+          ]
+        },
+        {
+          "label": "Licensed operators / licensed activities (31 Mar 2026)",
+          "kind": "line",
+          "cells": [
+            "2,154 / 3,097",
+            "−1.1% / +0.4%",
+            "Commission operating licences"
+          ]
+        },
+        {
+          "label": "Licensed premises / betting shops / AGCs",
+          "kind": "line",
+          "cells": [
+            "8,081 / 5,617 / 1,449",
+            "−2.0% / −3.6% / +2.3%",
+            "shops −208; 12th consecutive decline"
+          ]
+        },
+        {
+          "label": "Active online accounts / new registrations",
+          "kind": "line",
+          "cells": [
+            "25.7m / 32.4m",
+            "n/a / −3.0%",
+            "accounts ≠ people"
+          ]
+        },
+        {
+          "label": "Customer funds held by RCBB operators",
+          "kind": "line",
+          "cells": [
+            "£887 (~$1.2bn)",
+            "−13.9%",
+            "end of Q4"
+          ]
+        },
+        {
+          "label": "Past-4-week participation (GSGB 2025)",
+          "kind": "line",
+          "cells": [
+            "47% (27% ex-lottery-only)",
+            "stable",
+            "in-person 28% (17% ex-lottery)"
+          ]
+        },
+        {
+          "label": "Tax (HMRC) — base is GGY/profit except Lottery Duty (ticket sales)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Betting & gaming duty receipts, all 7 duties",
+          "kind": "emphasis",
+          "cells": [
+            "£3,830 (~$5.1bn)",
+            "+5.9% (+£215m)",
+            "≈22% of total GGY (blended)"
+          ]
+        },
+        {
+          "label": "Remote Gaming Duty (online casino/slots/bingo)",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "21% of GGY → 40% from 1 Apr 2026",
+            "+19pp",
+            "FY24/25 receipts £1,160 (~$1.6bn); FY25/26 by-duty split n/a"
+          ]
+        },
+        {
+          "label": "General Betting Duty (betting GGY)",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "15%; remote non-horse → 25% from 1 Apr 2027",
+            "+10pp (remote)",
+            "UK horseracing bets stay at 15%"
+          ]
+        },
+        {
+          "label": "Bingo Duty (retail bingo)",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "10% → abolished 1 Apr 2026",
+            "−10pp",
+            "remote bingo stays under RGD"
+          ]
+        },
+        {
+          "label": "Machine Games Duty / Gaming Duty / Pool Betting / Lottery Duty",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "5%/20% (MGD); 15–50% bands; 15%; 12% of sales",
+            "unchanged",
+            "standing rates, not re-verified this pass"
+          ]
+        },
+        {
+          "label": "Statutory gambling levy (from 6 Apr 2025)",
+          "kind": "line",
+          "indent": true,
+          "cells": [
+            "1.1% remote; 0.5%/0.2%/0.1% land-based & lotteries",
+            "new",
+            "~£110m (~$147m) p.a. est.; rates not re-verified"
+          ]
+        },
+        {
+          "label": "Receipts Apr–Jul 2026 (first months at 40% RGD)",
+          "kind": "line",
+          "cells": [
+            "£1,933 (~$2.6bn)",
+            "+19% (+£309m)",
+            "RGD = 50% of receipts; July RGD ≈£590m"
+          ]
+        },
+        {
+          "label": "OBR forecast FY26/27 / FY30/31",
+          "kind": "line",
+          "cells": [
+            "~£5,000 / ~£6,000",
+            "vs ~£4,000 FY25/26 est.",
+            "secondary citation of OBR"
+          ]
+        },
+        {
+          "label": "Licensing & enforcement",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Operating-licence fees",
+          "kind": "line",
+          "cells": [
+            "Application + annual fee, tiered by GGY band",
+            "n/a",
+            "fee schedule not retrieved this pass"
+          ]
+        },
+        {
+          "label": "Local-authority premises inspections",
+          "kind": "line",
+          "cells": [
+            "+29% YoY",
+            "record rise",
+            "LA returns to 31 Mar 2026"
+          ]
+        },
+        {
+          "label": "Commission investigations / intelligence reports / penalty packages",
+          "kind": "line",
+          "cells": [
+            "160+ / 2,000 / £19.6m (~$26m)",
+            "vs £4.2m, 24 operators FY24/25",
+            "Commission enforcement report via CMS (secondary)"
+          ]
+        },
+        {
+          "label": "Illegal-gambling funding (Budget 2025)",
+          "kind": "line",
+          "cells": [
+            "£26m (~$35m) over 3 years",
+            "£7m drawn year 1",
+            "physical + online"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Online — remote casino, betting & bingo (RCBB)",
+        "headline": "£8.3bn (+6.9%) sector where slots carry everything: online casino +£736m while betting went backwards; 40% RGD now applies.",
+        "narrative": [
+          "The remote casino, betting and bingo (RCBB) sector generated £8.3bn (~$11.1bn) of GGY in FY2025/26, up 6.9%, and is now 63% of all licensed GGY once lotteries are stripped out (47% of the headline £17.5bn). The Commission's data is operator-reported through quarterly regulatory returns (harmonised since 1 July 2024), so this is GGY before Remote Gaming Duty, General Betting Duty, the statutory levy and bonus/free-bet costs — operators' net revenue is materially lower. Composition is lopsided: online casino £5.7bn (~$7.6bn), of which slots £4.8bn (~$6.4bn) and other casino (live, table, instant-win) ~£0.9bn (~$1.2bn, implied); remote betting £2.4bn (~$3.2bn), of which football £1.2bn (~$1.6bn), horse racing £769.3m (~$1.0bn) and all other betting (tennis, other sports, virtuals, novelty) ~£0.43bn (~$576m, implied); and remote bingo £147.8m (~$198m).",
+          "The growth arithmetic is the single most important fact in this release. Online casino GGY rose £736m (~$986m), an implied ≈15%, whereas the whole licensed market rose £728m (~$976m) and RCBB rose only ~£536m. By subtraction, remote betting plus bingo fell by roughly £0.2bn — around 7% — in a year that included no major summer football tournament and, by operator accounts, customer-friendly sporting results (this split is our derivation from the Commission's rounded figures and is rounding-sensitive). The practical implication for a sportsbook-led entrant is that the GB online betting pool is not growing in GGY terms, while the casino pool is compounding at double digits despite £5/£2 slot stake caps and lower-threshold affordability checks introduced during the year.",
+          "Customer metrics suggest acquisition is plateauing even as yield grows. New account registrations fell 3.0% to 32.4m; active accounts at end-March 2026 were 25.7m (an account is not a person — multi-accounting across ~20 major brands is the norm); and funds held in customer accounts fell 13.9% to £886.6m (~$1.2bn). Lower balances are consistent with the financial-vulnerability regime (light-touch checks at £150/month net deposits, standing rule not re-verified this pass), mandatory deposit-limit prompts from October 2025, and operators shrinking bonus liabilities ahead of the December 2025 cap of 10x on wagering requirements and the ban on mixed-product promotions.",
+          "Fiscal economics changed on 1 April 2026. Remote Gaming Duty — charged on the GGY of online casino, slots and remote bingo — rose from 21% to 40%. On FY25/26's ~£5.85bn of online casino plus bingo GGY, that is roughly £1.1bn (~$1.5bn) of extra annual duty at unchanged volumes (our estimate), before adding the 1.1% statutory levy. From 1 April 2027 a new 25% remote-betting rate within General Betting Duty applies to online bets other than on UK horseracing (which stays at 15%); on ~£1.6bn of non-horse remote betting GGY that adds ~£160m (~$218m) p.a. (estimate). HMRC's first post-hike data show no volume shock: April–July 2026 betting and gaming receipts were £1.933bn (~$2.6bn), +19%, with RGD 50% of the total and July's RGD receipt alone ~£590m (~$791m) vs £283m a year earlier — implying quarterly remote-gaming GGY of ~£1.5bn, i.e. flat on FY25/26 run-rate (our estimate). The Commission is explicit that it is 'not an adviser on taxation' and will 'watch to see what the outcome' is.",
+          "Commercially, the online sector is consolidating around scale. The Commission does not publish operator market shares (n/a), but the top tier — Flutter (Sky Bet, Paddy Power, Betfair, tombola), bet365, Entain (Ladbrokes, Coral, Foxy), Evoke (William Hill, 888), Betfred, FDJ United (Unibet, 32Red), Rank (Grosvenor online, Mecca) and Bally's (Gamesys brands) — has the proprietary tech, CRM and content economics to absorb a 19-point duty rise; sub-scale white-label books do not, and BresBet and Bet St George surrendered their licences in September 2026 with the latter in administration by October (secondary). Supplier-side enforcement has also arrived: Evolution Malta's £4.75m (~$6m) settlement in July 2026 was for games appearing on unlicensed GB-facing sites, and Stakelogic was fined £122,835 for game-cycle speed below the technical minimum, so B2B content providers are now squarely inside the Commission's perimeter.",
+          "For B2Tech, the online opportunity is real but narrow: a £5.7bn casino pool growing ~15%, with mature card/open-banking payments and a single national licence covering England, Scotland and Wales. The cost side — 40% RGD, 1.1% levy, GGY-tiered annual fees, mandatory affordability/marketing-consent friction, and 2026 advertising constraints — means a greenfield B2C casino needs a differentiated brand or a B2B platform/content entry (gambling software licence) to earn an acceptable return. A pure sportsbook faces a shrinking GGY pool and a 10-point duty rise in 16 months."
+        ],
+        "table": {
+          "note": "Remote (online) sector, £m",
+          "columns": [
+            "FY2025/26",
+            "YoY",
+            "Share / note"
+          ],
+          "rows": [
+            {
+              "label": "RCBB total GGY",
+              "kind": "emphasis",
+              "cells": [
+                "8,300 (~$11.1bn)",
+                "+6.9%",
+                "63% of ex-lottery GGY"
+              ]
+            },
+            {
+              "label": "Online casino",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "5,700 (~$7.6bn)",
+                "≈+15% (implied; +£736m)",
+                "69% of RCBB"
+              ]
+            },
+            {
+              "label": "— of which slots",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "4,800 (~$6.4bn)",
+                "n/a",
+                "84% of online casino; 27% of all licensed GGY"
+              ]
+            },
+            {
+              "label": "— other casino (implied)",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "~900 (~$1.2bn)",
+                "n/a",
+                "live/table/instants"
+              ]
+            },
+            {
+              "label": "Online betting",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "2,400 (~$3.2bn)",
+                "implied c.−7% (with bingo)",
+                "29% of RCBB"
+              ]
+            },
+            {
+              "label": "— football",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "1,200 (~$1.6bn)",
+                "n/a",
+                "50% of remote betting"
+              ]
+            },
+            {
+              "label": "— horse racing",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "769 (~$1.0bn)",
+                "n/a",
+                "excluded from 2027 25% rate"
+              ]
+            },
+            {
+              "label": "— other betting (implied)",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "~430 (~$576m)",
+                "n/a",
+                ""
+              ]
+            },
+            {
+              "label": "Online bingo",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "148 (~$198m)",
+                "n/a",
+                "taxed under RGD, not Bingo Duty"
+              ]
+            },
+            {
+              "label": "New account registrations",
+              "kind": "line",
+              "cells": [
+                "32.4m",
+                "−3.0%",
+                ""
+              ]
+            },
+            {
+              "label": "Active accounts (end Q4)",
+              "kind": "line",
+              "cells": [
+                "25.7m",
+                "n/a",
+                "accounts, not unique customers"
+              ]
+            },
+            {
+              "label": "Customer funds held (end Q4)",
+              "kind": "line",
+              "cells": [
+                "887 (~$1.2bn)",
+                "−13.9%",
+                ""
+              ]
+            },
+            {
+              "label": "Remote Gaming Duty rate",
+              "kind": "line",
+              "cells": [
+                "21% → 40% of GGY",
+                "from 1 Apr 2026",
+                "est. +£1.1bn (~$1.5bn) p.a. at flat GGY"
+              ]
+            },
+            {
+              "label": "Remote betting duty (GBD)",
+              "kind": "line",
+              "cells": [
+                "15% → 25% of GGY (non-horse)",
+                "from 1 Apr 2027",
+                "est. +£160m (~$218m) p.a."
+              ]
+            },
+            {
+              "label": "Statutory levy (remote)",
+              "kind": "line",
+              "cells": [
+                "1.1% of GGY",
+                "from 6 Apr 2025",
+                "≈£91m p.a. on FY25/26 base (est.)"
+              ]
+            },
+            {
+              "label": "July 2026 RGD receipt (first quarter at 40%)",
+              "kind": "line",
+              "cells": [
+                "~590 (~$791m)",
+                "vs ~283 Jul-25",
+                "implies ~£1.5bn quarterly remote-gaming GGY (est.)"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Sector size and mix",
+            "takeaway": "RCBB GGY was £8.3bn (~$11.1bn) in FY2025/26, up 6.9%, 63% of licensed GGY ex-lotteries (47% of headline £17.5bn).",
+            "points": [
+              "Data is operator-reported GGY before RGD, GBD, levy and bonus/free-bet costs; operators' net revenue is materially lower.",
+              "Online casino £5.7bn (~$7.6bn): slots £4.8bn (~$6.4bn), other casino ~£0.9bn (~$1.2bn, implied).",
+              "Remote betting £2.4bn (~$3.2bn): football £1.2bn (~$1.6bn), horse racing £769.3m (~$1.0bn), other ~£0.43bn (~$576m, implied).",
+              "Remote bingo £147.8m (~$198m)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Growth arithmetic",
+            "takeaway": "Online casino GGY rose £736m (~$986m), ≈15%, while remote betting plus bingo fell roughly £0.2bn, around 7%; the most important fact.",
+            "points": [
+              "Whole licensed market rose £728m (~$976m); RCBB rose only ~£536m.",
+              "Betting decline came in a year with no major summer football tournament and customer-friendly results; split is our rounding-sensitive derivation.",
+              "GB online betting pool is not growing in GGY terms; casino compounds at double digits despite £5/£2 slot caps and affordability checks."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Customer metrics",
+            "takeaway": "Acquisition is plateauing as yield grows: registrations fell 3.0% to 32.4m and customer funds fell 13.9% to £886.6m (~$1.2bn).",
+            "points": [
+              "Active accounts at end-March 2026 were 25.7m; an account is not a person, multi-accounting across ~20 brands is the norm.",
+              "Lower balances consistent with £150/month light-touch checks, mandatory deposit-limit prompts from October 2025 and shrinking bonus liabilities.",
+              "December 2025 brought a 10x cap on wagering requirements and a ban on mixed-product promotions."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Duty changes",
+            "takeaway": "Remote Gaming Duty rose from 21% to 40% on 1 April 2026, roughly £1.1bn (~$1.5bn) extra annual duty at unchanged volumes (our estimate).",
+            "points": [
+              "Estimate based on FY25/26 online casino plus bingo GGY of ~£5.85bn, before the 1.1% statutory levy.",
+              "From 1 April 2027 a 25% remote-betting rate applies except UK horseracing (15%); adds ~£160m (~$218m) p.a. on ~£1.6bn (estimate).",
+              "April–July 2026 receipts £1.933bn (~$2.6bn), +19%; RGD 50% of total; July RGD ~£590m (~$791m) vs £283m.",
+              "Implies quarterly remote-gaming GGY of ~£1.5bn, flat on FY25/26 run-rate (our estimate); no volume shock."
+            ],
+            "quote": {
+              "text": "not an adviser on taxation",
+              "speaker": "The Commission"
+            }
+          },
+          {
+            "heading": "Consolidation and suppliers",
+            "takeaway": "The online sector is consolidating around scale; top-tier operators can absorb a 19-point duty rise, sub-scale white-label books cannot.",
+            "points": [
+              "Top tier: Flutter, bet365, Entain, Evoke, Betfred, FDJ United, Rank and Bally's; Commission publishes no market shares (n/a).",
+              "BresBet and Bet St George surrendered licences in September 2026; the latter in administration by October (secondary).",
+              "Evolution Malta's £4.75m (~$6m) settlement in July 2026 covered games on unlicensed GB-facing sites; Stakelogic fined £122,835 for game-cycle speed.",
+              "B2B content providers are now squarely inside the Commission's perimeter."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "B2Tech implication",
+            "takeaway": "The online opportunity is real but narrow: a £5.7bn casino pool growing ~15% against 40% RGD and heavy compliance friction.",
+            "points": [
+              "Mature card/open-banking payments and a single national licence covering England, Scotland and Wales.",
+              "Costs include 40% RGD, 1.1% levy, GGY-tiered fees, affordability/marketing-consent friction and 2026 advertising constraints.",
+              "Greenfield B2C casino needs a differentiated brand or a B2B platform/content entry (gambling software licence) for acceptable return.",
+              "A pure sportsbook faces a shrinking GGY pool and a 10-point duty rise in 16 months."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Land-based — betting shops, casinos, bingo, arcades & machines",
+        "headline": "£4.9bn (+1.1%) with AGCs (+11%) and bingo (+8%) growing while betting shops (−3.3%) and the shop estate (−208) keep shrinking; local-authority scrutiny intensifying.",
+        "narrative": [
+          "Land-based gambling produced £4.9bn (~$6.6bn) of GGY in FY2025/26, up 1.1% — a real-terms decline once cost inflation is considered, as the Commission itself conceded on 19 November 2026. The estate comprised 8,081 licensed premises at 31 March 2026 (−2.0%), of which 5,617 betting shops (−208, −3.6%, the 12th consecutive reporting-period decline), 1,449 adult gaming centres (up from 1,417) and ~1,015 other premises (casinos, bingo halls and licensed family entertainment centres; implied). Gaming machines across all venues yielded £2.7bn (~$3.6bn), +4.3%, which the Commission notes is still ~£100m (~$134m) below the level before the April 2019 cut in B2 (FOBT) maximum stakes from £100 to £2.",
+          "Betting shops remain the largest land-based vertical at £2.4bn (~$3.2bn) GGY but fell 3.3%; over-the-counter betting is losing share to online while shop machines (£1.2bn, −0.9%) now provide 49.4% of shop GGY. The estate is dominated by Entain (Ladbrokes/Coral), Betfred, William Hill (Evoke) and Paddy Power (Flutter) plus independents; the Commission's reference to 'shop closures this year' as a consequence of sector change — against the backdrop of the November 2025 Budget — suggests the closure rate will not slow. Betfred's retail arm (Done Brothers) was fined £825,000 in December 2025 for AML and social-responsibility failings around B3 machines in shops, a signal that machine play in LBOs is under compliance scrutiny.",
+          "Adult gaming centres are the land-based growth story: GGY £761.4m (~$1.0bn), +11.3%, premises +32 to 1,449, and arcades overall £800.1m (~$1.1bn), +10.7% (family entertainment centres flat at £38.6m, excluding permit-only FECs). Growth has been supported by the 2025 relaxation of the 80/20 category-B/C-D machine ratio to 2:1 for AGCs and bingo halls (standing reform, not re-verified this pass) and by high-street vacancy that makes sites cheap. Retail bingo grew 8.2% to £703.8m (~$943m), with bingo machines (£461.7m) now almost twice bingo games (£242.1m); the abolition of the 10% Bingo Duty on retail bingo from 1 April 2026 is worth roughly £24m (~$32m) a year to the sector (our estimate on games GGY). Land-based casinos were flat at £933.9m (~$1.3bn) — games £695.0m, machines £238.9m — with Grosvenor (Rank) reaching a regulatory settlement in autumn 2026 (secondary); the 2005-Act machine entitlement reforms for 1968-Act casinos (up to 80 machines with sports betting) are a modest tailwind.",
+          "The regulatory temperature at local level has risen sharply. Local authority inspections rose 29% in FY25/26 — a rise the Commission called 'unprecedented' after noting a year earlier that about a third of councils had inspected no premises at all. The Commission handled over 150 council compliance queries this year and ran joint operations with police, Immigration Enforcement and regional organised-crime units in Manchester, Doncaster, Birmingham, Bristol and Sheffield; one August operation in South Yorkshire found 16 illegal betting terminals, cash and gold and led to three arrests. Reports of illegal card-style games in pubs ('Chase the Joker', 'Play Your Cards Right') increased. The first £7m of a £26m (~$35m) three-year Budget allocation is now funding this illegal-gambling work, explicitly including physical venues.",
+          "Policy is moving against clustering. Gambling Impact Assessments came into force in November 2026, allowing licensing authorities to weigh local crime, deprivation, antisocial-behaviour, public-health data and existing premises concentration when assessing new applications. MHCLG's 2 November 2026 High Street policy paper lists the Gambling Act's 'aim to permit' principle as an issue, and the Commission expects a DCMS consultation on it — a potentially fundamental shift from the current presumption in favour of licensing. Separately, the Commission's September 2026 consultation response on gaming machines requires new category-B machines to provide gambling-management tools and sessional win/loss/time information to players and staff, bans celebration of sub-stake wins and features that shorten time-to-result; existing machines are exempt and most provisions bite from June 2027.",
+          "For an operator, the land-based read-through is: betting-shop acquisition only makes sense as a cash-generative run-off asset with machine income; AGC and bingo are growing but face a tougher planning/licensing environment in 2027 and a possible Machine Games Duty rise (trade press flags MGD as a target in the next Budget — unconfirmed); casinos are stable but capital-intensive. B2Tech, with no GB retail footprint, has little reason to enter land-based except via machine content/technology under a gaming-machine technical licence."
+        ],
+        "table": {
+          "note": "Land-based sector, £m",
+          "columns": [
+            "FY2025/26",
+            "YoY",
+            "Note"
+          ],
+          "rows": [
+            {
+              "label": "Land-based GGY (arcades, betting, bingo, casino)",
+              "kind": "emphasis",
+              "cells": [
+                "4,900 (~$6.6bn)",
+                "+1.1%",
+                "28% of total GGY"
+              ]
+            },
+            {
+              "label": "Betting shops (non-remote betting)",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "2,400 (~$3.2bn)",
+                "−3.3%",
+                "49% of land-based"
+              ]
+            },
+            {
+              "label": "— machines in shops",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "1,200 (~$1.6bn)",
+                "−0.9%",
+                "49.4% of shop GGY"
+              ]
+            },
+            {
+              "label": "Casinos",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "934 (~$1.3bn)",
+                "+0.4%",
+                "games 695; machines 239"
+              ]
+            },
+            {
+              "label": "Bingo",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "704 (~$943m)",
+                "+8.2%",
+                "games 242; machines 462"
+              ]
+            },
+            {
+              "label": "Arcades",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "800 (~$1.1bn)",
+                "+10.7%",
+                "AGC 761 (+11.3%); FEC 39 (−0.5%)"
+              ]
+            },
+            {
+              "label": "Gaming machines, all venues",
+              "kind": "line",
+              "cells": [
+                "2,700 (~$3.6bn)",
+                "+4.3%",
+                "~£100m below pre-B2-cut level"
+              ]
+            },
+            {
+              "label": "Licensed premises",
+              "kind": "line",
+              "cells": [
+                "8,081",
+                "−2.0%",
+                ""
+              ]
+            },
+            {
+              "label": "— betting shops",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "5,617",
+                "−3.6% (−208)",
+                "12th consecutive decline"
+              ]
+            },
+            {
+              "label": "— adult gaming centres",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "1,449",
+                "+2.3% (from 1,417)",
+                ""
+              ]
+            },
+            {
+              "label": "— other premises (implied)",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "~1,015",
+                "n/a",
+                "casinos, bingo, licensed FECs"
+              ]
+            },
+            {
+              "label": "LA premises inspections",
+              "kind": "line",
+              "cells": [
+                "+29%",
+                "record",
+                "LA returns to 31 Mar 2026"
+              ]
+            },
+            {
+              "label": "Bingo Duty (retail)",
+              "kind": "line",
+              "cells": [
+                "10% → 0%",
+                "from 1 Apr 2026",
+                "≈£24m (~$32m) p.a. saving (est.)"
+              ]
+            },
+            {
+              "label": "Machine Games Duty",
+              "kind": "line",
+              "cells": [
+                "5% / 20% of net takings",
+                "unchanged",
+                "Q2 FY26/27 receipts £162m (+5%)"
+              ]
+            },
+            {
+              "label": "In-person participation (GSGB 2025)",
+              "kind": "line",
+              "cells": [
+                "28% (17% ex-lottery)",
+                "n/a",
+                ""
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Sector overview",
+            "takeaway": "Land-based GGY was £4.9bn (~$6.6bn), up 1.1%, a real-terms decline the Commission conceded on 19 November 2026.",
+            "points": [
+              "8,081 licensed premises at 31 March 2026 (−2.0%): 5,617 betting shops (−208, −3.6%, 12th consecutive decline), 1,449 AGCs (from 1,417).",
+              "~1,015 other premises (casinos, bingo halls, licensed FECs; implied).",
+              "Gaming machines yielded £2.7bn (~$3.6bn), +4.3%, still ~£100m (~$134m) below pre-April 2019 B2 stake cut from £100 to £2."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Betting shops",
+            "takeaway": "Betting shops remain the largest land-based vertical at £2.4bn (~$3.2bn) but fell 3.3%; closures will not slow.",
+            "points": [
+              "Over-the-counter betting losing share to online; shop machines £1.2bn (−0.9%) now 49.4% of shop GGY.",
+              "Estate dominated by Entain, Betfred, William Hill (Evoke) and Paddy Power (Flutter) plus independents.",
+              "Commission's reference to 'shop closures this year' against the November 2025 Budget suggests continued closures.",
+              "Betfred's Done Brothers fined £825,000 in December 2025 for AML and social-responsibility failings around B3 machines."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "AGCs, bingo, casinos",
+            "takeaway": "AGCs are the growth story at £761.4m (~$1.0bn), +11.3%, with retail bingo +8.2% to £703.8m (~$943m) and casinos flat.",
+            "points": [
+              "Arcades overall £800.1m (~$1.1bn), +10.7%; FECs flat at £38.6m; AGC premises +32 to 1,449.",
+              "Growth supported by 2025 relaxation of 80/20 machine ratio to 2:1 (not re-verified) and cheap high-street sites.",
+              "Bingo machines £461.7m almost twice bingo games £242.1m; Bingo Duty abolition from 1 April 2026 worth ~£24m (~$32m) a year (estimate).",
+              "Casinos £933.9m (~$1.3bn): games £695.0m, machines £238.9m; Grosvenor settlement autumn 2026 (secondary); 1968-Act machine reforms a modest tailwind."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Local enforcement",
+            "takeaway": "Local authority inspections rose 29% in FY25/26, which the Commission called 'unprecedented' after a third of councils inspected nothing a year earlier.",
+            "points": [
+              "Commission handled over 150 council compliance queries and ran joint operations in Manchester, Doncaster, Birmingham, Bristol and Sheffield.",
+              "An August South Yorkshire operation found 16 illegal betting terminals, cash and gold, leading to three arrests.",
+              "Reports of illegal pub card games ('Chase the Joker', 'Play Your Cards Right') increased.",
+              "First £7m of a £26m (~$35m) three-year Budget allocation funds illegal-gambling work including physical venues."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Policy on clustering",
+            "takeaway": "Policy is moving against clustering: Gambling Impact Assessments in force November 2026 and the 'aim to permit' principle under review.",
+            "points": [
+              "Licensing authorities can weigh crime, deprivation, antisocial-behaviour, public-health data and premises concentration for new applications.",
+              "MHCLG's 2 November 2026 High Street paper flags 'aim to permit'; DCMS consultation expected, a potentially fundamental shift.",
+              "New category-B machines must offer gambling-management tools and sessional win/loss/time data; sub-stake win celebrations banned; most rules from June 2027."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Operator read-through",
+            "takeaway": "Betting shops suit only cash-generative run-off; AGC and bingo grow but face tougher 2027 licensing; casinos stable but capital-intensive.",
+            "points": [
+              "Trade press flags Machine Games Duty as a target in the next Budget (unconfirmed).",
+              "B2Tech, with no GB retail footprint, has little reason to enter except via machine content/technology under a gaming-machine technical licence."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Lotteries — National Lottery & society lotteries",
+        "headline": "~£4.3bn of implied GGY; National Lottery sales £7.9bn (+0.9%) under Allwyn, society lotteries £1.2bn (+5.7%); not open to commercial operators.",
+        "narrative": [
+          "Lotteries account for the gap between the £17.5bn headline and the £13.2bn ex-lottery figure — roughly £4.3bn (~$5.8bn) of GGY, implied. The National Lottery sold £7.9bn (~$10.6bn) of tickets in FY2025/26 (+0.9%), returned £4.5bn (~$6.0bn) in prizes (−0.6%) and contributed £1.7bn (~$2.3bn) to good causes (+2.8%) — note the Commission's 'key facts' box rounds the good-causes figure to £1.6bn while the detailed text says £1.7bn; we quote both and flag the inconsistency. Lottery Duty is 12% of ticket sales (turnover base — the only GB gambling tax not levied on GGY), and Q2 FY26/27 Lottery Duty receipts fell 15% to £225m, suggesting softer sales in the first half of 2026.",
+          "The National Lottery is operated by Allwyn under the fourth licence (a 10-year licence from February 2024; standing fact, not re-verified this pass) and is outside the competitive market. The Commission's 2024/25 accounts show operating costs up 49% to £60.3m (~$81m), driven partly by litigation from The New Lottery Company over the fourth-licence competition, with trial begun in October 2025 (secondary); the Commission's draft 2027–32 strategy lists 'a successful National Lottery' as one of five priorities, confirming the licence transition remains a live supervisory issue.",
+          "Large society lotteries — charity lotteries run under Commission licence, plus external lottery managers (ELMs) — sold £1.2bn (~$1.6bn) of tickets (+5.7%), paid £335.6m (~$450m) in prizes (+6.1%) and gave £498.5m (~$668m) to good causes (+2.8%). This is the fastest-growing lottery segment and the only lottery activity where a commercial B2B operator can participate, as an ELM under a lottery operating licence; it is exempt from Lottery Duty but pays the statutory levy at the lowest band. Sales caps per society (annual and per-draw limits) constrain scale, and the segment is irrelevant to a casino/sportsbook strategy except as a CRM-adjacent product."
+        ],
+        "table": {
+          "note": "Lotteries, £m",
+          "columns": [
+            "FY2025/26",
+            "YoY",
+            "Note"
+          ],
+          "rows": [
+            {
+              "label": "National Lottery ticket sales",
+              "kind": "emphasis",
+              "cells": [
+                "7,900 (~$10.6bn)",
+                "+0.9%",
+                "Allwyn, 4th licence"
+              ]
+            },
+            {
+              "label": "— prizes",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "4,500 (~$6.0bn)",
+                "−0.6%",
+                ""
+              ]
+            },
+            {
+              "label": "— good causes",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "1,700 (~$2.3bn) [key facts: 1,600]",
+                "+2.8%",
+                "rounding inconsistency in source"
+              ]
+            },
+            {
+              "label": "— implied NL GGY (sales − prizes)",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "~3,400 (~$4.6bn)",
+                "n/a",
+                "before 12% Lottery Duty on sales"
+              ]
+            },
+            {
+              "label": "Large society lotteries sales",
+              "kind": "emphasis",
+              "cells": [
+                "1,200 (~$1.6bn)",
+                "+5.7%",
+                ""
+              ]
+            },
+            {
+              "label": "— prizes",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "336 (~$450m)",
+                "+6.1%",
+                ""
+              ]
+            },
+            {
+              "label": "— good causes",
+              "kind": "line",
+              "indent": true,
+              "cells": [
+                "499 (~$668m)",
+                "+2.8%",
+                ""
+              ]
+            },
+            {
+              "label": "Lotteries GGY (implied total)",
+              "kind": "line",
+              "cells": [
+                "~4,300 (~$5.8bn)",
+                "n/a",
+                "25% of total GGY"
+              ]
+            },
+            {
+              "label": "Lottery Duty (National Lottery only)",
+              "kind": "line",
+              "cells": [
+                "12% of ticket sales",
+                "unchanged",
+                "Q2 FY26/27 receipts £225m (−15%)"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Lottery GGY",
+            "takeaway": "Lotteries account for roughly £4.3bn (~$5.8bn) of implied GGY, the gap between £17.5bn headline and £13.2bn ex-lottery.",
+            "points": [
+              "National Lottery ticket sales £7.9bn (~$10.6bn), +0.9%; prizes £4.5bn (~$6.0bn), −0.6%; good causes £1.7bn (~$2.3bn), +2.8%.",
+              "Commission's key facts box rounds good causes to £1.6bn while detailed text says £1.7bn; inconsistency flagged.",
+              "Lottery Duty is 12% of ticket sales, the only GB gambling tax on turnover; Q2 FY26/27 receipts fell 15% to £225m."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Allwyn licence",
+            "takeaway": "Allwyn operates the National Lottery under the fourth licence, a 10-year licence from February 2024, outside the competitive market.",
+            "points": [
+              "Commission 2024/25 operating costs up 49% to £60.3m (~$81m), partly from The New Lottery Company litigation; trial began October 2025 (secondary).",
+              "Draft 2027–32 strategy lists 'a successful National Lottery' among five priorities; licence transition remains a live supervisory issue."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Society lotteries",
+            "takeaway": "Large society lotteries sold £1.2bn (~$1.6bn), +5.7%, the fastest-growing lottery segment and the only one open to commercial B2B operators.",
+            "points": [
+              "Prizes £335.6m (~$450m), +6.1%; good causes £498.5m (~$668m), +2.8%.",
+              "Commercial participation only as an external lottery manager; exempt from Lottery Duty but pays statutory levy at lowest band.",
+              "Sales caps per society constrain scale; irrelevant to a casino/sportsbook strategy except as a CRM-adjacent product."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Licensing regime & operator landscape",
+        "headline": "Single national operating licence + local premises licences; 2,154 operators (−1.1%) and 3,097 activities; GGY-tiered fees; the long tail is thinning.",
+        "narrative": [
+          "Great Britain (England, Scotland and Wales — Northern Ireland has separate law) is regulated under the Gambling Act 2005, as amended by the Gambling (Licensing and Advertising) Act 2014 which brought all operators serving GB customers into the Commission's net on a point-of-consumption basis. The Gambling Commission issues operating licences (remote and non-remote, across casino, general and pool betting, betting intermediary, bingo, gaming-machine general operating (AGC/FEC), gaming-machine technical, gambling software, and lottery/ELM activities), personal management and personal functional licences, and regulates the National Lottery. Licensing authorities (councils) issue premises licences and permits and inspect premises; the Commission describes this co-regulatory relationship as one of 'equal status' and it is now being strengthened in practice through the 29% rise in inspections and new Gambling Impact Assessments.",
+          "At 31 March 2026 the Commission licensed 2,154 operators (−1.1%) holding 3,097 licensed activities (+0.4%) — a slow contraction in the number of licensees alongside a slight widening of activities per licensee, consistent with consolidation. No local-ownership, local-server or data-localisation requirements exist; remote licensees may host offshore subject to the Commission's technical standards and remote gambling equipment rules. Fees comprise an application fee and an annual fee tiered by GGY band and activity; the current schedule was not retrieved in this pass and is marked n/a rather than estimated. Operators must file quarterly regulatory returns (harmonised reporting periods since 1 July 2024) and the Commission has warned of escalating enforcement for late or repeated non-submission (trade press, May 2026). Two operators had licences suspended for failing to participate in the GAMSTOP national self-exclusion scheme (Commission news headline, date not captured).",
+          "The operator landscape is concentrated at the top and fragmented below. The Commission publishes no market-share data, so shares are n/a; by brand presence the online leaders are Flutter (Sky Bet, Paddy Power, Betfair, tombola), bet365, Entain (Ladbrokes, Coral, Foxy Bingo, Gala), Evoke (William Hill, 888, Mr Green), Betfred, FDJ United (Unibet, 32Red), Bally's (Virgin Games, Jackpotjoy, Monopoly Casino) and Rank (Grosvenor, Mecca online); retail is led by Entain, Betfred, Evoke and Flutter (shops), Rank and Genting (casinos), Buzz Bingo and Mecca (bingo), and Merkur, Admiral (Novomatic) and Luxury Leisure (AGCs). Supplier/B2B licensing matters as much as B2C: Evolution's £4.75m settlement (July 2026) for games reaching unlicensed GB-facing sites and Stakelogic's fine for game-cycle speed establish that content and platform suppliers are directly accountable for where and how their products appear.",
+          "The policy direction on licensing is toward more conditions and more local discretion rather than more licences. Items in force or in train: Gambling Impact Assessments (Nov 2026); a government review of the 'aim to permit' presumption via the MHCLG High Street paper (2 Nov 2026) with a DCMS consultation expected; new category-B machine standards (bulk from June 2027); the Commission's updated Licensing, Compliance and Enforcement policy statement (March 2026, title only captured); and a new five-year Corporate Strategy from April 2027 built around five priorities — regulating in the public interest, preventing crime (illegal gambling and AML supervision ahead of the UK's FATF mutual evaluation), a smarter data-led regulator, a successful National Lottery, and organisational foundations. For an entrant, the licensing process itself is transparent and non-discretionary, but the ongoing compliance burden (AML, safer-gambling, technical standards, data returns) is the highest of any European jurisdiction and is still rising."
+        ],
+        "table": {
+          "note": "Licensing regime summary",
+          "columns": [
+            "Status at 31 Mar 2026",
+            "YoY / change",
+            "Note"
+          ],
+          "rows": [
+            {
+              "label": "Enabling law",
+              "kind": "line",
+              "cells": [
+                "Gambling Act 2005 (amended 2014)",
+                "Gambling Act Review (2023 White Paper) still being implemented",
+                "point-of-consumption"
+              ]
+            },
+            {
+              "label": "Regulator",
+              "kind": "line",
+              "cells": [
+                "Gambling Commission (national) + licensing authorities (premises)",
+                "co-regulatory",
+                "sponsor dept: DCMS"
+              ]
+            },
+            {
+              "label": "Licensed operators",
+              "kind": "emphasis",
+              "cells": [
+                "2,154",
+                "−1.1%",
+                ""
+              ]
+            },
+            {
+              "label": "Licensed activities",
+              "kind": "line",
+              "cells": [
+                "3,097",
+                "+0.4%",
+                ""
+              ]
+            },
+            {
+              "label": "Licence types",
+              "kind": "line",
+              "cells": [
+                "Operating (remote/non-remote), personal (PML/PFL), premises",
+                "—",
+                "casino, betting, bingo, machines, software, lottery"
+              ]
+            },
+            {
+              "label": "Licence fees",
+              "kind": "line",
+              "cells": [
+                "Application + annual, tiered by GGY",
+                "n/a (schedule not retrieved)",
+                "no local-ownership/server rules"
+              ]
+            },
+            {
+              "label": "Premises licences",
+              "kind": "line",
+              "cells": [
+                "8,081",
+                "−2.0%",
+                "issued by councils"
+              ]
+            },
+            {
+              "label": "Regulatory returns",
+              "kind": "line",
+              "cells": [
+                "Quarterly, harmonised periods",
+                "since 1 Jul 2024",
+                "late filing now an enforcement trigger"
+              ]
+            },
+            {
+              "label": "Gambling Impact Assessments",
+              "kind": "line",
+              "cells": [
+                "In force Nov 2026",
+                "new",
+                "local risk evidence for new premises"
+              ]
+            },
+            {
+              "label": "'Aim to permit' review",
+              "kind": "line",
+              "cells": [
+                "MHCLG paper 2 Nov 2026; DCMS consultation expected",
+                "pending",
+                "could end presumption in favour of licensing"
+              ]
+            },
+            {
+              "label": "Next Corporate Strategy",
+              "kind": "line",
+              "cells": [
+                "April 2027, 5 priorities",
+                "pending",
+                "crime/AML ahead of FATF evaluation"
+              ]
+            },
+            {
+              "label": "Operator market shares",
+              "kind": "line",
+              "cells": [
+                "n/a",
+                "n/a",
+                "not published by regulator"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Regulatory framework",
+            "takeaway": "Great Britain is regulated under the Gambling Act 2005, amended in 2014 to a point-of-consumption basis; Northern Ireland has separate law.",
+            "points": [
+              "Commission issues operating licences across casino, betting, intermediary, bingo, machine, gambling software and lottery/ELM activities, plus personal licences.",
+              "Councils issue premises licences and permits and inspect premises; co-regulation of 'equal status' strengthened by 29% inspection rise and Gambling Impact Assessments."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Licensee base",
+            "takeaway": "2,154 operators (−1.1%) held 3,097 activities (+0.4%) at 31 March 2026, consistent with consolidation.",
+            "points": [
+              "No local-ownership, local-server or data-localisation requirements; offshore hosting allowed subject to technical standards.",
+              "Fees comprise application and annual fees tiered by GGY band and activity; current schedule not retrieved, marked n/a.",
+              "Quarterly regulatory returns harmonised since 1 July 2024; Commission warned of escalating enforcement for non-submission (trade press, May 2026).",
+              "Two operators had licences suspended for not participating in GAMSTOP."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Operator landscape",
+            "takeaway": "The market is concentrated at the top and fragmented below; market shares are n/a as the Commission publishes none.",
+            "points": [
+              "Online leaders: Flutter, bet365, Entain, Evoke, Betfred, FDJ United, Bally's and Rank.",
+              "Retail led by Entain, Betfred, Evoke, Flutter (shops), Rank and Genting (casinos), Buzz Bingo and Mecca, Merkur, Admiral and Luxury Leisure (AGCs).",
+              "Evolution's £4.75m settlement (July 2026) and Stakelogic's fine establish suppliers are directly accountable for their products."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Policy direction",
+            "takeaway": "Policy is heading toward more conditions and local discretion; the compliance burden is Europe's highest and still rising.",
+            "points": [
+              "In train: Gambling Impact Assessments (Nov 2026), 'aim to permit' review, category-B machine standards (June 2027), updated LCE policy (March 2026).",
+              "New five-year Corporate Strategy from April 2027 with five priorities including preventing crime ahead of the UK's FATF mutual evaluation.",
+              "Licensing process is transparent and non-discretionary, but ongoing AML, safer-gambling, technical and data obligations are heavy."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Tax regime — seven duties, one Budget shock",
+        "headline": "Record £3.83bn receipts (+5.9%) in FY25/26 before the 1 April 2026 RGD doubling to 40%; OBR sees ~£5bn in FY26/27; remote betting to 25% in April 2027.",
+        "narrative": [
+          "HMRC administers seven gambling duties: Remote Gaming Duty (online casino, slots, remote bingo — on GGY), General Betting Duty (fixed-odds and exchange betting — on GGY, with 3%/10% rates for financial/other spread betting), Pool Betting Duty (15% of net pool receipts), Machine Games Duty (5% lower rate / 20% standard rate on net takings), Gaming Duty (land-based casinos, banded 15%–50% of GGY), Bingo Duty (10% of retail bingo profits, abolished 1 April 2026) and Lottery Duty (12% of National Lottery ticket sales). Apart from Lottery Duty, the base is gross profit, not turnover — a critical structural advantage versus turnover-taxed markets, but one now paired with Europe's highest headline online casino rate. Standing rates other than those changed in Budget 2025 are from HMRC's rate schedule and were not re-verified in this pass.",
+          "Receipts in FY2025/26 (the last year at 21% RGD) reached a record £3.83bn (~$5.1bn), +5.9% or +£215m (~$288m), roughly 22% of total GGY on a blended basis and about 0.4% of all HMRC receipts. Remote Gaming Duty was already the largest single duty — £1.16bn (~$1.6bn) in FY2024/25 (+13%), per HMRC via Bloomberg Tax — and the by-duty split for FY25/26 was not retrievable in this pass (n/a). The Commission's and HMRC's numbers are not directly reconcilable: the Commission measures GB-facing GGY by financial year of operator returns, HMRC measures cash receipts (with a one-month lag after quarterly accounting periods) across the UK including Northern Ireland.",
+          "Autumn Budget 2025 (26 November 2025), legislated in Finance Act 2026 ss.86–88 and Schedule 13, did three things: (1) Remote Gaming Duty from 21% to 40% from 1 April 2026; (2) a new 25% remote-betting rate within General Betting Duty from 1 April 2027, replacing the 15% rate for online bets other than on UK horseracing, which remains at 15% to protect the racing levy base; (3) abolition of Bingo Duty from 1 April 2026. The government framed this as simplification (one fewer duty, no new one) and as 'in-person good, remote bad' in the words of CMS's legal update. Our static estimates: +£1.1bn (~$1.5bn) p.a. from RGD on FY25/26 online casino + bingo GGY of ~£5.85bn; +£160m (~$218m) p.a. from the remote betting rate on ~£1.6bn of non-horse remote betting GGY; −£24m (~$32m) from Bingo Duty — broadly consistent with the OBR path of ~£4bn (FY25/26) to ~£5bn (FY26/27) and ~£6bn (FY30/31), which is cited here from a secondary summary of the OBR's November 2025 forecast.",
+          "The early evidence contradicts the industry's pre-Budget warning that a 40% rate would push play offshore. April–July 2026 receipts were £1.933bn (~$2.6bn), +19% (+£309m), with RGD at 50.0% of the total and GBD 16.6%; April–June alone was flat (+0.3%) because the first 40%-rate quarter was only paid in July, when RGD came in at ~£590m against £283m a year earlier (+108%). Our back-solve — £590m / 40% ≈ £1.5bn of quarterly remote-gaming GGY, ~£5.9bn annualised — implies no measurable volume decline in the first quarter at the new rate. Other duties moved on their own fundamentals: GBD £161m (−14%, soft betting margins), Lottery Duty £225m (−15%), MGD £162m (+5%), Gaming Duty £58m (+2%). Trade press (SBC, October 2026) reports industry concern that Machine Games Duty is the next target at the forthcoming Budget; we treat that as unconfirmed.",
+          "On top of duty sits the statutory gambling levy (Gambling Levy Regulations 2025, in force 6 April 2025), collected by the Commission and hypothecated to NHS-led treatment, prevention and research: 1.1% of GGY for remote operators and software licensees, 0.5% for land-based casinos and betting, 0.2% for bingo/AGC/FEC and 0.1% for lotteries, on-course and machine-technical licensees (rates from memory of the Regulations; not re-verified in this pass). Applied to FY25/26 GGY, the levy is worth ~£110m (~$147m) a year (estimate). The all-in statutory take on online casino GGY from April 2026 is therefore ~41% before licence fees and VAT-irrecoverable costs — a level at which marketing intensity, bonus generosity and affiliate economics must all compress."
+        ],
+        "table": {
+          "note": "UK gambling duties — base, rate and receipts (£m)",
+          "columns": [
+            "Base / rate FY25/26",
+            "Change & effective date",
+            "Receipts / impact"
+          ],
+          "rows": [
+            {
+              "label": "Total betting & gaming duties (HMRC)",
+              "kind": "emphasis",
+              "cells": [
+                "All 7 duties",
+                "record year",
+                "FY25/26 £3,830 (~$5.1bn), +5.9%; FY24/25 £3,615 (implied)"
+              ]
+            },
+            {
+              "label": "Remote Gaming Duty",
+              "kind": "line",
+              "cells": [
+                "21% of remote gaming GGY",
+                "→ 40% from 1 Apr 2026 (FA 2026 s.86)",
+                "FY24/25 £1,160 (~$1.6bn); FY25/26 n/a; est. +£1,100 p.a."
+              ]
+            },
+            {
+              "label": "General Betting Duty — remote (non-horse)",
+              "kind": "line",
+              "cells": [
+                "15% of GGY",
+                "→ 25% from 1 Apr 2027 (s.87)",
+                "est. +£160 (~$218m) p.a."
+              ]
+            },
+            {
+              "label": "General Betting Duty — retail & UK horseracing",
+              "kind": "line",
+              "cells": [
+                "15% of GGY",
+                "unchanged",
+                "Q2 FY26/27 £161 (−14%)"
+              ]
+            },
+            {
+              "label": "Spread betting (within GBD)",
+              "kind": "line",
+              "cells": [
+                "3% financial / 10% other",
+                "unchanged",
+                "standing rates, not re-verified"
+              ]
+            },
+            {
+              "label": "Pool Betting Duty",
+              "kind": "line",
+              "cells": [
+                "15% of net pool receipts",
+                "unchanged",
+                ""
+              ]
+            },
+            {
+              "label": "Machine Games Duty",
+              "kind": "line",
+              "cells": [
+                "5% lower / 20% standard",
+                "unchanged; lobby fears rise at next Budget (unconfirmed)",
+                "Q2 FY26/27 £162 (+5%)"
+              ]
+            },
+            {
+              "label": "Gaming Duty (casinos)",
+              "kind": "line",
+              "cells": [
+                "15%–50% banded on GGY",
+                "unchanged",
+                "Q2 FY26/27 £58 (+2%)"
+              ]
+            },
+            {
+              "label": "Bingo Duty (retail)",
+              "kind": "line",
+              "cells": [
+                "10% of profits",
+                "abolished 1 Apr 2026 (s.88/Sch.13)",
+                "est. −£24 (~$32m) p.a."
+              ]
+            },
+            {
+              "label": "Lottery Duty",
+              "kind": "line",
+              "cells": [
+                "12% of National Lottery ticket sales (turnover base)",
+                "unchanged",
+                "Q2 FY26/27 £225 (−15%)"
+              ]
+            },
+            {
+              "label": "Statutory gambling levy",
+              "kind": "line",
+              "cells": [
+                "1.1% remote; 0.5% / 0.2% / 0.1% other (GGY)",
+                "from 6 Apr 2025 (not re-verified)",
+                "est. ~£110 (~$147m) p.a.; hypothecated"
+              ]
+            },
+            {
+              "label": "Receipts Apr–Jul 2026",
+              "kind": "line",
+              "cells": [
+                "£1,933 (~$2.6bn)",
+                "+19% (+£309m)",
+                "RGD 50%; GBD 16.6%; Jul RGD ≈£590"
+              ]
+            },
+            {
+              "label": "OBR forecast",
+              "kind": "line",
+              "cells": [
+                "~£4,000 FY25/26 est.",
+                "~£5,000 FY26/27; ~£6,000 FY30/31",
+                "secondary citation"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Seven duties",
+            "takeaway": "HMRC administers seven gambling duties, all on gross profit except Lottery Duty, now paired with Europe's highest online casino rate.",
+            "points": [
+              "RGD (online casino, slots, bingo), GBD (3%/10% spread betting rates), Pool Betting Duty 15%, MGD 5%/20%.",
+              "Gaming Duty banded 15%–50%, Bingo Duty 10% (abolished 1 April 2026), Lottery Duty 12% of ticket sales.",
+              "Standing rates not changed in Budget 2025 were not re-verified in this pass."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "FY25/26 receipts",
+            "takeaway": "Receipts hit a record £3.83bn (~$5.1bn), +5.9% or +£215m (~$288m), roughly 22% of GGY and 0.4% of HMRC receipts.",
+            "points": [
+              "RGD was the largest duty at £1.16bn (~$1.6bn) in FY2024/25 (+13%); FY25/26 by-duty split n/a.",
+              "Commission and HMRC figures are not reconcilable: GB-facing GGY by financial year versus UK cash receipts with one-month lag."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Budget 2025 changes",
+            "takeaway": "Autumn Budget 2025 raised RGD to 40% from 1 April 2026, added 25% remote-betting duty from 2027, and abolished Bingo Duty.",
+            "points": [
+              "Legislated in Finance Act 2026 ss.86–88 and Schedule 13; UK horseracing stays at 15% to protect the racing levy base.",
+              "Static estimates: +£1.1bn (~$1.5bn) p.a. RGD, +£160m (~$218m) p.a. remote betting, −£24m (~$32m) Bingo Duty.",
+              "Consistent with OBR path of ~£4bn (FY25/26), ~£5bn (FY26/27), ~£6bn (FY30/31), cited from a secondary summary."
+            ],
+            "quote": {
+              "text": "in-person good, remote bad",
+              "speaker": "CMS legal update"
+            }
+          },
+          {
+            "heading": "Early evidence",
+            "takeaway": "April–July 2026 receipts of £1.933bn (~$2.6bn), +19%, contradict industry warnings that 40% RGD would push play offshore.",
+            "points": [
+              "RGD 50.0% of total, GBD 16.6%; April–June flat (+0.3%) as first 40% quarter paid in July: RGD ~£590m vs £283m (+108%).",
+              "Back-solve £590m / 40% ≈ £1.5bn quarterly GGY, ~£5.9bn annualised: no measurable volume decline.",
+              "GBD £161m (−14%), Lottery Duty £225m (−15%), MGD £162m (+5%), Gaming Duty £58m (+2%).",
+              "SBC (October 2026) reports MGD may be the next Budget target; treated as unconfirmed."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Statutory levy",
+            "takeaway": "The statutory levy, in force 6 April 2025, is worth ~£110m (~$147m) a year, taking all-in online casino take to ~41%.",
+            "points": [
+              "Rates: 1.1% remote operators and software licensees, 0.5% land-based casinos and betting, 0.2% bingo/AGC/FEC, 0.1% lotteries and others (not re-verified).",
+              "Hypothecated to NHS-led treatment, prevention and research.",
+              "At ~41% before fees and VAT-irrecoverable costs, marketing intensity, bonus generosity and affiliate economics must compress."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Compliance, enforcement & the illegal market",
+        "headline": "Enforcement intensity rising on every axis — LA inspections +29%, £19.6m penalties, supplier liability, £26m anti-illegal funding, FATF-driven AML focus.",
+        "narrative": [
+          "The headline from the 19 November 2026 speech that triggered the lead article is a 29% rise in local authority inspections of gambling premises in FY2025/26, which the Commission called 'unprecedented' and wants sustained. Context matters: a year earlier the Commission had said roughly a third of councils had inspected no premises in 12 months. The increase coincided with a 2% fall in premises and a 3.6% fall in betting shops, so inspection density per premises rose by more than a third. The Commission also fielded 150+ council compliance queries this financial year and has stood up joint police operations against illegal gambling dens in Manchester, Doncaster, Birmingham, Bristol and Sheffield, with offences spanning illegal machines, unlicensed casino operation, money laundering and immigration.",
+          "At national level, the Commission's enforcement report covering the year (summarised by CMS, July 2026) cites 160+ investigations, ~2,000 intelligence reports processed, hundreds of risk-based compliance assessments and £19.6m (~$26m) of penalty packages, plus surrender and warning notices for personal management licence holders. That compares with £4.2m across 24 operators in FY2024/25 (which the Commission had described as a 'potentially positive indicator' of improved compliance), £13.4m across 19 in FY2023/24 and £60.1m in FY2022/23 — so the FY25/26 figure represents a re-acceleration. Named outcomes in the period include Platinum Gaming (Unibet) £10m (Oct 2025, AML/social responsibility), Spreadex £2.022m (May 2025), ProgressPlay £1m (Aug 2025), Videoslots £650k (Nov 2025), Betfred retail £825k (Dec 2025), Lottomart £360k (Sep 2025), Petfre £240k (Oct 2025, non-compliant slot features) and, after year-end, Petfre £900k (Jun 2026), Evolution Malta £4.75m (Jul 2026), QuinnBet £609k (Aug 2026) and a Grosvenor Casinos settlement (autumn 2026). Compliance activity volume is also at record levels — over 9,700 compliance activities in FY2024/25, more than double the prior year.",
+          "The illegal-market strategy has broadened. Executive Director of Operations Sue Young (November 2026) set out an approach that targets the payments, advertising and other services sustaining unlicensed operators rather than only website takedowns, and the Evolution settlement shows the Commission will reach upstream to suppliers whose content appears on unlicensed GB-facing sites. The government's 2025 Budget allocated £26m (~$35m) over three years to this work; £7m has been drawn in year one. The Commission has not, in the material read for this brief, published a size estimate for the illegal market in FY25/26 — n/a — and HMRC's post-April receipts give no evidence of leakage so far.",
+          "Money laundering is moving up the agenda. The Commission's draft 2027–32 strategy puts 'preventing crime' second of five priorities and explicitly links AML supervision to the UK's upcoming FATF mutual evaluation, 'a priority for Government'. Expect more licence reviews led by AML findings (the pattern in Platinum, Spreadex, ProgressPlay, QuinnBet), more scrutiny of source-of-funds processes, and more personal-licence actions against accountable executives. The Commission's own cost base is rising (operating costs £60.3m in FY24/25, +49%, headcount +11.5%), which historically precedes fee increases for licensees.",
+          "For B2Tech the enforcement regime is predictable but unforgiving: the Licence Conditions and Codes of Practice (LCCP) are prescriptive, penalties are calibrated to GGY and scale to eight figures, regulatory settlements are published with named failings, and PML holders carry personal exposure. The cost of a compliant AML/safer-gambling stack (customer interaction triggers, affordability data, source-of-funds, game-technical certification) is a fixed cost that favours incumbents — but it also raises the barrier against low-quality competitors, which is part of why incumbents' margins have held despite rising tax."
+        ],
+        "table": {
+          "note": "Enforcement & compliance indicators",
+          "columns": [
+            "FY2025/26 (or latest)",
+            "Prior year",
+            "Note"
+          ],
+          "rows": [
+            {
+              "label": "Local authority premises inspections",
+              "kind": "emphasis",
+              "cells": [
+                "+29%",
+                "~1/3 of councils did none (FY24/25)",
+                "LA returns to 31 Mar 2026"
+              ]
+            },
+            {
+              "label": "Commission investigations",
+              "kind": "line",
+              "cells": [
+                "160+",
+                "n/a",
+                "enforcement report via CMS"
+              ]
+            },
+            {
+              "label": "Intelligence reports handled",
+              "kind": "line",
+              "cells": [
+                "~2,000",
+                "n/a",
+                ""
+              ]
+            },
+            {
+              "label": "Penalty packages (fines + settlements)",
+              "kind": "line",
+              "cells": [
+                "£19.6m (~$26m)",
+                "£4.2m / 24 operators (FY24/25)",
+                "FY23/24 £13.4m; FY22/23 £60.1m"
+              ]
+            },
+            {
+              "label": "Compliance activities",
+              "kind": "line",
+              "cells": [
+                "n/a",
+                "9,700+ (FY24/25, >2x prior)",
+                "record"
+              ]
+            },
+            {
+              "label": "Largest cases in period",
+              "kind": "line",
+              "cells": [
+                "Platinum Gaming £10m; Evolution £4.75m; Spreadex £2.0m; ProgressPlay £1m",
+                "—",
+                "AML/social responsibility; supplier liability"
+              ]
+            },
+            {
+              "label": "Illegal-gambling funding",
+              "kind": "line",
+              "cells": [
+                "£26m (~$35m) / 3 yrs; £7m drawn",
+                "new",
+                "Budget 2025"
+              ]
+            },
+            {
+              "label": "Joint raids on illegal venues",
+              "kind": "line",
+              "cells": [
+                "Manchester, Doncaster, Birmingham, Bristol, Sheffield",
+                "—",
+                "16 illegal terminals, 3 arrests (S. Yorks, Aug 2026)"
+              ]
+            },
+            {
+              "label": "Commission operating costs",
+              "kind": "line",
+              "cells": [
+                "n/a",
+                "£60.3m (~$81m) FY24/25, +49%",
+                "National Lottery litigation"
+              ]
+            },
+            {
+              "label": "Licence surrenders / exits (post period)",
+              "kind": "line",
+              "cells": [
+                "BresBet, Bet St George (Sep 2026)",
+                "—",
+                "secondary"
+              ]
+            },
+            {
+              "label": "Illegal market size estimate",
+              "kind": "line",
+              "cells": [
+                "n/a",
+                "n/a",
+                "not published in material reviewed"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Local inspections",
+            "takeaway": "Local authority inspections rose 29% in FY2025/26, called 'unprecedented' by the Commission, with density per premises up over a third.",
+            "points": [
+              "A year earlier roughly a third of councils had inspected no premises in 12 months.",
+              "Premises fell 2% and betting shops 3.6%, amplifying inspection density.",
+              "150+ council compliance queries fielded; joint police operations in Manchester, Doncaster, Birmingham, Bristol and Sheffield covering machines, casinos, laundering and immigration."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "National enforcement",
+            "takeaway": "FY25/26 penalty packages of £19.6m (~$26m) mark a re-acceleration from £4.2m in FY2024/25.",
+            "points": [
+              "160+ investigations, ~2,000 intelligence reports, hundreds of compliance assessments, plus personal management licence surrenders and warnings (CMS, July 2026).",
+              "Prior years: £13.4m across 19 operators in FY2023/24, £60.1m in FY2022/23.",
+              "Named outcomes: Platinum Gaming £10m, Spreadex £2.022m, ProgressPlay £1m, Videoslots £650k, Betfred retail £825k, Lottomart £360k, Petfre £240k.",
+              "After year-end: Petfre £900k, Evolution Malta £4.75m, QuinnBet £609k, Grosvenor settlement; over 9,700 compliance activities in FY2024/25, more than double."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Illegal market",
+            "takeaway": "The illegal-market strategy now targets payments, advertising and supplier channels, funded by £26m (~$35m) over three years.",
+            "points": [
+              "Sue Young (November 2026) set out targeting services sustaining unlicensed operators rather than only website takedowns.",
+              "Evolution settlement shows the Commission reaches upstream to suppliers; £7m drawn in year one.",
+              "No published FY25/26 illegal-market size estimate (n/a); HMRC post-April receipts show no leakage so far."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "AML focus",
+            "takeaway": "Money laundering is rising up the agenda, with 'preventing crime' second of five priorities ahead of the UK's FATF mutual evaluation.",
+            "points": [
+              "Expect more AML-led licence reviews (Platinum, Spreadex, ProgressPlay, QuinnBet pattern), source-of-funds scrutiny and personal-licence actions.",
+              "Commission operating costs £60.3m in FY24/15, +49%, headcount +11.5%, which historically precedes licensee fee increases."
+            ],
+            "quote": {
+              "text": "a priority for Government",
+              "speaker": "The Commission"
+            }
+          },
+          {
+            "heading": "B2Tech implication",
+            "takeaway": "The regime is predictable but unforgiving; penalties scale to eight figures and the compliant stack is a fixed cost favouring incumbents.",
+            "points": [
+              "LCCP is prescriptive, settlements are published with named failings, and PML holders carry personal exposure.",
+              "Compliance costs raise barriers against low-quality competitors, partly why incumbents' margins have held despite rising tax."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Payments, responsible gambling & advertising",
+        "headline": "Mature card/open-banking rails with a credit-card ban; the strictest player-protection ruleset in Europe tightened again in FY25/26 (stake caps, £150 checks, bonus cap, opt-in marketing).",
+        "narrative": [
+          "Payments in GB are bank- and card-based: debit cards (Visa/Mastercard), open-banking/instant bank transfer, PayPal and Apple/Google Pay dominate deposits; credit cards have been banned for all gambling except the National Lottery since April 2020; cryptocurrency is not an accepted deposit method under Commission AML expectations in practice; there is no mobile-money layer of the kind that drives African markets. Withdrawals must go back to the originating method where possible, and operators must hold customer funds under one of three protection ratings disclosed to customers. Customer funds held by RCBB licensees fell 13.9% to £886.6m (~$1.2bn) at end-March 2026 — a function of lower balances and tighter deposit management rather than fewer accounts. (Payment-rule details here are standing rules not re-verified in this pass.)",
+          "Player protection moved decisively in FY2025/26. Online slot stakes were capped at £5 (~$7) per spin for adults aged 25+ from 9 April 2025 and £2 (~$3) for 18–24s from 21 May 2025; light-touch financial vulnerability checks (public-record checks for bankruptcy, CCJs) apply at £150 (~$201) net monthly deposits (lowered from £500 in February 2025), and the Commission asked all remote licensees in October 2026 to report on their FY25/26 implementation of these checks; a pilot of data-driven 'enhanced financial risk assessments' at higher thresholds is informing whether to make them mandatory. From 31 October 2025 operators must prompt customers to set deposit limits at registration and review them; from 19 December 2025 bonus wagering requirements are capped at 10x and mixed-product promotions (e.g. bet-and-get-casino-spins) are banned; from 1 January 2026 marketing consent must be obtained separately by product and channel. The GAMSTOP national self-exclusion scheme is mandatory, and the Commission has suspended licences for non-participation. The upshot is visible in the data: registrations −3.0%, balances −13.9%, yet casino GGY +15% — concentration of spend among engaged, verified customers rather than breadth. (Thresholds and dates are from the standing rulebook and not re-verified in this pass.)",
+          "Land-based protection is catching up. New category-B gaming machines must carry gambling-management tools and sessional time/win/loss displays, with sessional data available to staff to trigger interactions; sub-stake 'wins' may not be celebrated and features that shorten time-to-result are prohibited; existing machines are exempt and most rules apply from June 2027 after a staged implementation the Commission says was shaped by industry evidence on cost and 'alert fatigue'. Age verification and cashless-payment rules for machines sit alongside.",
+          "Advertising is governed by the CAP/BCAP codes enforced by the ASA (including the 2022 'strong appeal to under-18s' rule), the industry's own Code for Socially Responsible Advertising (whistle-to-whistle TV ban during live sport, 20% safer-gambling messaging), and Commission LCCP rules on fair and transparent marketing. Premier League clubs' voluntary front-of-shirt gambling sponsorship ban applies from the 2026/27 season (standing commitment, not re-verified). The Commission's illegal-market work now explicitly targets advertising and affiliate channels that promote unlicensed sites, and affiliates remain the licensee's responsibility under LCCP. Participation is stable — 47% of adults in the past four weeks in 2025 (27% excluding lottery-only), per the Gambling Survey for Great Britain — and the Commission uses GSGB rather than operator data to judge harm; problem-gambling prevalence figures were not captured in the material read and are n/a here.",
+          "For an entrant, the responsible-gambling stack is both the largest compliance cost and the strongest moat: affordability logic, customer-interaction triggers, product-level consent management, bonus-rule engines and GAMSTOP integration all have to be built before go-live and are audited through compliance assessments. B2Tech's platform would need GB-specific configuration (stake caps by age band, 10x bonus cap, consent granularity, levy and RGD accounting) — the kind of jurisdiction-specific work that only pays back at scale."
+        ],
+        "table": {
+          "note": "Payments & player-protection rules (standing rules unless dated; not all re-verified this pass)",
+          "columns": [
+            "Rule / metric",
+            "Effective",
+            "Note"
+          ],
+          "rows": [
+            {
+              "label": "Credit cards for gambling",
+              "kind": "line",
+              "cells": [
+                "Banned",
+                "Apr 2020",
+                "NL excepted"
+              ]
+            },
+            {
+              "label": "Deposit methods",
+              "kind": "line",
+              "cells": [
+                "Debit card, open banking, PayPal, Apple/Google Pay",
+                "—",
+                "no mobile money; crypto not accepted in practice"
+              ]
+            },
+            {
+              "label": "Customer funds held (RCBB)",
+              "kind": "line",
+              "cells": [
+                "£887m (~$1.2bn), −13.9%",
+                "31 Mar 2026",
+                "protection rating disclosed to customers"
+              ]
+            },
+            {
+              "label": "Online slot stake cap — 25+",
+              "kind": "line",
+              "cells": [
+                "£5 (~$7) per spin",
+                "9 Apr 2025",
+                ""
+              ]
+            },
+            {
+              "label": "Online slot stake cap — 18–24",
+              "kind": "line",
+              "cells": [
+                "£2 (~$3) per spin",
+                "21 May 2025",
+                ""
+              ]
+            },
+            {
+              "label": "Financial vulnerability check trigger",
+              "kind": "line",
+              "cells": [
+                "£150 (~$201) net deposits / month",
+                "28 Feb 2025 (from £500)",
+                "implementation data requested Oct 2026"
+              ]
+            },
+            {
+              "label": "Deposit-limit prompt at registration",
+              "kind": "line",
+              "cells": [
+                "Mandatory",
+                "31 Oct 2025",
+                ""
+              ]
+            },
+            {
+              "label": "Bonus wagering cap / mixed-product promos",
+              "kind": "line",
+              "cells": [
+                "10x max / banned",
+                "19 Dec 2025",
+                ""
+              ]
+            },
+            {
+              "label": "Marketing consent",
+              "kind": "line",
+              "cells": [
+                "Opt-in by product and channel",
+                "1 Jan 2026",
+                ""
+              ]
+            },
+            {
+              "label": "Self-exclusion",
+              "kind": "line",
+              "cells": [
+                "GAMSTOP mandatory",
+                "standing",
+                "licences suspended for non-participation"
+              ]
+            },
+            {
+              "label": "Category-B machine rules",
+              "kind": "line",
+              "cells": [
+                "Session data, design limits, tools",
+                "bulk from Jun 2027",
+                "existing machines exempt"
+              ]
+            },
+            {
+              "label": "Advertising",
+              "kind": "line",
+              "cells": [
+                "CAP/BCAP 'strong appeal'; whistle-to-whistle; PL shirt-front ban",
+                "2022 / 2019 / 2026-27 season",
+                "affiliates are licensee's responsibility"
+              ]
+            },
+            {
+              "label": "Participation past 4 weeks (GSGB 2025)",
+              "kind": "line",
+              "cells": [
+                "47% (27% ex-lottery-only)",
+                "stable",
+                "problem-gambling rate n/a here"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Payments",
+            "takeaway": "Payments are bank- and card-based with credit cards banned since April 2020; customer funds fell 13.9% to £886.6m (~$1.2bn).",
+            "points": [
+              "Debit cards, open-banking, PayPal and Apple/Google Pay dominate; crypto not accepted in practice; no mobile-money layer.",
+              "Withdrawals return to originating method; customer funds held under one of three disclosed protection ratings.",
+              "Fund decline reflects lower balances and tighter deposit management, not fewer accounts; payment rules not re-verified."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Online player protection",
+            "takeaway": "Player protection tightened decisively in FY2025/26: slot caps, £150 (~$201) checks, 10x bonus cap and opt-in marketing consent.",
+            "points": [
+              "Slot stakes capped at £5 (~$7) for 25+ from 9 April 2025 and £2 (~$3) for 18–24s from 21 May 2025.",
+              "£150 net monthly deposit check threshold lowered from £500 in February 2025; October 2026 implementation reports requested; enhanced assessments piloted.",
+              "Deposit-limit prompts from 31 October 2025; 10x wagering cap and mixed-product ban from 19 December 2025; separate consent from 1 January 2026.",
+              "Registrations −3.0%, balances −13.9%, casino GGY +15%: spend concentrating among engaged, verified customers."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Land-based protection",
+            "takeaway": "New category-B machines must carry gambling-management tools and sessional displays, with most rules applying from June 2027.",
+            "points": [
+              "Sessional data available to staff to trigger interactions; sub-stake wins not celebrated; time-to-result shortening features prohibited.",
+              "Existing machines exempt; staged implementation shaped by industry evidence on cost and 'alert fatigue'.",
+              "Age verification and cashless-payment rules for machines sit alongside."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Advertising and participation",
+            "takeaway": "Advertising is governed by CAP/BCAP, ASA, industry code and LCCP; participation stable at 47% of adults in 2025 (27% excluding lottery-only).",
+            "points": [
+              "Whistle-to-whistle TV ban, 20% safer-gambling messaging, 2022 'strong appeal to under-18s' rule.",
+              "Premier League front-of-shirt gambling sponsorship ban from the 2026/27 season (not re-verified).",
+              "Illegal-market work targets advertising and affiliate channels; affiliates remain the licensee's responsibility.",
+              "Commission uses GSGB rather than operator data to judge harm; problem-gambling prevalence n/a."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Entrant implications",
+            "takeaway": "The responsible-gambling stack is both the largest compliance cost and the strongest moat, only paying back at scale.",
+            "points": [
+              "Affordability logic, interaction triggers, consent management, bonus engines and GAMSTOP integration must be built before go-live.",
+              "B2Tech's platform needs GB-specific configuration: age-band stake caps, 10x bonus cap, consent granularity, levy and RGD accounting."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Scale and legal certainty: a £17.5bn (~$23.4bn) GGY market with a single point-of-consumption licence covering England, Scotland and Wales, GGY-based (not turnover) taxation, transparent LCCP rules and no local-ownership or server-localisation requirements — the deepest regulated online pool in Europe.",
+        "tag": "structural"
+      },
+      {
+        "text": "Online casino is compounding: +£736m (~$986m, ≈+15%) to £5.7bn (~$7.6bn), slots £4.8bn, despite stake caps and affordability checks — demand has proven highly resilient to regulation, and early HMRC data show no volume loss after the RGD hike.",
+        "tag": "structural"
+      },
+      {
+        "text": "Supplier/B2B route: gaming-machine technical and gambling-software licences let a platform/content provider monetise the market without carrying 40% RGD on its own P&L; incumbents under margin pressure will seek cheaper, compliant tech and content.",
+        "tag": "structural"
+      },
+      {
+        "text": "Consolidation tailwind: 2,154 operators (−1.1%) and visible exits (BresBet, Bet St George) mean distressed brands, databases and licences may be available cheaply; a 41% statutory take favours acquirers with low-cost platforms.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Retail niches still growing: AGCs +11.3% and premises +32, retail bingo +8.2%, with Bingo Duty abolished from April 2026 (~£24m p.a. relief, est.) and 2:1 machine ratios — for machine-content suppliers a growing addressable estate.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Mature payments and identity infrastructure: debit-card, open-banking and e-wallet rails plus public-record affordability data make KYC/affordability compliance automatable at scale; GAMSTOP and industry data-sharing are already built.",
+        "tag": "structural"
+      },
+      {
+        "text": "Enforcement raises the quality bar: record inspections, supplier liability (Evolution) and illegal-market disruption funded by £26m protect licensed operators' share from unlicensed competition — a benefit to compliant entrants.",
+        "tag": "structural"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Fiscal squeeze: Remote Gaming Duty 21%→40% from 1 April 2026 (est. +£1.1bn p.a. sector-wide) plus a 1.1% levy puts the statutory take on online casino GGY at ~41% before fees; remote betting duty rises 15%→25% from 1 April 2027 (est. +£160m). Headline rates are now among the highest in regulated Europe on a GGY base.",
+        "tag": "structural"
+      },
+      {
+        "text": "The sportsbook pool is shrinking: remote betting GGY £2.4bn with an implied c.−7% decline (with bingo), retail betting −3.3%, betting shops −208 to 5,617 — and the horseracing carve-out skews the 2027 duty rise onto football and other sports.",
+        "tag": "structural"
+      },
+      {
+        "text": "Acquisition is plateauing: new registrations −3.0% (32.4m), customer balances −13.9% (£886.6m); affordability checks at £150/month, deposit-limit prompts, 10x bonus caps and product-level marketing opt-in all raise CAC and lower LTV for a new brand without an existing database.",
+        "tag": "structural"
+      },
+      {
+        "text": "Enforcement and personal exposure: £19.6m of penalties in the year (vs £4.2m prior), AML-led licence reviews, FATF-driven supervision from 2027, and PML-holder sanctions — compliance failures are public, GGY-scaled and career-ending.",
+        "tag": "structural"
+      },
+      {
+        "text": "Political direction is restrictive at every level: Gambling Impact Assessments (Nov 2026), a government review of the 'aim to permit' presumption, new machine standards (Jun 2027), a Commission strategy led by crime prevention, and trade-press speculation of a Machine Games Duty rise at the next Budget — further tightening is more likely than relaxation.",
+        "tag": "watch"
+      },
+      {
+        "text": "Data gaps limit precision: the Commission publishes no operator market shares; the FY25/26 by-duty HMRC split and the current licence-fee schedule were not retrievable in this pass; the National Lottery good-causes figure is internally inconsistent (£1.6bn vs £1.7bn) in the source.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Rising regulator cost base (operating costs +49% to £60.3m in FY24/25, National Lottery litigation ongoing) historically precedes licence-fee increases; the fee burden on top of 40% RGD is an unquantified upside risk to cost of compliance.",
+        "tag": "watch"
+      }
+    ],
+    "forecast": {
+      "intro": "The 'bridge' here is fiscal, not corporate: HMRC collected £3.83bn (~$5.1bn) in FY2025/26 at a 21% RGD rate, and the OBR projects ~£5bn (~$6.7bn) in FY2026/27 rising to ~£6bn (~$8.0bn) by FY2030/31. The driver is almost entirely online casino — the one vertical growing (+£736m in FY25/26) and the one the Budget targeted (RGD to 40%). The moving parts are: (1) RGD at 40% on ~£5.85bn of online casino + bingo GGY (+~£1.1bn p.a. static); (2) the 25% remote-betting rate from April 2027 on ~£1.6bn of non-horse remote betting GGY (+~£160m); (3) Bingo Duty abolition (−~£24m); (4) the behavioural response — promotional cuts, RTP compression, channel shift to retail or unlicensed sites — which the first quarter of receipts (July RGD ≈£590m, +108%) suggests has so far been small. All bridge figures below are our static estimates on FY25/26 bases unless labelled OBR/HMRC.",
+      "bridge": [
+        {
+          "title": "HMRC betting & gaming receipts FY2025/26 (actual, 21% RGD)",
+          "value": "£3.83bn (~$5.1bn)",
+          "change": "+5.9% YoY"
+        },
+        {
+          "title": "+ RGD 21%→40% on ~£5.85bn online casino/bingo GGY (est., static)",
+          "value": "+~£1.1bn (~$1.5bn)",
+          "change": "from 1 Apr 2026"
+        },
+        {
+          "title": "+ Remote betting GBD 15%→25% on ~£1.6bn non-horse GGY (est.); − Bingo Duty abolition (~£24m)",
+          "value": "+~£0.14bn net (~$0.19bn)",
+          "change": "from 1 Apr 2027 / 1 Apr 2026"
+        },
+        {
+          "title": "OBR forecast FY2026/27 → FY2030/31 (secondary citation)",
+          "value": "~£5.0bn → ~£6.0bn",
+          "change": "before any MGD change or behavioural leakage"
+        }
+      ],
+      "view": "Our independent view for the next 12–24 months: **licensed GGY grows 3–5% p.a. (est.), still led by online casino (+8–12% est., decelerating as operators cut bonuses and RTP to protect post-tax margin), with online betting flat-to-down in GGY and retail betting −3–5% p.a.** Operator economics compress sharply — **sector online-casino EBITDA margins fall by high-single-digit points (est.) unless RTP and marketing are cut, which in turn slows GGY growth** — and the long tail consolidates: expect further licence surrenders, white-label exits and asset sales through 2027, and incumbents to re-price affiliates and reduce free-bet intensity ahead of the April 2027 betting-duty rise. **Fiscal risk is still to the upside**: with early receipts up 19% and no visible leakage, the Treasury has every incentive to look at Machine Games Duty and Gaming Duty at the next Budget, and the OBR path (~£5bn FY26/27) already assumes the 2027 betting rate. **Regulatory direction remains tightening but incremental**: the 'aim to permit' consultation and Gambling Impact Assessments will slow AGC and bingo premises growth from 2027; the June 2027 category-B machine standards and any mandatory enhanced financial risk assessments add cost rather than remove revenue; FATF-driven AML supervision will produce larger, more frequent penalties. **Leverage direction for operators: up** — lower cash conversion at 40% RGD will push mid-tier balance sheets toward refinancing or sale. For B2Tech, the base case favours a B2B platform/content entry or an opportunistic acquisition of a distressed licensed brand over a greenfield B2C casino launch; a GB sportsbook-only launch is hard to justify.",
+      "watch": [
+        "1 April 2027: 25% remote-betting rate within General Betting Duty takes effect (Finance Act 2026 s.87) — confirm scope, horseracing carve-out mechanics and any further tweaks in the next Budget.",
+        "Next UK Budget: any change to Machine Games Duty (trade-press speculation) or Gaming Duty bands; OBR's updated betting & gaming duty forecast and HMRC's monthly RGD receipts for evidence of volume leakage after 40%.",
+        "DCMS consultation on the Gambling Act's 'aim to permit' principle (expected after MHCLG's 2 Nov 2026 High Street paper) and the first year of Gambling Impact Assessments — the key swing factor for AGC/bingo premises growth.",
+        "Gambling Commission Corporate Strategy 2027–32 (April 2027) and any associated licence-fee consultation; FATF mutual evaluation timetable and resulting AML licence reviews.",
+        "Outcome of the Commission's October 2026 data request on financial vulnerability checks and the enhanced financial risk assessment pilot — whether higher-threshold checks become mandatory.",
+        "Quarterly Industry Statistics (FY2026/27 Q1–Q2) for the first regulator-reported view of online casino GGY, registrations and customer balances after the RGD rise; next annual statistics due autumn 2027.",
+        "Illegal-market enforcement cadence — payment-blocking, advertising/affiliate takedowns, supplier settlements after Evolution — and any Commission estimate of unlicensed market size.",
+        "Category-B machine rules (bulk effective June 2027) and the Premier League front-of-shirt sponsorship ban (2026/27 season) as leading indicators of land-based cost and marketing-channel constraints.",
+        "Further licence surrenders, administrations and M&A in the online long tail (post BresBet/Bet St George) — potential acquisition targets and read-across on post-tax unit economics."
+      ]
+    },
+    "confidence": "MEDIUM",
+    "confidenceNote": "Core market figures (GGY by sector, premises, operators, accounts, participation) are HIGH confidence — taken directly from the Gambling Commission's Industry Statistics FY2025/26 (official statistics, 17 Sep 2026) and the Commission's 19 Nov 2026 speech, both read in full. Tax changes are HIGH (Commons Library briefing on Finance Act 2026 ss.86–88). HMRC FY25/26 total receipts (£3.83bn) and Apr–Jul 2026 receipts are corroborated across three trade sources citing HMRC's 30 Sep 2026 release, but the FY25/26 split by duty, the current Commission fee schedule and operator market shares could not be retrieved (n/a). The £19.6m/160+ investigations enforcement figures are from a CMS summary of the Commission's enforcement report (secondary). Statutory levy rates, slot stake caps, the £150 FVC threshold, deposit-limit/bonus/marketing dates, standing duty rates (MGD, Gaming Duty, Lottery Duty, Pool Betting) and the shirt-sponsorship ban are from the standing rulebook and were NOT re-verified in this pass — treat as [unverified] for citation purposes. Implied figures (online casino growth %, remote betting decline, lottery GGY, levy yield, duty-change estimates, July RGD back-solve) are our derivations and are labelled as estimates. Source inconsistency flagged: Commission key facts show National Lottery good causes £1.6bn vs £1.7bn in the detailed text. FX: GBP/USD 1.34 applied to all ~USD figures — implied by HMRC/Bloomberg Tax's Sep-2025 conversion (£1.78bn = $2.39bn); a live rate for the 17 Sep 2026 release date could not be retrieved because the web-tool budget was exhausted, so USD equivalents are indicative only.",
+    "sources": [
+      {
+        "label": "Gambling Commission — Industry Statistics, Annual report, Financial year April 2025 to March 2026 (Official statistics), published 17 Sep 2026 [primary; read in full]",
+        "kind": "primary",
+        "url": "https://www.gamblingcommission.gov.uk/statistics-and-research/publication/industry-statistics-annual-report-financial-year-april-2025-to-march-2026-official-statistics"
+      },
+      {
+        "label": "Gambling Commission — Institute of Licensing National Training Conference, Ian Angus (Director of Policy) speech, 19 Nov 2026 [primary; read in full]",
+        "kind": "primary",
+        "url": "https://www.gamblingcommission.gov.uk/news/article/institute-of-licensing-national-training-conference-ian-angus-speech"
+      },
+      {
+        "label": "HMRC — UK Betting and Gaming Statistics (accredited official statistics), updated 30 Sep 2026 with provisional data Aug 2025–Jul 2026 [primary; landing page read]",
+        "kind": "primary",
+        "url": "https://www.gov.uk/government/statistics/uk-betting-and-gaming-statistics"
+      },
+      {
+        "label": "House of Commons Library — Budget 2025: Gambling taxation (CBP-10440): RGD 21%→40% from 1 Apr 2026; 25% remote betting rate from 1 Apr 2027; Bingo Duty abolished; Finance Act 2026 ss.86–88 [primary/official; summary read]",
+        "kind": "primary",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10440/"
+      },
+      {
+        "label": "Office for Budget Responsibility — Betting and gaming duties (forecast in depth) [primary; snippet]",
+        "kind": "primary",
+        "url": "https://obr.uk/forecasts-in-depth/tax-by-tax-spend-by-spend/betting-gaming-duties/"
+      },
+      {
+        "label": "Gambling Commission — Annual report and accounts 2024 to 2025, Foreword (24 operators, £4.2m, 9,700 compliance activities) [primary; snippet]",
+        "kind": "primary",
+        "url": "https://www.gamblingcommission.gov.uk/manual/annual-report-and-accounts-2024-to-2025/annual-report-2024-to-2025-foreword"
+      },
+      {
+        "label": "Gambling Commission — Licensing, compliance and enforcement under the Gambling Act 2005 (policy statement, March 2026) [primary; title/snippet only]",
+        "kind": "primary",
+        "url": "https://www.gamblingcommission.gov.uk/policy/licensing-compliance-and-enforcement-under-the-gambling-act-2005"
+      },
+      {
+        "label": "Focus Gaming News — UK gambling premises inspections rise 29% as enforcement ramps up (24 Nov 2026) [lead article; secondary]",
+        "kind": "secondary",
+        "url": "https://focusgn.com/uk-gambling-inspections-enforcement-rise"
+      },
+      {
+        "label": "Gambling.com — Council gambling inspections rise 29% in 2025/26 [secondary]",
+        "kind": "secondary",
+        "url": "https://www.gambling.com/uk/news/council-gambling-inspections-rose-last-year"
+      },
+      {
+        "label": "iGaming Express — British gambling premises inspections rise [secondary]",
+        "kind": "secondary",
+        "url": "https://igamingexpress.com/british-gambling-premises-inspections-rise/"
+      },
+      {
+        "label": "Casino.com — Council gambling inspections rise 29% as UK regulator steps up action on illegal venues [secondary]",
+        "kind": "secondary",
+        "url": "https://www.casino.com/news/industry/council-gambling-inspections-rise-29-as-uk-regulator-steps-up-action-on-illegal-venues/"
+      },
+      {
+        "label": "Casino.com — UK betting and gaming duties reach record £3.83bn in 2025/26 (citing HMRC) [secondary]",
+        "kind": "secondary",
+        "url": "https://www.casino.com/news/industry/uk-betting-and-gaming-duties-reach-record-3-83bn-in-2025-26/"
+      },
+      {
+        "label": "Gambling.com — UK Remote Gaming Duty now half of all gambling tax receipts (HMRC Apr–Jul 2026) [secondary]",
+        "kind": "secondary",
+        "url": "https://www.gambling.com/uk/news/uk-remote-gaming-duty-now-half-of-all-gambling-tax-receipts"
+      },
+      {
+        "label": "NEXT.io — UK remote gaming tax receipts up by 108% (July 2026 RGD) [secondary]",
+        "kind": "secondary",
+        "url": "https://next.io/news/regulation/uk-remote-gaming-tax-up-108pc-did-hike-work/"
+      },
+      {
+        "label": "SBC News — HMRC stats create new talking point in gambling tax battle (MGD speculation) [secondary]",
+        "kind": "secondary",
+        "url": "https://sbcnews.co.uk/retail/2026/10/05/hmrc-gambling-tax/"
+      },
+      {
+        "label": "Focus Gaming News — Strong rise in UK gambling tax collections casts doubt on industry arguments [secondary]",
+        "kind": "secondary",
+        "url": "https://focusgn.com/uk-gambling-tax-figures-rise-casting-doubt-on-industry-arguments"
+      },
+      {
+        "label": "Bloomberg Tax — Online gaming spurs rise in UK betting and gaming duties (RGD £1.16bn FY24/25; £/$ conversion) [secondary]",
+        "kind": "secondary",
+        "url": "https://news.bloombergtax.com/daily-tax-report/online-gaming-spurs-spike-in-uk-betting-and-gaming-duties"
+      },
+      {
+        "label": "CMS Law — Autumn Budget 2025: gambling duties, 'in-person good, remote bad' [secondary]",
+        "kind": "secondary",
+        "url": "https://cms.law/en/gbr/legal-updates/autumn-budget-2025-gambling-duties-in-person-good-remote-bad"
+      },
+      {
+        "label": "CMS Law — Gambling Commission's Enforcement Report (160+ investigations, £19.6m penalty packages) [secondary]",
+        "kind": "secondary",
+        "url": "https://cms.law/en/gbr/legal-updates/gambling-commission-s-enforcement-report"
+      },
+      {
+        "label": "CMS Law — Gambling Commission enforcement, Autumn 2026 (QuinnBet, Grosvenor) [secondary]",
+        "kind": "secondary",
+        "url": "https://cms.law/en/gbr/legal-updates/gambling-commission-enforcement-autumn-2026"
+      },
+      {
+        "label": "NEXT.io — Gambling Commission costs surge 49% amid National Lottery legal battle [secondary]",
+        "kind": "secondary",
+        "url": "https://next.io/news/regulation/ukgc-costs-surge-lottery-legal-battle/"
+      },
+      {
+        "label": "Lexology — Gambling operators hit by flurry of Gambling Commission regulatory action (2025 cases) [secondary]",
+        "kind": "secondary",
+        "url": "https://www.lexology.com/library/detail.aspx?g=39766821-d3d7-44cb-9427-1d4445a60c46"
+      },
+      {
+        "label": "Everything Edinburgh — Gambling Commission fines 2026: enforcement data (Trust Statement figures; BresBet/Bet St George) [secondary]",
+        "kind": "secondary",
+        "url": "https://everythingedinburgh.com/games/casino/blog/gambling-commission-fines-2026/"
+      },
+      {
+        "label": "Focus Gaming News — UK Gambling Commission widens crackdown on illegal operators (Sue Young) [secondary]",
+        "kind": "secondary",
+        "url": "https://focusgn.com/uk-illegal-gambling-enforcement"
+      },
+      {
+        "label": "Focus Gaming News — Commission warns of escalating enforcement for breaches of regulatory returns rules [secondary]",
+        "kind": "secondary",
+        "url": "https://focusgn.com/gambling-commission-warns-of-escalating-enforcement-action-for-breaches-of-new-regulatory-returns-rules"
+      },
+      {
+        "label": "Institute of Licensing — Gambling Commission highlights enforcement action, industry data and regulatory updates (FVC data request Oct 2026) [secondary]",
+        "kind": "secondary",
+        "url": "https://instituteoflicensing.org/network-news/gambling-commission-highlights-enforcement-action-industry-data-and-regulatory-updates/"
+      },
+      {
+        "label": "InterGame — 'Sustained period of change' – Commission director [secondary]",
+        "kind": "secondary",
+        "url": "https://www.intergameonline.com/land-based-gaming/news/sustained-period-of-change-commission-director"
+      },
+      {
+        "label": "Data-confidence note: MEDIUM overall — regulator GGY/structure figures HIGH; HMRC by-duty FY25/26 split, licence-fee schedule, operator shares and illegal-market size n/a; standing RG/payment rules and levy rates not re-verified this pass; FX 1.34 assumed.",
+        "kind": "secondary"
+      }
+    ],
+    "docType": "regulator"
+  }
+}
