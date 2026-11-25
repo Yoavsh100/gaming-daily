@@ -5547,29 +5547,121 @@
   },
   {
     "key": "bally s intralot s a|9M 2026",
-    "attempts": 1,
-    "lastAttempt": "2026-11-24T00:27:53.442Z",
-    "status": "failed",
-    "error": "{\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011ChLogwWWbuiUTzinZUkrr\"}",
+    "attempts": 2,
+    "lastAttempt": "2026-11-24T23:02:07.826Z",
+    "status": "done",
+    "error": null,
     "type": "company",
     "company": {
       "name": "Bally's Intralot S.A.",
-      "ticker": "INLOT"
+      "ticker": "INLOT",
+      "exchange": ""
     },
-    "period": "9M 2026"
+    "period": "9M 2026",
+    "slug": "INLOT-9M-2026",
+    "published": "2026-11-24",
+    "verdict": "A decent operating quarter wrapped around a bad guidance quarter. UK online grew 12.2% cc to a third straight record NGR with less marketing, Q3 AEBITDA rose 5.1% QoQ to €88.9m (~$97.5m) and the margin recovered 50bps to 31.1% — but management cut FY26 AEBITDA guidance for the second time in three months to €380–395m (~$417–433m) from €402–415m (and ~€422m originally), because the 40% UK remote gaming duty is still only ~55% offset, UK consolidation is \"slower than I expected\" and US lottery is soft. Pro forma leverage drifted to 4.33x into the January 2027 evoke close, and the implied Q4 (€106–121m vs €88.9m in Q3) looks stretched.",
+    "kpis": [
+      {
+        "label": "9M-26 revenue",
+        "value": "€830.3m (~$911m)",
+        "delta": "+215% YoY reported (BII consolidated from 8 Oct-25); Q3 €286.1m, +3.6% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 adj. EBITDA",
+        "value": "€273.6m (~$300m)",
+        "delta": "33.0% margin (−120bps YoY); −14.7% vs 9M25 pro forma €320.8m",
+        "dir": "down"
+      },
+      {
+        "label": "Q3-26 adj. EBITDA",
+        "value": "€88.9m (~$97.5m)",
+        "delta": "+5.1% QoQ; margin 31.1% (+50bps QoQ, −540bps YoY)",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 net loss (NIATMI)",
+        "value": "−€40.9m (~−$45m)",
+        "delta": "vs −€3.1m; €109.7m net finance cost, €27.7m deal fees, €38.2m PPA",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. net debt / PF leverage",
+        "value": "€1,629.9m (~$1.79bn) / 4.33x",
+        "delta": "+€136m YTD, flat QoQ; leverage up from 4.05x at Q2",
+        "dir": "down"
+      },
+      {
+        "label": "FY26 AEBITDA guidance",
+        "value": "€380–395m (~$417–433m)",
+        "delta": "cut from €402–415m (Aug) and ~€422m (Mar/May) — 2nd cut",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "20 Nov 2026 (final 9M results; preliminary results 10 Nov 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 8.24
   },
   {
     "key": "galaxy gaming|Q3 2026",
-    "attempts": 1,
-    "lastAttempt": "2026-11-24T00:30:12.518Z",
-    "status": "failed",
-    "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011ChLosBn3B62dmLKAaoKyx\"}",
+    "attempts": 2,
+    "lastAttempt": "2026-11-24T23:22:54.916Z",
+    "status": "done",
+    "error": null,
     "type": "company",
     "company": {
       "name": "Galaxy Gaming",
-      "ticker": "GLXZ"
+      "ticker": "GLXZ",
+      "exchange": ""
     },
-    "period": "Q3 2026"
+    "period": "Q3 2026",
+    "slug": "GLXZ-Q3-2026",
+    "published": "2026-11-24",
+    "verdict": "A clean recurring-revenue quarter wrapped in a messy P&L: recurring revenue net of royalties hit a record $7.96m (+9.7% YoY, 99.9% of sales) and Core recurring accelerated to +11.4%, but adj. EBITDA was flat at $3.22m (margin -380bps YoY to 40.4%) on G2E timing and bonus accruals, and the $5.1m / $0.20 GAAP profit is almost entirely the $5.2m Evolution break fee. Deleveraging (2.75x) and a first $1.7m capital return are real; Digital's -4.2% sequential dip on a 31% royalty take, 32% top-two customer concentration into a 2027 contract roll, and a Jan-2028 debt maturity keep this a show-me microcap now that the $3.20 take-out is gone.",
+    "kpis": [
+      {
+        "label": "Revenue (GAAP)",
+        "value": "$7.98m",
+        "delta": "+8.9% YoY / +0.5% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Recurring revenue, net of royalties",
+        "value": "$7.96m (record)",
+        "delta": "+9.7% YoY; 99.9% of revenue",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA (non-GAAP)",
+        "value": "$3.22m",
+        "delta": "-0.5% YoY; margin 40.4% (-380bps)",
+        "dir": "down"
+      },
+      {
+        "label": "Net income / diluted EPS (GAAP)",
+        "value": "$5.13m / $0.20",
+        "delta": "vs $1.04m / $0.04 (incl. $5.2m break fee)",
+        "dir": "up"
+      },
+      {
+        "label": "Free cash flow (non-GAAP)",
+        "value": "$1.43m",
+        "delta": "+8.7% YoY; 44.5% of adj. EBITDA",
+        "dir": "up"
+      },
+      {
+        "label": "Leverage (gross debt / TTM adj. EBITDA)",
+        "value": "2.75x",
+        "delta": "vs 2.79x Q2-26, 3.22x Q3-25",
+        "dir": "down"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "9 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.56
   },
   {
     "key": "loterie nationale du b nin|9M 2026",
@@ -5622,5 +5714,241 @@
       "ticker": "FLL"
     },
     "period": "Q3 2026"
+  },
+  {
+    "key": "emb mission bound|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-24T22:50:25.460Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "EMB-MISSION-BOUND-Q3-2026",
+    "published": "2026-11-24",
+    "company": {
+      "name": "EMB Mission Bound",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A genuinely better quarter on mix — service fees +69% and technology access fees +132% more than replaced a royalty book that is now 74% smaller — but the SEK 23.6m (~$2.30m) reported EBITDA and \"+1,360%\" headline are flattered by a SEK 4.9m (~$0.48m) provision reversal this year and SEK 8.6m (~$0.84m) of redundancy costs in the base; like-for-like EBITDA was SEK 18.6m (~$1.82m), +83%, at a 36.1% margin. The two things a PM should actually price are the SEK 39.3m (~$3.84m) receivables build (DSO ~70 days vs 8 a year ago, Q3 cash conversion 32%) and the share-settled MegaBet Plus deal that will add roughly a fifth to the share count at today's price.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "SEK 51.7m (~$5.05m)",
+        "delta": "+28% YoY / +11% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Reported EBITDA / margin",
+        "value": "SEK 23.6m (~$2.30m) / 45.6%",
+        "delta": "vs SEK 1.6m (4.0%) Q3-25; incl. SEK 4.9m one-off",
+        "dir": "up"
+      },
+      {
+        "label": "Underlying EBITDA / margin",
+        "value": "SEK 18.6m (~$1.82m) / 36.1%",
+        "delta": "+83% vs SEK 10.2m ex-redundancy; +1,080bp",
+        "dir": "up"
+      },
+      {
+        "label": "Net profit / EPS",
+        "value": "SEK 15.1m (~$1.48m) / SEK 0.05 (~$0.005)",
+        "delta": "vs loss SEK 5.3m / SEK (0.02)",
+        "dir": "up"
+      },
+      {
+        "label": "Operating cash flow (Q3-26)",
+        "value": "SEK 7.5m (~$0.73m)",
+        "delta": "-9% YoY / -64% QoQ; 32% of EBITDA",
+        "dir": "down"
+      },
+      {
+        "label": "Cash (no bank debt)",
+        "value": "SEK 24.0m (~$2.35m)",
+        "delta": "+77% YoY; IFRS16 leases SEK 33.4m",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "20 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.35
+  },
+  {
+    "key": "juris|chile|2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-24T23:35:07.469Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "CHILE-2026",
+    "published": "2026-11-24",
+    "company": {
+      "name": "Chile",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "2026",
+    "verdict": "Chile in late-2026 is two markets moving in opposite directions: a mature, SCJ-regulated land-based casino sector shrinking in real terms (9M-26 GGR CLP 401.9bn / ~$395m, -7.9% real for the 22 concession casinos; visits -11%) and a large, wholly unlicensed online market that the courts, Subtel and the tax authority are now squeezing (79 domains DNS-blocked since September; 19% VAT levied on offshore gaming margin with no licence attached). The Senate Economy Committee voted 3-1 on 9 Nov 2026 to replace the government's licensing bill with a ban or a Polla/Lotería monopoly, while the Kast government counters with a 22%-of-GGR licence regime and a total advertising and bonus ban; the choice between those two paths, due to start being resolved at the committee vote on 1 Dec 2026, is the single swing factor for any entrant.",
+    "kpis": [
+      {
+        "label": "Casino GGR 9M-26 (25 venues)",
+        "value": "CLP 401.9bn (~$395m)",
+        "delta": "-7.9% real YoY (22 Ley 19.995 casinos)",
+        "dir": "down"
+      },
+      {
+        "label": "Casino taxes devengados 9M-26",
+        "value": "CLP 141.3bn (~$139m)",
+        "delta": "-8.5% real YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Casino visits 9M-26 (22 venues)",
+        "value": "4.07m",
+        "delta": "-11.3% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Licensed online operators",
+        "value": "0",
+        "delta": "39 offshore sites VAT-registered with SII (25 in Jul-26)",
+        "dir": "up"
+      },
+      {
+        "label": "Domains DNS-blocked by Subtel",
+        "value": "79",
+        "delta": "42 (1 Sep) + 37 (21 Sep 2026)",
+        "dir": "up"
+      },
+      {
+        "label": "Proposed online tax",
+        "value": "22% of GGR",
+        "delta": "Gov't Nov-26 vs 20% + 1% RG in Senate text",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "24 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.78
+  },
+  {
+    "key": "juris|mississippi|OCTOBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-24T23:49:45.148Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "MISSISSIPPI-OCTOBER-2026",
+    "published": "2026-11-25",
+    "company": {
+      "name": "Mississippi",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "OCTOBER 2026",
+    "verdict": "Mississippi remains a $2.4bn-a-year, 100% land-based, low-tax (≈12% of GGR) casino market that is flat at the top line and structurally leaking sports-betting demand to mobile-enabled neighbours: October AGGR was $198.4m (-0.2% YoY; YTD -0.7%) while retail sports handle fell for a 15th straight month to $36.2m (-7.8%). The 2026 session once again saw the House pass statewide mobile wagering (100–11) and the Senate kill it in committee; with 2027 an election year and the Lt Governor publicly opposed, the operator read-through is a stable but ex-growth retail franchise with a binary, politically gated mobile option.",
+    "kpis": [
+      {
+        "label": "Casino AGGR (Oct-26)",
+        "value": "$198.4m",
+        "delta": "-0.2% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Casino AGGR YTD (Jan–Oct 26)",
+        "value": "$2,015.5m",
+        "delta": "-0.7% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Sports handle (Oct-26)",
+        "value": "$36.2m",
+        "delta": "-7.8% YoY; 15th straight decline",
+        "dir": "down"
+      },
+      {
+        "label": "Sports taxable revenue (Oct-26)",
+        "value": "$5.25m",
+        "delta": "+27.7% YoY; hold 14.5%",
+        "dir": "up"
+      },
+      {
+        "label": "Gulf Coast share of AGGR",
+        "value": "67.1%",
+        "delta": "+0.6pp YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Effective gaming tax",
+        "value": "≈12% of GGR",
+        "delta": "no change (11.8% effective CY25)",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "c. 18–19 Nov 2026 (Mississippi Gaming Commission October 2026 monthly reports; press coverage 19–24 Nov 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.99
+  },
+  {
+    "key": "juris|lithuania|2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-25T00:13:32.248Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "LITHUANIA-2026",
+    "published": "2026-11-25",
+    "company": {
+      "name": "Lithuania",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "2026",
+    "verdict": "Lithuania's regulated gambling market is compounding at mid-teens rates — 9M-26 GGR €229m (~$250.5m), +14% — almost entirely on online slots, with remote now 78% of GGR and retail shrinking 6.5%. But the state is about to take a much larger cut and a much tighter grip: a 22%→36% progressive GGR tax proposed from July 2027, a full advertising ban from January 2028 and a mandatory player card with cashless venues from 2029. The commercial window is real but narrowing, and it belongs to scale incumbents; for a newcomer the only credible routes are acquisition of a licensee or B2B supply.",
+    "kpis": [
+      {
+        "label": "9M-26 gambling GGR",
+        "value": "€229m (~$250.5m)",
+        "delta": "+14% YoY (vs €200.5m)",
+        "dir": "up"
+      },
+      {
+        "label": "Remote (online) GGR",
+        "value": "€179.0m (~$195.8m)",
+        "delta": "+21.8% YoY; 78% of market",
+        "dir": "up"
+      },
+      {
+        "label": "Land-based GGR",
+        "value": "€50.0m (~$54.7m)",
+        "delta": "−6.5% YoY; 22% of market",
+        "dir": "down"
+      },
+      {
+        "label": "Remote Cat A slots GGR",
+        "value": "€131.6m (~$144.0m)",
+        "delta": "+~30% YoY; 57% of all GGR",
+        "dir": "up"
+      },
+      {
+        "label": "Gambling & lottery tax collected",
+        "value": "€74.19m (~$81.2m)",
+        "delta": "+15% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Headline gambling tax (GGR base)",
+        "value": "22%",
+        "delta": "22/29/36% progressive proposed from Jul-27",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "23 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.85
   }
 ]

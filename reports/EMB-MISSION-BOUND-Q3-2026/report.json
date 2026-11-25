@@ -1,0 +1,1317 @@
+{
+  "company": {
+    "name": "EMB Mission Bound",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "Q3 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 1803676,
+    "output": 51336,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 60,
+    "cacheRead": 1695045,
+    "cacheWrite": 108571,
+    "turns": 1
+  },
+  "prepared": "24 Nov 2026",
+  "report": {
+    "releaseDate": "20 Nov 2026",
+    "currency": "SEK (tables in SEK m; ~USD m in brackets at USD/SEK 10.23 as of 20 Nov 2026)",
+    "verdict": "A genuinely better quarter on mix — service fees +69% and technology access fees +132% more than replaced a royalty book that is now 74% smaller — but the SEK 23.6m (~$2.30m) reported EBITDA and \"+1,360%\" headline are flattered by a SEK 4.9m (~$0.48m) provision reversal this year and SEK 8.6m (~$0.84m) of redundancy costs in the base; like-for-like EBITDA was SEK 18.6m (~$1.82m), +83%, at a 36.1% margin. The two things a PM should actually price are the SEK 39.3m (~$3.84m) receivables build (DSO ~70 days vs 8 a year ago, Q3 cash conversion 32%) and the share-settled MegaBet Plus deal that will add roughly a fifth to the share count at today's price.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "SEK 51.7m (~$5.05m)",
+        "delta": "+28% YoY / +11% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Reported EBITDA / margin",
+        "value": "SEK 23.6m (~$2.30m) / 45.6%",
+        "delta": "vs SEK 1.6m (4.0%) Q3-25; incl. SEK 4.9m one-off",
+        "dir": "up"
+      },
+      {
+        "label": "Underlying EBITDA / margin",
+        "value": "SEK 18.6m (~$1.82m) / 36.1%",
+        "delta": "+83% vs SEK 10.2m ex-redundancy; +1,080bp",
+        "dir": "up"
+      },
+      {
+        "label": "Net profit / EPS",
+        "value": "SEK 15.1m (~$1.48m) / SEK 0.05 (~$0.005)",
+        "delta": "vs loss SEK 5.3m / SEK (0.02)",
+        "dir": "up"
+      },
+      {
+        "label": "Operating cash flow (Q3-26)",
+        "value": "SEK 7.5m (~$0.73m)",
+        "delta": "-9% YoY / -64% QoQ; 32% of EBITDA",
+        "dir": "down"
+      },
+      {
+        "label": "Cash (no bank debt)",
+        "value": "SEK 24.0m (~$2.35m)",
+        "delta": "+77% YoY; IFRS16 leases SEK 33.4m",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**Revenue beat its own trajectory, not a consensus (there is none):** Q3-26 revenue SEK 51.7m (~$5.05m), +28% YoY and +11% QoQ, following SEK 38.6m in Q1 and SEK 46.4m in Q2; 9M revenue SEK 136.6m (~$13.4m), +9% after a flat H1. EMB has no sell-side coverage and issues no numerical guidance, so the reference points are the company's own run-rate and the Q4-25 base of SEK 40.5m (~$3.96m).",
+      "**The headline '+1,360% EBITDA' is a base-effect artefact — strip both one-offs:** reported EBITDA SEK 23.6m (~$2.30m, 45.6% margin) vs SEK 1.6m (4.0%) in Q3-25. Q3-26 includes a SEK 4.9m (~$0.48m) reversal of a Taiwan office restoration provision; Q3-25 carried SEK 8.6m (~$0.84m) of redundancy costs. Like-for-like EBITDA was SEK 18.6m (~$1.82m) vs SEK 10.2m (~$1.00m), +83%, with margin +1,080bp to 36.1% (and +480bp QoQ vs 31.3%).",
+      "**Net profit SEK 15.1m (~$1.48m), EPS SEK 0.05 (~$0.005)** vs a SEK 5.3m loss / SEK (0.02) a year ago and SEK 7.3m / SEK 0.02 in Q2; 9M profit SEK 27.5m (~$2.69m) vs a SEK 3.7m loss. Operating income SEK 16.8m (~$1.65m, 32.6% margin) vs a SEK 5.3m loss. Tax charge only SEK 0.2m — retained losses still SEK 118.6m, so cash taxes stay negligible.",
+      "**Which 'division' drove it — the two platform streams, at the expense of royalties:** service fees +69% YoY to SEK 32.6m (~$3.18m, 63% of revenue) and technology access fees +132% to SEK 15.3m (~$1.50m, 30%) together grew SEK 22.0m, more than offsetting a SEK 10.6m (-74%) collapse in game-licensing royalties to SEK 3.8m (~$0.37m, 7%). On a 9M basis royalties are down SEK 48.0m (-76%); the Lady Luck Games content business that was 50% of revenue a year ago is now 11%.",
+      "**Revenue-quality caveat management itself flags:** technology access fees are 'fixed income received in advance' recognised at a point in time when access is granted. Q3's SEK 15.3m came from one new customer (SEK 14.9m of it booked in Asia), so ~30% of the quarter is a single, non-recurring recognition event. Contract liabilities (prepaid access fees) were only SEK 3.5m (~$0.35m) at 30 Sep vs SEK 1.7m at 30 Jun — a modest forward indicator for Q4.",
+      "**Geography — Asia carried the quarter, 'Others' carried the year:** Asia revenue SEK 34.5m (~$3.37m), +8% YoY, +33% QoQ, 67% of group; 9M Asia -6.5% as royalties fell SEK 34.6m. Rest-of-world ('Others') SEK 17.2m (~$1.68m), +107% YoY, -16% QoQ, with service fees up ~4x to SEK 14.7m; 9M Others +38% to SEK 60.6m (~$5.92m), 44% of group. EMB discloses no end-market licensing detail for its Asian customers [regulatory status unverified].",
+      "**Customer concentration is improving but remains a single-point-of-failure risk:** the top two customers were 48% of 9M revenue (27% / 21%) vs 71% (33% / 38%) in 9M-25 and 54% (31% / 23%) in H1-26 — i.e. Q3 added revenue outside the top two.",
+      "**Cost base — 2025 restructuring is paying off, but underlying costs are now rising:** total opex SEK 34.8m (~$3.40m), -24% YoY. Personnel SEK 23.1m (~$2.26m), -20% reported but +SEK 2.6m (+13%) ex-redundancy on a 25% YoY headcount increase; other opex SEK 4.9m, -44% reported but +SEK 1.0m (+11%) ex-reversal. The 2025 restructuring program booked SEK 12.4m (~$1.21m) of redundancy costs in 9M-25 (SEK 8.6m in Q3-25); no quantified savings target or end-year was ever disclosed [FY25 total unverified]. Personnel is 44.8% of revenue vs 51.0% underlying a year ago.",
+      "**Cash conversion was the weak spot:** Q3 operating cash flow SEK 7.5m (~$0.73m), -9% YoY and -64% QoQ, only 32% of EBITDA, after a SEK 12.5m working-capital outflow into receivables. Trade receivables stand at SEK 39.3m (~$3.84m) — 76% of quarterly revenue, DSO ~70 days vs ~53 in Q2 and ~8 a year ago, and up from SEK 21.1m at Dec-25. 9M CFO SEK 35.9m (~$3.51m), +38%; 9M free cash flow after capitalised development, capex and lease payments SEK 19.1m (~$1.87m) vs SEK 5.8m.",
+      "**Balance sheet is clean but IFRS16-heavy:** cash SEK 24.0m (~$2.35m), +77% YoY and up from SEK 4.6m at Dec-25; no bank borrowings. Lease liabilities SEK 33.4m (~$3.26m), more than doubled from SEK 15.8m at Dec-25 after new Thailand and two Taiwan offices (SEK 12.2m ROU asset added in Q3). Net debt including leases SEK 9.4m (~$0.92m), ~0.14x LTM EBITDA. Equity SEK 73.7m (~$7.20m), +97% YoY. No dividend, no buyback.",
+      "**MegaBet Plus — the post-period strategic event (21 Oct):** agreement to buy 51% of Cleverpath Holdings Ltd (Cyprus; Class A retail licence across 200+ locations and Class B online licence from the National Betting Authority) for a preliminary EUR 4.1m (~SEK 45.6m / ~$4.46m): EUR 3.0m for the equity and EUR 1.1m for the Class A/B NBA bonds. Settlement is 100% in new EMB shares via promissory-note set-off at the 30-day VWAP before closing; completion expected Q1-27 subject to Cyprus NBA approval. The target reported FY24 EBITDA ~EUR 1.77m (~SEK 19.7m / ~$1.92m) and net profit ~EUR 0.33m (~SEK 3.7m); FY25 accounts are still under audit.",
+      "**Deal arithmetic — cheap on paper, dilutive in practice:** EUR 3.0m for 51% implies ~EUR 5.9m for 100% of the equity, ~3.3x FY24 EBITDA. But at SEK 0.59 the SEK 45.6m consideration equals ~77m new shares, ~21% of the enlarged 374m share count — and because the price is fixed in EUR, dilution rises if the stock falls into closing. The seller's put over a further 39% at EUR 2.67m (~SEK 29.7m / ~$2.90m), exercisable 12–15 months post-close in cash and/or shares, could add ~50m more shares at today's price. EMB has also lent the target EUR 300k (~SEK 3.3m), due 21 Apr 2027.",
+      "**Strategy read-through — from slots supplier to platform partner to operator-owner:** the 2025 pivot (EMB RGS platform, Confetti Group asset purchase settled with 10.4m shares in Apr-25, AI-enabled tooling) has now delivered three consecutive quarters of sequential growth. MegaBet is a step-change in risk profile: asset-light B2B economics give way to retail sportsbook operations in a small, competitive regulated market with a 49% minority partner.",
+      "**Management is emphasising the growth rates and burying the quality questions:** the release leads with +28% / +1,360% / +385% and, to its credit, shows ex-one-off EBITDA. Less prominent: the receivables build (one sentence in the CEO letter), the single-customer nature of the Q3 access fee, the 48% concentration (note 2 only), the 25% headcount growth, and the fact that the MegaBet share count and dilution 'cannot be determined at this time'.",
+      "**Governance and disclosure hygiene:** interim report not reviewed by the auditors; no financial guidance; CEO Chi Ho Li, Executive Chairman Calvin Lim (re-elected June 2026); Certified Adviser Corpura Fondkommission; 297.0m shares outstanding, unchanged YoY. A SEK 10.7m (~$1.04m) equity-accounted associate sits on the balance sheet with a SEK 4.7m 9M-25 loss now reduced to SEK 21k [associate identity not disclosed in the interim].",
+      "**Valuation arithmetic (not a recommendation):** market cap ~SEK 175m (~$17m) at SEK 0.59; LTM revenue SEK 177m (~$17.3m), LTM reported EBITDA SEK 66.3m (~$6.48m, incl. the 4.9m one-off), LTM net profit SEK 36.4m (~$3.56m) — roughly 2.8x EV/LTM EBITDA (leases included) and ~4.8x LTM P/E. The discount prices in micro-cap illiquidity (avg ~130k shares/day), concentration, point-in-time revenue, Asian end-market opacity and pending dilution.",
+      "**Share price:** ~+2% to SEK 0.59 (~$0.058) on results day per Yahoo quote data [day-move partially unverified], after SEK 0.522 on 17 Nov; by the morning of 24 Nov the stock was 3.4% lower at SEK 0.57 (Gaming Intelligence). Still ~40% below the 52-week high of SEK 0.96 and -37% over 12 months.",
+      "**Bottom line for the thesis:** the quarter validates that the service business can compound sequentially (SEK 28.8m → 29.6m → 32.6m across Q1–Q3) and that the cost base is sized for 30%+ underlying margins. What it does not yet prove is cash durability — Q4 must show the receivables unwinding — or that tech access fees are repeatable rather than a series of one-offs. MegaBet will decide whether 2027 is a story about an operator or a platform."
+    ],
+    "groupTable": {
+      "note": "SEK m (~USD m)",
+      "columns": [
+        "Q3-26",
+        "QoQ",
+        "YoY",
+        "9M-26",
+        "9M YoY"
+      ],
+      "rows": [
+        {
+          "label": "Revenue by stream",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Technology access fees",
+          "indent": true,
+          "cells": [
+            "15.3 (~$1.50m)",
+            "+29%",
+            "+132%",
+            "30.9 (~$3.02m)",
+            "+140%"
+          ]
+        },
+        {
+          "label": "Service fees",
+          "indent": true,
+          "cells": [
+            "32.6 (~$3.18m)",
+            "+10%",
+            "+69%",
+            "90.9 (~$8.89m)",
+            "+84%"
+          ]
+        },
+        {
+          "label": "Royalties (game licensing)",
+          "indent": true,
+          "cells": [
+            "3.8 (~$0.37m)",
+            "-23%",
+            "-74%",
+            "14.8 (~$1.45m)",
+            "-76%"
+          ]
+        },
+        {
+          "label": "Total revenue",
+          "kind": "emphasis",
+          "cells": [
+            "51.7 (~$5.05m)",
+            "+11%",
+            "+28%",
+            "136.6 (~$13.4m)",
+            "+9.2%"
+          ]
+        },
+        {
+          "label": "Revenue by customer location",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Asia",
+          "indent": true,
+          "cells": [
+            "34.5 (~$3.37m)",
+            "+33%",
+            "+7.8%",
+            "76.0 (~$7.43m)",
+            "-6.5%"
+          ]
+        },
+        {
+          "label": "Others (rest of world)",
+          "indent": true,
+          "cells": [
+            "17.2 (~$1.68m)",
+            "-16%",
+            "+107%",
+            "60.6 (~$5.92m)",
+            "+38%"
+          ]
+        },
+        {
+          "label": "Operating costs",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Personnel costs",
+          "indent": true,
+          "cells": [
+            "23.1 (~$2.26m)",
+            "+5.4%",
+            "-20%",
+            "64.5 (~$6.30m)",
+            "-10%"
+          ],
+          "footnote": "Q3-25 / 9M-25 include SEK 8.6m / 12.4m redundancy costs; ex-redundancy Q3 +13% YoY on +25% headcount"
+        },
+        {
+          "label": "Other operating expenses",
+          "indent": true,
+          "cells": [
+            "4.9 (~$0.48m)",
+            "-50%",
+            "-44%",
+            "22.1 (~$2.16m)",
+            "-30%"
+          ],
+          "footnote": "Q3-26 includes SEK 4.9m one-off provision reversal; ex-reversal +11% YoY"
+        },
+        {
+          "label": "Amortisation, depreciation & impairment",
+          "indent": true,
+          "cells": [
+            "6.7 (~$0.66m)",
+            "-11%",
+            "-2.6%",
+            "20.9 (~$2.05m)",
+            "+5.4%"
+          ]
+        },
+        {
+          "label": "Share of associate (gain)/loss",
+          "indent": true,
+          "cells": [
+            "(0.0)",
+            "vs 0.03",
+            "vs 0.68",
+            "0.02",
+            "vs 4.67"
+          ]
+        },
+        {
+          "label": "Profitability",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "EBITDA (reported)",
+          "kind": "emphasis",
+          "cells": [
+            "23.6 (~$2.30m)",
+            "+62%",
+            "+1,360%",
+            "50.0 (~$4.89m)",
+            "+189%"
+          ]
+        },
+        {
+          "label": "EBITDA margin (reported)",
+          "indent": true,
+          "cells": [
+            "45.6%",
+            "+1,433bp",
+            "+4,163bp",
+            "36.6%",
+            "+2,277bp"
+          ]
+        },
+        {
+          "label": "EBITDA underlying (ex one-offs)",
+          "indent": true,
+          "cells": [
+            "18.6 (~$1.82m)",
+            "+28%",
+            "+83%",
+            "45.0 (~$4.40m)",
+            "+52%"
+          ],
+          "footnote": "Q3-26/9M-26 ex SEK 4.9m provision reversal; Q3-25/9M-25 ex SEK 8.6m/12.4m redundancy costs (company-disclosed one-offs; underlying calc ours)"
+        },
+        {
+          "label": "EBITDA margin (underlying)",
+          "indent": true,
+          "cells": [
+            "36.1%",
+            "+477bp",
+            "+1,081bp",
+            "33.0%",
+            "+927bp"
+          ]
+        },
+        {
+          "label": "Operating income/(loss)",
+          "cells": [
+            "16.8 (~$1.65m)",
+            "+142%",
+            "+22.1m swing",
+            "29.1 (~$2.84m)",
+            "+31.6m swing"
+          ]
+        },
+        {
+          "label": "Net profit/(loss) for the period",
+          "kind": "emphasis",
+          "cells": [
+            "15.1 (~$1.48m)",
+            "+108%",
+            "+20.4m swing",
+            "27.5 (~$2.69m)",
+            "+31.2m swing"
+          ]
+        },
+        {
+          "label": "EPS, basic & diluted (IFRS; no adjusted EPS reported)",
+          "cells": [
+            "SEK 0.05 (~$0.005)",
+            "vs SEK 0.02",
+            "vs SEK (0.02)",
+            "SEK 0.09 (~$0.009)",
+            "vs SEK (0.01)"
+          ]
+        },
+        {
+          "label": "Group KPIs",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Avg monthly players / actives / ARPU",
+          "indent": true,
+          "cells": [
+            "n/a (B2B, not disclosed)",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Top-2 customer concentration (% revenue)",
+          "indent": true,
+          "cells": [
+            "n/a (9M basis only)",
+            "n/a",
+            "n/a",
+            "48% (27%/21%)",
+            "vs 71% (33%/38%)"
+          ]
+        },
+        {
+          "label": "Headcount growth",
+          "indent": true,
+          "cells": [
+            "+25% YoY",
+            "n/a",
+            "+25%",
+            "+21% YoY",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Customer contract liabilities (prepaid access fees)",
+          "indent": true,
+          "cells": [
+            "3.5 (~$0.35m)",
+            "+112%",
+            "+140%",
+            "3.5 (~$0.35m)",
+            "vs 1.5"
+          ]
+        },
+        {
+          "label": "Cash flow & balance sheet",
+          "kind": "group",
+          "cells": []
+        },
+        {
+          "label": "Cash flow from operations",
+          "cells": [
+            "7.5 (~$0.73m)",
+            "-64%",
+            "-9.2%",
+            "35.9 (~$3.51m)",
+            "+38%"
+          ]
+        },
+        {
+          "label": "Free cash flow (CFO – investing – lease payments)",
+          "cells": [
+            "3.4 (~$0.34m)",
+            "-73%",
+            "+63%",
+            "19.1 (~$1.87m)",
+            "+231%"
+          ],
+          "footnote": "Our derivation from the cash flow statement; company does not report FCF"
+        },
+        {
+          "label": "Cash & equivalents",
+          "cells": [
+            "24.0 (~$2.35m)",
+            "+19%",
+            "+77%",
+            "24.0 (~$2.35m)",
+            "vs Dec-25 4.6 (~$0.45m)"
+          ]
+        },
+        {
+          "label": "Trade receivables",
+          "cells": [
+            "39.3 (~$3.84m)",
+            "+46%",
+            "+961%",
+            "39.3 (~$3.84m)",
+            "vs Dec-25 21.1 (~$2.06m)"
+          ]
+        },
+        {
+          "label": "Lease liabilities (IFRS16; no bank debt)",
+          "cells": [
+            "33.4 (~$3.26m)",
+            "+24%",
+            "+76%",
+            "33.4 (~$3.26m)",
+            "vs Dec-25 15.8 (~$1.54m)"
+          ]
+        },
+        {
+          "label": "Net debt incl. leases / LTM EBITDA",
+          "cells": [
+            "9.4 (~$0.92m) / 0.14x",
+            "+2.8m",
+            "+3.9m",
+            "9.4 (~$0.92m)",
+            "vs Dec-25 11.2 (~$1.09m)"
+          ]
+        },
+        {
+          "label": "Shareholders' equity",
+          "cells": [
+            "73.7 (~$7.20m)",
+            "+27%",
+            "+97%",
+            "73.7 (~$7.20m)",
+            "vs Dec-25 45.8 (~$4.48m)"
+          ]
+        },
+        {
+          "label": "Shares outstanding (m)",
+          "cells": [
+            "297.0",
+            "0%",
+            "0%",
+            "297.0",
+            "avg +1%"
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Revenue streams: Technology access fees / Service fees / Royalties",
+        "headline": "Platform streams are now 93% of revenue and growing sequentially; the royalty book is in terminal run-off and Q3's access fee is a single-customer event.",
+        "narrative": [
+          "EMB does not report operating segments; the only disaggregation is by revenue type and customer location, and there are no B2C-style KPIs — no GGR, handle, actives, ARPU or market-share data exist for a B2B platform supplier of this size, so the volume/price/luck framework does not apply. What they do disclose is enough to see the business changing shape. Service fees — technology development, integration, maintenance, consulting and game-integration start-up fees, all recognised over time — rose 69% YoY to SEK 32.6m (~$3.18m), 63% of revenue, and have now compounded sequentially through the year (SEK 28.8m in Q1, SEK 29.6m in Q2, SEK 32.6m in Q3). Management attributed the growth to new customers and an expanded scope of work with existing ones; this is the recurring-ish core the equity story rests on, and the 9M figure of SEK 90.9m (~$8.89m), +84%, is the cleanest evidence that the 2025 pivot is commercially real.",
+          "Technology access fees — 'fixed income received in advance for granting customers access to proprietary technology, such as gaming software or platform designs', recognised at a point in time — were SEK 15.3m (~$1.50m), +132% YoY and +29% QoQ, 30% of the quarter. They were candid that this reflected one new customer being granted access to selected components of the proprietary technology and system architecture, and the geographic note shows SEK 14.9m of the SEK 15.3m landed in Asia. The CEO letter explicitly warns that 'their timing can influence quarterly performance'. We read this stream as a sequence of licence events (SEK 3.7m in Q1, SEK 11.9m in Q2 from two customers, SEK 15.3m in Q3 from one) rather than a run-rate; the forward indicator is the contract-liability balance, which doubled QoQ to SEK 3.5m (~$0.35m) but is small relative to recent quarterly recognitions.",
+          "Royalties from game licensing — variable, a percentage of operators' revenue, recognised as gaming transactions occur — fell 74% YoY to SEK 3.8m (~$0.37m), 7% of revenue, and are down 76% to SEK 14.8m (~$1.45m) for 9M. They framed this as the 'strategic shift towards platform-led engagements and direct technology partnerships', which is a polite way of saying the legacy Lady Luck Games slot content has been de-emphasised and the royalty line is in run-off (SEK 6.1m, 4.9m, 3.8m across Q1–Q3). The irony for a gaming-sector investor is that royalties were the one stream with true variable, recurring, usage-based economics; they have been swapped for project-type fees and point-in-time licences that are growing faster but are inherently lumpier.",
+          "There is no cost-of-sales line — the P&L runs revenue straight into personnel, other opex and D&A — so the profit pool by stream is not disclosed and gross margin is nominally 100%. Personnel (SEK 23.1m, 44.8% of revenue) is effectively the cost of delivering service fees, and it is rising: ex the SEK 8.6m prior-year redundancy charge, personnel was up SEK 2.6m (+13%) YoY on a 25% headcount increase, with management saying it is 'investing in the capacity to serve customers'. Underlying other opex (ex the SEK 4.9m provision reversal) was SEK 9.9m, +11% YoY. Underlying EBITDA of SEK 18.6m (~$1.82m) at 36.1% therefore reflects operating leverage on a cost base that grew ~12%, with revenue up 28%; if Q4 access fees fall back toward the Q1 level, the mathematical margin would drop into the high-20s on our arithmetic.",
+          "Customer concentration is the other dimension of quality. Two customers were 48% of 9M revenue (Customer A 27%, Customer B 21%), down from 71% (33%/38%) in 9M-25 and 54% (31%/23%) in H1-26 — so Q3's incremental revenue came largely from outside the top two, which is the right direction. There is no stream-level guidance; management's stated priorities are to commercialise the proprietary platform, expand technology access agreements, onboard new platform clients and convert 'initial engagements into lasting relationships'. Our reading of the Q4 set-up: service fees should hold or grow modestly (SEK 33–35m), royalties drift toward SEK 3m, and the quarter's outcome depends almost entirely on whether another access-fee event lands."
+        ],
+        "table": {
+          "note": "SEK m (~USD m)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Revenue by stream",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Technology access fees",
+              "indent": true,
+              "cells": [
+                "15.3 (~$1.50m)",
+                "+29%",
+                "+132%",
+                "30.9 (~$3.02m)",
+                "+140%"
+              ]
+            },
+            {
+              "label": "  Mix %",
+              "indent": true,
+              "cells": [
+                "30%",
+                "+4pp",
+                "+13pp",
+                "23%",
+                "+12pp"
+              ]
+            },
+            {
+              "label": "Service fees",
+              "indent": true,
+              "cells": [
+                "32.6 (~$3.18m)",
+                "+10%",
+                "+69%",
+                "90.9 (~$8.89m)",
+                "+84%"
+              ]
+            },
+            {
+              "label": "  Mix %",
+              "indent": true,
+              "cells": [
+                "63%",
+                "-1pp",
+                "+15pp",
+                "67%",
+                "+27pp"
+              ]
+            },
+            {
+              "label": "Royalties",
+              "indent": true,
+              "cells": [
+                "3.8 (~$0.37m)",
+                "-23%",
+                "-74%",
+                "14.8 (~$1.45m)",
+                "-76%"
+              ]
+            },
+            {
+              "label": "  Mix %",
+              "indent": true,
+              "cells": [
+                "7%",
+                "-3pp",
+                "-28pp",
+                "11%",
+                "-39pp"
+              ]
+            },
+            {
+              "label": "Total revenue",
+              "kind": "emphasis",
+              "cells": [
+                "51.7 (~$5.05m)",
+                "+11%",
+                "+28%",
+                "136.6 (~$13.4m)",
+                "+9.2%"
+              ]
+            },
+            {
+              "label": "Platform streams (access + service) % revenue",
+              "cells": [
+                "93%",
+                "+3pp",
+                "+28pp",
+                "89%",
+                "+39pp"
+              ]
+            },
+            {
+              "label": "Quarterly path (Q1-26 / Q2-26 / Q3-26)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Technology access fees",
+              "indent": true,
+              "cells": [
+                "3.7 / 11.9 / 15.3",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ],
+              "footnote": "Q1-26 derived as H1-26 less Q2-26 from the Q2 report"
+            },
+            {
+              "label": "Service fees",
+              "indent": true,
+              "cells": [
+                "28.8 / 29.6 / 32.6",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Royalties",
+              "indent": true,
+              "cells": [
+                "6.1 / 4.9 / 3.8",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Quality indicators",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Customer contract liabilities (prepaid access fees)",
+              "indent": true,
+              "cells": [
+                "3.5 (~$0.35m)",
+                "+112%",
+                "+140%",
+                "3.5 (~$0.35m)",
+                "vs 1.5 (~$0.14m)"
+              ]
+            },
+            {
+              "label": "Top-2 customers % revenue (9M)",
+              "indent": true,
+              "cells": [
+                "n/a",
+                "n/a",
+                "n/a",
+                "48% (27%/21%)",
+                "vs 71% (33%/38%)"
+              ]
+            },
+            {
+              "label": "Personnel cost % revenue",
+              "indent": true,
+              "cells": [
+                "44.8%",
+                "-258bp",
+                "-2,742bp",
+                "47.2%",
+                "-1,006bp"
+              ]
+            },
+            {
+              "label": "Personnel cost ex-redundancy, YoY",
+              "indent": true,
+              "cells": [
+                "+13% (+SEK 2.6m)",
+                "n/a",
+                "headcount +25%",
+                "+9% (+SEK 5.2m)",
+                "headcount +21%"
+              ]
+            },
+            {
+              "label": "Other opex % revenue (ex one-offs)",
+              "indent": true,
+              "cells": [
+                "19.1%",
+                "-210bp",
+                "-300bp",
+                "19.8%",
+                "-540bp"
+              ]
+            },
+            {
+              "label": "Sportsbook handle / net margin / promo % handle / actives / ARPU",
+              "indent": true,
+              "cells": [
+                "n/a — not applicable to a B2B supplier",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Disclosure and service fees",
+            "takeaway": "Service fees rose 69% YoY to SEK 32.6m (~$3.18m), 63% of revenue, compounding sequentially; this is the recurring-ish core of the equity story.",
+            "points": [
+              "EMB reports no operating segments; disaggregation is only by revenue type and customer location, with no GGR, handle, actives, ARPU or market-share data.",
+              "Service fees cover technology development, integration, maintenance, consulting and game-integration start-up fees, recognised over time.",
+              "Sequential build: SEK 28.8m in Q1, SEK 29.6m in Q2, SEK 32.6m in Q3, attributed to new customers and expanded scope with existing ones.",
+              "9M service fees of SEK 90.9m (~$8.89m), +84%, are the cleanest evidence the 2025 pivot is commercially real."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Technology access fees",
+            "takeaway": "Access fees were SEK 15.3m (~$1.50m), +132% YoY and +29% QoQ, 30% of the quarter, but essentially a single-customer licence event.",
+            "points": [
+              "Fixed income received in advance for access to proprietary technology, recognised at a point in time; SEK 14.9m of SEK 15.3m landed in Asia.",
+              "Management was candid that one new customer was granted access to selected components of the proprietary technology and system architecture.",
+              "We read the stream as licence events (SEK 3.7m Q1, SEK 11.9m Q2 from two customers, SEK 15.3m Q3 from one) rather than a run-rate.",
+              "Forward indicator is the contract-liability balance, which doubled QoQ to SEK 3.5m (~$0.35m) but is small relative to recent quarterly recognitions."
+            ],
+            "quote": {
+              "text": "their timing can influence quarterly performance",
+              "speaker": "CEO"
+            }
+          },
+          {
+            "heading": "Royalties in run-off",
+            "takeaway": "Royalties fell 74% YoY to SEK 3.8m (~$0.37m), 7% of revenue, and are down 76% to SEK 14.8m (~$1.45m) for 9M.",
+            "points": [
+              "Variable, a percentage of operators' revenue, recognised as gaming transactions occur; trend SEK 6.1m, 4.9m, 3.8m across Q1–Q3.",
+              "Management framed this as the 'strategic shift towards platform-led engagements and direct technology partnerships'; in practice legacy Lady Luck Games slot content is de-emphasised.",
+              "Irony: royalties were the one stream with true variable, recurring, usage-based economics, swapped for faster-growing but inherently lumpier project fees and point-in-time licences."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Costs and margin",
+            "takeaway": "Underlying EBITDA of SEK 18.6m (~$1.82m) at 36.1% reflects operating leverage, with revenue up 28% on a cost base that grew ~12%.",
+            "points": [
+              "No cost-of-sales line; gross margin nominally 100% and profit pool by stream undisclosed. Personnel SEK 23.1m is 44.8% of revenue.",
+              "Ex the SEK 8.6m prior-year redundancy charge, personnel was up SEK 2.6m (+13%) YoY on a 25% headcount increase.",
+              "Underlying other opex (ex the SEK 4.9m provision reversal) was SEK 9.9m, +11% YoY.",
+              "If Q4 access fees fall back toward the Q1 level, the margin would drop into the high-20s on our arithmetic."
+            ],
+            "quote": {
+              "text": "investing in the capacity to serve customers",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Concentration and Q4 set-up",
+            "takeaway": "Two customers were 48% of 9M revenue, down from 71% a year ago; Q4 depends almost entirely on whether another access-fee event lands.",
+            "points": [
+              "Customer A 27%, Customer B 21% for 9M-26, versus 33%/38% in 9M-25 and 31%/23% in H1-26; Q3 growth came largely from outside the top two.",
+              "No stream-level guidance; priorities are commercialising the proprietary platform, expanding technology access agreements, onboarding new platform clients and converting 'initial engagements into lasting relationships'.",
+              "Our Q4 reading: service fees hold or grow modestly (SEK 33–35m), royalties drift toward SEK 3m."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Geography: Asia vs Rest of World ('Others')",
+        "headline": "Asia (67% of Q3) was lifted by one SEK 14.9m access-fee event while its royalty base has collapsed; 'Others' has quietly become a SEK 60m-a-year service business.",
+        "narrative": [
+          "By customer location, Asia generated SEK 34.5m (~$3.37m) in Q3, +8% YoY and +33% QoQ, 67% of group revenue (up from 56% in Q2 but down from 79% a year ago). The composition tells the real story: Asian technology access fees jumped to SEK 14.9m (~$1.46m) from SEK 5.9m in Q2 and SEK 6.3m a year ago — essentially the single new customer — while Asian royalties fell 83% YoY to SEK 1.7m (~$0.17m) and Asian service fees were flat QoQ at SEK 17.9m (~$1.75m), +15% YoY. For 9M, Asia revenue is down 6.5% to SEK 76.0m (~$7.43m): royalties shrank by SEK 34.6m (SEK 41.8m to SEK 7.3m), only partly replaced by SEK 15.4m more access fees and SEK 13.8m more service fees. Asia is therefore where the legacy royalty exposure sat and where the lumpiest revenue now originates.",
+          "Rest of world ('Others' — the company gives no further split) was SEK 17.2m (~$1.68m), +107% YoY but -16% QoQ, 33% of group. The driver is service fees, which quadrupled YoY to SEK 14.7m (~$1.44m) and grew 27% QoQ, and this stream has been the most consistent in the group (SEK 17.6m in Q1, SEK 11.6m in Q2, SEK 14.7m in Q3). Others' access fees were negligible this quarter (SEK 0.4m) after SEK 5.9m in Q2, which explains the QoQ decline, and Others' royalties fell 51% to SEK 2.1m. For 9M, Others revenue rose 38% to SEK 60.6m (~$5.92m) and is now 44% of group versus 35% a year ago — the diversification management talks about is real, but it is almost entirely service-fee driven and, like Asia, concentrated in a handful of relationships.",
+          "The operating footprint is Asian regardless of where customers sit: the lease note lists offices in Taiwan (two existing plus a new one signed in August 2026 with a SEK 12.2m right-of-use asset), Malaysia, Singapore and, from April 2026, Thailand. The expansion has doubled lease liabilities since December to SEK 33.4m (~$3.26m) with SEK 36.2m of undiscounted rental commitments through 2029+, and D&A on leases is now a structural cost line (SEK 3.7m of right-of-use depreciation in Q3). Headcount is up 25% YoY. The registered head office is Östermalmstorg, Stockholm, but there is no evidence of operational substance in Sweden beyond the listing.",
+          "On regulation and market position there is nothing to cite: EMB discloses no licences held by its Asian customers, no GGR or market-share data, and no information on which jurisdictions its content and platform are deployed in. Much of Asian online gaming is unregulated or grey, which is a risk a PM has to price without company help [unverified — no disclosure]. The pending MegaBet Plus acquisition is explicitly pitched as strengthening 'operational presence in a regulated European market', which reads to us as an acknowledgement that the current geographic profile lacks a regulated anchor. Until closing, Cyprus contributes nothing to revenue; the 'Others' line is the only non-Asian exposure."
+        ],
+        "table": {
+          "note": "SEK m (~USD m)",
+          "columns": [
+            "Q3-26",
+            "QoQ",
+            "YoY",
+            "9M-26",
+            "9M YoY"
+          ],
+          "rows": [
+            {
+              "label": "Asia",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Technology access fees",
+              "indent": true,
+              "cells": [
+                "14.9 (~$1.46m)",
+                "+152%",
+                "+137%",
+                "21.7 (~$2.12m)",
+                "+244%"
+              ]
+            },
+            {
+              "label": "Royalties",
+              "indent": true,
+              "cells": [
+                "1.7 (~$0.17m)",
+                "-16%",
+                "-83%",
+                "7.3 (~$0.71m)",
+                "-83%"
+              ]
+            },
+            {
+              "label": "Service fees",
+              "indent": true,
+              "cells": [
+                "17.9 (~$1.75m)",
+                "-0.6%",
+                "+15%",
+                "47.1 (~$4.60m)",
+                "+42%"
+              ]
+            },
+            {
+              "label": "Asia total",
+              "kind": "emphasis",
+              "cells": [
+                "34.5 (~$3.37m)",
+                "+33%",
+                "+7.8%",
+                "76.0 (~$7.43m)",
+                "-6.5%"
+              ]
+            },
+            {
+              "label": "  % of group revenue",
+              "indent": true,
+              "cells": [
+                "67%",
+                "+11pp",
+                "-13pp",
+                "56%",
+                "-9pp"
+              ]
+            },
+            {
+              "label": "Others (rest of world)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Technology access fees",
+              "indent": true,
+              "cells": [
+                "0.4 (~$0.04m)",
+                "-94%",
+                "+24%",
+                "9.2 (~$0.90m)",
+                "+40%"
+              ]
+            },
+            {
+              "label": "Royalties",
+              "indent": true,
+              "cells": [
+                "2.1 (~$0.20m)",
+                "-27%",
+                "-51%",
+                "7.5 (~$0.73m)",
+                "-64%"
+              ]
+            },
+            {
+              "label": "Service fees",
+              "indent": true,
+              "cells": [
+                "14.7 (~$1.44m)",
+                "+27%",
+                "+296%",
+                "43.9 (~$4.29m)",
+                "+170%"
+              ]
+            },
+            {
+              "label": "Others total",
+              "kind": "emphasis",
+              "cells": [
+                "17.2 (~$1.68m)",
+                "-16%",
+                "+107%",
+                "60.6 (~$5.92m)",
+                "+38%"
+              ]
+            },
+            {
+              "label": "  % of group revenue",
+              "indent": true,
+              "cells": [
+                "33%",
+                "-11pp",
+                "+13pp",
+                "44%",
+                "+9pp"
+              ]
+            },
+            {
+              "label": "Footprint",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Offices (leases)",
+              "indent": true,
+              "cells": [
+                "Taiwan x3 (one expiring Dec-26), Malaysia, Singapore, Thailand",
+                "+1 (Taiwan, Aug-26)",
+                "+2 vs Sep-25",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Right-of-use assets",
+              "indent": true,
+              "cells": [
+                "31.2 (~$3.05m)",
+                "+37%",
+                "+122%",
+                "31.2 (~$3.05m)",
+                "vs Dec-25 11.1"
+              ]
+            },
+            {
+              "label": "Undiscounted lease commitments",
+              "indent": true,
+              "cells": [
+                "36.2 (~$3.54m)",
+                "n/a",
+                "n/a",
+                "2026: 3.0 / 2027: 12.1 / 2028: 9.8 / 2029+: 11.3",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Regulated-market revenue",
+              "indent": true,
+              "cells": [
+                "n/a — not disclosed",
+                "n/a",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Asia",
+            "takeaway": "Asia generated SEK 34.5m (~$3.37m), +8% YoY and +33% QoQ, 67% of group, lifted by a single SEK 14.9m access-fee event.",
+            "points": [
+              "Share was 56% in Q2 and 79% a year ago. Asian access fees jumped to SEK 14.9m (~$1.46m) from SEK 5.9m in Q2 and SEK 6.3m a year ago.",
+              "Asian royalties fell 83% YoY to SEK 1.7m (~$0.17m); Asian service fees flat QoQ at SEK 17.9m (~$1.75m), +15% YoY.",
+              "9M Asia revenue down 6.5% to SEK 76.0m (~$7.43m): royalties shrank SEK 34.6m (SEK 41.8m to SEK 7.3m), partly offset by SEK 15.4m more access fees and SEK 13.8m more service fees.",
+              "Asia is where legacy royalty exposure sat and where the lumpiest revenue now originates."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Rest of World",
+            "takeaway": "'Others' was SEK 17.2m (~$1.68m), +107% YoY but -16% QoQ, 33% of group, and has become a SEK 60m-a-year service business.",
+            "points": [
+              "Service fees quadrupled YoY to SEK 14.7m (~$1.44m), +27% QoQ, the most consistent stream (SEK 17.6m Q1, SEK 11.6m Q2, SEK 14.7m Q3).",
+              "Others' access fees were negligible at SEK 0.4m after SEK 5.9m in Q2, explaining the QoQ decline; Others' royalties fell 51% to SEK 2.1m.",
+              "9M Others revenue rose 38% to SEK 60.6m (~$5.92m), now 44% of group versus 35% a year ago.",
+              "Diversification is real but almost entirely service-fee driven and, like Asia, concentrated in a handful of relationships; the company gives no further split."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Operating footprint",
+            "takeaway": "The footprint is Asian regardless of customer location; lease liabilities have doubled since December to SEK 33.4m (~$3.26m).",
+            "points": [
+              "Offices in Taiwan (two existing plus a new one signed in August 2026 with a SEK 12.2m right-of-use asset), Malaysia, Singapore and, from April 2026, Thailand.",
+              "SEK 36.2m of undiscounted rental commitments through 2029+; right-of-use depreciation of SEK 3.7m in Q3 is now a structural cost line.",
+              "Headcount up 25% YoY. Registered head office is Östermalmstorg, Stockholm, with no evidence of operational substance in Sweden beyond the listing."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Regulation and market position",
+            "takeaway": "EMB discloses no customer licences, GGR, market-share or deployment jurisdictions, so Asian grey-market risk must be priced without company help.",
+            "points": [
+              "Much of Asian online gaming is unregulated or grey [unverified — no disclosure].",
+              "The pending MegaBet Plus acquisition is pitched as strengthening 'operational presence in a regulated European market', which reads as acknowledging the profile lacks a regulated anchor.",
+              "Until closing, Cyprus contributes nothing to revenue; the 'Others' line is the only non-Asian exposure."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "MegaBet Plus (Cyprus) — pending 51% acquisition, pro forma",
+        "headline": "Cheap on the target's 2024 numbers (~3.3x EBITDA for 100%) but paid entirely in EMB paper at a depressed price, with a put that can take EMB to 90% and the share count higher still.",
+        "narrative": [
+          "On 21 October 2026, after the quarter closed, they signed the definitive agreement — broadly on the terms of the January 2026 non-binding LOI — to acquire 51% of Cleverpath Holdings Limited, trading as MegaBet Plus, from its majority shareholder Dennis Ang. MegaBet Plus was founded in 2007, runs a retail network of more than 200 locations across Cyprus and holds both Class A (retail/land-based) and Class B (online/remote) sports-betting licences from the Cyprus National Betting Authority. The preliminary price is EUR 4.1m (~SEK 45.6m / ~$4.46m), split EUR 3.0m for the 51% equity stake and EUR 1.1m for all rights to the Class A and Class B NBA bonds the target holds, subject to customary adjustments. Closing needs NBA approval and is expected in Q1-27; the business will be consolidated from completion.",
+          "The only financials disclosed are for FY24: EBITDA of approximately EUR 1.77m (~SEK 19.7m / ~$1.92m) and net profit of approximately EUR 0.33m (~SEK 3.7m / ~$0.36m) — a wide gap that implies meaningful D&A, interest and/or tax beneath the EBITDA line in a retail estate. FY25 accounts are under audit and will only be published after both the audit and the acquisition complete, so EMB is asking shareholders to approve dilution on year-old numbers. On our arithmetic EUR 3.0m for 51% values 100% of the equity at ~EUR 5.9m, ~3.3x FY24 EBITDA and ~18x FY24 net profit; relative to EMB's own LTM underlying EBITDA of ~SEK 61m, the deal would add roughly a third to group EBITDA on a consolidated basis, of which 49% belongs to the minority. The customer-facing upside they describe — bringing EMB's product development 'closer to day-to-day operations' and growing online off a retail base — is plausible but unquantified.",
+          "The structure is where the risk sits. Consideration is settled by a promissory note set off against new EMB shares at the 30-day VWAP preceding closing: the price is fixed in euros, so the share count floats inversely with EMB's stock. At SEK 0.59 that is ~77m shares, ~21% of the enlarged ~374m count; at SEK 0.50 it would be ~91m (~23%). The seller also holds a put requiring EMB to buy a further 39% for EUR 2,668,422 (~SEK 29.7m / ~$2.90m), exercisable 12–15 months after closing, settleable in cash, shares or both 'subject to the Company's legal and regulatory capacity' — at today's price that is another ~50m shares if equity-settled, and EMB's SEK 24m cash balance could not fund it in cash without a raise. A shareholders' agreement governs the 51/49 relationship. EMB has already advanced EUR 300k (~SEK 3.3m / ~$0.33m) in two tranches under a loan due 21 April 2027 (extendable), which is the first cash to leave the group for the deal and will show in Q4 cash flow.",
+          "Strategically this converts EMB from an asset-light B2B platform supplier into a part-owner of a retail-heavy sportsbook in a small, licensed market, with a founder-partner retaining 49% (and potentially 10%). Management's framing — a regulated European anchor plus shared group support functions — is sensible, but a retail estate of 200+ shops carries labour, rent and compliance costs that EMB has never managed, Cyprus retail betting competes against large international online brands, and the acquisition accounting will introduce goodwill, intangibles and a non-controlling interest line. We would want the FY25 audited numbers, the final share count and the regulatory timetable before giving credit for any accretion; as disclosed, 'its contribution to the Group's earnings will depend on the timing of completion, subsequent operating performance and acquisition-accounting adjustments'."
+        ],
+        "table": {
+          "note": "Deal metric",
+          "columns": [
+            "Value",
+            "~USD / SEK equivalent",
+            "Comment"
+          ],
+          "rows": [
+            {
+              "label": "Consideration",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Preliminary purchase price (51%)",
+              "indent": true,
+              "cells": [
+                "EUR 4.1m",
+                "~SEK 45.6m / ~$4.46m",
+                "Subject to customary adjustments; 100% in new EMB shares via promissory-note set-off at 30-day VWAP"
+              ]
+            },
+            {
+              "label": "  of which equity (51%)",
+              "indent": true,
+              "cells": [
+                "EUR 3.0m",
+                "~SEK 33.4m / ~$3.26m",
+                "Implies ~EUR 5.9m for 100% equity"
+              ]
+            },
+            {
+              "label": "  of which Class A/B NBA bonds",
+              "indent": true,
+              "cells": [
+                "EUR 1.1m",
+                "~SEK 12.2m / ~$1.20m",
+                "Licence bonds held by target"
+              ]
+            },
+            {
+              "label": "Put option (further 39%)",
+              "indent": true,
+              "cells": [
+                "EUR 2,668,422",
+                "~SEK 29.7m / ~$2.90m",
+                "Exercisable 12–15 months post-close; cash and/or shares; would take EMB to 90%"
+              ]
+            },
+            {
+              "label": "Loan advanced to target",
+              "indent": true,
+              "cells": [
+                "EUR 300k",
+                "~SEK 3.3m / ~$0.33m",
+                "Two EUR 150k tranches; due 21 Apr 2027, extendable"
+              ]
+            },
+            {
+              "label": "Target financials (FY24, unaudited for FY25)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "EBITDA FY24",
+              "indent": true,
+              "cells": [
+                "~EUR 1.77m",
+                "~SEK 19.7m / ~$1.92m",
+                "FY25 under audit; to be disclosed post-closing"
+              ]
+            },
+            {
+              "label": "Net profit FY24",
+              "indent": true,
+              "cells": [
+                "~EUR 0.33m",
+                "~SEK 3.7m / ~$0.36m",
+                "Large EBITDA-to-net gap (D&A/interest/tax not disclosed)"
+              ]
+            },
+            {
+              "label": "Implied EV/EBITDA (100% equity, our calc)",
+              "indent": true,
+              "cells": [
+                "~3.3x",
+                "n/a",
+                "Excludes bond payment and any net debt in target [not disclosed]"
+              ]
+            },
+            {
+              "label": "Retail footprint",
+              "indent": true,
+              "cells": [
+                "200+ locations",
+                "n/a",
+                "Class A retail + Class B online licences, Cyprus NBA"
+              ]
+            },
+            {
+              "label": "Dilution (our arithmetic)",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "New shares at SEK 0.59",
+              "indent": true,
+              "cells": [
+                "~77m",
+                "~21% of enlarged 374m",
+                "Rises if share price falls into closing"
+              ]
+            },
+            {
+              "label": "Potential put shares at SEK 0.59",
+              "indent": true,
+              "cells": [
+                "~50m",
+                "~12% further",
+                "If equity-settled; 2028 event"
+              ]
+            },
+            {
+              "label": "Timetable",
+              "kind": "group",
+              "cells": []
+            },
+            {
+              "label": "Expected closing",
+              "indent": true,
+              "cells": [
+                "Q1 2027",
+                "n/a",
+                "Subject to Cyprus NBA approval; consolidated from completion"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Deal terms",
+            "takeaway": "On 21 October 2026 EMB signed to acquire 51% of MegaBet Plus for a preliminary EUR 4.1m (~SEK 45.6m / ~$4.46m), closing expected Q1-27.",
+            "points": [
+              "Target is Cleverpath Holdings Limited, trading as MegaBet Plus, bought from majority shareholder Dennis Ang, broadly on the January 2026 non-binding LOI terms.",
+              "Founded 2007, more than 200 retail locations across Cyprus, holds Class A (retail) and Class B (online) licences from the Cyprus National Betting Authority.",
+              "Price split: EUR 3.0m for the 51% equity stake and EUR 1.1m for all rights to the Class A and Class B NBA bonds, subject to customary adjustments.",
+              "Closing needs NBA approval; consolidated from completion."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Valuation",
+            "takeaway": "EUR 3.0m for 51% implies ~EUR 5.9m for 100%, ~3.3x FY24 EBITDA and ~18x FY24 net profit, on year-old numbers.",
+            "points": [
+              "FY24 EBITDA approximately EUR 1.77m (~SEK 19.7m / ~$1.92m); net profit approximately EUR 0.33m (~SEK 3.7m / ~$0.36m), implying meaningful D&A, interest and/or tax.",
+              "FY25 accounts are under audit and published only after audit and acquisition complete, so shareholders approve dilution on FY24 figures.",
+              "Versus EMB's LTM underlying EBITDA of ~SEK 61m, the deal adds roughly a third to consolidated group EBITDA, 49% of it attributable to the minority.",
+              "Upside of bringing product development 'closer to day-to-day operations' and growing online off a retail base is plausible but unquantified."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Structure and dilution",
+            "takeaway": "Consideration is paid in EMB shares at the 30-day VWAP before closing, ~77m shares (~21%) at SEK 0.59, with a put taking EMB to 90%.",
+            "points": [
+              "Price fixed in euros, so share count floats inversely with the stock: ~91m shares (~23%) at SEK 0.50, on an enlarged ~374m count.",
+              "Seller's put requires EMB to buy a further 39% for EUR 2,668,422 (~SEK 29.7m / ~$2.90m), exercisable 12–15 months after closing, in cash, shares or both.",
+              "Equity-settled at today's price that is another ~50m shares; EMB's SEK 24m cash could not fund it in cash without a raise.",
+              "EMB has advanced EUR 300k (~SEK 3.3m / ~$0.33m) in two tranches under a loan due 21 April 2027 (extendable), visible in Q4 cash flow. A shareholders' agreement governs the 51/49 relationship."
+            ],
+            "quote": {
+              "text": "subject to the Company's legal and regulatory capacity",
+              "speaker": "Management"
+            }
+          },
+          {
+            "heading": "Strategic assessment",
+            "takeaway": "The deal converts an asset-light B2B platform supplier into part-owner of a retail-heavy sportsbook; we withhold credit for accretion pending FY25 numbers.",
+            "points": [
+              "Founder-partner retains 49% (potentially 10%); management's framing of a regulated European anchor plus shared group support functions is sensible.",
+              "A 200+ shop estate carries labour, rent and compliance costs EMB has never managed, and Cyprus retail betting competes against large international online brands.",
+              "Acquisition accounting introduces goodwill, intangibles and a non-controlling interest line.",
+              "We want FY25 audited numbers, the final share count and the regulatory timetable before giving credit."
+            ],
+            "quote": {
+              "text": "its contribution to the Group's earnings will depend on the timing of completion, subsequent operating performance and acquisition-accounting adjustments",
+              "speaker": "Management"
+            }
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Service fees — the stream with over-time recognition — grew 69% YoY to SEK 32.6m (~$3.18m) and have risen every quarter this year (SEK 28.8m → 29.6m → 32.6m); 9M +84% to SEK 90.9m (~$8.89m). This is the durable part of the pivot.",
+        "tag": "structural"
+      },
+      {
+        "text": "Underlying EBITDA (ex the SEK 4.9m reversal and prior-year SEK 8.6m redundancies) rose 83% to SEK 18.6m (~$1.82m); margin +1,080bp YoY and +480bp QoQ to 36.1%, on a cost base that grew only ~12% against +28% revenue.",
+        "tag": "structural"
+      },
+      {
+        "text": "Customer diversification: top-2 concentration fell to 48% of 9M revenue from 71% a year ago and 54% at H1; rest-of-world service fees quadrupled YoY to SEK 14.7m (~$1.44m) and 'Others' is now 44% of 9M revenue vs 35%.",
+        "tag": "structural"
+      },
+      {
+        "text": "Balance sheet repaired: cash SEK 24.0m (~$2.35m) vs SEK 4.6m at Dec-25, no bank debt, equity +97% YoY to SEK 73.7m (~$7.20m); 9M operating cash flow +38% to SEK 35.9m (~$3.51m) and 9M FCF after leases SEK 19.1m (~$1.87m) vs SEK 5.8m.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Contract liabilities (prepaid technology access fees) doubled QoQ to SEK 3.5m (~$0.35m) — small, but the only forward indicator the company gives for the lumpy access-fee stream.",
+        "tag": "early"
+      },
+      {
+        "text": "MegaBet Plus brings a regulated-EU licence set (Cyprus Class A retail, 200+ shops, and Class B online) at ~3.3x FY24 EBITDA on a 100%-equity basis, settled in shares rather than scarce cash — the first regulated anchor in an otherwise Asia-centred, undisclosed-jurisdiction revenue base.",
+        "tag": "mixed"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Headline EBITDA growth of +1,360% is manufactured by the base: a SEK 4.9m (~$0.48m) provision reversal is 21% of Q3-26 reported EBITDA and 10% of 9M, while Q3-25 absorbed SEK 8.6m (~$0.84m) of redundancy costs. Reported net margin of 29.3% is not a run-rate.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Cash did not follow profit: Q3 operating cash flow SEK 7.5m (~$0.73m), -64% QoQ and 32% of EBITDA, after a SEK 12.5m receivables outflow. Trade receivables SEK 39.3m (~$3.84m) are 76% of quarterly revenue, DSO ~70 days vs ~53 in Q2 and ~8 a year ago — consistent with point-in-time access fees being invoiced but not yet collected.",
+        "tag": "watch"
+      },
+      {
+        "text": "Technology access fees (SEK 15.3m, 30% of revenue) came from one new customer and are recognised when access is granted; management itself warns timing 'can influence quarterly performance'. Royalties, the only usage-based recurring stream, are down 74% to SEK 3.8m (~$0.37m) and in run-off.",
+        "tag": "structural"
+      },
+      {
+        "text": "Underlying costs are rising again: personnel +13% YoY ex-redundancy on +25% headcount, other opex +11% ex-reversal, and lease liabilities have doubled since December to SEK 33.4m (~$3.26m) with SEK 36.2m of commitments through 2029+ after three new offices.",
+        "tag": "watch"
+      },
+      {
+        "text": "Customer concentration still 48% in two names and Asia still 67% of Q3 revenue, with no disclosure of end-market licensing or regulatory status; the business remains exposed to a handful of relationships in opaque jurisdictions.",
+        "tag": "structural"
+      },
+      {
+        "text": "MegaBet Plus terms: EUR 4.1m (~SEK 45.6m / ~$4.46m) payable entirely in new shares at a VWAP that is ~40% below the 52-week high — ~77m shares (~21% of enlarged capital) at SEK 0.59, more if the stock falls — plus a EUR 2.67m (~SEK 29.7m) put for another 39% that EMB could not currently fund in cash. The share count and dilution 'cannot be determined at this time', FY25 target accounts are unaudited, and no independent valuation is referenced.",
+        "tag": "governance"
+      },
+      {
+        "text": "Disclosure gaps: interim not reviewed by auditors, no guidance, no segment profit, no KPIs beyond revenue type/location, unnamed SEK 10.7m associate, and a 'restructuring program' with no quantified savings target or end-date. Micro-cap liquidity (~130k shares/day) limits institutional relevance.",
+        "tag": "governance"
+      }
+    ],
+    "forecast": {
+      "intro": "There is no guidance to bridge: EMB has never issued numerical guidance and the Q3 report repeats the same qualitative priorities as Q1 and Q2 (commercialise the proprietary platform, expand technology access agreements, deepen existing relationships, develop AI-enabled capabilities, maintain cost and working-capital discipline). The 'guidance change' this quarter is therefore implicit and comes from the revenue-stream side: the platform streams (technology access + service fees) have moved from 'offsetting' royalty decline in Q2 to 'driving overall revenue growth' in Q3, and the CEO's tone shifted from 'the transition is gaining momentum' to 'greater confidence in our direction'. The moving parts for the rest of the year are (i) whether another point-in-time access-fee event lands in Q4, (ii) whether service fees continue to compound from SEK 32.6m, (iii) collection of the SEK 39.3m receivables book, and (iv) the EUR 300k MegaBet loan and any deal costs leaving cash. The bridge below is our estimate, not company guidance.",
+      "bridge": [
+        {
+          "title": "Company FY26 guidance",
+          "value": "None issued (qualitative priorities only)",
+          "change": "Unchanged vs Q1/Q2 — no numerical targets"
+        },
+        {
+          "title": "9M-26 actual revenue / underlying EBITDA",
+          "value": "SEK 136.6m (~$13.4m) / SEK 45.0m (~$4.40m)",
+          "change": "+9% / +52% YoY"
+        },
+        {
+          "title": "Q4-26E revenue (our estimate)",
+          "value": "SEK ~45m (~$4.4m); range SEK 41–50m",
+          "change": "+10% YoY vs SEK 40.5m; -13% QoQ on lower access fees"
+        },
+        {
+          "title": "FY26E revenue / EBITDA (our estimate)",
+          "value": "SEK ~181m (~$17.7m) / ~SEK 64m reported, ~SEK 59m underlying (~$6.3m / ~$5.8m)",
+          "change": "+9% revenue; reported EBITDA ~+90% vs SEK 33.6m FY25"
+        }
+      ],
+      "view": "**Revenue:** we model Q4-26 at ~SEK 45m (~$4.4m): service fees SEK ~33.5m (+3% QoQ, continuing the Q1–Q3 compounding), royalties ~SEK 3.2m (run-off), and technology access fees ~SEK 8m — deliberately below Q3's SEK 15.3m because that figure was one customer and contract liabilities are only SEK 3.5m. That gives FY26E revenue of ~SEK 181m (~$17.7m), +9% YoY, with a swing range of SEK 41–50m for Q4 depending entirely on access-fee timing. **Margin:** with personnel running ~SEK 23–24m a quarter and underlying other opex ~SEK 10m, Q4 underlying EBITDA should be ~SEK 13–15m (30–33% margin), below Q3's 36.1% as the access-fee contribution normalises; FY26E underlying EBITDA ~SEK 59m (~$5.8m), reported ~SEK 64m (~$6.3m) including the SEK 4.9m one-off, versus SEK 33.6m in FY25. We estimate FY26E net profit of ~SEK 33m (~$3.3m), EPS ~SEK 0.11 (~$0.011), with D&A ~SEK 7m a quarter and negligible cash tax given SEK 118.6m of retained losses. **Cash and leverage:** the direction should improve in Q4 if receivables collect — a partial unwind of the SEK 18.5m 9M build would put year-end cash at SEK 28–35m (~$2.7–3.4m) after the EUR 300k loan and capex/lease outflows of ~SEK 4–5m. The group has no bank debt; net debt including IFRS16 leases is ~0.14x LTM EBITDA and will stay there until MegaBet consolidates, at which point goodwill, a non-controlling interest and the target's own balance sheet [undisclosed] arrive. **2027:** MegaBet would add ~SEK 20m of annualised EBITDA on 2024 numbers (49% minority) against ~77m+ new shares; on our arithmetic that is roughly EPS-neutral to modestly accretive before integration costs, and accretion depends on the FY25 audit and the closing VWAP. The equity debate is not the P&L trajectory — which is visibly improving — but whether a business with 48% top-two concentration, point-in-time revenue, 70-day DSOs and a pending ~21% dilution deserves a re-rating from ~2.8x LTM EV/EBITDA. We would not model one until Q4 shows the receivables reversing.",
+      "watch": [
+        "Q4 operating cash flow and trade receivables: we need the SEK 39.3m balance to fall materially (DSO back below ~50 days) to trust that Q3's access-fee revenue converts to cash.",
+        "Technology access fee recognition in Q4 and the contract-liability balance at year-end — the single biggest swing factor (SEK 41–50m revenue range) and the test of repeatability.",
+        "MegaBet Plus closing: Cyprus NBA approval timing, final purchase price, the number of consideration shares and resulting dilution, and publication of the target's audited FY25 accounts.",
+        "Customer concentration at FY (top-2 at 48% in 9M) and any disclosure of the identity/licensing of Customers A and B; Asia share of revenue (67% in Q3).",
+        "Underlying cost growth: personnel ex-one-offs (+13% YoY) and headcount (+25%) against revenue; lease commitments (SEK 36.2m) after the Taiwan office consolidation in December.",
+        "Q4-25 base effects: Q4-25 revenue SEK 40.5m and EBITDA SEK 16.3m (which benefited from SEK 4.0m of Q4 interest income — the FY25 year-end release should be read for one-offs before setting the FY26 comparison).",
+        "Any equity issuance beyond MegaBet (the put could require cash or shares in 2028) and whether the board seeks a new share-issue mandate at the May 2027 AGM."
+      ]
+    },
+    "sharePriceReaction": "Shares closed around SEK 0.59 (~$0.058) on 20 Nov, c.+2% vs the SEK 0.578 prior close per Yahoo Finance quote data [day-move partially unverified — no official daily close series retrieved]; the stock had been SEK 0.522 on 17 Nov. By the morning of 24 Nov it was trading 3.4% lower at SEK 0.57 (Gaming Intelligence). Market cap ~SEK 175m (~$17m); ~40% below the 52-week high of SEK 0.96 and -37% over 12 months.",
+    "confidence": "MEDIUM",
+    "confidenceNote": "FX: USD/SEK 10.23 as of 20 Nov 2026 (Bloomberg); EUR/SEK 11.12 implied by the company's own EUR 4.1m ≈ SEK 45.6m. All P&L, balance-sheet, cash-flow and revenue-by-type/location figures are taken directly from the company's Q3-26 and Q2-26 interim report PDFs and the 20 Nov MFN/Inderes regulatory release, cross-checked against Gaming Intelligence (revenue SEK 51.7m, +28%) — HIGH confidence on those. Items that could not be fully verified: (1) the exact share-price move on 20 Nov (Yahoo quote snapshot only; daily close series not retrieved); (2) Q1-26 revenue by type is derived (H1-26 less Q2-26); (3) FY25 total restructuring cost and the identity of the SEK 10.7m associate; (4) MegaBet Plus FY25 financials (under audit) and target net debt; (5) 'underlying' EBITDA is our calculation using the company's disclosed one-offs (SEK 4.9m reversal; SEK 8.6m/12.4m redundancies). The interim report is unreviewed by auditors. EMB reports IFRS EBITDA only — there is no company 'adjusted' EBITDA or adjusted EPS; FCF is our derivation. No consensus exists (no sell-side coverage).",
+    "sources": [
+      {
+        "label": "EMB Mission Bound AB (publ) — Q3 2026 Interim Report, July–September 2026 (full PDF, 20 Nov 2026) — primary filing",
+        "kind": "primary",
+        "url": "https://storage.mfn.se/676c41bc-c6bc-475f-87f5-0832dfbdb661/emb-q3-2026.pdf"
+      },
+      {
+        "label": "EMB Mission Bound AB (publ) publishes interim report for the period January–September 2026 — MAR regulatory release via MFN/Inderes, 20 Nov 2026 10:02 CET — primary release",
+        "kind": "primary",
+        "url": "https://www.inderes.fi/en/releases/emb-mission-bound-ab-publ-publishes-interim-report-for-the-period-january-september-2026"
+      },
+      {
+        "label": "EMB Mission Bound AB (publ) — Q2 2026 Interim Report, April–June 2026 (full PDF, 21 Aug 2026) — primary filing, used for QoQ and Q1 derivation",
+        "kind": "primary",
+        "url": "https://storage.mfn.se/da5279c1-20fc-43f0-863e-8d9c8055a6dd/emb-q2-2026.pdf"
+      },
+      {
+        "label": "EMB Mission Bound AB (publ) publishes interim report for the period April–June 2026 — MFN release via TradingView, 21 Aug 2026 — primary release",
+        "kind": "primary",
+        "url": "https://www.tradingview.com/news/modular_finance:5b4fc1eceaaba:0-emb-mission-bound-ab-publ-publishes-interim-report-for-the-period-april-june-2026/"
+      },
+      {
+        "label": "EMB Mission Bound Signs Agreement to Acquire 51% of MegaBet Plus — MFN release via TradingView, 21 Oct 2026 — primary release",
+        "kind": "primary",
+        "url": "https://www.tradingview.com/news/modular_finance:a3f559e5ac3b4:0-emb-mission-bound-signs-agreement-to-acquire-51-of-megabet-plus-expanding-european-gaming-operations/"
+      },
+      {
+        "label": "EMB Mission Bound AB (publ) publishes year-end report for 2025 — regulatory release via Inderes (Q4-25 revenue SEK 40.5m, EBITDA SEK 16.3m; FY25 revenue SEK 165.6m) — primary release",
+        "kind": "primary",
+        "url": "https://www.inderes.se/releases/emb-mission-bound-ab-publ-publishes-year-end-report-for-2025"
+      },
+      {
+        "label": "EMB Mission Bound AB (publ) — Q3 2025 Interim Report PDF (prior-year restructuring costs SEK 8.6m / 12.4m; seen via search extract) — primary filing",
+        "kind": "primary",
+        "url": "https://storage.mfn.se/1b2b04f3-ee3c-4464-8714-3f3d8bf9ee02/emb-q3-2025.pdf"
+      },
+      {
+        "label": "Gaming Intelligence — 'EMB Mission Bound sees third quarter revenue grow 28%', 24 Nov 2026 (user-supplied; corroborates revenue, MegaBet Plus description and 24 Nov share price) — secondary",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/239029-emb-mission-bound-sees-third-quarter-revenue-grow-28/"
+      },
+      {
+        "label": "Yahoo Finance — EMB.ST quote (prev. close SEK 0.578, day range 0.56–0.59, 52-wk 0.426–0.96) — secondary",
+        "kind": "secondary",
+        "url": "https://finance.yahoo.com/quote/EMB.ST/"
+      },
+      {
+        "label": "Investing.com — EMB Mission Bound share price (SEK 0.522 on 17 Nov 2026) — secondary",
+        "kind": "secondary",
+        "url": "https://uk.investing.com/equities/ll-lucky-games"
+      },
+      {
+        "label": "Bloomberg — USD/SEK 10.23 as of 20 Nov 2026 — secondary (FX)",
+        "kind": "secondary",
+        "url": "https://www.bloomberg.com/quote/USDSEK:CUR"
+      },
+      {
+        "label": "Simply Wall St / Equibles — EMB liquidity and 12-month performance context — secondary",
+        "kind": "secondary",
+        "url": "https://simplywall.st/stocks/se/consumer-services/sto-emb/emb-mission-bound-shares"
+      }
+    ]
+  }
+}
