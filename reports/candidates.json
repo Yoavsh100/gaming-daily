@@ -1,137 +1,5 @@
 [
   {
-    "key": "juris|virginia|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Virginia",
-    "authority": "Virginia Lottery",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/markets/north-america/238254-virginia-sports-wagers-decline-1-in-september/"
-    ],
-    "seen": "2026-11-10"
-  },
-  {
-    "key": "juris|new york|OCTOBER 2026",
-    "type": "jurisdiction",
-    "market": "New York",
-    "authority": null,
-    "period": "OCTOBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238318-new-york-video-gaming-machines-win-132-1-million-in-october/",
-      "https://www.gamingintelligence.com/finance/238522-new-york-mobile-sportsbooks-take-record-handle-in-october/",
-      "https://www.gamingintelligence.com/finance/238518-new-york-lottery-posts-sales-of-565-5-million-in-october/"
-    ],
-    "seen": "2026-11-10"
-  },
-  {
-    "key": "juris|pennsylvania|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Pennsylvania",
-    "authority": "Pennsylvania Lottery",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/sectors/lottery-sectors/238268-pennsylvania-lottery-sales-drop-15-in-september/"
-    ],
-    "seen": "2026-11-10"
-  },
-  {
-    "key": "PTEC.L|FY 2026",
-    "type": "company",
-    "company": "Playtech plc",
-    "ticker": "PTEC.L",
-    "period": "FY 2026",
-    "urls": [
-      "https://next.io/news/results/playtech-lifts-full-year-earnings-guidance-amid-americas-growth/",
-      "https://casinobeats.com/2026/11/10/playtech-lifts-2026-profit-guidance-above-e300m-but-warns-2027-will-be-weaker/",
-      "https://www.gamingintelligence.com/finance/238481-playtech-sees-strong-growth-in-the-americas-in-2026/",
-      "https://igamingfuture.com/playtech-trading-update/",
-      "https://europeangaming.eu/portal/latest-news/2026/11/11/217818/playtech-trading-update-2026-ebitda-guidance/"
-    ],
-    "seen": "2026-11-10"
-  },
-  {
-    "key": "bally s|Q3 2026",
-    "type": "company",
-    "company": "Bally's Corporation",
-    "ticker": "BALY",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238451-ballys-corp-posts-strong-preliminary-results-for-q3/",
-      "https://www.gamblinginsider.com/news/203004/ballys-q3-2026-results-revenue-21-7-10-q-delayed",
-      "https://igamingbusiness.com/finance/ballys-q3-results/",
-      "https://www.yogonet.com/international/news/2026/11/11/127250-ballys-revenue-rises-21-in-q3-as-debt-casino-projects-and-regulatory-pressures-persist",
-      "https://casinobeats.com/2026/11/11/ballys-intralot-speeds-up-uk-online-growth-under-40-duty-as-evoke-deal-slips-to-2027/",
-      "https://next.io/news/investment/cbre-scale-key-ballys-uk-market-consolidation/"
-    ],
-    "seen": "2026-11-10",
-    "sector": "gaming",
-    "africa": false
-  },
-  {
-    "key": "piggs peak hotel and casino|Q2 2026/27",
-    "type": "company",
-    "company": "Piggs Peak Hotel and Casino",
-    "ticker": null,
-    "period": "Q2 2026/27",
-    "urls": [
-      "https://focusgn.com/africa/piggs-peak-hotel-casino-quarterly-profit-eswatini"
-    ],
-    "seen": "2026-11-10"
-  },
-  {
-    "key": "juris|united states|OCTOBER 2026",
-    "type": "jurisdiction",
-    "market": "United States",
-    "authority": null,
-    "period": "OCTOBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238375-us-horse-racing-wagers-jump-by-10-in-october/",
-      "https://www.thegamblest.com/blask-kalshi-leads-polymarket-as-us-prediction-markets-surge-4x/",
-      "https://www.gamblinginsider.com/news/203124/kalshi-polymarket-search-demand-october-2026-blask"
-    ],
-    "seen": "2026-11-10"
-  },
-  {
-    "key": "PTEC.L|Q3 2026",
-    "type": "company",
-    "company": "Playtech plc",
-    "ticker": "PTEC.L",
-    "period": "Q3 2026",
-    "urls": [
-      "https://next.io/news/results/playtech-lifts-full-year-earnings-guidance-amid-americas-growth/",
-      "https://www.gamingintelligence.com/finance/238481-playtech-sees-strong-growth-in-the-americas-in-2026/",
-      "https://casinobeats.com/2026/11/10/playtech-lifts-2026-profit-guidance-above-e300m-but-warns-2027-will-be-weaker/",
-      "https://europeangaming.eu/portal/latest-news/2026/11/11/217818/playtech-trading-update-2026-ebitda-guidance/",
-      "https://www.gamblinginsider.com/news/203419/playtech-hard-rock-pmr-historical-racing-growth"
-    ],
-    "seen": "2026-11-10"
-  },
-  {
-    "key": "bally s intralot|Q3 2026",
-    "type": "company",
-    "company": "Bally's Intralot",
-    "ticker": "INLOT",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238460-ballys-intralot-grows-revenue-to-e286-1-million-in-q3/",
-      "https://casinobeats.com/2026/11/11/ballys-intralot-speeds-up-uk-online-growth-under-40-duty-as-evoke-deal-slips-to-2027/",
-      "https://europeangaming.eu/portal/latest-news/2026/11/12/217863/ballys-intralot-q3-2026-results/",
-      "https://next.io/news/investment/cbre-scale-key-ballys-uk-market-consolidation/"
-    ],
-    "seen": "2026-11-10"
-  },
-  {
-    "key": "galaxy gaming|Q3 2026",
-    "type": "company",
-    "company": "Galaxy Gaming",
-    "ticker": "GLXZ",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238453-galaxy-gaming-revenue-hits-8-million-in-third-quarter/"
-    ],
-    "seen": "2026-11-10"
-  },
-  {
     "key": "brightstar lottery|Q3 2026",
     "type": "company",
     "company": "Brightstar Lottery",
@@ -1037,8 +905,20 @@
     "authority": "GCI / European Casino Association",
     "period": "2023-2025",
     "urls": [
-      "https://next.io/news/regulation/eu-deprived-of-e56bn-in-tax-by-illegal-online-gambling-new-report-claims/"
+      "https://next.io/news/regulation/eu-deprived-of-e56bn-in-tax-by-illegal-online-gambling-new-report-claims/",
+      "https://igamingbusiness.com/offshore-gaming/illegal-online-gambling-europe-report/"
     ],
     "seen": "2026-11-24"
+  },
+  {
+    "key": "juris|great britain|2025/26",
+    "type": "jurisdiction",
+    "market": "Great Britain",
+    "authority": "UK Gambling Commission",
+    "period": "2025/26",
+    "urls": [
+      "https://focusgn.com/uk-gambling-inspections-enforcement-rise"
+    ],
+    "seen": "2026-11-25"
   }
 ]
