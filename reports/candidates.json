@@ -1,82 +1,5 @@
 [
   {
-    "key": "brightstar lottery|Q3 2026",
-    "type": "company",
-    "company": "Brightstar Lottery",
-    "ticker": "BRSL",
-    "period": "Q3 2026",
-    "urls": [
-      "https://next.io/news/results/q326-brightstar-cuts-guidance-pressure-lottery-spending/",
-      "https://www.gamingintelligence.com/finance/238507-brightstar-lottery-posts-lower-net-income-as-q3-revenue-falls-4/"
-    ],
-    "seen": "2026-11-11"
-  },
-  {
-    "key": "lotto nz|FY 2026",
-    "type": "company",
-    "company": "Lotto NZ",
-    "ticker": null,
-    "period": "FY 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238360-lotto-nz-reports-3-sales-growth-in-fy2026/"
-    ],
-    "seen": "2026-11-11"
-  },
-  {
-    "key": "juris|illinois|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "Illinois",
-    "authority": "Illinois Lottery",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238514-illinois-lottery-sales-fall-below-300-million-in-september/"
-    ],
-    "seen": "2026-11-11"
-  },
-  {
-    "key": "catena media|Q3 2026",
-    "type": "company",
-    "company": "Catena Media",
-    "ticker": "CTM.ST",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238526-catena-media-sees-revenue-and-profit-decline-in-q3/",
-      "https://igamingfuture.com/catena-media-q3-2/"
-    ],
-    "seen": "2026-11-11"
-  },
-  {
-    "key": "juris|colombia|NOVEMBER 2-8 2026",
-    "type": "jurisdiction",
-    "market": "Colombia",
-    "authority": "Blask",
-    "period": "NOVEMBER 2-8 2026",
-    "urls": [
-      "https://www.thegamblest.com/blask-liga-betplays-penultimate-round-gives-colombia-its-biggest-betting-demand-day-of-2026/"
-    ],
-    "seen": "2026-11-11"
-  },
-  {
-    "key": "juris|australia|NOVEMBER 2-8 2026",
-    "type": "jurisdiction",
-    "market": "Australia",
-    "authority": "Blask",
-    "period": "NOVEMBER 2-8 2026",
-    "urls": [
-      "https://www.thegamblest.com/blask-melbourne-cup-lifts-australian-betting-demand-34-in-a-week/"
-    ],
-    "seen": "2026-11-11"
-  },
-  {
-    "key": "juris|ireland|2025",
-    "type": "jurisdiction",
-    "market": "Ireland",
-    "authority": null,
-    "period": "2025",
-    "urls": [],
-    "seen": "2026-11-11"
-  },
-  {
     "key": "aristocrat leisure|FY 2026",
     "type": "company",
     "company": "Aristocrat Leisure Limited",
@@ -301,7 +224,8 @@
     "authority": "Michigan Gaming Control Board",
     "period": "OCTOBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/238624-michigan-commercial-casino-revenue-hits-110-million-in-october/"
+      "https://www.gamingintelligence.com/finance/238624-michigan-commercial-casino-revenue-hits-110-million-in-october/",
+      "https://www.gamingintelligence.com/finance/239065-michigan-sports-betting-and-igaming-revenue-nears-390-million-in-october/"
     ],
     "seen": "2026-11-16"
   },
@@ -907,7 +831,8 @@
     "urls": [
       "https://next.io/news/regulation/eu-deprived-of-e56bn-in-tax-by-illegal-online-gambling-new-report-claims/",
       "https://igamingbusiness.com/offshore-gaming/illegal-online-gambling-europe-report/",
-      "https://www.thegamblest.com/eu-black-market-generated-e224-8bn-in-three-years/"
+      "https://www.thegamblest.com/eu-black-market-generated-e224-8bn-in-three-years/",
+      "https://www.yogonet.com/international/news/2026/11/25/127475-illegal-operators-capture-70-of-eu-online-gambling-market-ecacommissioned-report-finds"
     ],
     "seen": "2026-11-24"
   },
@@ -944,7 +869,8 @@
     "authority": "Massachusetts Gaming Commission",
     "period": "OCTOBER 2026",
     "urls": [
-      "https://www.gamingintelligence.com/finance/239017-massachusetts-online-sports-wagers-drop-1-per-cent-in-october/"
+      "https://www.gamingintelligence.com/finance/239017-massachusetts-online-sports-wagers-drop-1-per-cent-in-october/",
+      "https://www.gamingintelligence.com/finance/239022-massachusetts-land-based-gaming-revenue-drops-7-in-october/"
     ],
     "seen": "2026-11-25"
   },
@@ -969,5 +895,18 @@
       "https://www.gamingintelligence.com/finance/239013-arizona-sports-wagering-surpasses-6-5-billion-in-9m-2026/"
     ],
     "seen": "2026-11-25"
+  },
+  {
+    "key": "acroud|Q3 2026",
+    "type": "company",
+    "company": "Acroud AB",
+    "ticker": "ACROUD",
+    "period": "Q3 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://www.gamingintelligence.com/finance/239126-acroud-sees-third-quarter-revenue-fall-10/"
+    ],
+    "seen": "2026-11-26"
   }
 ]
