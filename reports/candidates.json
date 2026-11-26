@@ -66,7 +66,8 @@
       "https://igamingfuture.com/codere-online-q3-2026-revenue-up-31-to-e62-6m/",
       "https://next.io/news/news/codere-online-q3-2026-revenue-mexico-growth/",
       "https://www.gamingintelligence.com/finance/238598-codere-online-gaming-win-rises-30-in-third-quarter/",
-      "https://www.yogonet.com/international/news/2026/11/13/127303-codere-online-q3-revenue-rises-31-as-sher-maintains-fy2026-outlook"
+      "https://www.yogonet.com/international/news/2026/11/13/127303-codere-online-q3-revenue-rises-31-as-sher-maintains-fy2026-outlook",
+      "https://www.thegamblest.com/codere-online-prioritises-latam-markets-over-expansion-and-acquisitions/"
     ],
     "seen": "2026-11-12",
     "sector": "gaming",
@@ -906,6 +907,19 @@
     "africa": false,
     "urls": [
       "https://www.gamingintelligence.com/finance/239126-acroud-sees-third-quarter-revenue-fall-10/"
+    ],
+    "seen": "2026-11-26"
+  },
+  {
+    "key": "tsogo sun|H1 FY2027",
+    "type": "company",
+    "company": "Tsogo Sun Limited",
+    "ticker": "TSG",
+    "period": "H1 FY2027",
+    "sector": "gaming",
+    "africa": true,
+    "urls": [
+      "https://www.gamingintelligence.com/finance/239138-tsogo-suns-first-half-income-falls-despite-online-betting-growth/"
     ],
     "seen": "2026-11-26"
   }
