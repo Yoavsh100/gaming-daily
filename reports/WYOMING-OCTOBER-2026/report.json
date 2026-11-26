@@ -1,0 +1,1314 @@
+{
+  "company": {
+    "name": "Wyoming",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "OCTOBER 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 1350011,
+    "output": 44609,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 64,
+    "cacheRead": 1281659,
+    "cacheWrite": 68288,
+    "turns": 1
+  },
+  "prepared": "26 Nov 2026",
+  "report": {
+    "releaseDate": "c. 19 Nov 2026 (Wyoming Gaming Commission, October 2026 Combined Wagering Activity Report)",
+    "currency": "USD (market reports in USD; tables in $ as stated — no FX conversion required)",
+    "verdict": "October 2026 confirms Wyoming as a small, mature, DraftKings-led, mobile-only sportsbook market whose growth has stalled: handle fell 7.3% YoY to $22.6m, GGR fell 12.4% to $2.47m and state tax fell 9.0% to $177,882, even as lifetime handle crossed $1bn and 2026 YTD remains +6.9%. The regime is among the cheapest and simplest in the US (untethered $100k five-year permit, 10% of net proceeds with promo deductions), but the political direction is prohibitionist on casino-style product: the Select Committee on Gaming has sent a felony ban on online casino and sweepstakes operation to the 2027 session rather than a regulatory framework.",
+    "kpis": [
+      {
+        "label": "OSW handle (Oct-26)",
+        "value": "$22.63m",
+        "delta": "−7.3% YoY / −3.4% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "Gross gaming revenue",
+        "value": "$2.47m",
+        "delta": "−12.4% YoY; hold 10.9%",
+        "dir": "down"
+      },
+      {
+        "label": "Taxable net proceeds",
+        "value": "$1.67m",
+        "delta": "−14.4% YoY / +13.9% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "State tax (10% of net)",
+        "value": "$177,882",
+        "delta": "−9.0% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "YTD handle (Jan–Oct 26)",
+        "value": "$200.0m",
+        "delta": "+6.9% YoY; lifetime >$1.0bn",
+        "dir": "up"
+      },
+      {
+        "label": "DraftKings handle share",
+        "value": "51.7%",
+        "delta": "vs 47.3% Sept-26 / 57.8% Sept-25",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**Headline: Wyoming online sports wagering (OSW) handle fell 7.3% YoY to $22,629,217 in October 2026** (Oct-25: ~$24.4m), the second consecutive YoY decline after September's −14.2%, and −3.4% month-on-month versus September's $23,417,556. All five permit holders reported lower handle than a year earlier.",
+      "**Revenue fell faster than volume: GGR −12.4% YoY to $2,471,163 (hold 10.92%)**, taxable net proceeds −14.4% to $1,671,443 and state tax −9.0% to $177,882. Promotional/non-cash deductions implied at ~$0.80m were 32% of GGR and 3.5% of handle — Wyoming taxes after these deductions, so effective tax was 7.2% of GGR and 0.79% of handle.",
+      "**2026 remains on course for a record year despite the autumn softness**: Jan–Oct handle $200.0m (+6.9% vs $187.1m), YTD tax $1.50m (+10.0%). The state needs only $34.5m in Nov–Dec to beat 2025's $234.5m; Nov–Dec 2025 produced $47.4m. Lifetime handle since the 1 Sept 2021 launch passed $1.0bn in October — the first $500m took three years, the second two.",
+      "**Market structure is 100% online for sports**: there has never been a retail sportsbook counter; the five mobile permit holders are DraftKings, FanDuel, BetMGM, Fanatics and Caesars. Wyoming has no commercial casinos; land-based gaming is historic horse racing (HHR) terminals at pari-mutuel off-track sites, skill-based amusement games (SBAG), tribal casinos on the Wind River Reservation and the Wyoming Lottery.",
+      "**OSW is a sideshow to HHR in dollar terms**: the WGC Executive Director told the Select Committee that ~$2.7bn was wagered across regulated activities in CY2025, of which HHR was ~$2.49bn, and projected >$3bn in 2026. OSW's $234.5m 2025 handle is ~9% of regulated wagering; HHR took $240m in September 2026 alone — more than ten times sports.",
+      "**Concentration is extreme and widening at the top**: DraftKings took $11.69m (51.7% of handle), ~$1.40m GGR (~57% of market GGR) and paid $102,753 (57.8%) of tax; FanDuel $6.11m (27.0%) with the best hold (13.4%); BetMGM $2.74m (12.1%) but a 0.69% hold and negative taxable revenue (−$107,377); Fanatics $1.40m (6.2%); Caesars $0.70m (3.1%). DK+FD = 79% of handle.",
+      "**Licensing regime (HB 133, 2021; W.S. 9-24)**: online-only, untethered (no land-based partner required), uncapped above a statutory minimum of five permits; $100,000 initial permit fee for five years, $50,000 renewal; applicant must already operate online sports wagering in at least three other US states; minimum age 18. Regulator is the nine-member Wyoming Gaming Commission (WGC), Casper.",
+      "**Tax regime**: 10% of net sports wagering proceeds (gross receipts less winnings and the non-cash/promotional deductions state law allows), assessed operator-by-operator with no cross-operator offset — in October the state's $177,882 equalled 10% of the $1,778,820 earned by the four profitable books, i.e. 10.6% of the net market figure because BetMGM's loss did not reduce it. CY2025 tax was $1,852,855 on $25.94m GGR (7.1% effective).",
+      "**Promo intensity is the swing factor for state receipts, not handle**: in September non-cash payouts were cut 32.4% YoY to $780,786, lifting tax +40.2% on −14.2% handle; in October deductions were ~$0.80m, broadly flat MoM, so tax rose +21% MoM on slightly lower handle. FanDuel's taxable revenue rose 67.7% YoY to $598,064 on 5.1% less handle.",
+      "**Political direction is restrictive on casino-style product**: on 5–6 October 2026 the Legislature's Select Committee on Gaming voted 6–0 to forward 27LSO-0098 ('Online casinos and sweepstakes prohibited'), which adds operating an online casino or sweepstakes game to the felony 'professional gambling' definition (up to three years' prison), and declined to advance the VGW-drafted regulatory alternative (27LSO-0200). The Committee's 9 Nov 2026 letter asks Management Council to sponsor it for the General Session opening January 2027.",
+      "**Regulated iGaming is off the table**: HB 0162 (2025) to legalise online casinos never left committee and was not revived in the 2026 budget session; the interim work has moved toward prohibition, not authorisation. There is no iCasino upside to underwrite a Wyoming sportsbook entry.",
+      "**No OSW tax change was proposed in the 2026 interim**: the Committee benchmarked other states' pari-mutuel, OSW and SBAG tax rates and distributions but tabled nothing on the 10% OSW rate. A draft to raise combined HHR fees from 1.9% to 2% of handle (27LSO-0199) died for lack of a second; a minimum horse-racing purse contribution (27LSO-0054) was not recommended.",
+      "**Responsible-gambling funding is the live levy risk**: 27LSO-0096 (RG and problem-gambling prevention funding, draft v0.5) — presented in July as drawing on OSW, pari-mutuel and SBAG revenues — received no final action and was flagged for further study. Today PG funding relies on limited statutory allocations from OSW tax and lottery; the Director called problem gaming 'a growing concern'.",
+      "**Product rules tightened in the period**: the WGC's catalog of events bans proposition bets on individual college athletes from 1 October 2026; geolocation, age verification and gaming on tribal lands were discussed by the Committee in the context of the sweepstakes ban.",
+      "**Land-based expansion is being localised**: 2026 legislation requires city, town or county approval for off-track HHR sites, applying to existing sites from July 2027 — a constraint on the HHR operators (Wyoming Horse Racing, Wyoming Downs, 307 Horse Racing) that dominate Wyoming wagering.",
+      "**Regulator capacity and governance**: WGC oversight costs exceed $1m; the Committee considered but did not recommend governance-structure changes; 27LSO-0201 (6–0) would cut fingerprint/background checks from annual to once at initial application. Enforcement ambiguity between gambling statutes and consumer-protection law on sweepstakes is the stated driver of the ban bill.",
+      "**Payments**: standard US card/ACH/e-wallet rails; mobile money is irrelevant. Wyoming's OSW statute is cited as uniquely permitting digital assets as a funding method [unverified — from background knowledge, not a source read for this brief].",
+      "**Read-through for B2Tech**: Wyoming is a cheap, stable, untethered licence with a 7% effective GGR tax — but the prize is ~$26m annual GGR (~$18m after promos) split five ways, growth has stalled at low single digits, the three-state prerequisite excludes new US entrants, and casino-style product is heading toward criminalisation. A #3 slot is contestable given BetMGM's 0.69% hold, but only as a marginal add-on to an existing multi-state US footprint, not a standalone entry."
+    ],
+    "groupTable": {
+      "note": "Wyoming — regulated gaming summary (US$)",
+      "columns": [
+        "Oct-26",
+        "MoM",
+        "YoY",
+        "YTD Jan–Oct 26",
+        "YTD YoY"
+      ],
+      "rows": [
+        {
+          "label": "Online sports wagering (100% mobile; 5 permit holders)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Handle (stakes)",
+          "indent": true,
+          "cells": [
+            "$22.63m",
+            "−3.4%",
+            "−7.3%",
+            "$200.0m",
+            "+6.9%"
+          ]
+        },
+        {
+          "label": "Gross gaming revenue (GGR)",
+          "indent": true,
+          "cells": [
+            "$2.47m",
+            "+0.9%",
+            "−12.4%",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Hold (GGR/handle)",
+          "indent": true,
+          "cells": [
+            "10.92%",
+            "+0.4pp",
+            "−0.6pp (Oct-25 ~11.6%)",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Promo / non-cash deductions (derived: GGR − taxable)",
+          "indent": true,
+          "cells": [
+            "~$0.80m (32% of GGR)",
+            "+2%",
+            "~−8%",
+            "n/a",
+            "n/a"
+          ],
+          "footnote": "Derived from reported GGR and taxable figures; Sept-26 deductions reported at $780,786."
+        },
+        {
+          "label": "Taxable net proceeds (NGR for tax)",
+          "indent": true,
+          "cells": [
+            "$1.67m",
+            "+13.9%",
+            "−14.4%",
+            "~$15.0m (implied from tax)",
+            "~+10%"
+          ]
+        },
+        {
+          "label": "State tax (10% of net, per operator)",
+          "indent": true,
+          "kind": "emphasis",
+          "cells": [
+            "$177,882",
+            "+21.3%",
+            "−9.0%",
+            "$1.50m",
+            "+10.0%"
+          ]
+        },
+        {
+          "label": "Effective tax / GGR",
+          "indent": true,
+          "cells": [
+            "7.2%",
+            "",
+            "CY2025: 7.1%",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Handle share — DraftKings / FanDuel / BetMGM / Fanatics / Caesars",
+          "indent": true,
+          "cells": [
+            "51.7% / 27.0% / 12.1% / 6.2% / 3.1%",
+            "DK 47.3% in Sept-26",
+            "DK 57.8% in Sept-25",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Annual OSW series",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Handle CY2022 / CY2023 / CY2024 / CY2025",
+          "indent": true,
+          "cells": [
+            "$144.5m / $172.2m / $209.6m / $234.5m",
+            "",
+            "CY25 +11.9%",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "GGR CY2025 / hold / tax",
+          "indent": true,
+          "cells": [
+            "$25.94m / 11.06% / $1.85m",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Lifetime handle since 1 Sep 2021",
+          "indent": true,
+          "cells": [
+            ">$1.0bn (Oct-26)",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Other regulated verticals",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "HHR handle (pari-mutuel terminals, retail)",
+          "indent": true,
+          "cells": [
+            "Sept-26: $240m",
+            "",
+            "Oct-25: $217.8m",
+            "CY2025: ~$2.49bn",
+            ""
+          ]
+        },
+        {
+          "label": "Total regulated wagering, all verticals",
+          "indent": true,
+          "cells": [
+            "",
+            "",
+            "",
+            "CY2025 ~$2.7bn; CY2026E >$3bn (WGC)",
+            ""
+          ]
+        },
+        {
+          "label": "Online penetration of sports betting / of all wagering",
+          "indent": true,
+          "cells": [
+            "100% / ~9%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Regime",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Licensed OSW operators",
+          "indent": true,
+          "cells": [
+            "5 (statutory minimum 5, no cap)",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Permit fee / term / renewal",
+          "indent": true,
+          "cells": [
+            "$100,000 / 5 yrs / $50,000",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Tax base / rate",
+          "indent": true,
+          "cells": [
+            "Net proceeds (GGR less promos) / 10%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "HHR fee base / rate",
+          "indent": true,
+          "cells": [
+            "Handle / 1.9% combined (2% proposal died)",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Online sports wagering — market, operators and October 2026 performance",
+        "headline": "A $22.6m-a-month, five-operator mobile market in which DraftKings and FanDuel take 79% of stakes and BetMGM is effectively paying to play.",
+        "narrative": [
+          "The Wyoming Gaming Commission's October 2026 combined wagering activity report shows $22,629,217 of online sports stakes, down 7.3% from roughly $24.4m in October 2025 and 3.4% below September's $23,417,556. Gross gaming revenue was $2,471,163, a 10.92% hold, down 12.4% year on year from an implied ~$2.82m (a secondary outlet reported ~$2.9m for October 2025; the regulator-derived figure is used here). After the non-cash and promotional deductions permitted by statute, taxable net proceeds were $1,671,443 (−14.4% YoY, +13.9% MoM) and the state collected $177,882 (−9.0% YoY, +21.3% MoM). This is the first time in 2026 that handle has fallen year on year in two consecutive months; March set the all-time monthly record at $28.5m and July was +45.5%, so the autumn weakness follows a strong first half and leaves Jan–Oct handle at $200.0m, +6.9% on $187.1m, with YTD tax up 10.0% at $1.50m.",
+          "Operator performance diverged sharply. DraftKings took $11,688,315 (51.7% of handle, roughly −1% YoY against $11.8m), generated ~$1.40m of GGR (~12.0% hold, ~57% of market GGR), reported $1,027,530 of taxable revenue and paid $102,753 — 57.8% of the state's take. Its handle share has swung from 57.8% (Sept-25) to 47.3% (Sept-26) and back to 51.7%, so the October reading is a recovery rather than a new high. FanDuel handled ~$6.11m (27.0%, −5.1% YoY from ~$6.43m) but held 13.4%, the best of the big three, lifting taxable revenue 67.7% to $598,064 and tax to $59,806 from $35,653 — FanDuel now remits about 58 cents for every dollar DraftKings pays on half the volume. BetMGM's handle fell 25.1% to $2,735,592 (from ~$3.65m) and its GGR collapsed to $18,818 (0.69% hold, versus $359,650 a year earlier); with deductions exceeding GGR, taxable revenue was −$107,377 and tax nil, a ~$341k negative swing in taxable revenue year on year. Fanatics handled $1,396,453 (9.6% hold, GGR $134,375, taxable $78,046, tax $7,805) after a September in which it paid just $279 on $1.8m of stakes; Caesars handled $703,639 (14.7% hold, GGR $103,743, taxable $75,180, tax $7,518).",
+          "Promotional spend, not volume, is the main driver of state receipts and of operator economics in this market. Implied deductions were ~$0.80m in October (32% of GGR, 3.5% of handle), with DraftKings and FanDuel each deducting ~26–27% of GGR, Caesars 28%, Fanatics 42% and BetMGM more than 100%. In September the market cut non-cash payouts 32.4% YoY to $780,786, which was enough to raise tax 40.2% on 14.2% less handle. For an operator, the practical read is that Wyoming's tax base rewards promotional reinvestment (every bonus dollar is tax-deductible) but the small pool means promotional share wars are zero-sum: the whole market's taxable revenue is ~$1.7m a month, and the three sub-scale brands shared ~$46k of taxable revenue between them in October.",
+          "Scale is the binding constraint. Calendar 2025 produced $234.5m of handle (+11.9%), $25.9m of GGR at an 11.06% hold and $1.85m of tax; the 2026 run-rate is ~$240–247m of handle and roughly flat GGR. Against a population under 600,000 the market is already mature (handle grew +19% in 2023, +22% in 2024, +12% in 2025 and is tracking +3–5% in 2026), and the Gaming Intelligence weekly review notes that all five brands reported lower October handle. Lifetime, the regulator-reported series shows >$1.0bn of handle, ~$96m+ of GGR and ~$6m+ of tax since launch. The commercial implication for a sixth entrant is that a 10% handle share — the whole of BetMGM's current position — is worth ~$2.3m of stakes and ~$0.25m of GGR a month before promotions, which does not fund a state-specific marketing programme; Wyoming only makes sense as a near-zero-incremental-cost extension of a national platform, which is precisely what the three-other-states eligibility test presumes.",
+          "There is no segment guidance from the regulator. On the regulator-reported run-rate, our estimate is CY2026 handle of ~$241–247m (+3–5%), GGR ~$25–27m (hold-dependent) and tax ~$1.95–2.0m (+5–8%), with the record contingent on Nov–Dec delivering at least $34.5m against last year's $47.4m. These are estimates, not reported figures."
+        ],
+        "table": {
+          "note": "Wyoming OSW by operator — October 2026 (US$)",
+          "columns": [
+            "Handle",
+            "Handle share",
+            "GGR",
+            "Hold",
+            "Taxable net proceeds",
+            "Tax due",
+            "Handle YoY"
+          ],
+          "rows": [
+            {
+              "label": "DraftKings",
+              "cells": [
+                "$11,688,315",
+                "51.7%",
+                "~$1.40m",
+                "~12.0%",
+                "$1,027,530",
+                "$102,753",
+                "~−1% (vs ~$11.8m)"
+              ]
+            },
+            {
+              "label": "FanDuel",
+              "cells": [
+                "~$6,105,218",
+                "27.0%",
+                "~$0.82m",
+                "13.4%",
+                "$598,064",
+                "$59,806",
+                "−5.1%"
+              ]
+            },
+            {
+              "label": "BetMGM",
+              "cells": [
+                "$2,735,592",
+                "12.1%",
+                "$18,818",
+                "0.69%",
+                "−$107,377",
+                "$0",
+                "−25.1%"
+              ]
+            },
+            {
+              "label": "Fanatics",
+              "cells": [
+                "$1,396,453",
+                "6.2%",
+                "$134,375",
+                "9.6%",
+                "$78,046",
+                "$7,805",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Caesars",
+              "cells": [
+                "$703,639",
+                "3.1%",
+                "$103,743",
+                "14.7%",
+                "$75,180",
+                "$7,518",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Market total",
+              "kind": "emphasis",
+              "cells": [
+                "$22,629,217",
+                "100%",
+                "$2,471,163",
+                "10.92%",
+                "$1,671,443",
+                "$177,882",
+                "−7.3%"
+              ]
+            },
+            {
+              "label": "Memo: Oct-25 (implied from reported YoY)",
+              "cells": [
+                "~$24.4m",
+                "",
+                "~$2.82m",
+                "~11.6%",
+                "~$1.95m",
+                "~$195.5k",
+                ""
+              ],
+              "footnote": "FanDuel handle and GGR, DraftKings GGR and Oct-25 totals derived from reported shares/percentages; sum of positive taxable = $1,778,820 (basis for tax)."
+            },
+            {
+              "label": "Memo: Sept-26",
+              "cells": [
+                "$23,417,556",
+                "",
+                "$2.45m",
+                "10.5%",
+                "$1.47m",
+                "$146,687",
+                "−14.2%"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "October 2026 market totals",
+            "takeaway": "Online sports stakes were $22,629,217 in October 2026, down 7.3% from roughly $24.4m in October 2025 and 3.4% below September's $23,417,556.",
+            "points": [
+              "Gross gaming revenue was $2,471,163, a 10.92% hold, down 12.4% year on year from an implied ~$2.82m (a secondary outlet reported ~$2.9m; regulator-derived figure used).",
+              "Taxable net proceeds after non-cash and promotional deductions were $1,671,443 (−14.4% YoY, +13.9% MoM); the state collected $177,882 (−9.0% YoY, +21.3% MoM).",
+              "First time in 2026 that handle has fallen year on year in two consecutive months; March set the all-time monthly record at $28.5m and July was +45.5%.",
+              "Jan–Oct handle is $200.0m, +6.9% on $187.1m, with YTD tax up 10.0% at $1.50m."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Operator performance",
+            "takeaway": "Performance diverged sharply: DraftKings and FanDuel take 79% of stakes while BetMGM's GGR collapsed to $18,818 and it paid no tax.",
+            "points": [
+              "DraftKings: $11,688,315 handle (51.7%, roughly −1% YoY against $11.8m), ~$1.40m GGR (~12.0% hold, ~57% of market GGR), taxable $1,027,530, tax $102,753 — 57.8% of the state's take.",
+              "DraftKings' handle share swung from 57.8% (Sept-25) to 47.3% (Sept-26) and back to 51.7%, so October is a recovery rather than a new high.",
+              "FanDuel: ~$6.11m handle (27.0%, −5.1% YoY from ~$6.43m), 13.4% hold (best of the big three), taxable revenue +67.7% to $598,064, tax $59,806 from $35,653.",
+              "FanDuel now remits about 58 cents for every dollar DraftKings pays on half the volume.",
+              "BetMGM: handle −25.1% to $2,735,592 (from ~$3.65m), GGR $18,818 (0.69% hold, versus $359,650), taxable −$107,377, tax nil — a ~$341k negative swing in taxable revenue YoY."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Fanatics and Caesars",
+            "takeaway": "The two smallest brands contributed modest taxable revenue, with Fanatics recovering from a September in which it paid just $279.",
+            "points": [
+              "Fanatics handled $1,396,453 (9.6% hold, GGR $134,375, taxable $78,046, tax $7,805) after paying just $279 on $1.8m of stakes in September.",
+              "Caesars handled $703,639 (14.7% hold, GGR $103,743, taxable $75,180, tax $7,518)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Promotional spend",
+            "takeaway": "Promotional spend, not volume, is the main driver of state receipts and operator economics in this market.",
+            "points": [
+              "Implied deductions were ~$0.80m in October (32% of GGR, 3.5% of handle); DraftKings and FanDuel each deducted ~26–27% of GGR, Caesars 28%, Fanatics 42%, BetMGM more than 100%.",
+              "In September the market cut non-cash payouts 32.4% YoY to $780,786, enough to raise tax 40.2% on 14.2% less handle.",
+              "Wyoming's tax base rewards promotional reinvestment (every bonus dollar is tax-deductible) but the small pool makes promotional share wars zero-sum.",
+              "The whole market's taxable revenue is ~$1.7m a month; the three sub-scale brands shared ~$46k of taxable revenue between them in October."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Scale constraint",
+            "takeaway": "Scale is the binding constraint: a mature market tracking +3–5% in 2026 against a population under 600,000.",
+            "points": [
+              "Calendar 2025 produced $234.5m of handle (+11.9%), $25.9m of GGR at an 11.06% hold and $1.85m of tax; 2026 run-rate is ~$240–247m of handle and roughly flat GGR.",
+              "Handle grew +19% in 2023, +22% in 2024, +12% in 2025 and is tracking +3–5% in 2026; Gaming Intelligence notes all five brands reported lower October handle.",
+              "Lifetime, the regulator-reported series shows >$1.0bn of handle, ~$96m+ of GGR and ~$6m+ of tax since launch.",
+              "A 10% handle share — the whole of BetMGM's current position — is worth ~$2.3m of stakes and ~$0.25m of GGR a month before promotions, which does not fund a state-specific marketing programme.",
+              "Wyoming only makes sense as a near-zero-incremental-cost extension of a national platform, which the three-other-states eligibility test presumes."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Guidance and estimates",
+            "takeaway": "No regulator guidance exists; our estimate is CY2026 handle of ~$241–247m (+3–5%), GGR ~$25–27m and tax ~$1.95–2.0m (+5–8%).",
+            "points": [
+              "GGR estimate is hold-dependent.",
+              "A record year is contingent on Nov–Dec delivering at least $34.5m against last year's $47.4m.",
+              "These are estimates, not reported figures."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Licensing & tax regime — online sports wagering",
+        "headline": "One of the cheapest, simplest US sportsbook regimes: untethered $100k/5-year permit, 10% of net proceeds with promo deductions, but entry is reserved for operators already live in three other states.",
+        "narrative": [
+          "Wyoming's online sports wagering was created by House Bill 133, signed by Governor Mark Gordon on 5 April 2021, with the first bets taken on 1 September 2021. The regulator is the Wyoming Gaming Commission, a nine-member body in Casper that began life in 1967 as the Pari-Mutuel Commission and now oversees OSW, pari-mutuel/HHR, skill-based amusement games and charitable gaming. The statute is unusual among US states in three respects: it is online-only, with no retail sportsbook channel; it is untethered, so no land-based casino or racetrack partner is needed; and it sets a statutory floor of at least five permits with no ceiling. Eligibility is the gate — an applicant must already offer online sports wagering in at least three other US states, which in practice confines the market to national brands and excludes a de novo entrant.",
+          "Fees are nominal by US standards: $100,000 for an initial five-year operator permit and $50,000 on renewal, versus seven- and eight-figure entry costs in Pennsylvania, Illinois or New York. The tax is 10% of net sports wagering proceeds, defined as gross receipts less winnings paid and the non-cash/promotional deductions allowed by statute, and assessed per operator. Two features matter for modelling: there is no cross-operator or cross-month offset (BetMGM's −$107,377 in October produced zero tax but did not reduce the state's take from the other four, so the state's $177,882 was 10.6% of the net market figure), and because deductions are uncapped the effective rate on GGR has run at ~7% (7.2% in October, 7.1% for CY2025) rather than the headline 10%. Whether losses can be carried forward within an operator's own subsequent months is not stated in the sources read [unverified].",
+          "Revenue allocation is modest and largely goes to the state. The May 2026 Select Committee minutes record that problem-gaming programmes are funded from 'limited, statutorily defined revenue streams' from OSW and lottery allocations, which the Committee and the WGC Director regard as inadequate; our background understanding is that a fixed first tranche of OSW tax each year is directed to the Department of Health for problem-gambling treatment with the balance to the General Fund [unverified — amount not confirmed in sources read]. Total OSW tax of $1.85m in 2025 is immaterial to a state budget and far below HHR distributions, which is why the Legislature's 2026 interim work on tax rates focused on HHR (a 1.9%→2% of handle proposal that died for lack of a second) and on comparative benchmarking rather than on the OSW rate.",
+          "The commercial implication is a regime that is cheap to enter and cheap to operate but offers no shelter: with a $100k permit and ~7% effective tax, the state is not where margin is lost — marketing in a five-brand market with ~$1.7m of monthly taxable revenue is. The regime also shows no sign of the tax-rate escalation seen in Illinois, Ohio or New Jersey: the Committee reviewed other states' rates and distributions and recommended nothing on OSW. The nearest live risk to the base is 27LSO-0096, a responsible-gaming funding draft that would draw on OSW, pari-mutuel and SBAG revenues; it was not forwarded in October but was explicitly flagged for further study."
+        ],
+        "table": {
+          "note": "Wyoming OSW regime parameters",
+          "columns": [
+            "Rule",
+            "Status / source"
+          ],
+          "rows": [
+            {
+              "label": "Enabling law",
+              "cells": [
+                "HB 133 (2021), signed 5 Apr 2021; Wyoming Statutes Title 9, Ch. 24 (OSW); launch 1 Sep 2021",
+                "Primary (statute) — confirmed via secondary summaries"
+              ]
+            },
+            {
+              "label": "Regulator",
+              "cells": [
+                "Wyoming Gaming Commission (9 members, Casper); OSW Rules; Catalog of Events",
+                "Primary (gaming.wyo.gov)"
+              ]
+            },
+            {
+              "label": "Channel",
+              "cells": [
+                "Online/mobile only; no retail counters ever licensed",
+                "Confirmed"
+              ]
+            },
+            {
+              "label": "Tether / cap",
+              "cells": [
+                "No land-based partner required; statutory minimum 5 permits; no cap",
+                "Confirmed"
+              ]
+            },
+            {
+              "label": "Eligibility",
+              "cells": [
+                "Must already operate OSW in ≥3 other US states; WGC suitability/background checks (27LSO-0201 would cut fingerprinting to once at application)",
+                "Confirmed"
+              ]
+            },
+            {
+              "label": "Permit fee / term",
+              "cells": [
+                "$100,000 initial, 5 years; $50,000 renewal",
+                "Confirmed (LSR, Covers)"
+              ]
+            },
+            {
+              "label": "Tax base",
+              "cells": [
+                "Net sports wagering proceeds = gross receipts − winnings − permitted non-cash/promotional deductions; per operator, no cross-operator offset",
+                "Confirmed (rg.org / WGC report)"
+              ]
+            },
+            {
+              "label": "Tax rate",
+              "cells": [
+                "10%; effective 7.2% of GGR (Oct-26), 7.1% (CY2025)",
+                "Confirmed / derived"
+              ]
+            },
+            {
+              "label": "Tax take",
+              "cells": [
+                "Oct-26 $177,882; YTD $1.50m; CY2025 $1,852,855; lifetime ~$6m+",
+                "Confirmed"
+              ]
+            },
+            {
+              "label": "Allocation of tax",
+              "cells": [
+                "Fixed first tranche to Dept of Health problem-gambling; remainder General Fund",
+                "[unverified — amount not confirmed]"
+              ]
+            },
+            {
+              "label": "Minimum age",
+              "cells": [
+                "18",
+                "Confirmed (secondary)"
+              ]
+            },
+            {
+              "label": "Pending change to OSW rate",
+              "cells": [
+                "None proposed in 2026 interim; RG funding draft 27LSO-0096 (would draw on OSW) held for further study",
+                "Primary (Select Committee minutes/letter)"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Statutory framework",
+            "takeaway": "Created by House Bill 133 (signed 5 April 2021, first bets 1 September 2021), the regime is online-only, untethered and sets a floor of five permits with no ceiling.",
+            "points": [
+              "Regulator is the Wyoming Gaming Commission, a nine-member body in Casper that began life in 1967 as the Pari-Mutuel Commission; it also oversees pari-mutuel/HHR, skill-based amusement games and charitable gaming.",
+              "No retail sportsbook channel; no land-based casino or racetrack partner needed.",
+              "Eligibility is the gate: applicants must already offer online sports wagering in at least three other US states, confining the market to national brands and excluding de novo entrants."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Fees and tax",
+            "takeaway": "Fees are nominal ($100,000 initial five-year permit, $50,000 renewal) and tax is 10% of net proceeds, running at ~7% effective on GGR.",
+            "points": [
+              "Compares with seven- and eight-figure entry costs in Pennsylvania, Illinois or New York.",
+              "Net proceeds are gross receipts less winnings paid and statutory non-cash/promotional deductions, assessed per operator.",
+              "No cross-operator or cross-month offset: BetMGM's −$107,377 produced zero tax but did not reduce the others' take, so the state's $177,882 was 10.6% of the net market figure.",
+              "Deductions are uncapped, so the effective rate on GGR has run at ~7% (7.2% in October, 7.1% for CY2025) rather than the headline 10%.",
+              "Whether losses can be carried forward within an operator's own subsequent months is not stated in the sources read [unverified]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Revenue allocation",
+            "takeaway": "OSW tax of $1.85m in 2025 is immaterial to the state budget and far below HHR distributions, so legislative tax work focuses on HHR.",
+            "points": [
+              "May 2026 Select Committee minutes record problem-gaming programmes funded from 'limited, statutorily defined revenue streams' from OSW and lottery allocations, regarded as inadequate by the Committee and WGC Director.",
+              "Our background understanding is a fixed first tranche of OSW tax goes to the Department of Health for problem-gambling treatment with the balance to the General Fund [unverified — amount not confirmed].",
+              "The 2026 interim work focused on HHR (a 1.9%→2% of handle proposal that died for lack of a second) and comparative benchmarking rather than the OSW rate."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Commercial implication",
+            "takeaway": "The regime is cheap to enter and operate but offers no shelter: margin is lost in marketing, not to the state.",
+            "points": [
+              "With a $100k permit and ~7% effective tax, marketing in a five-brand market with ~$1.7m of monthly taxable revenue is where margin is lost.",
+              "No sign of the tax-rate escalation seen in Illinois, Ohio or New Jersey; the Committee reviewed other states' rates and recommended nothing on OSW.",
+              "Nearest live risk is 27LSO-0096, a responsible-gaming funding draft drawing on OSW, pari-mutuel and SBAG revenues; not forwarded in October but explicitly flagged for further study."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Land-based & other verticals — historic horse racing, skill games, lottery, tribal",
+        "headline": "HHR terminals are the real Wyoming gaming market — ~$2.49bn of 2025 handle, >10x sports — and they, not sportsbooks, drive the state's tax and political agenda.",
+        "narrative": [
+          "Wyoming has no commercial casinos. The land-based market is built on pari-mutuel permits that allow historic horse racing (HHR) terminals — slot-style machines resolved on archived races — at off-track wagering sites, plus live racing, skill-based amusement games (SBAG) in bars and convenience stores, two tribes' Class III casinos on the Wind River Reservation, and a lottery that sells draw games only. The WGC Executive Director told the Select Committee that regulated wagering was ~$2.7bn in CY2025, of which HHR was ~$2.49bn, with distributions to the breeders' award fund, the WGC, the Legislative Stabilization Reserve Account, counties and municipalities, and he projected more than $3bn in 2026. On monthly data cited from WGC reports, HHR handle was $217.8m in October 2025 — Wyoming Horse Racing $82.3m, Wyoming Downs $79.4m and 307 Horse Racing $56.2m — and $240m in September 2026, versus $23.4m of sports stakes. A secondary market-research estimate puts CY2025 HHR GGR at ~$211.8m (~90% of the state's gaming revenue) and SBAG handle at ~$30.6m; these are estimates and are not regulator-reported.",
+          "The HHR fee regime is based on handle, not GGR: combined fees of 1.9% of amounts wagered, which the Committee considered lifting to 2% (27LSO-0199) alongside a minimum purse contribution for Wyoming racing (27LSO-0054); neither was recommended in the 9 November letter. Because HHR is a handle-taxed, high-payout product, the state's receipts are structurally larger and steadier than OSW's — which is why OSW tax policy attracts little legislative attention and why the HHR permit holders, not the sportsbooks, are the incumbent lobby. The 2026 session's requirement that off-track HHR sites obtain city, town or county approval, applying to existing sites from July 2027, is the one material constraint on HHR growth and may trigger a wave of local votes through 2027.",
+          "For an online operator, the land-based verticals matter in two ways. First, there is no retail or on-premise sportsbook channel to tether to or compete against, so customer acquisition is entirely digital and national-brand-driven. Second, the HHR operators are the natural proponents of any future iGaming or 'online HHR' authorisation and the natural opponents of online casino competition; with regulated iGaming dead (HB 162, 2025) and the sweepstakes ban advancing, the land-based incumbents' position is being protected rather than opened. Tribal casinos (Northern Arapaho and Eastern Shoshone) operate under compacts outside WGC reporting; their revenues and any on-reservation sports betting are not disclosed in the sources read [n/a].",
+          "Lottery: the Wyoming Lottery Corporation testified to the Committee on responsible-gaming funding; lottery transfers are a statutory PG funding source alongside OSW tax. Sales and transfer figures were not in the sources read for this brief [n/a]."
+        ],
+        "table": {
+          "note": "Wyoming land-based and other verticals (US$)",
+          "columns": [
+            "Value",
+            "Period",
+            "Basis / source"
+          ],
+          "rows": [
+            {
+              "label": "Total regulated wagering (all verticals)",
+              "cells": [
+                "~$2.7bn; >$3bn projected 2026",
+                "CY2025 / CY2026E",
+                "WGC Director to Select Committee (primary)"
+              ]
+            },
+            {
+              "label": "HHR handle",
+              "cells": [
+                "~$2.49bn",
+                "CY2025",
+                "Select Committee minutes (primary)"
+              ]
+            },
+            {
+              "label": "HHR handle, monthly",
+              "cells": [
+                "$217.8m (Oct-25); $240m (Sept-26)",
+                "Monthly",
+                "WGC reports via trade press"
+              ]
+            },
+            {
+              "label": "HHR operators (Oct-25 handle)",
+              "cells": [
+                "Wyoming Horse Racing $82.3m; Wyoming Downs $79.4m; 307 Horse Racing $56.2m",
+                "Oct-25",
+                "WGC via Focus Gaming News"
+              ]
+            },
+            {
+              "label": "HHR fee base / rate",
+              "cells": [
+                "Handle / 1.9% combined; 2% proposal (27LSO-0199) died Oct-26",
+                "Current",
+                "Select Committee (primary)"
+              ]
+            },
+            {
+              "label": "HHR GGR (estimate)",
+              "cells": [
+                "~$211.8m",
+                "CY2025",
+                "iGamingToday estimate — secondary, unverified"
+              ]
+            },
+            {
+              "label": "SBAG handle (estimate)",
+              "cells": [
+                "~$30.6m",
+                "CY2025",
+                "iGamingToday estimate — secondary, unverified"
+              ]
+            },
+            {
+              "label": "OTB/HHR site siting rule",
+              "cells": [
+                "Local (city/town/county) approval required; applies to existing sites from Jul-2027",
+                "2026 legislation",
+                "iGaming Times (secondary)"
+              ]
+            },
+            {
+              "label": "Tribal casinos (Wind River)",
+              "cells": [
+                "n/a — compact-regulated, not WGC-reported",
+                "",
+                ""
+              ]
+            },
+            {
+              "label": "Lottery (WyoLotto)",
+              "cells": [
+                "n/a in sources read",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Market structure and HHR",
+            "takeaway": "HHR terminals are the real Wyoming gaming market at ~$2.49bn of ~$2.7bn regulated CY2025 wagering, more than 10x sports.",
+            "points": [
+              "Wyoming has no commercial casinos; the land-based market is HHR terminals at off-track sites, live racing, SBAG in bars and convenience stores, two tribal Class III casinos and a draw-only lottery.",
+              "WGC Executive Director projected more than $3bn in 2026; distributions go to the breeders' award fund, the WGC, the Legislative Stabilization Reserve Account, counties and municipalities.",
+              "HHR handle was $217.8m in October 2025 — Wyoming Horse Racing $82.3m, Wyoming Downs $79.4m, 307 Horse Racing $56.2m — and $240m in September 2026, versus $23.4m of sports stakes.",
+              "A secondary market-research estimate puts CY2025 HHR GGR at ~$211.8m (~90% of state gaming revenue) and SBAG handle at ~$30.6m; these are not regulator-reported."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "HHR fee regime",
+            "takeaway": "HHR is taxed on handle at 1.9%, making state receipts structurally larger and steadier than OSW's and HHR permit holders the incumbent lobby.",
+            "points": [
+              "The Committee considered lifting fees to 2% (27LSO-0199) alongside a minimum purse contribution (27LSO-0054); neither was recommended in the 9 November letter.",
+              "This is why OSW tax policy attracts little legislative attention.",
+              "The 2026 session's requirement that off-track HHR sites obtain city, town or county approval, applying to existing sites from July 2027, is the one material constraint on HHR growth and may trigger local votes through 2027."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Implications for online operators",
+            "takeaway": "There is no retail sportsbook channel, so acquisition is entirely digital, and HHR incumbents' position is being protected rather than opened.",
+            "points": [
+              "No retail or on-premise sportsbook channel to tether to or compete against; acquisition is national-brand-driven.",
+              "HHR operators are natural proponents of any future iGaming or 'online HHR' authorisation and natural opponents of online casino competition.",
+              "Regulated iGaming is dead (HB 162, 2025) and the sweepstakes ban is advancing.",
+              "Tribal casinos (Northern Arapaho and Eastern Shoshone) operate under compacts outside WGC reporting; revenues and any on-reservation sports betting are not disclosed [n/a]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Lottery",
+            "takeaway": "Lottery transfers are a statutory problem-gambling funding source alongside OSW tax; sales and transfer figures were not in sources read.",
+            "points": [
+              "The Wyoming Lottery Corporation testified to the Committee on responsible-gaming funding.",
+              "Sales and transfer figures not available for this brief [n/a]."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Online casino, sweepstakes & the 2027 legislative pipeline",
+        "headline": "The Legislature's interim committee chose prohibition over regulation: a felony ban on online casino and sweepstakes operation goes to the January 2027 session.",
+        "narrative": [
+          "The Select Committee on Gaming — created in 2025 and reauthorised by Management Council on 1 April 2026 — spent the 2026 interim on gaming tax distributions, pari-mutuel operations, charitable gaming, online sweepstakes, responsible gaming and WGC governance. At its 5–6 October meeting in Rock Springs it reviewed two opposed drafts on casino-style online product. 27LSO-0098 ('Online casinos and sweepstakes prohibited', working draft 0.2) expands the definition of 'professional gambling' to include operating an online casino or sweepstakes game for play by another person and targets the dual-coin systems used by social casinos; professional gambling is already a felony carrying up to three years. 27LSO-0200 would instead have authorised online sweepstakes under a regulatory framework, drafted from statutory revisions submitted by Virtual Gaming Worlds. After a WGC demonstration and testimony from Executive Director Nicholas Larramendy that complaints currently cycle between the Commission and consumer protection because neither statute clearly applies, the Committee approved 27LSO-0098 as amended by a 6–0 roll call for favourable recommendation to Management Council and did not advance 27LSO-0200. Several trade reports published on 8–9 October said no vote had been taken; the official minutes and the Committee's 9 November letter confirm the 6–0 vote and the recommendation.",
+          "The letter dated 9 November 2026 forwards two drafts for sponsorship: 27LSO-0098 and 27LSO-0201 (gaming background checks, reducing fingerprinting from annually to once at initial application or as the Commission requires). Management Council decides whether to sponsor them for the General Session opening in January 2027; a committee-sponsored bill in Wyoming typically needs a two-thirds introduction vote in a budget session but not in a general session, so the 2027 calendar is favourable to passage. The Committee considered but did not recommend the HHR fee increase, the purse minimum, governance restructuring of the WGC, or the responsible-gaming funding draft; a charitable-raffle net-proceeds minimum and progressive-raffle regulation were discussed for further work.",
+          "Regulated iGaming has no path in this cycle. HB 0162 (2025), which would have legalised online casinos, never left committee; the idea did not return in the 2026 budget session and the interim's output points the other way. Wyoming would be joining a growing list of states criminalising sweepstakes casinos rather than taxing them — a policy choice that protects the HHR permit holders and reflects the Committee's framing of sweepstakes as unregulated gambling. The practical consequence for an operator is that the only legal online casino-style exposure in Wyoming is nil, and that any sweepstakes or social-casino product currently marketed into the state faces felony exposure from mid-2027 if the bill passes.",
+          "The Committee's agenda also touched the regulatory perimeter in ways relevant to sportsbooks: discussion of age verification, geolocation and gaming on tribal lands; a draft on non-compliant skill-based amusement games (27LSO-0202); and comparative research on OSW tax rates in other states. None produced an OSW-specific change, but the trajectory — more enforcement, clearer criminal definitions, more attention to problem-gambling funding — is the backdrop against which a 2027–28 OSW levy or RG contribution could re-emerge."
+        ],
+        "table": {
+          "note": "2026 interim bill drafts — Select Committee on Gaming",
+          "columns": [
+            "Subject",
+            "Action (5–6 Oct 2026)",
+            "Next step"
+          ],
+          "rows": [
+            {
+              "label": "27LSO-0098",
+              "cells": [
+                "Online casinos & sweepstakes prohibited — adds operating online casino/sweepstakes to felony 'professional gambling'",
+                "Approved as amended, 6–0, for favourable recommendation",
+                "Management Council sponsorship; 2027 General Session (Jan 2027)"
+              ]
+            },
+            {
+              "label": "27LSO-0200",
+              "cells": [
+                "Regulate online sweepstakes (VGW-sourced framework)",
+                "Not advanced",
+                "Dormant"
+              ]
+            },
+            {
+              "label": "27LSO-0201",
+              "cells": [
+                "Gaming background checks — fingerprinting once at application instead of annually",
+                "Approved 6–0",
+                "Management Council; 2027 session"
+              ]
+            },
+            {
+              "label": "27LSO-0096 (v0.5)",
+              "cells": [
+                "Responsible gaming & problem-gambling prevention funding (July version drew on OSW, pari-mutuel, SBAG revenue)",
+                "No final action; flagged for further refinement/study",
+                "Watch for 2027 individual sponsorship"
+              ]
+            },
+            {
+              "label": "27LSO-0199 (v0.4)",
+              "cells": [
+                "Pari-mutuel (HHR) fees from 1.9% to 2% of handle",
+                "Motion died for lack of a second",
+                "Not recommended"
+              ]
+            },
+            {
+              "label": "27LSO-0054",
+              "cells": [
+                "Minimum permitholder contribution to horse-racing purses",
+                "Considered, not recommended",
+                "Not recommended"
+              ]
+            },
+            {
+              "label": "27LSO-0202 (v0.5)",
+              "cells": [
+                "Non-compliant skill-based amusement games",
+                "Discussed",
+                "Not in 9 Nov letter"
+              ]
+            },
+            {
+              "label": "27LSO-0049",
+              "cells": [
+                "Pari-mutuel wagering breakage",
+                "Reviewed",
+                "Not recommended"
+              ]
+            },
+            {
+              "label": "HB 0162 (2025)",
+              "cells": [
+                "Legalise online casinos (iGaming)",
+                "Died in committee 2025; not revived 2026",
+                "No path"
+              ]
+            },
+            {
+              "label": "WGC Catalog of Events",
+              "cells": [
+                "Ban on individual college-athlete proposition bets",
+                "Effective 1 Oct 2026",
+                "In force"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Sweepstakes prohibition vote",
+            "takeaway": "The Select Committee approved 27LSO-0098, a felony online casino and sweepstakes ban, by 6–0 and did not advance the regulatory alternative 27LSO-0200.",
+            "points": [
+              "The Committee, created in 2025 and reauthorised on 1 April 2026, met 5–6 October in Rock Springs to review the two opposed drafts.",
+              "27LSO-0098 expands 'professional gambling' to include operating an online casino or sweepstakes game for another person, targeting dual-coin social casino systems; professional gambling is already a felony carrying up to three years.",
+              "27LSO-0200 would have authorised online sweepstakes under a regulatory framework, drafted from revisions submitted by Virtual Gaming Worlds.",
+              "Executive Director Nicholas Larramendy testified that complaints cycle between the Commission and consumer protection because neither statute clearly applies.",
+              "Trade reports of 8–9 October said no vote was taken; the official minutes and 9 November letter confirm the 6–0 vote."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "9 November letter",
+            "takeaway": "Two drafts go to Management Council for the January 2027 General Session, where the calendar is favourable to passage.",
+            "points": [
+              "Forwarded: 27LSO-0098 and 27LSO-0201 (gaming background checks, reducing fingerprinting from annually to once at initial application or as the Commission requires).",
+              "A committee-sponsored bill typically needs a two-thirds introduction vote in a budget session but not in a general session.",
+              "Not recommended: HHR fee increase, purse minimum, WGC governance restructuring, responsible-gaming funding draft; charitable-raffle net-proceeds minimum and progressive-raffle regulation discussed for further work."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "iGaming outlook",
+            "takeaway": "Regulated iGaming has no path in this cycle; the only legal online casino-style exposure in Wyoming is nil.",
+            "points": [
+              "HB 0162 (2025) never left committee, did not return in the 2026 budget session, and the interim's output points the other way.",
+              "Wyoming would join a growing list of states criminalising sweepstakes casinos rather than taxing them, protecting HHR permit holders.",
+              "Any sweepstakes or social-casino product marketed into the state faces felony exposure from mid-2027 if the bill passes."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Regulatory perimeter",
+            "takeaway": "No OSW-specific change emerged, but the trajectory of more enforcement and RG funding attention could see a 2027–28 OSW levy re-emerge.",
+            "points": [
+              "Discussion covered age verification, geolocation and gaming on tribal lands.",
+              "A draft on non-compliant skill-based amusement games (27LSO-0202) and comparative research on OSW tax rates in other states.",
+              "Trajectory: more enforcement, clearer criminal definitions, more attention to problem-gambling funding."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Payments, responsible gambling, advertising & product rules",
+        "headline": "Light-touch on paper, tightening in practice: an 18+ market with a new college-prop ban, under-funded problem-gambling provision and a legislature looking for a levy to fund it.",
+        "narrative": [
+          "Wyoming's minimum age for online sports wagering is 18, lower than the 21 that applies in most US sportsbook states, which modestly widens the addressable base but also raises the regulator's sensitivity to youth harm. Account opening requires identity and age verification and geolocation within state borders; the Committee's October discussion of age verification, geolocation and gaming on tribal lands indicates these controls are being re-examined as the sweepstakes ban is drafted. The WGC publishes a Catalog of Events defining permissible markets; from 1 October 2026 proposition bets on individual college athletes are prohibited, aligning Wyoming with the NCAA-requested restrictions adopted in a growing number of states. The commercial effect is small in a market this size but removes a higher-margin same-game-parlay leg during college football and basketball season — a contributing factor, alongside results, to the autumn hold compression.",
+          "Payments run on standard US rails — debit/credit cards, ACH, PayPal-type e-wallets and prepaid cards — with no retail cash channel because no retail counters exist. Wyoming's statute is widely cited as the only US OSW law to expressly permit digital assets (cryptocurrency) as a funding method, though in practice operators have not built crypto cashiers [unverified — from background knowledge, not confirmed in the sources read for this brief]. Mobile money is not a factor. No regulator statistics on deposit methods, deposit limits or withdrawal speeds are published.",
+          "Responsible-gambling architecture is thin relative to mature markets. The May 2026 minutes record that problem-gaming efforts are funded from limited statutory streams — a fixed OSW tax allocation and lottery transfers — and that the amounts reaching individual counties are too small to be effective; the WGC Director testified that problem gaming is a growing concern requiring expanded funding, education and treatment access. The Legislature's response, 27LSO-0096, would broaden the funding base to OSW, pari-mutuel and SBAG revenue, which for sportsbooks would amount to an incremental levy or earmark on the 10% tax; it was held for further study in October, but the Committee's letter commits to continued work with the WGC, the Lottery Corporation and the Department of Health. Operators are required to offer self-exclusion and RG tools under the WGC OSW Rules; the WGC maintains a Responsible Gaming resources page and links to the National Council on Problem Gambling. Self-exclusion counts and helpline statistics are not published in the sources read [n/a].",
+          "Advertising rules are permissive by UK or Spanish standards: there is no statutory ad-volume cap, watershed or sponsorship ban, and promotional credits are tax-deductible — which, as the September and October data show, makes promotional intensity the main lever both for operators' taxable margin and for state receipts. The direction of travel is nonetheless toward restriction: the college-prop ban, the felony sweepstakes draft, the WGC's reported oversight costs above $1m and the Committee's interest in a dedicated RG funding stream all point to a 2027–28 environment with more product and marketing constraints, even if the headline 10% rate is untouched."
+        ],
+        "table": {
+          "note": "Consumer-protection, payments and product rules — OSW",
+          "columns": [
+            "Rule / status",
+            "Verification"
+          ],
+          "rows": [
+            {
+              "label": "Minimum age",
+              "cells": [
+                "18",
+                "Confirmed (secondary)"
+              ]
+            },
+            {
+              "label": "KYC / geolocation",
+              "cells": [
+                "Identity & age verification; in-state geolocation; tribal-land treatment under review",
+                "Confirmed (Committee minutes)"
+              ]
+            },
+            {
+              "label": "College-athlete player props",
+              "cells": [
+                "Prohibited from 1 Oct 2026 (WGC Catalog of Events)",
+                "Confirmed (secondary)"
+              ]
+            },
+            {
+              "label": "Payment methods",
+              "cells": [
+                "Cards, ACH, e-wallets, prepaid; no retail cash channel",
+                "Confirmed (no retail)"
+              ]
+            },
+            {
+              "label": "Cryptocurrency funding",
+              "cells": [
+                "Expressly permitted by statute; not offered in practice",
+                "[unverified]"
+              ]
+            },
+            {
+              "label": "Promotional credits",
+              "cells": [
+                "Deductible from taxable net proceeds; ~32% of GGR in Oct-26",
+                "Confirmed / derived"
+              ]
+            },
+            {
+              "label": "Problem-gambling funding",
+              "cells": [
+                "Fixed statutory OSW allocation + lottery; 27LSO-0096 would widen base to OSW, pari-mutuel, SBAG — held for study",
+                "Confirmed (primary)"
+              ]
+            },
+            {
+              "label": "Self-exclusion / RG tools",
+              "cells": [
+                "Required under WGC OSW Rules; WGC RG page; NCPG link; statistics n/a",
+                "Partially confirmed"
+              ]
+            },
+            {
+              "label": "Advertising",
+              "cells": [
+                "No statutory volume cap, watershed or sponsorship ban; general RG messaging requirements",
+                "[unverified detail]"
+              ]
+            },
+            {
+              "label": "Regulator oversight cost",
+              "cells": [
+                ">$1m p.a. (WGC Director estimate)",
+                "Confirmed (primary)"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Age and product rules",
+            "takeaway": "An 18+ market with a new college-prop ban from 1 October 2026 that contributed to autumn hold compression.",
+            "points": [
+              "Minimum age of 18 is lower than the 21 in most US sportsbook states, modestly widening the base but raising regulator sensitivity to youth harm.",
+              "Account opening requires identity and age verification and in-state geolocation; these controls are being re-examined as the sweepstakes ban is drafted.",
+              "WGC Catalog of Events prohibits proposition bets on individual college athletes from 1 October 2026, aligning with NCAA-requested restrictions.",
+              "Commercial effect is small but removes a higher-margin same-game-parlay leg during college football and basketball season."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Payments",
+            "takeaway": "Payments run on standard US rails with no retail cash channel; crypto is reportedly permitted by statute but not built.",
+            "points": [
+              "Debit/credit cards, ACH, PayPal-type e-wallets and prepaid cards.",
+              "Statute widely cited as the only US OSW law expressly permitting digital assets as a funding method, though operators have not built crypto cashiers [unverified — background knowledge].",
+              "Mobile money is not a factor; no regulator statistics on deposit methods, limits or withdrawal speeds are published."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Responsible gambling",
+            "takeaway": "RG architecture is thin and under-funded, and 27LSO-0096 would amount to an incremental levy or earmark on the 10% tax.",
+            "points": [
+              "May 2026 minutes record funding from a fixed OSW tax allocation and lottery transfers, with county amounts too small to be effective.",
+              "WGC Director testified problem gaming is a growing concern requiring expanded funding, education and treatment access.",
+              "27LSO-0096 would broaden funding to OSW, pari-mutuel and SBAG revenue; held for further study, but the Committee commits to continued work with the WGC, Lottery Corporation and Department of Health.",
+              "Operators must offer self-exclusion and RG tools under WGC OSW Rules; self-exclusion counts and helpline statistics are not published [n/a]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Advertising",
+            "takeaway": "Advertising rules are permissive with no ad cap, watershed or sponsorship ban, but the direction of travel is toward restriction.",
+            "points": [
+              "Promotional credits are tax-deductible, making promotional intensity the main lever for operators' taxable margin and state receipts.",
+              "College-prop ban, felony sweepstakes draft, WGC oversight costs above $1m and interest in a dedicated RG funding stream point to more constraints in 2027–28.",
+              "The headline 10% rate is expected to remain untouched."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "**Cheapest untethered mobile licence in the US**: $100,000 for five years, $50,000 renewal, no land-based partner, no cap — and a 10% tax on net proceeds with uncapped promo deductions that has delivered an effective ~7% of GGR (7.2% Oct-26, 7.1% CY2025).",
+        "tag": "structural"
+      },
+      {
+        "text": "**Stable fiscal regime**: the 2026 interim benchmarked other states' OSW tax rates and recommended no change; the only tax-rate draft (HHR 1.9%→2%) died for lack of a second. No Illinois/Ohio-style escalation is in the pipeline.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Still a growth market on a full-year basis**: handle +19% (2023), +22% (2024), +12% (2025) and +6.9% YTD 2026 to $200.0m; lifetime handle crossed $1bn in October, the second $500m taking two years versus three for the first.",
+        "tag": "mixed"
+      },
+      {
+        "text": "**A contestable #3 slot**: BetMGM holds 12.1% of handle but posted a 0.69% hold and −$107k taxable revenue in October; Fanatics (6.2%) and Caesars (3.1%) are sub-scale. A disciplined entrant with national brand reach could take 10–15% of stakes without displacing the leaders.",
+        "tag": "mixed"
+      },
+      {
+        "text": "**18+ minimum age and 100% digital channel**: wider addressable base than 21+ states and no retail incumbents to tether to or compete against; all acquisition is app-based.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Hold is healthy**: 10.9% in October and 11.06% for CY2025, above the ~10% national average, reflecting parlay-heavy recreational play — supportive of GGR per dollar of handle for a well-priced book.",
+        "tag": "structural"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "**The prize is tiny**: ~$26m annual GGR (~$18m after promos) across five brands; October's whole market produced $1.67m of taxable revenue. State-specific marketing cannot be justified — Wyoming only works as a zero-marginal-cost extension of a national platform.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Entry barrier by design**: an applicant must already operate OSW in at least three other US states, which excludes a new-to-US operator outright and makes Wyoming a late-stage, not early-stage, US market.",
+        "tag": "structural"
+      },
+      {
+        "text": "**Growth has stalled**: two consecutive YoY handle declines (Sept −14.2%, Oct −7.3%), GGR −12.4% and tax −9.0% in October; 2026 is tracking +3–5% after three years of double-digit growth, and all five brands shrank in October.",
+        "tag": "watch"
+      },
+      {
+        "text": "**Casino-style product is heading toward criminalisation, not regulation**: the Select Committee voted 6–0 to send a felony ban on online casino and sweepstakes operation to the 2027 session and rejected the regulatory alternative; regulated iGaming (HB 162) is dead. No cross-sell upside.",
+        "tag": "structural"
+      },
+      {
+        "text": "**A responsible-gaming levy is on the table**: 27LSO-0096 would draw on OSW revenue to fund problem-gambling programmes that the WGC Director calls under-resourced; held for study in October, but the Committee has committed to keep working on it with the Department of Health and the Lottery.",
+        "tag": "watch"
+      },
+      {
+        "text": "**Per-operator tax with no cross-offset and promo-driven volatility**: taxable revenue swings with bonus intensity (Sept tax +40% on −14% handle), and a losing month yields zero relief against other months' tax [carry-forward unverified]; DK+FD control 79% of stakes and set the promotional tempo.",
+        "tag": "structural"
+      },
+      {
+        "text": "**HHR incumbents own the political agenda**: ~$2.49bn of HHR handle versus $234.5m of sports means the Legislature's attention, tax design and lobbying weight sit with the three pari-mutuel permit holders; OSW has little voice when rules change.",
+        "tag": "structural"
+      }
+    ],
+    "forecast": {
+      "intro": "There is no regulator guidance; the bridge below moves from the CY2025 regulator-reported base to our CY2026 estimates using the Jan–Oct actuals ($200.0m handle, $1.50m tax) and a Nov–Dec run-rate of −7% to flat against last year's $47.4m. The swing from a +12% year to a +3–5% year is entirely a second-half phenomenon — March's record $28.5m and July's +45.5% were offset by September (−14.2%) and October (−7.3%) — and is driven by the two leaders: DraftKings' handle share fell to 47.3% in September before recovering to 51.7%, while BetMGM's volume is down 25% and its margin has collapsed. GGR is expected roughly flat on a hold of ~10.5–11%; tax should still rise mid-single digits because operators have cut promotional deductions (−32% YoY in September).",
+      "bridge": [
+        {
+          "title": "CY2025 OSW handle (regulator-reported)",
+          "value": "$234.5m",
+          "change": "+11.9% YoY"
+        },
+        {
+          "title": "CY2026E OSW handle (estimate)",
+          "value": "~$241–247m",
+          "change": "+3–5%; needs ≥$34.5m in Nov–Dec"
+        },
+        {
+          "title": "CY2026E OSW GGR / tax (estimate)",
+          "value": "~$25–27m / ~$1.95–2.0m",
+          "change": "GGR ~flat; tax +5–8% on lower promos"
+        },
+        {
+          "title": "CY2026E all-vertical wagering (WGC projection)",
+          "value": ">$3.0bn",
+          "change": "vs ~$2.7bn CY2025; HHR ~90%+"
+        }
+      ],
+      "view": "**Rules**: we expect 27LSO-0098 (felony prohibition of online casino and sweepstakes operation) to pass the 2027 General Session in some form — it has unanimous committee backing, regulator support and no organised in-state opposition beyond VGW's regulatory alternative — making Wyoming a closed market for casino-style online product through at least 2028. **OSW tax**: the 10% headline rate is secure for 2027; the live risk is an earmark or surcharge via a revived responsible-gaming funding bill (27LSO-0096) in 2027–28, which we would size at low single-digit percentage points of net proceeds if adopted — an estimate, not a proposal on the table. **Product/marketing**: expect continued tightening of the Catalog of Events (college props banned from 1 Oct 2026) and, if PG funding advances, RG-messaging and promotional conditions attached to it. **Market**: handle growth of 0–5% a year from here, GGR of ~$25–28m, DK/FD duopoly above 75% of stakes, and a sub-scale tail where at least one of BetMGM, Fanatics or Caesars is a candidate to exit or go passive if US-wide consolidation continues. **Leverage for an entrant**: nil fiscal headwind, nil structural tailwind; Wyoming is a licence to hold for national-footprint completeness, not a market to invest in.",
+      "watch": [
+        "Management Council sponsorship decision and the 2027 General Session (opens January 2027) for 27LSO-0098 (online casino/sweepstakes felony ban) and 27LSO-0201 (background checks); watch for a floor amendment reviving the VGW regulatory model.",
+        "Any 2027 bill descended from 27LSO-0096 that earmarks or surcharges OSW net proceeds for problem-gambling funding — the only realistic change to the 10% tax base.",
+        "November–December 2026 WGC reports: Wyoming needs $34.5m to beat 2025's $234.5m record; a third consecutive YoY decline would confirm the market has plateaued.",
+        "BetMGM's position: a second month of negative taxable revenue or a fall below 10% handle share would signal retrenchment and open the #3 slot; DraftKings' share oscillation (57.8%→47.3%→51.7%) indicates promotional tempo.",
+        "Local-approval votes for existing off-track HHR sites ahead of the July 2027 application date, and any return of the 1.9%→2% HHR fee proposal — the state's dominant gaming revenue stream.",
+        "Prediction-market (event-contract) competition: a national legal battle the GI weekly flags; in a 600k-population state with 18+ age limits, unregulated sports event contracts are a direct substitute for licensed books [no Wyoming-specific enforcement action found in sources read]."
+      ]
+    },
+    "confidence": "MEDIUM",
+    "confidenceNote": "Reporting currency USD; no FX conversion required. October 2026 headline figures (handle $22,629,217; GGR $2,471,163; taxable $1,671,443; tax $177,882; operator splits) are consistent across three independent write-ups of the WGC report (LegalSportsBetting, RG.org, Gaming Intelligence) and reconcile arithmetically, but the WGC's own October PDF (Google Drive) could not be machine-read, so FanDuel handle/GGR, DraftKings GGR and the October 2025 comparatives are derived from reported shares and percentages. One secondary source gives Oct-25 GGR as ~$2.9m versus the ~$2.82m implied by the regulator-based −12.4% YoY; the latter is used. Regime parameters ($100k/5-yr permit, $50k renewal, 10% of net proceeds, 3-state eligibility, age 18, 5-permit minimum) are confirmed only via secondary summaries of W.S. 9-24, not the statute text. Legislative actions (6–0 votes, 9 Nov letter, 27LSO drafts) are from the Wyoming Legislature's primary documents. Items marked [unverified]: statutory crypto-funding provision, the fixed problem-gambling allocation amount, intra-operator loss carry-forward, advertising-rule detail. HHR GGR (~$211.8m) and SBAG handle (~$30.6m) are third-party estimates. CY2026 figures in the forecast are our estimates.",
+    "sources": [
+      {
+        "label": "Wyoming Gaming Commission — Combined Wagering Activity Reports (monthly OSW/HHR reports index)",
+        "kind": "primary",
+        "url": "https://gaming.wyo.gov/revenue-reports/financial-reports/combined-wagering-activity-reports"
+      },
+      {
+        "label": "Wyoming Gaming Commission — Financial Reports (HHR, SBAG distributions)",
+        "kind": "primary",
+        "url": "https://gaming.wyo.gov/revenue-reports/financial-reports"
+      },
+      {
+        "label": "Wyoming Legislature — Select Committee on Gaming, Meeting Minutes, 5–6 Oct 2026 (Rock Springs)",
+        "kind": "primary",
+        "url": "https://wyoleg.gov/InterimCommittee/2026/S44-20261005830MeetingMinutes.pdf"
+      },
+      {
+        "label": "Wyoming Legislature — Select Committee on Gaming letter to Management Council, 9 Nov 2026 (recommended bills)",
+        "kind": "primary",
+        "url": "https://wyoleg.gov/InterimCommittee/2026/SMC-20261123SelectGamingCommitteeDraftLetter11.9.2026.docx.pdf"
+      },
+      {
+        "label": "Wyoming Legislature — Select Committee on Gaming, Meeting Minutes, 14 May 2026 (revenue distributions, PG funding)",
+        "kind": "primary",
+        "url": "https://wyoleg.gov/InterimCommittee/2026/S44-20260730S44-20260514830MeetingMinutes.pdf"
+      },
+      {
+        "label": "Wyoming Legislature — Select Committee on Gaming agenda, Oct 2026 (bill-draft list)",
+        "kind": "primary",
+        "url": "https://wyoleg.gov/InterimCommittee/2026/S44-20261005830AgendaPreview.pdf"
+      },
+      {
+        "label": "Gaming Intelligence — 'Wyoming sports betting falls by 7% in October' (lead article)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/238894-wyoming-sports-betting-fall-by-7-in-october/"
+      },
+      {
+        "label": "Gaming Intelligence — GI North America Review, Week 47 2026",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/finance/238986-gi-north-america-review-week-47-2026/"
+      },
+      {
+        "label": "LegalSportsBetting.com — 'Wyoming Bettors Have Wagered Over $1 Billion On Sports' (19 Nov 2026)",
+        "kind": "secondary",
+        "url": "https://www.legalsportsbetting.com/news/wyoming-bettors-have-wagered-over-1-billion-on-sports-11-19-2026/"
+      },
+      {
+        "label": "RG.org — 'Wyoming Sports Betting Oct 2026: $22.6M Handle, $1.67M Revenue' (operator table)",
+        "kind": "secondary",
+        "url": "https://rg.org/news/gambling-industry/wyoming-october-2026-sports-betting-revenue-report"
+      },
+      {
+        "label": "RG.org — Wyoming sports betting statistics (CY2025 totals)",
+        "kind": "secondary",
+        "url": "https://rg.org/statistics/us/wyoming"
+      },
+      {
+        "label": "LegalSportsBetting.com — 'Wyoming Sports Betting Taxes Jump 40% Despite Handle Drop' (Sept 2026 data, 22 Oct 2026)",
+        "kind": "secondary",
+        "url": "https://www.legalsportsbetting.com/news/wyoming-sports-betting-taxes-jump-40-despite-handle-drop-10-22-2026/"
+      },
+      {
+        "label": "Legal Sports Report — Wyoming sports betting (law, fees, tax, timeline)",
+        "kind": "secondary",
+        "url": "https://www.legalsportsreport.com/sports-betting/states/wyoming/"
+      },
+      {
+        "label": "Legal Sports Report — Wyoming online casinos / sweepstakes status (Nov 2026)",
+        "kind": "secondary",
+        "url": "https://www.legalsportsreport.com/online-casinos/wyoming/"
+      },
+      {
+        "label": "Legal Sports Report — US revenue tracker (Wyoming lifetime handle/revenue/tax)",
+        "kind": "secondary",
+        "url": "https://www.legalsportsreport.com/sports-betting/states/revenue/"
+      },
+      {
+        "label": "Focus Gaming News — Wyoming October 2025 OSW and HHR handle by operator",
+        "kind": "secondary",
+        "url": "https://focusgn.com/wyoming-online-sports-betting-handle-decreases-in-october"
+      },
+      {
+        "label": "Wyoming Tribune Eagle / WyomingNews — 'Wyoming lawmakers take steps to further restrict online gambling' (9 Oct 2026)",
+        "kind": "secondary",
+        "url": "https://www.wyomingnews.com/news/local_news/wyoming-lawmakers-take-steps-to-further-restrict-online-gambling/article_eb9b469a-a8f5-4b71-8136-08825665d3a6.html"
+      },
+      {
+        "label": "Bonus.com — 'Wyoming Committee Backs Bill To Ban Online Sweepstakes Casinos' (14 Oct 2026)",
+        "kind": "secondary",
+        "url": "https://www.bonus.com/news/wyoming-committee-backs-bill-to-ban-online-sweepstakes-casinos/"
+      },
+      {
+        "label": "BettingNews — 'Wyoming Lawmakers Advance Sweepstakes Casino Ban Proposal' (15 Oct 2026)",
+        "kind": "secondary",
+        "url": "https://www.bettingnews.com/articles/industry/wyoming-lawmakers-advance-sweepstakes-casino-ban-proposal/"
+      },
+      {
+        "label": "Covers — 'Wyoming Lawmakers Weigh Sweepstakes Casino Ban, Regulation' (8 Oct 2026)",
+        "kind": "secondary",
+        "url": "https://www.covers.com/industry/wyoming-lawmakers-weigh-sweepstakes-casino-ban-regulation-oct-8-2026"
+      },
+      {
+        "label": "iGaming Times — Wyoming gambling licence and regulation (WGC structure, 3-state rule, college-prop ban, OTB local approval)",
+        "kind": "secondary",
+        "url": "https://igaming-times.com/countries/wyoming-usa"
+      },
+      {
+        "label": "iGamingToday — Wyoming market research report (HHR/SBAG estimates — unverified)",
+        "kind": "secondary",
+        "url": "https://www.igamingtoday.com/wyoming-igaming-market-research-report/"
+      },
+      {
+        "label": "Covers — Wyoming sports betting guide (licence minimum, 10% tax, operators)",
+        "kind": "secondary",
+        "url": "https://www.covers.com/betting/usa/wyoming"
+      },
+      {
+        "label": "Advennt — Wyoming regulatory intelligence (operator count, no commercial casinos)",
+        "kind": "secondary",
+        "url": "https://advennt.io/jurisdictions/wyoming/"
+      }
+    ],
+    "sharePriceReaction": "",
+    "docType": "regulator"
+  }
+}

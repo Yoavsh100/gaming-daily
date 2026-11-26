@@ -1,0 +1,1316 @@
+{
+  "company": {
+    "name": "Arizona",
+    "ticker": "",
+    "exchange": ""
+  },
+  "period": "SEPTEMBER 2026",
+  "model": "claude-fable-5-1",
+  "usage": {
+    "input": 868556,
+    "output": 46200,
+    "searches": 15,
+    "fetches": 10,
+    "uncached": 58,
+    "cacheRead": 805074,
+    "cacheWrite": 63424,
+    "turns": 1
+  },
+  "prepared": "26 Nov 2026",
+  "report": {
+    "releaseDate": "19 Nov 2026 (ADG release; press coverage 20 Nov 2026)",
+    "currency": "USD (market reports in USD; tables in $ millions unless stated)",
+    "verdict": "Arizona's sixth NFL September delivered a handle of $836.7m (-1.7% YoY) but a far better revenue print: gross receipts +18.5% to $65.2m on a 7.8% hold, promo deductions down to 49% of gross, taxable receipts +68% to $33.0m and state fees +70% to $3.3m. The market is a 99.7%-mobile, FanDuel/DraftKings duopoly (61.5% of handle) operating under one of the lowest effective tax regimes in the US (~5% of gross) — which is precisely why the Governor's 45% tier for ≥$75m-handle operators and the criminal case against Kalshi make the next 12 months a regulatory, not a demand, story.",
+    "kpis": [
+      {
+        "label": "Event-wagering handle (Sep-26)",
+        "value": "$836.7m",
+        "delta": "-1.7% YoY; +43.6% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "Gross receipts pre-promo",
+        "value": "$65.2m",
+        "delta": "+18.5% YoY; hold 7.8% vs 6.5%",
+        "dir": "up"
+      },
+      {
+        "label": "Taxable adjusted receipts",
+        "value": "$33.0m",
+        "delta": "+68.4% YoY; promos $32.2m (49% of gross)",
+        "dir": "up"
+      },
+      {
+        "label": "State privilege fees",
+        "value": "$3.3m",
+        "delta": "+70% YoY; 5.1% of gross, 0.39% of handle",
+        "dir": "up"
+      },
+      {
+        "label": "Mobile share of handle",
+        "value": "99.7%",
+        "delta": "$833.9m mobile / $2.8m retail (-36% YoY)",
+        "dir": "flat"
+      },
+      {
+        "label": "Top-2 share (FanDuel+DraftKings)",
+        "value": "61.5%",
+        "delta": "FanDuel 32.5% (+6.4% YoY) / DK 29.0% (-9.8%)",
+        "dir": "up"
+      }
+    ],
+    "summary": [
+      "**Handle slipped for the second straight month into the NFL season** — the Arizona Department of Gaming (ADG) reports September 2026 event-wagering handle of $836.7m, -1.7% YoY versus $851.3m in September 2025, though +43.6% MoM from $582.8m in August (itself -4.6% YoY). With April -1.2%, February +8.7% and June +22.3%, Arizona is oscillating around flat in year six — a maturing market rather than a growth one.",
+      "**Revenue went the other way: gross receipts +18.5%** — payouts of $769.5m left adjusted gross receipts (before promotional deductions) of $65.2m, a 7.8% hold versus $55.0m / 6.5% a year earlier, when Arizona posted the lowest collective win rate (6.7%) of 32 reporting states. Hold normalisation, not volume, drove the print.",
+      "**Promo deductions fell and the taxable base jumped 68%** — operators deducted $32.2m in free bets/promotional credits (49% of gross; 3.9% of handle) against $35.4m (64% of gross) in September 2025, leaving $33.0m subject to privilege fees versus $19.6m, which had been the lowest monthly taxable total since July 2022.",
+      "**State take $3.3m (+70% YoY) but still only ~5% of gross** — the 10% mobile / 8% retail privilege fee is levied on the post-promo base, so the effective rate is 5.1% of gross receipts and 0.39% of handle. FY2027 year-to-date (Jul–Sep) fees are $14.8m from event wagering plus $349,935 from fantasy sports ($15.2m combined).",
+      "**Mobile is 99.7% of the market** — $833.9m online against $2.8m retail (retail -36% YoY from $4.4m; mobile -1.5%). Retail sportsbooks at tribal casinos and stadium districts are marketing assets, not revenue lines; a new entrant needs no physical footprint beyond what its licence partner already owns.",
+      "**A duopoly with a shrinking third** — FanDuel led mobile handle at $270.8m (32.5% share, +6.4% YoY), DraftKings $242.0m (29.0%, -9.8% vs $268.2m), BetMGM $77.3m (9.3%, -21.0% vs $97.8m). Top-2 = 61.5%, top-3 = 70.8%; the remaining ~$244m (29.2%, +7.6% YoY) is spread across the long tail (Caesars, Fanatics, bet365, Hard Rock, BetRivers, Bally Bet, theScore Bet, Golden Nugget, TwinSpires, tribal brands). The tail is the only part of the market gaining share.",
+      "**Fantasy contests are a $13.6m-entry-fee niche taxed at 5%** — adjusted revenue $2.2m (16.2% take), fees $111,221; PrizePicks $1.12m (~51% of adjusted revenue) and DraftKings $544k. Entry fees +66% MoM on the NFL start. Pick'em-style products are licensed and regulated here, unlike in several other states.",
+      "**Lifetime: ~$38bn wagered, $205.4m in privilege fees since the 9 Sept 2021 launch** — a cumulative yield of 0.54% of handle, which is the number Arizona's Governor is now explicitly targeting as too low.",
+      "**Legal framework** — HB 2772 (signed April 2021) and the concurrently amended Tribal-State Gaming Compacts created A.R.S. Title 5 event-wagering (§5-1301 et seq.) and fantasy-sports (§5-1201 et seq.) regimes with ADG as sole licensing, rules and enforcement body; the compacts also expanded tribal Class III casino offerings in exchange for tribal participation in sports betting.",
+      "**Licensing is capped and access-gated** — statute reserves up to 10 event-wagering operator licences for tribes with compacts and up to 10 for professional sports franchises/organisations (Cardinals–BetMGM, Suns–FanDuel, Diamondbacks–Caesars, TPC Scottsdale/PGA Tour–DraftKings, Phoenix Raceway–Penn, among others), each carrying one online brand plus retail at the venue or on tribal land, with up to 10 'limited' retail licences for racetracks/OTBs. No licence exists without a tribal or franchise partner. A new operator licence was issued in early August 2026 via the San Juan Southern Paiute Tribe (launch targeted Q1 2027; operator identity not confirmed in sources read) and ADG approved nine additional in-person wagering locations in September 2026 (press reports; not read in full).",
+      "**Licence fees [schedule from ADG rules as recalled, not re-verified this session]** — application fee $100,000, initial operator licence fee $750,000, annual renewal $150,000; management-services-provider and supplier licences carry separate, lower fees. Treat as ~$1m upfront plus partner revenue share.",
+      "**Tax regime: 10%/8% on a promo-shielded base, with a 45% tier on the table** — privilege fee of 10% (mobile) / 8% (retail) of adjusted gross event-wagering receipts after winnings, federal excise (0.25% of handle) and free-bet/promo deductions capped as a sliding share of handle in the operator's first five years [cap schedule not re-verified]. Governor Hobbs' FY2027 executive budget (January 2026) proposed 45% for 'large operators' with ≥$75m monthly handle; the measure was not enacted and iGB confirms all books still pay 10%, the fifth-lowest rate in the US. Expect a reprise in the January 2027 session.",
+      "**Enforcement has gone criminal on prediction markets** — Arizona filed 20 criminal counts against Kalshi in 2026 alleging unlawful acceptance of wagers on political contests, college sports and individual player performances. The outcome (and the parallel federal CFTC-preemption litigation) will determine whether exchange-listed event contracts can keep siphoning NFL-season volume from licensed books — a plausible contributor to Arizona's flat handle.",
+      "**Responsible gambling and product limits** — minimum age 21, statewide ADG self-exclusion list covering event wagering and fantasy, 1-800-NEXT-STEP helpline, operator-funded problem-gambling obligations under HB 2772; individual collegiate-athlete props and political events sit outside the permitted catalogue, while in-play, props, pools and exchange wagering are allowed per ADG's Catalog of Approved Wagers.",
+      "**Payments are standard US-digital** — account-based, KYC'd wagering with in-state geolocation; funding via ACH/online banking, debit (and, by issuer discretion, credit) cards, PayPal/Venmo/Apple Pay, prepaid Play+ and cash at tribal casino cages; operators may not extend credit to patrons [statutory detail not re-verified]. No mobile-money or withholding-tax friction of the kind seen in African markets.",
+      "**No iGaming and no commercial casinos** — tribal exclusivity for casino-style gaming under the 2021 compacts (16 tribes, ~26 casinos, approximate) makes online casino politically unavailable without tribal consent; the Arizona Lottery is a separate state agency. Sports betting and DFS are the only commercially accessible verticals.",
+      "**Data caveat** — ADG monthly figures are operator self-reported and unaudited; fee totals are on a collections basis so FY-to-date ($14.8m) and lifetime ($205.4m vs $202.5m after August) totals do not reconcile exactly to monthly sums. The ADG FY2026 Annual Report (published October 2026) could not be opened this session.",
+      "**Read-through for B2Tech** — entry requires a tribal/franchise partner and ~$1m upfront; the economics are a 7–8% hold, promo intensity of ~50% of gross, a top-2 share above 60%, flat handle and a credible tax cliff at $75m monthly handle. A sub-scale B2C entrant pays 10% today and would stay sub-threshold under the Hobbs tier — a perverse advantage — but share gains have to come from the ~29% long tail. A B2B platform/supplier route (licensed management-services provider to a tribal or franchise licensee) carries the lower regulatory and tax beta."
+    ],
+    "groupTable": {
+      "note": "Arizona event wagering & fantasy — US $m",
+      "columns": [
+        "Sep-26",
+        "MoM (vs Aug-26)",
+        "YoY (vs Sep-25)",
+        "Sep-25",
+        "FY27 YTD (Jul–Sep 26)"
+      ],
+      "rows": [
+        {
+          "label": "Event wagering (sports betting)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Handle (total stakes)",
+          "indent": true,
+          "cells": [
+            "836.7",
+            "+43.6%",
+            "-1.7%",
+            "851.3",
+            "2,019.0 (derived: 599.5+582.8+836.7)"
+          ]
+        },
+        {
+          "label": "Mobile handle",
+          "indent": true,
+          "cells": [
+            "833.9",
+            "+43.5%",
+            "-1.5%",
+            "847.0",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Retail handle",
+          "indent": true,
+          "cells": [
+            "2.8",
+            "+75%",
+            "-36.4%",
+            "4.4",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Mobile share of handle",
+          "indent": true,
+          "cells": [
+            "99.7%",
+            "flat",
+            "+0.2pp",
+            "99.5%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Payouts to bettors",
+          "indent": true,
+          "cells": [
+            "769.5",
+            "+44.6%",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Gross receipts (AGR before promo deductions)",
+          "indent": true,
+          "kind": "emphasis",
+          "cells": [
+            "65.2",
+            "+28.3% (Aug derived 50.8)",
+            "+18.5%",
+            "55.0",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Hold % (gross / handle)",
+          "indent": true,
+          "cells": [
+            "7.8%",
+            "-0.9pp (Aug derived 8.7%)",
+            "+1.3pp",
+            "6.5%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Free-bet / promo deductions",
+          "indent": true,
+          "cells": [
+            "32.2",
+            "+118% (Aug derived 14.8)",
+            "-9.0%",
+            "35.4",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Promo deductions as % of gross",
+          "indent": true,
+          "cells": [
+            "49.4%",
+            "+20pp (Aug derived 29%)",
+            "-15pp",
+            "64.4%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Taxable adjusted gross event-wagering receipts",
+          "indent": true,
+          "kind": "emphasis",
+          "cells": [
+            "33.0",
+            "-8.3% (Aug derived 36.0)",
+            "+68.4%",
+            "19.6",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Privilege fees collected by state",
+          "indent": true,
+          "kind": "emphasis",
+          "cells": [
+            "3.3",
+            "-8.3%",
+            "+70%",
+            "1.94",
+            "14.8 (as reported; collections basis)"
+          ]
+        },
+        {
+          "label": "Effective fee rate on gross receipts",
+          "indent": true,
+          "cells": [
+            "5.1%",
+            "n/a",
+            "+1.5pp",
+            "3.5%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Effective fee rate on handle",
+          "indent": true,
+          "cells": [
+            "0.39%",
+            "n/a",
+            "+0.16pp",
+            "0.23%",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Fantasy sports contests",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Entry fees (Arizona)",
+          "indent": true,
+          "cells": [
+            "13.6",
+            "+66%",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Adjusted revenue",
+          "indent": true,
+          "cells": [
+            "2.2",
+            "+38%",
+            "n/a",
+            "n/a",
+            "n/a"
+          ]
+        },
+        {
+          "label": "Privilege fees (5% of adjusted revenue)",
+          "indent": true,
+          "cells": [
+            "0.111",
+            "+43%",
+            "n/a",
+            "n/a",
+            "0.350"
+          ]
+        },
+        {
+          "label": "Combined event wagering + fantasy fees",
+          "indent": true,
+          "cells": [
+            "3.4",
+            "n/a",
+            "n/a",
+            "n/a",
+            "15.2"
+          ]
+        },
+        {
+          "label": "Cumulative since launch (Sep 2021)",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Lifetime handle",
+          "indent": true,
+          "cells": [
+            "~38,000",
+            "",
+            "",
+            "~28,400 (Covers, Sep-25; secondary)",
+            ""
+          ]
+        },
+        {
+          "label": "Lifetime privilege fees",
+          "indent": true,
+          "cells": [
+            "205.4",
+            "+2.9 vs 202.5 after Aug-26",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Calendar-2025 handle / gross revenue (Covers; secondary, not regulator-verified)",
+          "indent": true,
+          "cells": [
+            "",
+            "",
+            "",
+            "7,659 / 713.8 (hold 9.3%)",
+            ""
+          ]
+        },
+        {
+          "label": "Regime",
+          "kind": "group",
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Tax base",
+          "indent": true,
+          "cells": [
+            "Adjusted gross event-wagering receipts (handle − winnings − federal excise − capped promos); fantasy: adjusted revenue",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Tax rate",
+          "indent": true,
+          "cells": [
+            "10% mobile / 8% retail; fantasy 5%; proposed 45% tier for ≥$75m monthly handle (not enacted)",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Operator licences (statutory cap)",
+          "indent": true,
+          "cells": [
+            "Up to 10 tribal + 10 pro-sports franchise event-wagering operator licences; up to 10 limited retail (racetrack/OTB); ~12–15 active online brands [active count n/a this session]",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "label": "Licence fees [not re-verified this session]",
+          "indent": true,
+          "cells": [
+            "Application $0.10m; initial operator licence $0.75m; annual renewal $0.15m",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "segments": [
+      {
+        "name": "Online sports betting (mobile event wagering)",
+        "headline": "99.7% of a flat $837m September handle; hold recovery to 7.8% and lighter promos lifted taxable receipts 68% — FanDuel extended its lead while DraftKings and BetMGM lost share.",
+        "narrative": [
+          "Mobile handle of $833.9m in September 2026 was 1.5% below the $847.0m of September 2025 and 43.5% above August's $581m, following the normal NFL/college football seasonality. The year-on-year decline is small but notable because September 2025 had itself grown 16.3%; Arizona has now printed negative YoY handle in August (-4.6%) and September (-1.7%) and April (-1.2%), interspersed with positive months (February +8.7%, June +22.3%). The honest reading is a market at maturity, with no new large-brand launches in the period and some probable leakage to CFTC-listed sports event contracts (see enforcement segment). Arizona nonetheless remains a top-5/7 US state by handle: in September 2025 its $851m ranked fifth behind New York, Illinois, New Jersey and Ohio.",
+          "Gross receipts before promotional deductions rose 18.5% to $65.2m, a 7.8% hold against 6.5% a year earlier, when Arizona's 6.7% collective win rate was the lowest of 32 reporting states. August 2026's derived hold was 8.7% ($582.8m handle less $532m payouts). The structural hold in Arizona has been trending up as parlay/SGP mix and pricing discipline improve; a 7.5–8.5% band now looks like the base case for NFL months, with the usual favourite-heavy NFL weeks driving month-to-month swings of ±1.5pp.",
+          "Promotional deductions were $32.2m, or 49.4% of gross and 3.9% of handle, down from $35.4m (64.4% of gross) a year earlier and up sharply from a derived ~$14.8m (29% of gross) in August as operators front-loaded NFL acquisition spend. Arizona's free-bet deduction is generous by US standards — in September 2025 bet365 ($60.3m handle, 4.8% hold) and Fanatics ($73.1m handle, 3.4% win rate) reported zero adjusted revenue because promo deductions equalled or exceeded gross receipts, and ADG only reports deductions up to 100% of gross. The result is that the taxable base ($33.0m) is roughly half of true gross win, and the state's 10% headline rate converts to 5.1% of gross and 0.39% of handle. For a new entrant this is the single most valuable feature of the regime: acquisition spend is effectively tax-deductible in the launch years.",
+          "Operator shares are concentrated at the top and fluid below it. FanDuel led mobile handle at $270.8m (32.5% share, +6.4% YoY from $254.5m); in September 2025 it had also led adjusted revenue with $8.5m on a 3.34% net hold. DraftKings took $242.0m (29.0%, -9.8% from $268.2m per InGame; iGB cited $270.2m — minor source discrepancy), surrendering the handle lead it held a year earlier. BetMGM fell 21.0% to $77.3m (9.3% share from 11.5%). The residual ~$243.8m (29.2%, +7.6% YoY) is spread across Caesars, Fanatics, bet365, Hard Rock Bet, BetRivers, Bally Bet, theScore Bet, Golden Nugget, TwinSpires and tribal brands; none posted six-figure adjusted revenue in September 2025. The commercial implication is that share gains for a challenger must come from the long tail or from BetMGM's eroding third position, not from the duopoly, whose combined 61.5% share is stable-to-rising.",
+          "ADG's Catalog of Approved Wagers permits single-game, parlays, teasers, props, pools, in-play/in-game, over-unders, money lines and — unusually for the US — exchange wagering, giving product breadth comparable to New Jersey. Individual collegiate-athlete props and political events are excluded, which matters for the Kalshi case. Operators must geolocate to Arizona and verify age 21+; wagering is account-based with ADG-approved KYC, and statewide self-exclusion applies across all licensed apps.",
+          "Forward view for the channel (estimates): handle flat to +3% over the next twelve months absent a new large brand; gross receipts +10–15% on hold normalisation; taxable receipts +20–30% as the market ages out of launch-year promo caps and operators cut acquisition spend under tax-hike threat. The swing factor is regulatory: a 45% tier on the three ≥$75m-handle operators would, at September 2026 run-rates, lift state fees from $3.3m to an illustrative ~$11.5m a month (estimate, assuming the top-3 generate ~71% of taxable receipts) and would push those operators to cut promos and worsen pricing — which historically transfers share to sub-threshold competitors."
+        ],
+        "table": {
+          "note": "Mobile handle by operator — US $m",
+          "columns": [
+            "Sep-26 handle",
+            "Share Sep-26",
+            "Sep-25 handle",
+            "Share Sep-25",
+            "YoY"
+          ],
+          "rows": [
+            {
+              "label": "FanDuel",
+              "cells": [
+                "270.8",
+                "32.5%",
+                "254.5",
+                "30.0%",
+                "+6.4%"
+              ]
+            },
+            {
+              "label": "DraftKings",
+              "cells": [
+                "242.0",
+                "29.0%",
+                "268.2 (iGB: 270.2)",
+                "31.7%",
+                "-9.8%"
+              ]
+            },
+            {
+              "label": "BetMGM",
+              "cells": [
+                "77.3",
+                "9.3%",
+                "97.8",
+                "11.5%",
+                "-21.0%"
+              ]
+            },
+            {
+              "label": "All other brands (derived residual)",
+              "cells": [
+                "243.8",
+                "29.2%",
+                "226.5",
+                "26.7%",
+                "+7.6%"
+              ]
+            },
+            {
+              "label": "Total mobile handle",
+              "kind": "emphasis",
+              "cells": [
+                "833.9",
+                "100%",
+                "847.0",
+                "100%",
+                "-1.5%"
+              ]
+            },
+            {
+              "label": "Top-2 share",
+              "cells": [
+                "—",
+                "61.5%",
+                "—",
+                "61.7%",
+                "-0.2pp"
+              ]
+            },
+            {
+              "label": "Top-3 share",
+              "cells": [
+                "—",
+                "70.8%",
+                "—",
+                "73.3%",
+                "-2.5pp"
+              ]
+            },
+            {
+              "label": "Memo: Sep-25 adjusted revenue — FanDuel / DraftKings",
+              "cells": [
+                "—",
+                "—",
+                "8.5 / 4.3",
+                "net hold 3.34% / 1.6%",
+                "no other operator >$0.1m"
+              ]
+            },
+            {
+              "label": "Memo: Sep-25 bet365 / Fanatics handle",
+              "cells": [
+                "—",
+                "—",
+                "60.3 / 73.1",
+                "gross hold 4.8% / 3.4%",
+                "both reported $0 adjusted revenue"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Mobile handle",
+            "takeaway": "Mobile handle of $833.9m in September 2026 was 1.5% below September 2025's $847.0m, a market at maturity with probable leakage to event contracts.",
+            "points": [
+              "Handle was 43.5% above August's $581m, following normal NFL/college football seasonality.",
+              "Decline is notable because September 2025 had grown 16.3%; negative YoY months were August (-4.6%), September (-1.7%), April (-1.2%); positive February +8.7%, June +22.3%.",
+              "No new large-brand launches in the period; some probable leakage to CFTC-listed sports event contracts.",
+              "Arizona remains a top-5/7 US state: September 2025's $851m ranked fifth behind New York, Illinois, New Jersey and Ohio."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Gross receipts and hold",
+            "takeaway": "Gross receipts before promotional deductions rose 18.5% to $65.2m on a 7.8% hold versus 6.5% a year earlier.",
+            "points": [
+              "September 2025's 6.7% collective win rate was the lowest of 32 reporting states.",
+              "August 2026 derived hold was 8.7% ($582.8m handle less $532m payouts).",
+              "Structural hold trending up as parlay/SGP mix and pricing discipline improve; 7.5–8.5% band is base case for NFL months.",
+              "Favourite-heavy NFL weeks drive month-to-month swings of ±1.5pp."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Promotional deductions",
+            "takeaway": "Promotional deductions of $32.2m (49.4% of gross, 3.9% of handle) halve the taxable base to $33.0m, making the 10% rate effectively 5.1% of gross.",
+            "points": [
+              "Down from $35.4m (64.4% of gross) a year earlier; up sharply from derived ~$14.8m (29% of gross) in August as operators front-loaded NFL acquisition spend.",
+              "In September 2025 bet365 ($60.3m handle, 4.8% hold) and Fanatics ($73.1m handle, 3.4% win rate) reported zero adjusted revenue; ADG caps deductions at 100% of gross.",
+              "Headline 10% rate converts to 5.1% of gross and 0.39% of handle.",
+              "For a new entrant this is the single most valuable feature of the regime: acquisition spend is effectively tax-deductible in launch years."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Operator shares",
+            "takeaway": "FanDuel led at $270.8m (32.5% share, +6.4% YoY) while DraftKings ($242.0m, -9.8%) and BetMGM ($77.3m, -21.0%) lost share.",
+            "points": [
+              "FanDuel grew from $254.5m; in September 2025 it also led adjusted revenue with $8.5m on a 3.34% net hold.",
+              "DraftKings 29.0% share, down from $268.2m per InGame (iGB cited $270.2m — minor source discrepancy), surrendering the handle lead.",
+              "BetMGM share fell to 9.3% from 11.5%.",
+              "Residual ~$243.8m (29.2%, +7.6% YoY) spread across Caesars, Fanatics, bet365, Hard Rock Bet, BetRivers, Bally Bet, theScore Bet, Golden Nugget, TwinSpires and tribal brands; none posted six-figure adjusted revenue in September 2025.",
+              "Challenger share gains must come from the long tail or BetMGM's eroding third position; the duopoly's combined 61.5% share is stable-to-rising."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Approved wagers and controls",
+            "takeaway": "ADG's catalogue offers product breadth comparable to New Jersey, including exchange wagering, but excludes collegiate-athlete props and political events.",
+            "points": [
+              "Permits single-game, parlays, teasers, props, pools, in-play/in-game, over-unders, money lines and exchange wagering.",
+              "Exclusion of individual collegiate-athlete props and political events matters for the Kalshi case.",
+              "Operators must geolocate to Arizona, verify age 21+, use ADG-approved KYC; statewide self-exclusion applies across all licensed apps."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Forward view",
+            "takeaway": "Estimates: handle flat to +3%, gross receipts +10–15%, taxable receipts +20–30% over twelve months; the swing factor is regulatory.",
+            "points": [
+              "Handle flat to +3% absent a new large brand; gross receipts up on hold normalisation; taxable receipts up as launch-year promo caps age out and acquisition spend is cut.",
+              "A 45% tier on the three ≥$75m-handle operators would lift state fees from $3.3m to an illustrative ~$11.5m a month (estimate, assuming top-3 generate ~71% of taxable receipts).",
+              "The tier would push those operators to cut promos and worsen pricing, which historically transfers share to sub-threshold competitors."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Retail event wagering, tribal casinos and fantasy contests",
+        "headline": "Retail is a $2.8m rounding error (0.3% of handle, -36% YoY) attached to tribal exclusivity; fantasy is a $13.6m-entry-fee niche taxed at 5% where PrizePicks holds half the revenue.",
+        "narrative": [
+          "Retail event-wagering handle was $2.8m in September 2026, 0.33% of the total, down 36.4% from $4.4m a year earlier (when DraftKings' TPC Scottsdale book took $3.0m and Caesars' American Wagering $810,080) though up 75% from August's $1.6m. Retail is taxed at 8% versus 10% for mobile, but the difference is immaterial at this scale: in September 2025 only $79,416 of $1.94m in fees came from retail. Retail books exist at tribal casinos (Desert Diamond, Gila River, Casino Arizona/Talking Stick, Harrah's Ak-Chin and others) and in franchise venue districts (State Farm Stadium, Footprint Center, Chase Field, TPC Scottsdale, Phoenix Raceway), and their function is brand presence and database capture for the paired app. ADG approved nine additional in-person wagering locations in September 2026 (Signals AZ / Gaming Intelligence headlines; articles not read in full), consistent with the 'limited event wagering' retail licence class for racetracks and off-track betting sites, which is capped at 10 statewide.",
+          "The retail channel cannot be understood apart from the 2021 compact bargain. Arizona has no commercial casinos; Class III gaming is the exclusive province of the tribes (16 tribes operating roughly 26 casinos — approximate, not re-verified this session) under compacts amended in April 2021 alongside HB 2772. The tribes accepted commercial sports betting off-reservation (via the franchise licences) in exchange for expanded casino offerings — more slot positions, additional table games such as craps, roulette and baccarat — and their own ten event-wagering operator licences, most of which are leased to national brands. Tribal gaming contributions to the state's Arizona Benefits Fund are reported separately by ADG and are not included in the event-wagering fee figures here (FY figures n/a this session). The practical consequence for any operator is that online casino is not legislatable without tribal consent, and the tribes have shown no appetite to cede that exclusivity.",
+          "Fantasy sports contests are regulated under a parallel chapter of Title 5 with their own ADG licence and a 5% privilege fee on adjusted revenue. September 2026 entry fees were $13.6m (+66% MoM from $8.2m), adjusted revenue $2.2m (16.2% take, +38% MoM) and fees $111,221 (5.06% effective). PrizePicks led with $1.12m of adjusted revenue (~51%), DraftKings $544k (~25%); the remainder is Underdog, Sleeper, Betr and smaller operators. FY2027 year-to-date fantasy fees are $349,935 against $14.8m from event wagering — fantasy is roughly 2.3% of the state's take from the two verticals combined. Arizona's willingness to license pick'em-style products as fantasy (rather than treat them as unlicensed sports betting, as several states have) is a point of regulatory permissiveness that a sportsbook operator should view as a competitive overlap: PrizePicks' $1.12m of adjusted revenue is more than any sportsbook outside the top two earned in September 2025.",
+          "Commercially, retail and DFS are adjacencies, not entry points. The retail licence is a derivative of the operator licence (or a limited racetrack licence with no online skin), and the DFS licence does not confer sports-betting rights. For B2Tech the relevant question is whether a fantasy licence offers a low-cost brand-building beachhead ahead of a sportsbook partnership — the 5% fee and absence of the tribal/franchise gate make it the cheapest regulated presence available in Arizona."
+        ],
+        "table": {
+          "note": "Retail & fantasy — US $m",
+          "columns": [
+            "Sep-26",
+            "MoM (vs Aug-26)",
+            "YoY (vs Sep-25)",
+            "Sep-25"
+          ],
+          "rows": [
+            {
+              "label": "Retail event-wagering handle",
+              "cells": [
+                "2.8",
+                "+75%",
+                "-36.4%",
+                "4.4"
+              ]
+            },
+            {
+              "label": "Retail share of total handle",
+              "cells": [
+                "0.33%",
+                "+0.06pp",
+                "-0.19pp",
+                "0.52%"
+              ]
+            },
+            {
+              "label": "Retail privilege fee rate",
+              "cells": [
+                "8%",
+                "—",
+                "—",
+                "8%"
+              ]
+            },
+            {
+              "label": "Retail fees (Sep-25 disclosed)",
+              "cells": [
+                "n/a",
+                "—",
+                "—",
+                "0.079"
+              ]
+            },
+            {
+              "label": "Fantasy entry fees",
+              "cells": [
+                "13.6",
+                "+66%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Fantasy adjusted revenue",
+              "cells": [
+                "2.2",
+                "+38%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Fantasy take rate (adj. rev / entry fees)",
+              "cells": [
+                "16.2%",
+                "-3pp (Aug 19.5%)",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Fantasy privilege fees (5%)",
+              "cells": [
+                "0.111",
+                "+43%",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "PrizePicks adjusted revenue / share",
+              "cells": [
+                "1.12 / ~51%",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "DraftKings fantasy adjusted revenue / share",
+              "cells": [
+                "0.544 / ~25%",
+                "n/a",
+                "n/a",
+                "n/a"
+              ]
+            },
+            {
+              "label": "Fantasy fees FY27 YTD (Jul–Sep)",
+              "cells": [
+                "0.350",
+                "—",
+                "—",
+                "—"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Retail handle",
+            "takeaway": "Retail handle was $2.8m in September 2026, 0.33% of total and down 36.4% YoY, functioning mainly as brand presence for paired apps.",
+            "points": [
+              "Year-earlier $4.4m included DraftKings' TPC Scottsdale book ($3.0m) and Caesars' American Wagering ($810,080); up 75% from August's $1.6m.",
+              "Taxed at 8% versus 10% for mobile, but immaterial: only $79,416 of $1.94m in September 2025 fees came from retail.",
+              "Retail books sit at tribal casinos (Desert Diamond, Gila River, Casino Arizona/Talking Stick, Harrah's Ak-Chin) and franchise venues (State Farm Stadium, Footprint Center, Chase Field, TPC Scottsdale, Phoenix Raceway).",
+              "ADG approved nine additional in-person locations in September 2026 (articles not read in full), consistent with the limited retail licence class capped at 10 statewide."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Tribal compact",
+            "takeaway": "Tribal exclusivity over Class III gaming, locked in by the April 2021 compact amendments, means online casino is not legislatable without tribal consent.",
+            "points": [
+              "Arizona has no commercial casinos; 16 tribes operate roughly 26 casinos (approximate, not re-verified this session).",
+              "Tribes accepted off-reservation commercial sports betting via franchise licences in exchange for more slots, craps, roulette, baccarat and ten event-wagering licences, mostly leased to national brands.",
+              "Tribal contributions to the Arizona Benefits Fund are reported separately and excluded from event-wagering fee figures (FY figures n/a this session).",
+              "Tribes have shown no appetite to cede exclusivity."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Fantasy contests",
+            "takeaway": "Fantasy entry fees were $13.6m in September 2026 (+66% MoM) with 5% fee on $2.2m adjusted revenue; PrizePicks holds ~51%.",
+            "points": [
+              "Adjusted revenue $2.2m (16.2% take, +38% MoM); fees $111,221 (5.06% effective); entry fees up from $8.2m.",
+              "PrizePicks $1.12m adjusted revenue (~51%), DraftKings $544k (~25%); remainder Underdog, Sleeper, Betr and smaller operators.",
+              "FY2027 YTD fantasy fees $349,935 versus $14.8m from event wagering; fantasy is roughly 2.3% of combined take.",
+              "Licensing pick'em products as fantasy is a competitive overlap: PrizePicks' $1.12m exceeds any sportsbook outside the top two in September 2025."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "B2Tech read-through",
+            "takeaway": "Retail and DFS are adjacencies, not entry points, but a fantasy licence is the cheapest regulated presence available in Arizona.",
+            "points": [
+              "Retail licence derives from the operator licence or a limited racetrack licence with no online skin; DFS licence confers no sports-betting rights.",
+              "The 5% fee and absence of the tribal/franchise gate make fantasy a potential low-cost brand-building beachhead ahead of a sportsbook partnership."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Licensing & tax regime",
+        "headline": "A capped, partner-gated licence structure (10 tribal + 10 franchise + 10 limited retail) and a 10%/8% fee on a promo-shielded base — effective ~5% of gross — now facing a proposed 45% tier for operators above $75m monthly handle.",
+        "narrative": [
+          "The enabling framework is HB 2772, signed 15 April 2021, codified at A.R.S. Title 5 (event wagering §5-1301 et seq.; fantasy sports contests §5-1201 et seq.), with the Arizona Department of Gaming as the single licensing, rule-making and enforcement authority; the market launched on 9 September 2021. ADG is also the state regulator for tribal gaming compliance, racing/pari-mutuel and unarmed combat sports, and it houses the Division of Problem Gambling. Statute limits event-wagering operator licences to a maximum of 20: up to 10 for federally recognised tribes with a gaming compact and up to 10 for owners of professional sports franchises or organisations that host events in Arizona (NFL, NBA, MLB, NHL, PGA Tour, NASCAR, among others). Each operator licence supports one online brand and retail wagering at the tribal casino or at/near the franchise venue. A further class of up to 10 'limited event wagering operator' licences allows racetrack enclosures and off-track betting facilities to offer retail-only wagering. Management services providers (the national brands operating under a tribe's or franchise's licence), suppliers and key employees are separately licensed.",
+          "Fees, per ADG's rule-based schedule as recalled and not re-verified this session, are a $100,000 non-refundable application fee, a $750,000 initial event-wagering operator licence fee and a $150,000 annual renewal; management-services-provider and supplier fees are materially lower. The economically significant cost is not the state fee but the partner economics — tribes and franchises typically extract an upfront payment plus a revenue share, and because the licence count is exhausted, new entrants are dependent on a partner swapping brands (as the Coyotes/SaharaBets and Phoenix Rising/Fubo slots have cycled) or on a tribe that has not yet activated its licence. The August 2026 licence issued in partnership with the San Juan Southern Paiute Tribe, with launch targeted for Q1 2027, shows the latter route remains open; the operator's identity was not confirmed in the sources read.",
+          "The privilege fee is 10% of adjusted gross event-wagering receipts for mobile and 8% for retail, where adjusted receipts equal handle minus winnings paid, minus the federal excise tax (0.25% of handle) and minus free bets/promotional credits. The promotional deduction is capped as a share of handle on a sliding scale through an operator's first five years (20% → 15% → 10% → 5%, as recalled; schedule not re-verified) and, in ADG's reporting, cannot push monthly adjusted receipts below zero. In practice promo deductions have run at 29–64% of gross in the past year, so the effective rate was 5.1% of gross in September 2026 and 3.5% in September 2025. Fantasy operators pay 5% of adjusted revenue. Fees flow to the state's event wagering fund, with ADG's regulatory costs recovered first and the balance to the general fund (allocation detail not re-verified). Lifetime fees of $205.4m on ~$38bn handle equal a 0.54% yield.",
+          "The political direction is toward a higher take. Governor Hobbs' January 2026 FY2027 executive budget proposed raising the rate to 45% for 'large operators' handling at least $75m a month, leaving smaller books at 10%. The legislature did not enact it in the FY2027 budget, and iGB confirms operators still pay 10% — the fifth-lowest rate among US states. On September 2026 figures the tier would capture FanDuel ($270.8m), DraftKings ($242.0m) and BetMGM ($77.3m, marginally above the line), and spare Caesars, Fanatics, bet365 and the tail. Two design features matter for an operator: the threshold is on handle, not revenue, creating a cliff-edge at which BetMGM (and any growing challenger) would be rationally incentivised to cap volume; and the carve-out structurally favours sub-threshold brands, which is unusual among the 2025–26 wave of state tax hikes (Illinois' per-wager surcharge, Maryland, New Jersey, Louisiana) and would make Arizona one of the few states where being small is tax-advantaged. Fiscal pressure in the FY2028 budget cycle (January 2027 session) makes a reprise likely; our view is that a compromise in the 15–25% range applied to all operators, or a narrowing of the promo deduction, is more probable than the 45% tier as drafted (judgement, not sourced).",
+          "For B2Tech the licensing read-through is binary: there is no direct path to a B2C licence without a tribal or franchise partner, and most partners are spoken for. The viable routes are (i) a management-services agreement with a tribe holding an unactivated or lapsed licence, (ii) acquisition of an exiting brand's partnership, or (iii) B2B supply (platform, trading, risk) to an existing licensee, which requires a supplier licence only. Route (iii) is insulated from the tax debate; routes (i)–(ii) must be underwritten at a 20%+ tax rate, not 10%."
+        ],
+        "table": {
+          "note": "Licensing & tax parameters — US $ unless stated",
+          "columns": [
+            "Parameter",
+            "Current rule",
+            "Change / status",
+            "Source basis"
+          ],
+          "rows": [
+            {
+              "label": "Regulator",
+              "cells": [
+                "Arizona Department of Gaming (ADG)",
+                "—",
+                "HB 2772 / ADG site"
+              ]
+            },
+            {
+              "label": "Enabling law",
+              "cells": [
+                "HB 2772 (signed 15 Apr 2021); A.R.S. §5-1301 et seq. (event wagering), §5-1201 et seq. (fantasy); amended Tribal-State Compacts",
+                "Launch 9 Sep 2021",
+                "ADG site / azleg (not re-read)"
+              ]
+            },
+            {
+              "label": "Operator licences — tribal",
+              "cells": [
+                "Up to 10 (tribes with compacts); 1 online brand + retail on tribal land",
+                "New licence issued Aug-26 via San Juan Southern Paiute Tribe (launch Q1-27)",
+                "BetArizona Aug-26 report"
+              ]
+            },
+            {
+              "label": "Operator licences — pro sports franchise",
+              "cells": [
+                "Up to 10; 1 online brand + retail at/near venue",
+                "Fully allocated; partner swaps only",
+                "Framework knowledge"
+              ]
+            },
+            {
+              "label": "Limited (retail-only) licences",
+              "cells": [
+                "Up to 10 for racetracks / OTB sites",
+                "9 new in-person sites approved Sep-26 (press headlines; not read)",
+                "Signals AZ / Gaming Intelligence"
+              ]
+            },
+            {
+              "label": "Application fee",
+              "cells": [
+                "$100,000 [not re-verified]",
+                "—",
+                "ADG fee schedule (recalled)"
+              ]
+            },
+            {
+              "label": "Initial operator licence fee",
+              "cells": [
+                "$750,000 [not re-verified]",
+                "—",
+                "ADG fee schedule (recalled)"
+              ]
+            },
+            {
+              "label": "Annual renewal fee",
+              "cells": [
+                "$150,000 [not re-verified]",
+                "—",
+                "ADG fee schedule (recalled)"
+              ]
+            },
+            {
+              "label": "Tax base",
+              "cells": [
+                "Adjusted gross event-wagering receipts = handle − winnings − federal excise (0.25% of handle) − capped free bets/promos",
+                "Promo cap steps down over first 5 years [schedule not re-verified]",
+                "ADG reports / statute"
+              ]
+            },
+            {
+              "label": "Tax rate — mobile / retail",
+              "cells": [
+                "10% / 8%",
+                "Hobbs FY27 budget: 45% for ≥$75m monthly handle — not enacted",
+                "iGB; BetArizona; azmirror"
+              ]
+            },
+            {
+              "label": "Fantasy privilege fee",
+              "cells": [
+                "5% of adjusted revenue",
+                "—",
+                "BetArizona; ADG release"
+              ]
+            },
+            {
+              "label": "Effective rate on gross receipts (Sep-26)",
+              "cells": [
+                "5.1% (3.5% in Sep-25)",
+                "Promo deductions 49% of gross (64% Sep-25)",
+                "Derived from ADG figures"
+              ]
+            },
+            {
+              "label": "Operators above $75m handle (Sep-26)",
+              "cells": [
+                "FanDuel $270.8m; DraftKings $242.0m; BetMGM $77.3m",
+                "3 of ~12–15 brands",
+                "ADG via iGB"
+              ]
+            },
+            {
+              "label": "Illustrative state take under 45% tier (Sep-26 base)",
+              "cells": [
+                "~$11.5m vs $3.3m actual",
+                "Estimate: assumes top-3 = ~71% of taxable receipts",
+                "Analyst estimate"
+              ]
+            },
+            {
+              "label": "Minimum age / geolocation",
+              "cells": [
+                "21; in-state geofence; account-based wagering",
+                "—",
+                "ADG rules"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Legal framework",
+            "takeaway": "HB 2772 (signed 15 April 2021) caps operator licences at 20 (10 tribal, 10 franchise) plus 10 limited retail, with ADG as sole regulator.",
+            "points": [
+              "Codified at A.R.S. Title 5 (event wagering §5-1301 et seq.; fantasy §5-1201 et seq.); market launched 9 September 2021.",
+              "ADG also regulates tribal compliance, racing/pari-mutuel, unarmed combat sports and houses the Division of Problem Gambling.",
+              "Each operator licence supports one online brand plus retail at the tribal casino or franchise venue; franchises include NFL, NBA, MLB, NHL, PGA Tour, NASCAR.",
+              "Management services providers, suppliers and key employees are separately licensed."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Fees and partner access",
+            "takeaway": "State fees are modest ($750,000 initial licence); the real cost is partner economics, and licence exhaustion makes entrants dependent on partner swaps.",
+            "points": [
+              "$100,000 application fee, $750,000 initial operator fee, $150,000 annual renewal (as recalled, not re-verified); provider and supplier fees materially lower.",
+              "Tribes and franchises typically extract an upfront payment plus revenue share.",
+              "Entry requires a partner swapping brands (Coyotes/SaharaBets, Phoenix Rising/Fubo have cycled) or a tribe with an unactivated licence.",
+              "August 2026 licence with the San Juan Southern Paiute Tribe, launch targeted Q1 2027, shows the route remains open; operator identity unconfirmed."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Privilege fee",
+            "takeaway": "The 10% mobile / 8% retail fee applies to a promo-shielded base, giving an effective 5.1% of gross in September 2026 and 3.5% in September 2025.",
+            "points": [
+              "Adjusted receipts equal handle minus winnings, federal excise tax (0.25% of handle) and free bets/promotional credits.",
+              "Promo deduction capped on a sliding scale over five years (20% → 15% → 10% → 5%, as recalled, not re-verified) and cannot push monthly receipts below zero.",
+              "Promo deductions ran 29–64% of gross in the past year; fantasy operators pay 5% of adjusted revenue.",
+              "Fees go to the event wagering fund, ADG costs first, balance to the general fund (not re-verified); lifetime fees $205.4m on ~$38bn handle equal 0.54% yield."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Proposed 45% tier",
+            "takeaway": "Governor Hobbs' proposed 45% rate on operators handling ≥$75m a month was not enacted; a 15–25% compromise on all operators looks more probable.",
+            "points": [
+              "Operators still pay 10%, the fifth-lowest US rate per iGB; the FY2027 budget did not enact the tier.",
+              "On September 2026 figures it would capture FanDuel ($270.8m), DraftKings ($242.0m) and BetMGM ($77.3m, marginally above the line), sparing Caesars, Fanatics, bet365 and the tail.",
+              "Handle-based threshold creates a cliff-edge incentivising BetMGM and growing challengers to cap volume; carve-out favours sub-threshold brands, unlike Illinois, Maryland, New Jersey, Louisiana hikes.",
+              "FY2028 budget cycle (January 2027 session) makes a reprise likely; compromise or narrowed promo deduction more probable than 45% as drafted (judgement, not sourced)."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "B2Tech routes",
+            "takeaway": "No direct B2C path exists without a tribal or franchise partner; B2B supply is the route insulated from the tax debate.",
+            "points": [
+              "Routes: (i) management-services agreement with a tribe holding an unactivated or lapsed licence, (ii) acquiring an exiting brand's partnership, (iii) B2B supply requiring only a supplier licence.",
+              "Routes (i)–(ii) must be underwritten at a 20%+ tax rate, not 10%."
+            ],
+            "quote": null
+          }
+        ]
+      },
+      {
+        "name": "Enforcement, prediction markets, responsible gambling & payments",
+        "headline": "Arizona has moved from cease-and-desist to 20 criminal counts against Kalshi; RG rules are mainstream-US (21+, statewide self-exclusion, 1-800-NEXT-STEP) and payments are frictionless — the regulatory risk is political, not operational.",
+        "narrative": [
+          "The defining enforcement action of 2026 is the state's criminal case against Kalshi. Arizona filed 20 criminal counts alleging the prediction-market operator unlawfully accepted wagers on political contests, college sports and individual player performances — all categories outside Arizona's permitted catalogue — rather than relying solely on the civil cease-and-desist route most states have used against CFTC-registered exchanges. The case sits inside a national conflict over whether the Commodity Exchange Act pre-empts state gambling law for sports event contracts; a state criminal prosecution is the sharpest test yet of that question. For licensed operators the stakes are direct: September handle softness of -1.7% in a month when the NFL and college football seasons were in full swing is consistent with (though not proof of) volume migrating to zero-tax, zero-licence event-contract venues. If Arizona prevails, licensed books regain the protected position their $750k licence fee was meant to buy; if federal pre-emption is upheld, the 45% tax debate becomes academic because the taxable base will erode anyway.",
+          "Beyond prediction markets, ADG's enforcement posture is conventional: it polices licensed-operator compliance (advertising, self-exclusion, wager catalogue adherence), the illegal offshore market and unlicensed skill/sweepstakes products, and it regulates the integrity obligations written into HB 2772 (official-league-data requirements for in-play tier-2 wagers, reporting of suspicious activity, prohibition on wagering by athletes, officials and insiders). Arizona does not permit wagering on in-state collegiate player props or on political and non-sporting events outside the approved catalogue, which is why the Kalshi counts cite those categories specifically.",
+          "Responsible-gambling rules were written into HB 2772 at the outset: providers must fund and display problem-gambling resources, honour a statewide ADG self-exclusion list that spans event wagering and fantasy, offer deposit/time/wager limits, and route to the Division of Problem Gambling's 1-800-NEXT-STEP helpline. The minimum age is 21 (fantasy also 21). Advertising must not target under-21s or self-excluded persons and must carry responsible-gambling messaging; Arizona has not adopted the affordability-check or bonus-restriction regimes seen in Great Britain or the Netherlands, and promotional offers remain largely unconstrained beyond the tax-deduction cap — a key reason promo intensity sits at ~50% of gross. There is no state-level restriction on credit-card funding (unlike Massachusetts, Tennessee or Iowa), though many issuers block the merchant category code, and operators may not extend credit to patrons [statutory detail not re-verified].",
+          "Payments are mainstream US-digital and present no structural friction: deposits by ACH/online banking (Trustly/Plaid rails), debit card, PayPal, Venmo, Apple Pay, prepaid Play+ cards, PayNearMe cash vouchers and cash at tribal casino cages; withdrawals predominantly via ACH, PayPal and Play+. All wagering is account-based with ADG-approved KYC and continuous geolocation; there is no player-level withholding tax at state level on winnings (federal W-2G reporting thresholds apply). Compared with the mobile-money-dominated African markets B2Tech operates in, Arizona's payments stack is a commodity; the differentiator is geolocation/KYC vendor cost and chargeback management, not rail access.",
+          "The direction of travel is unambiguous: fiscal pressure (the Governor's budget explicitly leaned on sports-betting tax revenue alongside federal border funding), a hostile stance toward unlicensed prediction markets, and a regulator that is now producing an annual report and monthly data with reasonable transparency. What is not moving is market structure — tribal exclusivity, the 20-licence cap and the absence of iGaming are compact-locked through the 2021 amendments and are not realistically revisited before the compacts' next renegotiation window."
+        ],
+        "table": {
+          "note": "Rules & enforcement snapshot",
+          "columns": [
+            "Item",
+            "Arizona position",
+            "Direction / status"
+          ],
+          "rows": [
+            {
+              "label": "Prediction markets (Kalshi)",
+              "cells": [
+                "20 criminal counts filed in 2026: political contests, college sports, individual player performances",
+                "Pending; test of CFTC pre-emption; watch for Robinhood/Crypto.com follow-on"
+              ]
+            },
+            {
+              "label": "Permitted wagers",
+              "cells": [
+                "Single, parlay, teaser, props, pools, in-play, money line, exchange wagering (ADG catalogue)",
+                "Stable"
+              ]
+            },
+            {
+              "label": "Prohibited wagers",
+              "cells": [
+                "Individual collegiate-athlete props; political/non-sport events outside catalogue",
+                "Stable; enforced via Kalshi case"
+              ]
+            },
+            {
+              "label": "Minimum age",
+              "cells": [
+                "21 (event wagering and fantasy)",
+                "Stable"
+              ]
+            },
+            {
+              "label": "Self-exclusion",
+              "cells": [
+                "Statewide ADG list across event wagering & fantasy",
+                "Stable"
+              ]
+            },
+            {
+              "label": "Helpline / problem gambling",
+              "cells": [
+                "1-800-NEXT-STEP (ADG Division of Problem Gambling); operator funding obligations under HB 2772",
+                "Stable"
+              ]
+            },
+            {
+              "label": "Advertising",
+              "cells": [
+                "No targeting of under-21s/self-excluded; RG messaging required; no bonus-offer ban",
+                "No pending rule change identified"
+              ]
+            },
+            {
+              "label": "Promotions / tax deduction",
+              "cells": [
+                "Free bets deductible, capped as share of handle on sliding 5-year scale [not re-verified]",
+                "Potential narrowing if tax reform revisited"
+              ]
+            },
+            {
+              "label": "Payments",
+              "cells": [
+                "ACH/online banking, debit, PayPal, Venmo, Apple Pay, Play+, PayNearMe, casino cage; no state credit-card ban; no operator credit [not re-verified]",
+                "Stable"
+              ]
+            },
+            {
+              "label": "iGaming / commercial casinos",
+              "cells": [
+                "Not legal; tribal Class III exclusivity under 2021 compacts",
+                "No movement expected"
+              ]
+            },
+            {
+              "label": "Data transparency",
+              "cells": [
+                "Monthly ADG event-wagering & fantasy reports (unaudited, self-reported); FY2026 Annual Report published Oct-26",
+                "Improving"
+              ]
+            }
+          ]
+        },
+        "blocks": [
+          {
+            "heading": "Kalshi prosecution",
+            "takeaway": "Arizona's 20 criminal counts against Kalshi are the sharpest test yet of whether federal law pre-empts state gambling law for event contracts.",
+            "points": [
+              "Counts allege unlawful wagers on political contests, college sports and individual player performances, all outside Arizona's catalogue; most states used civil cease-and-desist.",
+              "September handle softness of -1.7% during NFL and college seasons is consistent with (not proof of) migration to zero-tax, zero-licence venues.",
+              "If Arizona prevails, licensed books regain the protection their $750k fee was meant to buy; if pre-emption is upheld, the 45% debate becomes academic as the base erodes."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Conventional enforcement",
+            "takeaway": "Beyond prediction markets, ADG polices licensed compliance, offshore and sweepstakes products, and HB 2772 integrity obligations.",
+            "points": [
+              "Covers advertising, self-exclusion, wager catalogue adherence, illegal offshore market and unlicensed skill/sweepstakes products.",
+              "Integrity rules: official-league data for in-play tier-2 wagers, suspicious activity reporting, wagering bans on athletes, officials and insiders.",
+              "In-state collegiate player props and political/non-sporting events are prohibited, which is why the Kalshi counts cite those categories."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Responsible gambling",
+            "takeaway": "RG rules are mainstream-US (21+, statewide self-exclusion, 1-800-NEXT-STEP) with promotions largely unconstrained, keeping promo intensity at ~50% of gross.",
+            "points": [
+              "Providers must fund and display problem-gambling resources, honour the ADG self-exclusion list across event wagering and fantasy, and offer deposit/time/wager limits.",
+              "Advertising must not target under-21s or self-excluded persons and must carry RG messaging.",
+              "No affordability-check or bonus-restriction regimes as in Great Britain or the Netherlands.",
+              "No state restriction on credit-card funding (unlike Massachusetts, Tennessee, Iowa), though issuers often block the merchant code; operators may not extend credit [not re-verified]."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Payments",
+            "takeaway": "Payments are a commodity US-digital stack with no structural friction; the differentiator is geolocation/KYC cost and chargeback management.",
+            "points": [
+              "Deposits via ACH/online banking (Trustly/Plaid), debit card, PayPal, Venmo, Apple Pay, Play+ prepaid, PayNearMe vouchers and casino cage cash; withdrawals mainly ACH, PayPal, Play+.",
+              "Account-based wagering with ADG-approved KYC and continuous geolocation; no state-level withholding on winnings (federal W-2G thresholds apply).",
+              "Contrasts with the mobile-money-dominated African markets B2Tech operates in."
+            ],
+            "quote": null
+          },
+          {
+            "heading": "Direction of travel",
+            "takeaway": "Fiscal pressure and hostility to unlicensed prediction markets are rising, while compact-locked market structure is not moving.",
+            "points": [
+              "The Governor's budget leaned on sports-betting tax revenue alongside federal border funding; ADG now publishes an annual report and monthly data with reasonable transparency.",
+              "Tribal exclusivity, the 20-licence cap and absence of iGaming are locked through the 2021 amendments until the compacts' next renegotiation window."
+            ],
+            "quote": null
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Lowest-cost tax regime among large US states: 10% mobile / 8% retail on a base that deducts winnings, federal excise and capped free bets — effective 5.1% of gross receipts and 0.39% of handle in September 2026. Launch-year acquisition spend is effectively tax-deductible.",
+        "tag": "structural"
+      },
+      {
+        "text": "Scale and digital purity: $836.7m September handle (top-5/7 US state), ~$7.7bn calendar-2025 handle (secondary source), 99.7% mobile — no retail capex, no cage logistics, standard US payment rails.",
+        "tag": "structural"
+      },
+      {
+        "text": "Contestable long tail: 29.2% of mobile handle (~$244m/month) sits outside the top three and grew +7.6% YoY while BetMGM lost 21% — the #3 slot and the tail are where a challenger can take share.",
+        "tag": "mixed"
+      },
+      {
+        "text": "Hold is normalising upward: 7.8% gross hold vs 6.5% a year earlier and the lowest-in-nation 6.7% of September 2025; taxable receipts +68% YoY on lighter promos — margin structure improving for incumbents and entrants alike.",
+        "tag": "early"
+      },
+      {
+        "text": "Licences are still being issued: a new tribal-partner operator licence (San Juan Southern Paiute Tribe, August 2026, launch Q1 2027) and nine new in-person wagering sites approved in September 2026 demonstrate that the partner route remains open.",
+        "tag": "one-off"
+      },
+      {
+        "text": "Regulated fantasy/pick'em at a 5% fee: a licensed, low-tax adjacency without the tribal/franchise gate — PrizePicks' $1.12m of September adjusted revenue exceeded every sportsbook outside the top two in September 2025.",
+        "tag": "structural"
+      },
+      {
+        "text": "Broad product catalogue including exchange wagering, in-play and props — product differentiation (not just price) is available as a competitive lever.",
+        "tag": "structural"
+      }
+    ],
+    "lowlights": [
+      {
+        "text": "Tax-hike overhang: the Governor's proposed 45% tier for operators with ≥$75m monthly handle was not enacted in FY2027 but is likely to resurface in the January 2027 session; any underwriting must assume ≥20% and a possible narrowing of promo deductions.",
+        "tag": "structural"
+      },
+      {
+        "text": "Handle has stalled: -1.7% in September, -4.6% in August, -1.2% in April against a national market still growing — maturity plus probable leakage to unlicensed prediction markets. Growth must come from share, not market expansion.",
+        "tag": "watch"
+      },
+      {
+        "text": "Access is gated and exhausted: 20 operator licences tied to tribes and franchises, all effectively allocated; entry requires a partner swap or an unactivated tribal licence, plus partner revenue share on top of ~$1m in state fees.",
+        "tag": "structural"
+      },
+      {
+        "text": "Duopoly economics: FanDuel + DraftKings hold 61.5% of handle and, in September 2025, essentially all of the market's six-figure adjusted revenue; sub-scale brands (bet365, Fanatics) reported zero taxable revenue after promos — the tail is share-rich but profit-poor.",
+        "tag": "structural"
+      },
+      {
+        "text": "Promo intensity: deductions of 49–64% of gross over the past year mean customer acquisition costs are brutal; the sliding promo-deduction cap also steps down with licence age, so the tax shield fades precisely as a new entrant scales.",
+        "tag": "structural"
+      },
+      {
+        "text": "Legal uncertainty on prediction markets: if federal pre-emption is upheld in the Kalshi litigation, licensed operators face a zero-tax, zero-licence competitor in exactly the NFL/college volume that drives Arizona's season.",
+        "tag": "watch"
+      },
+      {
+        "text": "No iGaming and no path to it: tribal Class III exclusivity is compact-locked; the only commercially accessible verticals are sports betting and DFS. Data is self-reported/unaudited and FY fee totals do not reconcile to monthly sums.",
+        "tag": "governance"
+      }
+    ],
+    "forecast": {
+      "intro": "The regulatory bridge from a year ago is a shift from 'low-tax, promo-friendly, volume-growing' to 'low-tax-for-now, promo-moderating, volume-flat, enforcement-hardening'. The taxable base moved from $19.6m (Sept 2025) to $33.0m (Sept 2026) almost entirely on hold and promo mix rather than handle, and the state's take rose 70% without any rate change — which cuts both ways: it strengthens the Governor's argument that the base can bear more tax, and it weakens the operators' argument that Arizona is already yielding its fair share. The Kalshi criminal case and the Hobbs 45% tier are the two regulatory events that determine whether 2027 is a repricing year.",
+      "bridge": [
+        {
+          "title": "Sep-25 taxable adjusted receipts",
+          "value": "$19.6m",
+          "change": "lowest since Jul-22; hold 6.5%"
+        },
+        {
+          "title": "Higher gross receipts (hold 6.5% → 7.8% on handle -1.7%)",
+          "value": "+$10.2m",
+          "change": "gross $55.0m → $65.2m"
+        },
+        {
+          "title": "Lower free-bet / promo deductions",
+          "value": "+$3.2m",
+          "change": "$35.4m → $32.2m (64% → 49% of gross)"
+        },
+        {
+          "title": "Sep-26 taxable adjusted receipts",
+          "value": "$33.0m",
+          "change": "+68% YoY; fees $3.3m (+70%)"
+        }
+      ],
+      "view": "Our independent view (estimates, not sourced): **handle flat to +3% over the next twelve months** absent a new large-brand launch, with the Q1 2027 tribal-partner entrant adding at most low-single-digit share; **gross hold settles in a 7.5–8.5% band**, lifting gross receipts +10–15%; **promo deductions drift toward 35–45% of gross** as the market ages out of launch-year caps and operators pre-emptively cut spend under tax-hike threat, so **taxable receipts grow +20–30% and FY2027 event-wagering fees land at roughly $50–60m at the current 10% rate** (Q1 FY27 collections of $14.8m annualise to ~$59m but include NFL-season months). **Regulatory leverage is rising, not falling**: we assign a meaningful probability that the January 2027 session produces a rate increase — more likely a uniform 15–25% or a tightened promo deduction than the 45% tier as drafted — and a lower but non-trivial probability of no change for another year. The cliff-edge design of the $75m-handle threshold would, if enacted, hand sub-scale brands a structural tax advantage; for B2Tech that argues for a **B2B/management-services or fantasy-licence entry first**, with B2C underwritten at ≥20% tax and a 7.5% hold, and for treating the Kalshi ruling as the gating event for any capital commitment.",
+      "watch": [
+        "January 2027 legislative session / Governor Hobbs' FY2028 executive budget: does the 45% large-operator tier return, and in what form (handle threshold vs uniform rate vs promo-deduction cap)?",
+        "Kalshi criminal case in Arizona and parallel federal CFTC pre-emption rulings — the determinant of whether licensed books regain protected volume or face permanent leakage.",
+        "October–December 2026 ADG reports: whether NFL/NBA months return to YoY handle growth and whether the 7.5–8.5% hold band and sub-50% promo ratio hold.",
+        "Launch of the San Juan Southern Paiute-partnered operator (targeted Q1 2027) and the identity/strategy of that brand; any further tribal licence activations or franchise partner swaps (BetMGM's -21% YoY trajectory makes the Cardinals slot worth monitoring).",
+        "ADG FY2026 Annual Report (published October 2026) for audited full-year handle, fees, licence counts and enforcement statistics — needed to replace the unverified items in this brief.",
+        "Promo-deduction mechanics: confirmation of the sliding cap schedule and whether ADG or the legislature narrows it as a backdoor tax increase.",
+        "BetMGM's position relative to the $75m threshold and any evidence of operators managing handle to stay below a tiered rate."
+      ]
+    },
+    "confidence": "MEDIUM",
+    "confidenceNote": "FX: market reports in USD; no conversion required. Headline September 2026 figures (handle $836.7m, payouts $769.5m, gross $65.2m, promos $32.2m, taxable $33.0m, fees $3.3m, mobile/retail split, operator handles, fantasy figures, FY27 YTD and lifetime totals) are corroborated across the ADG press-release text (reproduced by Indian Gaming), iGB, Deadspin and JoeWager; September 2025 comparables across iGB, InGame and Covers. The ADG PDF report and FY2026 Annual Report could not be opened in this session (site returned inaccessible). Items flagged [not re-verified]: licence-fee schedule ($100k/$750k/$150k), the sliding promo-deduction cap schedule, the credit-extension prohibition, fee-fund allocation, tribal casino counts, the identity of the August 2026 licensee, and the content of the September 2026 retail-licence approvals (headlines only). CY2025 handle/revenue is from Covers (secondary) and not regulator-verified. August 2026 gross, taxable and promo figures are derived from reported handle, payouts and fees. All 45%-tier and FY2027 fee figures in the forecast are analyst estimates.",
+    "sources": [
+      {
+        "label": "Arizona Department of Gaming — September 2026 event wagering & fantasy sports release (text reproduced by Indian Gaming, 20 Nov 2026)",
+        "kind": "primary",
+        "url": "https://www.indiangaming.com/arizona-reports-836-7m-in-september-sports-wagers/"
+      },
+      {
+        "label": "Arizona Department of Gaming — Event Wagering / Fantasy Sports overview and HB 2772 / compact mandate (gaming.az.gov)",
+        "kind": "primary",
+        "url": "https://gaming.az.gov/node"
+      },
+      {
+        "label": "Arizona Department of Gaming — Catalog of Approved Wagers and wager types (gaming.az.gov)",
+        "kind": "primary",
+        "url": "https://gaming.az.gov/ewfs/catalog-approved-wagers"
+      },
+      {
+        "label": "Arizona Department of Gaming — Event Wagering Revenue Reports index (monthly PDFs; not accessible this session)",
+        "kind": "primary",
+        "url": "https://gaming.az.gov/where-can-i-find-revenue-reports-event-wagering-fantasy-sports"
+      },
+      {
+        "label": "Arizona Department of Gaming — FY2026 Annual Report (Oct 2026; PDF not accessible this session)",
+        "kind": "primary",
+        "url": "https://gaming.az.gov/sites/default/files/2026-10/FY%202026%20Annual%20Report%20Arizona%20Department%20of%20Gaming_FINAL_0.pdf"
+      },
+      {
+        "label": "Arizona Legislature — HB 2772 (2021) / A.R.S. Title 5 event wagering and fantasy sports contests (not re-read this session)",
+        "kind": "primary",
+        "url": "https://www.azleg.gov/"
+      },
+      {
+        "label": "Arizona JLBC — FY2026 Appropriations Report, Department of Gaming (not read this session)",
+        "kind": "primary",
+        "url": "https://www.azjlbc.gov/26AR/gam.pdf"
+      },
+      {
+        "label": "iGB — Arizona sports betting handle slips 1.7% as FanDuel leads September wagering (20 Nov 2026)",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/finance/arizona-sports-betting-handle-slips-fanduel-leads-september-wagering/"
+      },
+      {
+        "label": "Deadspin — Arizona sports betting handle drops 1.7% in September (Nov 2026)",
+        "kind": "secondary",
+        "url": "https://deadspin.com/legal-betting/arizona-sports-betting-handle-drops-1-7-in-september/"
+      },
+      {
+        "label": "JoeWager — Arizona sports betting $836.7M in September 2026 (Nov 2026)",
+        "kind": "secondary",
+        "url": "https://www.joewager.com/betting/arizona-sports-betting-september-2026/"
+      },
+      {
+        "label": "BetArizona — Arizona bettors wager $583 million in August 2026, down 4.6% (16 Oct 2026); includes new tribal-partner licence and fantasy fee rate",
+        "kind": "secondary",
+        "url": "https://www.betarizona.com/news/arizona-bettors-wager-583-million-in-august-down-4-6-from-last-year"
+      },
+      {
+        "label": "BetArizona — Arizona sports betting hub (tax 10% online / 8% retail; helpline; 2026 monthly handle timeline)",
+        "kind": "secondary",
+        "url": "https://www.betarizona.com/"
+      },
+      {
+        "label": "iGB — Arizona adjusted sports betting revenue drops to three-year low in September (Sept 2025 comparables)",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/finance/arizona-sports-betting-revenue-september/"
+      },
+      {
+        "label": "InGame — Arizona sportsbooks reach $850 million handle in September 2025 (operator-level hold, promo mechanics, state ranking)",
+        "kind": "secondary",
+        "url": "https://www.ingame.com/arizona-september-2025-sportsbook-revenue/"
+      },
+      {
+        "label": "iGamingToday — Arizona's September 2025 handle climbs to $851m (operator handles, retail split)",
+        "kind": "secondary",
+        "url": "https://www.igamingtoday.com/arizonas-september-handle-climbs-to-851m/"
+      },
+      {
+        "label": "Covers — Arizona betting revenue tracker (CY2025 handle/revenue; lifetime to Sept 2025)",
+        "kind": "secondary",
+        "url": "https://www.covers.com/betting/usa/arizona/betting-revenue-tracker"
+      },
+      {
+        "label": "iGB — Arizona latest state to propose massive sports betting tax hike on large operators (Feb 2026)",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/sports-betting/hobbs-arizona-sports-betting-tax-increase-proposal/"
+      },
+      {
+        "label": "Arizona Mirror — Hobbs gambles on federal border money and sports betting taxes for budget balance (16 Jan 2026)",
+        "kind": "secondary",
+        "url": "https://azmirror.com/2026/01/16/hobbs-gambles-on-federal-border-money-and-sports-betting-taxes-for-budget-balance/"
+      },
+      {
+        "label": "iGB — Arizona files criminal charges against Kalshi (2026)",
+        "kind": "secondary",
+        "url": "https://igamingbusiness.com/legal-compliance/arizona-criminal-charges-against-kalshi/"
+      },
+      {
+        "label": "Gaming Intelligence — Arizona gaming regulator awards new retail betting licenses (Sept 2026; headline only)",
+        "kind": "secondary",
+        "url": "https://www.gamingintelligence.com/legal/236022-arizona-gaming-regulator-awards-new-retail-betting-licenses/"
+      },
+      {
+        "label": "Signals AZ — Arizona approves 9 new in-person sports betting sites (Sept 2026; headline only)",
+        "kind": "secondary",
+        "url": "https://www.signalsaz.com/articles/arizona-approves-9-new-in-person-sports-betting-sites/"
+      },
+      {
+        "label": "RG.org — Arizona sports betting statistics (operator list; secondary, possibly stale)",
+        "kind": "secondary",
+        "url": "https://rg.org/statistics/us/arizona"
+      },
+      {
+        "label": "American Gaming Association — State of the States 2026, Arizona overview (not read this session)",
+        "kind": "secondary",
+        "url": "https://www.americangaming.org/wp-content/uploads/2025/02/Arizona_Overview.pdf"
+      }
+    ],
+    "docType": "regulator"
+  }
+}

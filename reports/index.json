@@ -5953,16 +5953,62 @@
   },
   {
     "key": "gentoo media|Q3 2026",
-    "attempts": 1,
-    "lastAttempt": "2026-11-25T22:02:08.751Z",
-    "status": "failed",
-    "error": "r.forecast.bridge is not iterable",
+    "attempts": 2,
+    "lastAttempt": "2026-11-26T22:27:10.087Z",
+    "status": "done",
+    "error": null,
     "type": "company",
     "company": {
       "name": "Gentoo Media",
-      "ticker": "G2M"
+      "ticker": "G2M",
+      "exchange": ""
     },
-    "period": "Q3 2026"
+    "period": "Q3 2026",
+    "slug": "G2M-Q3-2026",
+    "published": "2026-11-26",
+    "verdict": "A quarter that confirms the August diagnosis rather than changes it: the cost base and 41% EBITDA margin are intact and the December bond cliff is gone, but the revenue engine is still shrinking (€20.8m/~$22.7m, -9% YoY, seventh consecutive decline) and FY26 guidance was cut for the third time in three months because operators resisted the commercial re-terms meant to convert record deposits into revenue. The price of the balance-sheet fix is control: the Juroszek family now owns ~56–59% of the equity and holds all of the residual ~€57.5m (~$62.9m) of debt at EURIBOR+7.50%.",
+    "kpis": [
+      {
+        "label": "Revenue (Q3-26)",
+        "value": "€20.8m (~$22.7m)",
+        "delta": "-9% YoY / -9% QoQ; 7th straight decline",
+        "dir": "down"
+      },
+      {
+        "label": "EBITDA before special items",
+        "value": "€8.5m (~$9.3m)",
+        "delta": "-9% YoY; margin 41% (flat YoY, +220bps QoQ)",
+        "dir": "down"
+      },
+      {
+        "label": "Net profit / EPS",
+        "value": "€1.1m (~$1.2m) / €0.01 (~$0.01)",
+        "delta": "+8% YoY on lower D&A; 9M €4.0m vs -€2.3m",
+        "dir": "up"
+      },
+      {
+        "label": "First-time depositors",
+        "value": "92,256",
+        "delta": "-15% YoY / -9% QoQ (Paid -32% YoY; Publishing +3%)",
+        "dir": "down"
+      },
+      {
+        "label": "Value of deposits",
+        "value": "€202m (~$221m)",
+        "delta": "+4% YoY / -2% QoQ; 4th quarter >€200m",
+        "dir": "up"
+      },
+      {
+        "label": "FY26 revenue guidance",
+        "value": "€87–88m (~$95.2–96.3m)",
+        "delta": "3rd cut: from €92m (1 Oct), €97–100m (Aug), €105–115m (orig.)",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "25 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.69
   },
   {
     "key": "juris|great britain|2025/26",
@@ -6258,5 +6304,300 @@
     "releaseDate": "24 Nov 2026 (ECA/GCI \"Online Gaming 2023–2025: Illegal Gambling in EU27 Europe\"; wire release 25 Nov 2026)",
     "model": "claude-fable-5-1",
     "costUsd": 5.4
+  },
+  {
+    "key": "tsogo sun|H1 FY2027",
+    "attempts": 1,
+    "lastAttempt": "2026-11-26T22:00:27.986Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "TSG-H1-FY2027",
+    "published": "2026-11-26",
+    "company": {
+      "name": "Tsogo Sun Limited",
+      "ticker": "TSG",
+      "exchange": ""
+    },
+    "period": "H1 FY2027",
+    "verdict": "A buyback-flattered print: HEPS +7% to 79c (~4.5 USc) masks headline earnings -2% to R757m (~$43m), income -2% to R5.43bn (~$309m) and adj. EBITDA -4% to R1.65bn (~$94m) as slot-machine GGR keeps leaking to online casino-style betting and the Gold Reef City strike cost ~R59m (~$3.4m). The balance sheet is the good news — net debt -12% YoY to R5.99bn (~$341m), 1.81x covenant leverage hits the <1.8x target — and online betting (NGR +43%, 26% margin) is finally real, but management's warning that October and November were \"particularly tough\" tells you H2 will not rescue the year.",
+    "kpis": [
+      {
+        "label": "Income (H1 FY27)",
+        "value": "R5,429m (~$309m)",
+        "delta": "-2.4% YoY; -2.6% HoH",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA / margin",
+        "value": "R1,646m (~$94m) / 30.3%",
+        "delta": "-4.0% YoY; margin -60bp YoY, -110bp HoH",
+        "dir": "down"
+      },
+      {
+        "label": "Headline earnings",
+        "value": "R757m (~$43m)",
+        "delta": "-1.6% YoY; -5.3% HoH",
+        "dir": "down"
+      },
+      {
+        "label": "HEPS (basic & diluted)",
+        "value": "79c (~4.5 USc)",
+        "delta": "+6.8% YoY on 7.6% fewer shares",
+        "dir": "up"
+      },
+      {
+        "label": "Net debt (NIBD & guarantees)",
+        "value": "R5,991m (~$341m)",
+        "delta": "-11.9% YoY; 1.81x covenant leverage (2.01x)",
+        "dir": "down"
+      },
+      {
+        "label": "Online betting NGR",
+        "value": "R193m (~$11m)",
+        "delta": "+43% YoY; +8% HoH; EBITDA R50m @ 26%",
+        "dir": "up"
+      }
+    ],
+    "confidence": "HIGH",
+    "releaseDate": "25 Nov 2026 (SENS 07:05 SAST)",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.06
+  },
+  {
+    "key": "acroud|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-26T22:14:15.115Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "ACROUD-Q3-2026",
+    "published": "2026-11-26",
+    "company": {
+      "name": "Acroud AB",
+      "ticker": "ACROUD",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A weak quarter that was then made almost irrelevant by Brazil: revenue -20% to EUR 10.4m (~$11.4m) and adj. EBITDA -30% to EUR 1.0m (~$1.1m) on a 52% collapse in SaaS EBITDA, while a Brazilian provisional measure banning fixed-odds betting removes the ~EUR 1.4m (~$1.5m) of Jan–Aug EBITDA — roughly 40-45% of the 9M group total on our arithmetic — and forced the July 2026-28 targets to be suspended. Record NDC volumes (+60%) and a 25.7% Affiliation margin show the operating engine still turns, but with cash at EUR 2.0m (~$2.2m), leverage back to 2.5x, a SEK 10m (~$1.0m) bond amortisation due in December and a failed bondholder consent in September, the equity is now a binary on the Brazilian Congress and on a 2027 refinancing.",
+    "kpis": [
+      {
+        "label": "Revenue",
+        "value": "EUR 10.4m (~$11.4m)",
+        "delta": "-20% YoY / -4% QoQ (organic -20.3%)",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA",
+        "value": "EUR 1.0m (~$1.1m)",
+        "delta": "-30% YoY / -24% QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA margin",
+        "value": "9.6%",
+        "delta": "-130bps YoY / -250bps QoQ",
+        "dir": "down"
+      },
+      {
+        "label": "New Depositing Customers",
+        "value": "72,754",
+        "delta": "+60% YoY / +8% QoQ (record)",
+        "dir": "up"
+      },
+      {
+        "label": "Net debt / LTM adj. EBITDA",
+        "value": "2.5x",
+        "delta": "vs 2.2x at Q2-26; net debt EUR 10.5m (~$11.5m)",
+        "dir": "up"
+      },
+      {
+        "label": "Operating cash flow",
+        "value": "EUR 0.2m (~$0.24m)",
+        "delta": "vs EUR 1.1m (~$1.2m) in Q3-25",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "25 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 6.18
+  },
+  {
+    "key": "juris|arizona|SEPTEMBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-26T22:41:38.285Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "ARIZONA-SEPTEMBER-2026",
+    "published": "2026-11-26",
+    "company": {
+      "name": "Arizona",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "SEPTEMBER 2026",
+    "verdict": "Arizona's sixth NFL September delivered a handle of $836.7m (-1.7% YoY) but a far better revenue print: gross receipts +18.5% to $65.2m on a 7.8% hold, promo deductions down to 49% of gross, taxable receipts +68% to $33.0m and state fees +70% to $3.3m. The market is a 99.7%-mobile, FanDuel/DraftKings duopoly (61.5% of handle) operating under one of the lowest effective tax regimes in the US (~5% of gross) — which is precisely why the Governor's 45% tier for ≥$75m-handle operators and the criminal case against Kalshi make the next 12 months a regulatory, not a demand, story.",
+    "kpis": [
+      {
+        "label": "Event-wagering handle (Sep-26)",
+        "value": "$836.7m",
+        "delta": "-1.7% YoY; +43.6% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "Gross receipts pre-promo",
+        "value": "$65.2m",
+        "delta": "+18.5% YoY; hold 7.8% vs 6.5%",
+        "dir": "up"
+      },
+      {
+        "label": "Taxable adjusted receipts",
+        "value": "$33.0m",
+        "delta": "+68.4% YoY; promos $32.2m (49% of gross)",
+        "dir": "up"
+      },
+      {
+        "label": "State privilege fees",
+        "value": "$3.3m",
+        "delta": "+70% YoY; 5.1% of gross, 0.39% of handle",
+        "dir": "up"
+      },
+      {
+        "label": "Mobile share of handle",
+        "value": "99.7%",
+        "delta": "$833.9m mobile / $2.8m retail (-36% YoY)",
+        "dir": "flat"
+      },
+      {
+        "label": "Top-2 share (FanDuel+DraftKings)",
+        "value": "61.5%",
+        "delta": "FanDuel 32.5% (+6.4% YoY) / DK 29.0% (-9.8%)",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "19 Nov 2026 (ADG release; press coverage 20 Nov 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.3
+  },
+  {
+    "key": "juris|wyoming|OCTOBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-26T22:56:25.975Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "WYOMING-OCTOBER-2026",
+    "published": "2026-11-26",
+    "company": {
+      "name": "Wyoming",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "OCTOBER 2026",
+    "verdict": "October 2026 confirms Wyoming as a small, mature, DraftKings-led, mobile-only sportsbook market whose growth has stalled: handle fell 7.3% YoY to $22.6m, GGR fell 12.4% to $2.47m and state tax fell 9.0% to $177,882, even as lifetime handle crossed $1bn and 2026 YTD remains +6.9%. The regime is among the cheapest and simplest in the US (untethered $100k five-year permit, 10% of net proceeds with promo deductions), but the political direction is prohibitionist on casino-style product: the Select Committee on Gaming has sent a felony ban on online casino and sweepstakes operation to the 2027 session rather than a regulatory framework.",
+    "kpis": [
+      {
+        "label": "OSW handle (Oct-26)",
+        "value": "$22.63m",
+        "delta": "−7.3% YoY / −3.4% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "Gross gaming revenue",
+        "value": "$2.47m",
+        "delta": "−12.4% YoY; hold 10.9%",
+        "dir": "down"
+      },
+      {
+        "label": "Taxable net proceeds",
+        "value": "$1.67m",
+        "delta": "−14.4% YoY / +13.9% MoM",
+        "dir": "down"
+      },
+      {
+        "label": "State tax (10% of net)",
+        "value": "$177,882",
+        "delta": "−9.0% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "YTD handle (Jan–Oct 26)",
+        "value": "$200.0m",
+        "delta": "+6.9% YoY; lifetime >$1.0bn",
+        "dir": "up"
+      },
+      {
+        "label": "DraftKings handle share",
+        "value": "51.7%",
+        "delta": "vs 47.3% Sept-26 / 57.8% Sept-25",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "c. 19 Nov 2026 (Wyoming Gaming Commission, October 2026 Combined Wagering Activity Report)",
+    "model": "claude-fable-5-1",
+    "costUsd": 3.41
+  },
+  {
+    "key": "juris|south africa|FY 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-26T23:12:16.461Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "SOUTH-AFRICA-FY-2026",
+    "published": "2026-11-26",
+    "company": {
+      "name": "South Africa",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "FY 2026",
+    "verdict": "South Africa's regulated gambling market set a record R84.46bn (~$5.12bn) GGR in FY2025/26 (+13.4%), but the growth is a single engine — online sports betting (R55.77bn, +25%) licensed province-by-province and taxed at ~6.5% of GGR plus VAT. The rules are now moving against the grain of that growth: the SCA has shut the bookmaker 'casino-game' loophole, Treasury wants a 20% national online GGR tax with the design due in the Feb-2027 Budget, advertising norms are drafted, and a site-blocking tender is live — while online casino stays illegal and an estimated majority of online play sits offshore. Attractive scale, deteriorating rule-set.",
+    "kpis": [
+      {
+        "label": "Total GGR FY2025/26 (audited)",
+        "value": "R84.46bn (~$5.12bn)",
+        "delta": "+13.4% YoY (FY24/25: +25.6%)",
+        "dir": "up"
+      },
+      {
+        "label": "Betting GGR (bookmakers + totes)",
+        "value": "R62.16bn (~$3.77bn)",
+        "delta": "+19.6%; 73.6% of market",
+        "dir": "up"
+      },
+      {
+        "label": "Online betting GGR (6 provinces disclosed)",
+        "value": "R55.77bn (~$3.38bn)",
+        "delta": "+25.4%; 66.0% of total GGR (floor)",
+        "dir": "up"
+      },
+      {
+        "label": "Casino GGR (36 casinos)",
+        "value": "R16.50bn (~$1.00bn)",
+        "delta": "-0.9%; share 19.5% (81% in FY11/12)",
+        "dir": "down"
+      },
+      {
+        "label": "Provincial gambling taxes/levies",
+        "value": "R6.45bn (~$391m)",
+        "delta": "+10.9%; 7.6% blended effective rate on GGR",
+        "dir": "up"
+      },
+      {
+        "label": "Total turnover (stakes incl. recycling)",
+        "value": "R1.76tn (~$106.9bn)",
+        "delta": "+17.5%; betting 79.5% of stakes",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "3 Nov 2026 (NGB National Gambling Statistics FY2025/26, period 1 Apr 2025–31 Mar 2026; NGB Annual Report 2025/26 published Oct 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 6.3
   }
 ]
