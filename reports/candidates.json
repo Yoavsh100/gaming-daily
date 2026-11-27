@@ -1,79 +1,5 @@
 [
   {
-    "key": "aristocrat leisure|FY 2026",
-    "type": "company",
-    "company": "Aristocrat Leisure Limited",
-    "ticker": "ALL.AX",
-    "period": "FY 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238568-aristocrat-leisure-grows-profit-to-a1-45-billion-in-fy26/",
-      "https://next.io/news/results/aristocrat-leisure-fy26-results-revenue-earnings/",
-      "https://www.yogonet.com/international/news/2026/11/13/127288-aristocrat-posts-13-earnings-growth-for-20252026-fy-returns-129-billion-to-shareholders"
-    ],
-    "seen": "2026-11-12",
-    "sector": "gaming",
-    "africa": false
-  },
-  {
-    "key": "doubledown interactive|Q3 2026",
-    "type": "company",
-    "company": "DoubleDown Interactive",
-    "ticker": "DDI",
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238576-doubledown-interactive-posts-q3-revenue-decline/"
-    ],
-    "seen": "2026-11-12"
-  },
-  {
-    "key": "meridian|Q3 2026",
-    "type": "company",
-    "company": "Meridian Holdings",
-    "ticker": null,
-    "period": "Q3 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238564-meridian-holdings-swings-to-loss-in-third-quarter/"
-    ],
-    "seen": "2026-11-12"
-  },
-  {
-    "key": "juris|new hampshire|SEPTEMBER 2026",
-    "type": "jurisdiction",
-    "market": "New Hampshire",
-    "authority": "New Hampshire Lottery",
-    "period": "SEPTEMBER 2026",
-    "urls": [
-      "https://www.gamingintelligence.com/finance/238490-new-hampshire-sports-betting-tops-85-million-in-september/"
-    ],
-    "seen": "2026-11-12"
-  },
-  {
-    "key": "juris|iowa|OCTOBER 2026",
-    "type": "jurisdiction",
-    "market": "Iowa",
-    "authority": "Iowa Racing and Gaming Commission",
-    "period": "OCTOBER 2026",
-    "urls": [],
-    "seen": "2026-11-12"
-  },
-  {
-    "key": "codere online|Q3 2026",
-    "type": "company",
-    "company": "Codere Online",
-    "ticker": "CDRO",
-    "period": "Q3 2026",
-    "urls": [
-      "https://igamingfuture.com/codere-online-q3-2026-revenue-up-31-to-e62-6m/",
-      "https://next.io/news/news/codere-online-q3-2026-revenue-mexico-growth/",
-      "https://www.gamingintelligence.com/finance/238598-codere-online-gaming-win-rises-30-in-third-quarter/",
-      "https://www.yogonet.com/international/news/2026/11/13/127303-codere-online-q3-revenue-rises-31-as-sher-maintains-fy2026-outlook",
-      "https://www.thegamblest.com/codere-online-prioritises-latam-markets-over-expansion-and-acquisitions/"
-    ],
-    "seen": "2026-11-12",
-    "sector": "gaming",
-    "africa": false
-  },
-  {
     "key": "codere|Q3 2026",
     "type": "company",
     "company": "Codere Group",
@@ -859,7 +785,8 @@
     "urls": [
       "https://next.io/news/results/gentoo-media-slashes-full-year-guidance/",
       "https://www.gamingintelligence.com/finance/239091-gentoo-media-posts-9-revenue-drop-in-third-quarter/",
-      "https://next.io/news/results/gentoo-media-disconnect-player-activity-and-revenue/"
+      "https://next.io/news/results/gentoo-media-disconnect-player-activity-and-revenue/",
+      "https://next.io/news/investment/gentoo-media-ceo-buys-shares-amid-guidance-cut/"
     ],
     "seen": "2026-11-25"
   },
@@ -922,5 +849,27 @@
       "https://www.gamingintelligence.com/finance/239138-tsogo-suns-first-half-income-falls-despite-online-betting-growth/"
     ],
     "seen": "2026-11-26"
+  },
+  {
+    "key": "juris|united states|Q3 2026",
+    "type": "jurisdiction",
+    "market": "United States",
+    "authority": "American Gaming Association",
+    "period": "Q3 2026",
+    "urls": [
+      "https://focusgn.com/us-commercial-gaming-revenue-record"
+    ],
+    "seen": "2026-11-27"
+  },
+  {
+    "key": "juris|lithuania|9M 2026",
+    "type": "jurisdiction",
+    "market": "Lithuania",
+    "authority": null,
+    "period": "9M 2026",
+    "urls": [
+      "https://focusgn.com/lithuania-online-gambling-growth"
+    ],
+    "seen": "2026-11-27"
   }
 ]
