@@ -6599,5 +6599,359 @@
     "releaseDate": "3 Nov 2026 (NGB National Gambling Statistics FY2025/26, period 1 Apr 2025–31 Mar 2026; NGB Annual Report 2025/26 published Oct 2026)",
     "model": "claude-fable-5-1",
     "costUsd": 6.3
+  },
+  {
+    "key": "genting malaysia berhad|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-27T21:44:04.356Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "4715-KL-Q3-2026",
+    "published": "2026-11-27",
+    "company": {
+      "name": "Genting Malaysia Berhad",
+      "ticker": "4715.KL",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "A top-line quarter bought with margin. The first full quarter of commercial casino (live-table) operations at Resorts World New York City lifted Q3-26 group revenue 29.1% YoY to RM4.34bn (~US$1.05bn), but RWNYC ramp-up staffing costs, a 22% EBITDA decline at the Resorts World Genting cash cow and higher financing/transaction costs cut group adjusted EBITDA 11.3% to RM743.1m (~US$180m) and attributable profit 66% to RM40.6m (~US$10m). The New York ramp thesis is intact but is landing later and costlier than the Street modelled (US & Bahamas EBITDA RM200.5m vs Maybank's RM300m); the home-market decline is the bigger structural problem.",
+    "kpis": [
+      {
+        "label": "Group revenue (Q3-26)",
+        "value": "RM4.34bn (~US$1.05bn)",
+        "delta": "+29.1% YoY; QoQ n/a",
+        "dir": "up"
+      },
+      {
+        "label": "Group adj. EBITDA",
+        "value": "RM743.1m (~US$180m)",
+        "delta": "-11.3% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EBITDA margin (implied)",
+        "value": "~17.1%",
+        "delta": "c.-780bps YoY (vs ~24.9%)",
+        "dir": "down"
+      },
+      {
+        "label": "Profit attributable to shareholders",
+        "value": "RM40.6m (~US$10m)",
+        "delta": "-66% YoY; -14% QoQ (Q2-26: RM47.4m)",
+        "dir": "down"
+      },
+      {
+        "label": "US & Bahamas adj. EBITDA",
+        "value": "RM200.5m (~US$49m)",
+        "delta": "+33% YoY but ~33% below Maybank's RM300m",
+        "dir": "up"
+      },
+      {
+        "label": "Malaysia (RWG) adj. EBITDA",
+        "value": "RM486.4m (~US$118m)",
+        "delta": "-22% YoY",
+        "dir": "down"
+      }
+    ],
+    "confidence": "LOW",
+    "releaseDate": "26 Nov 2026 (after Bursa Malaysia close; quarter ended 30 Sep 2026, FYE 31 Dec)",
+    "model": "claude-fable-5-1",
+    "costUsd": 2.3
+  },
+  {
+    "key": "allwyn|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-27T22:06:10.820Z",
+    "status": "done",
+    "error": null,
+    "type": "company",
+    "slug": "ALLWYN-Q3-2026",
+    "published": "2026-11-27",
+    "company": {
+      "name": "Allwyn",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "Headline growth flattered (Net Revenue +19% to €1,220m / ~$1,338m) but the quality underwhelmed: comparable revenue +4%, comparable Adj. EBITDA +2%, Adj. EBITDA €396m (~$434m) roughly 10% below the Eurobank Equities estimate, margin down 410bps to 32.5%, and the explicit 37% FY26 margin guide quietly replaced by \"within the consensus range\" (€1,769–1,891m / ~$1.94–2.07bn). PrizePicks (+29% cFX revenue, +26% EBITDA on a 100% basis) and the UK's contractual cost recovery are the genuine positives; Betano's Brazil shutdown from 25 Sept, 3.5x leverage against a €1/share (~$1.10) distribution floor, and still-shrinking UK ticket sales are the overhangs. The shares' modest +1.6% on the day reflected a stock already down ~20% into the print, not relief in the numbers.",
+    "kpis": [
+      {
+        "label": "Net Revenue (non-IFRS)",
+        "value": "€1,220m (~$1,338m)",
+        "delta": "+19% YoY reported; +4% comparable; −2% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA",
+        "value": "€396m (~$434m)",
+        "delta": "+6% YoY; +2% comparable; ~10% below Eurobank est. €440m",
+        "dir": "up"
+      },
+      {
+        "label": "Adj. EBITDA margin",
+        "value": "32.5%",
+        "delta": "−410bps YoY (36.6%); −430bps QoQ (36.8%)",
+        "dir": "down"
+      },
+      {
+        "label": "Adj. EPS",
+        "value": "€0.18 (~$0.20)",
+        "delta": "vs €0.36 OPAP-basis comp (n/m); Investing.com consensus €0.245; IFRS EPS €0.03",
+        "dir": "down"
+      },
+      {
+        "label": "Free cash flow",
+        "value": "€84m (~$92m)",
+        "delta": "−61% YoY (€215m); 9M €609m (~$668m)",
+        "dir": "down"
+      },
+      {
+        "label": "Net debt (incl. leases) / PF Adj. EBITDA",
+        "value": "3.5x (€6,641m / ~$7,285m)",
+        "delta": "flat QoQ (3.5x); 2.8x at Q1-26",
+        "dir": "flat"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "19 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 7.02
+  },
+  {
+    "key": "juris|lithuania|9M 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-27T22:21:09.333Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "LITHUANIA-9M-2026",
+    "published": "2026-11-27",
+    "company": {
+      "name": "Lithuania",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "9M 2026",
+    "verdict": "Lithuania's regulated market grew 14% to €229m (~$265.6m) GGR in 9M 2026, but it is now a remote-slots market: online is 78% of GGR and remote Category A slots alone are 57%, while retail fell 6.5% and online betting slipped 2%. The policy direction is unambiguously restrictive — a progressive 22/29/36% GGR tax from 1 July 2027 (Government-approved 27 Nov 2026), a full advertising ban from 1 Jan 2028 and a mandatory cross-operator player card plus cashless venues from 2029 are all in the pipeline. For an entrant the arithmetic is a fast-growing, 12-licensee, slots-led market whose marginal tax on scale is about to rise from 22% to 36% just as acquisition channels close.",
+    "kpis": [
+      {
+        "label": "Gambling GGR 9M-26",
+        "value": "€229m (~$265.6m)",
+        "delta": "+14% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Online GGR 9M-26",
+        "value": "€179.0m (~$207.6m)",
+        "delta": "+21.8% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Online share of GGR",
+        "value": "78%",
+        "delta": "+5pp YoY (73% in 9M-25)",
+        "dir": "up"
+      },
+      {
+        "label": "Land-based GGR 9M-26",
+        "value": "€50.0m (~$58.0m)",
+        "delta": "−6.5% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "Lottery & gambling tax take",
+        "value": "€74.19m (~$86.1m)",
+        "delta": "+15% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "Lottery ticket sales (turnover)",
+        "value": "€131.5m (~$152.5m)",
+        "delta": "+9% YoY",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "23 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.63
+  },
+  {
+    "key": "juris|delaware|OCTOBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-27T22:37:37.804Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "DELAWARE-OCTOBER-2026",
+    "published": "2026-11-27",
+    "company": {
+      "name": "Delaware",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "OCTOBER 2026",
+    "verdict": "October 2026 confirms Delaware as a small, state-run, single-vendor market whose growth now comes almost entirely from online casino: combined sports + iGaming wagers hit a record $396.3m (+16.6% YoY) and iGaming NGR rose 18.8% to $13.05m, while sports handle fell 8.4% and retail casino win slipped 1.4% to $38.4m. The state's take is rising faster than the market (sports state share +23.6%) because the Lottery keeps 50–90% of net proceeds under a revenue-share, not a tax. For an operator the market remains closed — entry is only via the Lottery's vendor contract (RSI/BetRivers, base term to ~2028) or B2B content supply — and the 2024 multi-operator bill is dead.",
+    "kpis": [
+      {
+        "label": "Combined sports + iGaming wagers",
+        "value": "$396.3m",
+        "delta": "+16.6% YoY (record); +6.0% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "iGaming NGR",
+        "value": "$13.05m",
+        "delta": "+18.8% YoY; FYTD $52.3m +31.4%",
+        "dir": "up"
+      },
+      {
+        "label": "Sports handle",
+        "value": "$26.0m",
+        "delta": "-8.4% YoY; tickets -17.5%",
+        "dir": "down"
+      },
+      {
+        "label": "Sports state share",
+        "value": "$1.80m",
+        "delta": "+23.6% YoY on 17.6% hold",
+        "dir": "up"
+      },
+      {
+        "label": "Retail casino win (VLT + tables)",
+        "value": "$38.4m",
+        "delta": "-1.4% YoY (secondary)",
+        "dir": "down"
+      },
+      {
+        "label": "New iGaming registrations",
+        "value": "3,963",
+        "delta": "-36.2% YoY; -25.1% MoM",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "Nov 2026 (Delaware Lottery unaudited monthly tables for the Oct-26 accounting period, posted ~10–19 Nov 2026; trade coverage 27 Nov 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 5.2
+  },
+  {
+    "key": "juris|new york|OCTOBER 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-27T22:55:47.373Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "NEW-YORK-OCTOBER-2026",
+    "published": "2026-11-27",
+    "company": {
+      "name": "New York",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "OCTOBER 2026",
+    "verdict": "October 2026 was a record volume month for New York's mobile sportsbooks ($2.79bn handle, GGR $258.1m, 51% tax = $131.7m) and the first October in which Resorts World NYC reported as a full commercial casino, lifting statewide casino GGR 248% to $194.9m — but the underlying story is a high-tax, slow-to-liberalise market: FYTD mobile GGR is down ~3% on weaker hold, VLT net win is being cannibalised by RWNYC's conversion, iGaming is dead until at least 2027, and the state is simultaneously fighting prediction markets in court and its own flagship casino over $80.6m of unpaid racing-support levies. For an operator, New York is scale without margin: the largest US sports-betting pool, an eight-operator oligopoly where FanDuel/DraftKings hold 71% of handle, and a 51% GGR tax that leaves little room for a new entrant.",
+    "kpis": [
+      {
+        "label": "Mobile sports handle (Oct-26)",
+        "value": "$2,787.5m",
+        "delta": "+5.5% YoY / +16.1% MoM — US state record",
+        "dir": "up"
+      },
+      {
+        "label": "Mobile sports GGR (Oct-26)",
+        "value": "$258.1m",
+        "delta": "+8.1% YoY; hold 9.26% (Oct-25: 9.04%)",
+        "dir": "up"
+      },
+      {
+        "label": "Commercial casino GGR (5 casinos)",
+        "value": "$194.9m",
+        "delta": "+248% YoY (RWNYC conversion); +5.8% MoM",
+        "dir": "up"
+      },
+      {
+        "label": "VLT net win (8 racinos)",
+        "value": "$132.1m",
+        "delta": "-37% YoY reported; +4% like-for-like",
+        "dir": "down"
+      },
+      {
+        "label": "State gaming tax, mobile + casino (Oct-26)",
+        "value": "$210.5m",
+        "delta": "$131.7m mobile (51% of GGR) + $78.8m casino (eff. 40.4%)",
+        "dir": "up"
+      },
+      {
+        "label": "FYTD mobile GGR (Apr–Oct 26)",
+        "value": "$1.37bn",
+        "delta": "-3.5% YoY on 8.90% hold (vs 9.83%); handle +6.7% to $15.35bn",
+        "dir": "down"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "6–9 Nov 2026 (NYSGC statewide monthly reports for October 2026)",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.02
+  },
+  {
+    "key": "juris|lithuania|Q3 2026",
+    "attempts": 1,
+    "lastAttempt": "2026-11-27T23:08:33.208Z",
+    "status": "done",
+    "error": null,
+    "type": "jurisdiction",
+    "slug": "LITHUANIA-Q3-2026",
+    "published": "2026-11-27",
+    "company": {
+      "name": "Lithuania",
+      "ticker": "",
+      "exchange": ""
+    },
+    "period": "Q3 2026",
+    "verdict": "Lithuania's regulated gambling GGR rose a derived 9.3% YoY to €75.4m (~$82.6m) in Q3 2026 (9M: €229.0m/~$250.8m, +14.2%), with online now 78% of the market and online slots alone 57% — but growth has decelerated sharply from Q2's ~27%, betting is shrinking and every land-based product is down. The policy direction is unambiguously restrictive: a 22/29/36% progressive GGR tax from 1 Jul 2027, a complete advertising ban from 1 Jan 2028 and a mandatory cross-operator player card plus cashless venues from 1 Jan 2029. A profitable, slots-led, euro-denominated market whose regulated-growth window is narrowing fast.",
+    "kpis": [
+      {
+        "label": "Q3-26 gambling GGR (derived)",
+        "value": "€75.4m (~$82.6m)",
+        "delta": "+9.3% YoY; −14.2% QoQ",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 gambling GGR",
+        "value": "€229.0m (~$250.8m)",
+        "delta": "+14.2% YoY (€200.5m)",
+        "dir": "up"
+      },
+      {
+        "label": "Online share of GGR",
+        "value": "78%",
+        "delta": "+5pp YoY (73% 9M-25)",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 remote GGR",
+        "value": "€179.0m (~$196.0m)",
+        "delta": "+21.8% YoY",
+        "dir": "up"
+      },
+      {
+        "label": "9M-26 land-based GGR",
+        "value": "€50.0m (~$54.8m)",
+        "delta": "−6.5% YoY",
+        "dir": "down"
+      },
+      {
+        "label": "9M-26 gambling + lottery tax",
+        "value": "€74.19m (~$81.2m)",
+        "delta": "+15% YoY",
+        "dir": "up"
+      }
+    ],
+    "confidence": "MEDIUM",
+    "releaseDate": "23 Nov 2026",
+    "model": "claude-fable-5-1",
+    "costUsd": 4.92
   }
 ]

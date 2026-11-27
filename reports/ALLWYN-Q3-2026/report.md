@@ -1,0 +1,386 @@
+# Allwyn () — Q3 2026 Analyst Report
+** · Reporting currency: EUR (tables in € millions; USD equivalents in parentheses at EUR/USD 1.097, 19 Nov 2026) · Results released 19 Nov 2026**
+**Market reaction:** Shares closed c.+1.6% at c.€9.71 (~$10.65) on 19 Nov 2026 versus a €9.56 (~$10.49) prior close (Investing.com/Marketscreener-derived; [approx.]), having fallen c.20% in the month into the print (Citi); the gain was given back within days (€9.27 close on 25 Nov per Bloomberg) and the stock sits near the bottom of its €9.43–19.1 52-week range, c.−49% year-to-date (Marketscreener).
+
+> Headline growth flattered (Net Revenue +19% to €1,220m / ~$1,338m) but the quality underwhelmed: comparable revenue +4%, comparable Adj. EBITDA +2%, Adj. EBITDA €396m (~$434m) roughly 10% below the Eurobank Equities estimate, margin down 410bps to 32.5%, and the explicit 37% FY26 margin guide quietly replaced by "within the consensus range" (€1,769–1,891m / ~$1.94–2.07bn). PrizePicks (+29% cFX revenue, +26% EBITDA on a 100% basis) and the UK's contractual cost recovery are the genuine positives; Betano's Brazil shutdown from 25 Sept, 3.5x leverage against a €1/share (~$1.10) distribution floor, and still-shrinking UK ticket sales are the overhangs. The shares' modest +1.6% on the day reflected a stock already down ~20% into the print, not relief in the numbers.
+
+## 1. Executive Summary
+
+- **Headline beat on revenue, miss on profit.** Net Revenue €1,220m (~$1,338m), +19% YoY reported and marginally ahead of Eurobank Equities' €1,203m (Investing.com consensus €1.23bn); Adj. EBITDA €396m (~$434m), +6% YoY, c.10% below Eurobank's €440m, and Operating EBITDA €341m (~$374m) c.13% below Eurobank's €390m and c.20% below Citi. Adj. EPS €0.18 (~$0.20) vs €0.245 consensus.
+- **Strip out M&A and the quarter was +4%/+2%.** On the company's comparable basis (PrizePicks in the prior year; LottoItalia amortisation adjusted), Net Revenue +4% and Adj. EBITDA +2%. PrizePicks accounts for €183m of the €197m YoY revenue increase (93%); organic growth outside it was +€14m on a €1.0bn base.
+- **Margin −410bps to 32.5%: ~half mix, ~half operating.** Consolidating PrizePicks (17.8% margin) is structural dilution; the rest is the LottoItalia amortisation step-up (−€9m/qtr), Continental Europe marketing +21%, corporate costs +€6m, exceptionally customer-friendly sports results in Aug/Sep and a Q3-25 comp that management concedes was one of its highest-margin quarters in years. CFO called aggregate margin comparison 'a little bit misleading'.
+- **EBITDA guidance effectively softened, by Betano and sports results, not North America.** Q1 and Q2 guided FY26 Net Revenue growth 'mid-to-high 20%s' (before c.€60m / ~$66m one-offs) AND a 37% Adj. EBITDA margin. Q3 keeps the revenue guide but replaces 37% with 'within the range of consensus' (€1,769–1,891m / ~$1,941–2,074m, compiled 13 Nov). 37% on ~€5.1–5.2bn implied ~€1.89–1.92bn, i.e. the new range tops out where the old guide started. The drivers are Betano (Brazil shut from 25 Sept; share of net income flat at €35m vs €61m in Q2), customer-friendly sports outcomes (now including October) and lottery comps; North America was the one division running ahead.
+- **Implied Q4 is a wide corridor.** 9M-26 Adj. EBITDA €1,297m (~$1,423m, 35.3% margin) leaves €472–594m (~$518–652m) for Q4 vs €497m in Q4-25 (Allwyn International basis) or ~€572m pro forma including PrizePicks (our estimate). Citi expects the low end; we model ~€1.80–1.84bn (35–36% FY margin) — see Forecast.
+- **Product mix: iGaming and DFS carried the quarter, lottery and sports did not.** iGaming +26% to €151m (~$166m); DFS (PrizePicks, incl. prediction markets) €183m (~$201m), +24% reported/+29% cFX on a 100% basis; lottery −7% to €513m (~$563m) on record Tzoker/EuroMillions jackpots in Q3-25; sports betting +1% to €130m (~$143m) as higher stakes were offset by lower win margins (strong July incl. World Cup final stages, weak August/September); VLTs & casinos +2% to €142m.
+- **Digital now 47% of NGR.** Online NGR €530m (~$581m), +55% reported / +8% comparable, 47% of NGR (37% LY; 45% LY comparable) and 54% of online-eligible NGR. Continental Europe online +8% to €226m (32% share); Eurojackpot online (Greece, Aug) reached one in three online players in month one; UK online −9% to €121m.
+- **World Cup/NFL calendar: a modest net positive, then given back.** July benefited from the FIFA World Cup 2026 latter stages (good sports margins; PrizePicks had 25m+ World Cup line-ups across June/July per the Q2 release) but PrizePicks' July uplift was offset by the later NFL start, and group sports margins turned sharply customer-friendly in Aug/Sep. No group-level World Cup handle/actives are disclosed — a disclosure gap versus listed sportsbook peers.
+- **Operating EBITDA +13% as adjustments fall away.** EBITDA adjustments €55m (~$60m) vs €73m LY and the Q1 peak of €107m; UK transition costs now nil (vs €14m), PrizePicks transaction/retention €9m, IWG acquisition accounting €3m. The residual is dominated by the Allwyn global brand initiative (€30m in Q3, €32m corporate adjustments) — a recurring 'one-off' investors should treat as cost.
+- **UK cost-recovery, not UK growth.** UK Net Revenue −6% cFX to €237m (~$260m) with GGR −11% cFX to €883m (~$969m), yet Adj. EBITDA doubled to €18m (~$20m) because recovery of a portion of the ~£450m transformation spend started in Q2 under the licence's economic model. CAPEX fell to €10m from €38m; Powerball (July, first launch outside the US) has 1.3m+ players; a new leadership team is being installed.
+- **Cost/transformation programmes quantified.** UK: ~£450m transformation complete in Q1-26, CAPEX normalised (group CAPEX €51m, 4.2% of Net Revenue vs 7%); 'substantial majority' of transition costs recoverable over the 10-year licence. Kambi: €50m (~$55m) over 2027–29 to in-source sportsbook technology (capitalised; ~half in 2027) plus 'low tens of millions' of annual opex from 2027, offset by third-party supplier savings. Austria: €40m (~$44m) licence fee payable on award, tender expected 2027 (licence extended to end-2028).
+- **Cash flow weak in the quarter, leverage flat at 3.5x.** FCF €84m (~$92m) vs €215m: working-capital inflow €45m vs €152m, net finance costs paid €138m vs €70m (coupon timing), tax paid €102m. Net debt incl. leases €6,641m (~$7,285m), −€18m QoQ, 3.5x LTM PF Adj. EBITDA of €1,876m; cash €1,941m (~$2,129m) plus €936m (~$1,027m) undrawn facilities and €215m of Austrian money-market investments. CFO: 'above our leverage target' but 'no scenario' of covenant issues; 2026 is 'not a representative year' for cash flow.
+- **Capital returns delivered, but ahead of cash generation.** €150m (~$165m) buyback completed 5 Oct (11.34m shares, avg ~€13.23 — well above the current ~€9.7 price); €0.20 (~$0.22) interim paid 12 Nov with 2% of shares taking scrip; total 2026 distributions €1.00/share (~$1.10) and total returns €1.19/share (~$1.31). A €1/share floor on ~762m shares (~€762m p.a.) exceeds 9M FCF of €609m; management reiterated the floor holds 'even if Brazil remains shut'.
+- **Betano: growth decelerating, Brazil the swing factor.** 100% revenue +17% cFX to €795m (~$872m) (Q1 +31%, Q2 +26%); Operating EBITDA no longer disclosed (Q2: €257m). Brazil's regulated online market was closed by provisional measure on 25 Sept 2026; Betano is preparing mitigation for scenarios where some or all operations do not resume and targets 4 (release) to 5 (call) new countries in early 2027, Spain confirmed. 2026 dividends €701m (~$769m), +40%; Allwyn's ~36.75% share ~€258m (~$283m), including €55m from a €150m post-quarter payment.
+- **M&A/portfolio: small, bolt-on, capability-led.** Australian casinos sold (A$103m / €63m, €3m gain); Next Lotto (Germany) to 64.53% for ~€10m, consolidated from Q4; remaining 30% of IWG bought for USD122m (€107m), payable Q1-27; Brussels casino concession lost from July 2027 (<1% of CE EBITDA). Kambi deal keeps US sportsbook optionality open alongside PrizePicks.
+- **Governance and reporting basis.** Petra Ehmann proposed as INED, taking independents to 50% of the Board per the OPAP-combination commitment; KKCG holds 79.28%, free float 20.72%. IFRS comparatives are OPAP-only and 'differ materially'; all growth rates quoted are non-IFRS look-through. PPA for the OPAP combination is still open (Q3 PPA amortisation €82m; CFO: assume the run-rate persists and exclude from normalised EPS). IFRS profit for the period €37m (~$41m), attributable €22m.
+- **Sell-side response: estimates and targets cut, not raised.** Citi (Neutral, €10.40) sees FY26 Adj. EBITDA near the bottom of the consensus range and had cut its target from €11.70 in October; Eurobank Equities (Hold) held €11.10 on the day, then cut to €9.00 on 25 Nov, trimming PrizePicks EBITDA estimates ~10% for 2026 and 20–25% for 2027–28 and flagging dividend sustainability versus cash flow.
+- **Thesis read-through.** The diversification argument held in Q3 (one weak lever offset elsewhere) but the equity story now rests on (1) PrizePicks sustaining 20%+ growth through Q4/NFL-NBA and Packs, (2) a Brazil resolution or demonstrable Betano mitigation, and (3) deleveraging from 3.5x while paying €1/share. Q4 — the seasonally largest lottery quarter — must deliver ≥€472m of Adj. EBITDA just to reach the bottom of the range management has endorsed.
+
+## 2. Group Financial Summary
+
+| €m (~US$m at 1.097); non-IFRS look-through basis; 9M = sum of Q1–Q3 releases (analyst-computed) | Q3-26 | QoQ | YoY | 9M-26 | 9M YoY |
+|---|---|---|---|---|---|
+| **Revenue** | | | | | |
+| Total Revenue | 2,335 (~$2,561) | −1.7% | +6.0% | 7,104 (~$7,793) | +6.8% |
+| of which GGR (revenue from gaming activities) | 2,234 (~$2,451) | −2.3% | +5.5% | 6,826 (~$7,488) | +6.8% |
+| Gaming taxes & Good Cause contributions | (1,115) (~$1,223) | n/m | −5.4% | (3,434) (~$3,767) | −6.1% |
+| Net Revenue | 1,220 (~$1,338) | −2.1% | +19.3% (comp. +4%) | 3,670 (~$4,026) | +22.6% |
+| **Net Revenue by segment** | | | | | |
+| Continental Europe | 754 (~$827) | +3.1% | +3.4% | 2,239 (~$2,456) | +4.2% |
+| North America (reported; PrizePicks from 16 Jan 26) | 242 (~$265) | −17.7% | n/m (100% basis +21% cFX) | 775 (~$850) | n/m |
+| United Kingdom | 237 (~$260) | +0.4% | −5.2% (−6% cFX) | 697 (~$765) | −0.4% |
+| Corporate & eliminations | (13) (~$14) | n/m | n/m | (41) (~$45) | n/m |
+| **Net Revenue by product** | | | | | |
+| Lottery | 513 (~$563) | +3.0% | −6.9% | 1,498 (~$1,643) | −4.6% |
+| Sports Betting | 130 (~$143) | −10.3% | +0.8% | 434 (~$476) | +8.5% |
+| iGaming | 151 (~$166) | +2.7% | +25.8% | 445 (~$488) | +26.1% |
+| Daily Fantasy Sports (incl. prediction markets) | 183 (~$201) | −20.8% | n/m (100% basis +24%/+29% cFX) | 592 (~$649) | n/m |
+| VLTs & Casinos (retail only) | 142 (~$156) | +5.2% | +2.2% | 423 (~$464) | +3.7% |
+| Net gaming revenue (NGR) | 1,119 (~$1,228) | −3.2% | +19.2% | 3,392 (~$3,721) | +24.2% |
+| Revenue from non-gaming activities | 101 (~$111) | +12.2% | +20.2% | 278 (~$305) | +6.5% |
+| Online NGR | 530 (~$581) | −11.1% | +54.5% (comp. +8%) | 1,666 (~$1,828) | +67.6% |
+| Online share of NGR | 47% | −5pp (52%) | +10pp (37%) | 49.1% | +12.7pp (36.4%) |
+| **Profitability** | | | | | |
+| Adj. EBITDA | 396 (~$434) | −13.5% | +5.9% (comp. +2%) | 1,297 (~$1,423) | +19.3% |
+| Continental Europe | 328 (~$360) | +11.9% | −2.7% (comp. 0%) | 946 (~$1,038) | −1.1% |
+| North America (reported) | 43 (~$47) | −58.7% | n/m (100% basis +26%) | 222 (~$244) | n/m |
+| United Kingdom | 18 (~$20) | −21.7% | +100% | 45 (~$49) | +87.5% |
+| Betano (share of net income, equity-accounted) | 35 (~$38) | −42.6% | +2.9% | 156 (~$171) | +12.2% |
+| Corporate & eliminations | (28) (~$31) | n/m | +75% | (72) (~$79) | +12.5% |
+| Adj. EBITDA margin (% Net Revenue) | 32.5% | −430bps (36.8%) | −410bps (36.6%) | 35.3% | −100bps (36.3%) |
+| EBITDA adjustments (add-backs) | 55 (~$60) | −43.3% | −24.7% | 259 (~$284) | +37.0% |
+| Operating EBITDA (pre add-backs) | 341 (~$374) | −5.5% | +13.3% | 1,038 (~$1,139) | +15.6% |
+| Adj. finance costs, net | (87) (~$95) | n/m | +6% | (278) (~$305) | +46% |
+| Adj. profit before tax | 233 (~$256) | −18.0% | +2.2% | 802 (~$880) | +11.5% |
+| Adj. profit after tax | 186 (~$204) | −22.2% | +24.8% (deferred tax benefit) | 638 (~$700) | +26.1% |
+| Adj. profit attributable to shareholders | 141 (~$155) | −25.0% | +5.2% | 498 (~$546) | +28.0% |
+| Adj. EPS (€) | 0.18 (~$0.20) | −25% (0.24) | −50% vs 0.36 OPAP-basis (n/m) | 0.63 (~$0.69) sum | n/m |
+| IFRS profit for the period / attributable | 37 (~$41) / 22 (~$24) | vs 76 / 53 | vs 62 (Allwyn Intl basis) | n/a | n/a |
+| IFRS diluted EPS (€) | 0.03 (~$0.03) | vs 0.07 | n/m (OPAP-only comp) | n/a | n/a |
+| Group KPI: avg monthly players | n/a (not disclosed) | n/a | n/a | n/a | n/a |
+| **Cash flow & balance sheet** | | | | | |
+| CAPEX | 51 (~$56) | +34.2% | −29.2% | 141 (~$155) | −26.6% |
+| Adj. EBITDA − CAPEX | 345 (~$378) | −17.9% | +14.2% | 1,156 (~$1,268) | +29.2% |
+| Net cash from operating activities (IFRS) | 88 (~$97) | n/a | −58.7% (213) | n/a | n/a |
+| Free cash flow (company definition) | 84 (~$92) | −78.9% (398) | −60.9% (215) | 609 (~$668) | +22.8% |
+| Cash & cash equivalents | 1,941 (~$2,129) | +11.4% (1,742) | n/m | n/a | n/a |
+| Gross loans & borrowings (book) | 8,388 (~$9,202) | +1.7% (8,245) | n/m | n/a | n/a |
+| Net debt incl. leases | 6,641 (~$7,285) | −0.3% (6,658) | n/m (3,546 Allwyn Intl basis) | n/a | n/a |
+| Net debt / LTM PF Adj. EBITDA | 3.5x | flat (3.5x) | n/m (2.8x at Q1-26) | n/a | n/a |
+| Undrawn committed facilities | 936 (~$1,027) | n/a | n/a | n/a | n/a |
+
+## 3. Segment deep-dive — Continental Europe (Austria, Czech Republic, Greece & Cyprus, Italy 32.5%, Germany, Slovakia)
+
+*Revenue +3% on a record-jackpot comp; Adj. EBITDA −3% (flat ex-LottoItalia amortisation) as marketing outran a flat NGR line.*
+
+### Revenue and markets
+
+**Net Revenue rose 3% YoY and QoQ to €754m (~$827m) against a comp in which GGR had grown 10%.**
+
+- GGR +1% to €1,161m (~$1,274m); gaming taxes and good-cause contributions +2% to €462m; non-gaming revenue +38% to €55m helped the net line.
+- Austria led with +10%, Czech Republic grew 4%, Greece & Cyprus broadly stable.
+- Greece & Cyprus carried the Tzoker jackpot comp (record high in August 2025) and the brunt of customer-friendly sports results given OPAP's large sportsbook.
+
+### Product performance
+
+**iGaming was again the engine, +26% to €151m (~$166m), while lottery fell 8% to €276m (~$303m).**
+
+- Sports betting +1% to €130m (~$143m): higher amounts staked offset by lower win margins.
+- VLTs & casinos edged up 2% to €142m (~$156m).
+- Sequentially lottery rose 5% and sports betting fell 10% from the World Cup-boosted Q2.
+- Not disclosed: sportsbook handle, net or structural win margin, promotional intensity, actives or ARPU, so the volume/price/luck split rests on management's directional commentary.
+
+### Digital
+
+**Online NGR grew 8% to €226m (~$248m), lifting online share of NGR to 32% from 30%.**
+
+- Share of online-eligible NGR rose to 41% from 38%.
+- Eurojackpot online launched in Greece in August, reaching one in three online players in its first month; Greece's first Eurojackpot jackpot winner (€38m) drawn the week of results.
+- Keno upgraded in the Czech Republic; gold-payout scratchcard run in Austria.
+- Nine-month online NGR €715m (~$784m), +15%, online share 34% versus 31% — a steady, not spectacular, mix shift for a lottery-led estate.
+
+### EBITDA and costs
+
+**Adjusted EBITDA fell 3% to €328m (~$360m), 43.5% margin, −270bps YoY but +340bps QoQ; flat ex-LottoItalia amortisation.**
+
+- Entire YoY decline is the LottoItalia licence-fee amortisation step-up after the 30 Nov 2025 renewal: share of equity-method profit fell to €8m from €19m (€9m amortisation effect).
+- Marketing +21% to €80m, 10.6% of Net Revenue versus 9.1% (9M: €255m, 11.4% vs 10.1%); agents' commissions and services +3% to €305m; personnel −2% to €121m.
+- Operating costs grew faster than a +1% NGR; Q3-25 was one of the highest-margin quarters in years, so 9M margin of 42.3% (vs 44.5%) is the better run-rate guide.
+- CAPEX €15m (−17%); Adj. EBITDA − CAPEX €313m (~$343m).
+
+### Portfolio and licences
+
+**Active housekeeping: Australian casinos sold, Next Lotto control taken, Austrian lottery licence extended to end-2028.**
+
+- Non-core Australian casinos sold in August for A$103m (€63m / ~$69m, €3m gain).
+- Next Lotto (Germany) stake rose to 46.29% in September and a controlling 64.53% in October for ~€10m, consolidated from Q4.
+- Brussels casino concession awarded to another operator from July 2027 (under 1% of segment EBITDA in 2025).
+- Austrian exclusive lottery licence extended from September 2027 to end-2028; tender expected in 2027, €40m (~$44m) fee on award, 15-year term, bid coordinated with ÖBAG; Greek legacy games licence runs to 2030.
+- Austrian gaming-tax increase annualised in Q2, no longer a drag; c.€60m (~$66m) of 2026 one-off revenue impacts in guidance sit in this segment.
+
+| €m (~US$m at 1.097); look-through basis | Q3-26 | QoQ | YoY | 9M-26 | 9M YoY |
+|---|---|---|---|---|---|
+| GGR | 1,161 (~$1,274) | +2.4% | +1.5% | 3,475 (~$3,812) | +5.0% |
+| Revenue from non-gaming activities | 55 (~$60) | +31.0% | +37.5% | 136 (~$149) | +16.2% |
+| Gaming taxes & Good Cause contributions | (462) (~$507) | +3.8% | +1.5% | (1,372) (~$1,505) | +7.5% |
+| Net Revenue | 754 (~$827) | +3.1% | +3.4% | 2,239 (~$2,456) | +4.2% |
+| Lottery | 276 (~$303) | +5.3% | −8.3% | 801 (~$879) | −8.0% |
+| Sports Betting | 130 (~$143) | −10.3% | +0.8% | 434 (~$476) | +8.5% |
+| iGaming | 151 (~$166) | +2.7% | +25.8% | 445 (~$488) | +26.1% |
+| VLTs & Casinos | 142 (~$156) | +5.2% | +2.2% | 423 (~$464) | +3.7% |
+| Net gaming revenue (NGR) | 699 (~$767) | +1.5% | +1.5% | 2,103 (~$2,307) | +3.5% |
+| Online NGR | 226 (~$248) | −7.0% | +7.6% | 715 (~$784) | +14.8% |
+| Online share of NGR / of online-eligible NGR | 32% / 41% | −3pp / −3pp | +2pp / +3pp | 34.0% / n/a | +3.3pp / n/a |
+| Country growth (Net Revenue YoY) | Austria +10%; Czech +4%; Greece & Cyprus ~flat | — | — | n/a | n/a |
+| Marketing services | (80) (~$88) | −14.9% | +21.2% | (255) (~$280) | +18.1% |
+| Marketing % of Net Revenue | 10.6% | −230bps (12.9%) | +150bps (9.1%) | 11.4% | +130bps (10.1%) |
+| Agents' commissions, materials & services | (305) (~$335) | +2.3% | +2.7% | (905) (~$993) | +3.9% |
+| Personnel & other opex | (121) (~$133) | −3.2% | −1.6% | (373) (~$409) | +2.8% |
+| Share of profit of equity investees (LottoItalia, Next Lotto) | 8 (~$9) | 0% | −57.9% | 26 (~$29) | −52.7% |
+| Operating EBITDA | 321 (~$352) | +11.1% | −2.7% | 928 (~$1,018) | −1.8% |
+| Adj. EBITDA | 328 (~$360) | +11.9% | −2.7% (0% ex-LottoItalia amortisation) | 946 (~$1,038) | −1.1% |
+| Adj. EBITDA margin | 43.5% | +340bps (40.1%) | −270bps (46.2%) | 42.3% | −220bps (44.5%) |
+| CAPEX | 15 (~$16) | +25% | −16.7% | 53 (~$58) | +3.9% |
+| Adj. EBITDA − CAPEX | 313 (~$343) | +11.4% | −1.9% | 893 (~$980) | −1.4% |
+| Sportsbook handle / net margin / promo % handle / actives / ARPU | n/a (not disclosed) | n/a | n/a | n/a | n/a |
+
+## 4. Segment deep-dive — North America (PrizePicks, Allwyn LS Group incl. Illinois Lottery PMA, IWG) — 100% basis
+
+*PrizePicks re-accelerated to +29% cFX with customer activity +30%+ and EBITDA +26%, but the H1 wobble and a 17.8% Q3 margin keep the valuation debate open.*
+
+### Revenue
+
+**North America Net Revenue grew 21% cFX (20% reported) to €242m (~$265m), with PrizePicks +29% cFX to €183m (~$201m).**
+
+- Reported comparative is just €55m because PrizePicks was consolidated from 16 January 2026.
+- Customer activity (DFS entry fees plus real cash committed to prediction-market contracts, not notional value) up more than 30% YoY across both DFS and prediction markets.
+- No material sports-outcome effect; World Cup helped July but was offset by the later NFL start.
+- Non-gaming revenue (Illinois fee and allowance, IWG, Allwyn Lottery Solutions) +7% to €59m; Net Revenue −18% QoQ from Q2's €294m, the usual summer trough.
+- PrizePicks was €236m vs €239m in Q1 and €231m vs €235m in Q2, so part of Q3's +29% is normalisation; 9M segment revenue up only 5% on 100% basis.
+
+### Engagement and product
+
+**Engagement indicators were uniformly positive but almost entirely qualitative, with Packs launched in October.**
+
+- PrizePicks described as clear DFS market leader on 24-month app downloads; monthly actives grew from August low and accelerated into NFL, NHL and NBA starts.
+- October saw record customer activity; November month-to-date MAUs up double-digit percentage YoY (Q2 release had June paying MAUs +18%).
+- Packs: collectible trading-card packs with genuine ownership of graded, physically deliverable cards, grail cards valued up to $8m, a ~$3m Dylan Harper rookie card from a $25 pack.
+- Management says majority of loyal DFS customers have bought Packs; it reactivates dormant players, is year-round and independent of sports outcomes; PrizePicks acts as broker in prediction markets without outcome risk.
+- Missing: absolute MAUs, ARPU, DFS versus prediction-market revenue split and hold-rate disclosure, so the 'ecosystem' thesis cannot be stress-tested.
+
+### EBITDA and marketing
+
+**Adjusted EBITDA rose 26% to €43m (~$47m), 17.8% margin, +100bps YoY but −1,760bps QoQ on seasonally low revenue.**
+
+- Marketing flat QoQ at €75m (~$82m), +14% YoY, 31.0% of Net Revenue (32.7% LY; 25.5% in Q2 when World Cup acquisition spend was €25m above prior year).
+- Materials and services €74m (+12%), personnel €65m (−2%); EBITDA adjustments fell to €13m from €29m (transaction and retention €9m, IWG earn-out/put €3m).
+- CFO cautioned Q1–Q2 unadjusted cost lines were inflated by acquisition-related items.
+- 9M Adj. EBITDA €245m on 100% basis, −12% YoY, the number bears will cite; Illinois fee structure is largely cost pass-through, diluting margin not EBITDA.
+- CAPEX €13m (+44%); marketing to be flexed on CAC and payback, with Packs expected to lift retention and reduce acquisition spend.
+
+### Strategy and risks
+
+**Ownership of capabilities tightened, but Eurobank cut PrizePicks EBITDA estimates and regulatory risk is unaddressed.**
+
+- Remaining 30% of IWG bought in October after put exercise for USD122m (€107m / ~$117m), payable Q1-27.
+- Kambi agreement gives a US-proven sportsbook stack kept available for a potential US sportsbook alongside PrizePicks.
+- Illinois PMA three-year extension passed both chambers as of Q1 with commercial terms outstanding; no Q3 update.
+- Q4 is PrizePicks' largest quarter and first full Packs period; Eurobank Equities cut PrizePicks EBITDA estimates ~10% for 2026 and 20–25% for 2027–28.
+- DFS pick'em and sports-event prediction markets remain contested at state and federal level; the release is silent on it.
+
+| €m (~US$m at 1.097); 100% basis (PrizePicks in both periods) unless stated | Q3-26 | QoQ | YoY | 9M-26 | 9M YoY |
+|---|---|---|---|---|---|
+| GGR | 190 (~$208) | −20.2% | +25% (+30% cFX) | n/a | n/a |
+| Revenue from non-gaming activities (Illinois PMA, tech/content) | 59 (~$65) | −6.3% | +7.3% | 183 (~$201) | +8.3% |
+| Total Revenue | 249 (~$273) | −17.3% | +20% (+22% cFX) | n/a | n/a |
+| Net Revenue (100% basis) | 242 (~$265) | −17.7% | +20% (+21% cFX) | 833 (~$914) | +5.4% |
+| Net Revenue (reported, consolidated) | 242 (~$265) | −17.7% | n/m (55) | 775 (~$850) | n/m (169) |
+| PrizePicks Net Revenue = DFS incl. prediction markets | 183 (~$201) | −20.8% | +24% (+29% cFX) | 650 (~$713) | +4.7% |
+| Customer activity (amounts staked & purchased) | n/a (>+30% YoY) | n/a | > +30% | n/a | n/a (Q2 > +35%) |
+| Monthly active users | n/a (up sequentially from Aug low; Nov MTD +double-digit % YoY) | n/a | n/a (June paying MAUs +18%) | n/a | n/a |
+| Marketing services | (75) (~$82) | 0% | +13.6% | (228) (~$250) | +9.1% |
+| Marketing % of Net Revenue | 31.0% | +550bps (25.5%) | −170bps (32.7%) | 27.4% | +90bps (26.5%) |
+| Materials, consumables & services | (74) (~$81) | −7.5% | +12.1% | (264) (~$290) | +32% |
+| Personnel & other opex | (65) (~$71) | −8.5% | −1.5% | (238) (~$261) | +37% |
+| Operating EBITDA | 30 (~$33) | −57.7% | n/m (5) | 112 (~$123) | −46.9% |
+| EBITDA adjustments | 13 (~$14) | −60.6% | −55.2% | 133 (~$146) | +98.5% |
+| Adj. EBITDA (100% basis) | 43 (~$47) | −58.7% | +26.5% | 245 (~$269) | −11.9% |
+| Adj. EBITDA (reported, consolidated) | 43 (~$47) | −58.7% | n/m (10) | 222 (~$244) | n/m (31) |
+| Adj. EBITDA margin | 17.8% | −1,760bps (35.4%) | +100bps (16.8%) | 29.4% | −580bps (35.2%) |
+| CAPEX | 13 (~$14) | +30% | +44% | 32 (~$35) | n/m |
+| Adj. EBITDA − CAPEX | 30 (~$33) | −68.1% | +20% | 213 (~$234) | n/m |
+| Online share of NGR | 100% | — | — | 100% | — |
+| ARPU / hold rate / DFS vs prediction split | n/a (not disclosed) | n/a | n/a | n/a | n/a |
+
+## 5. Segment deep-dive — United Kingdom (Allwyn UK — The National Lottery, fourth licence from Feb 2024)
+
+*Ticket sales still falling (GGR −11% cFX) but Adj. EBITDA doubled on contractual recovery of the ~£450m transformation spend; profit is a mechanism, not momentum.*
+
+### Sales and demand
+
+**UK Net Revenue €237m (~$260m), −6% cFX, while GGR fell 11% cFX (−9% reported) to €883m (~$969m).**
+
+- Explanations: strong comparative with favourable EuroMillions jackpot cycles, and players adjusting to the new website and app from Q1.
+- Partly offset by Powerball, launched in July as first deployment outside the United States, already with more than 1.3m players.
+- GGR has fallen YoY in Q1 (−4% cFX), Q2 (−14% cFX) and Q3 (−11% cFX).
+- Online NGR fell 9% to €121m (~$133m), online share 51% from 53% — erosion concentrated in the channel the £450m transformation was built to grow.
+- Other initiatives: enhanced Lotto format (June), £10 instant-win games, £10 scratchcard pilot from September, 1,700+ quick-commerce stores selling scratchcards.
+
+### Cost recovery economics
+
+**Adj. EBITDA doubled to €18m (~$20m), 7.6% margin, as Allwyn began recovering the ~£450m transformation investment.**
+
+- Gaming taxes and good-cause contributions −11% to €646m (73.2% of GGR vs 74.3%); agents' commissions, materials and services −21% to €119m.
+- Margin +400bps YoY (9.7% in Q2); marketing flat at €62m (26.2% of Net Revenue vs 24.8%); personnel −10% to €38m; transition-cost adjustments nil vs €14m.
+- CAPEX fell to €10m from €38m (€13m in Q2); Adj. EBITDA − CAPEX swung to +€8m from −€29m.
+- 9M Adj. EBITDA €45m (~$49m) vs €24m on flat Net Revenue €697m (~$765m); CAPEX €41m vs €107m; 'substantial majority' of transition costs recoverable over the 10-year licence.
+
+### Outlook and analyst view
+
+**The cash-flow turn is real and largely contractual, dependable but finite; the operating recovery is unproven.**
+
+- Management framed 'restoring momentum' and 'progressively restore sustainable growth'; new leadership team being installed for the next stage of transformation.
+- Returns to Good Causes are lower YoY; a lottery monopoly losing double-digit GGR for three quarters is a regulatory as well as commercial sensitivity.
+- Q4 is the seasonally strongest lottery quarter; EuroMillions/Powerball jackpot cycle is the main swing factor into year-end.
+- We would want GGR declines to narrow to low single digits and online NGR to return to growth before crediting the UK beyond cost recovery.
+
+> “especially in digital” — Management
+
+| €m (~US$m at 1.097) | Q3-26 | QoQ | YoY | 9M-26 | 9M YoY |
+|---|---|---|---|---|---|
+| GGR (ticket sales net of prizes) | 883 (~$969) | −3.4% | −9.3% (−11% cFX) | 2,739 (~$3,005) | −11.1% |
+| Gaming taxes & Good Cause contributions | (646) (~$709) | −4.7% | −10.8% | (2,042) (~$2,240) | −14.3% |
+| Taxes & Good Causes % of GGR | 73.2% | −100bps (74.2%) | −110bps (74.3%) | 74.6% | −270bps (77.3%) |
+| Net Revenue (= Lottery NGR) | 237 (~$260) | +0.4% | −5.2% (−6% cFX) | 697 (~$765) | −0.4% |
+| Online NGR | 121 (~$133) | −0.8% | −9.0% | 359 (~$394) | −3.2% |
+| Online share of NGR | 51% | −1pp (52%) | −2pp (53%) | 51.5% | −1.5pp (53%) |
+| Agents' commissions, materials & services | (119) (~$131) | +6.3% | −21.2% | (359) (~$394) | −18.8% |
+| Marketing services | (62) (~$68) | −6.1% | 0% | (185) (~$203) | +12.8% |
+| Marketing % of Net Revenue | 26.2% | −180bps (28.0%) | +140bps (24.8%) | 26.5% | +310bps (23.4%) |
+| Personnel & other opex | (38) (~$42) | +5.6% | −9.5% | (114) (~$125) | −1.7% |
+| Operating EBITDA | 18 (~$20) | −25% | n/m (−5) | 41 (~$45) | n/m (−19) |
+| EBITDA adjustments (transition costs) | 0 | n/m (−1) | n/m (14) | 4 (~$4) | −90.7% (43) |
+| Adj. EBITDA | 18 (~$20) | −21.7% | +100% | 45 (~$49) | +87.5% |
+| Adj. EBITDA margin | 7.6% | −210bps (9.7%) | +400bps (3.6%) | 6.5% | +310bps (3.4%) |
+| CAPEX | 10 (~$11) | −23.1% | −73.7% | 41 (~$45) | −61.7% |
+| Adj. EBITDA − CAPEX | 8 (~$9) | −20% | n/m (−29) | 4 (~$4) | n/m (−83) |
+| Powerball players since July launch | >1.3m | n/a | n/a | n/a | n/a |
+| Quick-commerce stores enabled | >1,700 | n/a | n/a | n/a | n/a |
+
+## 6. Segment deep-dive — Betano (Kaizen Gaming) — ~36.75% equity-accounted; 100% basis unless stated
+
+*Revenue +17% cFX but decelerating; share of net income flat at €35m and EBITDA disclosure dropped; Brazil closed from 25 Sept is the 2027 swing factor.*
+
+### Revenue and earnings
+
+**Betano revenue grew 17% cFX (21% reported) to €795m (~$872m), decelerating from +31% in Q1 and +26% in Q2.**
+
+- Sequentially revenue fell 18% (Q1 €788m, Q2 €972m); sports margins exceptionally customer-friendly in both Q3-26 and Q3-25.
+- Final days of the quarter carried the first impact of Brazil's regulated online sports betting and iGaming closure, provisional measure effective 25 September 2026.
+- Allwyn's share of net income +3% to €35m (~$38m), 43% below Q2's €61m.
+- Release no longer shows Betano Operating EBITDA (Q2: €257m, +24%); CFO declined to add anything — a step back in transparency at the wrong moment.
+- 9M revenue €2,555m (~$2,803m), +25%; Allwyn 9M equity income €156m (~$171m), 12% of group Adj. EBITDA.
+
+### Dividends and footprint
+
+**Betano paid €150m (~$165m) after the quarter, Allwyn's share ~€55m (~$60m); 2026 dividends total €701m (~$769m), +40%.**
+
+- No dividend received in Q3; Allwyn's 2026 share ~€258m (~$283m) vs €184m.
+- Betano is net cash with no debt and committed to pay 'material dividends in 2027 in any scenario'.
+- Brazil was the largest market in Q3 but the rest of a 20-plus-country footprint contributes the majority of revenue.
+- Four new countries targeted for early 2027 per release (five per call, Spain confirmed), taking footprint to 24; Chile regulatory initiatives monitored with scenario plans; country split not disclosed.
+
+> “many levers to optimize cash flow” — Management
+
+### Analyst read
+
+**The 2027 Betano dividend is the single biggest determinant of whether the €1/share (~$1.10) distribution is funded from cash flow or balance sheet.**
+
+- Eurobank Equities removes Brazil from its Betano valuation, estimating a cost to Allwyn of c.3% of consolidated Adj. EBITDA and 5–6% of adjusted net profit in 2026 and 2027.
+- That looks light if Brazil stays shut all year given it was the largest market, but Betano's speed to scale in new markets is a genuine offset.
+- Kambi decision confirms Allwyn is building its own sportsbook capability independent of the associate, keeping US sportsbook optionality separate from Betano's roadmap.
+
+| €m (~US$m at 1.097); Betano 100% basis except Allwyn share lines | Q3-26 | QoQ | YoY | 9M-26 | 9M YoY |
+|---|---|---|---|---|---|
+| Total Revenue (100%) | 795 (~$872) | −18.2% | +21% (+17% cFX) | 2,555 (~$2,803) | +25.0% |
+| Operating EBITDA (100%) | n/a (not disclosed in Q3) | vs 257 in Q2 | n/a | n/a | n/a |
+| Allwyn share of net income (in group Adj. EBITDA) | 35 (~$38) | −42.6% | +2.9% | 156 (~$171) | +12.2% |
+| Dividends received by Allwyn | 0 | vs 129 (~$142) | vs 55 (~$60) | 203 (~$223) | n/a |
+| Post-quarter dividend (Oct/Nov) — Allwyn share | ~55 (~$60) of 150 (~$165) | n/a | n/a | FY26 ~258 (~$283) of 701 (~$769) | +40% (Allwyn 184 LY) |
+| Markets | 20+; Brazil closed from 25 Sept 2026 | — | — | +4–5 new in early 2027 (Spain confirmed) | — |
+| Sports handle / net margin / actives | n/a (not disclosed) | n/a | n/a | n/a | n/a |
+
+## 7. Highlights & Lowlights
+
+**Highlights**
+
+- PrizePicks re-accelerated: Net Revenue +29% cFX (+24% reported) to €183m (~$201m) with customer activity >+30% YoY across DFS and prediction markets, Adj. EBITDA +26% to €43m (~$47m) on a 100% basis, record customer activity in October and Nov MTD MAUs +double-digit % YoY; Packs adds a year-round, outcome-independent vertical. _(structural)_
+- iGaming +26% to €151m (~$166m) and online NGR +8% comparable (47% of group NGR; Continental Europe 32%, +2pp): the digital mix shift continues through a weak lottery/sports quarter, and Eurojackpot online reached one in three Greek online players in its first month. _(structural)_
+- UK cash flow has turned: Adj. EBITDA doubled to €18m (~$20m), CAPEX fell to €10m from €38m, transition-cost adjustments to nil from €14m, and Adj. EBITDA − CAPEX swung to +€8m from −€29m as recovery of the ~£450m transformation spend runs under the licence; group CAPEX is now 4.2% of Net Revenue vs 7%. _(structural)_
+- Operating EBITDA (pre add-backs) +13% to €341m (~$374m) with adjustments halved from the Q1 peak to €55m (~$60m); Adj. EBITDA − CAPEX +14% to €345m (~$378m) — the quality-of-earnings gap between operating and adjusted is narrowing as promised. _(structural)_
+- Capital returns delivered on schedule: €150m (~$165m) buyback completed, €0.20 (~$0.22) interim paid, €1.00/share (~$1.10) distributions and €1.19/share (~$1.31) total returns in 2026; the €1/share floor was reiterated 'even if Brazil remains shut', and no material debt maturities fall before 2029. _(mixed)_
+- Betano cash remains strong despite Brazil: €150m (~$165m) dividend paid after the provisional measure, 2026 dividends €701m (~$769m) +40%, Allwyn's share ~€258m (~$283m); net cash, no debt, 4–5 new markets in early 2027 (Spain confirmed). _(mixed)_
+- Capability in-sourcing at modest cost: Kambi perpetual source-code licence for €50m (~$55m) over 2027–29 (capitalised) with offsetting third-party supplier savings; full ownership of IWG (USD122m / €107m); Next Lotto consolidated from Q4 — all bolt-on, none balance-sheet-stretching. _(structural)_
+
+**Lowlights**
+
+- The 37% FY26 Adj. EBITDA margin guide from Q1/Q2 was replaced by 'within the consensus range' (€1,769–1,891m / ~$1,941–2,074m) without being called a cut; 37% on guided revenue implied ~€1.89–1.92bn (est.), i.e. the top of the new range. 9M margin is 35.3% and Q3 32.5% (−410bps YoY). Citi expects the low end. _(governance)_
+- Betano's Brazil market closed on 25 Sept 2026 by provisional measure, with no reopening timetable; Betano revenue growth has decelerated from +31% to +17% cFX across 2026, share of net income fell to €35m (~$38m) from €61m QoQ, and Betano's Operating EBITDA is no longer disclosed. _(structural)_
+- Q3 profit missed the sell side: Adj. EBITDA €396m (~$434m) ~10% below Eurobank Equities' €440m; Operating EBITDA €341m ~13% below Eurobank and ~20% below Citi; Adj. EPS €0.18 (~$0.20) vs €0.245 consensus. Comparable growth of +4% revenue / +2% EBITDA is well below the high-single-digit medium-term ambition flagged by Barclays on the call. _(mixed)_
+- Leverage 3.5x (net debt incl. leases €6,641m / ~$7,285m), above the company's own target, while the €1/share floor (~€762m p.a.) exceeds 9M FCF of €609m (~$668m); Q3 FCF was only €84m (~$92m) as net finance costs paid rose to €138m and working-capital inflow shrank to €45m from €152m. Sofokleous10/Eurobank flag the dividend as cash-flow-uncovered in 2026 (management: 'not a representative year'). _(watch)_
+- UK demand is still shrinking: GGR −11% cFX (third consecutive quarterly decline), online NGR −9% with the online share down to 51%, and Good Cause returns lower; the EBITDA improvement is a contractual cost-recovery mechanism, not operating leverage, and a new leadership team is only now being installed. _(structural)_
+- Cost creep beneath the surface: Continental Europe marketing +21% (10.6% of NR vs 9.1%) on +1% NGR; corporate costs +€6m with eliminations 'creeping up'; the Allwyn brand initiative (€30m in Q3, recurring since 2025) is still treated as an EBITDA add-back; Kambi adds 'low tens of millions' of annual opex from 2027. _(watch)_
+- Sports-outcome and jackpot luck were both adverse: group sports betting +1% and lottery −7% on Tzoker/EuroMillions record-jackpot comps, with exceptionally customer-friendly results in Aug/Sep and, per the CFO, October too — already baked into Q4 guidance, which is why the implied Q4 corridor is so wide. _(one-off)_
+
+## 8. Forecast & Outlook
+
+Old versus new: at Q1 (4 June) and Q2 (27 Aug) Allwyn guided FY26 consolidated Net Revenue growth of 'mid-to-high 20%s' before c.€60m (~$66m, c.−2%) of one-off Continental Europe impacts AND an Adj. EBITDA margin of 37%. At Q3 the revenue guide is reaffirmed but the margin guide is gone, replaced by 'Adj. EBITDA within the range of consensus expectations' — a company-compiled €1,769–1,891m (~$1,941–2,074m) as of 13 Nov — and management confirmed the outlook already factors in customer-friendly October sports results. Arithmetically, 37% on an FY26 revenue base of ~€5.1–5.2bn (FY25 €4,112m grown 24–27%) implied ~€1.89–1.92bn, so the new range tops out roughly where the old guide began; at the €1,830m midpoint the effective change is c.−€60–90m (our estimate). The divisions driving the softening are Betano (Brazil closure from 25 Sept, flat equity income) and Continental Europe (LottoItalia amortisation −€9m/qtr, sports margins, marketing +21%), with the UK neutral-to-positive on cost recovery and North America (PrizePicks EBITDA +26%) the only division running ahead. With 9M Adj. EBITDA at €1,297m (~$1,423m), the implied Q4 is €472–594m (~$518–652m) against €497m in Q4-25 on the Allwyn International basis (~€572m pro forma including ~€75m of PrizePicks, our estimate from the disclosed €83m for 1 Oct 25–15 Jan 26).
+
+- **Prior FY26 guide (Q1/Q2): 37% Adj. EBITDA margin on mid-to-high 20%s revenue growth:** ≈ €1.89–1.92bn (~$2.07–2.11bn) implied (analyst arithmetic) (Withdrawn at Q3)
+- **New FY26 outlook: 'within consensus range' (company-compiled, 13 Nov):** €1,769–1,891m (~$1,941–2,074m); midpoint €1,830m (~$2,008m) (c.−€60–90m vs old implied at midpoint (est.))
+- **9M-26 Adj. EBITDA delivered:** €1,297m (~$1,423m); 35.3% margin (+19% YoY reported; Q3 +2% comparable)
+- **Implied Q4-26 Adj. EBITDA:** €472–594m (~$518–652m); Citi: low end; our est. ~€505–545m (vs Q4-25 €497m (Allwyn Intl) / ~€572m PF (est.))
+
+**Revenue:** we model Q4-26 Net Revenue of ~€1.44bn (~$1.58bn) — Q4-25 €1,120m plus ~€300–320m of PrizePicks in its seasonally largest quarter (+25% on an estimated ~€250m Q4-25 base, with Packs' first full quarter), Continental Europe +3% and the UK −5% — giving FY26 ~€5.1bn (~$5.6bn), +24% reported or ~+26% before the €60m one-offs: inside the guided range but at its low end, and sensitive to Q4 jackpot cycles (EuroMillions/Powerball/Eurojackpot) and October's sports results. **Margin/EBITDA:** we estimate Q4 Adj. EBITDA of ~€505–545m (~$554–598m): ~€572m pro forma base, less ~€9m LottoItalia amortisation, ~€20–30m lower Betano equity income if Brazil stays shut for the quarter, ~€10m of adverse October sports margins and higher corporate/marketing run-rate, partly offset by ~€15–20m of PrizePicks growth and UK cost recovery. That gives FY26 ~€1.80–1.84bn (~$1.98–2.02bn), a 35–36% margin — lower-to-mid of the consensus range and ~€50–100m below the old 37% guide; we would not model the top of the range. **Leverage:** Q4 is seasonally cash-generative and brings ~€55m from Betano, but the €149m cash interim was paid in November and USD122m for IWG, ~€25m of Kambi capex, the €40m Austrian licence fee and ~€762m of 2027 distributions all sit ahead; we see YE26 net debt/EBITDA of ~3.3–3.5x and a glide path to ~3.0x only by end-2027, and only if Betano's 2027 dividend is at least maintained. **Swing factors:** Brazil (reopening vs. prolonged closure is a ~€100m+ swing in 2027 equity income and dividends, our estimate), PrizePicks Q4 hold and Packs economics, UK digital GGR stabilisation, Austrian licence award and the still-open OPAP PPA (D&A run-rate). On these numbers the equity is being asked to underwrite a 2027 dividend from a balance sheet rather than from demonstrated cash flow, which is why we expect the shares to trade on Brazil headlines and PrizePicks data points rather than on Q4 lottery seasonality.
+
+**What to watch next quarter:**
+
+- Brazil: any reversal, judicial challenge or re-regulation of the 25 Sept provisional measure, Betano's mitigation actions and the size/timing of its 2027 dividends (2026: €701m / ~$769m total, ~€258m / ~$283m to Allwyn).
+- PrizePicks Q4: NFL/NBA season activity, MAU growth (Nov MTD +double-digit %), Packs attach and reactivation metrics, marketing % of revenue (31% in Q3) and any state or federal regulatory action on DFS pick'em / sports prediction markets.
+- Q4 Adj. EBITDA versus the €472m floor implied by the bottom of the consensus range; FY26 margin versus the withdrawn 37% guide; whether 2027 guidance (due with FY results, ~March 2027) restores an explicit margin framework.
+- UK: GGR trend (−11% cFX in Q3) and online NGR (−9%) under the incoming leadership team; Powerball/EuroMillions jackpot cycles; Good Cause contributions and any Gambling Commission scrutiny of the sales decline.
+- Balance sheet: YE26 net debt/EBITDA (3.5x at Q3) versus the €1/share (~$1.10) floor, USD122m IWG payment in Q1-27, ~€25m Kambi capex in 2027, €40m (~$44m) Austrian licence fee on award; finalisation of the OPAP PPA and the IFRS 9M statements (published 26 Nov).
+- Continental Europe cost discipline: marketing (10.6% of NR, +150bps YoY) and corporate costs (+€6m) against ~flat NGR; Austrian lottery licence tender process in 2027; consolidation of Next Lotto from Q4.
+- Disclosure: restoration of Betano Operating EBITDA, and any first disclosure of PrizePicks MAUs/ARPU or OPAP sportsbook handle and margins — the absence of all of these is itself a risk flag for a Euronext Athens large-cap.
+
+### Sources
+
+**Data confidence: MEDIUM.** FX: EUR/USD 1.097 as of 19 Nov 2026 (Yahoo Finance close 1.0972; MTFX 1.0968). All Q3-26 and Q2-26/Q1-26 figures are taken directly from Allwyn's preliminary unaudited results releases (PDFs read in full) and are non-IFRS 'look-through' metrics with Allwyn International comparatives adjusted for 100% of OPAP; IFRS comparatives are OPAP-only and differ materially. 9M-26 figures are analyst sums of the three quarterly releases (the company does not publish 9M in the preliminary release; the IFRS 9M statements of 26 Nov were not reviewed). Q3 consensus Adj. EBITDA was not independently verified — Eurobank Equities' €440m (via Greek financial press) is used as the proxy; Investing.com's revenue/EPS consensus is quoted as reported. The 19 Nov share-price close (~€9.71) is inferred from Investing.com's quote (mislabelled in USD) and Marketscreener's 20 Nov close — flagged [approx.]. Q4-25 pro forma base (~€572m) and the implied old-guide EBITDA (~€1.89–1.92bn) are analyst estimates. The user-supplied Gaming Intelligence article could not be fetched (access error); its headline figures (IFRS operating profit €189m; total revenue ~€2.34bn) were corroborated against the release. Betano stake of ~36.75% is from CasinoBeats and is consistent with disclosed dividend shares (€129m of €351m; ~€55m of €150m). Not disclosed by the company and therefore marked n/a: sportsbook handle, net/structural margins, promo % of handle, group monthly actives/ARPU, PrizePicks absolute MAUs, Betano Q3 Operating EBITDA.
+
+1. [Primary] Allwyn AG — Q3 2026 Preliminary Unaudited Financial Results (press release page, 19 Nov 2026) — https://www.allwyn.com/investors-news/q3-2026-preliminary-unaudited-financial-results
+2. [Primary] Allwyn AG — Q3 2026 Preliminary Unaudited Financial Results, full release PDF (32pp: financial review, business review, cash flow, net debt, APM reconciliations) — https://cdn.allwyn.com/863_8200_2026_English_1_f574ba2f5c.pdf
+3. [Primary] Allwyn AG — Q2 2026 Preliminary Unaudited Financial Results, release PDF (27 Aug 2026; QoQ comparatives and prior 37% margin guidance) — https://media.allwyn.gr/investors/AIlwyn_AG_preliminary_results_release_Q2_2026.pdf
+4. [Primary] Allwyn AG — Q1 2026 Preliminary Unaudited Financial Results, release PDF (4 June 2026; 9M build and original FY26 guidance) — https://cdn.allwyn.com/A_Ilwyn_AG_Q1_preliminary_results_a7ddef147e.pdf
+5. [Primary] Allwyn International — FY2025 Preliminary Unaudited Financial Results (FY25 Net Revenue €4,112m, Adj. EBITDA €1,584m; Q4-25 base) — https://www.allwyn.com/investors-news/allwyn-international-fy-2025-preliminary-unaudited-financial-results-and-update-on-current-trading
+6. [Secondary] Q3 2026 earnings call transcript (19 Nov 2026) — Investing.com — https://in.investing.com/news/stock-market-news/earnings-call-transcript-allwyn-posts-strong-q3-2026-growth-as-cash-returns-rise-93CH-5715758
+7. [Secondary] Allwyn Q3 2026 results presentation summary — Investing.com — https://ng.investing.com/news/stock-market-news/allwyn-q3-2026-slides-revenue-up-19-as-diversification-offsets-headwinds-93CH-2819056
+8. [Secondary] Gaming Intelligence — 'Allwyn grows operating profit to €189 million in Q3' (user-supplied; page inaccessible, headline corroborated via search snippet) — https://www.gamingintelligence.com/finance/239190-allwyn-grows-operating-profit-to-e189-million-in-q3/
+9. [Secondary] NEXT.io — Q3 2026: Allwyn CFO calls margin compression 'misleading' — https://next.io/news/results/q326-allwyn-cfo-margin-compression-misleading/
+10. [Secondary] ot.gr — Citi view on Allwyn FY26 EBITDA after Q3 (Neutral, €10.40; low end of consensus range) — https://www.ot.gr/2026/11/19/epixeiriseis/allwyn-ti-vlepei-i-citi-gia-tin-poreia-ton-ebitda
+11. [Secondary] mononews.gr — Eurobank Equities on Allwyn Q3 (Hold, €11.10; Adj. EBITDA €440m estimate) — https://www.mononews.gr/agores/eurobank-equities-gia-allwyn-sta-1110-evro-i-timi-stochos-anisychies-gia-kerdi-daneismo-kai-merisma
+12. [Secondary] businessdaily.gr — Eurobank Equities cuts Allwyn target to €9.00 (25 Nov 2026; PrizePicks estimate cuts) — https://www.businessdaily.gr/agores/245469_allwyn-meiosi-19-stin-timi-stoho-apo-ti-eurobank-equities
+13. [Secondary] CasinoBeats — Allwyn's 19% Q3 revenue rise leans on PrizePicks (Betano 36.75% stake) — https://casinobeats.com/2026/11/23/allwyns-19-q3-revenue-rise-leans-on-prizepicks-as-margin-slips-to-32-5/
+14. [Secondary] Marketscreener — ALWN (Athens) quotes, 19–20 Nov 2026 — https://www.marketscreener.com/quote/stock/OPAP-1408787/quotes/
+15. [Secondary] Euronext Athens — ALWN instrument page (prior close €9.56) — https://athens.euronext.com/en/market-data/instruments/stocks/ALWN
+16. [Secondary] Yahoo Finance — EUR/USD historical data (19 Nov 2026 close 1.0972) — https://sg.finance.yahoo.com/quote/EURUSD=X/history/
+
+*Research analysis only — not a rating, price target, or personalised investment advice.*
