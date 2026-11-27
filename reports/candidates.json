@@ -871,5 +871,52 @@
       "https://focusgn.com/lithuania-online-gambling-growth"
     ],
     "seen": "2026-11-27"
+  },
+  {
+    "key": "genting malaysia berhad|Q3 2026",
+    "type": "company",
+    "company": "Genting Malaysia Berhad",
+    "ticker": "4715.KL",
+    "period": "Q3 2026",
+    "sector": "gaming",
+    "africa": false,
+    "urls": [
+      "https://www.gamingintelligence.com/finance/239180-genting-malaysia-sees-q3-revenue-soar-on-resorts-world-nyc-expansion/"
+    ],
+    "seen": "2026-11-27"
+  },
+  {
+    "key": "juris|delaware|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "Delaware",
+    "authority": null,
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/239128-delaware-reports-record-sports-and-igaming-wagers-in-october/"
+    ],
+    "seen": "2026-11-27"
+  },
+  {
+    "key": "juris|new york|OCTOBER 2026",
+    "type": "jurisdiction",
+    "market": "New York",
+    "authority": null,
+    "period": "OCTOBER 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/239060-new-york-commercial-casino-revenue-nears-195-million-in-october/"
+    ],
+    "seen": "2026-11-27"
+  },
+  {
+    "key": "juris|lithuania|Q3 2026",
+    "type": "jurisdiction",
+    "market": "Lithuania",
+    "authority": null,
+    "period": "Q3 2026",
+    "urls": [
+      "https://www.gamingintelligence.com/finance/239074-lithuania-gambling-revenue-grows-10-in-q3-2026/",
+      "https://focusgn.com/lithuania-online-gambling-growth"
+    ],
+    "seen": "2026-11-27"
   }
 ]
